@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="forces_task">
+
+    <ItemSpec id="10031" name="110256151" name_para="1" task="1000012" reward="732001" reward1="732021" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10032" name="110256151" name_para="2" task="1000015" reward="732001" reward1="732021" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10033" name="110256151" name_para="3" task="1000018" reward="732001" reward1="732021" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10034" name="110256151" name_para="4" task="1000021" reward="732001" reward1="732021" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10035" name="110256151" name_para="5" task="1000024" reward="732001" reward1="732021" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10036" name="110256151" name_para="6" task="1000027" reward="732001" reward1="732021" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10037" name="110256151" name_para="7" task="1000030" reward="732001" reward1="732021" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10038" name="110256151" name_para="8" task="1000036" reward="732001" reward1="732021" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10039" name="110256151" name_para="9" task="1000039" reward="732001" reward1="732021" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10040" name="110256151" name_para="10" task="1000042" reward="732001" reward1="732021" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10041" name="110256151" name_para="11" task="1000045" reward="732001" reward1="732021" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10042" name="110256151" name_para="12" task="1000048" reward="732001" reward1="732021" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10043" name="110256151" name_para="13" task="1000051" reward="732001" reward1="732021" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10044" name="110256151" name_para="14" task="1000054" reward="732001" reward1="732021" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10045" name="110256151" name_para="15" task="1000057" reward="732001" reward1="732021" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10046" name="110256151" name_para="16" task="1000060" reward="732001" reward1="732021" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10047" name="110256151" name_para="17" task="1000063" reward="732001" reward1="732021" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10048" name="110256151" name_para="18" task="1000022" reward="732006" reward1="732026" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10049" name="110256151" name_para="19" task="1000025" reward="732006" reward1="732026" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10050" name="110256151" name_para="20" task="1000028" reward="732006" reward1="732026" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10051" name="110256151" name_para="21" task="1000067" reward="732006" reward1="732026" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10052" name="110256151" name_para="22" task="1000030|1000039" reward="732006" reward1="732026" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10053" name="110256151" name_para="23" task="1000055|1000058" reward="732006" reward1="732026" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10054" name="110256151" name_para="24" task="1000059|1000064" reward="732006" reward1="732026" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10055" name="110256151" name_para="25" task="1000033|1000065" reward="732006" reward1="732026" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10056" name="110256151" name_para="26" task="1000046|1000058" reward="732006" reward1="732026" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10057" name="110256151" name_para="27" task="1000049|1000058" reward="732006" reward1="732026" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10058" name="110256151" name_para="28" task="1000052|1000058" reward="732006" reward1="732026" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10059" name="110256151" name_para="29" task="1000013|1000021" reward="732006" reward1="732026" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10060" name="110256151" name_para="30" task="1000016|1000024" reward="732006" reward1="732026" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10061" name="110256151" name_para="31" task="1000019|1000027" reward="732006" reward1="732026" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10062" name="110256152" name_para="1" task="1000012" reward="732002" reward1="732022" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10063" name="110256152" name_para="2" task="1000015" reward="732002" reward1="732022" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10064" name="110256152" name_para="3" task="1000018" reward="732002" reward1="732022" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10065" name="110256152" name_para="4" task="1000021" reward="732002" reward1="732022" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10066" name="110256152" name_para="5" task="1000024" reward="732002" reward1="732022" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10067" name="110256152" name_para="6" task="1000027" reward="732002" reward1="732022" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10068" name="110256152" name_para="7" task="1000030" reward="732002" reward1="732022" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10069" name="110256152" name_para="8" task="1000036" reward="732002" reward1="732022" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10070" name="110256152" name_para="9" task="1000039" reward="732002" reward1="732022" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10071" name="110256152" name_para="10" task="1000042" reward="732002" reward1="732022" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10072" name="110256152" name_para="11" task="1000045" reward="732002" reward1="732022" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10073" name="110256152" name_para="12" task="1000048" reward="732002" reward1="732022" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10074" name="110256152" name_para="13" task="1000051" reward="732002" reward1="732022" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10075" name="110256152" name_para="14" task="1000054" reward="732002" reward1="732022" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10076" name="110256152" name_para="15" task="1000057" reward="732002" reward1="732022" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10077" name="110256152" name_para="16" task="1000060" reward="732002" reward1="732022" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10078" name="110256152" name_para="17" task="1000063" reward="732002" reward1="732022" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10079" name="110256152" name_para="18" task="1000022" reward="732007" reward1="732027" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10080" name="110256152" name_para="19" task="1000025" reward="732007" reward1="732027" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10081" name="110256152" name_para="20" task="1000028" reward="732007" reward1="732027" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10082" name="110256152" name_para="21" task="1000067" reward="732007" reward1="732027" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10083" name="110256152" name_para="22" task="1000030|1000039" reward="732007" reward1="732027" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10084" name="110256152" name_para="23" task="1000055|1000058" reward="732007" reward1="732027" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10085" name="110256152" name_para="24" task="1000059|1000064" reward="732007" reward1="732027" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10086" name="110256152" name_para="25" task="1000033|1000065" reward="732007" reward1="732027" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10087" name="110256152" name_para="26" task="1000046|1000058" reward="732007" reward1="732027" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10088" name="110256152" name_para="27" task="1000049|1000058" reward="732007" reward1="732027" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10089" name="110256152" name_para="28" task="1000052|1000058" reward="732007" reward1="732027" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10090" name="110256152" name_para="29" task="1000013|1000021" reward="732007" reward1="732027" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10091" name="110256152" name_para="30" task="1000016|1000024" reward="732007" reward1="732027" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10092" name="110256152" name_para="31" task="1000019|1000027" reward="732007" reward1="732027" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10093" name="110256153" name_para="1" task="1000012" reward="732003" reward1="732023" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10094" name="110256153" name_para="2" task="1000015" reward="732003" reward1="732023" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10095" name="110256153" name_para="3" task="1000018" reward="732003" reward1="732023" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10096" name="110256153" name_para="4" task="1000021" reward="732003" reward1="732023" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10097" name="110256153" name_para="5" task="1000024" reward="732003" reward1="732023" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10098" name="110256153" name_para="6" task="1000027" reward="732003" reward1="732023" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10099" name="110256153" name_para="7" task="1000030" reward="732003" reward1="732023" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10100" name="110256153" name_para="8" task="1000036" reward="732003" reward1="732023" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10101" name="110256153" name_para="9" task="1000039" reward="732003" reward1="732023" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10102" name="110256153" name_para="10" task="1000042" reward="732003" reward1="732023" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10103" name="110256153" name_para="11" task="1000045" reward="732003" reward1="732023" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10104" name="110256153" name_para="12" task="1000048" reward="732003" reward1="732023" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10105" name="110256153" name_para="13" task="1000051" reward="732003" reward1="732023" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10106" name="110256153" name_para="14" task="1000054" reward="732003" reward1="732023" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10107" name="110256153" name_para="15" task="1000057" reward="732003" reward1="732023" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10108" name="110256153" name_para="16" task="1000060" reward="732003" reward1="732023" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10109" name="110256153" name_para="17" task="1000063" reward="732003" reward1="732023" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10110" name="110256153" name_para="18" task="1000022" reward="732008" reward1="732028" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10111" name="110256153" name_para="19" task="1000025" reward="732008" reward1="732028" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10112" name="110256153" name_para="20" task="1000028" reward="732008" reward1="732028" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10113" name="110256153" name_para="21" task="1000067" reward="732008" reward1="732028" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10114" name="110256153" name_para="22" task="1000030|1000039" reward="732008" reward1="732028" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10115" name="110256153" name_para="23" task="1000055|1000058" reward="732008" reward1="732028" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10116" name="110256153" name_para="24" task="1000059|1000064" reward="732008" reward1="732028" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10117" name="110256153" name_para="25" task="1000033|1000065" reward="732008" reward1="732028" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10118" name="110256153" name_para="26" task="1000046|1000058" reward="732008" reward1="732028" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10119" name="110256153" name_para="27" task="1000049|1000058" reward="732008" reward1="732028" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10120" name="110256153" name_para="28" task="1000052|1000058" reward="732008" reward1="732028" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10121" name="110256153" name_para="29" task="1000013|1000021" reward="732008" reward1="732028" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10122" name="110256153" name_para="30" task="1000016|1000024" reward="732008" reward1="732028" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10123" name="110256153" name_para="31" task="1000019|1000027" reward="732008" reward1="732028" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10124" name="110256154" name_para="1" task="1000012" reward="732004" reward1="732024" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10125" name="110256154" name_para="2" task="1000015" reward="732004" reward1="732024" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10126" name="110256154" name_para="3" task="1000018" reward="732004" reward1="732024" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10127" name="110256154" name_para="4" task="1000021" reward="732004" reward1="732024" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10128" name="110256154" name_para="5" task="1000024" reward="732004" reward1="732024" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10129" name="110256154" name_para="6" task="1000027" reward="732004" reward1="732024" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10130" name="110256154" name_para="7" task="1000030" reward="732004" reward1="732024" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10131" name="110256154" name_para="8" task="1000036" reward="732004" reward1="732024" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10132" name="110256154" name_para="9" task="1000039" reward="732004" reward1="732024" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10133" name="110256154" name_para="10" task="1000042" reward="732004" reward1="732024" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10134" name="110256154" name_para="11" task="1000045" reward="732004" reward1="732024" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10135" name="110256154" name_para="12" task="1000048" reward="732004" reward1="732024" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10136" name="110256154" name_para="13" task="1000051" reward="732004" reward1="732024" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10137" name="110256154" name_para="14" task="1000054" reward="732004" reward1="732024" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10138" name="110256154" name_para="15" task="1000057" reward="732004" reward1="732024" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10139" name="110256154" name_para="16" task="1000060" reward="732004" reward1="732024" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10140" name="110256154" name_para="17" task="1000063" reward="732004" reward1="732024" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10141" name="110256154" name_para="18" task="1000022" reward="732009" reward1="732029" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10142" name="110256154" name_para="19" task="1000025" reward="732009" reward1="732029" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10143" name="110256154" name_para="20" task="1000028" reward="732009" reward1="732029" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10144" name="110256154" name_para="21" task="1000067" reward="732009" reward1="732029" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10145" name="110256154" name_para="22" task="1000030|1000039" reward="732009" reward1="732029" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10146" name="110256154" name_para="23" task="1000055|1000058" reward="732009" reward1="732029" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10147" name="110256154" name_para="24" task="1000059|1000064" reward="732009" reward1="732029" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10148" name="110256154" name_para="25" task="1000033|1000065" reward="732009" reward1="732029" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10149" name="110256154" name_para="26" task="1000046|1000058" reward="732009" reward1="732029" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10150" name="110256154" name_para="27" task="1000049|1000058" reward="732009" reward1="732029" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10151" name="110256154" name_para="28" task="1000052|1000058" reward="732009" reward1="732029" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10152" name="110256154" name_para="29" task="1000013|1000021" reward="732009" reward1="732029" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10153" name="110256154" name_para="30" task="1000016|1000024" reward="732009" reward1="732029" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10154" name="110256154" name_para="31" task="1000019|1000027" reward="732009" reward1="732029" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10155" name="110256155" name_para="1" task="1000012" reward="732005" reward1="732025" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10156" name="110256155" name_para="2" task="1000015" reward="732005" reward1="732025" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10157" name="110256155" name_para="3" task="1000018" reward="732005" reward1="732025" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10158" name="110256155" name_para="4" task="1000021" reward="732005" reward1="732025" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10159" name="110256155" name_para="5" task="1000024" reward="732005" reward1="732025" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10160" name="110256155" name_para="6" task="1000027" reward="732005" reward1="732025" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10161" name="110256155" name_para="7" task="1000030" reward="732005" reward1="732025" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10162" name="110256155" name_para="8" task="1000036" reward="732005" reward1="732025" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10163" name="110256155" name_para="9" task="1000039" reward="732005" reward1="732025" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10164" name="110256155" name_para="10" task="1000042" reward="732005" reward1="732025" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10165" name="110256155" name_para="11" task="1000045" reward="732005" reward1="732025" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10166" name="110256155" name_para="12" task="1000048" reward="732005" reward1="732025" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10167" name="110256155" name_para="13" task="1000051" reward="732005" reward1="732025" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10168" name="110256155" name_para="14" task="1000054" reward="732005" reward1="732025" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10169" name="110256155" name_para="15" task="1000057" reward="732005" reward1="732025" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10170" name="110256155" name_para="16" task="1000060" reward="732005" reward1="732025" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10171" name="110256155" name_para="17" task="1000063" reward="732005" reward1="732025" extra="25" weights="25" quality="1" />
+    <ItemSpec id="10172" name="110256155" name_para="18" task="1000022" reward="732010" reward1="732030" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10173" name="110256155" name_para="19" task="1000025" reward="732010" reward1="732030" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10174" name="110256155" name_para="20" task="1000028" reward="732010" reward1="732030" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10175" name="110256155" name_para="21" task="1000067" reward="732010" reward1="732030" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10176" name="110256155" name_para="22" task="1000030|1000039" reward="732010" reward1="732030" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10177" name="110256155" name_para="23" task="1000055|1000058" reward="732010" reward1="732030" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10178" name="110256155" name_para="24" task="1000059|1000064" reward="732010" reward1="732030" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10179" name="110256155" name_para="25" task="1000033|1000065" reward="732010" reward1="732030" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10180" name="110256155" name_para="26" task="1000046|1000058" reward="732010" reward1="732030" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10181" name="110256155" name_para="27" task="1000049|1000058" reward="732010" reward1="732030" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10182" name="110256155" name_para="28" task="1000052|1000058" reward="732010" reward1="732030" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10183" name="110256155" name_para="29" task="1000013|1000021" reward="732010" reward1="732030" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10184" name="110256155" name_para="30" task="1000016|1000024" reward="732010" reward1="732030" extra="25" weights="6" quality="2" />
+    <ItemSpec id="10185" name="110256155" name_para="31" task="1000019|1000027" reward="732010" reward1="732030" extra="25" weights="6" quality="2" />
+
+    <ItemSpec id="20031" name="110256151" name_para="1" task="1000012" reward="732001" reward1="732021" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20032" name="110256151" name_para="2" task="1000015" reward="732001" reward1="732021" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20033" name="110256151" name_para="3" task="1000018" reward="732001" reward1="732021" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20034" name="110256151" name_para="4" task="1000021" reward="732001" reward1="732021" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20035" name="110256151" name_para="5" task="1000024" reward="732001" reward1="732021" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20036" name="110256151" name_para="6" task="1000027" reward="732001" reward1="732021" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20037" name="110256151" name_para="7" task="1000030" reward="732001" reward1="732021" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20038" name="110256151" name_para="8" task="1000036" reward="732001" reward1="732021" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20039" name="110256151" name_para="9" task="1000039" reward="732001" reward1="732021" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20040" name="110256151" name_para="10" task="1000042" reward="732001" reward1="732021" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20041" name="110256151" name_para="11" task="1000045" reward="732001" reward1="732021" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20042" name="110256151" name_para="12" task="1000048" reward="732001" reward1="732021" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20043" name="110256151" name_para="13" task="1000051" reward="732001" reward1="732021" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20044" name="110256151" name_para="14" task="1000054" reward="732001" reward1="732021" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20045" name="110256151" name_para="15" task="1000057" reward="732001" reward1="732021" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20046" name="110256151" name_para="16" task="1000060" reward="732001" reward1="732021" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20047" name="110256151" name_para="17" task="1000063" reward="732001" reward1="732021" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20048" name="110256151" name_para="18" task="1000022" reward="732051" reward1="732026" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20049" name="110256151" name_para="19" task="1000025" reward="732051" reward1="732026" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20050" name="110256151" name_para="20" task="1000028" reward="732051" reward1="732026" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20051" name="110256151" name_para="21" task="1000067" reward="732051" reward1="732026" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20052" name="110256151" name_para="22" task="1000030|1000039" reward="732051" reward1="732026" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20053" name="110256151" name_para="23" task="1000055|1000058" reward="732051" reward1="732026" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20054" name="110256151" name_para="24" task="1000059|1000064" reward="732051" reward1="732026" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20055" name="110256151" name_para="25" task="1000033|1000065" reward="732051" reward1="732026" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20056" name="110256151" name_para="26" task="1000046|1000058" reward="732051" reward1="732026" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20057" name="110256151" name_para="27" task="1000049|1000058" reward="732051" reward1="732026" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20058" name="110256151" name_para="28" task="1000052|1000058" reward="732051" reward1="732026" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20059" name="110256151" name_para="29" task="1000013|1000021" reward="732051" reward1="732026" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20060" name="110256151" name_para="30" task="1000016|1000024" reward="732051" reward1="732026" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20061" name="110256151" name_para="31" task="1000019|1000027" reward="732051" reward1="732026" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20062" name="110256152" name_para="1" task="1000012" reward="732002" reward1="732022" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20063" name="110256152" name_para="2" task="1000015" reward="732002" reward1="732022" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20064" name="110256152" name_para="3" task="1000018" reward="732002" reward1="732022" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20065" name="110256152" name_para="4" task="1000021" reward="732002" reward1="732022" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20066" name="110256152" name_para="5" task="1000024" reward="732002" reward1="732022" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20067" name="110256152" name_para="6" task="1000027" reward="732002" reward1="732022" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20068" name="110256152" name_para="7" task="1000030" reward="732002" reward1="732022" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20069" name="110256152" name_para="8" task="1000036" reward="732002" reward1="732022" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20070" name="110256152" name_para="9" task="1000039" reward="732002" reward1="732022" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20071" name="110256152" name_para="10" task="1000042" reward="732002" reward1="732022" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20072" name="110256152" name_para="11" task="1000045" reward="732002" reward1="732022" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20073" name="110256152" name_para="12" task="1000048" reward="732002" reward1="732022" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20074" name="110256152" name_para="13" task="1000051" reward="732002" reward1="732022" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20075" name="110256152" name_para="14" task="1000054" reward="732002" reward1="732022" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20076" name="110256152" name_para="15" task="1000057" reward="732002" reward1="732022" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20077" name="110256152" name_para="16" task="1000060" reward="732002" reward1="732022" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20078" name="110256152" name_para="17" task="1000063" reward="732002" reward1="732022" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20079" name="110256152" name_para="18" task="1000022" reward="732052" reward1="732027" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20080" name="110256152" name_para="19" task="1000025" reward="732052" reward1="732027" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20081" name="110256152" name_para="20" task="1000028" reward="732052" reward1="732027" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20082" name="110256152" name_para="21" task="1000067" reward="732052" reward1="732027" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20083" name="110256152" name_para="22" task="1000030|1000039" reward="732052" reward1="732027" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20084" name="110256152" name_para="23" task="1000055|1000058" reward="732052" reward1="732027" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20085" name="110256152" name_para="24" task="1000059|1000064" reward="732052" reward1="732027" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20086" name="110256152" name_para="25" task="1000033|1000065" reward="732052" reward1="732027" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20087" name="110256152" name_para="26" task="1000046|1000058" reward="732052" reward1="732027" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20088" name="110256152" name_para="27" task="1000049|1000058" reward="732052" reward1="732027" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20089" name="110256152" name_para="28" task="1000052|1000058" reward="732052" reward1="732027" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20090" name="110256152" name_para="29" task="1000013|1000021" reward="732052" reward1="732027" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20091" name="110256152" name_para="30" task="1000016|1000024" reward="732052" reward1="732027" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20092" name="110256152" name_para="31" task="1000019|1000027" reward="732052" reward1="732027" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20093" name="110256153" name_para="1" task="1000012" reward="732003" reward1="732023" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20094" name="110256153" name_para="2" task="1000015" reward="732003" reward1="732023" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20095" name="110256153" name_para="3" task="1000018" reward="732003" reward1="732023" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20096" name="110256153" name_para="4" task="1000021" reward="732003" reward1="732023" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20097" name="110256153" name_para="5" task="1000024" reward="732003" reward1="732023" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20098" name="110256153" name_para="6" task="1000027" reward="732003" reward1="732023" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20099" name="110256153" name_para="7" task="1000030" reward="732003" reward1="732023" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20100" name="110256153" name_para="8" task="1000036" reward="732003" reward1="732023" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20101" name="110256153" name_para="9" task="1000039" reward="732003" reward1="732023" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20102" name="110256153" name_para="10" task="1000042" reward="732003" reward1="732023" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20103" name="110256153" name_para="11" task="1000045" reward="732003" reward1="732023" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20104" name="110256153" name_para="12" task="1000048" reward="732003" reward1="732023" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20105" name="110256153" name_para="13" task="1000051" reward="732003" reward1="732023" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20106" name="110256153" name_para="14" task="1000054" reward="732003" reward1="732023" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20107" name="110256153" name_para="15" task="1000057" reward="732003" reward1="732023" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20108" name="110256153" name_para="16" task="1000060" reward="732003" reward1="732023" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20109" name="110256153" name_para="17" task="1000063" reward="732003" reward1="732023" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20110" name="110256153" name_para="18" task="1000022" reward="732053" reward1="732028" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20111" name="110256153" name_para="19" task="1000025" reward="732053" reward1="732028" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20112" name="110256153" name_para="20" task="1000028" reward="732053" reward1="732028" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20113" name="110256153" name_para="21" task="1000067" reward="732053" reward1="732028" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20114" name="110256153" name_para="22" task="1000030|1000039" reward="732053" reward1="732028" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20115" name="110256153" name_para="23" task="1000055|1000058" reward="732053" reward1="732028" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20116" name="110256153" name_para="24" task="1000059|1000064" reward="732053" reward1="732028" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20117" name="110256153" name_para="25" task="1000033|1000065" reward="732053" reward1="732028" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20118" name="110256153" name_para="26" task="1000046|1000058" reward="732053" reward1="732028" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20119" name="110256153" name_para="27" task="1000049|1000058" reward="732053" reward1="732028" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20120" name="110256153" name_para="28" task="1000052|1000058" reward="732053" reward1="732028" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20121" name="110256153" name_para="29" task="1000013|1000021" reward="732053" reward1="732028" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20122" name="110256153" name_para="30" task="1000016|1000024" reward="732053" reward1="732028" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20123" name="110256153" name_para="31" task="1000019|1000027" reward="732053" reward1="732028" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20124" name="110256154" name_para="1" task="1000012" reward="732004" reward1="732024" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20125" name="110256154" name_para="2" task="1000015" reward="732004" reward1="732024" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20126" name="110256154" name_para="3" task="1000018" reward="732004" reward1="732024" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20127" name="110256154" name_para="4" task="1000021" reward="732004" reward1="732024" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20128" name="110256154" name_para="5" task="1000024" reward="732004" reward1="732024" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20129" name="110256154" name_para="6" task="1000027" reward="732004" reward1="732024" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20130" name="110256154" name_para="7" task="1000030" reward="732004" reward1="732024" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20131" name="110256154" name_para="8" task="1000036" reward="732004" reward1="732024" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20132" name="110256154" name_para="9" task="1000039" reward="732004" reward1="732024" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20133" name="110256154" name_para="10" task="1000042" reward="732004" reward1="732024" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20134" name="110256154" name_para="11" task="1000045" reward="732004" reward1="732024" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20135" name="110256154" name_para="12" task="1000048" reward="732004" reward1="732024" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20136" name="110256154" name_para="13" task="1000051" reward="732004" reward1="732024" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20137" name="110256154" name_para="14" task="1000054" reward="732004" reward1="732024" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20138" name="110256154" name_para="15" task="1000057" reward="732004" reward1="732024" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20139" name="110256154" name_para="16" task="1000060" reward="732004" reward1="732024" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20140" name="110256154" name_para="17" task="1000063" reward="732004" reward1="732024" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20141" name="110256154" name_para="18" task="1000022" reward="732054" reward1="732029" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20142" name="110256154" name_para="19" task="1000025" reward="732054" reward1="732029" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20143" name="110256154" name_para="20" task="1000028" reward="732054" reward1="732029" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20144" name="110256154" name_para="21" task="1000067" reward="732054" reward1="732029" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20145" name="110256154" name_para="22" task="1000030|1000039" reward="732054" reward1="732029" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20146" name="110256154" name_para="23" task="1000055|1000058" reward="732054" reward1="732029" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20147" name="110256154" name_para="24" task="1000059|1000064" reward="732054" reward1="732029" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20148" name="110256154" name_para="25" task="1000033|1000065" reward="732054" reward1="732029" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20149" name="110256154" name_para="26" task="1000046|1000058" reward="732054" reward1="732029" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20150" name="110256154" name_para="27" task="1000049|1000058" reward="732054" reward1="732029" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20151" name="110256154" name_para="28" task="1000052|1000058" reward="732054" reward1="732029" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20152" name="110256154" name_para="29" task="1000013|1000021" reward="732054" reward1="732029" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20153" name="110256154" name_para="30" task="1000016|1000024" reward="732054" reward1="732029" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20154" name="110256154" name_para="31" task="1000019|1000027" reward="732054" reward1="732029" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20155" name="110256155" name_para="1" task="1000012" reward="732005" reward1="732025" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20156" name="110256155" name_para="2" task="1000015" reward="732005" reward1="732025" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20157" name="110256155" name_para="3" task="1000018" reward="732005" reward1="732025" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20158" name="110256155" name_para="4" task="1000021" reward="732005" reward1="732025" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20159" name="110256155" name_para="5" task="1000024" reward="732005" reward1="732025" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20160" name="110256155" name_para="6" task="1000027" reward="732005" reward1="732025" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20161" name="110256155" name_para="7" task="1000030" reward="732005" reward1="732025" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20162" name="110256155" name_para="8" task="1000036" reward="732005" reward1="732025" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20163" name="110256155" name_para="9" task="1000039" reward="732005" reward1="732025" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20164" name="110256155" name_para="10" task="1000042" reward="732005" reward1="732025" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20165" name="110256155" name_para="11" task="1000045" reward="732005" reward1="732025" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20166" name="110256155" name_para="12" task="1000048" reward="732005" reward1="732025" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20167" name="110256155" name_para="13" task="1000051" reward="732005" reward1="732025" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20168" name="110256155" name_para="14" task="1000054" reward="732005" reward1="732025" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20169" name="110256155" name_para="15" task="1000057" reward="732005" reward1="732025" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20170" name="110256155" name_para="16" task="1000060" reward="732005" reward1="732025" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20171" name="110256155" name_para="17" task="1000063" reward="732005" reward1="732025" extra="50" weights="25" quality="1"/>
+    <ItemSpec id="20172" name="110256155" name_para="18" task="1000022" reward="732055" reward1="732030" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20173" name="110256155" name_para="19" task="1000025" reward="732055" reward1="732030" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20174" name="110256155" name_para="20" task="1000028" reward="732055" reward1="732030" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20175" name="110256155" name_para="21" task="1000067" reward="732055" reward1="732030" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20176" name="110256155" name_para="22" task="1000030|1000039" reward="732055" reward1="732030" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20177" name="110256155" name_para="23" task="1000055|1000058" reward="732055" reward1="732030" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20178" name="110256155" name_para="24" task="1000059|1000064" reward="732055" reward1="732030" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20179" name="110256155" name_para="25" task="1000033|1000065" reward="732055" reward1="732030" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20180" name="110256155" name_para="26" task="1000046|1000058" reward="732055" reward1="732030" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20181" name="110256155" name_para="27" task="1000049|1000058" reward="732055" reward1="732030" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20182" name="110256155" name_para="28" task="1000052|1000058" reward="732055" reward1="732030" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20183" name="110256155" name_para="29" task="1000013|1000021" reward="732055" reward1="732030" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20184" name="110256155" name_para="30" task="1000016|1000024" reward="732055" reward1="732030" extra="50" weights="6" quality="2"/>
+    <ItemSpec id="20185" name="110256155" name_para="31" task="1000019|1000027" reward="732055" reward1="732030" extra="50" weights="6" quality="2"/>
+
+	</Group>
+
+</tns:database>

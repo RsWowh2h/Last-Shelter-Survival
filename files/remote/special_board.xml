@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<Group id="activity_main">	
+		<ItemSpec id="103" serverIds="1-1504;2901-29016;8998" start_time="2025/12/16 00:00:01" end_time="2025/12/30 23:59:00" />
+	</Group>
+
+	<Group id="special_board">
+		<!-- 送花 -->
+		<ItemSpec id="110001" link_activity_id="57228" link_activity_order="1" link_activity_reward_show="220995;1|221111;1|220999;1|310056;1" group="1" linktype="1"/> 
+		<!-- 雪人大作战 -->
+ 		<ItemSpec id="100017" link_activity_id="58004" link_activity_order="1" link_activity_reward_show="220992;1|220993;1|220994;1|310056;1|200366;1" group="1" linktype="1"/>
+		<!-- 兑换商店 -->
+		<ItemSpec id="110002" link_activity_id="1120302" link_activity_order="2" link_activity_reward_show="230099;1|220460;1|220445;1|220359;1|312155;1" group="1" linktype="2" start_time="2025/12/11 00:00:00" end_time="2025/12/30 23:59:59"/> 
+		<ItemSpec id="110003" link_activity_id="1120303" link_activity_order="2" link_activity_reward_show="230099;1|220460;1|220445;1|220359;1|312155;1" group="1" linktype="2" start_time="2025/12/11 00:00:00" end_time="2025/12/30 23:59:59"/> 
+		<ItemSpec id="110004" link_activity_id="1120304" link_activity_order="2" link_activity_reward_show="230099;1|220460;1|220445;1|220359;1|312155;1" group="1" linktype="2" start_time="2025/12/11 00:00:00" end_time="2025/12/30 23:59:59"/> 
+		<ItemSpec id="110005" link_activity_id="1120305" link_activity_order="2" link_activity_reward_show="230099;1|220460;1|220445;1|220359;1|312155;1" group="1" linktype="2" start_time="2025/12/11 00:00:00" end_time="2025/12/30 23:59:59"/> 
+		<ItemSpec id="1100051" link_activity_id="1120306" link_activity_order="2" link_activity_reward_show="230099;1|220460;1|220445;1|220359;1|312155;1" group="1" linktype="2" start_time="2025/12/11 00:00:00" end_time="2025/12/30 23:59:59"/> 
+
+		<!-- <ItemSpec id="100007" link_activity_id="1120252" link_activity_order="6" link_activity_reward_show="312014;9999|312015;1|312039;1" group="1" linktype="2" start_time="2025/10/01 00:00:00" end_time="2025/10/05 23:59:59"/>  -->
+		<!-- 活动bp -->
+		<ItemSpec id="110006" link_activity_id="57722" link_activity_order="3" link_activity_reward_show="650180;1|650179;1|200364;1" group="1" linktype="1"/>
+		<!-- 7日签到 -->
+		<ItemSpec id="110007" link_activity_id="57238" link_activity_order="4" link_activity_reward_show="650178;1|650184;1"  group="1" linktype="1"/> <!-- 7日签到 -->
+		<!-- 活动中心的综合商店 -->
+		<!-- <ItemSpec id="100004" link_activity_id="57748" link_activity_order="4" link_activity_reward_show="312039;1" group="1" linktype="1" link_activity_shop="1"/> -->
+		<!-- 蛛丝马迹 -->
+		<ItemSpec id="110008" link_activity_id="57770" link_activity_order="5" link_activity_reward_show="650179;1|650180;1" group="1" linktype="1"/> 
+		<!-- 派对大师 -->
+		<ItemSpec id="110009" link_activity_id="57149" link_activity_order="6" link_activity_reward_show="650178;1|200060;1|200364;1|650184;1" group="1" linktype="1"/> 
+		<!-- 世界boss -->
+		<ItemSpec id="110020" link_activity_id="57797" link_activity_order="7" link_activity_reward_show="204105;1|650178;1|204027;1|204030;1|204021;1" group="1" linktype="1"/> 
+		<!-- 存钱罐 -->
+		<ItemSpec id="100021" link_activity_id="1120172" link_activity_order="7" link_activity_reward_show="650180;1" group="1" linktype="2" start_time="2025/12/16 00:00:00" end_time="2025/12/22 23:59:59"/> 
+		<!-- 盲盒活动 -->
+ 		<!-- <ItemSpec id="100008" link_activity_id="1120200" link_activity_order="7" link_activity_reward_show="312015;1|312039;1" group="1" linktype="2"/>  -->
+
+ 		<!-- 个人累充 -->
+ 		<ItemSpec id="110010" link_activity_id="1110110" link_activity_order="2" link_activity_reward_show="520014;1|221115;1|310056;1|322039;1|204016;1" group="1" linktype="2" start_time="2025/12/11 00:00:00" end_time="2025/12/30 23:59:59"/> 
+ 		<ItemSpec id="110011" link_activity_id="1110111" link_activity_order="2" link_activity_reward_show="520014;1|221115;1|310056;1|322039;1|204016;1" group="1" linktype="2" start_time="2025/12/11 00:00:00" end_time="2025/12/30 23:59:59"/> 
+ 		<ItemSpec id="110012" link_activity_id="1110112" link_activity_order="2" link_activity_reward_show="520014;1|221115;1|310056;1|322039;1|204016;1" group="1" linktype="2" start_time="2025/12/11 00:00:00" end_time="2025/12/30 23:59:59"/> 
+ 		<ItemSpec id="110013" link_activity_id="1110113" link_activity_order="2" link_activity_reward_show="520014;1|221115;1|310056;1|322039;1|204016;1" group="1" linktype="2" start_time="2025/12/11 00:00:00" end_time="2025/12/30 23:59:59"/> 
+ 		<ItemSpec id="110014" link_activity_id="1110114" link_activity_order="2" link_activity_reward_show="520014;1|221115;1|310056;1|322039;1|204016;1" group="1" linktype="2" start_time="2025/12/11 00:00:00" end_time="2025/12/30 23:59:59"/> 
+ 		<ItemSpec id="110015" link_activity_id="1110115" link_activity_order="2" link_activity_reward_show="520014;1|221115;1|310056;1|322039;1|204016;1" group="1" linktype="2" start_time="2025/12/11 00:00:00" end_time="2025/12/30 23:59:59"/> 
+ 		<ItemSpec id="110016" link_activity_id="1110116" link_activity_order="2" link_activity_reward_show="520014;1|221115;1|310056;1|322039;1|204016;1" group="1" linktype="2" start_time="2025/12/11 00:00:00" end_time="2025/12/30 23:59:59"/> 
+
+ 		<!-- 高效利用 -->
+		<ItemSpec id="110018" link_activity_id="1120155" link_activity_order="8" link_activity_reward_show="650180;1" group="1" linktype="2" start_time="2025/12/16 00:00:00" end_time="2025/12/22 23:59:59"/> 
+		
+		<!-- 缤纷圣诞树 -->
+		<ItemSpec id="110022" link_activity_id="57712" link_activity_order="8" link_activity_reward_show="221116;1|215511;1|221117;1|220996;1" group="1" linktype="1" /> 
+		
+
+<!-- 1、【group】板子活动组，同一个组号的活动才会展示在一个板子里
+2、【linktype】活动中心是1;福利中心是2
+3、【link_activity_id】活动-activitypanelid，福利-rechargeid
+4、【link_activity_order】板子展示排序，数字越小越靠上
+5、【link_activity_shop】是否是兑换商店，1代表是，会展示在界面右上角；不填或者0代表不是
+6、【link_activity_reward_show】奖励道具展示
+7、【end_time】福利中心活动必须配置结束时间，要是没配置结束时间，就在面板上不显示时间；活动中心的活动不需要填写 -->
+
+
+	</Group>
+</tns:database>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="GuideStep">
+	<ItemSpec id="1000001" next="1000002" title="90601051" button="79011033" content1="2000001" content2="2000002" guide="20003900"/>
+	<ItemSpec id="1000002" next="" content1="2000003" content2="2000004"/>
+
+	<ItemSpec id="1000100" next="1000101" title="90601022" button="79011033" content1="2000101" content2="2000102" guide="20003250"/>
+	<ItemSpec id="1000101" next="" content1="2000103" content2="2000104"/>
+	<ItemSpec id="1000200" next="1000201" title="110050036" button="79011033" content1="2000201" content2="2000202" guide="20003900"/>
+	<ItemSpec id="1000201" next="" content1="2000203" content2="2000204"/>
+
+	<ItemSpec id="1000300" next="1000301" title="110033027" button="79011033" content1="2000300" content2="2000301" guide="20003900"/>
+	<ItemSpec id="1000301" next="1000302" title="110033027" button="79011033" content1="2000302" content2="2000303" guide="20003900"/>
+	<ItemSpec id="1000302" next="" title="110033027" button="79011033" content1="2000304" content2="2000305" guide="20003900"/>
+ <!--阵营建筑-->
+	<ItemSpec id="1000500" next="1000501" title="110560501" button="79011033" content1="2000400" content2="2000401" guide="82000000"/>
+	<ItemSpec id="1000501" next="1000502" title="110560501" button="79011033" content1="2000402" content2="2000403" guide="82000000"/>
+	<ItemSpec id="1000502" next="" title="110560501" button="79011033" content1="2000404" content2="2000405" guide="82000000"/>
+
+
+ <!--城市贸易-->
+ <!--城市贸易 主界面介绍-->
+	<ItemSpec id="1000800" next="1000801" title="112142201" button="79011033" content1="2000800" content2="2000801"/>
+	<ItemSpec id="1000801" next="1000802" title="112142201" button="79011033" content1="2000802" content2="2000803"/>
+	<ItemSpec id="1000802" next="1000803" title="112142201" button="79011033" content1="2000804" content2="2000805"/>	
+	<ItemSpec id="1000803" next="" title="112142201" button="79011033" content1="2000806" content2="2000807"/>    
+ <!--城市贸易 价格详情介绍-->
+	<ItemSpec id="1000900" next="1000901" title="112142044" button="79011033" content1="2000900" content2="2000901"/>
+	<ItemSpec id="1000901" next="" title="112142044" button="79011033" content1="2000902" content2="2000903"/>    
+ <!--城市贸易 商会介绍-->
+	<ItemSpec id="1001000" next="1001001" title="112142068" button="79011033" content1="2001000" content2="2001001"/>
+	<ItemSpec id="1001001" next="" title="112142068" button="79011033" content1="2001002" content2="2001003"/> 
+ <!--城市贸易 交易所介绍-->
+	<ItemSpec id="1001100" next="1001101" title="112142030" button="79011033" content1="2001100" content2="2001101"/>
+	<ItemSpec id="1001101" next="" title="112142030" button="79011033" content1="2001102" content2="2001103"/> 
+
+
+<!--英雄信条  英雄奇观-->
+    <ItemSpec id="1001201" next="1001202" title="112140401" button="79011033" content1="2001201" content2="2001202" />
+    <ItemSpec id="1001202" next="1001203" title="112140402" button="79011033" content1="2001203" content2="2001204" />
+    <ItemSpec id="1001203" next="1001204" title="112140403" button="79011033" content1="2001205" content2="2001206" />
+    <ItemSpec id="1001204" title="112140404" button="79011033" content1="2001207" content2="2001208" />
+	
+<!--英雄信条  英雄信条-->
+    <ItemSpec id="1001301" next="1001302" title="112140405" button="79011033" content1="2001301" content2="2001302" />
+    <ItemSpec id="1001302" title="112140406" button="79011033" content1="2001303" content2="2001304" />
+
+	<!--温泉遗迹 -->
+    <ItemSpec id="1001401" next="1001402" button="79011033" content1="2001401" content2="2001402" />
+    <ItemSpec id="1001402" next="1001403" button="79011033" content1="2001403" content2="2001404" />
+    <ItemSpec id="1001403" next="1001404" button="79011033" content1="2001405" content2="2001406" />
+    <ItemSpec id="1001404" next="" button="79011033" content1="2001407" content2="2001408" />
+
+
+
+    </Group>
+    <Group id="ContentInfo">
+    	<ItemSpec id="2000001" name="90601047" pic="Picture_5jianzhujijiedian.png" info="90601052"/>
+    	<ItemSpec id="2000002" name="90601048" pic="Picture_6kuaisuqiancheng.png" info="90601053"/>
+    	<ItemSpec id="2000003" name="90601049" pic="Picture_7jingongdifangzhendi.png" info="90601054"/>
+    	<ItemSpec id="2000004" name="90601050" pic="Picture_9cuihuidifanghexinjianzhu.png" info="90601055"/>
+
+    	<ItemSpec id="2000101" name="90601025" pic="Picture_1zhanlingtudi.png" info="90601033"/>
+    	<ItemSpec id="2000102" name="90601026" pic="Picture_2jianzaorongyujianzhu.png" info="90601034"/>
+    	<ItemSpec id="2000103" name="90601027" pic="Picture_3shouhuoshouwurandeziyuan.png" info="90601035"/>
+    	<ItemSpec id="2000104" name="90601030" pic="Picture_4huodefenghoujiangli.png" info="90601038"/>
+		
+		<ItemSpec id="2000201" name="90601025" pic="Picture_1zhanlingtudi.png" info="90601033"/>
+    	<ItemSpec id="2000202" name="110050037" pic="Picture_2shilizhirenwu.png" info="110050038"/>
+    	<ItemSpec id="2000203" name="90601221" pic="Picture_3jidibanqiandian.png" info="110050039"/>
+    	<ItemSpec id="2000204" name="110050036" pic="Picture_4jianzaofenjidi.png" info="110050040"/>	
+
+    	<ItemSpec id="2000300" name="110033138" pic="zqxz_img_1.png" info="110033139"/>	
+    	<ItemSpec id="2000301" name="110033140" pic="zqxz_img_2.png" info="110033141"/>	
+    	<ItemSpec id="2000302" name="110033142" pic="zqxz_img_3.png" info="110033143"/>	
+    	<ItemSpec id="2000303" name="110033144" pic="zqxz_img_4.png" info="110033145"/>	
+    	<ItemSpec id="2000304" name="110033146" pic="zqxz_img_5.png" info="110033147"/>	
+    	<ItemSpec id="2000305" name="110033148" pic="zqxz_img_6.png" info="110033149"/>	
+
+
+
+ <!--阵营建筑-->
+		<ItemSpec id="2000400" name="110560504" pic="img_ldsjyd_01.png" info="110560538"/>	
+		<ItemSpec id="2000401" name="110560539" pic="img_ldsjyd_02.png" info="110560540"/>
+		<ItemSpec id="2000402" name="110560530" pic="img_ldsjyd_03.png" info="110560541"/>	
+		<ItemSpec id="2000403" name="110560533" pic="img_ldsjyd_04.png" info="110560542"/>	
+		<ItemSpec id="2000404" name="110560514" pic="img_ldsjyd_07.png" info="110560545"/>		
+		<ItemSpec id="2000405" name="90400086" pic="img_ldsjyd_05.png" info="110560543"/>	
+
+
+ <!--城市贸易-->
+ <!--城市贸易 主界面介绍-->
+		<ItemSpec id="2000800" name="112142501" pic="citytrade_jieshao1.png" info="112142502"/>	
+		<ItemSpec id="2000801" name="112142503" pic="citytrade_jieshao2.png" info="112142504"/>
+		<ItemSpec id="2000802" name="112142505" pic="citytrade_jieshao3.png" info="112142506"/>	
+		<ItemSpec id="2000803" name="112142507" pic="citytrade_jieshao4.png" info="112142508"/>	
+		<ItemSpec id="2000804" name="112142509" pic="citytrade_jieshao5.png" info="112142510"/>		
+		<ItemSpec id="2000805" name="112142511" pic="citytrade_jieshao6.png" info="112142512"/>
+		<ItemSpec id="2000806" name="112142513" pic="citytrade_jieshao7.png" info="112142514"/>		
+		<ItemSpec id="2000807" name="112142515" pic="citytrade_jieshao8.png" info="112142516"/>
+ <!--城市贸易 价格详情介绍-->
+ 		<ItemSpec id="2000900" name="112142517" pic="citytrade_jieshao5.png" info="112142518"/>	
+		<ItemSpec id="2000901" name="112142519" pic="citytrade_jieshao9.png" info="112142520"/>	
+		<ItemSpec id="2000902" name="112142521" pic="citytrade_jieshao10.png" info="112142522"/>		
+		<ItemSpec id="2000903" name="112142523" pic="citytrade_jieshao11.png" info="112142524"/>
+  <!--城市贸易 商会介绍-->
+  		<ItemSpec id="2001000" name="112142525" pic="citytrade_jieshao7.png" info="112142526"/>	
+		<ItemSpec id="2001001" name="112142527" pic="citytrade_jieshao12.png" info="112142528"/>	
+		<ItemSpec id="2001002" name="112142529" pic="citytrade_jieshao13.png" info="112142530"/>		
+		<ItemSpec id="2001003" name="112142531" pic="citytrade_jieshao14.png" info="112142532"/>
+   <!--城市贸易 交易所介绍-->
+   		<ItemSpec id="2001100" name="112142533" pic="citytrade_jieshao15.png" info="112142534"/>	
+		<ItemSpec id="2001101" name="112142535" pic="citytrade_jieshao16.png" info="112142536"/>	
+		<ItemSpec id="2001102" name="112142537" pic="citytrade_jieshao17.png" info="112142538"/>		
+		<ItemSpec id="2001103" name="112142539" pic="citytrade_jieshao18.png" info="112142540"/>
+
+   <!--英雄信条  英雄奇观-->
+    <ItemSpec id="2001201" name="112140407" pic="heroseason_jieshao1.png" info="112140419" />
+    <ItemSpec id="2001202" name="112140408" pic="heroseason_jieshao2.png" info="112140420" />
+    <ItemSpec id="2001203" name="112140409" pic="heroseason_jieshao3.png" info="112140421" />
+    <ItemSpec id="2001204" name="112140410" pic="heroseason_jieshao4.png" info="112140422" />
+    <ItemSpec id="2001205" name="112140411" pic="heroseason_jieshao5.png" info="112140423" />
+    <ItemSpec id="2001206" name="112140412" pic="heroseason_jieshao6.png" info="112140424" />
+    <ItemSpec id="2001207" name="112140413" pic="heroseason_jieshao7.png" info="112140425" />
+    <ItemSpec id="2001208" name="112140414" pic="heroseason_jieshao8.png" info="112140426" />
+   <!--英雄信条  英雄信条-->	
+    <ItemSpec id="2001301" name="112140415" pic="heroseason_jieshao9.png" info="112140427" />
+    <ItemSpec id="2001302" name="112140416" pic="heroseason_jieshao10.png" info="112140428" />
+    <ItemSpec id="2001303" name="112140417" pic="heroseason_jieshao11.png" info="112140429" />
+    <ItemSpec id="2001304" name="112140418" pic="heroseason_jieshao12.png" info="112140430" />
+
+
+   <!--温泉遗迹 -->	
+	<ItemSpec id="2001401" name="112160032" info="112160183" />
+    <ItemSpec id="2001402" name="112160072" pic="wqz_jieshao4.png" info="112160114" />
+    <ItemSpec id="2001403" name="112160073" pic="wqz_jieshao3.png" info="112160115" />
+    <ItemSpec id="2001404" name="112160075" pic="wqz_jieshao1.png" info="112160117" />
+    <ItemSpec id="2001405" name="112160074" pic="wqz_jieshao2.png" info="112160116" />
+    <ItemSpec id="2001406" name="112160078" pic="wqz_jieshao7.png" info="112160180" />
+    <ItemSpec id="2001407" name="112160077" pic="wqz_jieshao6.png" info="112160179" />
+    <ItemSpec id="2001408" name="112160076" pic="wqz_jieshao5.png" info="112160178" />
+
+
+    </Group>
+</tns:database>
+

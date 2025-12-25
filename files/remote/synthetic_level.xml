@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="synthetic_level">
+		<ItemSpec id="10100" level="0" synthetic="10100" item_cost="204045;13" num="0%" power="0"/>
+		<ItemSpec id="10101" level="1" synthetic="10100" item_cost="204045;16" num="2%" power="134"/>
+		<ItemSpec id="10102" level="2" synthetic="10100" item_cost="204045;19" num="4%" power="295"/>
+		<ItemSpec id="10103" level="3" synthetic="10100" item_cost="204045;23" num="6%" power="488"/>
+		<ItemSpec id="10104" level="4" synthetic="10100" item_cost="204045;28" num="8%" power="719"/>
+		<ItemSpec id="10105" level="5" synthetic="10100" num="10%" power="997"/>
+		<ItemSpec id="10200" level="0" synthetic="10200" item_cost="204045;20" num="0%" pre_condition="10103" power="0"/>
+		<ItemSpec id="10201" level="1" synthetic="10200" item_cost="204045;24" num="2%" power="201"/>
+		<ItemSpec id="10202" level="2" synthetic="10200" item_cost="204045;29" num="4%" power="442"/>
+		<ItemSpec id="10203" level="3" synthetic="10200" item_cost="204045;35" num="6%" pre_condition="10105" power="731"/>
+		<ItemSpec id="10204" level="4" synthetic="10200" item_cost="204045;42" num="8%" power="1078"/>
+		<ItemSpec id="10205" level="5" synthetic="10200" num="10%" power="1495"/>
+		<ItemSpec id="10300" level="0" synthetic="10300" item_cost="204045;27" num="0%" pre_condition="10103" power="0"/>
+		<ItemSpec id="10301" level="1" synthetic="10300" item_cost="204045;32" num="2%" power="268"/>
+		<ItemSpec id="10302" level="2" synthetic="10300" item_cost="204045;39" num="4%" power="589"/>
+		<ItemSpec id="10303" level="3" synthetic="10300" item_cost="204045;46" num="6%" pre_condition="10105" power="975"/>
+		<ItemSpec id="10304" level="4" synthetic="10300" item_cost="204045;56" num="8%" power="1438"/>
+		<ItemSpec id="10305" level="5" synthetic="10300" num="10%" power="1993"/>
+		<ItemSpec id="10400" level="0" synthetic="10400" item_cost="204045;33" num="0%" pre_condition="10203|10303" power="0"/>
+		<ItemSpec id="10401" level="1" synthetic="10400" item_cost="204045;40" num="2%" power="335"/>
+		<ItemSpec id="10402" level="2" synthetic="10400" item_cost="204045;48" num="4%" power="737"/>
+		<ItemSpec id="10403" level="3" synthetic="10400" item_cost="204045;58" num="6%" pre_condition="10205|10305" power="1219"/>
+		<ItemSpec id="10404" level="4" synthetic="10400" item_cost="204045;69" num="8%" power="1797"/>
+		<ItemSpec id="10405" level="5" synthetic="10400" num="10%" power="2492"/>
+		<ItemSpec id="10500" level="0" synthetic="10500" item_cost="204045;40" num="0%" pre_condition="10303" power="0"/>
+		<ItemSpec id="10501" level="1" synthetic="10500" item_cost="204045;48" num="1%" power="402"/>
+		<ItemSpec id="10502" level="2" synthetic="10500" item_cost="204045;58" num="2%" power="884"/>
+		<ItemSpec id="10503" level="3" synthetic="10500" item_cost="204045;69" num="3%" pre_condition="10305" power="1463"/>
+		<ItemSpec id="10504" level="4" synthetic="10500" item_cost="204045;83" num="4%" power="2157"/>
+		<ItemSpec id="10505" level="5" synthetic="10500" num="5%" power="2990"/>
+		<ItemSpec id="10600" level="0" synthetic="10600" item_cost="204045;47" num="0%" pre_condition="10403|10503" power="0"/>
+		<ItemSpec id="10601" level="1" synthetic="10600" item_cost="204045;56" num="1%" power="469"/>
+		<ItemSpec id="10602" level="2" synthetic="10600" item_cost="204045;68" num="2%" power="1031"/>
+		<ItemSpec id="10603" level="3" synthetic="10600" item_cost="204045;81" num="3%" pre_condition="10405|10505" power="1706"/>
+		<ItemSpec id="10604" level="4" synthetic="10600" item_cost="204045;97" num="4%" power="2516"/>
+		<ItemSpec id="10605" level="5" synthetic="10600" num="5%" power="3488"/>
+		<ItemSpec id="10700" level="0" synthetic="10700" item_cost="204045;54" num="0%" pre_condition="10503" power="0"/>
+		<ItemSpec id="10701" level="1" synthetic="10700" item_cost="204045;64" num="2%" power="536"/>
+		<ItemSpec id="10702" level="2" synthetic="10700" item_cost="204045;77" num="4%" power="1179"/>
+		<ItemSpec id="10703" level="3" synthetic="10700" item_cost="204045;93" num="6%" pre_condition="10505" power="1950"/>
+		<ItemSpec id="10704" level="4" synthetic="10700" item_cost="204045;111" num="8%" power="2876"/>
+		<ItemSpec id="10705" level="5" synthetic="10700" num="10%" power="3987"/>
+		<ItemSpec id="10800" level="0" synthetic="10800" item_cost="204045;60" num="0%" pre_condition="10603|10703" power="0"/>
+		<ItemSpec id="10801" level="1" synthetic="10800" item_cost="204045;72" num="2%" power="603"/>
+		<ItemSpec id="10802" level="2" synthetic="10800" item_cost="204045;87" num="4%" power="1326"/>
+		<ItemSpec id="10803" level="3" synthetic="10800" item_cost="204045;104" num="6%" pre_condition="10605|10705" power="2194"/>
+		<ItemSpec id="10804" level="4" synthetic="10800" item_cost="204045;125" num="8%" power="3235"/>
+		<ItemSpec id="10805" level="5" synthetic="10800" num="10%" power="4485"/>
+		<ItemSpec id="10900" level="0" synthetic="10900" item_cost="204045;67" num="0%" pre_condition="10703" power="0"/>
+		<ItemSpec id="10901" level="1" synthetic="10900" item_cost="204045;80" num="2%" power="670"/>
+		<ItemSpec id="10902" level="2" synthetic="10900" item_cost="204045;96" num="4%" power="1473"/>
+		<ItemSpec id="10903" level="3" synthetic="10900" item_cost="204045;116" num="6%" pre_condition="10705" power="2438"/>
+		<ItemSpec id="10904" level="4" synthetic="10900" item_cost="204045;139" num="8%" power="3595"/>
+		<ItemSpec id="10905" level="5" synthetic="10900" num="10%" power="4983"/>
+		<ItemSpec id="11000" level="0" synthetic="11000" item_cost="204045;74" num="0%" pre_condition="10803|10903" power="0"/>
+		<ItemSpec id="11001" level="1" synthetic="11000" item_cost="204045;88" num="2%" power="737"/>
+		<ItemSpec id="11002" level="2" synthetic="11000" item_cost="204045;106" num="4%" power="1621"/>
+		<ItemSpec id="11003" level="3" synthetic="11000" item_cost="204045;127" num="6%" pre_condition="10805|10905" power="2681"/>
+		<ItemSpec id="11004" level="4" synthetic="11000" item_cost="204045;153" num="8%" power="3954"/>
+		<ItemSpec id="11005" level="5" synthetic="11000" num="10%" power="5482"/>
+		<ItemSpec id="11100" level="0" synthetic="11100" item_cost="204045;80" num="0%" pre_condition="10903" power="0"/>
+		<ItemSpec id="11101" level="1" synthetic="11100" item_cost="204045;96" num="1%" power="804"/>
+		<ItemSpec id="11102" level="2" synthetic="11100" item_cost="204045;116" num="2%" power="1768"/>
+		<ItemSpec id="11103" level="3" synthetic="11100" item_cost="204045;139" num="3%" pre_condition="10905" power="2925"/>
+		<ItemSpec id="11104" level="4" synthetic="11100" item_cost="204045;167" num="4%" power="4314"/>
+		<ItemSpec id="11105" level="5" synthetic="11100" num="5%" power="5980"/>
+		<ItemSpec id="11200" level="0" synthetic="11200" item_cost="204045;87" num="0%" pre_condition="11003|11103" power="0"/>
+		<ItemSpec id="11201" level="1" synthetic="11200" item_cost="204045;104" num="1%" power="871"/>
+		<ItemSpec id="11202" level="2" synthetic="11200" item_cost="204045;125" num="2%" power="1915"/>
+		<ItemSpec id="11203" level="3" synthetic="11200" item_cost="204045;150" num="3%" pre_condition="11005|11105" power="3169"/>
+		<ItemSpec id="11204" level="4" synthetic="11200" item_cost="204045;181" num="4%" power="4673"/>
+		<ItemSpec id="11205" level="5" synthetic="11200" num="5%" power="6478"/>
+		<ItemSpec id="11300" level="0" synthetic="11300" item_cost="204045;140|210401;4" num="0%" pre_condition="11205" pre_skill="2;10" power="0"/>
+		<ItemSpec id="11301" level="1" synthetic="11300" num="0%" power="1395"/>
+		<ItemSpec id="11400" level="0" synthetic="11400" item_cost="204045;100" num="0%" pre_condition="11103|11301" power="0"/>
+		<ItemSpec id="11401" level="1" synthetic="11400" item_cost="204045;121" num="1%" power="1004"/>
+		<ItemSpec id="11402" level="2" synthetic="11400" item_cost="204045;145" num="2%" power="2210"/>
+		<ItemSpec id="11403" level="3" synthetic="11400" item_cost="204045;174" num="3%" pre_condition="11105|11301" power="3656"/>
+		<ItemSpec id="11404" level="4" synthetic="11400" item_cost="204045;208" num="4%" power="5392"/>
+		<ItemSpec id="11405" level="5" synthetic="11400" num="5%" power="7475"/>
+		<ItemSpec id="11500" level="0" synthetic="11500" item_cost="204045;107" num="0%" pre_condition="11301|11403" power="0"/>
+		<ItemSpec id="11501" level="1" synthetic="11500" item_cost="204045;129" num="1%" power="1071"/>
+		<ItemSpec id="11502" level="2" synthetic="11500" item_cost="204045;154" num="2%" power="2357"/>
+		<ItemSpec id="11503" level="3" synthetic="11500" item_cost="204045;185" num="3%" pre_condition="11301|11405" power="3900"/>
+		<ItemSpec id="11504" level="4" synthetic="11500" item_cost="204045;222" num="4%" power="5752"/>
+		<ItemSpec id="11505" level="5" synthetic="11500" num="5%" power="7973"/>
+		<ItemSpec id="11600" level="0" synthetic="11600" item_cost="204045;33" num="0%" pre_condition="11403" power="0"/>
+		<ItemSpec id="11601" level="1" synthetic="11600" item_cost="204045;39" num="1%" power="326"/>
+		<ItemSpec id="11602" level="2" synthetic="11600" item_cost="204045;47" num="2%" power="718"/>
+		<ItemSpec id="11603" level="3" synthetic="11600" item_cost="204045;56" num="3%" power="1188"/>
+		<ItemSpec id="11604" level="4" synthetic="11600" item_cost="204045;68" num="4%" pre_condition="11404" power="1752"/>
+		<ItemSpec id="11605" level="5" synthetic="11600" item_cost="204045;81" num="5%" power="2429"/>
+		<ItemSpec id="11606" level="6" synthetic="11600" item_cost="204045;97" num="6%" power="3241"/>
+		<ItemSpec id="11607" level="7" synthetic="11600" item_cost="204045;117" num="7%" pre_condition="11405" power="4215"/>
+		<ItemSpec id="11608" level="8" synthetic="11600" item_cost="204045;140" num="8%" power="5385"/>
+		<ItemSpec id="11609" level="9" synthetic="11600" item_cost="204045;168" num="9%" power="6788"/>
+		<ItemSpec id="11610" level="10" synthetic="11600" num="10%" power="8472"/>
+		<ItemSpec id="11700" level="0" synthetic="11700" item_cost="204045;35" num="0%" pre_condition="11604" power="0"/>
+		<ItemSpec id="11701" level="1" synthetic="11700" item_cost="204045;41" num="1%" power="346"/>
+		<ItemSpec id="11702" level="2" synthetic="11700" item_cost="204045;50" num="2%" power="760"/>
+		<ItemSpec id="11703" level="3" synthetic="11700" item_cost="204045;60" num="3%" power="1258"/>
+		<ItemSpec id="11704" level="4" synthetic="11700" item_cost="204045;72" num="4%" pre_condition="11607" power="1855"/>
+		<ItemSpec id="11705" level="5" synthetic="11700" item_cost="204045;86" num="5%" power="2571"/>
+		<ItemSpec id="11706" level="6" synthetic="11700" item_cost="204045;103" num="6%" power="3431"/>
+		<ItemSpec id="11707" level="7" synthetic="11700" item_cost="204045;124" num="7%" pre_condition="11610" power="4463"/>
+		<ItemSpec id="11708" level="8" synthetic="11700" item_cost="204045;149" num="8%" power="5701"/>
+		<ItemSpec id="11709" level="9" synthetic="11700" item_cost="204045;178" num="9%" power="7187"/>
+		<ItemSpec id="11710" level="10" synthetic="11700" num="10%" power="8970"/>
+		<ItemSpec id="11800" level="0" synthetic="11800" item_cost="204045;127" num="0%" pre_condition="11503|11604" power="0"/>
+		<ItemSpec id="11801" level="1" synthetic="11800" item_cost="204045;153" num="1%" power="1272"/>
+		<ItemSpec id="11802" level="2" synthetic="11800" item_cost="204045;183" num="2%" power="2799"/>
+		<ItemSpec id="11803" level="3" synthetic="11800" item_cost="204045;220" num="3%" pre_condition="11505|11610" power="4631"/>
+		<ItemSpec id="11804" level="4" synthetic="11800" item_cost="204045;264" num="4%" power="6830"/>
+		<ItemSpec id="11805" level="5" synthetic="11800" num="5%" power="9468"/>
+		<ItemSpec id="11900" level="0" synthetic="11900" item_cost="204045;134" num="0%" pre_condition="11803|11704" power="0"/>
+		<ItemSpec id="11901" level="1" synthetic="11900" item_cost="204045;161" num="1%" power="1339"/>
+		<ItemSpec id="11902" level="2" synthetic="11900" item_cost="204045;193" num="2%" power="2947"/>
+		<ItemSpec id="11903" level="3" synthetic="11900" item_cost="204045;231" num="3%" pre_condition="11805|11710" power="4875"/>
+		<ItemSpec id="11904" level="4" synthetic="11900" item_cost="204045;278" num="4%" power="7190"/>
+		<ItemSpec id="11905" level="5" synthetic="11900" num="5%" power="9967"/>
+		<ItemSpec id="12000" level="0" synthetic="12000" item_cost="204045;141" num="0%" pre_condition="11704" power="0"/>
+		<ItemSpec id="12001" level="1" synthetic="12000" item_cost="204045;169" num="1%" power="1406"/>
+		<ItemSpec id="12002" level="2" synthetic="12000" item_cost="204045;203" num="2%" power="3094"/>
+		<ItemSpec id="12003" level="3" synthetic="12000" item_cost="204045;243" num="3%" pre_condition="11710" power="5119"/>
+		<ItemSpec id="12004" level="4" synthetic="12000" item_cost="204045;292" num="4%" power="7549"/>
+		<ItemSpec id="12005" level="5" synthetic="12000" num="5%" power="10465"/>
+		<ItemSpec id="12100" level="0" synthetic="12100" item_cost="204045;147" num="0%" pre_condition="11903|12003" power="0"/>
+		<ItemSpec id="12101" level="1" synthetic="12100" item_cost="204045;177" num="1%" power="1473"/>
+		<ItemSpec id="12102" level="2" synthetic="12100" item_cost="204045;212" num="2%" power="3241"/>
+		<ItemSpec id="12103" level="3" synthetic="12100" item_cost="204045;255" num="3%" pre_condition="11905|12005" power="5363"/>
+		<ItemSpec id="12104" level="4" synthetic="12100" item_cost="204045;305" num="4%" power="7908"/>
+		<ItemSpec id="12105" level="5" synthetic="12100" num="5%" power="10963"/>
+		<ItemSpec id="20100" level="0" synthetic="20100" item_cost="204045;23" num="0%" power="0"/>
+		<ItemSpec id="20101" level="1" synthetic="20100" item_cost="204045;28" num="2%" power="229"/>
+		<ItemSpec id="20102" level="2" synthetic="20100" item_cost="204045;33" num="4%" power="505"/>
+		<ItemSpec id="20103" level="3" synthetic="20100" item_cost="204045;40" num="6%" power="835"/>
+		<ItemSpec id="20104" level="4" synthetic="20100" item_cost="204045;48" num="8%" power="1232"/>
+		<ItemSpec id="20105" level="5" synthetic="20100" num="10%" power="1708"/>
+		<ItemSpec id="20200" level="0" synthetic="20200" item_cost="204045;34" num="0%" pre_condition="20103" power="0"/>
+		<ItemSpec id="20201" level="1" synthetic="20200" item_cost="204045;41" num="2%" power="344"/>
+		<ItemSpec id="20202" level="2" synthetic="20200" item_cost="204045;50" num="4%" power="757"/>
+		<ItemSpec id="20203" level="3" synthetic="20200" item_cost="204045;59" num="6%" pre_condition="20105" power="1253"/>
+		<ItemSpec id="20204" level="4" synthetic="20200" item_cost="204045;71" num="8%" power="1848"/>
+		<ItemSpec id="20205" level="5" synthetic="20200" num="10%" power="2561"/>
+		<ItemSpec id="20300" level="0" synthetic="20300" item_cost="204045;46" num="0%" pre_condition="20103" power="0"/>
+		<ItemSpec id="20301" level="1" synthetic="20300" item_cost="204045;55" num="2%" power="459"/>
+		<ItemSpec id="20302" level="2" synthetic="20300" item_cost="204045;66" num="4%" power="1010"/>
+		<ItemSpec id="20303" level="3" synthetic="20300" item_cost="204045;79" num="6%" pre_condition="20105" power="1671"/>
+		<ItemSpec id="20304" level="4" synthetic="20300" item_cost="204045;95" num="8%" power="2464"/>
+		<ItemSpec id="20305" level="5" synthetic="20300" num="10%" power="3415"/>
+		<ItemSpec id="20400" level="0" synthetic="20400" item_cost="204045;57" num="0%" pre_condition="20203|20303" power="0"/>
+		<ItemSpec id="20401" level="1" synthetic="20400" item_cost="204045;69" num="2%" power="574"/>
+		<ItemSpec id="20402" level="2" synthetic="20400" item_cost="204045;83" num="4%" power="1262"/>
+		<ItemSpec id="20403" level="3" synthetic="20400" item_cost="204045;99" num="6%" pre_condition="20205|20305" power="2088"/>
+		<ItemSpec id="20404" level="4" synthetic="20400" item_cost="204045;119" num="8%" power="3080"/>
+		<ItemSpec id="20405" level="5" synthetic="20400" num="10%" power="4269"/>
+		<ItemSpec id="20500" level="0" synthetic="20500" item_cost="204045;69" num="0%" pre_condition="20303" power="0"/>
+		<ItemSpec id="20501" level="1" synthetic="20500" item_cost="204045;83" num="2%" power="688"/>
+		<ItemSpec id="20502" level="2" synthetic="20500" item_cost="204045;99" num="4%" power="1515"/>
+		<ItemSpec id="20503" level="3" synthetic="20500" item_cost="204045;119" num="6%" pre_condition="20305" power="2506"/>
+		<ItemSpec id="20504" level="4" synthetic="20500" item_cost="204045;143" num="8%" power="3695"/>
+		<ItemSpec id="20505" level="5" synthetic="20500" num="10%" power="5123"/>
+		<ItemSpec id="20600" level="0" synthetic="20600" item_cost="204045;80" num="0%" pre_condition="20403|20503" power="0"/>
+		<ItemSpec id="20601" level="1" synthetic="20600" item_cost="204045;96" num="2%" power="803"/>
+		<ItemSpec id="20602" level="2" synthetic="20600" item_cost="204045;116" num="4%" power="1767"/>
+		<ItemSpec id="20603" level="3" synthetic="20600" item_cost="204045;139" num="6%" pre_condition="20405|20505" power="2923"/>
+		<ItemSpec id="20604" level="4" synthetic="20600" item_cost="204045;167" num="8%" power="4311"/>
+		<ItemSpec id="20605" level="5" synthetic="20600" num="10%" power="5977"/>
+		<ItemSpec id="20700" level="0" synthetic="20700" item_cost="204045;92" num="0%" pre_condition="20503" power="0"/>
+		<ItemSpec id="20701" level="1" synthetic="20700" item_cost="204045;110" num="2%" power="918"/>
+		<ItemSpec id="20702" level="2" synthetic="20700" item_cost="204045;132" num="4%" power="2019"/>
+		<ItemSpec id="20703" level="3" synthetic="20700" item_cost="204045;159" num="6%" pre_condition="20505" power="3341"/>
+		<ItemSpec id="20704" level="4" synthetic="20700" item_cost="204045;190" num="8%" power="4927"/>
+		<ItemSpec id="20705" level="5" synthetic="20700" num="10%" power="6831"/>
+		<ItemSpec id="20800" level="0" synthetic="20800" item_cost="204045;103" num="0%" pre_condition="20603|20703" power="0"/>
+		<ItemSpec id="20801" level="1" synthetic="20800" item_cost="204045;124" num="2%" power="1033"/>
+		<ItemSpec id="20802" level="2" synthetic="20800" item_cost="204045;149" num="4%" power="2272"/>
+		<ItemSpec id="20803" level="3" synthetic="20800" item_cost="204045;178" num="6%" pre_condition="20605|20705" power="3759"/>
+		<ItemSpec id="20804" level="4" synthetic="20800" item_cost="204045;214" num="8%" power="5543"/>
+		<ItemSpec id="20805" level="5" synthetic="20800" num="10%" power="7684"/>
+		<ItemSpec id="20900" level="0" synthetic="20900" item_cost="204045;115" num="0%" pre_condition="20703" power="0"/>
+		<ItemSpec id="20901" level="1" synthetic="20900" item_cost="204045;138" num="1%" power="1147"/>
+		<ItemSpec id="20902" level="2" synthetic="20900" item_cost="204045;165" num="2%" power="2524"/>
+		<ItemSpec id="20903" level="3" synthetic="20900" item_cost="204045;198" num="3%" pre_condition="20705" power="4176"/>
+		<ItemSpec id="20904" level="4" synthetic="20900" item_cost="204045;238" num="4%" power="6159"/>
+		<ItemSpec id="20905" level="5" synthetic="20900" num="5%" power="8538"/>
+		<ItemSpec id="21000" level="0" synthetic="21000" item_cost="204045;126" num="0%" pre_condition="20803|20903" power="0"/>
+		<ItemSpec id="21001" level="1" synthetic="21000" item_cost="204045;151" num="1%" power="1262"/>
+		<ItemSpec id="21002" level="2" synthetic="21000" item_cost="204045;182" num="2%" power="2777"/>
+		<ItemSpec id="21003" level="3" synthetic="21000" item_cost="204045;218" num="3%" pre_condition="20805|20905" power="4594"/>
+		<ItemSpec id="21004" level="4" synthetic="21000" item_cost="204045;262" num="4%" power="6775"/>
+		<ItemSpec id="21005" level="5" synthetic="21000" num="5%" power="9392"/>
+		<ItemSpec id="21100" level="0" synthetic="21100" item_cost="204045;138" num="0%" pre_condition="20903" power="0"/>
+		<ItemSpec id="21101" level="1" synthetic="21100" item_cost="204045;165" num="1%" power="1377"/>
+		<ItemSpec id="21102" level="2" synthetic="21100" item_cost="204045;198" num="2%" power="3029"/>
+		<ItemSpec id="21103" level="3" synthetic="21100" item_cost="204045;238" num="3%" pre_condition="20905" power="5012"/>
+		<ItemSpec id="21104" level="4" synthetic="21100" item_cost="204045;286" num="4%" power="7391"/>
+		<ItemSpec id="21105" level="5" synthetic="21100" num="5%" power="10246"/>
+		<ItemSpec id="21200" level="0" synthetic="21200" item_cost="204045;149" num="0%" pre_condition="21003|21103" power="0"/>
+		<ItemSpec id="21201" level="1" synthetic="21200" item_cost="204045;179" num="1%" power="1492"/>
+		<ItemSpec id="21202" level="2" synthetic="21200" item_cost="204045;215" num="2%" power="3281"/>
+		<ItemSpec id="21203" level="3" synthetic="21200" item_cost="204045;258" num="3%" pre_condition="21005|21105" power="5429"/>
+		<ItemSpec id="21204" level="4" synthetic="21200" item_cost="204045;309" num="4%" power="8007"/>
+		<ItemSpec id="21205" level="5" synthetic="21200" num="5%" power="11100"/>
+		<ItemSpec id="21300" level="0" synthetic="21300" item_cost="204045;239|210401;5" num="0%" pre_condition="21205" pre_skill="5;10" power="0"/>
+		<ItemSpec id="21301" level="1" synthetic="21300" num="0%" power="2391"/>
+		<ItemSpec id="21400" level="0" synthetic="21400" item_cost="204045;172" num="0%" pre_condition="21103|21301" power="0"/>
+		<ItemSpec id="21401" level="1" synthetic="21400" item_cost="204045;207" num="1%" power="1721"/>
+		<ItemSpec id="21402" level="2" synthetic="21400" item_cost="204045;248" num="2%" power="3786"/>
+		<ItemSpec id="21403" level="3" synthetic="21400" item_cost="204045;297" num="3%" pre_condition="21105|21301" power="6265"/>
+		<ItemSpec id="21404" level="4" synthetic="21400" item_cost="204045;357" num="4%" power="9239"/>
+		<ItemSpec id="21405" level="5" synthetic="21400" num="5%" power="12807"/>
+		<ItemSpec id="21500" level="0" synthetic="21500" item_cost="204045;184" num="0%" pre_condition="21403" power="0"/>
+		<ItemSpec id="21501" level="1" synthetic="21500" item_cost="204045;220" num="1%" power="1836"/>
+		<ItemSpec id="21502" level="2" synthetic="21500" item_cost="204045;264" num="2%" power="4039"/>
+		<ItemSpec id="21503" level="3" synthetic="21500" item_cost="204045;317" num="3%" pre_condition="21405" power="6682"/>
+		<ItemSpec id="21504" level="4" synthetic="21500" item_cost="204045;381" num="4%" power="9855"/>
+		<ItemSpec id="21505" level="5" synthetic="21500" num="5%" power="13661"/>
+		<ItemSpec id="21600" level="0" synthetic="21600" item_cost="204045;195" num="0%" pre_condition="21301|21403" power="0"/>
+		<ItemSpec id="21601" level="1" synthetic="21600" item_cost="204045;234" num="1%" power="1951"/>
+		<ItemSpec id="21602" level="2" synthetic="21600" item_cost="204045;281" num="2%" power="4291"/>
+		<ItemSpec id="21603" level="3" synthetic="21600" item_cost="204045;337" num="3%" pre_condition="21301|21405" power="7100"/>
+		<ItemSpec id="21604" level="4" synthetic="21600" item_cost="204045;404" num="4%" power="10470"/>
+		<ItemSpec id="21605" level="5" synthetic="21600" num="5%" power="14515"/>
+		<ItemSpec id="21700" level="0" synthetic="21700" item_cost="204045;207" num="0%" pre_condition="21603|21503" power="0"/>
+		<ItemSpec id="21701" level="1" synthetic="21700" item_cost="204045;248" num="1%" power="2065"/>
+		<ItemSpec id="21702" level="2" synthetic="21700" item_cost="204045;297" num="2%" power="4544"/>
+		<ItemSpec id="21703" level="3" synthetic="21700" item_cost="204045;357" num="3%" pre_condition="21605|21505" power="7518"/>
+		<ItemSpec id="21704" level="4" synthetic="21700" item_cost="204045;428" num="4%" power="11086"/>
+		<ItemSpec id="21705" level="5" synthetic="21700" num="5%" power="15369"/>
+		<ItemSpec id="21800" level="0" synthetic="21800" item_cost="204045;218" num="0%" pre_condition="21503" power="0"/>
+		<ItemSpec id="21801" level="1" synthetic="21800" item_cost="204045;262" num="1%" power="2180"/>
+		<ItemSpec id="21802" level="2" synthetic="21800" item_cost="204045;314" num="2%" power="4796"/>
+		<ItemSpec id="21803" level="3" synthetic="21800" item_cost="204045;377" num="3%" pre_condition="21505" power="7935"/>
+		<ItemSpec id="21804" level="4" synthetic="21800" item_cost="204045;452" num="4%" power="11702"/>
+		<ItemSpec id="21805" level="5" synthetic="21800" num="5%" power="16223"/>
+		<ItemSpec id="21900" level="0" synthetic="21900" item_cost="204045;229" num="0%" pre_condition="21803" power="0"/>
+		<ItemSpec id="21901" level="1" synthetic="21900" item_cost="204045;275" num="1%" power="2295"/>
+		<ItemSpec id="21902" level="2" synthetic="21900" item_cost="204045;330" num="2%" power="5048"/>
+		<ItemSpec id="21903" level="3" synthetic="21900" item_cost="204045;397" num="3%" pre_condition="21805" power="8353"/>
+		<ItemSpec id="21904" level="4" synthetic="21900" item_cost="204045;476" num="4%" power="12318"/>
+		<ItemSpec id="21905" level="5" synthetic="21900" num="5%" power="17077"/>
+		<ItemSpec id="22000" level="0" synthetic="22000" item_cost="204045;241" num="0%" pre_condition="21703|21803" power="0"/>
+		<ItemSpec id="22001" level="1" synthetic="22000" item_cost="204045;289" num="1%" power="2409"/>
+		<ItemSpec id="22002" level="2" synthetic="22000" item_cost="204045;347" num="2%" power="5301"/>
+		<ItemSpec id="22003" level="3" synthetic="22000" item_cost="204045;416" num="3%" pre_condition="21705|21805" power="8770"/>
+		<ItemSpec id="22004" level="4" synthetic="22000" item_cost="204045;500" num="4%" power="12934"/>
+		<ItemSpec id="22005" level="5" synthetic="22000" num="5%" power="17930"/>
+		<ItemSpec id="22100" level="0" synthetic="22100" item_cost="204045;252" num="0%" pre_condition="22003|21903" power="0"/>
+		<ItemSpec id="22101" level="1" synthetic="22100" item_cost="204045;303" num="1%" power="2524"/>
+		<ItemSpec id="22102" level="2" synthetic="22100" item_cost="204045;363" num="2%" power="5553"/>
+		<ItemSpec id="22103" level="3" synthetic="22100" item_cost="204045;436" num="3%" pre_condition="22005|21905" power="9188"/>
+		<ItemSpec id="22104" level="4" synthetic="22100" item_cost="204045;523" num="4%" power="13550"/>
+		<ItemSpec id="22105" level="5" synthetic="22100" num="5%" power="18784"/>
+		<ItemSpec id="22200" level="0" synthetic="22200" item_cost="204045;264" num="0%" pre_condition="21903" power="0"/>
+		<ItemSpec id="22201" level="1" synthetic="22200" item_cost="204045;317" num="1%" power="2639"/>
+		<ItemSpec id="22202" level="2" synthetic="22200" item_cost="204045;380" num="2%" power="5806"/>
+		<ItemSpec id="22203" level="3" synthetic="22200" item_cost="204045;456" num="3%" pre_condition="21905" power="9606"/>
+		<ItemSpec id="22204" level="4" synthetic="22200" item_cost="204045;547" num="4%" power="14166"/>
+		<ItemSpec id="22205" level="5" synthetic="22200" num="5%" power="19638"/>
+		<ItemSpec id="22300" level="0" synthetic="22300" item_cost="204045;275" num="0%" pre_condition="22103|22203" power="0"/>
+		<ItemSpec id="22301" level="1" synthetic="22300" item_cost="204045;330" num="1%" power="2754"/>
+		<ItemSpec id="22302" level="2" synthetic="22300" item_cost="204045;397" num="2%" power="6058"/>
+		<ItemSpec id="22303" level="3" synthetic="22300" item_cost="204045;476" num="3%" pre_condition="22105|22205" power="10023"/>
+		<ItemSpec id="22304" level="4" synthetic="22300" item_cost="204045;571" num="4%" power="14782"/>
+		<ItemSpec id="22305" level="5" synthetic="22300" num="5%" power="20492"/>
+		<ItemSpec id="22400" level="0" synthetic="22400" item_cost="204045;427|210401;6" num="0%" pre_condition="22205" pre_skill="8;10" power="0"/>
+		<ItemSpec id="22401" level="1" synthetic="22400" num="0%" spine_star="2" power="4269"/>
+		<ItemSpec id="30100" level="0" synthetic="30100" item_cost="204045;70" num="0%" power="0"/>
+		<ItemSpec id="30101" level="1" synthetic="30100" item_cost="204045;85" num="2%" power="705"/>
+		<ItemSpec id="30102" level="2" synthetic="30100" item_cost="204045;102" num="4%" power="1551"/>
+		<ItemSpec id="30103" level="3" synthetic="30100" item_cost="204045;122" num="6%" power="2566"/>
+		<ItemSpec id="30104" level="4" synthetic="30100" item_cost="204045;146" num="8%" power="3784"/>
+		<ItemSpec id="30105" level="5" synthetic="30100" num="10%" power="5246"/>
+		<ItemSpec id="30200" level="0" synthetic="30200" item_cost="204045;106" num="0%" pre_condition="30103" power="0"/>
+		<ItemSpec id="30201" level="1" synthetic="30200" item_cost="204045;127" num="2%" power="1057"/>
+		<ItemSpec id="30202" level="2" synthetic="30200" item_cost="204045;152" num="4%" power="2326"/>
+		<ItemSpec id="30203" level="3" synthetic="30200" item_cost="204045;183" num="6%" pre_condition="30105" power="3849"/>
+		<ItemSpec id="30204" level="4" synthetic="30200" item_cost="204045;219" num="8%" power="5676"/>
+		<ItemSpec id="30205" level="5" synthetic="30200" num="10%" power="7869"/>
+		<ItemSpec id="30300" level="0" synthetic="30300" item_cost="204045;141" num="0%" pre_condition="30103" power="0"/>
+		<ItemSpec id="30301" level="1" synthetic="30300" item_cost="204045;169" num="2%" power="1410"/>
+		<ItemSpec id="30302" level="2" synthetic="30300" item_cost="204045;203" num="4%" power="3102"/>
+		<ItemSpec id="30303" level="3" synthetic="30300" item_cost="204045;244" num="6%" pre_condition="30105" power="5132"/>
+		<ItemSpec id="30304" level="4" synthetic="30300" item_cost="204045;292" num="8%" power="7569"/>
+		<ItemSpec id="30305" level="5" synthetic="30300" num="10%" power="10492"/>
+		<ItemSpec id="30400" level="0" synthetic="30400" item_cost="204045;176" num="0%" pre_condition="30303|30203" power="0"/>
+		<ItemSpec id="30401" level="1" synthetic="30400" item_cost="204045;211" num="2%" power="1762"/>
+		<ItemSpec id="30402" level="2" synthetic="30400" item_cost="204045;254" num="4%" power="3877"/>
+		<ItemSpec id="30403" level="3" synthetic="30400" item_cost="204045;305" num="6%" pre_condition="30305|30205" power="6415"/>
+		<ItemSpec id="30404" level="4" synthetic="30400" item_cost="204045;365" num="8%" power="9461"/>
+		<ItemSpec id="30405" level="5" synthetic="30400" num="10%" power="13115"/>
+		<ItemSpec id="30500" level="0" synthetic="30500" item_cost="204045;211" num="0%" pre_condition="30203" power="0"/>
+		<ItemSpec id="30501" level="1" synthetic="30500" item_cost="204045;254" num="1%" power="2115"/>
+		<ItemSpec id="30502" level="2" synthetic="30500" item_cost="204045;305" num="2%" power="4653"/>
+		<ItemSpec id="30503" level="3" synthetic="30500" item_cost="204045;365" num="3%" pre_condition="30205" power="7698"/>
+		<ItemSpec id="30504" level="4" synthetic="30500" item_cost="204045;439" num="4%" power="11353"/>
+		<ItemSpec id="30505" level="5" synthetic="30500" num="5%" power="15738"/>
+		<ItemSpec id="30600" level="0" synthetic="30600" item_cost="204045;247" num="0%" pre_condition="30403|30503" power="0"/>
+		<ItemSpec id="30601" level="1" synthetic="30600" item_cost="204045;296" num="1%" power="2467"/>
+		<ItemSpec id="30602" level="2" synthetic="30600" item_cost="204045;355" num="2%" power="5428"/>
+		<ItemSpec id="30603" level="3" synthetic="30600" item_cost="204045;426" num="3%" pre_condition="30405|30505" power="8981"/>
+		<ItemSpec id="30604" level="4" synthetic="30600" item_cost="204045;512" num="4%" power="13245"/>
+		<ItemSpec id="30605" level="5" synthetic="30600" num="5%" power="18362"/>
+		<ItemSpec id="30700" level="0" synthetic="30700" item_cost="204045;282" num="0%" pre_condition="30503" power="0"/>
+		<ItemSpec id="30701" level="1" synthetic="30700" item_cost="204045;338" num="2%" power="2820"/>
+		<ItemSpec id="30702" level="2" synthetic="30700" item_cost="204045;406" num="4%" power="6204"/>
+		<ItemSpec id="30703" level="3" synthetic="30700" item_cost="204045;487" num="6%" pre_condition="30505" power="10264"/>
+		<ItemSpec id="30704" level="4" synthetic="30700" item_cost="204045;585" num="8%" power="15137"/>
+		<ItemSpec id="30705" level="5" synthetic="30700" num="10%" power="20985"/>
+		<ItemSpec id="30800" level="0" synthetic="30800" item_cost="204045;317" num="0%" pre_condition="30703" power="0"/>
+		<ItemSpec id="30801" level="1" synthetic="30800" item_cost="204045;381" num="2%" power="3172"/>
+		<ItemSpec id="30802" level="2" synthetic="30800" item_cost="204045;457" num="4%" power="6979"/>
+		<ItemSpec id="30803" level="3" synthetic="30800" item_cost="204045;548" num="6%" pre_condition="30705" power="11548"/>
+		<ItemSpec id="30804" level="4" synthetic="30800" item_cost="204045;658" num="8%" power="17029"/>
+		<ItemSpec id="30805" level="5" synthetic="30800" num="10%" power="23608"/>
+		<ItemSpec id="30900" level="0" synthetic="30900" item_cost="204045;352" num="0%" pre_condition="30603|30703" power="0"/>
+		<ItemSpec id="30901" level="1" synthetic="30900" item_cost="204045;423" num="2%" power="3525"/>
+		<ItemSpec id="30902" level="2" synthetic="30900" item_cost="204045;508" num="4%" power="7755"/>
+		<ItemSpec id="30903" level="3" synthetic="30900" item_cost="204045;609" num="6%" pre_condition="30605|30705" power="12831"/>
+		<ItemSpec id="30904" level="4" synthetic="30900" item_cost="204045;731" num="8%" power="18922"/>
+		<ItemSpec id="30905" level="5" synthetic="30900" num="10%" power="26231"/>
+		<ItemSpec id="31000" level="0" synthetic="31000" item_cost="204045;388" num="0%" pre_condition="30903|30803" power="0"/>
+		<ItemSpec id="31001" level="1" synthetic="31000" item_cost="204045;465" num="2%" power="3877"/>
+		<ItemSpec id="31002" level="2" synthetic="31000" item_cost="204045;558" num="4%" power="8530"/>
+		<ItemSpec id="31003" level="3" synthetic="31000" item_cost="204045;670" num="6%" pre_condition="30905|30805" power="14114"/>
+		<ItemSpec id="31004" level="4" synthetic="31000" item_cost="204045;804" num="8%" power="20814"/>
+		<ItemSpec id="31005" level="5" synthetic="31000" num="10%" power="28854"/>
+		<ItemSpec id="31100" level="0" synthetic="31100" item_cost="204045;423" num="0%" pre_condition="30803" power="0"/>
+		<ItemSpec id="31101" level="1" synthetic="31100" item_cost="204045;508" num="1%" power="4230"/>
+		<ItemSpec id="31102" level="2" synthetic="31100" item_cost="204045;609" num="2%" power="9306"/>
+		<ItemSpec id="31103" level="3" synthetic="31100" item_cost="204045;731" num="3%" pre_condition="30805" power="15397"/>
+		<ItemSpec id="31104" level="4" synthetic="31100" item_cost="204045;877" num="4%" power="22706"/>
+		<ItemSpec id="31105" level="5" synthetic="31100" num="5%" power="31477"/>
+		<ItemSpec id="31200" level="0" synthetic="31200" item_cost="204045;458" num="0%" pre_condition="31003|31103" power="0"/>
+		<ItemSpec id="31201" level="1" synthetic="31200" item_cost="204045;550" num="1%" power="4582"/>
+		<ItemSpec id="31202" level="2" synthetic="31200" item_cost="204045;660" num="2%" power="10081"/>
+		<ItemSpec id="31203" level="3" synthetic="31200" item_cost="204045;792" num="3%" pre_condition="31005|31105" power="16680"/>
+		<ItemSpec id="31204" level="4" synthetic="31200" item_cost="204045;950" num="4%" power="24598"/>
+		<ItemSpec id="31205" level="5" synthetic="31200" num="5%" power="34100"/>
+		<ItemSpec id="31300" level="0" synthetic="31300" item_cost="204045;734|210401;5" num="0%" pre_condition="31205" power="0"/>
+		<ItemSpec id="31301" level="1" synthetic="31300" num="0%" power="7345"/>
+		<ItemSpec id="31400" level="0" synthetic="31400" item_cost="204045;529" num="0%" pre_condition="31103|31301" power="0"/>
+		<ItemSpec id="31401" level="1" synthetic="31400" item_cost="204045;634" num="1%" power="5287"/>
+		<ItemSpec id="31402" level="2" synthetic="31400" item_cost="204045;761" num="2%" power="11632"/>
+		<ItemSpec id="31403" level="3" synthetic="31400" item_cost="204045;914" num="3%" pre_condition="31105|31301" power="19246"/>
+		<ItemSpec id="31404" level="4" synthetic="31400" item_cost="204045;1096" num="4%" power="28382"/>
+		<ItemSpec id="31405" level="5" synthetic="31400" num="5%" power="39346"/>
+		<ItemSpec id="31500" level="0" synthetic="31500" item_cost="204045;564" num="0%" pre_condition="31301|31403" power="0"/>
+		<ItemSpec id="31501" level="1" synthetic="31500" item_cost="204045;677" num="1%" power="5640"/>
+		<ItemSpec id="31502" level="2" synthetic="31500" item_cost="204045;812" num="2%" power="12408"/>
+		<ItemSpec id="31503" level="3" synthetic="31500" item_cost="204045;975" num="3%" pre_condition="31301|31405" power="20529"/>
+		<ItemSpec id="31504" level="4" synthetic="31500" item_cost="204045;1169" num="4%" power="30275"/>
+		<ItemSpec id="31505" level="5" synthetic="31500" num="5%" power="41969"/>
+		<ItemSpec id="31600" level="0" synthetic="31600" item_cost="204045;599" num="0%" pre_condition="31403" power="0"/>
+		<ItemSpec id="31601" level="1" synthetic="31600" item_cost="204045;719" num="1%" power="5992"/>
+		<ItemSpec id="31602" level="2" synthetic="31600" item_cost="204045;863" num="2%" power="13183"/>
+		<ItemSpec id="31603" level="3" synthetic="31600" item_cost="204045;1035" num="3%" pre_condition="31405" power="21812"/>
+		<ItemSpec id="31604" level="4" synthetic="31600" item_cost="204045;1243" num="4%" power="32167"/>
+		<ItemSpec id="31605" level="5" synthetic="31600" num="5%" power="44592"/>
+		<ItemSpec id="31700" level="0" synthetic="31700" item_cost="204045;634" num="0%" pre_condition="31503|31603" power="0"/>
+		<ItemSpec id="31701" level="1" synthetic="31700" item_cost="204045;761" num="1%" power="6345"/>
+		<ItemSpec id="31702" level="2" synthetic="31700" item_cost="204045;914" num="2%" power="13959"/>
+		<ItemSpec id="31703" level="3" synthetic="31700" item_cost="204045;1096" num="3%" pre_condition="31505|31605" power="23095"/>
+		<ItemSpec id="31704" level="4" synthetic="31700" item_cost="204045;1316" num="4%" power="34059"/>
+		<ItemSpec id="31705" level="5" synthetic="31700" num="5%" power="47215"/>
+		<ItemSpec id="31800" level="0" synthetic="31800" item_cost="204045;670" num="0%" pre_condition="31703" power="0"/>
+		<ItemSpec id="31801" level="1" synthetic="31800" item_cost="204045;804" num="1%" power="6697"/>
+		<ItemSpec id="31802" level="2" synthetic="31800" item_cost="204045;964" num="2%" power="14734"/>
+		<ItemSpec id="31803" level="3" synthetic="31800" item_cost="204045;1157" num="3%" pre_condition="31705" power="24378"/>
+		<ItemSpec id="31804" level="4" synthetic="31800" item_cost="204045;1389" num="4%" power="35951"/>
+		<ItemSpec id="31805" level="5" synthetic="31800" num="5%" power="49839"/>
+		<ItemSpec id="31900" level="0" synthetic="31900" item_cost="204045;1049|210401;6" num="0%" pre_condition="31605|31805" power="0"/>
+		<ItemSpec id="31901" level="1" synthetic="31900" num="0%" spine_star="3" power="10492"/>
+		<ItemSpec id="32000" level="0" synthetic="32000" item_cost="204045;740" num="0%" pre_condition="31901" power="0"/>
+		<ItemSpec id="32001" level="1" synthetic="32000" item_cost="204045;888" num="1%" power="7402"/>
+		<ItemSpec id="32002" level="2" synthetic="32000" item_cost="204045;1066" num="2%" power="16285"/>
+		<ItemSpec id="32003" level="3" synthetic="32000" item_cost="204045;1279" num="3%" pre_condition="31901" power="26944"/>
+		<ItemSpec id="32004" level="4" synthetic="32000" item_cost="204045;1535" num="4%" power="39735"/>
+		<ItemSpec id="32005" level="5" synthetic="32000" num="5%" power="55085"/>
+		<ItemSpec id="32100" level="0" synthetic="32100" item_cost="204045;775" num="0%" pre_condition="31803|32003" power="0"/>
+		<ItemSpec id="32101" level="1" synthetic="32100" item_cost="204045;931" num="1%" power="7755"/>
+		<ItemSpec id="32102" level="2" synthetic="32100" item_cost="204045;1117" num="2%" power="17060"/>
+		<ItemSpec id="32103" level="3" synthetic="32100" item_cost="204045;1340" num="3%" pre_condition="31805|32005" power="28227"/>
+		<ItemSpec id="32104" level="4" synthetic="32100" item_cost="204045;1608" num="4%" power="41628"/>
+		<ItemSpec id="32105" level="5" synthetic="32100" num="5%" power="57708"/>
+		<ItemSpec id="32200" level="0" synthetic="32200" item_cost="204045;811" num="0%" pre_condition="32003" power="0"/>
+		<ItemSpec id="32201" level="1" synthetic="32200" item_cost="204045;973" num="1%" power="8107"/>
+		<ItemSpec id="32202" level="2" synthetic="32200" item_cost="204045;1167" num="2%" power="17836"/>
+		<ItemSpec id="32203" level="3" synthetic="32200" item_cost="204045;1401" num="3%" pre_condition="32005" power="29510"/>
+		<ItemSpec id="32204" level="4" synthetic="32200" item_cost="204045;1681" num="4%" power="43520"/>
+		<ItemSpec id="32205" level="5" synthetic="32200" num="5%" power="60331"/>
+		<ItemSpec id="40100" level="0" synthetic="40100" item_cost="204045;84" num="0%" power="0"/>
+		<ItemSpec id="40101" level="1" synthetic="40100" item_cost="204045;101" num="1%" power="839"/>
+		<ItemSpec id="40102" level="2" synthetic="40100" item_cost="204045;121" num="2%" power="1845"/>
+		<ItemSpec id="40103" level="3" synthetic="40100" item_cost="204045;145" num="3%" power="3053"/>
+		<ItemSpec id="40104" level="4" synthetic="40100" item_cost="204045;174" num="4%" power="4503"/>
+		<ItemSpec id="40105" level="5" synthetic="40100" num="5%" power="6242"/>
+		<ItemSpec id="40200" level="0" synthetic="40200" item_cost="204045;126" num="0%" pre_condition="40103" power="0"/>
+		<ItemSpec id="40201" level="1" synthetic="40200" item_cost="204045;151" num="1%" power="1258"/>
+		<ItemSpec id="40202" level="2" synthetic="40200" item_cost="204045;181" num="2%" power="2768"/>
+		<ItemSpec id="40203" level="3" synthetic="40200" item_cost="204045;217" num="3%" pre_condition="40105" power="4580"/>
+		<ItemSpec id="40204" level="4" synthetic="40200" item_cost="204045;261" num="4%" power="6754"/>
+		<ItemSpec id="40205" level="5" synthetic="40200" num="5%" power="9363"/>
+		<ItemSpec id="40300" level="0" synthetic="40300" item_cost="204045;168" num="0%" pre_condition="40103" power="0"/>
+		<ItemSpec id="40301" level="1" synthetic="40300" item_cost="204045;201" num="1%" power="1678"/>
+		<ItemSpec id="40302" level="2" synthetic="40300" item_cost="204045;242" num="2%" power="3691"/>
+		<ItemSpec id="40303" level="3" synthetic="40300" item_cost="204045;290" num="3%" pre_condition="40105" power="6106"/>
+		<ItemSpec id="40304" level="4" synthetic="40300" item_cost="204045;348" num="4%" power="9005"/>
+		<ItemSpec id="40305" level="5" synthetic="40300" num="5%" power="12484"/>
+		<ItemSpec id="40400" level="0" synthetic="40400" item_cost="204045;210" num="0%" pre_condition="40303|40203" power="0"/>
+		<ItemSpec id="40401" level="1" synthetic="40400" item_cost="204045;252" num="1%" power="2097"/>
+		<ItemSpec id="40402" level="2" synthetic="40400" item_cost="204045;302" num="2%" power="4613"/>
+		<ItemSpec id="40403" level="3" synthetic="40400" item_cost="204045;362" num="3%" pre_condition="40305|40205" power="7633"/>
+		<ItemSpec id="40404" level="4" synthetic="40400" item_cost="204045;435" num="4%" power="11256"/>
+		<ItemSpec id="40405" level="5" synthetic="40400" num="5%" power="15605"/>
+		<ItemSpec id="40500" level="0" synthetic="40500" item_cost="204045;252" num="0%" pre_condition="40203" power="0"/>
+		<ItemSpec id="40501" level="1" synthetic="40500" item_cost="204045;302" num="1%" power="2516"/>
+		<ItemSpec id="40502" level="2" synthetic="40500" item_cost="204045;362" num="2%" power="5536"/>
+		<ItemSpec id="40503" level="3" synthetic="40500" item_cost="204045;435" num="3%" pre_condition="40205" power="9159"/>
+		<ItemSpec id="40504" level="4" synthetic="40500" item_cost="204045;522" num="4%" power="13508"/>
+		<ItemSpec id="40505" level="5" synthetic="40500" num="5%" power="18726"/>
+		<ItemSpec id="40600" level="0" synthetic="40600" item_cost="204045;294" num="0%" pre_condition="40403|40503" power="0"/>
+		<ItemSpec id="40601" level="1" synthetic="40600" item_cost="204045;352" num="1%" power="2936"/>
+		<ItemSpec id="40602" level="2" synthetic="40600" item_cost="204045;423" num="2%" power="6459"/>
+		<ItemSpec id="40603" level="3" synthetic="40600" item_cost="204045;507" num="3%" pre_condition="40405|40505" power="10686"/>
+		<ItemSpec id="40604" level="4" synthetic="40600" item_cost="204045;609" num="4%" power="15759"/>
+		<ItemSpec id="40605" level="5" synthetic="40600" num="5%" power="21847"/>
+		<ItemSpec id="40700" level="0" synthetic="40700" item_cost="204045;336" num="0%" pre_condition="40503" power="0"/>
+		<ItemSpec id="40701" level="1" synthetic="40700" item_cost="204045;403" num="1%" power="3355"/>
+		<ItemSpec id="40702" level="2" synthetic="40700" item_cost="204045;483" num="2%" power="7381"/>
+		<ItemSpec id="40703" level="3" synthetic="40700" item_cost="204045;580" num="3%" pre_condition="40505" power="12213"/>
+		<ItemSpec id="40704" level="4" synthetic="40700" item_cost="204045;696" num="4%" power="18010"/>
+		<ItemSpec id="40705" level="5" synthetic="40700" num="5%" power="24967"/>
+		<ItemSpec id="40800" level="0" synthetic="40800" item_cost="204045;377" num="0%" pre_condition="40703" power="0"/>
+		<ItemSpec id="40801" level="1" synthetic="40800" item_cost="204045;453" num="1%" power="3775"/>
+		<ItemSpec id="40802" level="2" synthetic="40800" item_cost="204045;544" num="2%" power="8304"/>
+		<ItemSpec id="40803" level="3" synthetic="40800" item_cost="204045;652" num="3%" pre_condition="40705" power="13739"/>
+		<ItemSpec id="40804" level="4" synthetic="40800" item_cost="204045;783" num="4%" power="20262"/>
+		<ItemSpec id="40805" level="5" synthetic="40800" num="5%" power="28088"/>
+		<ItemSpec id="40900" level="0" synthetic="40900" item_cost="204045;419" num="0%" pre_condition="40603|40703" power="0"/>
+		<ItemSpec id="40901" level="1" synthetic="40900" item_cost="204045;503" num="1%" power="4194"/>
+		<ItemSpec id="40902" level="2" synthetic="40900" item_cost="204045;604" num="2%" power="9227"/>
+		<ItemSpec id="40903" level="3" synthetic="40900" item_cost="204045;725" num="3%" pre_condition="40605|40705" power="15266"/>
+		<ItemSpec id="40904" level="4" synthetic="40900" item_cost="204045;870" num="4%" power="22513"/>
+		<ItemSpec id="40905" level="5" synthetic="40900" num="5%" power="31209"/>
+		<ItemSpec id="41000" level="0" synthetic="41000" item_cost="204045;461" num="0%" pre_condition="40903|40803" power="0"/>
+		<ItemSpec id="41001" level="1" synthetic="41000" item_cost="204045;554" num="1%" power="4613"/>
+		<ItemSpec id="41002" level="2" synthetic="41000" item_cost="204045;664" num="2%" power="10149"/>
+		<ItemSpec id="41003" level="3" synthetic="41000" item_cost="204045;797" num="3%" pre_condition="40905|40805" power="16792"/>
+		<ItemSpec id="41004" level="4" synthetic="41000" item_cost="204045;957" num="4%" power="24764"/>
+		<ItemSpec id="41005" level="5" synthetic="41000" num="5%" power="34330"/>
+		<ItemSpec id="41100" level="0" synthetic="41100" item_cost="204045;503" num="0%" pre_condition="40803" power="0"/>
+		<ItemSpec id="41101" level="1" synthetic="41100" item_cost="204045;604" num="1%" power="5033"/>
+		<ItemSpec id="41102" level="2" synthetic="41100" item_cost="204045;725" num="2%" power="11072"/>
+		<ItemSpec id="41103" level="3" synthetic="41100" item_cost="204045;870" num="3%" pre_condition="40805" power="18319"/>
+		<ItemSpec id="41104" level="4" synthetic="41100" item_cost="204045;1044" num="4%" power="27015"/>
+		<ItemSpec id="41105" level="5" synthetic="41100" num="5%" power="37451"/>
+		<ItemSpec id="41200" level="0" synthetic="41200" item_cost="204045;545" num="0%" pre_condition="41003|41103" power="0"/>
+		<ItemSpec id="41201" level="1" synthetic="41200" item_cost="204045;654" num="1%" power="5452"/>
+		<ItemSpec id="41202" level="2" synthetic="41200" item_cost="204045;785" num="2%" power="11995"/>
+		<ItemSpec id="41203" level="3" synthetic="41200" item_cost="204045;942" num="3%" pre_condition="41005|41105" power="19846"/>
+		<ItemSpec id="41204" level="4" synthetic="41200" item_cost="204045;1131" num="4%" power="29267"/>
+		<ItemSpec id="41205" level="5" synthetic="41200" num="5%" power="40572"/>
+		<ItemSpec id="41300" level="0" synthetic="41300" item_cost="204045;874|210401;8" num="0%" pre_condition="41205" power="0"/>
+		<ItemSpec id="41301" level="1" synthetic="41300" num="0%" power="8739"/>
+		<ItemSpec id="41400" level="0" synthetic="41400" item_cost="204045;629" num="0%" pre_condition="41103|41301" power="0"/>
+		<ItemSpec id="41401" level="1" synthetic="41400" item_cost="204045;755" num="1%" power="6291"/>
+		<ItemSpec id="41402" level="2" synthetic="41400" item_cost="204045;906" num="2%" power="13840"/>
+		<ItemSpec id="41403" level="3" synthetic="41400" item_cost="204045;1087" num="3%" pre_condition="41105|41301" power="22899"/>
+		<ItemSpec id="41404" level="4" synthetic="41400" item_cost="204045;1304" num="4%" power="33769"/>
+		<ItemSpec id="41405" level="5" synthetic="41400" num="5%" power="46814"/>
+		<ItemSpec id="41500" level="0" synthetic="41500" item_cost="204045;671" num="0%" pre_condition="41403" power="0"/>
+		<ItemSpec id="41501" level="1" synthetic="41500" item_cost="204045;805" num="1%" power="6710"/>
+		<ItemSpec id="41502" level="2" synthetic="41500" item_cost="204045;966" num="2%" power="14763"/>
+		<ItemSpec id="41503" level="3" synthetic="41500" item_cost="204045;1160" num="3%" pre_condition="41405" power="24425"/>
+		<ItemSpec id="41504" level="4" synthetic="41500" item_cost="204045;1391" num="4%" power="36021"/>
+		<ItemSpec id="41505" level="5" synthetic="41500" num="5%" power="49935"/>
+		<ItemSpec id="41600" level="0" synthetic="41600" item_cost="204045;713" num="0%" pre_condition="41301|41403" power="0"/>
+		<ItemSpec id="41601" level="1" synthetic="41600" item_cost="204045;856" num="1%" power="7130"/>
+		<ItemSpec id="41602" level="2" synthetic="41600" item_cost="204045;1027" num="2%" power="15685"/>
+		<ItemSpec id="41603" level="3" synthetic="41600" item_cost="204045;1232" num="3%" pre_condition="41301|41405" power="25952"/>
+		<ItemSpec id="41604" level="4" synthetic="41600" item_cost="204045;1478" num="4%" power="38272"/>
+		<ItemSpec id="41605" level="5" synthetic="41600" num="5%" power="53056"/>
+		<ItemSpec id="41700" level="0" synthetic="41700" item_cost="204045;755" num="0%" pre_condition="41603|41503" power="0"/>
+		<ItemSpec id="41701" level="1" synthetic="41700" item_cost="204045;906" num="1%" power="7549"/>
+		<ItemSpec id="41702" level="2" synthetic="41700" item_cost="204045;1087" num="2%" power="16608"/>
+		<ItemSpec id="41703" level="3" synthetic="41700" item_cost="204045;1304" num="3%" pre_condition="41605|41505" power="27478"/>
+		<ItemSpec id="41704" level="4" synthetic="41700" item_cost="204045;1565" num="4%" power="40523"/>
+		<ItemSpec id="41705" level="5" synthetic="41700" num="5%" power="56177"/>
+		<ItemSpec id="41800" level="0" synthetic="41800" item_cost="204045;797" num="0%" pre_condition="41503" power="0"/>
+		<ItemSpec id="41801" level="1" synthetic="41800" item_cost="204045;956" num="1%" power="7968"/>
+		<ItemSpec id="41802" level="2" synthetic="41800" item_cost="204045;1147" num="2%" power="17531"/>
+		<ItemSpec id="41803" level="3" synthetic="41800" item_cost="204045;1377" num="3%" pre_condition="41505" power="29005"/>
+		<ItemSpec id="41804" level="4" synthetic="41800" item_cost="204045;1652" num="4%" power="42774"/>
+		<ItemSpec id="41805" level="5" synthetic="41800" num="5%" power="59298"/>
+		<ItemSpec id="41900" level="0" synthetic="41900" item_cost="204045;839" num="0%" pre_condition="41703|41803" power="0"/>
+		<ItemSpec id="41901" level="1" synthetic="41900" item_cost="204045;1007" num="1%" power="8388"/>
+		<ItemSpec id="41902" level="2" synthetic="41900" item_cost="204045;1208" num="2%" power="18453"/>
+		<ItemSpec id="41903" level="3" synthetic="41900" item_cost="204045;1449" num="3%" pre_condition="41705|41805" power="30532"/>
+		<ItemSpec id="41904" level="4" synthetic="41900" item_cost="204045;1739" num="4%" power="45026"/>
+		<ItemSpec id="41905" level="5" synthetic="41900" num="5%" power="62419"/>
+		<ItemSpec id="42000" level="0" synthetic="42000" item_cost="204045;881" num="0%" pre_condition="41803" power="0"/>
+		<ItemSpec id="42001" level="1" synthetic="42000" item_cost="204045;1057" num="1%" power="8807"/>
+		<ItemSpec id="42002" level="2" synthetic="42000" item_cost="204045;1268" num="2%" power="19376"/>
+		<ItemSpec id="42003" level="3" synthetic="42000" item_cost="204045;1522" num="3%" pre_condition="41805" power="32058"/>
+		<ItemSpec id="42004" level="4" synthetic="42000" item_cost="204045;1826" num="4%" power="47277"/>
+		<ItemSpec id="42005" level="5" synthetic="42000" num="5%" power="65540"/>
+		<ItemSpec id="42100" level="0" synthetic="42100" item_cost="204045;923" num="0%" pre_condition="42003" power="0"/>
+		<ItemSpec id="42101" level="1" synthetic="42100" item_cost="204045;1107" num="1%" power="9227"/>
+		<ItemSpec id="42102" level="2" synthetic="42100" item_cost="204045;1329" num="2%" power="20298"/>
+		<ItemSpec id="42103" level="3" synthetic="42100" item_cost="204045;1594" num="3%" pre_condition="42005" power="33585"/>
+		<ItemSpec id="42104" level="4" synthetic="42100" item_cost="204045;1913" num="4%" power="49528"/>
+		<ItemSpec id="42105" level="5" synthetic="42100" num="5%" power="68661"/>
+		<ItemSpec id="42200" level="0" synthetic="42200" item_cost="204045;965" num="0%" pre_condition="41903|42003" power="0"/>
+		<ItemSpec id="42201" level="1" synthetic="42200" item_cost="204045;1158" num="1%" power="9646"/>
+		<ItemSpec id="42202" level="2" synthetic="42200" item_cost="204045;1389" num="2%" power="21221"/>
+		<ItemSpec id="42203" level="3" synthetic="42200" item_cost="204045;1667" num="3%" pre_condition="41905|42005" power="35111"/>
+		<ItemSpec id="42204" level="4" synthetic="42200" item_cost="204045;2000" num="4%" power="51780"/>
+		<ItemSpec id="42205" level="5" synthetic="42200" num="5%" power="71782"/>
+		<ItemSpec id="42300" level="0" synthetic="42300" item_cost="204045;1007" num="0%" pre_condition="42203|42103" power="0"/>
+		<ItemSpec id="42301" level="1" synthetic="42300" item_cost="204045;1208" num="1%" power="10065"/>
+		<ItemSpec id="42302" level="2" synthetic="42300" item_cost="204045;1449" num="2%" power="22144"/>
+		<ItemSpec id="42303" level="3" synthetic="42300" item_cost="204045;1739" num="3%" pre_condition="42205|42105" power="36638"/>
+		<ItemSpec id="42304" level="4" synthetic="42300" item_cost="204045;2087" num="4%" power="54031"/>
+		<ItemSpec id="42305" level="5" synthetic="42300" num="5%" power="74902"/>
+		<ItemSpec id="42400" level="0" synthetic="42400" item_cost="204045;1048" num="0%" pre_condition="42103" power="0"/>
+		<ItemSpec id="42401" level="1" synthetic="42400" item_cost="204045;1258" num="1%" power="10485"/>
+		<ItemSpec id="42402" level="2" synthetic="42400" item_cost="204045;1510" num="2%" power="23066"/>
+		<ItemSpec id="42403" level="3" synthetic="42400" item_cost="204045;1812" num="3%" pre_condition="42105" power="38165"/>
+		<ItemSpec id="42404" level="4" synthetic="42400" item_cost="204045;2174" num="4%" power="56282"/>
+		<ItemSpec id="42405" level="5" synthetic="42400" num="5%" power="78023"/>
+		<ItemSpec id="42500" level="0" synthetic="42500" item_cost="204045;1090" num="0%" pre_condition="42303|42403" power="0"/>
+		<ItemSpec id="42501" level="1" synthetic="42500" item_cost="204045;1308" num="1%" power="10904"/>
+		<ItemSpec id="42502" level="2" synthetic="42500" item_cost="204045;1570" num="2%" power="23989"/>
+		<ItemSpec id="42503" level="3" synthetic="42500" item_cost="204045;1884" num="3%" pre_condition="42305|42405" power="39691"/>
+		<ItemSpec id="42504" level="4" synthetic="42500" item_cost="204045;2261" num="4%" power="58533"/>
+		<ItemSpec id="42505" level="5" synthetic="42500" num="5%" power="81144"/>
+		<ItemSpec id="42600" level="0" synthetic="42600" item_cost="204045;1132" num="0%" pre_condition="42503" power="0"/>
+		<ItemSpec id="42601" level="1" synthetic="42600" item_cost="204045;1359" num="1%" power="11324"/>
+		<ItemSpec id="42602" level="2" synthetic="42600" item_cost="204045;1631" num="2%" power="24912"/>
+		<ItemSpec id="42603" level="3" synthetic="42600" item_cost="204045;1957" num="3%" pre_condition="42505" power="41218"/>
+		<ItemSpec id="42604" level="4" synthetic="42600" item_cost="204045;2348" num="4%" power="60785"/>
+		<ItemSpec id="42605" level="5" synthetic="42600" num="5%" power="84265"/>
+		<ItemSpec id="42700" level="0" synthetic="42700" item_cost="204045;1748|210401;8" num="0%" pre_condition="42405|42605" power="0"/>
+		<ItemSpec id="42701" level="1" synthetic="42700" num="0%" spine_star="4" power="17477"/>
+		<ItemSpec id="42800" level="0" synthetic="42800" item_cost="204045;1216" num="0%" pre_condition="42603|42701" power="0"/>
+		<ItemSpec id="42801" level="1" synthetic="42800" item_cost="204045;1459" num="1%" power="12162"/>
+		<ItemSpec id="42802" level="2" synthetic="42800" item_cost="204045;1751" num="2%" power="26757"/>
+		<ItemSpec id="42803" level="3" synthetic="42800" item_cost="204045;2102" num="3%" pre_condition="42605|42701" power="44271"/>
+		<ItemSpec id="42804" level="4" synthetic="42800" item_cost="204045;2522" num="4%" power="65287"/>
+		<ItemSpec id="42805" level="5" synthetic="42800" num="5%" power="90507"/>
+		<ItemSpec id="42900" level="0" synthetic="42900" item_cost="204045;1258" num="0%" pre_condition="42701" power="0"/>
+		<ItemSpec id="42901" level="1" synthetic="42900" item_cost="204045;1510" num="1%" power="12582"/>
+		<ItemSpec id="42902" level="2" synthetic="42900" item_cost="204045;1812" num="2%" power="27680"/>
+		<ItemSpec id="42903" level="3" synthetic="42900" item_cost="204045;2174" num="3%" pre_condition="42701" power="45797"/>
+		<ItemSpec id="42904" level="4" synthetic="42900" item_cost="204045;2609" num="4%" power="67539"/>
+		<ItemSpec id="42905" level="5" synthetic="42900" num="5%" power="93628"/>
+		<ItemSpec id="43000" level="0" synthetic="43000" item_cost="204045;1300" num="0%" pre_condition="42803|42903" power="0"/>
+		<ItemSpec id="43001" level="1" synthetic="43000" item_cost="204045;1560" num="1%" power="13001"/>
+		<ItemSpec id="43002" level="2" synthetic="43000" item_cost="204045;1872" num="2%" power="28602"/>
+		<ItemSpec id="43003" level="3" synthetic="43000" item_cost="204045;2247" num="3%" pre_condition="42805|42905" power="47324"/>
+		<ItemSpec id="43004" level="4" synthetic="43000" item_cost="204045;2696" num="4%" power="69790"/>
+		<ItemSpec id="43005" level="5" synthetic="43000" num="5%" power="96749"/>
+		<ItemSpec id="50100" level="0" synthetic="50100" item_cost="204045;181" num="0%" power="0"/>
+		<ItemSpec id="50101" level="1" synthetic="50100" item_cost="204045;217" num="1%" power="1809"/>
+		<ItemSpec id="50102" level="2" synthetic="50100" item_cost="204045;260" num="2%" power="3979"/>
+		<ItemSpec id="50103" level="3" synthetic="50100" item_cost="204045;313" num="3%" power="6584"/>
+		<ItemSpec id="50104" level="4" synthetic="50100" item_cost="204045;375" num="4%" power="9709"/>
+		<ItemSpec id="50105" level="5" synthetic="50100" num="5%" power="13460"/>
+		<ItemSpec id="50200" level="0" synthetic="50200" item_cost="204045;271" num="0%" pre_condition="50103" power="0"/>
+		<ItemSpec id="50201" level="1" synthetic="50200" item_cost="204045;326" num="1%" power="2713"/>
+		<ItemSpec id="50202" level="2" synthetic="50200" item_cost="204045;391" num="2%" power="5969"/>
+		<ItemSpec id="50203" level="3" synthetic="50200" item_cost="204045;469" num="3%" pre_condition="50105" power="9876"/>
+		<ItemSpec id="50204" level="4" synthetic="50200" item_cost="204045;563" num="4%" power="14564"/>
+		<ItemSpec id="50205" level="5" synthetic="50200" num="5%" power="20189"/>
+		<ItemSpec id="50300" level="0" synthetic="50300" item_cost="204045;362" num="0%" pre_condition="50103" power="0"/>
+		<ItemSpec id="50301" level="1" synthetic="50300" item_cost="204045;434" num="1%" power="3617"/>
+		<ItemSpec id="50302" level="2" synthetic="50300" item_cost="204045;521" num="2%" power="7958"/>
+		<ItemSpec id="50303" level="3" synthetic="50300" item_cost="204045;625" num="3%" pre_condition="50105" power="13167"/>
+		<ItemSpec id="50304" level="4" synthetic="50300" item_cost="204045;750" num="4%" power="19418"/>
+		<ItemSpec id="50305" level="5" synthetic="50300" num="5%" power="26919"/>
+		<ItemSpec id="50400" level="0" synthetic="50400" item_cost="204045;452" num="0%" pre_condition="50203|50303" power="0"/>
+		<ItemSpec id="50401" level="1" synthetic="50400" item_cost="204045;543" num="1%" power="4522"/>
+		<ItemSpec id="50402" level="2" synthetic="50400" item_cost="204045;651" num="2%" power="9948"/>
+		<ItemSpec id="50403" level="3" synthetic="50400" item_cost="204045;781" num="3%" pre_condition="50205|50305" power="16459"/>
+		<ItemSpec id="50404" level="4" synthetic="50400" item_cost="204045;938" num="4%" power="24273"/>
+		<ItemSpec id="50405" level="5" synthetic="50400" num="5%" power="33649"/>
+		<ItemSpec id="50500" level="0" synthetic="50500" item_cost="204045;543" num="0%" pre_condition="50303" power="0"/>
+		<ItemSpec id="50501" level="1" synthetic="50500" item_cost="204045;651" num="1%" power="5426"/>
+		<ItemSpec id="50502" level="2" synthetic="50500" item_cost="204045;781" num="2%" power="11937"/>
+		<ItemSpec id="50503" level="3" synthetic="50500" item_cost="204045;938" num="3%" pre_condition="50305" power="19751"/>
+		<ItemSpec id="50504" level="4" synthetic="50500" item_cost="204045;1125" num="4%" power="29127"/>
+		<ItemSpec id="50505" level="5" synthetic="50500" num="5%" power="40379"/>
+		<ItemSpec id="50600" level="0" synthetic="50600" item_cost="204045;633" num="0%" pre_condition="50403|50503" power="0"/>
+		<ItemSpec id="50601" level="1" synthetic="50600" item_cost="204045;760" num="1%" power="6330"/>
+		<ItemSpec id="50602" level="2" synthetic="50600" item_cost="204045;912" num="2%" power="13927"/>
+		<ItemSpec id="50603" level="3" synthetic="50600" item_cost="204045;1094" num="3%" pre_condition="50405|50505" power="23043"/>
+		<ItemSpec id="50604" level="4" synthetic="50600" item_cost="204045;1313" num="4%" power="33982"/>
+		<ItemSpec id="50605" level="5" synthetic="50600" num="5%" power="47109"/>
+		<ItemSpec id="50700" level="0" synthetic="50700" item_cost="204045;723" num="0%" pre_condition="50503" power="0"/>
+		<ItemSpec id="50701" level="1" synthetic="50700" item_cost="204045;868" num="1%" power="7235"/>
+		<ItemSpec id="50702" level="2" synthetic="50700" item_cost="204045;1042" num="2%" power="15917"/>
+		<ItemSpec id="50703" level="3" synthetic="50700" item_cost="204045;1250" num="3%" pre_condition="50505" power="26335"/>
+		<ItemSpec id="50704" level="4" synthetic="50700" item_cost="204045;1500" num="4%" power="38836"/>
+		<ItemSpec id="50705" level="5" synthetic="50700" num="5%" power="53838"/>
+		<ItemSpec id="50800" level="0" synthetic="50800" item_cost="204045;814" num="0%" pre_condition="50603|50703" power="0"/>
+		<ItemSpec id="50801" level="1" synthetic="50800" item_cost="204045;977" num="1%" power="8139"/>
+		<ItemSpec id="50802" level="2" synthetic="50800" item_cost="204045;1172" num="2%" power="17906"/>
+		<ItemSpec id="50803" level="3" synthetic="50800" item_cost="204045;1406" num="3%" pre_condition="50605|50705" power="29627"/>
+		<ItemSpec id="50804" level="4" synthetic="50800" item_cost="204045;1688" num="4%" power="43691"/>
+		<ItemSpec id="50805" level="5" synthetic="50800" num="5%" power="60568"/>
+		<ItemSpec id="50900" level="0" synthetic="50900" item_cost="204045;904" num="0%" pre_condition="50703" power="0"/>
+		<ItemSpec id="50901" level="1" synthetic="50900" item_cost="204045;1085" num="1%" power="9043"/>
+		<ItemSpec id="50902" level="2" synthetic="50900" item_cost="204045;1302" num="2%" power="19896"/>
+		<ItemSpec id="50903" level="3" synthetic="50900" item_cost="204045;1563" num="3%" pre_condition="50705" power="32918"/>
+		<ItemSpec id="50904" level="4" synthetic="50900" item_cost="204045;1875" num="4%" power="48546"/>
+		<ItemSpec id="50905" level="5" synthetic="50900" num="5%" power="67298"/>
+		<ItemSpec id="51000" level="0" synthetic="51000" item_cost="204045;995" num="0%" pre_condition="50803|50903" power="0"/>
+		<ItemSpec id="51001" level="1" synthetic="51000" item_cost="204045;1194" num="1%" power="9948"/>
+		<ItemSpec id="51002" level="2" synthetic="51000" item_cost="204045;1432" num="2%" power="21885"/>
+		<ItemSpec id="51003" level="3" synthetic="51000" item_cost="204045;1719" num="3%" pre_condition="50805|50905" power="36210"/>
+		<ItemSpec id="51004" level="4" synthetic="51000" item_cost="204045;2063" num="4%" power="53400"/>
+		<ItemSpec id="51005" level="5" synthetic="51000" num="5%" power="74028"/>
+		<ItemSpec id="51100" level="0" synthetic="51100" item_cost="204045;1085" num="0%" pre_condition="50903" power="0"/>
+		<ItemSpec id="51101" level="1" synthetic="51100" item_cost="204045;1302" num="1%" power="10852"/>
+		<ItemSpec id="51102" level="2" synthetic="51100" item_cost="204045;1563" num="2%" power="23875"/>
+		<ItemSpec id="51103" level="3" synthetic="51100" item_cost="204045;1875" num="3%" pre_condition="50905" power="39502"/>
+		<ItemSpec id="51104" level="4" synthetic="51100" item_cost="204045;2250" num="4%" power="58255"/>
+		<ItemSpec id="51105" level="5" synthetic="51100" num="5%" power="80758"/>
+		<ItemSpec id="51200" level="0" synthetic="51200" item_cost="204045;1176" num="0%" pre_condition="51003|51103" power="0"/>
+		<ItemSpec id="51201" level="1" synthetic="51200" item_cost="204045;1411" num="1%" power="11757"/>
+		<ItemSpec id="51202" level="2" synthetic="51200" item_cost="204045;1693" num="2%" power="25864"/>
+		<ItemSpec id="51203" level="3" synthetic="51200" item_cost="204045;2032" num="3%" pre_condition="51005|51105" power="42794"/>
+		<ItemSpec id="51204" level="4" synthetic="51200" item_cost="204045;2438" num="4%" power="63109"/>
+		<ItemSpec id="51205" level="5" synthetic="51200" num="5%" power="87488"/>
+		<ItemSpec id="51300" level="0" synthetic="51300" item_cost="204045;1884|210401;10" num="0%" pre_condition="51205" power="0"/>
+		<ItemSpec id="51301" level="1" synthetic="51300" num="1%" power="18843"/>
+		<ItemSpec id="51400" level="0" synthetic="51400" item_cost="204045;1357" num="0%" pre_condition="51103|51301" power="0"/>
+		<ItemSpec id="51401" level="1" synthetic="51400" item_cost="204045;1628" num="1%" power="13565"/>
+		<ItemSpec id="51402" level="2" synthetic="51400" item_cost="204045;1953" num="2%" power="29844"/>
+		<ItemSpec id="51403" level="3" synthetic="51400" item_cost="204045;2344" num="3%" pre_condition="51105|51301" power="49378"/>
+		<ItemSpec id="51404" level="4" synthetic="51400" item_cost="204045;2813" num="4%" power="72818"/>
+		<ItemSpec id="51405" level="5" synthetic="51400" num="5%" power="100947"/>
+		<ItemSpec id="51500" level="0" synthetic="51500" item_cost="204045;1447" num="0%" pre_condition="51301|51403" power="0"/>
+		<ItemSpec id="51501" level="1" synthetic="51500" item_cost="204045;1736" num="1%" power="14470"/>
+		<ItemSpec id="51502" level="2" synthetic="51500" item_cost="204045;2084" num="2%" power="31833"/>
+		<ItemSpec id="51503" level="3" synthetic="51500" item_cost="204045;2500" num="3%" pre_condition="51301|51405" power="52669"/>
+		<ItemSpec id="51504" level="4" synthetic="51500" item_cost="204045;3000" num="4%" power="77673"/>
+		<ItemSpec id="51505" level="5" synthetic="51500" num="5%" power="107677"/>
+		<ItemSpec id="51600" level="0" synthetic="51600" item_cost="204045;1537" num="0%" pre_condition="51403" power="0"/>
+		<ItemSpec id="51601" level="1" synthetic="51600" item_cost="204045;1845" num="1%" power="15374"/>
+		<ItemSpec id="51602" level="2" synthetic="51600" item_cost="204045;2214" num="2%" power="33823"/>
+		<ItemSpec id="51603" level="3" synthetic="51600" item_cost="204045;2657" num="3%" pre_condition="51405" power="55961"/>
+		<ItemSpec id="51604" level="4" synthetic="51600" item_cost="204045;3188" num="4%" power="82527"/>
+		<ItemSpec id="51605" level="5" synthetic="51600" num="5%" power="114407"/>
+		<ItemSpec id="51700" level="0" synthetic="51700" item_cost="204045;1628" num="0%" pre_condition="51503|51603" power="0"/>
+		<ItemSpec id="51701" level="1" synthetic="51700" item_cost="204045;1953" num="1%" power="16278"/>
+		<ItemSpec id="51702" level="2" synthetic="51700" item_cost="204045;2344" num="2%" power="35812"/>
+		<ItemSpec id="51703" level="3" synthetic="51700" item_cost="204045;2813" num="3%" pre_condition="51505|51605" power="59253"/>
+		<ItemSpec id="51704" level="4" synthetic="51700" item_cost="204045;3375" num="4%" power="87382"/>
+		<ItemSpec id="51705" level="5" synthetic="51700" num="5%" power="121137"/>
+		<ItemSpec id="51800" level="0" synthetic="51800" item_cost="204045;1718" num="0%" pre_condition="51603" power="0"/>
+		<ItemSpec id="51801" level="1" synthetic="51800" item_cost="204045;2062" num="1%" power="17183"/>
+		<ItemSpec id="51802" level="2" synthetic="51800" item_cost="204045;2474" num="2%" power="37802"/>
+		<ItemSpec id="51803" level="3" synthetic="51800" item_cost="204045;2969" num="3%" pre_condition="51605" power="62545"/>
+		<ItemSpec id="51804" level="4" synthetic="51800" item_cost="204045;3563" num="4%" power="92236"/>
+		<ItemSpec id="51805" level="5" synthetic="51800" num="5%" power="127866"/>
+		<ItemSpec id="51900" level="0" synthetic="51900" item_cost="204045;1809" num="0%" pre_condition="51703|51803" power="0"/>
+		<ItemSpec id="51901" level="1" synthetic="51900" item_cost="204045;2170" num="1%" power="18087"/>
+		<ItemSpec id="51902" level="2" synthetic="51900" item_cost="204045;2605" num="2%" power="39791"/>
+		<ItemSpec id="51903" level="3" synthetic="51900" item_cost="204045;3125" num="3%" pre_condition="51705|51805" power="65837"/>
+		<ItemSpec id="51904" level="4" synthetic="51900" item_cost="204045;3751" num="4%" power="97091"/>
+		<ItemSpec id="51905" level="5" synthetic="51900" num="5%" power="134596"/>
+		<ItemSpec id="52000" level="0" synthetic="52000" item_cost="204045;1899" num="0%" pre_condition="51803" power="0"/>
+		<ItemSpec id="52001" level="1" synthetic="52000" item_cost="204045;2279" num="1%" power="18991"/>
+		<ItemSpec id="52002" level="2" synthetic="52000" item_cost="204045;2735" num="2%" power="41781"/>
+		<ItemSpec id="52003" level="3" synthetic="52000" item_cost="204045;3282" num="3%" pre_condition="51805" power="69129"/>
+		<ItemSpec id="52004" level="4" synthetic="52000" item_cost="204045;3938" num="4%" power="101946"/>
+		<ItemSpec id="52005" level="5" synthetic="52000" num="5%" power="141326"/>
+		<ItemSpec id="52100" level="0" synthetic="52100" item_cost="204045;1990" num="0%" pre_condition="51903|52003" power="0"/>
+		<ItemSpec id="52101" level="1" synthetic="52100" item_cost="204045;2387" num="1%" power="19896"/>
+		<ItemSpec id="52102" level="2" synthetic="52100" item_cost="204045;2865" num="2%" power="43771"/>
+		<ItemSpec id="52103" level="3" synthetic="52100" item_cost="204045;3438" num="3%" pre_condition="51905|52005" power="72420"/>
+		<ItemSpec id="52104" level="4" synthetic="52100" item_cost="204045;4126" num="4%" power="106800"/>
+		<ItemSpec id="52105" level="5" synthetic="52100" num="5%" power="148056"/>
+		<ItemSpec id="52200" level="0" synthetic="52200" item_cost="204045;2080" num="0%" pre_condition="52003" power="0"/>
+		<ItemSpec id="52201" level="1" synthetic="52200" item_cost="204045;2496" num="1%" power="20800"/>
+		<ItemSpec id="52202" level="2" synthetic="52200" item_cost="204045;2995" num="2%" power="45760"/>
+		<ItemSpec id="52203" level="3" synthetic="52200" item_cost="204045;3594" num="3%" pre_condition="52005" power="75712"/>
+		<ItemSpec id="52204" level="4" synthetic="52200" item_cost="204045;4313" num="4%" power="111655"/>
+		<ItemSpec id="52205" level="5" synthetic="52200" num="5%" power="154786"/>
+		<ItemSpec id="52300" level="0" synthetic="52300" item_cost="204045;2170" num="0%" pre_condition="52103|52203" power="0"/>
+		<ItemSpec id="52301" level="1" synthetic="52300" item_cost="204045;2605" num="1%" power="21704"/>
+		<ItemSpec id="52302" level="2" synthetic="52300" item_cost="204045;3125" num="2%" power="47750"/>
+		<ItemSpec id="52303" level="3" synthetic="52300" item_cost="204045;3751" num="3%" pre_condition="52105|52205" power="79004"/>
+		<ItemSpec id="52304" level="4" synthetic="52300" item_cost="204045;4501" num="4%" power="116509"/>
+		<ItemSpec id="52305" level="5" synthetic="52300" num="5%" power="161515"/>
+		<ItemSpec id="52400" level="0" synthetic="52400" item_cost="204045;2261" num="0%" pre_condition="52203" power="0"/>
+		<ItemSpec id="52401" level="1" synthetic="52400" item_cost="204045;2713" num="1%" power="22609"/>
+		<ItemSpec id="52402" level="2" synthetic="52400" item_cost="204045;3256" num="2%" power="49739"/>
+		<ItemSpec id="52403" level="3" synthetic="52400" item_cost="204045;3907" num="3%" pre_condition="52205" power="82296"/>
+		<ItemSpec id="52404" level="4" synthetic="52400" item_cost="204045;4688" num="4%" power="121364"/>
+		<ItemSpec id="52405" level="5" synthetic="52400" num="5%" power="168245"/>
+		<ItemSpec id="52500" level="0" synthetic="52500" item_cost="204045;2351" num="0%" pre_condition="52303|52403" power="0"/>
+		<ItemSpec id="52501" level="1" synthetic="52500" item_cost="204045;2822" num="1%" power="23513"/>
+		<ItemSpec id="52502" level="2" synthetic="52500" item_cost="204045;3386" num="2%" power="51729"/>
+		<ItemSpec id="52503" level="3" synthetic="52500" item_cost="204045;4063" num="3%" pre_condition="52305|52405" power="85588"/>
+		<ItemSpec id="52504" level="4" synthetic="52500" item_cost="204045;4876" num="4%" power="126218"/>
+		<ItemSpec id="52505" level="5" synthetic="52500" num="5%" power="174975"/>
+		<ItemSpec id="52600" level="0" synthetic="52600" item_cost="204045;3634|210401;12" num="0%" pre_condition="52505" power="0"/>
+		<ItemSpec id="52601" level="1" synthetic="52600" num="0%" spine_star="5" power="36341"/>
+		<ItemSpec id="52700" level="0" synthetic="52700" item_cost="204045;2532" num="0%" pre_condition="52403|52601" power="0"/>
+		<ItemSpec id="52701" level="1" synthetic="52700" item_cost="204045;3039" num="1%" power="25322"/>
+		<ItemSpec id="52702" level="2" synthetic="52700" item_cost="204045;3646" num="2%" power="55708"/>
+		<ItemSpec id="52703" level="3" synthetic="52700" item_cost="204045;4376" num="3%" pre_condition="52405|52601" power="92171"/>
+		<ItemSpec id="52704" level="4" synthetic="52700" item_cost="204045;5251" num="4%" power="135927"/>
+		<ItemSpec id="52705" level="5" synthetic="52700" num="5%" power="188435"/>
+		<ItemSpec id="52800" level="0" synthetic="52800" item_cost="204045;2623" num="0%" pre_condition="52601|52703" power="0"/>
+		<ItemSpec id="52801" level="1" synthetic="52800" item_cost="204045;3147" num="1%" power="26226"/>
+		<ItemSpec id="52802" level="2" synthetic="52800" item_cost="204045;3777" num="2%" power="57698"/>
+		<ItemSpec id="52803" level="3" synthetic="52800" item_cost="204045;4532" num="3%" pre_condition="52601|52705" power="95463"/>
+		<ItemSpec id="52804" level="4" synthetic="52800" item_cost="204045;5438" num="4%" power="140782"/>
+		<ItemSpec id="52805" level="5" synthetic="52800" num="5%" power="195165"/>
+	</Group>
+</tns:database>

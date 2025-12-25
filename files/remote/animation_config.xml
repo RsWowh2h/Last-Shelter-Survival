@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="animation_config">
+<ItemSpec id="helicopter_poison" damage_time="1.5"/>
+<ItemSpec id="helicopter_bomb" damage_time="0.5"/>
+<ItemSpec id="gunfire_bullet" damage_time="2"/>
+<ItemSpec id="hit_aoe" damage_time="0.8"/>
+<ItemSpec id="truck_bomb" damage_time="1.35"/>
+<ItemSpec id="fire_flame_aoe" damage_time="0.65"/>
+<ItemSpec id="fire_arrow" damage_time="0.8"/>
+<ItemSpec id="helicopter_shoot" damage_time="1"/>
+
+  </Group>
+</tns:database>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  
+<Group id="core_reward">  
+    <ItemSpec id="1" group_id="1" goodsId="211350" battlepass_id="100" type="1" icon1="item215101" dialog_para="83401156" />
+    <ItemSpec id="2" group_id="2" goodsId="211255" battlepass_id="100" type="1" icon1="quest_box" dialog_para="83401156" />
+	 
+</Group>  
+</tns:database>

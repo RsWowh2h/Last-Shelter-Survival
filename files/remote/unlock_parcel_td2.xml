@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="unlock_parcel">
+    <ItemSpec id="20001701" order="28" wood="0" stone="0" iron="0" food="0" money="2300000" tower="1"/>
+    <ItemSpec id="20001702" order="27" wood="0" stone="0" iron="0" food="0" money="2100000" tower="1" />
+    <ItemSpec id="20001703" order="26" wood="0" stone="0" iron="0" food="0" money="1900000" tower="1"/>
+    <ItemSpec id="20001704" order="25" wood="0" stone="0" iron="0" food="0" money="1700000" tower="1"/>
+    <ItemSpec id="20001705" order="24" wood="0" stone="0" iron="0" food="0" money="1500000" tower="1"/>
+    <ItemSpec id="20001706" order="23" wood="0" stone="0" iron="0" food="0" money="1300000" tower="1"/>
+    <ItemSpec id="20001707" order="22" wood="0" stone="0" iron="0" food="0" money="1100000" tower="1"/>
+    <ItemSpec id="20001708" order="21" wood="0" stone="0" iron="0" food="0" money="900000" tower="1"/>
+    <ItemSpec id="20001709" order="20" wood="0" stone="0" iron="0" food="0" money="700000" tower="1"/>
+    <ItemSpec id="20001710" order="19" wood="0" stone="0" iron="0" food="0" money="500000" tower="1"/>
+    <ItemSpec id="20001711" order="18" wood="0" stone="0" iron="0" food="0" money="300000" tower="1"/>
+    <ItemSpec id="20001712" order="17" wood="0" stone="0" iron="0" food="0" money="100000" tower="1"/>
+    <ItemSpec id="20001713" order="16" wood="0" stone="0" iron="0" food="0" money="100000" tower="1"/>
+    <ItemSpec id="20001714" order="35" wood="0" stone="0" iron="0" food="0" money="3700000" tower="1"/>
+    <ItemSpec id="20001715" order="34" wood="0" stone="0" iron="0" food="0" money="3500000" tower="1"/>
+    <ItemSpec id="20001716" order="33" wood="0" stone="0" iron="0" food="0" money="3300000" tower="1"/>
+    <ItemSpec id="20001717" order="32" wood="0" stone="0" iron="0" food="0" money="3100000" tower="1"/>
+    <ItemSpec id="20001718" order="31" wood="0" stone="0" iron="0" food="0" money="2900000" tower="1"/>
+    <ItemSpec id="20001719" order="30" wood="0" stone="0" iron="0" food="0" money="2700000" tower="1"/>
+    <ItemSpec id="20001720" order="29" wood="0" stone="0" iron="0" food="0" money="2500000" tower="1"/>
+    <ItemSpec id="20001721" order="53" wood="0" stone="0" iron="0" food="0" money="7300000" tower="1"/>
+    <ItemSpec id="20001722" order="52" wood="0" stone="0" iron="0" food="0" money="7100000" tower="1"/>
+    <ItemSpec id="20001723" order="51" wood="0" stone="0" iron="0" food="0" money="6900000" tower="1"/>
+    <ItemSpec id="20001724" order="50" wood="0" stone="0" iron="0" food="0" money="6700000" tower="1"/>
+    <ItemSpec id="20001725" order="49" wood="0" stone="0" iron="0" food="0" money="6500000" tower="1"/>
+    <ItemSpec id="20001726" order="48" wood="0" stone="0" iron="0" food="0" money="6300000" tower="1"/>
+    <ItemSpec id="20001727" order="47" wood="0" stone="0" iron="0" food="0" money="6100000" tower="1"/>
+    <ItemSpec id="20001728" order="46" wood="0" stone="0" iron="0" food="0" money="5900000" tower="1"/>
+    <ItemSpec id="20001729" order="45" wood="0" stone="0" iron="0" food="0" money="5700000" tower="1"/>
+    <ItemSpec id="20001730" order="44" wood="0" stone="0" iron="0" food="0" money="5500000" tower="1"/>
+    <ItemSpec id="20001731" order="43" wood="0" stone="0" iron="0" food="0" money="5300000" tower="1"/>
+    <ItemSpec id="20001732" order="42" wood="0" stone="0" iron="0" food="0" money="5100000" tower="1"/>
+    <ItemSpec id="20001733" order="41" wood="0" stone="0" iron="0" food="0" money="4900000" tower="1"/>
+    <ItemSpec id="20001734" order="40" wood="0" stone="0" iron="0" food="0" money="4700000" tower="1"/>
+    <ItemSpec id="20001735" order="39" wood="0" stone="0" iron="0" food="0" money="4500000" tower="1"/>
+    <ItemSpec id="20001736" order="38" wood="0" stone="0" iron="0" food="0" money="4300000" tower="1"/>
+    <ItemSpec id="20001737" order="37" wood="0" stone="0" iron="0" food="0" money="4100000" tower="1"/>
+    <ItemSpec id="20001738" order="36" wood="0" stone="0" iron="0" food="0" money="3900000" tower="1"/>
+    <ItemSpec id="20001739" order="63" wood="0" stone="0" iron="0" food="0" money="9300000" tower="1"/>
+    <ItemSpec id="20001740" order="62" wood="0" stone="0" iron="0" food="0" money="9100000" tower="1"/>
+    <ItemSpec id="20001741" order="61" wood="0" stone="0" iron="0" food="0" money="8900000" tower="1"/>
+    <ItemSpec id="20001742" order="60" wood="0" stone="0" iron="0" food="0" money="8700000" tower="1"/>
+    <ItemSpec id="20001743" order="59" wood="0" stone="0" iron="0" food="0" money="8500000" tower="1"/>
+    <ItemSpec id="20001744" order="58" wood="0" stone="0" iron="0" food="0" money="8300000" tower="1"/>
+    <ItemSpec id="20001745" order="57" wood="0" stone="0" iron="0" food="0" money="8100000" tower="1"/>
+    <ItemSpec id="20001746" order="56" wood="0" stone="0" iron="0" food="0" money="7900000" tower="1"/>
+    <ItemSpec id="20001747" order="55" wood="0" stone="0" iron="0" food="0" money="7700000" tower="1"/>
+    <ItemSpec id="20001748" order="54" wood="0" stone="0" iron="0" food="0" money="7500000" tower="1"/>
+    <ItemSpec id="20001749" order="6" wood="0" stone="0" iron="0" food="0" money="700" tower="1"/>
+    <ItemSpec id="20001750" order="5" wood="0" stone="0" iron="0" food="0" money="600" tower="1"/>
+    <ItemSpec id="20001751" order="4" wood="0" stone="0" iron="0" food="0" money="0" tower="1"/>
+    <ItemSpec id="20001752" order="15" wood="0" stone="0" iron="0" food="0" money="100000"/>
+    <ItemSpec id="20001753" order="7" wood="0" stone="0" iron="0" food="0" money="800" tower="1"/>
+    <ItemSpec id="20001755" order="3" wood="0" stone="0" iron="0" food="0" money="0" tower="1"/>
+    <ItemSpec id="20001756" order="14" wood="0" stone="0" iron="0" food="0" money="100000"/>
+    <ItemSpec id="20001757" order="8" wood="0" stone="0" iron="0" food="0" money="900" tower="1"/>
+    <ItemSpec id="20001758" order="1" wood="0" stone="0" iron="0" food="0" money="0"/>
+    <ItemSpec id="20001759" order="2" wood="0" stone="0" iron="0" food="0" money="0" tower="1"/>
+    <ItemSpec id="20001760" order="13" wood="0" stone="0" iron="0" food="0" money="90000" tower="1"/>
+    <ItemSpec id="20001761" order="9" wood="0" stone="0" iron="0" food="0" money="50000" tower="1"/>
+    <ItemSpec id="20001762" order="10" wood="0" stone="0" iron="0" food="0" money="60000" tower="1"/>
+    <ItemSpec id="20001763" order="11" wood="0" stone="0" iron="0" food="0" money="70000" tower="1"/>
+    <ItemSpec id="20001764" order="12" wood="0" stone="0" iron="0" food="0" money="80000" tower="1"/>
+
+	</Group>
+	</tns:database>

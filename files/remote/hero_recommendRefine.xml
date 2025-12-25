@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="hero_recommendRefine">
+  
+		<ItemSpec id="200" heroID="10195" season="5" refine="2049"/>
+		<ItemSpec id="201" heroID="10214" season="0-1000" refine="2051"/>
+		<ItemSpec id="202" heroID="10190" season="0-1000" refine="2052"/>
+		<ItemSpec id="203" heroID="10200" season="0-1000" refine="2066"/>
+		<ItemSpec id="204" heroID="10201" season="5" refine="2049"/>
+		<ItemSpec id="205" heroID="10203" season="0-1000" refine="2058"/>
+		<ItemSpec id="206" heroID="10210" season="6" refine="2050"/>
+		<ItemSpec id="207" heroID="10206" season="0-1000" refine="2064"/>
+		<ItemSpec id="208" heroID="10177" season="5" refine="2053"/>
+		<ItemSpec id="209" heroID="10207" season="0-1000" refine="2063"/>
+		<ItemSpec id="210" heroID="10212" season="6" refine="2052"/>
+		<ItemSpec id="211" heroID="10188" season="5" refine="2052"/>
+		<ItemSpec id="212" heroID="10175" season="5-1000" refine="2052"/>
+
+  </Group>
+
+ </tns:database>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="heroseason_building_1">
+    <ItemSpec id="1001" camp="1" initXintiao="1010001,1010007,1010008,1010009" name="112150103" picture1="hero146_bust_new" building="1001" story="112150109" rankBack="yingxiongxintiao_falao" picture2="bg_yxxtsj_yingxiong_02" picture3="heroseason_speBanner_yongningsita" storyBack="heroseason_storyBanner_zhende" icon1="heroseason_build_icon201" icon2="heroseason_build_icon101" heroBackSpine="bg_HeroCreed_YongningTower" heroBack="bg_HeroCreed_YongningTower"/>
+    <ItemSpec id="1002" camp="1" initXintiao="1010002,1010007,1010008,1010009" name="112150104" picture1="hero147_bust_new" building="1002" story="112150110" rankBack="yingxiongxintiao_zhende" picture2="bg_yxxtsj_yingxiong_02" picture3="heroseason_speBanner_wuchongta" storyBack="heroseason_storyBanner_zhende" icon1="heroseason_build_icon201" icon2="heroseason_build_icon101" heroBackSpine="bg_HeroCreed_FiveStoryPagoda" heroBack="bg_HeroCreed_FiveStoryPagoda"/>
+    <ItemSpec id="1003" camp="2" initXintiao="1010003,1010007,1010008,1010009" name="112150105" picture1="hero148_bust_new" building="1003" story="112150111" rankBack="yingxiongxintiao_falao" picture2="bg_yxxtsj_yingxiong_04" picture3="heroseason_speBanner_dajuyuan" storyBack="heroseason_storyBanner_zhende" icon1="heroseason_build_icon201" icon2="heroseason_build_icon101" heroBackSpine="bg_HeroCreed_GrandTheater" heroBack="bg_HeroCreed_GrandTheater"/>
+    <ItemSpec id="1004" camp="2" initXintiao="1010004,1010007,1010008,1010009" name="112150106" picture1="hero149_bust_new" building="1004" story="112150112" rankBack="yingxiongxintiao_zhende" picture2="bg_yxxtsj_yingxiong_02" picture3="heroseason_speBanner_yuanzhuoqishidiaoxiang" storyBack="heroseason_storyBanner_falao" icon1="heroseason_build_icon201" icon2="heroseason_build_icon101" heroBackSpine="bg_HeroCreed_knight" heroBack="bg_HeroCreed_knight"/>
+    <ItemSpec id="1005" camp="2" initXintiao="1010005,1010007,1010008,1010009" name="112150107" picture1="hero150_bust_new" building="1005" story="112150113" rankBack="yingxiongxintiao_falao" picture2="bg_yxxtsj_yingxiong_02" picture3="heroseason_speBanner_guichuan" storyBack="heroseason_storyBanner_falao" icon1="heroseason_build_icon201" icon2="heroseason_build_icon101" heroBackSpine="bg_HeroCreed_turtleship" heroBack="bg_HeroCreed_turtleship"/>
+    <ItemSpec id="1006" camp="1" initXintiao="1010006,1010007,1010008,1010009" name="112150108" picture1="hero151_bust_new" building="1006" story="112150114" rankBack="yingxiongxintiao_zhende" picture2="bg_yxxtsj_yingxiong_03" picture3="heroseason_speBanner_dajinzita" storyBack="heroseason_storyBanner_falao" icon1="heroseason_build_icon201" icon2="heroseason_build_icon101" heroBackSpine="bg_HeroCreed_pyramid" heroBack="bg_HeroCreed_pyramid"/>
+
+
+
+	</Group>
+	
+	<Group id="heroseason_building_2">
+
+    <ItemSpec id="2001" camp="1" initXintiao="2010005,2010007,2010008,2010009" name="112150103" picture1="heroseason_huamulan" building="2001" story="110095722" rankBack="banner_yingxiongxintiao_rank_huamulan" picture2="bg_yxxtsj_yingxiong_02" picture3="heroseason_speBanner_yongningsita" storyBack="heroseason_storyBanner_huamulan" icon1="heroseason_build_icon106" icon2="heroseason_build_icon206" heroBackSpine="bg_HeroCreed_YongningTower" heroBack="bg_HeroCreed_YongningTower" />
+    <ItemSpec id="2002" camp="1" initXintiao="2010002,2010007,2010008,2010009" name="112150104" picture1="heroseason_zhitianxinchang" building="2002" story="110095728" rankBack="banner_yingxiongxintiao_rank_zhitianxinchang" picture2="bg_yxxtsj_yingxiong_06" picture3="heroseason_speBanner_wuchongta" storyBack="heroseason_storyBanner_zhitianxinchang" icon1="heroseason_build_icon105" icon2="heroseason_build_icon205" heroBackSpine="bg_HeroCreed_FiveStoryPagoda" heroBack="bg_HeroCreed_FiveStoryPagoda" />
+    <ItemSpec id="2003" camp="2" initXintiao="2010003,2010007,2010008,2010009" name="112150105" picture1="heroseason_atalante" building="2003" story="88003808" rankBack="banner_yingxiongxintiao_rank_zhende" picture2="bg_yxxtsj_yingxiong_04" picture3="heroseason_speBanner_dajuyuan" storyBack="heroseason_storyBanner_zhende" icon1="heroseason_build_icon102" icon2="heroseason_build_icon202" heroBackSpine="bg_HeroCreed_GrandTheater" heroBack="bg_HeroCreed_GrandTheater" />
+    <ItemSpec id="2004" camp="2" initXintiao="2010001,2010007,2010008,2010009" name="112150106" picture1="heroseason_yase" building="2004" story="110095716" rankBack="banner_yingxiongxintiao_rank_yase" picture2="bg_yxxtsj_yingxiong_05" picture3="heroseason_speBanner_yuanzhuoqishidiaoxiang" storyBack="heroseason_storyBanner_yase" icon1="heroseason_build_icon103" icon2="heroseason_build_icon203" heroBackSpine="bg_HeroCreed_knight" heroBack="bg_HeroCreed_knight" />
+    <ItemSpec id="2005" camp="2" initXintiao="2010004,2010007,2010008,2010009" name="112150107" picture1="heroseason_lisunchen" building="2005" story="110095734" rankBack="banner_yingxiongxintiao_rank_lishunchen" picture2="bg_yxxtsj_yingxiong_01" picture3="heroseason_speBanner_guichuan" storyBack="heroseason_storyBanner_lishunchen" icon1="heroseason_build_icon104" icon2="heroseason_build_icon204" heroBackSpine="bg_HeroCreed_turtleship" heroBack="bg_HeroCreed_turtleship" />
+    <ItemSpec id="2006" camp="1" initXintiao="2010006,2010007,2010008,2010009" name="112150108" picture1="heroseason_falao" building="2006" story="110095706" rankBack="banner_yingxiongxintiao_rank_falao" picture2="bg_yxxtsj_yingxiong_03" picture3="heroseason_speBanner_dajinzita" storyBack="heroseason_storyBanner_falao" icon1="heroseason_build_icon201" icon2="heroseason_build_icon101" heroBackSpine="bg_HeroCreed_pyramid" heroBack="bg_HeroCreed_pyramid" />
+
+
+	</Group>
+
+ 
+
+
+</tns:database>

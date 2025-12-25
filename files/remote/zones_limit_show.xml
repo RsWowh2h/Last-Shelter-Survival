@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="zones_limit_show">
+    <ItemSpec id="1" description="90820113" value="1" />
+    <ItemSpec id="2" description="90820114" />
+    <ItemSpec id="3" description="90820115" />
+    <ItemSpec id="4" description="115042" />
+    <ItemSpec id="11" description="192157" />
+    <ItemSpec id="12" description="192158" />
+    <ItemSpec id="13" description="192155" />
+    <ItemSpec id="14" description="192156" />
+    <ItemSpec id="15" description="192154" />
+
+ </Group >
+
+</tns:database>

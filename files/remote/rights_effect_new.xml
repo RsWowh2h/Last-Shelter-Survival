@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+
+<Group id="rights_effect_new">
+
+    <ItemSpec id="10001" name="173378" description="173379" icon="FB_IC_speedupquanyong.png" needlevel="0" effect="247" value="1" price_type="10" price="0" exp="0" buff="1" />
+    <ItemSpec id="10002" name="173380" description="173381" icon="FB_IC_speedupquanyong.png" needlevel="0" effect="248" value="1" price_type="10" price="600000" exp="3600000" buff="1" />
+    <ItemSpec id="10003" name="173382" description="173383" icon="FB_IC_speedupquanyong.png" needlevel="0" effect="249" value="1" price_type="10" price="600000" exp="3600000" buff="1" />
+    <ItemSpec id="10004" name="172703" description="172704" icon="FB_IC_jiesuozhanbeicangku_SKILL.png" needlevel="0" effect="783" value="1" price_type="10" price="500000" exp="3000000" buff="1" />
+    <ItemSpec id="10005" name="173427" description="173375" icon="FB_IC_piliangjisu.png" needlevel="0" effect="244" value="1" price_type="10" price="300000" exp="1800000" buff="6" />
+    <ItemSpec id="10006" name="173428" description="173375" icon="FB_IC_piliangjisu.png" needlevel="0" effect="433" value="1" price_type="10" price="300000" exp="1800000" buff="7" />
+    <ItemSpec id="10007" name="173438" description="173439" icon="FB_IC_shoucangzhiding.png" needlevel="0" effect="511" value="1" price_type="10" price="300000" exp="1800000" buff="4" />
+    <ItemSpec id="10008" name="173392" description="173393" icon="FB_IC_nychaozaitisheng.png" needlevel="0" effect="303" value="50" price_type="10" price="400000" exp="2400000" buff="1" />
+    <ItemSpec id="10009" name="201222" description="82000086" icon="FB_IC_nyongshigongjizj_SKILL.png" needlevel="0" effect="20011|20012" value="5" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10010" name="201237" description="82000089" icon="FB_IC_nsheshougongjizj_SKILL.png" needlevel="0" effect="20015|20016" value="5" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10011" name="201229" description="82000092" icon="FB_IC_ngaizhuangchegongjizj_SKILL.png" needlevel="0" effect="20013|20014" value="5" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10012" name="201223" description="82000087" icon="FB_IC_yongshifangyuzengjia_SKILL.png" needlevel="0" effect="20031|20032" value="5" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10013" name="201238" description="82000090" icon="FB_IC_sheshoufangyuzengjia_SKILL.png" needlevel="0" effect="20035|20036" value="5" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10014" name="201230" description="82000093" icon="FB_IC_gaizhuangchefangyuzengjia_SKILL.png" needlevel="0" effect="20033|20034" value="5" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10015" name="201224" description="82000088" icon="FB_IC_yongshishengmingzengjia_SKILL.png" needlevel="0" effect="20051|20052" value="5" price_type="10" price="250000" exp="1500000" value_type="1" buff="0" />
+    <ItemSpec id="10016" name="201239" description="82000091" icon="FB_IC_sheshoushengmingzengjia_SKILL.png" needlevel="0" effect="20055|20056" value="5" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10017" name="201231" description="82000094" icon="FB_IC_gaizhuangcheshengmingzengjia_SKILL.png" needlevel="0" effect="20053|20054" value="5" price_type="10" price="250000" exp="1500000" buff="0" />
+
+    <ItemSpec id="10018" name="173500" description="173501" icon="FB_IC_gaojigongchengchetansuo" needlevel="1" effect="688" value="1" price_type="10" price="900000" exp="5400000" buff="0" />
+    <ItemSpec id="10019" name="173386" description="173387" icon="FB_IC_speedupquanyong.png" needlevel="1" effect="293" value="1" price_type="10" price="200000" exp="1200000" buff="1" />
+    <ItemSpec id="10020" name="110028020" description="110028021" icon="FB_IC_speedupquanyong.png" needlevel="1" effect="365" value="1" price_type="10" price="200000" exp="1200000" buff="1" />
+    <ItemSpec id="10021" name="172700" description="102523" icon="FB_IC_jiesuocjzx_SKILL.png" needlevel="1" effect="595" value="1" price_type="10" price="1000000" exp="6000000" buff="1" />
+    <ItemSpec id="10022" name="173388" description="173389" icon="FB_IC_lianmengmax.png" needlevel="1" effect="298" value="1" price_type="10" price="400000" exp="2400000" buff="1" />
+    <ItemSpec id="10023" name="173431" description="173375" icon="FB_IC_piliangjisu.png" needlevel="1" effect="518" value="1" price_type="10" price="300000" exp="1800000" buff="10" />
+    <ItemSpec id="10024" name="173432" description="173375" icon="FB_IC_piliangjisu.png" needlevel="1" effect="519" value="1" price_type="10" price="300000" exp="1800000" buff="11" />
+    <ItemSpec id="10025" name="173394" description="173395" icon="FB_IC_tishengjingyan.png" needlevel="1" effect="304" value="1" price_type="10" price="400000" exp="2400000" />
+    <ItemSpec id="10026" name="90800463" description="90800464" icon="Icon_lianmengbiaoji2.png" needlevel="1" effect="70" value="1" price_type="10" price="400000" exp="2400000" buff="0" />
+    <ItemSpec id="10027" name="110028160" description="110028161" icon="FB_IC_yijianlingqu.png" needlevel="1" effect="10107" value="1" price_type="10" price="400000" exp="2400000" buff="1" />
+    <ItemSpec id="10028" name="110255000" description="110255001" icon="FB_IC_kuaijiebiandui" needlevel="1" effect="10140" value="1" price_type="10" price="1000000" exp="6000000" buff="0" />
+    <ItemSpec id="10029" name="110110051" description="110110052" icon="FB_IC_kuaijiebuchongyuanbing.png" needlevel="1" effect="800" value="1" price_type="10" price="400000" exp="2400000" buff="0" />
+    <ItemSpec id="10030" name="110240022" description="110240023" icon="FB_IC_kuaijiebuchongnaijiu.png" needlevel="1" effect="14001" value="1" price_type="10" price="400000" exp="2400000" buff="0" />
+    <ItemSpec id="10031" name="110240024" description="110240025" icon="FB_IC_kuaijiebuchongfandao.png" needlevel="1" effect="14002" value="1" price_type="10" price="400000" exp="2400000" buff="0" />
+    <ItemSpec id="10032" name="201222" description="82000086" icon="FB_IC_nyongshigongjizj_SKILL.png" needlevel="1" effect="20011|20012" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10033" name="201237" description="82000089" icon="FB_IC_nsheshougongjizj_SKILL.png" needlevel="1" effect="20015|20016" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10034" name="201229" description="82000092" icon="FB_IC_ngaizhuangchegongjizj_SKILL.png" needlevel="1" effect="20013|20014" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10035" name="201223" description="82000087" icon="FB_IC_yongshifangyuzengjia_SKILL.png" needlevel="1" effect="20031|20032" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10036" name="201238" description="82000090" icon="FB_IC_sheshoufangyuzengjia_SKILL.png" needlevel="1" effect="20035|20036" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10037" name="201230" description="82000093" icon="FB_IC_gaizhuangchefangyuzengjia_SKILL.png" needlevel="1" effect="20033|20034" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10038" name="201224" description="82000088" icon="FB_IC_yongshishengmingzengjia_SKILL.png" needlevel="1" effect="20051|20052" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10039" name="201239" description="82000091" icon="FB_IC_sheshoushengmingzengjia_SKILL.png" needlevel="1" effect="20055|20056" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10040" name="201231" description="82000094" icon="FB_IC_gaizhuangcheshengmingzengjia_SKILL.png" needlevel="1" effect="20053|20054" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+
+    <ItemSpec id="10041" name="173376" description="173377" icon="FB_IC_cangzhuzhongxin.png" needlevel="2" effect="784" value="1" price_type="10" price="1400000" exp="8400000" buff="1" />
+    <ItemSpec id="10042" name="173425" description="173426" icon="FB_IC_vip3mingpai" needlevel="2" effect="309" value="1" price_type="10" price="4000000" exp="24000000" buff="1" />
+    <ItemSpec id="10043" name="173429" description="173375" icon="FB_IC_piliangjisu.png" needlevel="2" effect="434" value="1" price_type="10" price="300000" exp="1800000" value_type="1" buff="8" />
+    <ItemSpec id="10044" name="173430" description="173375" icon="FB_IC_piliangjisu.png" needlevel="2" effect="435" value="1" price_type="10" price="300000" exp="1800000" buff="9" />
+    <ItemSpec id="10045" name="173390" description="173391" icon="FB_IC_jidinaijiubuchong_tequan.png" needlevel="2" effect="299" value="50" price_type="10" price="400000" exp="2400000" buff="1" />
+    <ItemSpec id="10046" name="173440" description="173441" icon="FB_IC_fandaobianjieshengchan_tequan.png" needlevel="2" effect="537" value="1" price_type="10" price="600000" exp="3600000" buff="5" />
+    <ItemSpec id="10047" name="173394" description="173395" icon="FB_IC_tishengjingyan.png" needlevel="2" effect="304" value="20" price_type="10" price="400000" exp="2400000" buff="1" />
+    <ItemSpec id="10048" name="110040273" description="110040274" icon="FB_IC_bianduiyushe.png" needlevel="2" effect="609" value="1" price_type="10" price="2000000" exp="12000000" buff="0" />
+    <ItemSpec id="10049" name="110111060" description="110111061" icon="FB_IC_peijianpiliangjiasu.png" needlevel="2" effect="101506" value="5" price_type="10" price="4000000" exp="2400000" buff="0" />
+    <ItemSpec id="10050" name="173402" description="173403" icon="FB_IC_fenjiejunguanexp.png" needlevel="2" effect="305" value="10" price_type="10" price="400000" exp="2400000" buff="1" />
+    <ItemSpec id="10051" name="201222" description="82000086" icon="FB_IC_nyongshigongjizj_SKILL.png" needlevel="2" effect="20011|20012" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10052" name="201237" description="82000089" icon="FB_IC_nsheshougongjizj_SKILL.png" needlevel="2" effect="20015|20016" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10053" name="201229" description="82000092" icon="FB_IC_ngaizhuangchegongjizj_SKILL.png" needlevel="2" effect="20013|20014" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10054" name="201223" description="82000087" icon="FB_IC_yongshifangyuzengjia_SKILL.png" needlevel="2" effect="20031|20032" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10055" name="201238" description="82000090" icon="FB_IC_sheshoufangyuzengjia_SKILL.png" needlevel="2" effect="20035|20036" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10056" name="201230" description="82000093" icon="FB_IC_gaizhuangchefangyuzengjia_SKILL.png" needlevel="2" effect="20033|20034" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10057" name="201224" description="82000088" icon="FB_IC_yongshishengmingzengjia_SKILL.png" needlevel="2" effect="20051|20052" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10058" name="201239" description="82000091" icon="FB_IC_sheshoushengmingzengjia_SKILL.png" needlevel="2" effect="20055|20056" value="2" price_type="10" price="250000" exp="1500000" decoration="0" buff="0" />
+    <ItemSpec id="10059" name="201231" description="82000094" icon="FB_IC_gaizhuangcheshengmingzengjia_SKILL.png" needlevel="2" effect="20053|20054" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+
+    <ItemSpec id="10060" name="173394" description="173395" icon="FB_IC_tishengjingyan.png" needlevel="3" effect="304" value="20" price_type="10" price="800000" exp="4800000" value_type="1" buff="1" />
+    <ItemSpec id="10061" name="173433" description="173375" icon="FB_IC_piliangjisu.png" needlevel="3" effect="503" value="1" price_type="10" price="400000" exp="2400000" buff="12" />
+    <ItemSpec id="10062" name="173405" description="173406" icon="FB_IC_junxiaoduihuansale.png" needlevel="3" effect="306" value="1" price_type="10" price="800000" exp="4800000" buff="1" />
+    <ItemSpec id="10063" name="110028150" description="110028153" icon="FB_IC_yijianyunshu.png" needlevel="3" effect="553" value="1" price_type="10" price="400000" exp="2400000" buff="0" />
+    <ItemSpec id="10064" name="110040602" description="110040603" icon="FB_IC_xilianpeizhi2.png" needlevel="3" effect="10108" value="1" price_type="10" price="1500000" exp="9000000" buff="0" />
+    <ItemSpec id="10065" name="90800463" description="90800464" icon="Icon_lianmengbiaoji2.png" needlevel="3" effect="70" value="1" price_type="10" price="400000" exp="2400000" buff="0" />
+    <ItemSpec id="10066" name="115495" description="115496" icon="FB_IC_zuanshijuanxian.png" needlevel="3" effect="101505" value="1" price_type="10" price="400000" exp="2400000" buff="0" />
+    <ItemSpec id="10067" name="110110854" description="110110855" icon="FB_IC_bianduiyushe.png" needlevel="3" effect="101504" value="5" price_type="10" price="4000000" exp="2400000" buff="0" />
+    <ItemSpec id="10068" name="201222" description="82000086" icon="FB_IC_nyongshigongjizj_SKILL.png" needlevel="3" effect="20011|20012" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10069" name="201237" description="82000089" icon="FB_IC_nsheshougongjizj_SKILL.png" needlevel="3" effect="20015|20016" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10070" name="201229" description="82000092" icon="FB_IC_ngaizhuangchegongjizj_SKILL.png" needlevel="3" effect="20013|20014" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10071" name="201223" description="82000087" icon="FB_IC_yongshifangyuzengjia_SKILL.png" needlevel="3" effect="20031|20032" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10072" name="201238" description="82000090" icon="FB_IC_sheshoufangyuzengjia_SKILL.png" needlevel="3" effect="20035|20036" value="3" price_type="10" price="250000" exp="1500000" value_type="1" buff="0" />
+    <ItemSpec id="10073" name="201230" description="82000093" icon="FB_IC_gaizhuangchefangyuzengjia_SKILL.png" needlevel="3" effect="20033|20034" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10074" name="201224" description="82000088" icon="FB_IC_yongshishengmingzengjia_SKILL.png" needlevel="3" effect="20051|20052" value="2" price_type="10" price="250000" exp="1500000" decoration="0" buff="0" />
+    <ItemSpec id="10075" name="201239" description="82000091" icon="FB_IC_sheshoushengmingzengjia_SKILL.png" needlevel="3" effect="20055|20056" value="2" price_type="10" price="250000" exp="1500000" decoration="0" buff="0" />
+    <ItemSpec id="10076" name="201231" description="82000094" icon="FB_IC_gaizhuangcheshengmingzengjia_SKILL.png" needlevel="3" effect="20053|20054" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+
+    <ItemSpec id="10077" name="110028050" description="110028051" icon="FB_IC_vip5touxiang" needlevel="4" effect="370" value="1" price_type="10" price="4000000" exp="24000000" buff="1" />
+    <ItemSpec id="10078" name="110028048" description="110028049" icon="FB_IC_vip5mingpai" needlevel="4" effect="369" value="1" price_type="10" price="4000000" exp="24000000" buff="1" />
+    <ItemSpec id="10079" name="110028151" description="110028154" icon="FB_IC_yijianyunshu.png" needlevel="4" effect="554" value="1" price_type="10" price="400000" exp="2400000" buff="0" />
+    <ItemSpec id="10080" name="110028152" description="110028155" icon="FB_IC_yijianyunshu.png" needlevel="4" effect="555" value="1" price_type="10" price="400000" exp="2400000" buff="0" />
+    <ItemSpec id="10081" name="110071002" description="110071003" icon="item200700" needlevel="4" effect="798" value="126" price_type="10" price="4000000" exp="24000000" buff="0" />
+    <ItemSpec id="10082" name="110250236" description="110250237" icon="FB_IC_ResourceStation.png" needlevel="4" effect="101502" value="1" price_type="10" price="400000" exp="2400000" buff="0" />
+    <ItemSpec id="10083" name="110110854" description="110110855" icon="FB_IC_bianduiyushe.png" needlevel="4" effect="101504" value="5" price_type="10" price="4000000" exp="2400000" buff="0" />
+    <ItemSpec id="10084" name="201222" description="82000086" icon="FB_IC_nyongshigongjizj_SKILL.png" needlevel="4" effect="20011|20012" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10085" name="201237" description="82000089" icon="FB_IC_nsheshougongjizj_SKILL.png" needlevel="4" effect="20015|20016" value="3" price_type="10" price="250000" exp="1500000" value_type="1" buff="0" />
+    <ItemSpec id="10086" name="201229" description="82000092" icon="FB_IC_ngaizhuangchegongjizj_SKILL.png" needlevel="4" effect="20013|20014" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10087" name="201223" description="82000087" icon="FB_IC_yongshifangyuzengjia_SKILL.png" needlevel="4" effect="20031|20032" value="3" price_type="10" price="250000" exp="1500000" value_type="1" buff="0" />
+    <ItemSpec id="10088" name="201238" description="82000090" icon="FB_IC_sheshoufangyuzengjia_SKILL.png" needlevel="4" effect="20035|20036" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10089" name="201230" description="82000093" icon="FB_IC_gaizhuangchefangyuzengjia_SKILL.png" needlevel="4" effect="20033|20034" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10090" name="201224" description="82000088" icon="FB_IC_yongshishengmingzengjia_SKILL.png" needlevel="4" effect="20051|20052" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10091" name="201239" description="82000091" icon="FB_IC_sheshoushengmingzengjia_SKILL.png" needlevel="4" effect="20055|20056" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10092" name="201231" description="82000094" icon="FB_IC_gaizhuangcheshengmingzengjia_SKILL.png" needlevel="4" effect="20053|20054" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+
+    <ItemSpec id="10093" name="110400638" description="110400639" icon="FB_IC_speedupquanyong.png" needlevel="5" effect="60425" value="1" price_type="10" price="400000" exp="2400000" buff="0" />
+    <ItemSpec id="10094" name="201222" description="82000086" icon="FB_IC_nyongshigongjizj_SKILL.png" needlevel="5" effect="20011|20012" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10095" name="201237" description="82000089" icon="FB_IC_nsheshougongjizj_SKILL.png" needlevel="5" effect="20015|20016" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10096" name="201229" description="82000092" icon="FB_IC_ngaizhuangchegongjizj_SKILL.png" needlevel="5" effect="20013|20014" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10097" name="201223" description="82000087" icon="FB_IC_yongshifangyuzengjia_SKILL.png" needlevel="5" effect="20031|20032" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10098" name="201238" description="82000090" icon="FB_IC_sheshoufangyuzengjia_SKILL.png" needlevel="5" effect="20035|20036" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10099" name="90800463" description="90800464" icon="Icon_lianmengbiaoji2.png" needlevel="5" effect="20033|20034" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10100" name="201224" description="82000088" icon="FB_IC_yongshishengmingzengjia_SKILL.png" needlevel="5" effect="20051|20052" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10101" name="201239" description="82000091" icon="FB_IC_sheshoushengmingzengjia_SKILL.png" needlevel="5" effect="20055|20056" value="2" price_type="10" price="250000" exp="1500000" value_type="1" buff="0" />
+    <ItemSpec id="10102" name="201231" description="82000094" icon="FB_IC_gaizhuangcheshengmingzengjia_SKILL.png" needlevel="5" effect="20053|20054" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+
+    <ItemSpec id="10103" name="201222" description="82000086" icon="FB_IC_nyongshigongjizj_SKILL.png" needlevel="6" effect="20011|20012" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10104" name="201237" description="82000089" icon="FB_IC_nsheshougongjizj_SKILL.png" needlevel="6" effect="20015|20016" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10105" name="201229" description="82000092" icon="FB_IC_ngaizhuangchegongjizj_SKILL.png" needlevel="6" effect="20013|20014" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10106" name="201223" description="82000087" icon="FB_IC_yongshifangyuzengjia_SKILL.png" needlevel="6" effect="20031|20032" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10107" name="201238" description="82000090" icon="FB_IC_sheshoufangyuzengjia_SKILL.png" needlevel="6" effect="20035|20036" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10108" name="201230" description="82000093" icon="FB_IC_gaizhuangchefangyuzengjia_SKILL.png" needlevel="6" effect="20033|20034" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10109" name="201224" description="82000088" icon="FB_IC_yongshishengmingzengjia_SKILL.png" needlevel="6" effect="20051|20052" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10110" name="201239" description="82000091" icon="FB_IC_sheshoushengmingzengjia_SKILL.png" needlevel="6" effect="20055|20056" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10111" name="201231" description="82000094" icon="FB_IC_gaizhuangcheshengmingzengjia_SKILL.png" needlevel="6" effect="20053|20054" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+
+    <ItemSpec id="10116" name="201222" description="82000086" icon="FB_IC_nyongshigongjizj_SKILL.png" needlevel="7" effect="20011|20012" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10117" name="201237" description="82000089" icon="FB_IC_nsheshougongjizj_SKILL.png" needlevel="7" effect="20015|20016" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10118" name="201229" description="82000092" icon="FB_IC_ngaizhuangchegongjizj_SKILL.png" needlevel="7" effect="20013|20014" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10119" name="201223" description="82000087" icon="FB_IC_yongshifangyuzengjia_SKILL.png" needlevel="7" effect="20031|20032" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10120" name="201238" description="82000090" icon="FB_IC_sheshoufangyuzengjia_SKILL.png" needlevel="7" effect="20035|20036" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10121" name="201230" description="82000093" icon="FB_IC_gaizhuangchefangyuzengjia_SKILL.png" needlevel="7" effect="20033|20034" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10122" name="201224" description="82000088" icon="FB_IC_yongshishengmingzengjia_SKILL.png" needlevel="7" effect="20051|20052" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10123" name="201239" description="82000091" icon="FB_IC_sheshoushengmingzengjia_SKILL.png" needlevel="7" effect="20055|20056" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10124" name="201231" description="82000094" icon="FB_IC_gaizhuangcheshengmingzengjia_SKILL.png" needlevel="7" effect="20053|20054" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+
+    <ItemSpec id="10125" name="201222" description="82000086" icon="FB_IC_nyongshigongjizj_SKILL.png" needlevel="8" effect="20011|20012" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10126" name="201237" description="82000089" icon="FB_IC_nsheshougongjizj_SKILL.png" needlevel="8" effect="20015|20016" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10127" name="201229" description="82000092" icon="FB_IC_ngaizhuangchegongjizj_SKILL.png" needlevel="8" effect="20013|20014" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10128" name="201223" description="82000087" icon="FB_IC_yongshifangyuzengjia_SKILL.png" needlevel="8" effect="20031|20032" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10129" name="201238" description="82000090" icon="FB_IC_sheshoufangyuzengjia_SKILL.png" needlevel="8" effect="20035|20036" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10130" name="201230" description="82000093" icon="FB_IC_gaizhuangchefangyuzengjia_SKILL.png" needlevel="8" effect="20033|20034" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10131" name="201224" description="82000088" icon="FB_IC_yongshishengmingzengjia_SKILL.png" needlevel="8" effect="20051|20052" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10132" name="201239" description="82000091" icon="FB_IC_sheshoushengmingzengjia_SKILL.png" needlevel="8" effect="20055|20056" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10133" name="201231" description="82000094" icon="FB_IC_gaizhuangcheshengmingzengjia_SKILL.png" needlevel="8" effect="20053|20054" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+
+    <ItemSpec id="10134" name="201222" description="82000086" icon="FB_IC_nyongshigongjizj_SKILL.png" needlevel="9" effect="20011|20012" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10135" name="201237" description="82000089" icon="FB_IC_nsheshougongjizj_SKILL.png" needlevel="9" effect="20015|20016" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10136" name="201229" description="82000092" icon="FB_IC_ngaizhuangchegongjizj_SKILL.png" needlevel="9" effect="20013|20014" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10137" name="201223" description="82000087" icon="FB_IC_yongshifangyuzengjia_SKILL.png" needlevel="9" effect="20031|20032" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10138" name="201238" description="82000090" icon="FB_IC_sheshoufangyuzengjia_SKILL.png" needlevel="9" effect="20035|20036" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10139" name="201230" description="82000093" icon="FB_IC_gaizhuangchefangyuzengjia_SKILL.png" needlevel="9" effect="20033|20034" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10140" name="201224" description="82000088" icon="FB_IC_yongshishengmingzengjia_SKILL.png" needlevel="9" effect="20051|20052" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10141" name="201239" description="82000091" icon="FB_IC_sheshoushengmingzengjia_SKILL.png" needlevel="9" effect="20055|20056" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10142" name="201231" description="82000094" icon="FB_IC_gaizhuangcheshengmingzengjia_SKILL.png" needlevel="9" effect="20053|20054" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+
+    <ItemSpec id="10143" name="201222" description="82000086" icon="FB_IC_nyongshigongjizj_SKILL.png" needlevel="10" effect="20011|20012" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10144" name="201237" description="82000089" icon="FB_IC_nsheshougongjizj_SKILL.png" needlevel="10" effect="20015|20016" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10145" name="201229" description="82000092" icon="FB_IC_ngaizhuangchegongjizj_SKILL.png" needlevel="10" effect="20013|20014" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10146" name="201223" description="82000087" icon="FB_IC_yongshifangyuzengjia_SKILL.png" needlevel="10" effect="20031|20032" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10147" name="201238" description="82000090" icon="FB_IC_sheshoufangyuzengjia_SKILL.png" needlevel="10" effect="20035|20036" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10148" name="201230" description="82000093" icon="FB_IC_gaizhuangchefangyuzengjia_SKILL.png" needlevel="10" effect="20033|20034" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10149" name="201224" description="82000088" icon="FB_IC_yongshishengmingzengjia_SKILL.png" needlevel="10" effect="20051|20052" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10150" name="201239" description="82000091" icon="FB_IC_sheshoushengmingzengjia_SKILL.png" needlevel="10" effect="20055|20056" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10151" name="201231" description="82000094" icon="FB_IC_gaizhuangcheshengmingzengjia_SKILL.png" needlevel="10" effect="20053|20054" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+
+    <ItemSpec id="10156" name="201222" description="82000086" icon="FB_IC_nyongshigongjizj_SKILL.png" needlevel="11" effect="20011|20012" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10157" name="201237" description="82000089" icon="FB_IC_nsheshougongjizj_SKILL.png" needlevel="11" effect="20015|20016" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10158" name="201229" description="82000092" icon="FB_IC_ngaizhuangchegongjizj_SKILL.png" needlevel="11" effect="20013|20014" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10159" name="201223" description="82000087" icon="FB_IC_yongshifangyuzengjia_SKILL.png" needlevel="11" effect="20031|20032" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10160" name="201238" description="82000090" icon="FB_IC_sheshoufangyuzengjia_SKILL.png" needlevel="11" effect="20035|20036" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10161" name="201230" description="82000093" icon="FB_IC_gaizhuangchefangyuzengjia_SKILL.png" needlevel="11" effect="20033|20034" value="3" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10162" name="201224" description="82000088" icon="FB_IC_yongshishengmingzengjia_SKILL.png" needlevel="11" effect="20051|20052" value="2" price_type="10" price="250000" exp="1500000" buff="0" />
+    <ItemSpec id="10163" name="201239" description="82000091" icon="FB_IC_sheshoushengmingzengjia_SKILL.png" needlevel="11" effect="20011|20012" value="2" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10164" name="201231" description="82000094" icon="FB_IC_gaizhuangcheshengmingzengjia_SKILL.png" needlevel="11" effect="20015|20016" value="2" price_type="10" price="250000" exp="1800000" buff="0" />
+
+    <ItemSpec id="10165" name="201222" description="82000086" icon="FB_IC_nyongshigongjizj_SKILL.png" needlevel="12" effect="20031|20032" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10166" name="201237" description="82000089" icon="FB_IC_nsheshougongjizj_SKILL.png" needlevel="12" effect="20035|20036" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10167" name="201229" description="82000092" icon="FB_IC_ngaizhuangchegongjizj_SKILL.png" needlevel="12" effect="20033|20034" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10168" name="201223" description="82000087" icon="FB_IC_yongshifangyuzengjia_SKILL.png" needlevel="12" effect="20051|20052" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10169" name="201238" description="82000090" icon="FB_IC_sheshoufangyuzengjia_SKILL.png" needlevel="12" effect="20055|20056" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10170" name="201230" description="82000093" icon="FB_IC_gaizhuangchefangyuzengjia_SKILL.png" needlevel="12" effect="20053|20054" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10171" name="201224" description="82000088" icon="FB_IC_yongshishengmingzengjia_SKILL.png" needlevel="12" effect="20053|20055" value="2" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10172" name="201239" description="82000091" icon="FB_IC_sheshoushengmingzengjia_SKILL.png" needlevel="12" effect="20011|20012" value="2" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10173" name="201231" description="82000094" icon="FB_IC_gaizhuangcheshengmingzengjia_SKILL.png" needlevel="12" effect="20015|20016" value="2" price_type="10" price="250000" exp="1800000" buff="0" />
+
+    <ItemSpec id="10174" name="201222" description="82000086" icon="FB_IC_nyongshigongjizj_SKILL.png" needlevel="13" effect="20031|20032" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10175" name="201237" description="82000089" icon="FB_IC_nsheshougongjizj_SKILL.png" needlevel="13" effect="20035|20036" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10176" name="201229" description="82000092" icon="FB_IC_ngaizhuangchegongjizj_SKILL.png" needlevel="13" effect="20033|20034" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10177" name="201223" description="82000087" icon="FB_IC_yongshifangyuzengjia_SKILL.png" needlevel="13" effect="20051|20052" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10178" name="201238" description="82000090" icon="FB_IC_sheshoufangyuzengjia_SKILL.png" needlevel="13" effect="20055|20056" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10179" name="201230" description="82000093" icon="FB_IC_gaizhuangchefangyuzengjia_SKILL.png" needlevel="13" effect="20053|20054" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10180" name="201224" description="82000088" icon="FB_IC_yongshishengmingzengjia_SKILL.png" needlevel="13" effect="20053|20055" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10181" name="201239" description="82000091" icon="FB_IC_sheshoushengmingzengjia_SKILL.png" needlevel="13" effect="20011|20012" value="2" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10182" name="201231" description="82000094" icon="FB_IC_gaizhuangcheshengmingzengjia_SKILL.png" needlevel="13" effect="20015|20016" value="2" price_type="10" price="250000" exp="1800000" buff="0" />
+
+    <ItemSpec id="10183" name="201222" description="82000086" icon="FB_IC_nyongshigongjizj_SKILL.png" needlevel="14" effect="20031|20032" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10184" name="201237" description="82000089" icon="FB_IC_nsheshougongjizj_SKILL.png" needlevel="14" effect="20035|20036" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10185" name="201229" description="82000092" icon="FB_IC_ngaizhuangchegongjizj_SKILL.png" needlevel="14" effect="20033|20034" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10186" name="201223" description="82000087" icon="FB_IC_yongshifangyuzengjia_SKILL.png" needlevel="14" effect="20051|20052" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10187" name="201238" description="82000090" icon="FB_IC_sheshoufangyuzengjia_SKILL.png" needlevel="14" effect="20055|20056" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10188" name="201230" description="82000093" icon="FB_IC_gaizhuangchefangyuzengjia_SKILL.png" needlevel="14" effect="20053|20054" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10189" name="201224" description="82000088" icon="FB_IC_yongshishengmingzengjia_SKILL.png" needlevel="14" effect="20053|20055" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10190" name="201239" description="82000091" icon="FB_IC_sheshoushengmingzengjia_SKILL.png" needlevel="14" effect="20053|20056" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10191" name="201231" description="82000094" icon="FB_IC_gaizhuangcheshengmingzengjia_SKILL.png" needlevel="14" effect="20053|20057" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+
+    <ItemSpec id="10192" name="201222" description="82000086" icon="FB_IC_nyongshigongjizj_SKILL.png" needlevel="15" effect="20031|20032" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10193" name="201237" description="82000089" icon="FB_IC_nsheshougongjizj_SKILL.png" needlevel="15" effect="20035|20036" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10194" name="201229" description="82000092" icon="FB_IC_ngaizhuangchegongjizj_SKILL.png" needlevel="15" effect="20033|20034" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10195" name="201223" description="82000087" icon="FB_IC_yongshifangyuzengjia_SKILL.png" needlevel="15" effect="20051|20052" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10196" name="201238" description="82000090" icon="FB_IC_sheshoufangyuzengjia_SKILL.png" needlevel="15" effect="20055|20056" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10197" name="201230" description="82000093" icon="FB_IC_gaizhuangchefangyuzengjia_SKILL.png" needlevel="15" effect="20053|20054" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10198" name="201224" description="82000088" icon="FB_IC_yongshishengmingzengjia_SKILL.png" needlevel="15" effect="20053|20055" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10199" name="201239" description="82000091" icon="FB_IC_sheshoushengmingzengjia_SKILL.png" needlevel="15" effect="20053|20056" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10200" name="201231" description="82000094" icon="FB_IC_gaizhuangcheshengmingzengjia_SKILL.png" needlevel="15" effect="20053|20057" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+
+    <ItemSpec id="10201" name="201222" description="82000086" icon="FB_IC_nyongshigongjizj_SKILL.png" needlevel="16" effect="20031|20032" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10202" name="201237" description="82000089" icon="FB_IC_nsheshougongjizj_SKILL.png" needlevel="16" effect="20035|20036" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10203" name="201229" description="82000092" icon="FB_IC_ngaizhuangchegongjizj_SKILL.png" needlevel="16" effect="20033|20034" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10204" name="201223" description="82000087" icon="FB_IC_yongshifangyuzengjia_SKILL.png" needlevel="16" effect="20051|20052" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10205" name="201238" description="82000090" icon="FB_IC_sheshoufangyuzengjia_SKILL.png" needlevel="16" effect="20055|20056" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10206" name="201230" description="82000093" icon="FB_IC_gaizhuangchefangyuzengjia_SKILL.png" needlevel="16" effect="20053|20054" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10207" name="201224" description="82000088" icon="FB_IC_yongshishengmingzengjia_SKILL.png" needlevel="16" effect="20053|20055" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10208" name="201239" description="82000091" icon="FB_IC_sheshoushengmingzengjia_SKILL.png" needlevel="16" effect="20053|20056" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10209" name="201231" description="82000094" icon="FB_IC_gaizhuangcheshengmingzengjia_SKILL.png" needlevel="16" effect="20053|20057" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+
+    <ItemSpec id="10210" name="201222" description="82000086" icon="FB_IC_nyongshigongjizj_SKILL.png" needlevel="17" effect="20031|20032" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10211" name="201237" description="82000089" icon="FB_IC_nsheshougongjizj_SKILL.png" needlevel="17" effect="20035|20036" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10212" name="201229" description="82000092" icon="FB_IC_ngaizhuangchegongjizj_SKILL.png" needlevel="17" effect="20033|20034" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10213" name="201223" description="82000087" icon="FB_IC_yongshifangyuzengjia_SKILL.png" needlevel="17" effect="20051|20052" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10214" name="201238" description="82000090" icon="FB_IC_sheshoufangyuzengjia_SKILL.png" needlevel="17" effect="20055|20056" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10215" name="201230" description="82000093" icon="FB_IC_gaizhuangchefangyuzengjia_SKILL.png" needlevel="17" effect="20053|20054" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10216" name="201224" description="82000088" icon="FB_IC_yongshishengmingzengjia_SKILL.png" needlevel="17" effect="20053|20055" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10217" name="201239" description="82000091" icon="FB_IC_sheshoushengmingzengjia_SKILL.png" needlevel="17" effect="20053|20056" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10218" name="201231" description="82000094" icon="FB_IC_gaizhuangcheshengmingzengjia_SKILL.png" needlevel="17" effect="20053|20057" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+
+    <ItemSpec id="10219" name="201222" description="82000086" icon="FB_IC_nyongshigongjizj_SKILL.png" needlevel="18" effect="20031|20032" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10220" name="201237" description="82000089" icon="FB_IC_nsheshougongjizj_SKILL.png" needlevel="18" effect="20035|20036" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10221" name="201229" description="82000092" icon="FB_IC_ngaizhuangchegongjizj_SKILL.png" needlevel="18" effect="20033|20034" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10222" name="201223" description="82000087" icon="FB_IC_yongshifangyuzengjia_SKILL.png" needlevel="18" effect="20051|20052" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10223" name="201238" description="82000090" icon="FB_IC_sheshoufangyuzengjia_SKILL.png" needlevel="18" effect="20055|20056" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10224" name="201230" description="82000093" icon="FB_IC_gaizhuangchefangyuzengjia_SKILL.png" needlevel="18" effect="20053|20054" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10225" name="201224" description="82000088" icon="FB_IC_yongshishengmingzengjia_SKILL.png" needlevel="18" effect="20053|20055" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10226" name="201239" description="82000091" icon="FB_IC_sheshoushengmingzengjia_SKILL.png" needlevel="18" effect="20053|20056" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+    <ItemSpec id="10227" name="201231" description="82000094" icon="FB_IC_gaizhuangcheshengmingzengjia_SKILL.png" needlevel="18" effect="20053|20057" value="3" price_type="10" price="250000" exp="1800000" buff="0" />
+
+	
+
+	</Group>
+
+</tns:database>

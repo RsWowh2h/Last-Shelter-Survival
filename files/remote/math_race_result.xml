@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="math_race_result">
+		<ItemSpec id="1" gold="50" title="211082" pic="B_banshenxiang_long" PicPosition="289,837,1.2" Mark="F" Goods="210120;1|200836;1|217027;1|200223;1" Season="0-3|4-6|7-99" Rewards="270001|270031|270061"/>
+		<ItemSpec id="2" gold="100" title="211083" pic="B_banshenxiang_buouxiong" PicPosition="316,871,1.3" Mark="F" Goods="210120;15|200836;15|217027;2|200223;72" Season="0-3|4-6|7-99" Rewards="270002|270032|270062"/>
+		<ItemSpec id="3" gold="150" title="211084" pic="B_banshenxiang_bust_Boss" PicPosition="331,864,1.2" Mark="E" Goods="210120;29|200836;29|217027;3|200223;143" Season="0-3|4-6|7-99" Rewards="270003|270033|270063"/>
+		<ItemSpec id="4" gold="200" title="211085" pic="Lion_bust" PicPosition="286,870,1.3" Mark="D" Goods="210120;43|200836;43|217027;5|200223;215" Season="0-3|4-6|7-99" Rewards="270004|270034|270064"/>
+		<ItemSpec id="5" gold="400" title="211086" pic="rm_bust" PicPosition="331,864,1.2" Mark="D" Goods="210120;57|200836;57|217027;6|200223;286" Season="0-3|4-6|7-99" Rewards="270005|270035|270065"/>
+		<ItemSpec id="6" gold="600" title="211087" pic="nurses_01_bust" PicPosition="325,814,1.7" Mark="C" Goods="210120;72|200836;72|217027;7|200223;357" Season="0-3|4-6|7-99" Rewards="270006|270036|270066"/>
+		<ItemSpec id="7" gold="800" title="211095" pic="tufu_02_bust" PicPosition="288,871,1.4" Mark="B" Goods="210120;86|200836;86|217027;9|200223;429" Season="0-3|4-6|7-99" Rewards="270007|270037|270067"/>
+		<ItemSpec id="8" gold="1000" title="211088" pic="huaban_03_bust" PicPosition="329,864,1.5" Mark="A" Goods="210120;100|200836;100|217027;10|200223;500" Season="0-3|4-6|7-99" Rewards="270008|270038|270068"/>
+		<ItemSpec id="9" gold="2000" title="211089" pic="B_banshenxiang_dianjunanBoss" PicPosition="329,864,1.2" Mark="A" Goods="210120;114|200836;114|217027;11|200223;571" Season="0-3|4-6|7-99" Rewards="270009|270039|270069"/>
+		<ItemSpec id="10" gold="3000" title="211090" pic="sangshi5_03_bust" PicPosition="325,830,1.4" Mark="AA" Goods="210120;128|200836;128|217027;13|200223;643" Season="0-3|4-6|7-99" Rewards="270010|270040|270070"/>
+		<ItemSpec id="11" gold="5000" title="211091" pic="zhuanghan_bust" PicPosition="258,864,1.5" Mark="AAA" Goods="210120;143|200836;143|217027;14|200223;714" Season="0-3|4-6|7-99" Rewards="270011|270041|270071"/>
+		<ItemSpec id="12" gold="10000" title="211092" pic="B_banshenxiang_futou_bust_Boss" PicPosition="325,830,1.3" Mark="S" Goods="210120;157|200836;157|217027;15|200223;785" Season="0-3|4-6|7-99" Rewards="270012|270042|270072"/>
+		<ItemSpec id="13" gold="15000" title="211093" pic="scws_1_bust" PicPosition="310,871,1.4" Mark="S" Goods="210120;171|200836;171|217027;17|200223;857" Season="0-3|4-6|7-99" Rewards="270013|270043|270073"/>
+		<ItemSpec id="14" gold="20000" title="211094" pic="jhg_bust" PicPosition="352,871,1.5" Mark="SS" Goods="210120;185|200836;185|217027;18|200223;928" Season="0-3|4-6|7-99" Rewards="270014|270044|270074"/>
+		<ItemSpec id="15" gold="99999999" title="211096" pic="zhandijijia_bust" PicPosition="316,871,1.3" Mark="SSS" Goods="210120;200|200836;200|217027;20|200223;1000" Season="0-3|4-6|7-99" Rewards="270015|270045|270075"/>
+	</Group>
+</tns:database>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="polluted_boss_expand">
+    
+	
+    <ItemSpec id="1" bossid="432109" refresh_form="432117,10|432117,12|432117,14|432117,4" />
+    <ItemSpec id="2" bossid="432110" refresh_form="432118,10|432118,12|432118,17|432118,4" />
+    <ItemSpec id="3" bossid="432111" refresh_form="432119,10|432119,12|432119,17|432119,4" />
+    <ItemSpec id="4" bossid="432112" refresh_form="432120,10|432120,12|432120,17|432120,4" />
+    <ItemSpec id="5" bossid="432113" refresh_form="432121,11|432121,14|432121,14|432121,15" />
+    <ItemSpec id="6" bossid="432114" refresh_form="432122,11|432122,14|432122,14|432122,15" />
+    <ItemSpec id="7" bossid="432115" refresh_form="432123,11|432123,16|432123,17|432123,18|432123,5" />
+    <ItemSpec id="8" bossid="432116" refresh_form="432124,11|432124,16|432124,17|432124,18|432124,5" />
+    <ItemSpec id="9" bossid="432101" refresh_form="432117,10|432117,12" is_expand="1" expand_target="1" is_atkbase="1" expand_army="432117" expand_rate="11,17;70|17,25;70|25,99;120" expand_land="432117" />
+    <ItemSpec id="10" bossid="432102" refresh_form="432118,10|432118,12" is_expand="1" expand_target="1" is_atkbase="1" expand_army="432118" expand_rate="11,18;70|18,25;70|25,99;120" expand_land="432118" />
+    <ItemSpec id="11" bossid="432103" refresh_form="432119,10|432119,12|432119,12" is_expand="1" expand_target="1" is_atkbase="1" expand_army="432119" expand_rate="22,30;70|30,37;70|37,55;120" expand_land="432119" />
+    <ItemSpec id="12" bossid="432104" refresh_form="432120,10|432120,12|432120,12" is_expand="1" expand_target="1" is_atkbase="1" expand_army="432120" expand_rate="22,31;70|31,37;70|37,57;120" expand_land="432120" />
+    <ItemSpec id="13" bossid="432105" refresh_form="432121,11|432121,14|432121,14" is_expand="1" expand_target="1" is_atkbase="1" expand_army="432121" expand_rate="28,38;70|38,49;70|49,71;120" expand_land="432121" />
+    <ItemSpec id="14" bossid="432106" refresh_form="432122,11|432122,14|432122,14" is_expand="1" expand_target="1" is_atkbase="1" expand_army="432122" expand_rate="28,39;70|39,49;70|49,73;120" expand_land="432122" />
+    <ItemSpec id="15" bossid="432107" refresh_form="432123,11|432123,16|432123,17" is_expand="1" expand_target="1" is_atkbase="1" expand_army="432123" expand_rate="33,45;70|45,59;70|59,85;120" expand_land="432123" />
+    <ItemSpec id="16" bossid="432108" refresh_form="432124,11|432124,16|432124,17" is_expand="1" expand_target="1" is_atkbase="1" expand_army="432124" expand_rate="33,46;70|46,59;70|59,87;120" expand_land="432124" />
+    <ItemSpec id="17" bossid="432101" refresh_form="432117,10|432117,12" is_expand="1" expand_target="2" is_atkbase="1" expand_army="432117" expand_rate="11,17;70|17,25;70|25,99;120" expand_land="432117" />
+    <ItemSpec id="18" bossid="432102" refresh_form="432118,10|432118,12" is_expand="1" expand_target="2" is_atkbase="1" expand_army="432118" expand_rate="11,18;70|18,25;70|25,99;120" expand_land="432118" />
+    <ItemSpec id="19" bossid="432103" refresh_form="432119,10|432119,12|432119,12" is_expand="1" expand_target="2" is_atkbase="1" expand_army="432119" expand_rate="22,30;70|30,37;70|37,55;120" expand_land="432119" />
+    <ItemSpec id="20" bossid="432104" refresh_form="432120,10|432120,12|432120,12" is_expand="1" expand_target="2" is_atkbase="1" expand_army="432120" expand_rate="22,31;70|31,37;70|37,57;120" expand_land="432120" />
+    <ItemSpec id="21" bossid="432105" refresh_form="432121,11|432121,14|432121,14" is_expand="1" expand_target="2" is_atkbase="1" expand_army="432121" expand_rate="28,38;70|38,49;70|49,71;120" expand_land="432121" />
+    <ItemSpec id="22" bossid="432106" refresh_form="432122,11|432122,14|432122,14" is_expand="1" expand_target="2" is_atkbase="1" expand_army="432122" expand_rate="28,39;70|39,49;70|49,73;120" expand_land="432122" />
+    <ItemSpec id="23" bossid="432107" refresh_form="432123,11|432123,16|432123,17" is_expand="1" expand_target="2" is_atkbase="1" expand_army="432123" expand_rate="33,45;70|45,59;70|59,85;120" expand_land="432123" />
+    <ItemSpec id="24" bossid="432108" refresh_form="432124,11|432124,16|432124,17" is_expand="1" expand_target="2" is_atkbase="1" expand_army="432124" expand_rate="33,46;70|46,59;70|59,87;120" expand_land="432124" />
+
+
+</Group>
+
+</tns:database>

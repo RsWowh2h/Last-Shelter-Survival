@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="left_entrance">
+  
+    <ItemSpec id="10001" type="1" name="5600800" order="1" icon="icon_libao" />
+    <ItemSpec id="10002" type="2" name="5600801" order="2" icon="icon_shangdian" />
+    <ItemSpec id="10003" type="3" name="5600802" order="3" icon="icon_rili" />
+
+
+</Group>
+<Group id="guide_features">
+    <ItemSpec id="10001" type="1" order="1" banner="meinv_s" name="236107" introduce_topic="meinv_big" introduce_title="236107" introduce="236108" />
+    <ItemSpec id="10002" type="2" order="2" banner="saiche_s" name="211021" introduce_topic="saiche_big" introduce_title="211021" introduce="230011" />
+    <ItemSpec id="10003" type="3" order="3" banner="wujinzhizhan_s" name="110240302" introduce_topic="wujinzhizhan_big" introduce_title="110240302" introduce="110240729" />
+    <ItemSpec id="10004" type="4" order="4" banner="leida_s" name="110093046" introduce_topic="leida_big" introduce_title="110093046" introduce="110093122" />
+    <ItemSpec id="10005" type="5" order="5" banner="jianzao_s" name="110283031" introduce_topic="jianzao_big" introduce_title="110283031" introduce="110093123" />
+    <ItemSpec id="10006" type="6" order="6" banner="dixiacheng_s" name="110110443" introduce_topic="dixiacheng_big" introduce_title="110110443" introduce="110110444" />
+
+</Group>
+<Group id="guide_calendar">
+    <ItemSpec id="10001" activity_id="57737" name="5602100" icon="FB_IC_jnh_lantu" time="12.16-01.05" order="1" pre_desc_info="5602101" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10002" activity_id="57716" name="5600500" icon="FB_IC_jnh_jinbibaoweizhan" time="12.16-12.22" order="2" pre_desc_info="5600502" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10003" activity_id="57738" name="110010306" icon="FB_IC_jnh_kaoroupaidui" time="12.16-12.22" order="3" pre_desc_info="110010307" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10004" activity_id="57713" name="5600182" icon="FB_IC_jnh_jiyipintu" time="12.16-12.29" order="4" pre_desc_info="5600917" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10005" activity_id="57722" name="110221542" icon="FB_IC_jnh_battlepass" time="12.16-12.29" order="5" pre_desc_info="110221546" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10006" activity_id="57149" name="90821052" icon="FB_IC_jnh_huodongguai" time="12.23-12.29" order="6" pre_desc_info="90821054" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10007" activity_id="57739" name="110240583" icon="FB_IC_jnh_liwupaisong" time="12.23-12.29" order="7" pre_desc_info="110240586" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10008" activity_id="57715" name="5600300" icon="FB_IC_jnh_jinbibaoweizhan" time="12.30-01.05" order="8" pre_desc_info="5600302" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10009" activity_id="57724" name="800002" icon="FB_IC_jnh_xingcunzhe" time="12.30-01.05" order="9" pre_desc_info="5600595" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10010" activity_id="1120122" name="110281048" icon="FB_IC_jnh_yingxiongzhuanpan" time="12.16-01.05" order="10" pre_desc_info="5600849" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10011" activity_id="57741" name="110281002" icon="FB_IC_jnh_yanhuaqingdian" time="12.16-01.08" order="11" pre_desc_info="110281017" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10012" activity_id="57712" name="90823111" icon="FB_IC_jnh_xuyuanshu" time="12.23-12.29" order="12" pre_desc_info="5600147" pre_banner="activity_icon_57719" />
+
+</Group>
+<Group id="in_progress"><!--进行中的活动-->
+    <ItemSpec id="10001" activity_id="57744" type="132" name="5602127" icon="FB_IC_jnh_lantu" start_time="2022/12/16 00:00:00" end_time="2023/01/05 23:59:59" order="1" military_service="1" />
+    <ItemSpec id="10003" activity_id="57738" type="126" name="110010306" icon="FB_IC_jnh_kaoroupaidui" start_time="2022/12/16 00:00:00" end_time="2022/12/22 23:59:59" order="2" military_service="0" />
+    <ItemSpec id="10004" activity_id="57713" type="103" name="5600182" icon="FB_IC_jnh_jiyipintu" start_time="2022/12/16 00:00:00" end_time="2022/12/22 23:59:59" order="3" military_service="1" />
+    <ItemSpec id="10005" activity_id="57741" type="130" name="110281002" icon="FB_IC_jnh_yanhuaqingdian" start_time="2022/12/16 00:00:00" end_time="2023/01/08 23:59:59" order="4" military_service="1" />
+    <ItemSpec id="10007" activity_id="1120122" type="67" name="110281048" icon="FB_IC_jnh_yingxiongzhuanpan" start_time="2022/12/16 00:00:00" end_time="2023/01/05 23:59:59" order="5" military_service="1" />
+    <ItemSpec id="10008" activity_id="57739" type="127" name="110240583" icon="FB_IC_jnh_liwupaisong" start_time="2022/12/23 00:00:00" end_time="2022/12/29 23:59:59" order="6" military_service="1" />
+
+
+    <ItemSpec id="10010" activity_id="57713" type="103" name="5600182" icon="FB_IC_jnh_jiyipintu" start_time="2022/12/23 00:00:00" end_time="2022/12/29 23:59:59" order="8" military_service="1" />
+
+</Group>
+
+
+
+
+
+
+
+
+</tns:database>

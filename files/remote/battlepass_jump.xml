@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="battlepass_jump">   
+  
+   <!-- <ItemSpec id="10001" activity_id="7" name="110221572" item_image="item310013" des="110221319" exchange_image="item310069" exchange_name="5600634" activity1__image="item221505" activity1__name="133000" activity2__image="0" activity3__image="0" activity4__image="0" activity5__image="0" /> -->
+   <ItemSpec id="10001" activity_id="8" name="5601521" item_image="item310013" des="110221319" exchange_image="item406" exchange_name="5600634" activity1__image="item220208" activity1__name="133000" activity2__image="0" activity3__image="0" activity4__image="0" activity5__image="0" />
+
+</Group>
+
+ <Group id="compose_jump">   
+  
+    <ItemSpec id="10001" name="5601446" exchange_image="quest_Stable_icon1" exchange_name="5600634" activity1__image="0" activity1__name="0" activity2__image="0" activity3__image="0" activity4__image="0" activity5__image="0" />
+	<ItemSpec id="10002" name="5601446" exchange_image="quest_Stable_icon1" exchange_name="5600634" activity1__image="prison_chuanqi" activity1__name="110221297" activity2__image="0" activity3__image="0" activity4__image="0" activity5__image="0" />
+</Group>
+</tns:database>

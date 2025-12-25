@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="alliance_science">
+    <ItemSpec id="1010100" icon="FB_IC_ziyuanhudun1" />
+    <ItemSpec id="1010200" icon="alliance_science_1_2" />
+    <ItemSpec id="1020100" icon="alliance_science_1_7" />
+    <ItemSpec id="1030100" icon="alliance_science_2_9" />
+    <ItemSpec id="1040100" icon="alliance_science_3_2" />
+    <ItemSpec id="1040200" icon="alliance_science_3_3" />
+    <ItemSpec id="1040300" icon="alliance_science_3_5" />
+    <ItemSpec id="1040400" icon="alliance_science_3_4" />
+    <ItemSpec id="1050100" icon="alliance_science_3_10" />
+    <ItemSpec id="1060100" icon="alliance_science_3_2" />
+    <ItemSpec id="1060200" icon="alliance_science_3_3" />
+    <ItemSpec id="1060300" icon="alliance_science_3_5" />
+    <ItemSpec id="1060400" icon="alliance_science_3_4" />
+    <ItemSpec id="1070100" icon="FB_IC_ziyuanhudun3" />
+    <ItemSpec id="1070200" icon="alliance_science_3_6" />
+    <ItemSpec id="1080100" icon="FB_IC_chaopiaohudun4" />
+    <ItemSpec id="1090100" icon="alliance_science_4_2" />
+    <ItemSpec id="1100100" icon="alliance_science_4_3" />
+    <ItemSpec id="2010100" icon="alliance_science_2_31" />
+    <ItemSpec id="2020100" icon="alliance_science_2_30" />
+    <ItemSpec id="2020200" icon="alliance_science_2_10" />
+    <ItemSpec id="2030100" icon="alliance_science_2_1" />
+    <ItemSpec id="2030200" icon="alliance_science_2_2" />
+    <ItemSpec id="2030300" icon="alliance_science_2_3" />
+    <ItemSpec id="2040100" icon="alliance_science_1_3" />
+    <ItemSpec id="2050100" icon="alliance_science_2_7" />
+    <ItemSpec id="2050200" icon="alliance_science_2_6" />
+    <ItemSpec id="2050300" icon="alliance_science_2_5" />
+    <ItemSpec id="2060100" icon="alliance_science_5_2" />
+    <ItemSpec id="2070100" icon="alliance_science_2_12" />
+    <ItemSpec id="2070200" icon="alliance_science_2_13" />
+    <ItemSpec id="2070300" icon="alliance_science_2_14" />
+    <ItemSpec id="2080100" icon="alliance_science_5_3" />
+    <ItemSpec id="2090100" icon="alliance_science_2_7" />
+    <ItemSpec id="2090200" icon="alliance_science_2_6" />
+    <ItemSpec id="2090300" icon="alliance_science_2_5" />
+    <ItemSpec id="2100100" icon="alliance_science_5_4" />
+
+  </Group>
+</tns:database>

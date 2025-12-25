@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<!--箱神，军团鏖战，军团属性统计显示内容-->
+	<Group id="battles_effect1">
+    <ItemSpec id="1" type="1" description="111001453" effect="5601" toEffect="41271,41272" symbol="2" percent="1" correct="1" priority="1" />
+    <ItemSpec id="2" type="1" description="111001456" effect="5602" toEffect="41291,41292" symbol="2" percent="1" correct="1" priority="1" />
+    <ItemSpec id="3" type="1" description="111001459" effect="5603" toEffect="41301,41302" symbol="2" percent="1" correct="1" priority="1" />
+    <ItemSpec id="4" type="1" description="111001462" effect="5604" toEffect="41281,41282" symbol="2" percent="0" correct="1" priority="1" />
+    <ItemSpec id="5" type="1" description="111001454" effect="5611" toEffect="41273,41274" symbol="2" percent="1" correct="1" priority="1" />
+    <ItemSpec id="6" type="1" description="111001457" effect="5612" toEffect="41293,41294" symbol="2" percent="1" correct="1" priority="1" />
+    <ItemSpec id="7" type="1" description="111001460" effect="5613" toEffect="41303,41304" symbol="2" percent="1" correct="1" priority="1" />
+    <ItemSpec id="8" type="1" description="111001463" effect="5614" toEffect="41283,41284" symbol="2" percent="0" correct="1" priority="1" />
+    <ItemSpec id="9" type="1" description="111001455" effect="5621" toEffect="41275,41276" symbol="2" percent="1" correct="1" priority="1" />
+    <ItemSpec id="10" type="1" description="111001458" effect="5622" toEffect="41295,41296" symbol="2" percent="1" correct="1" priority="1" />
+    <ItemSpec id="11" type="1" description="111001461" effect="5623" toEffect="41305,41306" symbol="2" percent="1" correct="1" priority="1" />
+    <ItemSpec id="12" type="1" description="111001464" effect="5624" toEffect="41285,41286" symbol="2" percent="0" correct="1" priority="1" />
+		
+<!--示例其他 秘境专精统计显示内容-->
+
+
+	</Group> 
+</tns:database>

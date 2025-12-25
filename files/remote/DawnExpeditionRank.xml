@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="DawnExpeditionRank">
+	<!-- 箱神，破晓远征，前后端id对应且唯一，maxRank排名，rankType排名类型1为个人2为联盟；itemShow前端显示，awardID后端实际奖励；
+	联盟奖励：暂定无物品，只有联盟成员增益，effectDes多语言描述，effectPar1多语言参数；effectID实际作用号及数据，支持多个-->
+    <ItemSpec id="1" maxRank="1" rankType="1" itemShow="203507:2000|203522:50000|209949:1920|217027:7000|312087:3|312086:3|312085:2" awardID="2300001" effectDes="0" effectID="0" effectPar1="0" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="2" maxRank="2" rankType="1" itemShow="203507:1800|203522:45000|209949:1728|217027:6500|312087:3|312086:3|312085:1" awardID="2300002" effectDes="0" effectID="0" effectPar1="0" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="3" maxRank="3" rankType="1" itemShow="203507:1600|203522:40000|209949:1536|217027:6000|312087:3|312086:2|312085:1" awardID="2300003" effectDes="0" effectID="0" effectPar1="0" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="4" maxRank="4-10" rankType="1" itemShow="203507:1400|203522:35000|209949:1344|217027:5500|312087:2|312086:2|312085:1" awardID="2300004" effectDes="0" effectID="0" effectPar1="0" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="5" maxRank="11-20" rankType="1" itemShow="203507:1200|203522:30000|209949:1152|217027:5000|312087:2|312086:1|312085:1" awardID="2300005" effectDes="0" effectID="0" effectPar1="0" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="6" maxRank="21-50" rankType="1" itemShow="203507:1150|203522:28750|209949:960|217027:4700|312087:2|312086:1" awardID="2300006" effectDes="0" effectID="0" effectPar1="0" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="7" maxRank="51-100" rankType="1" itemShow="203507:1100|203522:27500|209949:864|217027:4400|312087:1|312086:1" awardID="2300007" effectDes="0" effectID="0" effectPar1="0" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="8" maxRank="101-300" rankType="1" itemShow="203507:1050|203522:26250|209949:768|217027:4100|312087:1" awardID="2300008" effectDes="0" effectID="0" effectPar1="0" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="9" maxRank="301-500" rankType="1" itemShow="203507:1000|203522:25000|209949:672|217027:3800" awardID="2300009" effectDes="0" effectID="0" effectPar1="0" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="10" maxRank="501-1000" rankType="1" itemShow="203507:950|203522:23750|209949:576|217027:3500" awardID="2300010" effectDes="0" effectID="0" effectPar1="0" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="11" maxRank="1001-2000" rankType="1" itemShow="203507:900|203522:22500|209949:480|217027:3200" awardID="2300011" effectDes="0" effectID="0" effectPar1="0" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="12" maxRank="2001-99999" rankType="1" itemShow="203507:850|203522:21250|209949:384|217027:2900" awardID="2300012" effectDes="0" effectID="0" effectPar1="0" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="13" maxRank="1" rankType="2" itemShow="0" awardID="0" effectDes="110257523" effectID="1060;2.5" effectPar1="2.5" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="14" maxRank="2" rankType="2" itemShow="0" awardID="0" effectDes="110257523" effectID="1060;2" effectPar1="2" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="15" maxRank="3" rankType="2" itemShow="0" awardID="0" effectDes="110257523" effectID="1060;1.5" effectPar1="1.5" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="16" maxRank="4" rankType="2" itemShow="0" awardID="0" effectDes="110257523" effectID="1060;1" effectPar1="1" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="17" maxRank="5" rankType="2" itemShow="0" awardID="0" effectDes="110257524" effectID="1010;5" effectPar1="5" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="18" maxRank="6" rankType="2" itemShow="0" awardID="0" effectDes="110257524" effectID="1010;4" effectPar1="4" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="19" maxRank="7" rankType="2" itemShow="0" awardID="0" effectDes="110257524" effectID="1010;3" effectPar1="3" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="20" maxRank="8" rankType="2" itemShow="0" awardID="0" effectDes="110257524" effectID="1010;2" effectPar1="2" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="21" maxRank="9" rankType="2" itemShow="0" awardID="0" effectDes="110257525" effectID="23;10" effectPar1="10" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="22" maxRank="10" rankType="2" itemShow="0" awardID="0" effectDes="110257525" effectID="23;8" effectPar1="8" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="23" maxRank="11" rankType="2" itemShow="0" awardID="0" effectDes="110257525" effectID="23;6" effectPar1="6" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="24" maxRank="12" rankType="2" itemShow="0" awardID="0" effectDes="110257525" effectID="23;4" effectPar1="4" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="25" maxRank="13-16" rankType="2" itemShow="0" awardID="0" effectDes="110257526" effectID="690;3|691;3|692;3|693;3|694;3" effectPar1="3" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="26" maxRank="17-20" rankType="2" itemShow="0" awardID="0" effectDes="110257526" effectID="690;2|691;2|692;2|693;2|694;2" effectPar1="2" effectPar2="0" effectPar3="0" />
+    <ItemSpec id="27" maxRank="21-999" rankType="2" itemShow="0" awardID="0" effectDes="110257526" effectID="690;1|691;1|692;1|693;1|694;1" effectPar1="1" effectPar2="0" effectPar3="0" />
+
+
+</Group>
+</tns:database>

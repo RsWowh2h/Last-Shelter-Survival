@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="equip_level_up_effect">
+		<ItemSpec id="1101" suit_id="202800" level_lock="10" star_lock="1" lock_text="110550030" skill_id="70101" skill_type="2" skill_icon="FB_IC_70101_SKILL" desc="110550043" desc_value="5|10"/>
+		<ItemSpec id="1102" suit_id="202800" level_lock="10" star_lock="2" lock_text="110550031" effect="27181|27182|27185|27186|27183|27184" value="5|5|5|5|5|5" name="110550073" desc="110550044" desc_value="5"/>
+		<ItemSpec id="1103" suit_id="202800" level_lock="20" star_lock="3" lock_text="110550032" skill_id="70105" skill_type="2" skill_icon="FB_IC_70105_SKILL" desc="110550045" desc_value="20"/>
+		<ItemSpec id="1104" suit_id="202800" level_lock="20" star_lock="4" lock_text="110550033" effect="9051|9052|9055|9056|9053|9054" value="5|5|5|5|5|5" name="110550074" desc="110550046" desc_value="5"/>
+		<ItemSpec id="1105" suit_id="202800" level_lock="30" star_lock="5" lock_text="110550034" skill_id="70102" skill_type="2" skill_icon="FB_IC_70102_SKILL" desc="110550047" desc_value="5|10"/>
+		<ItemSpec id="1106" suit_id="202800" level_lock="30" star_lock="6" lock_text="110550035" effect="27181|27182|27185|27186|27183|27184" value="10|10|10|10|10|10" name="110550073" desc="110550044" desc_value="10"/>
+		<ItemSpec id="1107" suit_id="202800" level_lock="40" star_lock="7" lock_text="110550036" skill_id="70106" skill_type="2" skill_icon="FB_IC_70106_SKILL" desc="110550049" desc_value="20"/>
+		<ItemSpec id="1108" suit_id="202800" level_lock="40" star_lock="8" lock_text="110550037" effect="9051|9052|9055|9056|9053|9054" value="10|10|10|10|10|10" name="110550074" desc="110550046" desc_value="10"/>
+		<ItemSpec id="1109" suit_id="202800" level_lock="50" star_lock="9" lock_text="110550038" skill_id="70103" skill_type="1" skill_icon="FB_IC_70103_SKILL" desc="110550051" desc_value="8"/>
+		<ItemSpec id="1110" suit_id="202800" level_lock="60" star_lock="10" lock_text="110550039" skill_id="70104" skill_type="2" skill_icon="FB_IC_70104_SKILL" desc="110550052" desc_value="15"/>
+		<ItemSpec id="1111" suit_id="202800" level_lock="60" show="1" star_lock="20" lock_text="110550040" skill_id="70107" skill_type="1" skill_icon="FB_IC_70103_SKILL" desc="110550053" desc_value="10"/>
+		<ItemSpec id="1112" suit_id="202800" level_lock="60" show="2" star_lock="30" lock_text="110550041" skill_id="70108" skill_type="1" skill_icon="FB_IC_70103_SKILL" desc="110550054" desc_value="12"/>
+		<ItemSpec id="1113" suit_id="202800" level_lock="60" show="3" star_lock="40" lock_text="110550042" skill_id="70109" skill_type="1" skill_icon="FB_IC_70103_SKILL" desc="110550055" desc_value="15"/>
+		<ItemSpec id="1114" suit_id="202800" level_lock="60" show="4" star_lock="50" lock_text="113010010" skill_id="70110" skill_type="1" desc="113010011" desc_value="17" skill_icon="FB_IC_70103_SKILL" show_season_switch="12"/>
+
+	</Group>
+</tns:database>

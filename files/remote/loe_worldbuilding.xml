@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="loe_worldbuilding">
+    <ItemSpec id="1001" type="88" name="110020602" des="110020652" city_pic="AB_park" para="65;5;2;77110014" basenpc="365001" maxdef="10000" build_queue_num="5" vp="1000"/>
+    <ItemSpec id="1002" type="92" name="110020606" des="110020656" city_pic="AB_petrol" para="651;5;2;103604" basenpc="365001" maxdef="10000" build_queue_num="5" vp="950"/>
+    <ItemSpec id="1003" type="87" name="110020601" des="110020651" city_pic="AB_mall" para="920;25000;1;101414" basenpc="365001" maxdef="10000" build_queue_num="5" vp="900"/>
+    <ItemSpec id="1004" type="96" name="110020610" des="110020657" city_pic="AB_hospital" para="57;5;2;181037" basenpc="365001" maxdef="10000" build_queue_num="5" vp="1000"/>
+    <ItemSpec id="1005" type="90" name="110020604" des="110020654" city_pic="AB_station" para="60;5;2;103027" basenpc="365001" maxdef="10000" build_queue_num="5" vp="950"/>
+    <ItemSpec id="1006" type="95" name="110020609" des="110020661" city_pic="AB_stadium" para="113;5;2;129055|114;5;2|115;5;2" basenpc="365001" maxdef="10000" build_queue_num="5" vp="900"/>
+    <ItemSpec id="2001" type="88" name="110020810" des="110020652" city_pic="AB_park" para="65;10;2;77110014" basenpc="365001" maxdef="10000" build_queue_num="6" vp="1500"/>
+    <ItemSpec id="2002" type="92" name="110020812" des="110020656" city_pic="AB_petrol" para="651;10;2;103604" basenpc="365001" maxdef="10000" build_queue_num="6" vp="1350"/>
+    <ItemSpec id="2003" type="87" name="110020809" des="110020651" city_pic="AB_mall" para="920;25000;1;101414" basenpc="365001" maxdef="10000" build_queue_num="6" vp="1250"/>
+    <ItemSpec id="2004" type="96" name="110020814" des="110020657" city_pic="AB_hospital" para="57;10;2;181037" basenpc="365001" maxdef="10000" build_queue_num="6" vp="1500"/>
+    <ItemSpec id="2005" type="90" name="110020811" des="110020654" city_pic="AB_station" para="60;10;2;103027" basenpc="365001" maxdef="10000" build_queue_num="6" vp="1350"/>
+    <ItemSpec id="2006" type="95" name="110020813" des="110020661" city_pic="AB_stadium" para="113;10;2;129055|114;10;2|115;10;2" basenpc="365001" maxdef="10000" build_queue_num="6" vp="1250"/>
+    <ItemSpec id="3001" type="97" name="110020611" des="110020658" city_pic="AB_tower" para="901;10;1;110020037|65;10;2;77110014" basenpc="365001" maxdef="10000" build_queue_num="7" vp="2000"/>
+    <ItemSpec id="3002" type="94" name="110020608" des="110020660" city_pic="AB_prison" para="23030;10;2;103601|920;25000;1;101414" basenpc="365001" maxdef="10000" build_queue_num="7" vp="1850"/>
+    <ItemSpec id="3003" type="93" name="110020607" des="110020659" city_pic="AB_police" para="23010;10;2;103600|651;10;2;103604" basenpc="365001" maxdef="10000" build_queue_num="7" vp="1650"/>
+
+  </Group>
+</tns:database>

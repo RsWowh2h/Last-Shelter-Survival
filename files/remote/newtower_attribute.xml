@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="newtower_attribute">
+    <!--AttackSpeed=攻击速度    TowerPower=攻击力    TowerRange=攻击范围    TowerCost=建造花费    TowerBack=回收值   Towerresouce=塔资源   SpecialEffect=火焰塔特有，前方10度，走出攻击范围后持续燃烧几秒，燃烧伤害   减速塔减速百分比      激光塔，增大伤害值百分比；增大时间，最大伤害值-->
+    <ItemSpec id="410001" Towername="机枪塔1" AttackSpeed="0.1" TowerPower="15" TowerRange="6" TowerCost="50" TowerBack="40" Towerresouce="jiqiangta1" />
+    <ItemSpec id="410002" Towername="机枪塔2" AttackSpeed="0.1" TowerPower="30" TowerRange="6.5" TowerCost="70" TowerBack="96" Towerresouce="jiqiangta2" />
+    <ItemSpec id="410003" Towername="机枪塔3" AttackSpeed="0.1" TowerPower="51" TowerRange="7" TowerCost="130" TowerBack="200" Towerresouce="jiqiangta3" />
+    <ItemSpec id="410004" Towername="机枪塔4" AttackSpeed="0.1" TowerPower="3.24" TowerRange="6" TowerCost="130" TowerBack="264" Towerresouce="jiqiangta4" />
+    <ItemSpec id="410005" Towername="机枪塔5" AttackSpeed="0.1" TowerPower="0" TowerRange="6" TowerCost="130" TowerBack="312" Towerresouce="jiqiangta5" />
+    <ItemSpec id="420001" Towername="火焰塔1" AttackSpeed="0.1" TowerPower="7.56" TowerRange="6" TowerCost="60" TowerBack="48" Towerresouce="penhuoqi1" SpecialEffect="10;2" />
+    <ItemSpec id="420002" Towername="火焰塔2" AttackSpeed="0.1" TowerPower="13.44" TowerRange="6.5" TowerCost="84" TowerBack="115" Towerresouce="penhuoqi2" SpecialEffect="12;2" />
+    <ItemSpec id="420003" Towername="火焰塔3" AttackSpeed="0.1" TowerPower="34" TowerRange="7" TowerCost="156" TowerBack="240" Towerresouce="penhuoqi3" SpecialEffect="15;2" />
+    <ItemSpec id="420004" Towername="火焰塔4" AttackSpeed="0.1" TowerPower="21.6" TowerRange="6" TowerCost="156" TowerBack="316" Towerresouce="penhuoqi4" />
+    <ItemSpec id="420005" Towername="火焰塔5" AttackSpeed="0.1" TowerPower="21.6" TowerRange="6" TowerCost="156" TowerBack="374" Towerresouce="penhuoqi5" />
+    <ItemSpec id="430001" Towername="电磁塔1" AttackSpeed="0.1" TowerPower="1.4" TowerRange="6" TowerCost="70" TowerBack="56" Towerresouce="diancita1" SpecialEffect="0.1" />
+    <ItemSpec id="430002" Towername="电磁塔2" AttackSpeed="0.1" TowerPower="2.8" TowerRange="6.5" TowerCost="98" TowerBack="134" Towerresouce="diancita2" SpecialEffect="0.2" />
+    <ItemSpec id="430003" Towername="电磁塔3" AttackSpeed="0.1" TowerPower="4.9" TowerRange="7" TowerCost="182" TowerBack="224" Towerresouce="diancita3" SpecialEffect="0.3" />
+    <ItemSpec id="430004" Towername="电磁塔4" AttackSpeed="0.1" TowerPower="49" TowerRange="6.5" TowerCost="98" TowerBack="224" Towerresouce="diancita4" />
+    <ItemSpec id="430005" Towername="电磁塔5" AttackSpeed="0.1" TowerPower="49" TowerRange="6.5" TowerCost="98" TowerBack="156" Towerresouce="diancita5" />
+    <ItemSpec id="440001" Towername="激光塔1" AttackSpeed="0.1" TowerPower="8" TowerRange="6" TowerCost="60" TowerBack="48" Towerresouce="jiguangta1" SpecialEffect="0.2;1;25.2" />
+    <ItemSpec id="440002" Towername="激光塔2" AttackSpeed="0.1" TowerPower="16.5" TowerRange="6.5" TowerCost="84" TowerBack="115" Towerresouce="jiguangta2" SpecialEffect="0.2;1;49.7" />
+    <ItemSpec id="440003" Towername="激光塔3" AttackSpeed="0.1" TowerPower="28.6" TowerRange="7" TowerCost="156" TowerBack="240" Towerresouce="jiguangta3" SpecialEffect="0.2;1;86" />
+    <ItemSpec id="440004" Towername="激光塔4" AttackSpeed="0.1" TowerPower="286" TowerRange="6" TowerCost="156" TowerBack="316" Towerresouce="jiguangta4" />
+    <ItemSpec id="440005" Towername="激光塔5" AttackSpeed="0.1" TowerPower="286" TowerRange="6" TowerCost="156" TowerBack="374" Towerresouce="jiguangta5" />
+
+
+
+
+
+
+</Group>
+
+
+
+</tns:database>

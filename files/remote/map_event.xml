@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="map_event">
+    <ItemSpec id="1" event="1" coordinate="-4,58"/>
+    <ItemSpec id="2" event="2" coordinate="-4,43"/>
+    <ItemSpec id="3" event="3" coordinate="-11,26"/>
+    <ItemSpec id="4" event="4" coordinate="-16,45"/>
+    <ItemSpec id="5" event="5" coordinate="-22,22"/>
+    <ItemSpec id="6" event="6" coordinate="-4,2"/>
+    <ItemSpec id="7" event="1" coordinate="-4,29"/>
+    <ItemSpec id="8" event="2" coordinate="-12,42"/>
+    <ItemSpec id="9" event="3" coordinate="-12,35"/>
+    <ItemSpec id="10" event="4" coordinate="-4,56"/>
+    <ItemSpec id="11" event="5" coordinate="-14,12"/>
+    <ItemSpec id="12" event="6" coordinate="-30,30"/>
+    <ItemSpec id="13" event="1" coordinate="-5,34"/>
+    <ItemSpec id="14" event="2" coordinate="-7,10"/>
+    <ItemSpec id="15" event="3" coordinate="-6,22"/>
+    <ItemSpec id="16" event="4" coordinate="8,69"/>
+    <ItemSpec id="17" event="5" coordinate="16,69"/>
+    <ItemSpec id="18" event="6" coordinate="43,76"/>
+    <ItemSpec id="19" event="1" coordinate="30,68"/>
+    <ItemSpec id="20" event="2" coordinate="42,68"/>
+    <ItemSpec id="21" event="3" coordinate="52,69"/>
+    <ItemSpec id="22" event="4" coordinate="15,77"/>
+    <ItemSpec id="23" event="5" coordinate="33,76"/>
+    <ItemSpec id="24" event="6" coordinate="23,84"/>
+    <ItemSpec id="25" event="1" coordinate="35,69"/>
+    <ItemSpec id="26" event="2" coordinate="24,69"/>
+    <ItemSpec id="27" event="3" coordinate="22,76"/>
+    <ItemSpec id="28" event="4" coordinate="30,90"/>
+    <ItemSpec id="29" event="5" coordinate="33,84"/>
+    <ItemSpec id="30" event="6" coordinate="-20,35"/>
+    <ItemSpec id="31" event="1" coordinate="0,-5"/>
+    <ItemSpec id="32" event="2" coordinate="9,-5"/>
+    <ItemSpec id="33" event="3" coordinate="18,-5"/>
+    <ItemSpec id="34" event="4" coordinate="27,-5"/>
+    <ItemSpec id="35" event="5" coordinate="36,-5"/>
+    <ItemSpec id="36" event="6" coordinate="46,-5"/>
+    <ItemSpec id="37" event="1" coordinate="72,28"/>
+    <ItemSpec id="38" event="2" coordinate="17,-13"/>
+    <ItemSpec id="39" event="3" coordinate="34,-13"/>
+    <ItemSpec id="40" event="4" coordinate="41,-13"/>
+    <ItemSpec id="41" event="5" coordinate="48,-13"/>
+    <ItemSpec id="42" event="6" coordinate="17,-20"/>
+    <ItemSpec id="43" event="1" coordinate="23,-20"/>
+    <ItemSpec id="44" event="2" coordinate="29,-20"/>
+    <ItemSpec id="45" event="3" coordinate="35,-20"/>
+    <ItemSpec id="46" event="4" coordinate="69,7"/>
+    <ItemSpec id="47" event="5" coordinate="69,15"/>
+    <ItemSpec id="48" event="6" coordinate="29,-31"/>
+    <ItemSpec id="49" event="1" coordinate="69,31"/>
+    <ItemSpec id="50" event="2" coordinate="69,39"/>
+    <ItemSpec id="51" event="3" coordinate="69,47"/>
+    <ItemSpec id="52" event="4" coordinate="76,22"/>
+    <ItemSpec id="53" event="5" coordinate="76,39"/>
+    <ItemSpec id="54" event="6" coordinate="26,-26"/>
+    <ItemSpec id="55" event="1" coordinate="77,29"/>
+    <ItemSpec id="56" event="2" coordinate="68,23"/>
+    <ItemSpec id="57" event="3" coordinate="76,16"/>
+    <ItemSpec id="58" event="4" coordinate="86,35"/>
+    <ItemSpec id="59" event="5" coordinate="86,25"/>
+    <ItemSpec id="60" event="6" coordinate="11,-12"/>
+
+
+
+</Group>
+
+
+  </tns:database>

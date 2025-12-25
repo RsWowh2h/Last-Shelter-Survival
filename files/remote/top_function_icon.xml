@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<Group id="top_function_icon">
+  <ItemSpec id="1" type="1" para1="221220014" name="110293036" image="ui_qingdian_icon01|ui_qingdian_icon02"/>
+  <ItemSpec id="4" type="5" para1="2" name="110490001" spine="spineChoose3Of1Icon"/> 
+  <ItemSpec id="5" type="5" para1="3" name="110492038" spine="spineActPaymentChainsIcon" posAdd="1|0|30"/>
+  <ItemSpec id="2" type="4" para1="77" name="110293001" image="top_bp_icon01|top_bp_icon02"/>
+
+</Group>
+
+</tns:database>

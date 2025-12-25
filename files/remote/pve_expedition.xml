@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="pve_expedition">
+
+    <ItemSpec id="1001" type="2" theme="1001" process_time="6" troop_num="3" stage="pve_expedition_stage_01" power_gap="1500000" preview="110520122" />
+
+
+
+  </Group>
+</tns:database>

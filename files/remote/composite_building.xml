@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="composite_building">
+
+ <ItemSpec id="10001" name="5600464" pic="binhaibieshu" type="1" building="600035;600036;600037;600038;600039;600040;600041;600042" num="1;1;1;1;1;2;2;2" />
+ <ItemSpec id="10002" name="110110407" show_effect="110110402|5" pic="feitujianianhua" type="2" building="600043;600044;600045;600046;600047;600048;600049;600050" num="1;1;4;2;2;2;2;2" reward="820001"/>
+
+
+
+</Group>
+</tns:database>

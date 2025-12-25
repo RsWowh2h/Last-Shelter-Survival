@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+ <Group id="investment_quest">
+
+
+    <ItemSpec id="1001" type="1" para1="1" para2="100" />
+
+    <ItemSpec id="1003" type="1" para1="3" para2="300" />
+
+    <ItemSpec id="1005" type="1" para1="5" para2="500" />
+
+    <ItemSpec id="1007" type="1" para1="7" para2="700" para3="10" />
+
+
+    <ItemSpec id="1010" type="1" para1="10" para2="1000" para3="15" />
+
+    <ItemSpec id="1011" type="2" para1="5" para2="500" description="110221475" icon="item219150" />
+    <ItemSpec id="1012" type="3" para1="9" para2="400" description="110221476" icon="item219150" />
+
+    <ItemSpec id="1014" type="5" para1="20000" para2="500" description="110221479" icon="item219150" />
+
+
+
+    <ItemSpec id="1018" type="9" para1="15" para2="400" description="110221482" icon="item219150" />
+
+    <ItemSpec id="1020" type="11" para1="20000000" para2="300" description="110221484" icon="item219150" />
+
+
+    <ItemSpec id="1024" type="15" para1="5000" para2="300" description="110221488" icon="item219150" />
+
+
+	
+ </Group >
+ 
+</tns:database>

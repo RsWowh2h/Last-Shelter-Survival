@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="guildskill_group">
+  <!--公会技能配置逻辑优化-->
+  
+    <ItemSpec id="1000" skillid="10000;10001;10002;10004" />
+    <ItemSpec id="1002" skillid="10002;10004;10005;10006;10007;10008;10009" />
+    <ItemSpec id="1003" skillid="10000;10002;10004" />
+    <ItemSpec id="1004" skillid="10000;10002;10004;10010;10011" />
+    <ItemSpec id="1005" skillid="10000;10002;10004;10010;10011" />
+    <ItemSpec id="1006" skillid="10000;10002;10004;10010;10011;10012" />
+    <ItemSpec id="1" skillid="100101;100102;100103;100104;100105" />
+	<ItemSpec id="2004" skillid="10000;10002;10004;10010;10011;100101;100102;100103;100104;100105" />
+
+</Group>
+</tns:database>
+	

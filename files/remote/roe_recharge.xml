@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="recharge">
+    
+	<ItemSpec id="1120018" order="1" /> <!-- 七日狂欢-->
+	<ItemSpec id="1120007" order="2" /> <!-- 帝国庆典-->
+    <ItemSpec id="1120008" order="2" /> <!-- 帝国庆典-->
+	<ItemSpec id="1120011" order="3" /> <!-- 登陆有礼,节日登录-->
+	
+	
+	<ItemSpec id="1110103" order="11" icon="FB_IC_yuandanleichong" image="huanleleichong.png" name="7000060" /> <!-- 累积充值-->
+	<ItemSpec id="1120005" order="12" /> <!-- 限时招募-->
+	<ItemSpec id="1120024" order="13" /> <!-- 狂欢节庆典-->
+	<ItemSpec id="1120015" order="14" /> <!-- 共度情人节-->
+	<ItemSpec id="1120021" order="15" /> <!-- 帝国挑战,解锁精英，买等级，一段时间领奖励，目前是7天-->
+	<ItemSpec id="1120009" order="16" /> <!-- 帝国投资,打地块活动周卡，给治疗药剂和石块及特权-->
+	<ItemSpec id="1120014" order="17" /> <!-- 幸运金币箱-->
+	<ItemSpec id="1120010" order="18" /> <!-- 拓荒者套装-->
+	<ItemSpec id="1120013" order="19" /> <!-- 英雄宝藏-->
+	<ItemSpec id="1120016" order="20" /> <!-- 英雄征召-->
+	
+	
+	<ItemSpec id="1120000" order="31" /> <!-- 贸易协议,新月卡-->
+	<ItemSpec id="1120001" order="32" /> <!-- 英雄养成计划,英雄月卡-->
+	<ItemSpec id="1120022" order="33" /> <!-- 帝国补给,资源月卡-->
+	
+	
+	<ItemSpec id="1120025" order="41" /> <!-- 金币商店,英雄金币商店-->
+	<ItemSpec id="1120002" order="42" /> <!-- 联盟团购,未知-->
+    <ItemSpec id="1120003" order="43" /> <!-- 特殊招募,未知-->
+    <ItemSpec id="1120004" order="44" /> <!-- 战争招募,未知-->
+	
+	
+	<ItemSpec id="1120006" order="999" /> <!-- 每日补给-->
+
+<!-- 联盟累充换感恩节名字-->
+    <ItemSpec id="1120058" order="1" name="104300" desc_info="90553001" story="90553002" connect_ac="500114" tips="90553006" />
+
+	<ItemSpec id="8810001" ROE_NEW="1" type="53" order="29" icon="ROE_Share_Icon0" name="91015168" />
+    <ItemSpec id="8810002" ROE_NEW="1" type="54" order="1" icon="ROE_WelcomeBack_icon" name="91015181" />
+
+<!-- ROE英雄招募累消-->
+    <ItemSpec id="8800101" ROE_NEW="1" type="35" order="1" hot="1" icon="activity_icon_leixiao" image="FB_leixiao_BG" name="91015082" desc_info="90551032" connect_ac="800101" tips="90902219" />
+    <ItemSpec id="8800102" ROE_NEW="1" type="35" order="1" hot="1" icon="activity_icon_leixiao" image="FB_leixiao_BG" name="91015082" desc_info="90551032" connect_ac="800102" tips="90902219" />
+    <ItemSpec id="8800111" ROE_NEW="1" type="35" order="1" hot="1" icon="activity_icon_leixiao" image="FB_leixiao_BG" name="90902216" desc_info="90551032" connect_ac="800111" tips="90902219" />
+    <ItemSpec id="8800121" ROE_NEW="1" type="35" order="1" hot="1" icon="activity_icon_leixiao" image="FB_leixiao_BG" name="91015082" desc_info="90551032" connect_ac="800121" tips="90902219" />
+    <ItemSpec id="8800122" ROE_NEW="1" type="35" order="1" hot="1" icon="activity_icon_leixiao" image="FB_leixiao_BG" name="90902217" desc_info="90551032" connect_ac="800122" tips="90902219" />
+    <ItemSpec id="8800131" ROE_NEW="1" type="35" order="1" hot="1" icon="activity_icon_leixiao" image="FB_leixiao_BG" name="91015082" desc_info="90551032" connect_ac="800131" tips="90902219" />
+    <ItemSpec id="8800132" ROE_NEW="1" type="35" order="1" hot="1" icon="activity_icon_leixiao" image="FB_leixiao_BG" name="91015432" desc_info="90551032" connect_ac="800132" tips="90902219" />
+    <ItemSpec id="8800141" ROE_NEW="1" type="35" order="1" hot="1" icon="activity_icon_leixiao" image="FB_leixiao_BG" name="91015082" desc_info="90551032" connect_ac="800141" tips="90902219" />
+    <ItemSpec id="8800142" ROE_NEW="1" type="35" order="1" hot="1" icon="activity_icon_leixiao" image="FB_leixiao_BG" name="91015433" desc_info="90551032" connect_ac="800142" tips="90902219" />
+
+<!-- ROE周年庆-->
+    <ItemSpec id="8820010" ROE_NEW="1" type="55" order="1" icon="ROE_ICON_1YearAct" name="79010419" show_level="6" connect_ac="820000" pop_up_image="ROE_Welcome1Year_bg1_s0" pop_up_desc="88001333" content_desc="91015443"/>
+    <ItemSpec id="8820011" ROE_NEW="1" type="55" order="1" icon="ROE_ICON_1YearAct" name="79010419" show_level="6" connect_ac="820001" pop_up_image="ROE_Welcome1Year_bg1_s1" pop_up_desc="91015191" content_desc="91015199"/>
+    <ItemSpec id="8820012" ROE_NEW="1" type="55" order="1" icon="ROE_ICON_1YearAct" name="79010419" show_level="6" connect_ac="820002" pop_up_image="ROE_Welcome1Year_bg1_s2" pop_up_desc="91015191" content_desc="91015199"/>
+    <ItemSpec id="8820013" ROE_NEW="1" type="55" order="1" icon="ROE_ICON_1YearAct" name="79010419" show_level="6" connect_ac="820003" pop_up_image="ROE_Welcome1Year_bg1_s3" pop_up_desc="91015191" content_desc="91015199"/>
+<!-- ROE夺宝-->
+    <ItemSpec id="8810101" type="56" order="1" icon="ROE_ICON_OneDollar0" name="91015356" show_level="6" />
+<!-- ROE连续充给皮肤-->
+    <ItemSpec id="8810201" type="18" order="25" hot="1" icon="FB_IC_lianxuchongzhi" image="dy_UI_Recharge_bg" ad_image="dy_UI_Recharge_bg0" name="104281" desc_info="91015527" story="91015548" connect_ac="860001" tips="90551017" />
+	
+</Group>
+</tns:database>

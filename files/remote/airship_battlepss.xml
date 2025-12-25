@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="airship_battlepss">
+  
+    <ItemSpec id="1" alliance_integral="0" person_integral="0" alliance_reward="2401194" person_reward="2401209" cost_reward="2401224" />
+    <ItemSpec id="2" alliance_integral="300" person_integral="20" alliance_reward="2401195" person_reward="2401210" cost_reward="2401225" />
+    <ItemSpec id="3" alliance_integral="670" person_integral="35" alliance_reward="2401196" person_reward="2401211" cost_reward="2401226" />
+    <ItemSpec id="4" alliance_integral="1040" person_integral="50" alliance_reward="2401197" person_reward="2401212" cost_reward="2401227" />
+    <ItemSpec id="5" alliance_integral="1480" person_integral="75" alliance_reward="2401198" person_reward="2401213" cost_reward="2401228" />
+    <ItemSpec id="6" alliance_integral="2000" person_integral="100" alliance_reward="2401199" person_reward="2401214" cost_reward="2401229" />
+    <ItemSpec id="7" alliance_integral="2590" person_integral="130" alliance_reward="2401200" person_reward="2401215" cost_reward="2401230" />
+    <ItemSpec id="8" alliance_integral="3260" person_integral="165" alliance_reward="2401201" person_reward="2401216" cost_reward="2401231" />
+    <ItemSpec id="9" alliance_integral="4000" person_integral="200" alliance_reward="2401202" person_reward="2401217" cost_reward="2401232" />
+    <ItemSpec id="10" alliance_integral="4810" person_integral="240" alliance_reward="2401203" person_reward="2401218" cost_reward="2401233" />
+    <ItemSpec id="11" alliance_integral="5700" person_integral="285" alliance_reward="2401204" person_reward="2401219" cost_reward="2401234" />
+    <ItemSpec id="12" alliance_integral="6670" person_integral="335" alliance_reward="2401205" person_reward="2401220" cost_reward="2401235" />
+    <ItemSpec id="13" alliance_integral="7700" person_integral="385" alliance_reward="2401206" person_reward="2401221" cost_reward="2401236" />
+    <ItemSpec id="14" alliance_integral="8810" person_integral="440" alliance_reward="2401207" person_reward="2401222" cost_reward="2401237" />
+    <ItemSpec id="15" alliance_integral="10000" person_integral="500" alliance_reward="2401208" person_reward="2401223" cost_reward="2401238" />
+
+</Group>
+
+
+
+
+
+
+
+
+
+</tns:database>

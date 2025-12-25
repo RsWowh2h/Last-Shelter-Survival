@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="activity_show">
+    <ItemSpec id="1" name="90820011" desc="90820012" Advertise_pic="FB_T_huodongditu_Top_00" activity_pic="FB_T_huodongditu_Bottom_00" position="-276;62|377;124|103;187" order="1000" time="2;6" type="0" />
+    <ItemSpec id="2" name="90820013" desc="90820014" Advertise_pic="FB_T_huodongditu_Top_01" activity_pic="FB_T_huodongditu_Bottom_01" position="-140;-80|325;213|185;130" order="999" time="4;6" type="0" />
+    <ItemSpec id="3" name="190990" desc="90820016" Advertise_pic="FB_T_huodongditu_Top_02" activity_pic="FB_T_huodongditu_Bottom_02" position="52;-169|205;215|257;48" order="998" time="4;1" type="0" />
+    <ItemSpec id="4" name="90820017" desc="90820018" Advertise_pic="FB_T_huodongditu_Top_00" activity_pic="FB_T_huodongditu_Bottom_00" position="259;-130|145;215|404;83" order="997" type="1" />
+    <ItemSpec id="5" name="90820019" desc="90820020" Advertise_pic="FB_T_huodongditu_Top_02" activity_pic="FB_T_huodongditu_Bottom_02" position="285;103|145;110|431;215" order="996" type="1" />
+    <ItemSpec id="6" name="90820023" desc="90820024" Advertise_pic="FB_T_huodongditu_Top_01" activity_pic="FB_T_huodongditu_Bottom_01" position="-20;102|176;83|154;182" order="995" type="1" />
+    <ItemSpec id="7" name="90820030" desc="90820031" Advertise_pic="FB_T_huodongditu_Top_02" activity_pic="FB_T_huodongditu_Bottom_02" position="183;27|196;164|380;194" order="994" type="2" />
+
+ </Group >
+
+</tns:database>

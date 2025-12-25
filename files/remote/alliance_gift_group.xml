@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="function_on">   
+  
+    <ItemSpec id="32981" type="1" name="105726" color="0" icon="FB_IC_gift01" sender="3000002" title="101379" message="105741" each_exp="100" key_exp="5" />
+    <ItemSpec id="32982" type="1" name="105727" color="1" icon="FB_IC_gift02" sender="3000002" title="101379" message="105741" each_exp="200" key_exp="10" />
+    <ItemSpec id="32983" type="1" name="105728" color="2" icon="FB_IC_gift03" sender="3000002" title="101379" message="105741" each_exp="400" key_exp="20" />
+    <ItemSpec id="32984" type="1" name="105729" color="3" icon="FB_IC_gift04" sender="3000002" title="101379" message="105741" each_exp="1000" key_exp="50" />
+    <ItemSpec id="32985" type="1" name="105730" color="4" icon="FB_IC_gift05" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="32986" type="2" name="77000206" color="2" icon="FB_IC_xiangziguanbibaise" sender="3000002" title="77000206" message="77000209" />
+    <ItemSpec id="32987" type="2" name="77000207" color="3" icon="FB_IC_xiangziguanbichengse" sender="3000002" title="77000207" message="77000209" />
+    <ItemSpec id="32988" type="2" name="77000208" color="4" icon="FB_IC_xiangziguanbihongse" sender="3000002" title="77000208" message="77000209" />
+    <ItemSpec id="32989" type="1" name="83300107" color="1" icon="FB_IC_gift01" sender="3000002" title="101379" message="83300109" each_exp="100" key_exp="3" />
+    <ItemSpec id="32990" type="3" name="77000210" color="0" icon="FB_IC_gift01" sender="3000002" title="77000210" message="77000211" each_exp="1" key_exp="1" />
+    <ItemSpec id="32991" type="3" name="77000210" color="1" icon="FB_IC_gift02" sender="3000002" title="77000210" message="77000211" each_exp="2" key_exp="2" />
+    <ItemSpec id="32992" type="3" name="77000210" color="2" icon="FB_IC_gift03" sender="3000002" title="77000210" message="77000211" each_exp="3" key_exp="3" />
+    <ItemSpec id="32993" type="3" name="77000210" color="3" icon="FB_IC_gift04" sender="3000002" title="77000210" message="77000211" each_exp="4" key_exp="4" />
+    <ItemSpec id="32994" type="3" name="77000210" color="4" icon="FB_IC_gift05" sender="3000002" title="77000210" message="77000211" each_exp="5" key_exp="5" />
+    <ItemSpec id="32995" type="4" name="77000214" color="4" icon="item209012" sender="3000002" title="101379" message="105741" each_exp="1000" key_exp="50" />
+    <ItemSpec id="32996" type="4" name="77000215" color="4" icon="item209011" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="32997" type="1" name="105726" color="1" icon="FB_IC_gift01" sender="3000002" title="101379" message="105741" each_exp="100" key_exp="3" />
+    <ItemSpec id="32999" type="1" name="105727" color="1" icon="FB_IC_gift02" sender="3000002" title="101379" message="105741" each_exp="200" key_exp="10" />
+    <ItemSpec id="33000" type="1" name="105730" color="4" icon="FB_IC_gift05" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="33001" type="1" name="192087" color="4" icon="icon_HNY_liwu" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="33002" type="1" name="192087" color="4" icon="icon_Xmax_caidan" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="33003" type="1" name="192087" color="4" icon="icon_Xmax_wazi" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="33004" type="1" name="192087" color="4" icon="icon_Xmax_xuezi" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="33005" type="1" name="192087" color="4" icon="icon_Xmax_huzi" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="33006" type="1" name="192087" color="4" icon="icon_Xmax_shoutao" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="33007" type="1" name="192087" color="4" icon="icon_Xmax_yifu" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="33008" type="1" name="192088" color="4" icon="icon_HNY_liwu" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="32998" type="5" name="90550099" icon="FB_IC_giftcoin" sender="3000002" title="101379" message="90550106" each_exp="100" key_exp="3" />
+    <ItemSpec id="33009" type="1" name="192087" color="0" icon="icon_Xmax_yifu" sender="3000002" title="101379" message="105741" each_exp="100" key_exp="5" />
+    <ItemSpec id="33010" type="1" name="192087" color="1" icon="icon_Xmax_kuzi" sender="3000002" title="101379" message="105741" each_exp="200" key_exp="10" />
+    <ItemSpec id="33011" type="1" name="192087" color="2" icon="icon_Xmax_huzi" sender="3000002" title="101379" message="105741" each_exp="400" key_exp="20" />
+    <ItemSpec id="33012" type="1" name="192087" color="3" icon="icon_Xmax_shoutao" sender="3000002" title="101379" message="105741" each_exp="1000" key_exp="50" />
+    <ItemSpec id="33013" type="1" name="192087" color="4" icon="icon_Xmax_caidan" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="33014" type="1" name="192088" color="0" icon="icon_HNY_liwu" sender="3000002" title="101379" message="105741" each_exp="100" key_exp="5" />
+    <ItemSpec id="33015" type="1" name="192088" color="1" icon="icon_HNY_liwu" sender="3000002" title="101379" message="105741" each_exp="200" key_exp="10" />
+    <ItemSpec id="33016" type="1" name="192088" color="2" icon="icon_HNY_liwu" sender="3000002" title="101379" message="105741" each_exp="400" key_exp="20" />
+    <ItemSpec id="33017" type="1" name="192088" color="3" icon="icon_HNY_liwu" sender="3000002" title="101379" message="105741" each_exp="1000" key_exp="50" />
+    <ItemSpec id="33018" type="3" name="192089" color="1" icon="Icon_shijiexiangzi" sender="3000002" title="101379" message="192090" each_exp="0" key_exp="0" />
+    <ItemSpec id="33019" type="3" name="192089" color="1" icon="Icon_shijiexiangzi" sender="3000002" title="101379" message="192090" each_exp="0" key_exp="0" />
+    <ItemSpec id="33020" type="3" name="192089" color="1" icon="Icon_shijiexiangzi" sender="3000002" title="101379" message="192090" each_exp="0" key_exp="0" />
+    <ItemSpec id="33021" type="3" name="192089" color="1" icon="Icon_shijiexiangzi" sender="3000002" title="101379" message="192090" each_exp="0" key_exp="0" />
+    <ItemSpec id="33022" type="6" name="192089" color="1" icon="Icon_shijiexiangzi" sender="3000002" title="101379" message="192090" each_exp="0" key_exp="0" />
+    <ItemSpec id="33023" type="5" name="90551010" color="1" icon="icon_qianbao" sender="3000002" title="101379" message="90551012" each_exp="100" key_exp="3" />
+    <ItemSpec id="33024" type="1" name="192113" color="0" icon="Icon_union_jianzhu" sender="3000002" title="101379" message="105741" each_exp="100" key_exp="5" />
+    <ItemSpec id="33025" type="1" name="192114" color="1" icon="Icon_union_jianzhu" sender="3000002" title="101379" message="105741" each_exp="200" key_exp="10" />
+    <ItemSpec id="33026" type="1" name="192115" color="2" icon="Icon_union_jianzhu" sender="3000002" title="101379" message="105741" each_exp="400" key_exp="20" />
+    <ItemSpec id="33027" type="1" name="192116" color="3" icon="Icon_union_jianzhu" sender="3000002" title="101379" message="105741" each_exp="1000" key_exp="50" />
+    <ItemSpec id="33028" type="1" name="192117" color="4" icon="Icon_union_jianzhu" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="33029" type="1" name="192118" color="0" icon="Icon_union_keji" sender="3000002" title="101379" message="105741" each_exp="100" key_exp="5" />
+    <ItemSpec id="33030" type="1" name="192119" color="1" icon="Icon_union_keji" sender="3000002" title="101379" message="105741" each_exp="200" key_exp="10" />
+    <ItemSpec id="33031" type="1" name="192120" color="2" icon="Icon_union_keji" sender="3000002" title="101379" message="105741" each_exp="400" key_exp="20" />
+    <ItemSpec id="33032" type="1" name="192121" color="3" icon="Icon_union_keji" sender="3000002" title="101379" message="105741" each_exp="1000" key_exp="50" />
+    <ItemSpec id="33033" type="1" name="192122" color="4" icon="Icon_union_keji" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="33034" type="1" name="192123" color="0" icon="Icon_union_zaobing" sender="3000002" title="101379" message="105741" each_exp="100" key_exp="5" />
+    <ItemSpec id="33035" type="1" name="192124" color="1" icon="Icon_union_zaobing" sender="3000002" title="101379" message="105741" each_exp="200" key_exp="10" />
+    <ItemSpec id="33036" type="1" name="192125" color="2" icon="Icon_union_zaobing" sender="3000002" title="101379" message="105741" each_exp="400" key_exp="20" />
+    <ItemSpec id="33037" type="1" name="192126" color="3" icon="Icon_union_zaobing" sender="3000002" title="101379" message="105741" each_exp="1000" key_exp="50" />
+    <ItemSpec id="33038" type="1" name="192127" color="4" icon="Icon_union_zaobing" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="33039" type="1" name="192128" color="0" icon="Icon_union_peijian" sender="3000002" title="101379" message="105741" each_exp="100" key_exp="5" />
+    <ItemSpec id="33040" type="1" name="192129" color="1" icon="Icon_union_peijian" sender="3000002" title="101379" message="105741" each_exp="200" key_exp="10" />
+    <ItemSpec id="33041" type="1" name="192130" color="2" icon="Icon_union_peijian" sender="3000002" title="101379" message="105741" each_exp="400" key_exp="20" />
+    <ItemSpec id="33042" type="1" name="192131" color="3" icon="Icon_union_peijian" sender="3000002" title="101379" message="105741" each_exp="1000" key_exp="50" />
+    <ItemSpec id="33043" type="1" name="192132" color="4" icon="Icon_union_peijian" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="33044" type="1" name="192133" color="0" icon="Icon_union_xinpian" sender="3000002" title="101379" message="105741" each_exp="100" key_exp="5" />
+    <ItemSpec id="33045" type="1" name="192134" color="1" icon="Icon_union_xinpian" sender="3000002" title="101379" message="105741" each_exp="200" key_exp="10" />
+    <ItemSpec id="33046" type="1" name="192135" color="2" icon="Icon_union_xinpian" sender="3000002" title="101379" message="105741" each_exp="400" key_exp="20" />
+    <ItemSpec id="33047" type="1" name="192136" color="3" icon="Icon_union_xinpian" sender="3000002" title="101379" message="105741" each_exp="1000" key_exp="50" />
+    <ItemSpec id="33048" type="1" name="192137" color="4" icon="Icon_union_xinpian" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="33049" type="1" name="192138" color="0" icon="Icon_union_yingxiong" sender="3000002" title="101379" message="105741" each_exp="100" key_exp="5" />
+    <ItemSpec id="33050" type="1" name="192139" color="1" icon="Icon_union_yingxiong" sender="3000002" title="101379" message="105741" each_exp="200" key_exp="10" />
+    <ItemSpec id="33051" type="1" name="192140" color="2" icon="Icon_union_yingxiong" sender="3000002" title="101379" message="105741" each_exp="400" key_exp="20" />
+    <ItemSpec id="33052" type="1" name="192141" color="3" icon="Icon_union_yingxiong" sender="3000002" title="101379" message="105741" each_exp="1000" key_exp="50" />
+    <ItemSpec id="33053" type="1" name="192142" color="4" icon="Icon_union_yingxiong" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="33054" type="1" name="192143" color="0" icon="Icon_union_zhengba" sender="3000002" title="101379" message="105741" each_exp="100" key_exp="5" />
+    <ItemSpec id="33055" type="1" name="192144" color="1" icon="Icon_union_zhengba" sender="3000002" title="101379" message="105741" each_exp="200" key_exp="10" />
+    <ItemSpec id="33056" type="1" name="192145" color="2" icon="Icon_union_zhengba" sender="3000002" title="101379" message="105741" each_exp="400" key_exp="20" />
+    <ItemSpec id="33057" type="1" name="192146" color="3" icon="Icon_union_zhengba" sender="3000002" title="101379" message="105741" each_exp="1000" key_exp="50" />
+    <ItemSpec id="33058" type="1" name="192147" color="4" icon="Icon_union_zhengba" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="33059" type="1" name="192148" color="0" icon="Icon_union_ziyuan" sender="3000002" title="101379" message="105741" each_exp="100" key_exp="5" />
+    <ItemSpec id="33060" type="1" name="192149" color="1" icon="Icon_union_ziyuan" sender="3000002" title="101379" message="105741" each_exp="200" key_exp="10" />
+    <ItemSpec id="33061" type="1" name="192150" color="2" icon="Icon_union_ziyuan" sender="3000002" title="101379" message="105741" each_exp="400" key_exp="20" />
+    <ItemSpec id="33062" type="1" name="192151" color="3" icon="Icon_union_ziyuan" sender="3000002" title="101379" message="105741" each_exp="1000" key_exp="50" />
+    <ItemSpec id="33063" type="1" name="192152" color="4" icon="Icon_union_ziyuan" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="33064" type="1" name="192153" color="0" icon="alliance_gife_icon1" sender="3000002" title="101379" message="105741" each_exp="100" key_exp="5" />
+    <ItemSpec id="33065" type="1" name="77000216" color="0" icon="item207068" sender="3000002" title="101379" message="105741" each_exp="200" key_exp="10" />
+	<ItemSpec id="33066" type="1" name="77200036" color="0" icon="Icon_union_yurenjie" sender="3000002" title="101379" message="105741" each_exp="100" key_exp="5" />
+    <ItemSpec id="33067" type="1" name="77200037" color="1" icon="Icon_union_yurenjie" sender="3000002" title="101379" message="105741" each_exp="200" key_exp="10" />
+    <ItemSpec id="33068" type="1" name="77200038" color="2" icon="Icon_union_yurenjie" sender="3000002" title="101379" message="105741" each_exp="400" key_exp="20" />
+    <ItemSpec id="33069" type="1" name="77200039" color="3" icon="Icon_union_yurenjie" sender="3000002" title="101379" message="105741" each_exp="1000" key_exp="50" />
+    <ItemSpec id="33070" type="1" name="77200040" color="4" icon="Icon_union_yurenjie" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+    <ItemSpec id="33071" type="1" name="77200041" color="0" icon="Icon_Easter_Egg" sender="3000002" title="101379" message="105741" each_exp="100" key_exp="5" />
+    <ItemSpec id="33072" type="1" name="77200042" color="1" icon="Icon_Easter_Egg" sender="3000002" title="101379" message="105741" each_exp="200" key_exp="10" />
+    <ItemSpec id="33073" type="1" name="77200043" color="2" icon="Icon_Easter_Egg" sender="3000002" title="101379" message="105741" each_exp="400" key_exp="20" />
+    <ItemSpec id="33074" type="1" name="77200044" color="3" icon="Icon_Easter_Egg" sender="3000002" title="101379" message="105741" each_exp="1000" key_exp="50" />
+    <ItemSpec id="33075" type="1" name="77200045" color="4" icon="Icon_Easter_Egg" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+	<ItemSpec id="33076" type="1" name="77200046" color="0" icon="Icon_AllianceFestivalGift" sender="3000002" title="101379" message="105741" each_exp="100" key_exp="5" />
+    <ItemSpec id="33077" type="1" name="77200047" color="1" icon="Icon_AllianceFestivalGift" sender="3000002" title="101379" message="105741" each_exp="200" key_exp="10" />
+    <ItemSpec id="33078" type="1" name="77200048" color="2" icon="Icon_AllianceFestivalGift" sender="3000002" title="101379" message="105741" each_exp="400" key_exp="20" />
+    <ItemSpec id="33079" type="1" name="77200049" color="3" icon="Icon_AllianceFestivalGift" sender="3000002" title="101379" message="105741" each_exp="1000" key_exp="50" />
+    <ItemSpec id="33080" type="1" name="77200050" color="4" icon="Icon_AllianceFestivalGift" sender="3000002" title="101379" message="105741" each_exp="2000" key_exp="100" />
+
+
+
+  
+    <ItemSpec id="33082" type="1" name="110258465" color="4" icon="FB_IC_gift01" sender="3000002" title="101379" message="110258458" each_exp="100" key_exp="5" />
+    <ItemSpec id="33083" type="1" name="110258466" color="4" icon="FB_IC_gift01" sender="3000002" title="101379" message="110258459" each_exp="100" key_exp="5" />
+    <ItemSpec id="33084" type="1" name="110258467" color="4" icon="FB_IC_gift02" sender="3000002" title="101379" message="110258460" each_exp="100" key_exp="5" />
+    <ItemSpec id="33085" type="1" name="110258468" color="4" icon="FB_IC_gift03" sender="3000002" title="101379" message="110258462" each_exp="100" key_exp="5" />
+    <ItemSpec id="33086" type="1" name="110258469" color="4" icon="FB_IC_gift04" sender="3000002" title="101379" message="110258463" each_exp="100" key_exp="5" />
+  
+    <ItemSpec id="33101" type="1" name="110261511" color="0" icon="FB_IC_gift01" sender="3000002" title="101379" message="110261512" each_exp="100" key_exp="5" />
+    <ItemSpec id="33102" type="1" name="110261511" color="1" icon="FB_IC_gift01" sender="3000002" title="101379" message="110261512" each_exp="200" key_exp="10" />
+    <ItemSpec id="33103" type="1" name="110261511" color="2" icon="FB_IC_gift02" sender="3000002" title="101379" message="110261512" each_exp="400" key_exp="20" />
+    <ItemSpec id="33104" type="1" name="110261511" color="3" icon="FB_IC_gift03" sender="3000002" title="101379" message="110261512" each_exp="1000" key_exp="50" />
+    <ItemSpec id="33105" type="1" name="110261511" color="4" icon="FB_IC_gift04" sender="3000002" title="101379" message="110261512" each_exp="2000" key_exp="100" />
+  
+  	<!--箱神，凛冬冰魔击杀获得公会礼物，共10级-->
+	<ItemSpec id="36001" type="1" name="110332121" color="4" icon="FB_IC_gift01" sender="3000002" title="101379" message="110332111" each_exp="100" key_exp="5" />
+    <ItemSpec id="36002" type="1" name="110332122" color="4" icon="FB_IC_gift01" sender="3000002" title="101379" message="110332112" each_exp="200" key_exp="5" />
+    <ItemSpec id="36003" type="1" name="110332123" color="4" icon="FB_IC_gift02" sender="3000002" title="101379" message="110332113" each_exp="300" key_exp="5" />
+    <ItemSpec id="36004" type="1" name="110332124" color="4" icon="FB_IC_gift02" sender="3000002" title="101379" message="110332114" each_exp="400" key_exp="5" />
+    <ItemSpec id="36005" type="1" name="110332125" color="4" icon="FB_IC_gift03" sender="3000002" title="101379" message="110332115" each_exp="500" key_exp="5" />
+	<ItemSpec id="36006" type="1" name="110332126" color="4" icon="FB_IC_gift03" sender="3000002" title="101379" message="110332116" each_exp="600" key_exp="5" />
+    <ItemSpec id="36007" type="1" name="110332127" color="4" icon="FB_IC_gift04" sender="3000002" title="101379" message="110332117" each_exp="700" key_exp="5" />
+    <ItemSpec id="36008" type="1" name="110332128" color="4" icon="FB_IC_gift04" sender="3000002" title="101379" message="110332118" each_exp="800" key_exp="5" />
+    <ItemSpec id="36009" type="1" name="110332129" color="4" icon="FB_IC_gift05" sender="3000002" title="101379" message="110332119" each_exp="900" key_exp="5" />
+    <ItemSpec id="36010" type="1" name="110332130" color="4" icon="FB_IC_gift05" sender="3000002" title="101379" message="110332120" each_exp="1000" key_exp="5" />
+  
+  	</Group>
+</tns:database>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="math_race_model">
+		<ItemSpec id="female_idle_D1" collider="0.9,0.5" category="small"/>
+		<ItemSpec id="female_idle_D2" collider="0.9,0.5" category="small"/>
+		<ItemSpec id="male_idle01_D1" collider="0.9,0.5" category="small"/>
+		<ItemSpec id="male_idle01_D2" collider="0.9,0.5" category="small"/>
+		<ItemSpec id="BOSS_idle_D1" collider="0.9,0.6" category="big"/>
+		<ItemSpec id="FastZombie_idle_D1" collider="0.9,0.5" category="normal"/>
+		<ItemSpec id="FastZombie_idle_D2" collider="0.9,0.5" category="normal"/>
+		<ItemSpec id="tianshizhe_idle_D1" collider="0.9,0.6" category="big"/>
+		<ItemSpec id="tianshizhe_idle_D2" collider="0.9,0.6" category="big"/>
+	</Group>
+</tns:database>

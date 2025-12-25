@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="celebration_2025_milestone">
+
+		<ItemSpec id="10001" name="112184101" res_type="01" talk="112184124;112184125" carousel_time="8" progress_time_need="17380" progress_time_refresh="10"/>
+		<ItemSpec id="10002" name="112184101" res_type="02" talk="112184126;112184127" carousel_time="8" progress_time_need="17400" progress_time_refresh="10"/>
+		<ItemSpec id="10011" name="112184101" res_type="01" talk="112184124;112184125" carousel_time="8" progress_time_need="17420" progress_time_refresh="10"/>
+		<ItemSpec id="10012" name="112184101" res_type="02" talk="112184126;112184127" carousel_time="8" progress_time_need="17440" progress_time_refresh="10"/>
+		<ItemSpec id="10021" name="112184101" res_type="01" talk="112184124;112184125" carousel_time="8" progress_time_need="17460" progress_time_refresh="10"/>
+		<ItemSpec id="10022" name="112184101" res_type="02" talk="112184126;112184127" carousel_time="8" progress_time_need="17480" progress_time_refresh="10"/>
+		<ItemSpec id="10031" name="112184101" res_type="01" talk="112184124;112184125" carousel_time="8" progress_time_need="17500" progress_time_refresh="10"/>
+		<ItemSpec id="10032" name="112184101" res_type="02" talk="112184126;112184127" carousel_time="8" progress_time_need="17520" progress_time_refresh="10"/>
+		<ItemSpec id="10041" name="112184101" res_type="01" talk="112184124;112184125" carousel_time="8" progress_time_need="17540" progress_time_refresh="10"/>
+		<ItemSpec id="10042" name="112184101" res_type="02" talk="112184126;112184127" carousel_time="8" progress_time_need="17560" progress_time_refresh="10"/>
+		<ItemSpec id="10051" name="112184101" res_type="01" talk="112184124;112184125" carousel_time="8" progress_time_need="17580" progress_time_refresh="10"/>
+		<ItemSpec id="10052" name="112184101" res_type="02" talk="112184126;112184127" carousel_time="8" progress_time_need="17600" progress_time_refresh="10"/>
+		<ItemSpec id="10061" name="112184101" res_type="01" talk="112184124;112184125" carousel_time="8" progress_time_need="17620" progress_time_refresh="10"/>
+		<ItemSpec id="10062" name="112184101" res_type="02" talk="112184126;112184127" carousel_time="8" progress_time_need="17640" progress_time_refresh="10"/>
+		<ItemSpec id="10071" name="112184101" res_type="01" talk="112184124;112184125" carousel_time="8" progress_time_need="17660" progress_time_refresh="10"/>
+		<ItemSpec id="10072" name="112184101" res_type="02" talk="112184126;112184127" carousel_time="8" progress_time_need="17680" progress_time_refresh="10"/>
+		<ItemSpec id="10081" name="112184101" res_type="01" talk="112184124;112184125" carousel_time="8" progress_time_need="17700" progress_time_refresh="10"/>
+		<ItemSpec id="10082" name="112184101" res_type="02" talk="112184126;112184127" carousel_time="8" progress_time_need="17720" progress_time_refresh="10"/>
+
+	</Group>
+</tns:database>

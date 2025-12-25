@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="biochemical_beauty_treatment">
+    <ItemSpec id="10001001" stage="1" lv="1" lv_max="5" operation="1" exp="100" power="100" />
+    <ItemSpec id="10001002" stage="2" lv="2" lv_max="5" operation="1" exp="200" power="200" story_id="1001002" />
+    <ItemSpec id="10001003" stage="3" lv="3" lv_max="5" operation="1" exp="200" power="300" story_id="1001003" />
+    <ItemSpec id="10001004" stage="4" lv="4" lv_max="5" operation="1" exp="300" power="400" story_id="1001004" />
+    <ItemSpec id="10001005" stage="5" lv="5" lv_max="5" operation="0" exp="0" power="500" story_id="1001005" />
+
+</Group>
+</tns:database>

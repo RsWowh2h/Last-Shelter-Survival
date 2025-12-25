@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="Science_Score_Type_2">
+	
+    <ItemSpec id="100" scienceType="20004042" maxLv="284" name="111000143" description="111000145" icon="Skill_icon_ZJIC.png" frame="FB_jinengshu_xin_diban_02.png" />
+
+	</Group> 
+</tns:database>

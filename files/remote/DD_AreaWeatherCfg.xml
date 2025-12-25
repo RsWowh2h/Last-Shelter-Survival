@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<Group id="areaWeather_1">
+
+    <ItemSpec id="301" type="1" weatherTypeWeight="9,100"/>
+    <ItemSpec id="302" type="2" weatherTypeWeight="3,20;4,20;5,20"/>
+    <ItemSpec id="303" type="3" weatherTypeWeight="3,20;4,20;5,20"/>
+    <ItemSpec id="304" type="4" weatherTypeWeight="3,50;4,50;5,50"/>
+    <ItemSpec id="305" type="5" weatherTypeWeight="1,100"/>
+
+</Group>
+
+
+<Group id="areaWeather_2">
+
+    <ItemSpec id="301" type="1" weatherTypeWeight="9,100"/>
+    <ItemSpec id="302" type="2" weatherTypeWeight="3,20;4,20;5,20"/>
+    <ItemSpec id="303" type="3" weatherTypeWeight="3,20;4,20;5,20"/>
+    <ItemSpec id="304" type="4" weatherTypeWeight="3,50;4,50;5,50"/>
+    <ItemSpec id="305" type="5" weatherTypeWeight="1,100"/>
+
+</Group>
+
+<Group id="areaWeather_3">
+
+    <ItemSpec id="301" type="1" weatherTypeWeight="9,100"/>
+    <ItemSpec id="302" type="2" weatherTypeWeight="3,20;4,20;5,20"/>
+    <ItemSpec id="303" type="3" weatherTypeWeight="3,20;4,20;5,20"/>
+    <ItemSpec id="304" type="4" weatherTypeWeight="3,50;4,50;5,50"/>
+    <ItemSpec id="305" type="5" weatherTypeWeight="1,100"/>
+
+</Group>
+
+
+</tns:database>

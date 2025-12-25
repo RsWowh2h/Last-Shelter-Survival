@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="cpro_building">
+    <ItemSpec id="1001" name="173582" pic="pic549000_2_free" pro_kind="6" office="216001" c_task="600501;600502;600503;600504" level="1" />
+    <ItemSpec id="1002" name="173583" pic="pic549000_2_free" pro_kind="2" office="216002" c_task="600101;600102;600103;600104" level="1" />
+    <ItemSpec id="1003" name="173584" pic="pic549000_2_free" pro_kind="1" office="216003" c_task="600001;600002;600003;600004" level="1" />
+    <ItemSpec id="1004" name="173585" pic="pic549000_2_free" pro_kind="5" office="216004" c_task="600401;600402;600403;600404" level="1" />
+    <ItemSpec id="1005" name="173586" pic="pic549000_2_free" pro_kind="3" office="216005" c_task="600201;600202;600203;600204" level="1" />
+    <ItemSpec id="1006" name="173587" pic="pic549000_2_free" pro_kind="4" office="216006" c_task="600301;600302;600303;600304" level="1" />
+    <ItemSpec id="1007" name="173588" pic="pic549000_2_free" pro_kind="7" office="216007" c_task="600601;600602;600603;600604" level="1" />
+    <ItemSpec id="1008" name="173589" pic="pic549000_2_free" pro_kind="8" office="216008" c_task="600701;600702;600703;600704" level="1" />
+    <ItemSpec id="1009" name="173582" pic="pic549000_2_free" pro_kind="6" office="216001" c_task="601501;601502;601503;601504" level="2" />
+    <ItemSpec id="1010" name="173583" pic="pic549000_2_free" pro_kind="2" office="216002" c_task="601101;601102;601103;601104" level="2" />
+    <ItemSpec id="1011" name="173584" pic="pic549000_2_free" pro_kind="1" office="216003" c_task="601001;601002;601003;601004" level="2" />
+    <ItemSpec id="1012" name="173585" pic="pic549000_2_free" pro_kind="5" office="216004" c_task="601401;601402;601403;601404" level="2" />
+    <ItemSpec id="1013" name="173586" pic="pic549000_2_free" pro_kind="3" office="216005" c_task="601201;601202;601203;601204" level="2" />
+    <ItemSpec id="1014" name="173587" pic="pic549000_2_free" pro_kind="4" office="216006" c_task="601301;601302;601303;601304" level="2" />
+    <ItemSpec id="1015" name="173588" pic="pic549000_2_free" pro_kind="7" office="216007" c_task="601601;601602;601603;601604" level="2" />
+    <ItemSpec id="1016" name="173589" pic="pic549000_2_free" pro_kind="8" office="216008" c_task="601701;601702;601703;601704" level="2" />
+    <ItemSpec id="1017" name="173582" pic="pic549000_2_free" pro_kind="6" office="216001" c_task="602501;602502;602503;602504" level="3" />
+    <ItemSpec id="1018" name="173583" pic="pic549000_2_free" pro_kind="2" office="216002" c_task="602101;602102;602103;602104" level="3" />
+    <ItemSpec id="1019" name="173584" pic="pic549000_2_free" pro_kind="1" office="216003" c_task="602001;602002;602003;602004" level="3" />
+    <ItemSpec id="1020" name="173585" pic="pic549000_2_free" pro_kind="5" office="216004" c_task="602401;602402;602403;602404" level="3" />
+    <ItemSpec id="1021" name="173586" pic="pic549000_2_free" pro_kind="3" office="216005" c_task="602201;602202;602203;602204" level="3" />
+    <ItemSpec id="1022" name="173587" pic="pic549000_2_free" pro_kind="4" office="216006" c_task="602301;602302;602303;602304" level="3" />
+    <ItemSpec id="1023" name="173588" pic="pic549000_2_free" pro_kind="7" office="216007" c_task="602601;602602;602603;602604" level="3" />
+    <ItemSpec id="1024" name="173589" pic="pic549000_2_free" pro_kind="8" office="216008" c_task="602701;602702;602703;602704" level="3" />
+    <ItemSpec id="1025" name="173582" pic="pic549000_2_free" pro_kind="6" office="216001" c_task="603501;603502;603503;603504" level="4" />
+    <ItemSpec id="1026" name="173583" pic="pic549000_2_free" pro_kind="2" office="216002" c_task="603101;603102;603103;603104" level="4" />
+    <ItemSpec id="1027" name="173584" pic="pic549000_2_free" pro_kind="1" office="216003" c_task="603001;603002;603003;603004" level="4" />
+    <ItemSpec id="1028" name="173585" pic="pic549000_2_free" pro_kind="5" office="216004" c_task="603401;603402;603403;603404" level="4" />
+    <ItemSpec id="1029" name="173586" pic="pic549000_2_free" pro_kind="3" office="216005" c_task="603201;603202;603203;603204" level="4" />
+    <ItemSpec id="1030" name="173587" pic="pic549000_2_free" pro_kind="4" office="216006" c_task="603301;603302;603303;603304" level="4" />
+    <ItemSpec id="1031" name="173588" pic="pic549000_2_free" pro_kind="7" office="216007" c_task="603601;603602;603603;603604" level="4" />
+    <ItemSpec id="1032" name="173589" pic="pic549000_2_free" pro_kind="8" office="216008" c_task="603701;603702;603703;603704" level="4" />
+    <ItemSpec id="1033" name="173582" pic="pic549000_2_free" pro_kind="6" office="216001" c_task="604501;604502;604503;604504" level="5" />
+    <ItemSpec id="1034" name="173583" pic="pic549000_2_free" pro_kind="2" office="216002" c_task="604101;604102;604103;604104" level="5" />
+    <ItemSpec id="1035" name="173584" pic="pic549000_2_free" pro_kind="1" office="216003" c_task="604001;604002;604003;604004" level="5" />
+    <ItemSpec id="1036" name="173585" pic="pic549000_2_free" pro_kind="5" office="216004" c_task="604401;604402;604403;604404" level="5" />
+    <ItemSpec id="1037" name="173586" pic="pic549000_2_free" pro_kind="3" office="216005" c_task="604201;604202;604203;604204" level="5" />
+    <ItemSpec id="1038" name="173587" pic="pic549000_2_free" pro_kind="4" office="216006" c_task="604301;604302;604303;604304" level="5" />
+    <ItemSpec id="1039" name="173588" pic="pic549000_2_free" pro_kind="7" office="216007" c_task="604601;604602;604603;604604" level="5" />
+    <ItemSpec id="1040" name="173589" pic="pic549000_2_free" pro_kind="8" office="216008" c_task="604701;604702;604703;604704" level="5" />
+    <ItemSpec id="1041" name="173582" pic="pic549000_2_free" pro_kind="6" office="216001" c_task="605501;605502;605503;605504" level="6" />
+    <ItemSpec id="1042" name="173583" pic="pic549000_2_free" pro_kind="2" office="216002" c_task="605101;605102;605103;605104" level="6" />
+    <ItemSpec id="1043" name="173584" pic="pic549000_2_free" pro_kind="1" office="216003" c_task="605001;605002;605003;605004" level="6" />
+    <ItemSpec id="1044" name="173585" pic="pic549000_2_free" pro_kind="5" office="216004" c_task="605401;605402;605403;605404" level="6" />
+    <ItemSpec id="1045" name="173586" pic="pic549000_2_free" pro_kind="3" office="216005" c_task="605201;605202;605203;605204" level="6" />
+    <ItemSpec id="1046" name="173587" pic="pic549000_2_free" pro_kind="4" office="216006" c_task="605301;605302;605303;605304" level="6" />
+    <ItemSpec id="1047" name="173588" pic="pic549000_2_free" pro_kind="7" office="216007" c_task="605601;605602;605603;605604" level="6" />
+    <ItemSpec id="1048" name="173589" pic="pic549000_2_free" pro_kind="8" office="216008" c_task="605701;605702;605703;605704" level="6" />
+
+</Group>
+</tns:database>

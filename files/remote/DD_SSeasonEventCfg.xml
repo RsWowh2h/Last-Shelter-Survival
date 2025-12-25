@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<Group id="DD_SSeasonEventCfg">
+
+    <ItemSpec id="10001" eventName="110288500" eventPara="50500;50" eventParaDes="110288600" eventBuffShowVal="50"/>
+    <ItemSpec id="10002" eventName="110288501" eventPara="50501;100" eventParaDes="110288601" eventBuffShowVal="100"/>
+    <ItemSpec id="10003" eventName="110288502" eventPara="761;15" eventParaDes="110288602" eventBuffShowVal="15"/>
+    <ItemSpec id="10004" eventName="110288503" eventPara="50502;20" eventParaDes="110288606" eventBuffShowVal="20"/>
+    <ItemSpec id="10005" eventName="110288504" eventPara="50503;15" eventParaDes="110288604" eventBuffShowVal="15"/>
+    <ItemSpec id="10006" eventName="110288505" eventPara="757;20" eventParaDes="110288605" eventBuffShowVal="20"/>
+    <ItemSpec id="10007" eventName="110288506" eventPara="50502;20" eventParaDes="110288606" eventBuffShowVal="20"/>
+    <ItemSpec id="10008" eventName="110288507" eventPara="792;20" eventParaDes="110288607" eventBuffShowVal="20"/>
+    <ItemSpec id="10009" eventName="110288508" eventPara="50505;100" eventParaDes="110288608" eventBuffShowVal="100"/>
+    <ItemSpec id="10010" eventName="110288509" eventPara="50507;20" eventParaDes="110288609" eventBuffShowVal="20"/>
+    <ItemSpec id="10011" eventName="110288510" eventPara="50508;10" eventParaDes="110288610" eventBuffShowVal="10"/>
+    <ItemSpec id="10012" eventName="110288511" eventPara="50509;20" eventParaDes="110288611" eventBuffShowVal="20"/>
+
+
+
+  </Group>
+</tns:database>

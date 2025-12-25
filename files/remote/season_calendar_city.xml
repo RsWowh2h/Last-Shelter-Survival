@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="season_calendar_city">
+    <ItemSpec group="10001" id="10001001" time_rule="1" activity_time="1|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001002" time_rule="1" activity_time="3|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001003" time_rule="1" activity_time="6|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001004" time_rule="1" activity_time="8|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001005" time_rule="1" activity_time="10|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001006" time_rule="1" activity_time="13|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001007" time_rule="1" activity_time="15|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001008" time_rule="1" activity_time="17|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001009" time_rule="1" activity_time="20|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001010" time_rule="1" activity_time="22|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001011" time_rule="1" activity_time="24|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001012" time_rule="1" activity_time="27|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001013" time_rule="1" activity_time="29|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001014" time_rule="1" activity_time="31|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001015" time_rule="1" activity_time="34|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001016" time_rule="1" activity_time="36|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001017" time_rule="1" activity_time="38|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001018" time_rule="1" activity_time="41|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001019" time_rule="1" activity_time="43|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001020" time_rule="1" activity_time="45|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001021" time_rule="1" activity_time="48|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001022" time_rule="1" activity_time="50|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001023" time_rule="1" activity_time="52|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001024" time_rule="1" activity_time="55|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001025" time_rule="1" activity_time="57|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001026" time_rule="1" activity_time="59|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10001" id="10001027" time_rule="1" activity_time="6|1" title="88004085" icon="icon_CalendarSeason_011" city="2245979|2226190|2156846|2085277|1983263|1955575|1876680|1424126|1273518|1262473|1147104|665479|575230|489423|417063|208375|187092|175284" />
+    <ItemSpec group="10001" id="10001028" time_rule="1" activity_time="10|1" title="88004085" icon="icon_CalendarSeason_011" city="2032228|2023466|1999010|1809347|670537|413649|390818|374051" />
+    <ItemSpec group="10001" id="10001029" time_rule="1" activity_time="13|1" title="88004085" icon="icon_CalendarSeason_011" city="1634291|1594408|1487669|1394654|1065991|1030675|815100|744831" />
+    <ItemSpec group="10001" id="10001030" time_rule="1" activity_time="17|1" title="88004085" icon="icon_CalendarSeason_011" city="1320537|1162562" />
+    <ItemSpec group="10001" id="10001031" time_rule="1" activity_time="20|1" title="88004085" icon="icon_CalendarSeason_011" city="1944419|1935091|1729630|1723332|1638950|1620663|1587420|1400416|1366039|1054587|1020281|846362|831622|789787|737461|668316|663744|642563|628452" />
+    <ItemSpec group="10001" id="10001032" time_rule="1" activity_time="24|1" title="88004085" icon="icon_CalendarSeason_011" city="1209721|1353481" />
+    <ItemSpec group="10001" id="10001033" time_rule="1" activity_time="29|1" title="88004085" icon="icon_CalendarSeason_011" city="1420808|1388956|1127814|1107128" />
+    <ItemSpec group="10001" id="10001034" time_rule="1" activity_time="34|1" title="88004085" icon="icon_CalendarSeason_011" city="1332880|1326400|1228729|1212785" />
+    <ItemSpec group="10001" id="10001035" time_rule="1" activity_time="38|1" title="88004085" icon="icon_CalendarSeason_011" city="1281601" />
+
+    <ItemSpec group="10002" id="10002001" time_rule="1" activity_time="1|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002002" time_rule="1" activity_time="3|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002003" time_rule="1" activity_time="6|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002004" time_rule="1" activity_time="8|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002005" time_rule="1" activity_time="10|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002006" time_rule="1" activity_time="13|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002007" time_rule="1" activity_time="15|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002008" time_rule="1" activity_time="17|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002009" time_rule="1" activity_time="20|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002010" time_rule="1" activity_time="22|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002011" time_rule="1" activity_time="24|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002012" time_rule="1" activity_time="27|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002013" time_rule="1" activity_time="29|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002014" time_rule="1" activity_time="31|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002015" time_rule="1" activity_time="34|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002016" time_rule="1" activity_time="36|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002017" time_rule="1" activity_time="38|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002018" time_rule="1" activity_time="41|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002019" time_rule="1" activity_time="43|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002020" time_rule="1" activity_time="45|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002021" time_rule="1" activity_time="48|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002022" time_rule="1" activity_time="50|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002023" time_rule="1" activity_time="52|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002024" time_rule="1" activity_time="55|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002025" time_rule="1" activity_time="57|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002026" time_rule="1" activity_time="59|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10002" id="10002027" time_rule="1" activity_time="8|1" title="88004085" icon="icon_CalendarSeason_011" city="300172|300162|300158|300154|300150|300147|300144|300141|300140|300139|300135|300134|300122|300120|300118|300114|300105|300097|300094|300090|300084|300082|300081|300079|300074|300070|300066|300065|300061" />
+    <ItemSpec group="10002" id="10002028" time_rule="1" activity_time="10|1" title="88004085" icon="icon_CalendarSeason_011" city="300510|300504|300458|300456|300454|300448|300406|300399|300391|300344|300312|300291|300283|300281|300258|300232|300224" />
+    <ItemSpec group="10002" id="10002029" time_rule="1" activity_time="13|1" title="88004085" icon="icon_CalendarSeason_011" city="300212|300205|300203|300196|300193|300192|300191|300183|300180|300176|300175|300173|300163|300152|300151|300132|300130|300119|300113|300111|300107|300104|300101|300093|300078|300073|300060|300052|300051|300047|300046|300041|300034|300032|300029|300025|300022|300020|300014|300010|300006" />
+    <ItemSpec group="10002" id="10002030" time_rule="1" activity_time="15|1" title="88004085" icon="icon_CalendarSeason_011" city="300452|300439|300436|300435|300429|300427|300418|300403|300384|300381|300377|300364|300362|300354|300339|300330|300320|300305|300304|300300|300295|300293|300201|300197|300181|300123|300086|300053|300026|300017" />
+    <ItemSpec group="10002" id="10002031" time_rule="1" activity_time="20|1" title="88004085" icon="icon_CalendarSeason_011" city="300159|300155|300149|300145|300138|300137|300127|300126|300116|300108|300099|300095|300091|300085|300083|300069|300068" />
+    <ItemSpec group="10002" id="10002032" time_rule="1" activity_time="22|1" title="88004085" icon="icon_CalendarSeason_011" city="300396|300382|300360|300340" />
+    <ItemSpec group="10002" id="10002033" time_rule="1" activity_time="24|1" title="88004085" icon="icon_CalendarSeason_011" city="300386|300374|300371|300346" />
+    <ItemSpec group="10002" id="10002034" time_rule="1" activity_time="29|1" title="88004085" icon="icon_CalendarSeason_011" city="300117" />
+
+    <ItemSpec group="10003" id="10003001" time_rule="1" activity_time="1|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003002" time_rule="1" activity_time="3|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003003" time_rule="1" activity_time="6|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003004" time_rule="1" activity_time="8|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003005" time_rule="1" activity_time="10|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003006" time_rule="1" activity_time="13|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003007" time_rule="1" activity_time="15|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003008" time_rule="1" activity_time="17|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003009" time_rule="1" activity_time="20|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003010" time_rule="1" activity_time="22|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003011" time_rule="1" activity_time="24|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003012" time_rule="1" activity_time="27|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003013" time_rule="1" activity_time="29|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003014" time_rule="1" activity_time="31|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003015" time_rule="1" activity_time="34|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003016" time_rule="1" activity_time="36|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003017" time_rule="1" activity_time="38|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003018" time_rule="1" activity_time="41|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003019" time_rule="1" activity_time="43|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003020" time_rule="1" activity_time="45|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003021" time_rule="1" activity_time="48|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003022" time_rule="1" activity_time="50|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003023" time_rule="1" activity_time="52|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003024" time_rule="1" activity_time="55|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003025" time_rule="1" activity_time="57|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003026" time_rule="1" activity_time="59|1" title="88004085" icon="icon_CalendarSeason_010" />
+    <ItemSpec group="10003" id="10003027" time_rule="1" activity_time="6|1" title="88004085" icon="icon_CalendarSeason_011" city="2245979|2226190|2156846|2085277|1983263|1955575|1876680|1424126|1273518|1262473|1147104|665479|575230|489423|417063|208375|187092|175284" />
+    <ItemSpec group="10003" id="10003028" time_rule="1" activity_time="10|1" title="88004085" icon="icon_CalendarSeason_011" city="2032228|2023466|1999010|1809347|670537|413649|390818|374051" />
+    <ItemSpec group="10003" id="10003029" time_rule="1" activity_time="13|1" title="88004085" icon="icon_CalendarSeason_011" city="1634291|1594408|1487669|1394654|1065991|1030675|815100|744831" />
+    <ItemSpec group="10003" id="10003030" time_rule="1" activity_time="17|1" title="88004085" icon="icon_CalendarSeason_011" city="1320537|1162562" />
+    <ItemSpec group="10003" id="10003031" time_rule="1" activity_time="20|1" title="88004085" icon="icon_CalendarSeason_011" city="1944419|1935091|1729630|1723332|1638950|1620663|1587420|1400416|1366039|1054587|1020281|846362|831622|789787|737461|668316|663744|642563|628452" />
+    <ItemSpec group="10003" id="10003032" time_rule="1" activity_time="24|1" title="88004085" icon="icon_CalendarSeason_011" city="1209721|1353481" />
+    <ItemSpec group="10003" id="10003033" time_rule="1" activity_time="29|1" title="88004085" icon="icon_CalendarSeason_011" city="1420808|1388956|1127814|1107128" />
+    <ItemSpec group="10003" id="10003034" time_rule="1" activity_time="34|1" title="88004085" icon="icon_CalendarSeason_011" city="1332880|1326400|1228729|1212785" />
+    <ItemSpec group="10003" id="10003035" time_rule="1" activity_time="38|1" title="88004085" icon="icon_CalendarSeason_011" city="1281601" />
+
+
+	</Group>
+
+
+</tns:database>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="td_animation">
+ <!-- 程序表：动画开发人员自己维护-->>
+ <!-- name:名称 -->
+ <!-- action:动作  动作1;帧数;帧率（每秒）;图片开始id;特殊参数(动画移动速度、攻击速度)|动作2;帧数;帧率（每秒）  move;41;30;32|attack;32;30 -->
+ <!-- flipX:翻转 0不需要翻转，1需要翻转 -->
+ <!-- scale:缩放 不填默认1 -->
+ <!-- anchor:动画锚点 默认中心 -->
+ <!-- 僵尸ID 10000 -->
+ <ItemSpec id="10001" flipX="0" name="zMan"                 action="move;45;30;0|idle;45;30;0|die;75;30;0|attack;35;30;1|run;23;30;1"  anchor="0.5;0.33333"/>
+ <ItemSpec id="10002" flipX="0" name="zWoman"               action="move;41;30;0|idle;41;30;0|die;42;30;0|attack;21;30;1"  anchor="0.5;0.31764"/>
+ <ItemSpec id="10003" flipX="0" name="zTank" scale="1.5"    action="move;51;30;0|idle;41;30;0|die;57;30;0|attack;21;30;1"  anchor="0.5;0.3"/>
+ <ItemSpec id="10004" flipX="0" name="zTank" scale="3"    action="move;51;30;0|idle;41;30;0|die;57;30;0|attack;21;30;1"  anchor="0.5;0.3"/>
+ 
+ <!-- 防御塔ID 20000 -->
+ <ItemSpec id="20001" flipX="0" name="tMachine"             action="idle;21;30;0|attack;11;30;0"  anchor="0.5;0.365"/>
+ </Group >
+
+</tns:database>

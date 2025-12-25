@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="monster_model">
+   <ItemSpec id="900030" name="sangshi1_animation.c3b" idle="0|30" walk="70|106" run="" attack="35|65" death="120|173" scale="0.8" />
+   <ItemSpec id="900031" name="sangshi1_animation.c3b" idle="0|30" walk="70|106" run="" attack="35|65" death="120|173" scale="0.8" />
+   <ItemSpec id="900032" name="sangshi1_animation.c3b" idle="0|30" walk="70|106" run="" attack="35|65" death="120|173" scale="0.8" />
+   <ItemSpec id="900033" name="sangshi1_animation.c3b" idle="0|30" walk="70|106" run="" attack="35|65" death="120|173" scale="0.8" />
+   <ItemSpec id="900034" name="sangshi1_animation.c3b" idle="0|30" walk="70|106" run="" attack="35|65" death="120|173" scale="0.8" />
+   <ItemSpec id="910030" name="zhuanghan_animation.c3b" idle="0|30" walk="70|106" run="" attack="35|65" death="120|173" scale="0.8" />
+   <ItemSpec id="910031" name="zhuanghan_animation.c3b" idle="0|30" walk="70|106" run="" attack="35|65" death="120|173" scale="0.8" />
+   <ItemSpec id="910032" name="zhuanghan_animation.c3b" idle="0|30" walk="70|106" run="" attack="35|65" death="120|173" scale="0.8" />
+   <ItemSpec id="910033" name="zhuanghan_animation.c3b" idle="0|30" walk="70|106" run="" attack="35|65" death="120|173" scale="0.8" />
+  
+  </Group>
+</tns:database>

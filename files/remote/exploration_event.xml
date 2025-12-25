@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="exploration_event">
+    <ItemSpec id="1" name="91010051" description="91010057" time="360" resource="Explore_event_1" tiles="1" item="food,0|wood,0|iron,0"/>
+    <ItemSpec id="2" name="91010052" description="91010057" time="360" resource="Explore_event_2" tiles="1" item="wood,0|stone,0|goods,215009|goods,212008|goods,212009|goods,215013"/>
+    <ItemSpec id="3" name="91010053" description="91010057" time="600" resource="Explore_event_3" tiles="2" item="food,0|wood,0|iron,0|goods,215012|goods,212008|goods,212009|goods,215013"/>
+    <ItemSpec id="4" name="91010054" description="91010057" time="720" resource="Explore_event_4" tiles="2" item="food,0|wood,0|iron,0|stone,0|goods,212008|goods,212009"/>
+    <ItemSpec id="5" name="91010055" description="91010057" time="900" resource="Explore_event_6" tiles="2" item="stone,0|goods,215015|goods,212008|goods,212009|goods,215013"/>
+    <ItemSpec id="6" name="91010056" description="91010057" time="600" resource="Explore_event_5" tiles="2" item="food,0|wood,0|iron,0|stone,0|goods,215012|goods,215014|goods,212008|goods,212009|goods,215013"/>
+
+
+
+
+
+
+
+
+</Group>
+
+
+  </tns:database>

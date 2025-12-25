@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="td_zombie">
+    <ItemSpec id="10001" name="male" type="10001" level="1" Scale="0.5" size="64" effect_h="50" resource="1" life="1" attack="5" interval="1" speed="108" seek_range="100" attack_range="50" power="1" />
+    <ItemSpec id="20001" name="female" type="10002" level="1" Scale="0.5" size="64" effect_h="50" resource="1" life="1" attack="5" interval="1" speed="108" seek_range="100" attack_range="50" power="1" />
+    <ItemSpec id="30001" name="male02" type="10005" level="1" Scale="0.5" size="64" effect_h="50" resource="1" life="1" attack="5" interval="1" speed="108" seek_range="100" attack_range="50" power="1" />
+    <ItemSpec id="40001" name="female02" type="10006" level="1" Scale="0.5" size="64" effect_h="50" resource="1" life="1" attack="5" interval="1" speed="108" seek_range="100" attack_range="50" power="1" />
+    <ItemSpec id="50001" name="female03" type="10008" level="1" Scale="0.5" size="64" effect_h="50" resource="1" life="1" attack="5" interval="1" speed="108" seek_range="100" attack_range="50" power="1" />
+    <ItemSpec id="60001" name="zombie_naked" type="10009" level="1" Scale="0.5" size="64" effect_h="50" resource="1" life="1" attack="5" interval="1" speed="108" seek_range="100" attack_range="50" power="1" />
+    <ItemSpec id="70001" name="guangtounan" type="10010" level="1" Scale="0.5" size="64" effect_h="50" resource="1" life="1" attack="5" interval="1" speed="108" seek_range="100" attack_range="50" power="1" />
+    <ItemSpec id="80001" name="fast_zombie" type="10003" level="1" Scale="0.3" size="64" effect_h="30" resource="1" life="0.9" attack="5" interval="1" speed="162" seek_range="100" attack_range="50" power="1" />
+    <ItemSpec id="90001" name="fat_zombie" type="10007" level="1" Scale="0.5" size="128" effect_h="80" resource="1" life="3" attack="5" interval="1" speed="108" seek_range="100" attack_range="50" power="5" />
+    <ItemSpec id="100001" name="zombieboss" type="10004" level="1" Scale="0.5" size="192" effect_h="120" resource="1" life="6" attack="5" interval="1" speed="90" seek_range="100" attack_range="50" power="10" />
+    <ItemSpec id="110001" name="fat_zombie" type="10007" level="1" Scale="0.6" size="128" effect_h="80" resource="1" life="5.3" attack="5" interval="1" speed="108" seek_range="100" attack_range="50" power="5" />
+    <ItemSpec id="190001" name="fat_zombie" type="10007" level="1" Scale="0.7" size="128" effect_h="80" resource="1" life="2.5" attack="5" interval="1" speed="162" seek_range="100" attack_range="50" power="5" />
+
+ </Group >
+
+</tns:database>

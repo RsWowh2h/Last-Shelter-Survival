@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="plot_video">
+		<ItemSpec id="1" name="88003139" des="hero121_bust_new" dialogue_start="1001"/>
+		
+		<!--35新章节来电 自由先锋领袖-巴恩斯·洛克哈特-->	
+		<ItemSpec id="2" name="88000703" des="hero65_bust_new" dialogue_start="2001"/>	
+		
+		<!--35新章节来电 弥赛亚领袖-罗杰·奥古斯丁-->	
+		<ItemSpec id="3" name="88001096" des="hero87_bust_new" dialogue_start="3001"/>			
+	</Group>
+	<Group id="plot_video_dialogue">
+		<ItemSpec id="1001" content="110400686" choise="110400675|110400676" next="1002|1003"/>
+		<ItemSpec id="1002" content="110400687"/>
+		<ItemSpec id="1003" content="110400688"/>
+		
+		<!--35新章节来电 自由先锋领袖-巴恩斯·洛克哈特-->	
+		<ItemSpec id="2001" content="111980020" choise="110530010|110530011" />
+		
+		<!--35新章节来电 弥赛亚领袖-罗杰·奥古斯丁-->
+		<ItemSpec id="3001" content="111980031" choise="110530010|110530011" />	
+	</Group>
+</tns:database>

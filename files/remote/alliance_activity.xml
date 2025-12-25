@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="alliance_activity">
+    <ItemSpec id="100001" get_maximum="25" donate_maximum="20" name_1="90823439" name_2="90823440" desc_1="90823443" desc_2="90823448" />
+
+
+ </Group >
+
+</tns:database>

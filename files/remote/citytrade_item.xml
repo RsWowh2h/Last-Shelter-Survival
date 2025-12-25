@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="citytrade_item">
+		<ItemSpec id="1001" name="112142301" icon="citytrade_shop_hailuo" description="112142302" basicprice="1000" minprice="850" maxprice="1150" changepricerate="750,1250;50" quality="1"/>
+		<ItemSpec id="1002" name="112142303" icon="citytrade_shop_mianhua" description="112142304" basicprice="1000" minprice="800" maxprice="1200" changepricerate="750,1250;50" quality="1"/>
+		<ItemSpec id="1003" name="112142305" icon="citytrade_shop_xiangliao" description="112142306" basicprice="1000" minprice="750" maxprice="1250" changepricerate="750,1250;50" quality="1"/>
+		<ItemSpec id="1004" name="112142307" icon="citytrade_shop_hongshanhu" description="112142308" basicprice="1500" minprice="1125" maxprice="1875" changepricerate="1050,1950;50" quality="2"/>
+		<ItemSpec id="1005" name="112142309" icon="citytrade_shop_jinqiangyu" description="112142310" basicprice="1500" minprice="1125" maxprice="1875" changepricerate="1050,1950;50" quality="2"/>
+		<ItemSpec id="1006" name="112142311" icon="citytrade_shop_fuzhuang" description="112142312" basicprice="1500" minprice="1125" maxprice="1875" changepricerate="1050,1950;50" quality="2"/>
+		<ItemSpec id="1007" name="112142313" icon="citytrade_shop_hongjiu" description="112142314" basicprice="2500" minprice="1750" maxprice="3250" changepricerate="1625,3375;50" quality="3"/>
+		<ItemSpec id="1008" name="112142315" icon="citytrade_shop_yuzijiang" description="112142316" basicprice="2500" minprice="1750" maxprice="3250" changepricerate="1625,3375;50" quality="3"/>
+		<ItemSpec id="1009" name="112142317" icon="citytrade_shop_shoushi" description="112142318" basicprice="4000" minprice="2400" maxprice="5600" changepricerate="2400,5600;50" quality="4"/>
+		<ItemSpec id="1010" name="112142319" icon="citytrade_shop_zhenzhu" description="112142320" basicprice="4000" minprice="2400" maxprice="5600" changepricerate="2400,5600;50" quality="4"/>
+
+	</Group>
+</tns:database>

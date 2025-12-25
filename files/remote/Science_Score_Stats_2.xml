@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="Science_Score_Stats_2">
+	
+		<ItemSpec id="1" type="100" type2="0" description="111000166" effect="10079" symbol="2" percent="0" correct="1" priority="1" switch="1" />
+		<ItemSpec id="2" type="100" type2="0" description="111000172" effect="1010" symbol="2" percent="1" correct="1" priority="2" switch="1" />
+		<ItemSpec id="3" type="100" type2="0" description="111000170" effect="1030" symbol="2" percent="1" correct="1" priority="3" switch="1" />
+		<ItemSpec id="4" type="100" type2="0" description="111000174" effect="1050" symbol="2" percent="1" correct="1" priority="4" switch="1" />
+		<ItemSpec id="5" type="100" type2="0" description="111000168" effect="513" symbol="1" percent="0" correct="1" priority="5" switch="1" />
+		<ItemSpec id="6" type="100" type2="1" description="111000167" effect="514" symbol="1" percent="0" correct="1" priority="6" switch="1" />
+		<ItemSpec id="7" type="100" type2="1" description="111000173" effect="515" symbol="1" percent="0" correct="1" priority="7" switch="1" />
+		<ItemSpec id="8" type="100" type2="2" description="111000171" effect="516" symbol="1" percent="0" correct="1" priority="8" switch="1" />
+		<ItemSpec id="9" type="100" type2="2" description="111000175" effect="517" symbol="1" percent="0" correct="1" priority="9" switch="1" />
+		<ItemSpec id="10" type="100" type2="0" description="111000168" effect="372" symbol="1" percent="1" correct="1" priority="10" switch="1" />
+		<ItemSpec id="11" type="100" type2="0" description="111000167" effect="373" symbol="1" percent="1" correct="1" priority="11" switch="1" />
+		<ItemSpec id="12" type="100" type2="0" description="111000173" effect="374" symbol="1" percent="1" correct="1" priority="12" switch="1" />
+		<ItemSpec id="13" type="100" type2="0" description="111000171" effect="375" symbol="1" percent="1" correct="1" priority="13" switch="1" />
+		<ItemSpec id="14" type="100" type2="0" description="111000175" effect="376" symbol="1" percent="1" correct="1" priority="14" switch="1" />
+		<ItemSpec id="15" type="100" type2="0" description="111000169" effect="377" symbol="2" percent="1" correct="1" priority="15" switch="1" />
+		<ItemSpec id="16" type="100" type2="0" description="111000199" effect="10088" symbol="2" percent="1" correct="1" priority="16" switch="1" />
+		<ItemSpec id="17" type="100" type2="0" description="111000200" effect="10091" symbol="1" percent="1" correct="1" priority="17" switch="1" />
+		<ItemSpec id="18" type="100" type2="0" description="111000205" effect="10082" symbol="2" percent="1" correct="1" priority="18" switch="1" />
+		<ItemSpec id="19" type="100" type2="0" description="111000207" effect="10085" symbol="1" percent="1" correct="1" priority="19" switch="1" />
+		<ItemSpec id="20" type="100" type2="0" description="111000201" effect="20431" symbol="2" percent="1" correct="1" priority="20" switch="1" />
+    <ItemSpec id="21" type="100" type2="0" description="111000224" effect="10040" symbol="2" percent="1" correct="1" priority="21" switch="1" />
+    <ItemSpec id="22" type="100" type2="0" description="111000225" effect="32000" symbol="2" percent="1" correct="1" priority="22" switch="1" />
+    <ItemSpec id="23" type="100" type2="0" description="111000226" effect="19020" symbol="2" percent="1" correct="1" priority="23" switch="1" />
+    <ItemSpec id="24" type="100" type2="0" description="111000227" effect="19021" symbol="2" percent="1" correct="1" priority="24" switch="1" />
+    <ItemSpec id="25" type="100" type2="0" description="111000228" effect="19022" symbol="2" percent="1" correct="1" priority="25" switch="1" />
+    <ItemSpec id="26" type="100" type2="0" description="111000229" effect="19018" symbol="2" percent="1" correct="1" priority="26" switch="1" />
+    <ItemSpec id="27" type="100" type2="0" description="111000230" effect="19019" symbol="2" percent="1" correct="1" priority="27" switch="1" />
+    <ItemSpec id="28" type="100" type2="0" description="111000231" effect="19023" symbol="2" percent="1" correct="10" priority="28" switch="1" />
+
+
+	</Group> 
+</tns:database>

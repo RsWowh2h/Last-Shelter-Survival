@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="dragon_battle_building">
+    
+    <ItemSpec id="1001" type="107" coordinate="585,550|614,550|585,649|614,649" model="Battlefield_outpost" owntime="60" circle="60" person_point="100" team_point="50" team_point_get="100" dialog="500012" name="500001" icon="Jdzy_Icon_shaozhan" def_queue_num="20" building_open_time="0" unopen_desc="500113" />
+    <ItemSpec id="1002" type="108" coordinate="564,564|635,564|564,635|635,635" model="Battlefield_commandpost" owntime="60" circle="60" person_point="150" team_point="50" team_point_get="150" transmission="5|2|1" transmission_circle="300" dialog="500013" buff_dialog="500032" name="500002" icon="Jdzy_Icon_zhihuisuo" def_queue_num="20" building_open_time="0" unopen_desc="500113" />
+    <ItemSpec id="1003" type="109" coordinate="626,580|575,620" model="Battlefield_hospital" owntime="60" circle="60" person_point="200" team_point="100" team_point_get="200" effect="121;100" dialog="500014" buff_dialog="500033" name="500003" icon="Jdzy_Icon_yiyuan" def_queue_num="20" building_open_time="300" unopen_desc="500113" effect_name="500135" effect_name2="500131" />
+    <ItemSpec id="1004" type="111" coordinate="575,580|626,620" model="Battlefield_armystock" owntime="60" circle="60" person_point="200" team_point="100" team_point_get="200" effect="1010;50|1030;50" dialog="500015" buff_dialog="500034" name="500004" icon="Jdzy_Icon_junhuoku" def_queue_num="20" building_open_time="300" unopen_desc="500113" effect_name="500134" effect_name2="90010030|190689" />
+    <ItemSpec id="1005" type="113" coordinate="555,600|646,600" model="Battlefield_sidetower" owntime="60" circle="60" person_point="300" team_point="200" team_point_get="300" dialog="500016" name="500005" icon="Jdzy_Icon_futa" def_queue_num="20" building_open_time="300" unopen_desc="500113" />
+    <ItemSpec id="1006" type="115" coordinate="600,600" model="Battlefield_centertower" dialog="500017" name="500006" icon="Jdzy_Icon_zhuta" building_open_time="900" unopen_desc="500113" />
+    <ItemSpec id="1007" type="117" coordinate="600,539" model="Battlefield_fortress" dialog="500018" name="500007" icon="Jdzy_Icon_yaosai" def_queue_num="20" building_open_time="0" unopen_desc="500113" />
+    <ItemSpec id="1008" type="119" coordinate="600,661" model="Battlefield_fortress" dialog="500019" name="500008" icon="Jdzy_Icon_yaosai" def_queue_num="20" building_open_time="0" unopen_desc="500113" />
+    <ItemSpec id="1009" type="121" coordinate="599,590|599,578" model="Battlefield_station-1" owntime="10" dialog="500020" name="500009" icon="Jdzy_Icon_yizhan-wre" def_queue_num="20" building_open_time="900" unopen_desc="500113" />
+    <ItemSpec id="1010" type="122" coordinate="600,609|600,621" model="Battlefield_station" owntime="10" dialog="500021" name="500010" icon="Jdzy_Icon_yizhan-wre" def_queue_num="20" building_open_time="900" unopen_desc="500113" />
+    <ItemSpec id="1011" type="123" coordinate="570,545|629,545|547,580|652,580;547,619|652,619|570,654|629,654" model="Battlefield_kuangkeng" dialog="500022" name="500011" icon="Jdzy_Icon_yunshikang" def_queue_num="1" />
+    <ItemSpec id="1012" type="124" model="Battlefield_watchtower" dialog="500030" name="500031" icon="Jdzy_Icon_liaowang" rank="4" cost="200" construc_progress="10000" construc_auto="50" build_speed="1" safe_time="0" def_queue_num="20" maxdef="2000" initdef="0.1" recycle="0.3" />
+	
+
+
+    </Group> 
+</tns:database>

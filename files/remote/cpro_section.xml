@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="cpro_section">
+    <ItemSpec id="2001" section_name="173515" section_icon="1" unlock_con="301019;80|302019;120|305019;40|307019;20" level="1" />
+    <ItemSpec id="2002" section_name="173590" section_icon="2" unlock_con="301039;60|302039;120|305039;30|307039;20" level="2" />
+    <ItemSpec id="2003" section_name="173591" section_icon="3" unlock_con="301059;60|302059;110|305059;30|307059;20" level="3" />
+    <ItemSpec id="2004" section_name="173600" section_icon="4" unlock_con="301079;40|302079;100|305079;20|307079;20" level="4" />
+    <ItemSpec id="2005" section_name="173601" section_icon="5" unlock_con="301099;40|302099;100|305099;20|307099;10" level="5" />
+
+
+</Group>
+</tns:database>

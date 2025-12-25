@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="dawn_expedition_score">
+    <ItemSpec id="10001" type="1" name="150403" points="5000" />
+    <ItemSpec id="10002" type="1" name="150423" points="20000" />
+    <ItemSpec id="10003" type="1" name="150424" points="100000" />
+    <ItemSpec id="20001" type="2" name="105909" tips="105959" points="1" />
+    <ItemSpec id="20002" type="2" name="105910" tips="105960" points="2" />
+    <ItemSpec id="20003" type="2" name="105911" tips="105961" points="3" />
+    <ItemSpec id="20004" type="2" name="105912" tips="105962" points="4" />
+    <ItemSpec id="20005" type="2" name="105913" tips="105963" points="5" />
+    <ItemSpec id="20006" type="2" name="105914" tips="105964" points="6" />
+    <ItemSpec id="20007" type="2" name="105915" tips="105965" points="7" />
+    <ItemSpec id="20008" type="2" name="105916" tips="105966" points="8" />
+    <ItemSpec id="20009" type="2" name="105917" tips="105967" points="9" />
+    <ItemSpec id="20010" type="2" name="105918" tips="105968" points="15" />
+    <ItemSpec id="20011" type="2" name="212121" tips="212122" points="20" />
+    <ItemSpec id="30004" type="3" name="105933" tips="105962" points="4" />
+    <ItemSpec id="30005" type="3" name="105934" tips="105963" points="5" />
+    <ItemSpec id="30006" type="3" name="105935" tips="105964" points="6" />
+    <ItemSpec id="30007" type="3" name="105936" tips="105965" points="7" />
+    <ItemSpec id="30008" type="3" name="105937" tips="105966" points="8" />
+    <ItemSpec id="30009" type="3" name="105938" tips="105967" points="9" />
+    <ItemSpec id="40001" type="4" name="105931" tips="105981" points="300" />
+    <ItemSpec id="50001" type="5" name="105932" tips="105982" points="1000" />
+    <ItemSpec id="80001" type="8" name="79000019" tips="79000019" points="1000" />
+    <ItemSpec id="90001" type="9" name="150405" points="10" />
+    <ItemSpec id="90101" type="11" name="110481717" tips="110481717" points="1500" />
+    <ItemSpec id="90201" type="12" name="110481718" tips="110481718" points="2000" />
+    <ItemSpec id="90301" type="13" name="110481719" tips="110481719" points="10" />
+    <ItemSpec id="90302" type="14" name="110481720" tips="110481720" points="10" />
+    <ItemSpec id="90401" type="15" name="110481721" tips="110481721" points="2000" />
+    <ItemSpec id="90402" type="15" name="110481722" tips="110481722" points="200" />
+    <ItemSpec id="90403" type="15" name="110481723" tips="110481723" points="1000" />
+	
+	<!-- 新增类型，16 中枢战力  17 阵营战力  18 卫星轨道战力  19 宠物战力 --> 
+
+	<ItemSpec id="90501" type="16" name="112160127" tips="112160127" points="2000" />
+    <ItemSpec id="90601" type="17" name="112160128" tips="112160128" points="1000" />
+    <ItemSpec id="90701" type="18" name="112160129" tips="112160129" points="1000" />
+    <ItemSpec id="90801" type="19" name="112160130" tips="112160130" points="1000" />
+
+
+
+	</Group>
+</tns:database>

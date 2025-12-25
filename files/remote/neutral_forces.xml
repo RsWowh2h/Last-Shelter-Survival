@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="neutral_forces">
+
+    <ItemSpec id="10001" forces="10001;10002;10003;10004;10005" accepted_limit="10" show_limit="5" daily_limit="5" refresh="1|2|3|4|5|6" refresh_goods="219168,0|219168,25|219168,50|219168,50|219168,100|219168,100" same_id="0"/>
+
+    <ItemSpec id="10002" forces="20001;20002;20003;20004;20005" accepted_limit="15" show_limit="8" daily_limit="8" refresh="1|2|3|4|5|6" refresh_goods="219168,0|219168,25|219168,50|219168,50|219168,100|219168,100" same_id="0"/>
+ 
+	<ItemSpec id="10003" forces="30001;30002;30003;30004;30005" accepted_limit="15" show_limit="8" daily_limit="8" refresh="1|2|3|4|5|6" refresh_goods="219168,0|219168,25|219168,50|219168,50|219168,100|219168,100" same_id="0"/>
+
+
+	</Group>
+
+</tns:database>

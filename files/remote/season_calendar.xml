@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="season_calendar"> 
+    <ItemSpec group="10001" id="1000101" order="10" time_rule="1" activity_time="0|7" title="110258298" introduction="110258299" icon="icon_CalendarSeason_006" reward="200129|209933|200392|211207|200226" gotype="1" red_remind="1" />
+    <ItemSpec group="10001" id="1000102" order="10" time_rule="1" activity_time="7|7" title="88004085" introduction="110451040" icon="icon_CalendarSeason_005" reward="200119|209933|217027|200392|200200" gotype="4" go="38" go_id="200031" red_remind="1" />
+    <ItemSpec group="10001" id="1000103" order="10" time_rule="1" activity_time="14|7" title="88004085" introduction="110451040" icon="icon_CalendarSeason_005" reward="201000|209933|217027|200200|217091" gotype="4" go="38" go_id="200032" red_remind="1" />
+    <ItemSpec group="10001" id="1000104" order="10" time_rule="1" activity_time="21|7" title="88004085" introduction="110451040" icon="icon_CalendarSeason_005" reward="200129|209933|217027|200200|217091" gotype="4" go="38" go_id="200033" red_remind="1" />
+    <ItemSpec group="10001" id="1000105" order="10" time_rule="1" activity_time="28|7" title="88004085" introduction="110451040" icon="icon_CalendarSeason_005" reward="200119|209933|217027|200392|200200" gotype="4" go="38" go_id="200034" red_remind="1" />
+    <ItemSpec group="10001" id="1000106" order="10" time_rule="1" activity_time="35|7" title="88004085" introduction="110451040" icon="icon_CalendarSeason_005" reward="201000|209933|217027|200200|217091" gotype="4" go="38" go_id="200035" red_remind="1" />
+    <ItemSpec group="10001" id="1000107" order="10" time_rule="1" activity_time="42|7" title="88004085" introduction="110451040" icon="icon_CalendarSeason_005" reward="200129|209933|217027|200200|217091" gotype="4" go="38" go_id="200036" red_remind="1" />
+
+
+    <ItemSpec group="10003" id="1000301" order="10" time_rule="1" activity_time="0|7" title="110258298" introduction="110258299" icon="icon_CalendarSeason_006" reward="200129|209933|200392|211207|200226" gotype="1" red_remind="1" />
+    <ItemSpec group="10003" id="1000302" order="10" time_rule="1" activity_time="7|7" title="88004085" introduction="110451040" icon="icon_CalendarSeason_005" reward="200119|209933|217027|200392|200200" gotype="4" go="38" go_id="200031" red_remind="1" />
+    <ItemSpec group="10003" id="1000303" order="10" time_rule="1" activity_time="14|7" title="88004085" introduction="110451040" icon="icon_CalendarSeason_005" reward="201000|209933|217027|200200|217091" gotype="4" go="38" go_id="200032" red_remind="1" />
+    <ItemSpec group="10003" id="1000304" order="10" time_rule="1" activity_time="21|7" title="88004085" introduction="110451040" icon="icon_CalendarSeason_005" reward="200129|209933|217027|200200|217091" gotype="4" go="38" go_id="200033" red_remind="1" />
+    <ItemSpec group="10003" id="1000305" order="10" time_rule="1" activity_time="28|7" title="88004085" introduction="110451040" icon="icon_CalendarSeason_005" reward="200119|209933|217027|200392|200200" gotype="4" go="38" go_id="200034" red_remind="1" />
+    <ItemSpec group="10003" id="1000306" order="10" time_rule="1" activity_time="35|7" title="88004085" introduction="110451040" icon="icon_CalendarSeason_005" reward="201000|209933|217027|200200|217091" gotype="4" go="38" go_id="200035" red_remind="1" />
+    <ItemSpec group="10003" id="1000307" order="10" time_rule="1" activity_time="42|7" title="88004085" introduction="110451040" icon="icon_CalendarSeason_005" reward="200129|209933|217027|200200|217091" gotype="4" go="38" go_id="200036" red_remind="1" />
+
+
+ </Group>
+</tns:database>

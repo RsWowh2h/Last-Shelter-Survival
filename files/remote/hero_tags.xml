@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	    <Group id="hero_tags">
+      
+    <ItemSpec id="1" name="199500" description="199600" icon="image_attact" />
+		<ItemSpec id="100" name="110095000" description="110040807" icon="icon_nisaiya"/>
+		<ItemSpec id="101" name="110095001" description="110040808" icon="icon_shamozhiying"/>
+		<ItemSpec id="102" name="110095002" description="110040809" icon="icon_ziyouxianfeng"/>
+		<ItemSpec id="103" name="110095003" description="110040810" icon="icon_guyongbing"/>
+         <ItemSpec id="104" name="110095005" description="110095006" icon="icon_weizhishili"/>
+    <ItemSpec id="2" name="199501" description="199601" icon="image_damage" />
+		<ItemSpec id="225100" name="110095000" description="110040807" icon="icon_nisaiya"/>
+		<ItemSpec id="225101" name="110095001" description="110040808" icon="icon_shamozhiying"/>
+		<ItemSpec id="225102" name="110095002" description="110040809" icon="icon_ziyouxianfeng"/>
+		<ItemSpec id="225103" name="110095003" description="110040810" icon="icon_guyongbing"/>
+         <ItemSpec id="225104" name="110095005" description="110095006" icon="icon_weizhishili"/>
+    <ItemSpec id="3" name="199502" description="199602" icon="image_station" />
+    <ItemSpec id="4" name="199503" description="199603" icon="image_collection" />
+    <ItemSpec id="5" name="199504" description="199604" icon="image_mop" />
+    <ItemSpec id="6" name="199505" description="199605" icon="image_universal" />
+    <ItemSpec id="7" name="199506" description="199606" icon="image_produce" />
+    <ItemSpec id="8" name="199507" description="199607" icon="image_military" />
+    <ItemSpec id="9" name="199508" description="199608" icon="image_auxiliary" />
+    <ItemSpec id="10" name="199509" description="199609" icon="image_warrior" />
+    <ItemSpec id="11" name="199510" description="199610" icon="image_shooter" />
+    <ItemSpec id="12" name="199511" description="199611" icon="image_modifiedcars" />
+    <ItemSpec id="13" name="199512" description="199612" icon="image_commander" />
+    <ItemSpec id="14" name="199513" description="199613" icon="image_food" />
+    <ItemSpec id="15" name="199514" description="199614" icon="image_wood" />
+    <ItemSpec id="16" name="199515" description="199615" icon="image_fuel" />
+    <ItemSpec id="17" name="199516" description="199616" icon="image_lronmaking" />
+    <ItemSpec id="18" name="199517" description="199617" icon="image_gold" />
+    <ItemSpec id="19" name="199518" description="199618" icon="image_technology" />
+    <ItemSpec id="20" name="199519" description="199619" icon="image_treatment" />
+    <ItemSpec id="21" name="199520" description="199620" icon="image_transction" />
+    <ItemSpec id="22" name="199521" description="199621" icon="image_build" />
+    <ItemSpec id="23" name="199522" description="199622" icon="image_melee" />
+    <ItemSpec id="24" name="199523" description="199623" icon="image_remotely" />
+    <ItemSpec id="25" name="199524" description="199624" icon="image_defense" />
+    <ItemSpec id="26" name="199525" description="199625" icon="image_support" />
+    <ItemSpec id="27" name="199526" description="199626" icon="image_maneuver" />
+    <ItemSpec id="225000" name="113347" description="113352" icon="icon_zonghe" />
+    <ItemSpec id="225001" name="220011" description="113353" icon="icon_yongshi" />
+    <ItemSpec id="225002" name="220012" description="113354" icon="icon_sheshou" />
+    <ItemSpec id="225003" name="220013" description="113355" icon="icon_gaizhuangche" />
+    <ItemSpec id="225004" name="200600" description="113356" icon="icon_zhuzha" />
+    <ItemSpec id="225005" name="113348" description="113357" icon="icon_shuchu" />
+    <ItemSpec id="225006" name="113349" description="113358" icon="icon_fangyu" />
+    <ItemSpec id="225007" name="113350" description="113359" icon="icon_fuzhu" />
+    <ItemSpec id="225008" name="113351" description="113360" icon="icon_shoucheng" />
+    <ItemSpec id="225009" name="115971" description="113361" icon="icon_jianzhu" />
+    <ItemSpec id="225010" name="115974" description="113362" icon="icon_keji" />
+    <ItemSpec id="225011" name="83200028" description="113363" icon="icon_chaopiao" />
+    <ItemSpec id="225012" name="102211" description="113364" icon="icon_liangshi" />
+    <ItemSpec id="225013" name="102209" description="113365" icon="icon_ranyou" />
+    <ItemSpec id="225014" name="102210" description="113366" icon="icon_mucai" />
+    <ItemSpec id="225015" name="102208" description="113367" icon="icon_tie" />
+    <ItemSpec id="225016" name="172025" description="113368" icon="icon_yiliao" />
+    <ItemSpec id="225017" name="102276" description="113369" icon="icon_xunlian" />
+
+    <ItemSpec id="300001" name="110402036" description="110402040" icon="image_pet_defense" />
+    <ItemSpec id="300002" name="110402037" description="110402041" icon="image_pet_attack" />
+    <ItemSpec id="300003" name="110402038" description="110402042" icon="image_pet_control" />
+    <ItemSpec id="300004" name="110402039" description="110402043" icon="image_pet_support" />
+    <ItemSpec id="300005" name="110402039" description="110402043" icon="image_pet_cure" />
+
+    </Group>
+</tns:database>

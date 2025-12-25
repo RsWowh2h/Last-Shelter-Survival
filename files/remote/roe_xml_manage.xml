@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="mapping">
+	<ItemSpec id="1" type="252" path="roe_new_hero_skills.xml" />
+    <ItemSpec id="2" type="273" path="roe_field_monster.xml" />
+    <ItemSpec id="3" type="0" path="roe_database1.local.xml" />
+    <ItemSpec id="4" type="43" path="roe_recharge.xml" />
+    <ItemSpec id="5" type="298" path="roe_building.xml" />
+    <ItemSpec id="6" type="25" path="roe_exchange_page.xml" />
+    <ItemSpec id="7" type="282" path="roe_equip_info_new.xml" />
+    <ItemSpec id="8" type="317" path="roe_help_link.xml" />
+	<ItemSpec id="9" type="258" path="roe_skill.xml" />	
+	<ItemSpec id="10" type="406" path="roe_alliancescience2.xml" />		
+    </Group>
+	
+    <Group id="replace">
+    <ItemSpec id="1" type="268" path="roe_guide0.xml" />
+    <ItemSpec id="2" type="267" path="roe_plot0.xml" />
+    <ItemSpec id="3" type="262" path="roe_world_season.xml" />
+    <ItemSpec id="4" type="426" path="roe_zones_limit.xml" />
+    </Group>	
+	
+</tns:database>

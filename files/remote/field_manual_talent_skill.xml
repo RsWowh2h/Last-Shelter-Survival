@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="field_manual_talent_skill">
+
+<ItemSpec id="10000" level="0" max_level="2" cost="60" march_type="0" march_effect="spineFieldManualFangyu1" effective_time="1200" goto="50013" name="110453067" icon="skill_04" description="110452005" des_value="100;100;40;1200;22"/>
+<ItemSpec id="10001" level="1" max_level="2" cost="60" effect="100842:100;100848:100;100854:40" march_type="0" march_effect="spineFieldManualFangyu2" cooling_time="79200" effective_time="1200" associated_point="5001301" goto="50013" name="110453067" icon="skill_04" description="110452005" des_value="100;100;40;1200;22"/>
+<ItemSpec id="10002" level="2" max_level="2" cost="80" effect="100842:150;100848:150;100854:60" march_type="0" march_effect="spineFieldManualFangyu1" cooling_time="79200" effective_time="1200" associated_point="5001302" goto="50013" name="110453067" icon="skill_04" description="110452005" des_value="150;150;60;1200;22"/>
+<ItemSpec id="20000" level="0" max_level="2" cost="60" march_type="0" march_effect="spineFieldManualJingong1" effective_time="1200" goto="50014" name="110453068" icon="skill_02" description="110452002" des_value="100;100;40;1200;22"/>
+<ItemSpec id="20001" level="1" max_level="2" cost="60" effect="100841:100;100847:100;100853:40" march_type="0" march_effect="spineFieldManualJingong2" cooling_time="79200" effective_time="1200" associated_point="5001401" goto="50014" name="110453068" icon="skill_02" description="110452002" des_value="100;100;40;1200;22"/>
+<ItemSpec id="20002" level="2" max_level="2" cost="80" effect="100841:150;100847:150;100853:60" march_type="0" march_effect="spineFieldManualJingong1" cooling_time="79200" effective_time="1200" associated_point="5001402" goto="50014" name="110453068" icon="skill_02" description="110452002" des_value="150;150;60;1200;22"/>
+<ItemSpec id="30000" level="0" max_level="2" cost="60" march_type="38" march_effect="spineFieldManualFangyu1" effective_time="1200" goto="50021" name="110453069" icon="skill_05" description="110452011" des_value="100;100;40;1200;22"/>
+<ItemSpec id="30001" level="1" max_level="2" cost="60" effect="100844:100;100850:100;100856:40" march_type="38" march_effect="spineFieldManualFangyu2" cooling_time="79200" effective_time="1200" associated_point="5002101" goto="50021" name="110453069" icon="skill_05" description="110452011" des_value="100;100;40;1200;22"/>
+<ItemSpec id="30002" level="2" max_level="2" cost="80" effect="100844:150;100850:150;100856:60" march_type="38" march_effect="spineFieldManualFangyu1" cooling_time="79200" effective_time="1200" associated_point="5002102" goto="50021" name="110453069" icon="skill_05" description="110452011" des_value="150;150;60;1200;22"/>
+<ItemSpec id="40000" level="0" max_level="2" cost="60" march_type="38" march_effect="spineFieldManualJingong1" effective_time="1200" goto="50022" name="110453070" icon="skill_01" description="110452008" des_value="100;100;40;1200;22"/>
+<ItemSpec id="40001" level="1" max_level="2" cost="60" effect="100843:100;100849:100;100855:40" march_type="38" march_effect="spineFieldManualJingong2" cooling_time="79200" effective_time="1200" associated_point="5002201" goto="50022" name="110453070" icon="skill_01" description="110452008" des_value="100;100;40;1200;22"/>
+<ItemSpec id="40002" level="2" max_level="2" cost="80" effect="100843:150;100849:150;100855:60" march_type="38" march_effect="spineFieldManualJingong1" cooling_time="79200" effective_time="1200" associated_point="5002202" goto="50022" name="110453070" icon="skill_01" description="110452008" des_value="150;150;60;1200;22"/>
+<ItemSpec id="50000" level="0" max_level="2" cost="60" march_type="4|53|73|74" march_effect="spineFieldManualFangyu1" effective_time="1200" goto="50029" name="110453071" icon="skill_03" description="110452014" des_value="100;100;40;1200;22"/>
+<ItemSpec id="50001" level="1" max_level="2" cost="60" effect="100846:100;100852:100;100858:40" march_type="4|53|73|74" march_effect="spineFieldManualFangyu2" cooling_time="79200" effective_time="1200" associated_point="5002901" goto="50029" name="110453071" icon="skill_03" description="110452014" des_value="100;100;40;1200;22"/>
+<ItemSpec id="50002" level="2" max_level="2" cost="80" effect="100846:150;100852:150;100858:60" march_type="4|53|73|74" march_effect="spineFieldManualFangyu1" cooling_time="79200" effective_time="1200" associated_point="5002902" goto="50029" name="110453071" icon="skill_03" description="110452014" des_value="150;150;60;1200;22"/>
+<ItemSpec id="60000" level="0" max_level="2" cost="60" march_type="4|53|73|74" march_effect="spineFieldManualJingong1" effective_time="1200" goto="50030" name="110453072" icon="skill_06" description="110452017" des_value="100;100;40;1200;22"/>
+<ItemSpec id="60001" level="1" max_level="2" cost="60" effect="100845:100;100851:100;100857:40" march_type="4|53|73|74" march_effect="spineFieldManualJingong2" cooling_time="79200" effective_time="1200" associated_point="5003001" goto="50030" name="110453072" icon="skill_06" description="110452017" des_value="100;100;40;1200;22"/>
+<ItemSpec id="60002" level="2" max_level="2" cost="80" effect="100845:150;100851:150;100857:60" march_type="4|53|73|74" march_effect="spineFieldManualJingong1" cooling_time="79200" effective_time="1200" associated_point="5003002" goto="50030" name="110453072" icon="skill_06" description="110452017" des_value="150;150;60;1200;22"/>
+
+
+
+
+	</Group>
+</tns:database>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="heimdall_fightback">  
+	<ItemSpec id="57779" vibration_times="5|15|30|45|60" vibration_tips="110554260|110554260|110554260|110554260|110554260" guide_id="80002000|0|80002003|0|0"/>
+	<ItemSpec id="57780" vibration_times="5|15|30|45|60" vibration_tips="110554260|110554260|110554260|110554260|110554260" guide_id="80002007|0|0|0|0" attack_popup="110554118"/>
+	<ItemSpec id="57781" count_down="1" guide_id="80002012" tip_content="110554245" dialogue="110554246" dialogue_pic="hero131"/>
+	<ItemSpec id="57782" question="110554126" option_a="110554129|110554130|110554134|110554136|110554141|110554143|110554145" option_b="110554127|110554132|110554135|110554137|110554140|110554144|110554146" option_c="110554128|110554131|110554133|110554138|110554139|110554142|110554147" info_goods="222008|222009|222010|222011|222012|222013|222014" vote_answer="1|2|2|3|1|2|3"/>
+	<ItemSpec id="57783" boss_id="310111" show_rank="1|2|3|4-10|11-20" rank_limit="20"/>
+	</Group> 
+</tns:database>

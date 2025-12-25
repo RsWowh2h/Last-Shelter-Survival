@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/001/XMLSchema-instance">
+<Group id="block_unlock">
+
+
+     <ItemSpec id="1" block_id="27" base_lv="1" new_base_lv="0" />
+    <ItemSpec id="2" block_id="35" base_lv="1" new_base_lv="1" />
+    <ItemSpec id="3" block_id="36" base_lv="1" new_base_lv="2" />
+    <ItemSpec id="4" block_id="28" base_lv="1" new_base_lv="3" />
+    <ItemSpec id="5" block_id="20" base_lv="1" new_base_lv="4" />
+    <ItemSpec id="6" block_id="19" base_lv="1" new_base_lv="5" />
+    <ItemSpec id="7" block_id="18" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="8" block_id="26" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="9" block_id="34" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="10" block_id="42" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="11" block_id="43" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="12" block_id="44" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="13" block_id="45" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="14" block_id="37" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="15" block_id="29" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="16" block_id="21" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="17" block_id="13" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="18" block_id="12" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="19" block_id="11" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="20" block_id="10" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="21" block_id="9" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="22" block_id="17" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="23" block_id="25" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="24" block_id="33" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="25" block_id="41" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="26" block_id="49" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="27" block_id="50" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="28" block_id="51" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="29" block_id="52" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="30" block_id="53" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="31" block_id="54" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="32" block_id="46" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="33" block_id="38" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="34" block_id="30" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="35" block_id="22" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="36" block_id="14" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="37" block_id="6" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="38" block_id="5" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="39" block_id="4" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="40" block_id="3" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="41" block_id="2" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="42" block_id="1" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="43" block_id="0" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="44" block_id="8" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="45" block_id="16" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="46" block_id="24" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="47" block_id="32" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="48" block_id="40" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="49" block_id="48" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="50" block_id="56" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="51" block_id="57" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="52" block_id="58" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="53" block_id="59" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="54" block_id="60" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="55" block_id="61" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="56" block_id="62" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="57" block_id="63" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="58" block_id="55" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="59" block_id="47" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="60" block_id="39" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="61" block_id="31" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="62" block_id="23" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="63" block_id="15" base_lv="1" new_base_lv="6" />
+    <ItemSpec id="64" block_id="7" base_lv="1" new_base_lv="6" />
+
+
+	
+	</Group>
+	</tns:database>

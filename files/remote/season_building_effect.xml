@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="season_building_effect">
+		<ItemSpec id="1" effect="1" para1="0" r="0" description="110111483" percent="0" correct="1" value="0"/>
+		<ItemSpec id="2" effect="1" para1="50" r="1" description="110111483" percent="0" correct="1" value="50"/>
+		<ItemSpec id="3" effect="1" para1="100" r="1" description="110111483" percent="0" correct="1" value="100"/>
+		<ItemSpec id="4" effect="1" para1="150" r="2" description="110111483" percent="0" correct="1" value="150"/>
+		<ItemSpec id="5" effect="1" para1="200" r="2" description="110111483" percent="0" correct="1" value="200"/>
+		<ItemSpec id="6" effect="1" para1="250" r="3" description="110111483" percent="0" correct="1" value="250"/>
+		<ItemSpec id="7" effect="2" para1="0" r="0" description="110111484" percent="1" correct="1" value="0"/>
+		<ItemSpec id="8" effect="2" para1="5" r="1" description="110111484" percent="1" correct="1" value="5"/>
+		<ItemSpec id="9" effect="2" para1="10" r="1" description="110111484" percent="1" correct="1" value="10"/>
+		<ItemSpec id="10" effect="2" para1="15" r="2" description="110111484" percent="1" correct="1" value="15"/>
+		<ItemSpec id="11" effect="2" para1="20" r="2" description="110111484" percent="1" correct="1" value="20"/>
+		<ItemSpec id="12" effect="2" para1="25" r="3" description="110111484" percent="1" correct="1" value="25"/>
+		<ItemSpec id="13" effect="3" para1="0" r="0" description="110111937|110111938" percent="1|0" correct="1|1" value="0|0"/>
+		<ItemSpec id="14" effect="3" para1="50030" r="1" description="110111937|110111938" percent="1|0" correct="1|1" value="1|2000"/>
+		<ItemSpec id="15" effect="3" para1="50031" r="1" description="110111937|110111938" percent="1|0" correct="1|1" value="2|4000"/>
+		<ItemSpec id="16" effect="3" para1="50032" r="2" description="110111937|110111938" percent="1|0" correct="1|1" value="3|6000"/>
+		<ItemSpec id="17" effect="3" para1="50033" r="2" description="110111937|110111938" percent="1|0" correct="1|1" value="4|8000"/>
+		<ItemSpec id="18" effect="3" para1="50034" r="3" description="110111937|110111938" percent="1|0" correct="1|1" value="5|10000"/>
+		<ItemSpec id="19" effect="4" para1="0" para2="0" r="0" description="110111492|110111493" percent="0|1" correct="1|1" value="0|0"/>
+		<ItemSpec id="20" effect="4" para1="8" para2="40" r="1" description="110111492|110111493" percent="0|1" correct="1|1" value="8|40"/>
+		<ItemSpec id="21" effect="4" para1="10" para2="50" r="2" description="110111492|110111493" percent="0|1" correct="1|1" value="10|50"/>
+		<ItemSpec id="22" effect="4" para1="12" para2="60" r="2" description="110111492|110111493" percent="0|1" correct="1|1" value="12|60"/>
+		<ItemSpec id="23" effect="4" para1="13" para2="70" r="2" description="110111492|110111493" percent="0|1" correct="1|1" value="13|70"/>
+		<ItemSpec id="24" effect="4" para1="14" para2="80" r="2" description="110111492|110111493" percent="0|1" correct="1|1" value="14|80"/>
+		<ItemSpec id="25" effect="6" para1="300" para2="3" para3="0,0" para4="1" r="0" description="110111495|110111496" percent="0|0" correct="1|1" value="0|0"/>
+		<ItemSpec id="26" effect="6" para1="300" para2="3" para3="1100,0.8" para4="1" r="10" description="110111495|110111496" percent="0|0" correct="1|1" value="10|1100"/>
+		<ItemSpec id="27" effect="6" para1="300" para2="3" para3="1600,0.8" para4="1" r="12" description="110111495|110111496" percent="0|0" correct="1|1" value="12|1600"/>
+		<ItemSpec id="28" effect="6" para1="300" para2="3" para3="2100,0.8" para4="2" r="14" description="110111495|110111496" percent="0|0" correct="1|1" value="14|2100"/>
+		<ItemSpec id="29" effect="6" para1="300" para2="3" para3="2600,0.8" para4="2" r="16" description="110111495|110111496" percent="0|0" correct="1|1" value="16|2600"/>
+		<ItemSpec id="30" effect="6" para1="300" para2="3" para3="3100,0.8" para4="2" r="18" description="110111495|110111496" percent="0|0" correct="1|1" value="18|3100"/>
+		<ItemSpec id="31" effect="5" para1="775,0;776,0" description="110110140|110110141" percent="1|1" correct="1|1" symbol="2|2" value="0|0" r="0"/>
+		<ItemSpec id="32" effect="5" para1="775,30;776,30" description="110110140|110110141" percent="1|1" correct="1|1" symbol="2|2" value="30|30" r="0"/>
+		<ItemSpec id="33" effect="5" para1="775,70;776,70" description="110110140|110110141" percent="1|1" correct="1|1" symbol="2|2" value="70|70" r="0"/>
+		<ItemSpec id="34" effect="5" para1="775,110;776,110" description="110110140|110110141" percent="1|1" correct="1|1" symbol="2|2" value="110|110" r="0"/>
+		<ItemSpec id="35" effect="5" para1="775,150;776,150" description="110110140|110110141" percent="1|1" correct="1|1" symbol="2|2" value="150|150" r="0"/>
+		<ItemSpec id="36" effect="5" para1="775,190;776,190" description="110110140|110110141" percent="1|1" correct="1|1" symbol="2|2" value="190|190" r="0"/>
+	</Group>
+</tns:database>

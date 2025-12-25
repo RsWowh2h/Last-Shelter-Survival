@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="GC_hpspring">
+		<ItemSpec id="1" range_low="0" range_high="84" value="360"/>
+		<ItemSpec id="2" range_low="84" range_high="90" value="280"/>
+		<ItemSpec id="3" range_low="90" range_high="95" value="160"/>
+		<ItemSpec id="4" range_low="95" range_high="100" value="120"/>
+		<ItemSpec id="5" range_low="100" range_high="140" value="100"/>
+		<ItemSpec id="6" range_low="140" range_high="200" value="100"/>
+		<ItemSpec id="7" range_low="200" range_high="300" value="100"/>
+		<ItemSpec id="8" range_low="300" range_high="500" value="100"/>
+		<ItemSpec id="9" range_low="500" range_high="100000001" value="100"/>
+	</Group>
+</tns:database>

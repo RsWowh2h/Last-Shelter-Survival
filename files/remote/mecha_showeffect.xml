@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="mecha_showeffect">
+
+    <ItemSpec id="1001" effect="26010" describe="110022383" type="1" show="1" tab="10002"/>
+    <ItemSpec id="1002" effect="26030" describe="110110197" type="1" show="2" tab="10002"/>
+    <ItemSpec id="1003" effect="26011;26012" describe="113800" type="1" show="21" tab="10004"/>
+    <ItemSpec id="1004" effect="26031;26032" describe="113801" type="1" show="22" tab="10004"/>
+    <ItemSpec id="1005" effect="26015;26016" describe="113808" type="1" show="41" tab="10005"/>
+    <ItemSpec id="1006" effect="26035;26036" describe="113809" type="1" show="42" tab="10005"/>
+    <ItemSpec id="1007" effect="26013;26014" describe="113804" type="1" show="61" tab="10006"/>
+    <ItemSpec id="1008" effect="26033;26034" describe="113805" type="1" show="62" tab="10006"/>
+    <ItemSpec id="1009" effect="40000" describe="110110145" type="2" show="101" tab="10002"/>
+    <ItemSpec id="1010" effect="25020" describe="90700010" type="2" show="102" tab="10002"/>
+    <ItemSpec id="1011" effect="26590" describe="110110198" type="1" show="3" tab="10002"/>
+    <ItemSpec id="1012" effect="26591;26592" describe="90821324" type="1" show="23" tab="10004"/>
+    <ItemSpec id="1013" effect="26593;26594" describe="90821636" type="1" show="63" tab="10006"/>
+	<ItemSpec id="1014" effect="26595;26596" describe="90821537" type="1" show="43" tab="10005"/>
+	<ItemSpec id="1015" effect="26680" describe="110110199" type="1" show="4" tab="10002"/>
+	<ItemSpec id="1016" effect="26681;26682" describe="90821325" type="1" show="24" tab="10004"/>
+	<ItemSpec id="1017" effect="26683;26684" describe="90821637" type="1" show="64" tab="10006"/>
+	<ItemSpec id="1018" effect="26685;26686" describe="90821538" type="1" show="44" tab="10005"/>
+	<ItemSpec id="1019" effect="26050" describe="110110217" type="1" show="5" tab="10002"/>
+	<ItemSpec id="1020" effect="26051;26052" describe="113802" type="1" show="25" tab="10004"/>
+	<ItemSpec id="1021" effect="26055;26056" describe="79032360" type="1" show="45" tab="10005"/>
+	<ItemSpec id="1022" effect="26053;26054" describe="113806" type="1" show="65" tab="10006"/>
+	<ItemSpec id="1023" effect="25200" describe="76601799" type="1" show="7" tab="10002"/>
+	<ItemSpec id="1024" effect="25201;25202" describe="113835" type="1" show="27" tab="10004"/>
+	<ItemSpec id="1025" effect="25203;25204" describe="113837" type="1" show="67" tab="10006"/>
+	<ItemSpec id="1026" effect="25205;25206" describe="113836" type="1" show="47" tab="10005"/>
+	<ItemSpec id="1027" effect="25210" describe="76601800" type="1" show="8" tab="10002"/>
+		<ItemSpec id="1028" effect="25211;25212" describe="113842" type="1" show="28" tab="10004"/>
+		<ItemSpec id="1029" effect="25213;25214" describe="113844" type="1" show="68" tab="10006"/>
+		<ItemSpec id="1030" effect="25215;25216" describe="113843" type="1" show="48" tab="10005"/>
+		<ItemSpec id="1031" effect="25220" describe="77110003" type="1" show="9" tab="10002"/>
+		<ItemSpec id="1032" effect="25221;25222" describe="113849" type="1" show="29" tab="10004"/>
+		<ItemSpec id="1033" effect="25223;25224" describe="113851" type="1" show="69" tab="10006"/>
+		<ItemSpec id="1034" effect="25225;25226" describe="113850" type="1" show="49" tab="10005"/>
+		<ItemSpec id="1035" effect="25230" describe="77110004" type="1" show="10" tab="10002"/>
+		<ItemSpec id="1036" effect="25231;25232" describe="113859" type="1" show="30" tab="10004"/>
+		<ItemSpec id="1037" effect="25233;25234" describe="113861" type="1" show="70" tab="10006"/>
+		<ItemSpec id="1038" effect="25235;25236" describe="113860" type="1" show="50" tab="10005"/>
+		<ItemSpec id="1039" effect="26060" describe="110110216" type="1" show="6" tab="10002"/>
+		<ItemSpec id="1040" effect="26061;26062" describe="90821336" type="1" show="26" tab="10004"/>
+		<ItemSpec id="1041" effect="26065;26066" describe="79022061" type="1" show="46" tab="10005"/>
+		<ItemSpec id="1042" effect="26063;26064" describe="90821633" type="1" show="66" tab="10006"/>
+		<ItemSpec id="1043" effect="29010" describe="88001463" type="1" show="11" tab="10002"/>
+		<ItemSpec id="1044" effect="29020" describe="88001464" type="1" show="12" tab="10002"/>
+		<ItemSpec id="1045" effect="60503" describe="110400430" type="2" show="13" tab="10000"/>
+		<ItemSpec id="1046" effect="60504" describe="110400431" type="2" show="14" tab="10000"/>
+		<ItemSpec id="1047" effect="60505" describe="110400432" type="2" show="15" tab="10000"/>
+		<ItemSpec id="1048" effect="60506" describe="110400433" type="2" show="16" tab="10000"/>
+		<ItemSpec id="1049" effect="60507" describe="110400434" type="2" show="17" tab="10000"/>
+		<ItemSpec id="1050" effect="60508" describe="110400435" type="2" show="18" tab="10000"/>
+
+</Group>
+<Group id="mecha_skin_showeffect">
+
+		<ItemSpec id="2001" effect="26010" describe="110022383" type="1" show="1" tab="10002"/>
+		<ItemSpec id="2002" effect="26030" describe="110110197" type="1" show="2" tab="10002"/>
+		<ItemSpec id="2003" effect="26011;26012" describe="113800" type="1" show="21" tab="10004"/>
+		<ItemSpec id="2004" effect="26031;26032" describe="113801" type="1" show="22" tab="10004"/>
+		<ItemSpec id="2005" effect="26015;26016" describe="113808" type="1" show="41" tab="10005"/>
+		<ItemSpec id="2006" effect="26035;26036" describe="113809" type="1" show="42" tab="10005"/>
+		<ItemSpec id="2007" effect="26013;26014" describe="113804" type="1" show="61" tab="10006"/>
+		<ItemSpec id="2008" effect="26033;26034" describe="113805" type="1" show="62" tab="10006"/>
+		<ItemSpec id="2009" effect="40000" describe="110110145" type="2" show="101" tab="10002"/>
+		<ItemSpec id="2010" effect="25020" describe="90700010" type="2" show="102" tab="10002"/>
+		<ItemSpec id="2011" effect="26590" describe="110110198" type="1" show="3" tab="10002"/>
+		<ItemSpec id="2012" effect="26591;26592" describe="90821324" type="1" show="23" tab="10004"/>
+		<ItemSpec id="2013" effect="26593;26594" describe="90821636" type="1" show="63" tab="10006"/>
+		<ItemSpec id="2014" effect="26595;26596" describe="90821537" type="1" show="43" tab="10005"/>
+		<ItemSpec id="2015" effect="26680" describe="110110199" type="1" show="4" tab="10002"/>
+		<ItemSpec id="2016" effect="26681;26682" describe="90821325" type="1" show="24" tab="10004"/>
+		<ItemSpec id="2017" effect="26683;26684" describe="90821637" type="1" show="64" tab="10006"/>
+		<ItemSpec id="2018" effect="26685;26686" describe="90821538" type="1" show="44" tab="10005"/>
+		<ItemSpec id="2019" effect="26050" describe="110110217" type="1" show="5" tab="10002"/>
+		<ItemSpec id="2020" effect="26051;26052" describe="113802" type="1" show="25" tab="10004"/>
+		<ItemSpec id="2021" effect="26055;26056" describe="79032360" type="1" show="45" tab="10005"/>
+		<ItemSpec id="2022" effect="26053;26054" describe="113806" type="1" show="65" tab="10006"/>
+		<ItemSpec id="2023" effect="25200" describe="76601799" type="1" show="7" tab="10002"/>
+		<ItemSpec id="2024" effect="25201;25202" describe="113835" type="1" show="27" tab="10004"/>
+		<ItemSpec id="2025" effect="25203;25204" describe="113837" type="1" show="67" tab="10006"/>
+		<ItemSpec id="2026" effect="25205;25206" describe="113836" type="1" show="47" tab="10005"/>
+		<ItemSpec id="2027" effect="25210" describe="76601800" type="1" show="8" tab="10002"/>
+		<ItemSpec id="2028" effect="25211;25212" describe="113842" type="1" show="28" tab="10004"/>
+		<ItemSpec id="2029" effect="25213;25214" describe="113844" type="1" show="68" tab="10006"/>
+		<ItemSpec id="2030" effect="25215;25216" describe="113843" type="1" show="48" tab="10005"/>
+		<ItemSpec id="2031" effect="25220" describe="77110003" type="1" show="9" tab="10002"/>
+		<ItemSpec id="2032" effect="25221;25222" describe="113849" type="1" show="29" tab="10004"/>
+		<ItemSpec id="2033" effect="25223;25224" describe="113851" type="1" show="69" tab="10006"/>
+		<ItemSpec id="2034" effect="25225;25226" describe="113850" type="1" show="49" tab="10005"/>
+		<ItemSpec id="2035" effect="25230" describe="77110004" type="1" show="10" tab="10002"/>
+		<ItemSpec id="2036" effect="25231;25232" describe="113859" type="1" show="30" tab="10004"/>
+		<ItemSpec id="2037" effect="25233;25234" describe="113861" type="1" show="70" tab="10006"/>
+		<ItemSpec id="2038" effect="25235;25236" describe="113860" type="1" show="50" tab="10005"/>
+		<ItemSpec id="2039" effect="26060" describe="110110216" type="1" show="6" tab="10002"/>
+		<ItemSpec id="2040" effect="26061;26062" describe="90821336" type="1" show="26" tab="10004"/>
+		<ItemSpec id="2041" effect="26065;26066" describe="79022061" type="1" show="46" tab="10005"/>
+		<ItemSpec id="2042" effect="26063;26064" describe="90821633" type="1" show="66" tab="10006"/>
+		<ItemSpec id="2043" effect="29010" describe="88001463" type="1" show="11" tab="10002"/>
+		<ItemSpec id="2044" effect="29020" describe="88001464" type="1" show="12" tab="10002"/>
+		<ItemSpec id="2045" effect="60503" describe="110400430" type="2" show="13" tab="10000"/>
+		<ItemSpec id="2046" effect="60504" describe="110400431" type="2" show="14" tab="10000"/>
+		<ItemSpec id="2047" effect="60505" describe="110400432" type="2" show="15" tab="10000"/>
+		<ItemSpec id="2048" effect="60506" describe="110400433" type="2" show="16" tab="10000"/>
+		<ItemSpec id="2049" effect="60507" describe="110400434" type="2" show="17" tab="10000"/>
+		<ItemSpec id="2050" effect="60508" describe="110400435" type="2" show="18" tab="10000"/>
+
+
+
+</Group>
+
+
+<Group id="mecha_skin_showeffect_all">
+
+		<ItemSpec id="3001" effect="26011;26012" describe="110400573" type="1" show="21" tab="10007"/>
+		<ItemSpec id="3002" effect="26031;26032" describe="110400574" type="1" show="22" tab="10007"/>
+		<ItemSpec id="3003" effect="26015;26016" describe="110400575" type="1" show="41" tab="10008"/>
+		<ItemSpec id="3004" effect="26035;26036" describe="110400576" type="1" show="42" tab="10008"/>
+		<ItemSpec id="3005" effect="26013;26014" describe="110400577" type="1" show="61" tab="10009"/>
+		<ItemSpec id="3006" effect="26033;26034" describe="110400578" type="1" show="62" tab="10009"/>
+		<ItemSpec id="3007" effect="26591;26592" describe="110400579" type="1" show="23" tab="10007"/>
+		<ItemSpec id="3008" effect="26593;26594" describe="110400580" type="1" show="63" tab="10009"/>
+		<ItemSpec id="3009" effect="26595;26596" describe="110400581" type="1" show="43" tab="10008"/>
+		<ItemSpec id="3010" effect="26681;26682" describe="110400582" type="1" show="24" tab="10007"/>
+		<ItemSpec id="3011" effect="26683;26684" describe="110400583" type="1" show="64" tab="10009"/>
+		<ItemSpec id="3012" effect="26685;26686" describe="110400584" type="1" show="44" tab="10008"/>
+		<ItemSpec id="3013" effect="26051;26052" describe="110400585" type="1" show="25" tab="10007"/>
+		<ItemSpec id="3014" effect="26055;26056" describe="110400586" type="1" show="45" tab="10008"/>
+		<ItemSpec id="3015" effect="26053;26054" describe="110400587" type="1" show="65" tab="10009"/>
+		<ItemSpec id="3016" effect="25201;25202" describe="110400588" type="1" show="27" tab="10007"/>
+		<ItemSpec id="3017" effect="25203;25204" describe="110400589" type="1" show="67" tab="10009"/>
+		<ItemSpec id="3018" effect="25205;25206" describe="110400590" type="1" show="47" tab="10008"/>
+		<ItemSpec id="3019" effect="25211;25212" describe="110400591" type="1" show="28" tab="10007"/>
+		<ItemSpec id="3020" effect="25213;25214" describe="110400592" type="1" show="68" tab="10009"/>
+		<ItemSpec id="3021" effect="25215;25216" describe="110400593" type="1" show="48" tab="10008"/>
+		<ItemSpec id="3022" effect="25221;25222" describe="110400594" type="1" show="29" tab="10007"/>
+		<ItemSpec id="3023" effect="25223;25224" describe="110400595" type="1" show="69" tab="10009"/>
+		<ItemSpec id="3024" effect="25225;25226" describe="110400596" type="1" show="49" tab="10008"/>
+		<ItemSpec id="3025" effect="25231;25232" describe="110400597" type="1" show="30" tab="10007"/>
+		<ItemSpec id="3026" effect="25233;25234" describe="110400598" type="1" show="70" tab="10009"/>
+		<ItemSpec id="3027" effect="25235;25236" describe="110400599" type="1" show="50" tab="10008"/>
+		<ItemSpec id="3028" effect="26061;26062" describe="110400600" type="1" show="26" tab="10007"/>
+		<ItemSpec id="3029" effect="26065;26066" describe="110400601" type="1" show="46" tab="10008"/>
+		<ItemSpec id="3030" effect="26063;26064" describe="110400602" type="1" show="66" tab="10009"/>
+		<ItemSpec id="3031" effect="60503" describe="110400603" type="2" show="13" tab="10001"/>
+		<ItemSpec id="3032" effect="60504" describe="110400604" type="2" show="14" tab="10001"/>
+		<ItemSpec id="3033" effect="60505" describe="110400605" type="2" show="15" tab="10001"/>
+		<ItemSpec id="3034" effect="60506" describe="110400606" type="2" show="16" tab="10001"/>
+		<ItemSpec id="3035" effect="60507" describe="110400607" type="2" show="17" tab="10001"/>
+		<ItemSpec id="3036" effect="60508" describe="110400608" type="2" show="18" tab="10001"/>
+		<ItemSpec id="3037" tab="10003" effect="26010" describe="110401204" type="1" show="1"/>
+		<ItemSpec id="3038" tab="10003" effect="26030" describe="110401205" type="1" show="2"/>
+		<ItemSpec id="3039" tab="10003" effect="26590" describe="110401206" type="1" show="3"/>
+		<ItemSpec id="3040" tab="10003" effect="26680" describe="110401207" type="1" show="4"/>
+		<ItemSpec id="3041" tab="10003" effect="26050" describe="110401208" type="1" show="5"/>
+		<ItemSpec id="3042" tab="10003" effect="25200" describe="110401210" type="1" show="7"/>
+		<ItemSpec id="3043" tab="10003" effect="25210" describe="110401211" type="1" show="8"/>
+		<ItemSpec id="3044" tab="10003" effect="25220" describe="110401212" type="1" show="9"/>
+		<ItemSpec id="3045" tab="10003" effect="25230" describe="110401213" type="1" show="10"/>
+		<ItemSpec id="3046" tab="10003" effect="26060" describe="110401209" type="1" show="6"/>
+		<ItemSpec id="3047" tab="10003" effect="29010" describe="88001463" type="1" show="11"/>
+		<ItemSpec id="3048" tab="10003" effect="29020" describe="88001464" type="1" show="12"/>
+
+
+
+</Group>
+
+
+	<Group id="mecha_showeffect_group">
+		<ItemSpec id="10000" title="110400643"/>
+		<ItemSpec id="10005" title="110400636"/>
+		<ItemSpec id="10006" title="110400637"/>
+		<ItemSpec id="10007" title="110400646"/>
+		<ItemSpec id="10008" title="110400647"/>
+		<ItemSpec id="10009" title="110400648"/>
+		<ItemSpec id="10001" title="110400644"/>
+		<ItemSpec id="10002" title="110400634"/>
+		<ItemSpec id="10003" title="110400645"/>
+		<ItemSpec id="10004" title="110400635"/>
+	</Group>
+</tns:database>

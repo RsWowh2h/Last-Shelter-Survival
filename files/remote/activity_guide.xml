@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="spring_activity_guide">
+  
+    <ItemSpec id="57238" show="1" />
+    <ItemSpec id="57218" show="2" />
+    <ItemSpec id="57713" show="3" />
+    <ItemSpec id="57714" show="4" />
+
+<!--id=对应activity_panel的活动id-->
+
+
+<!--测试发布-->
+<!--测试发布1-->
+<!--测试发布2-->
+<!--测试发布3-->
+<!--测试发布4-->
+<!--测试发布5-->
+<!--show=展示顺序-->
+
+
+</Group>
+
+<Group id="summer_activity_guide">
+  
+    <ItemSpec id="57716" show="1" not_started_image="huodong1" start_image="huodong1_kaiqi" />
+    <ItemSpec id="57724" show="2" not_started_image="huodong2" start_image="huodong2_kaiqi" />
+    <ItemSpec id="57722" show="3" not_started_image="huodong3" start_image="huodong3_kaiqi" />
+    <ItemSpec id="57149" show="4" not_started_image="huodong4" start_image="huodong4_kaiqi" />
+    <ItemSpec id="57723" show="5" not_started_image="huodong5" start_image="huodong5_kaiqi" />
+    <ItemSpec id="57713" show="6" not_started_image="huodong6" start_image="huodong6_kaiqi" />
+    <ItemSpec id="57715" show="7" not_started_image="huodong7" start_image="huodong7_kaiqi" />
+    <ItemSpec id="57714" show="8" not_started_image="huodong8" start_image="huodong8_kaiqi" />
+
+
+<!--id=对应activity_panel的活动id-->
+<!--show=展示顺序-->
+
+
+</Group>
+
+
+</tns:database>

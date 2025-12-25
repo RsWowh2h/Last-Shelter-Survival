@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="dialog_replace">
+
+
+<ItemSpec id="83310517" function="gvg_champion;110030283"/>
+<ItemSpec id="79000123" function="gvg_champion;110030284"/>
+<ItemSpec id="79000125" function="gvg_champion;110030285"/>
+<ItemSpec id="79000127" function="gvg_champion;110030286"/>
+<ItemSpec id="79000129" function="gvg_champion;110030287"/>
+<ItemSpec id="79000159" function="gvg_champion;110030288"/>
+<ItemSpec id="79000131" function="gvg_champion;110030289"/>
+<ItemSpec id="83310518" function="gvg_champion;110030290"/>
+<ItemSpec id="83310520" function="gvg_champion;110030291"/>
+<ItemSpec id="83310519" function="gvg_champion;110030292"/>
+<ItemSpec id="83310521" function="gvg_champion;110030293"/>
+<ItemSpec id="83310522" function="gvg_champion;110030294"/>
+<ItemSpec id="83310524" function="gvg_champion;110030295"/>
+<ItemSpec id="83310523" function="gvg_champion;110030296"/>
+<ItemSpec id="79000089" function="gvg_champion;110030297"/>
+<ItemSpec id="79000103" function="gvg_champion;110030298"/>
+<ItemSpec id="79000117" function="gvg_champion;110030299"/>
+<ItemSpec id="79000101" function="gvg_champion;110030300"/>
+<ItemSpec id="79000105" function="gvg_champion;110030301"/>
+<ItemSpec id="79000101" function="gvg_champion;110030302"/>
+<ItemSpec id="79000109" function="gvg_champion;110030303"/>
+<ItemSpec id="79000113" function="gvg_champion;110030304"/>
+<ItemSpec id="83310527" function="gvg_champion;110030305"/>
+<ItemSpec id="83310529" function="gvg_champion;110030306"/>
+<ItemSpec id="79000107" function="gvg_champion;110030307"/>
+<ItemSpec id="83310516" function="gvg_champion;110030308"/>
+<ItemSpec id="83310516" function="gvg_champion;110030309"/>
+<ItemSpec id="79000091" function="gvg_champion;115456"/>
+<ItemSpec id="83310514" function="gvg_champion;77110108"/>
+<ItemSpec id="79000099" function="gvg_champion;110030300"/>
+<ItemSpec id="79000151" function="gvg_champion;121060"/>
+<ItemSpec id="79000093" function="gvg_champion;79000092"/>
+<ItemSpec id="79000153" function="gvg_champion;113924"/>
+<ItemSpec id="79000168" function="gvg_champion;110030310"/>
+<ItemSpec id="79000160" function="gvg_champion;110030311"/>
+<ItemSpec id="79000161" function="gvg_champion;110030312"/>
+<ItemSpec id="79000164" function="gvg_champion;110030313"/>
+<ItemSpec id="79000165" function="gvg_champion;110030314"/>
+<ItemSpec id="90600651" function="battlepass_parachange;100394"/>
+
+
+ </Group >
+
+</tns:database>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="water_garden_level">
+		<ItemSpec id="1" name="111850120" need_building="400000;1" terrain_res="1" efficiency_red="25" efficiency_yellow="75" efficiency_wilt="0" upgrade_lush_time="600" trigger_building_id="400000" plot_id="111000131"/>
+		<ItemSpec id="2" name="111850121" need_building="432000;1" terrain_res="2" efficiency_red="25" efficiency_yellow="75" efficiency_wilt="50" upgrade_lush_time="600" trigger_building_id="432000" plot_id="111000132"/>
+		<ItemSpec id="3" name="111850122" need_building="432000;3" terrain_res="3" efficiency_red="25" efficiency_yellow="75" efficiency_wilt="50" upgrade_lush_time="600" trigger_building_id="432000" plot_id="111000133"/>
+		<ItemSpec id="4" name="111850123" need_building="432000;6" terrain_res="4" efficiency_red="25" efficiency_yellow="75" efficiency_wilt="50" upgrade_lush_time="600" trigger_building_id="432000" plot_id="111000134"/>
+	</Group>
+</tns:database>

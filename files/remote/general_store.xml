@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="general_store">
+    <ItemSpec id="1" shop_type="1" name="88000484" currency_item="212000" building="483000" order="1" />
+    <ItemSpec id="2" shop_type="2" name="190900" building="535000" order="2" />
+    <ItemSpec id="3" shop_type="3" name="90821117" currency_item="212009" building="429000" interface_jump="1" order="3" />
+    <ItemSpec id="4" shop_type="5" name="90600894" currency_item="215206|209945|209922|200120" building="489000" order="5" />
+    <ItemSpec id="5" shop_type="7" name="111002029" currency_item="200129" building="571000" order="6" />
+    <ItemSpec id="6" shop_type="12" name="110110315" currency_item="217210" order="7" />
+    <ItemSpec id="7" shop_type="999" name="83530013" building="488000" interface_jump="1" order="8" />
+    <ItemSpec id="8" shop_type="10" name="209015" currency_item="201000" building="1000000" order="9" />
+    <ItemSpec id="9" shop_type="27" name="110110895" currency_item="217212" order="10" />
+    <ItemSpec id="10" shop_type="38" name="112141001" currency_item="510401" order="4" />
+    <ItemSpec id="11" shop_type="43" name="110040724" currency_item="215735" order="11" />
+
+</Group>
+</tns:database>

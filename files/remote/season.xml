@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="season">
+    <ItemSpec id="599900" lv="4" name="147000" icon="FB_IC_zuanshi"/>
+    <ItemSpec id="599901" lv="3" name="147001" icon="FB_IC_huangjin"/>
+    <ItemSpec id="599902" lv="2" name="147002" icon="FB_IC_baiyin"/>
+
+</Group>
+</tns:database>

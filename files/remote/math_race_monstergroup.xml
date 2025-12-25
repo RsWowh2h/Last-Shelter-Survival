@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="math_race_monstergroup">
+		<ItemSpec id="1" MonsterGroup="a05" Monsters="a_1;5"/>
+		<ItemSpec id="2" MonsterGroup="a05" Monsters="a_1;4"/>
+		<ItemSpec id="3" MonsterGroup="a05" Monsters="a_1;7"/>
+		<ItemSpec id="4" MonsterGroup="a05" Monsters="a_1;8"/>
+		<ItemSpec id="5" MonsterGroup="a05" Monsters="a_1;6"/>
+		<ItemSpec id="6" MonsterGroup="a09" Monsters="a_1;9"/>
+		<ItemSpec id="7" MonsterGroup="aBoss" Monsters="a_4;1"/>
+		<ItemSpec id="8" MonsterGroup="aBoss" Monsters="a_4;1|a_2;2"/>
+		<ItemSpec id="9" MonsterGroup="b05" Monsters="b_1;4"/>
+		<ItemSpec id="10" MonsterGroup="b05" Monsters="b_1;5"/>
+		<ItemSpec id="11" MonsterGroup="b09" Monsters="b_1;6"/>
+		<ItemSpec id="12" MonsterGroup="b09" Monsters="b_1;7"/>
+		<ItemSpec id="13" MonsterGroup="b09" Monsters="b_1;8"/>
+		<ItemSpec id="14" MonsterGroup="b09" Monsters="b_1;9"/>
+		<ItemSpec id="15" MonsterGroup="bBoss" Monsters="b_4;1"/>
+		<ItemSpec id="16" MonsterGroup="bBoss" Monsters="b_4;2|b_2;4|b_1;2"/>
+		<ItemSpec id="17" MonsterGroup="bBoss" Monsters="b_4;2|b_2;6"/>
+		<ItemSpec id="18" MonsterGroup="c05" Monsters="c_1;5"/>
+		<ItemSpec id="19" MonsterGroup="c05" Monsters="c_1;4"/>
+		<ItemSpec id="20" MonsterGroup="c05" Monsters="c_1;3|c_2;1"/>
+		<ItemSpec id="21" MonsterGroup="c05" Monsters="c_1;2|c_2;3"/>
+		<ItemSpec id="22" MonsterGroup="c05" Monsters="c_1;1|c_2;2"/>
+		<ItemSpec id="23" MonsterGroup="c09" Monsters="c_1;9"/>
+		<ItemSpec id="24" MonsterGroup="c09" Monsters="c_1;5|c_2;4"/>
+		<ItemSpec id="25" MonsterGroup="c09" Monsters="c_1;3|c_2;6"/>
+		<ItemSpec id="26" MonsterGroup="cBoss" Monsters="c_4;2|c_2;4|c_1;2"/>
+		<ItemSpec id="27" MonsterGroup="cBoss" Monsters="c_4;2|c_2;6"/>
+		<ItemSpec id="28" MonsterGroup="d05" Monsters="d_1;5"/>
+		<ItemSpec id="29" MonsterGroup="d05" Monsters="d_1;4"/>
+		<ItemSpec id="30" MonsterGroup="d05" Monsters="d_1;3|d_2;1"/>
+		<ItemSpec id="31" MonsterGroup="d05" Monsters="d_1;2|d_2;3"/>
+		<ItemSpec id="32" MonsterGroup="d05" Monsters="d_1;1|d_2;2"/>
+		<ItemSpec id="33" MonsterGroup="d09" Monsters="d_1;9"/>
+		<ItemSpec id="34" MonsterGroup="d09" Monsters="d_1;5|d_2;4"/>
+		<ItemSpec id="35" MonsterGroup="d09" Monsters="d_1;3|d_2;6"/>
+		<ItemSpec id="36" MonsterGroup="dBoss" Monsters="d_4;2|d_2;4|d_1;2"/>
+		<ItemSpec id="37" MonsterGroup="dBoss" Monsters="d_4;2|d_2;6"/>
+		<ItemSpec id="38" MonsterGroup="bigBoss" Monsters="d_5;1"/>
+		<ItemSpec id="39" MonsterGroup="finalPile" Monsters="d_4;25|d_5;8|d_2;5|d_1;2"/>
+	</Group>
+</tns:database>

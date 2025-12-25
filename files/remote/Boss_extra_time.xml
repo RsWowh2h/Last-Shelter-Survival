@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="Boss_extra_time">
+
+<!--绝命boss开放时间 -->
+    <ItemSpec id="1" startTime="0:00" endTime="1:00" optional="0" />
+    <ItemSpec id="2" startTime="1:00" endTime="2:00" optional="1" />
+    <ItemSpec id="3" startTime="2:00" endTime="3:00" optional="1" />
+    <ItemSpec id="4" startTime="3:00" endTime="4:00" optional="1" />
+    <ItemSpec id="5" startTime="4:00" endTime="5:00" optional="0" />
+    <ItemSpec id="6" startTime="5:00" endTime="6:00" optional="1" />
+    <ItemSpec id="7" startTime="6:00" endTime="7:00" optional="1" />
+    <ItemSpec id="8" startTime="7:00" endTime="8:00" optional="1" />
+    <ItemSpec id="9" startTime="8:00" endTime="9:00" optional="0" />
+    <ItemSpec id="10" startTime="9:00" endTime="10:00" optional="1" />
+    <ItemSpec id="11" startTime="10:00" endTime="11:00" optional="1" />
+    <ItemSpec id="12" startTime="11:00" endTime="12:00" optional="1" />
+    <ItemSpec id="13" startTime="12:00" endTime="13:00" optional="0" />
+    <ItemSpec id="14" startTime="13:00" endTime="14:00" optional="1" />
+    <ItemSpec id="15" startTime="14:00" endTime="15:00" optional="1" />
+    <ItemSpec id="16" startTime="15:00" endTime="16:00" optional="1" />
+    <ItemSpec id="17" startTime="16:00" endTime="17:00" optional="0" />
+    <ItemSpec id="18" startTime="17:00" endTime="18:00" optional="1" />
+    <ItemSpec id="19" startTime="18:00" endTime="19:00" optional="1" />
+    <ItemSpec id="20" startTime="19:00" endTime="20:00" optional="1" />
+    <ItemSpec id="21" startTime="20:00" endTime="21:00" optional="0" />
+    <ItemSpec id="22" startTime="21:00" endTime="22:00" optional="1" />
+    <ItemSpec id="23" startTime="22:00" endTime="23:00" optional="1" />
+    <ItemSpec id="24" startTime="23:00" endTime="0:00" optional="1" />
+
+<!--九筒鱼 -->
+
+
+    </Group> 
+</tns:database>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="alliance_activity_reward">
+    <ItemSpec id="300001" lv="1" num="10000" alliance_activity="100001" reward="604808" icon_box="pic_BoxClose_1.png" box_name="90823450" />
+    <ItemSpec id="300002" lv="2" num="15000" alliance_activity="100001" reward="604809" icon_box="pic_BoxClose_1.png" box_name="90823451" />
+    <ItemSpec id="300003" lv="3" num="25000" alliance_activity="100001" reward="604810" icon_box="pic_BoxClose_1.png" box_name="90823452" />
+    <ItemSpec id="300004" lv="4" num="40000" alliance_activity="100001" reward="604811" icon_box="pic_BoxClose_1.png" box_name="90823453" />
+    <ItemSpec id="300005" lv="5" num="55000" alliance_activity="100001" reward="604812" icon_box="pic_BoxClose_1.png" box_name="90823454" />
+    <ItemSpec id="300006" lv="6" num="75000" alliance_activity="100001" reward="604813" icon_box="pic_BoxClose_1.png" box_name="90823455" />
+    <ItemSpec id="300007" lv="7" num="100000" alliance_activity="100001" reward="604814" icon_box="pic_BoxClose_1.png" box_name="90823456" />
+
+
+ </Group >
+
+</tns:database>

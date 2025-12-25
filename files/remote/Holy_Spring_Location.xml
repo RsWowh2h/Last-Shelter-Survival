@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="Holy_Spring_Location">
+		<ItemSpec id="1" type="0" x="30" y="738" group="1001" X1="2" Y1="0" group2="1101" color="1"/>
+		<ItemSpec id="2" type="0" x="30" y="842" group="1001" X1="2" Y1="0" group2="1203" color="2"/>
+		<ItemSpec id="3" type="1" x="750" y="1001" group="1001" X1="2" Y1="0" group2="1204" color="1"/>
+		<ItemSpec id="4" type="1" x="750" y="1105" group="1001" X1="2" Y1="0" group2="1306" color="2"/>
+		<ItemSpec id="5" type="2" x="818" y="420" group="1001" X1="2" Y1="0" group2="1307" color="1"/>
+		<ItemSpec id="6" type="2" x="818" y="524" group="1001" X1="2" Y1="0" group2="1409" color="2"/>
+		<ItemSpec id="7" type="3" x="1570" y="808" group="1001" X1="2" Y1="0" group2="1410" color="1"/>
+		<ItemSpec id="8" type="3" x="1570" y="912" group="1001" X1="2" Y1="0" group2="1422" color="2"/>
+	</Group>
+</tns:database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="arena_top_option">
+	<ItemSpec id="1" question1="110111274" question2="110111276" option="7|6|5|-1"/>
+	<ItemSpec id="2" question1="110111274" question2="110111276" option="5|4|3|-1"/>
+	<ItemSpec id="3" question1="110111274" question2="110111276" option="3|2|1|0"/>
+	<ItemSpec id="4" question1="110111274" question2="110111276" option="3|2|1|0"/>
+	<ItemSpec id="5" question1="110111274" question2="110111276" option="3|2|1|0"/>
+	<ItemSpec id="6" question1="110111274" question2="110111276" option="3|2|1|0"/>
+	<ItemSpec id="7" question1="110111274" question2="110111276" option="3|2|1|0"/>
+	<ItemSpec id="8" question1="110111275" question2="110111277" option="3|2|1|0"/>
+	<ItemSpec id="9" question1="110111275" question2="110111277" option="3|2|1|0"/>
+	<ItemSpec id="10" question1="110111275" question2="110111277" option="3|2|1|0"/>
+	<ItemSpec id="11" question1="110111275" question2="110111277" option="3|2|1|0"/>
+
+
+
+  </Group>
+</tns:database>

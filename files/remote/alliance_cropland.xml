@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="alliance_cropland">   
+    <ItemSpec id="2001" name="110020506" des="110020556" city_pic="AB_superbuildresource_04" city_ani="AB_superbuildresource_04" resource_type="3" rank="4" condition1="50" condition2="2000000" condition3="160" alliance_lv="9" cost="50000" construc_progress="1000000" construc_auto="40" build_speed="1" life="172800" build_queue_num="100" maxdef="10000" recycle=".3" build_collect_num="100"/>
+    <ItemSpec id="2002" name="110020507" des="110020557" city_pic="AB_superbuildresource_01" city_ani="AB_superbuildresource_01" resource_type="0" rank="4" condition1="50" condition2="2000000" condition3="160" alliance_lv="9" cost="50000" construc_progress="1000000" construc_auto="40" build_speed="1" life="172800" build_queue_num="100" maxdef="10000" recycle=".3" build_collect_num="100"/>
+    <ItemSpec id="2003" name="110020508" des="110020558" city_pic="AB_superbuildresource_03" city_ani="AB_superbuildresource_03" resource_type="2" rank="4" condition1="60" condition2="2000000" condition3="260" alliance_lv="10" cost="75000" construc_progress="1000000" construc_auto="40" build_speed="1" life="172800" build_queue_num="100" maxdef="10000" recycle=".3" build_collect_num="100"/>
+    <ItemSpec id="2004" name="110020509" des="110020559" city_pic="AB_superbuildresource_02" city_ani="AB_superbuildresource_02" resource_type="1" rank="4" condition1="60" condition2="2000000" condition3="260" alliance_lv="10" cost="100000" construc_progress="1000000" construc_auto="40" build_speed="1" life="172800" build_queue_num="100" maxdef="10000" recycle=".3" build_collect_num="100"/>
+
+	</Group>
+</tns:database>

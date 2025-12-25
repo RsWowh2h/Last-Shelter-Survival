@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="pet_starup">
+		<ItemSpec id="0" stage="1"/>
+		<ItemSpec id="1" unlock_lv="10" cost="204023;110" power="22" stage="1" effect1="41480;1|41500;1|41510;0.5" reset="204023;99"/>
+		<ItemSpec id="2" cost="204023;220" power="66" stage="1" effect1="41480;1|41500;1|41520;0.5" reset="204023;297"/>
+		<ItemSpec id="3" cost="204023;330" power="132" stage="1" effect1="41480;1|41500;1|41510;0.5" reset="204023;594"/>
+		<ItemSpec id="4" cost="204023;429" power="217" stage="1" effect1="41480;1|41500;1|41520;0.5" reset="204023;980"/>
+		<ItemSpec id="5" unlock_lv="20" cost="204023;558" power="329" stage="1" effect1="41480;1|41500;1|41510;0.5" reset="204023;1482"/>
+		<ItemSpec id="6" cost="204023;725" power="474" stage="1" effect1="41480;1|41500;1|41520;0.5" reset="204023;2135"/>
+		<ItemSpec id="7" cost="204023;943" power="663" stage="1" effect1="41480;1|41500;1|41510;0.5" reset="204023;2984"/>
+		<ItemSpec id="8" cost="204023;1226" power="908" stage="1" effect1="41480;1|41500;1|41520;0.5" reset="204023;4087"/>
+		<ItemSpec id="9" cost="204023;1594" power="1227" stage="1" effect1="41480;1|41500;1|41510;0.5" reset="204023;5522"/>
+		<ItemSpec id="10" unlock_lv="30" cost="204023;2072" power="1641" stage="1" effect1="41480;1|41500;1|41520;0.5" reset="204023;7386"/>
+		<ItemSpec id="11" cost="204023;1036" power="1848" stage="1" effect1="41480;1|41500;1|41510;1" reset="204023;8319"/>
+		<ItemSpec id="12" cost="204023;1243" power="2097" stage="1" effect1="41480;1|41500;1|41520;1" reset="204023;9437"/>
+		<ItemSpec id="13" cost="204023;1492" power="2395" stage="1" effect1="41480;1|41500;1|41510;1" reset="204023;10780"/>
+		<ItemSpec id="14" cost="204023;1790" power="2753" stage="1" effect1="41480;1|41500;1|41520;1" reset="204023;12391"/>
+		<ItemSpec id="15" unlock_lv="40" cost="204023;2148" power="3183" stage="1" effect1="41480;1|41500;1|41510;1" reset="204023;14324"/>
+		<ItemSpec id="16" cost="204023;2578" power="3698" stage="1" effect1="41480;1|41500;1|41520;1" reset="204023;16645"/>
+		<ItemSpec id="17" cost="204023;3094" power="4317" stage="1" effect1="41480;1|41500;1|41510;1" reset="204023;19429"/>
+		<ItemSpec id="18" cost="204023;3713" power="5060" stage="1" effect1="41480;1|41500;1|41520;1" reset="204023;22771"/>
+		<ItemSpec id="19" cost="204023;4456" power="5951" stage="1" effect1="41480;1|41500;1|41510;1" reset="204023;26781"/>
+		<ItemSpec id="20" unlock_lv="50" cost="204023;5347" power="7020" stage="2" effect1="41480;1|41500;1|41520;1" reset="204023;31594"/>
+		<ItemSpec id="21" cost="204023;2674" unlock_season="pet_rankup1_season" power="7555" stage="2" effect1="41480;1|41500;1|41510;1" reset="204023;34000"/>
+		<ItemSpec id="22" cost="204023;3209" power="8197" stage="2" effect1="41480;1|41500;1|41520;1" reset="204023;36888"/>
+		<ItemSpec id="23" cost="204023;3851" power="8967" stage="2" effect1="41480;1|41500;1|41510;1" reset="204023;40354"/>
+		<ItemSpec id="24" cost="204023;4621" power="9891" stage="2" effect1="41480;1|41500;1|41520;1" reset="204023;44513"/>
+		<ItemSpec id="25" cost="204023;5545" power="11000" stage="2" effect1="41480;1|41500;1|41510;1" reset="204023;49504"/>
+		<ItemSpec id="26" cost="204023;6654" power="12331" stage="2" effect1="41480;1|41500;1|41520;1" reset="204023;55492"/>
+		<ItemSpec id="27" cost="204023;7985" power="13928" stage="2" effect1="41480;1|41500;1|41510;1" reset="204023;62679"/>
+		<ItemSpec id="28" cost="204023;9582" power="15845" stage="2" effect1="41480;1|41500;1|41520;1" reset="204023;71303"/>
+		<ItemSpec id="29" cost="204023;11498" power="18144" stage="2" effect1="41480;1|41500;1|41510;1" reset="204023;81651"/>
+		<ItemSpec id="30" cost="204023;13798" power="20904" stage="2" effect1="41480;1|41500;1|41520;1" reset="204023;94069"/>
+		<ItemSpec id="31" cost="204023;6899" unlock_switch="pet_rankup1" power="22284" stage="2" effect1="41480;1|41500;1|41510;1.5" reset="204023;100278"/>
+		<ItemSpec id="32" cost="204023;8279" power="23939" stage="2" effect1="41480;1|41500;1|41520;1.5" reset="204023;107729"/>
+		<ItemSpec id="33" cost="204023;9935" power="25926" stage="2" effect1="41480;1|41500;1|41510;1.5" reset="204023;116671"/>
+		<ItemSpec id="34" cost="204023;11922" power="28311" stage="2" effect1="41480;1|41500;1|41520;1.5" reset="204023;127400"/>
+		<ItemSpec id="35" cost="204023;14306" power="31172" stage="2" effect1="41480;1|41500;1|41510;1.5" reset="204023;140276"/>
+		<ItemSpec id="36" cost="204023;17167" power="34605" stage="2" effect1="41480;1|41500;1|41520;1.5" reset="204023;155726"/>
+		<ItemSpec id="37" cost="204023;20600" power="38725" stage="2" effect1="41480;1|41500;1|41510;1.5" reset="204023;174266"/>
+		<ItemSpec id="38" cost="204023;24720" power="43669" stage="2" effect1="41480;1|41500;1|41520;1.5" reset="204023;196514"/>
+		<ItemSpec id="39" cost="204023;29664" power="49602" stage="2" effect1="41480;1|41500;1|41510;1.5" reset="204023;223212"/>
+		<ItemSpec id="40" cost="204023;35597" power="56722" stage="3" effect1="41480;1|41500;1|41520;1.5" reset="204023;255249"/>
+		<ItemSpec id="100" stage="1"/>
+		<ItemSpec id="101" unlock_lv="10" cost="204023;330" power="66" stage="1" effect1="41480;1|41500;1|41510;0.7" reset="204023;297"/>
+		<ItemSpec id="102" cost="204023;660" power="198" stage="1" effect1="41480;1|41500;1|41520;0.7" reset="204023;891"/>
+		<ItemSpec id="103" cost="204023;990" power="396" stage="1" effect1="41480;1|41500;1|41510;0.7" reset="204023;1782"/>
+		<ItemSpec id="104" cost="204023;1287" power="653" stage="1" effect1="41480;1|41500;1|41520;0.7" reset="204023;2940"/>
+		<ItemSpec id="105" unlock_lv="20" cost="204023;1674" power="988" stage="1" effect1="41480;1|41500;1|41510;0.7" reset="204023;4447"/>
+		<ItemSpec id="106" cost="204023;2175" power="1423" stage="1" effect1="41480;1|41500;1|41520;0.7" reset="204023;6404"/>
+		<ItemSpec id="107" cost="204023;2829" power="1989" stage="1" effect1="41480;1|41500;1|41510;0.7" reset="204023;8951"/>
+		<ItemSpec id="108" cost="204023;3678" power="2724" stage="1" effect1="41480;1|41500;1|41520;0.7" reset="204023;12261"/>
+		<ItemSpec id="109" cost="204023;4782" power="3681" stage="1" effect1="41480;1|41500;1|41510;0.7" reset="204023;16565"/>
+		<ItemSpec id="110" unlock_lv="30" cost="204023;6216" power="4924" stage="1" effect1="41480;1|41500;1|41520;0.7" reset="204023;22159"/>
+		<ItemSpec id="111" cost="204023;3108" power="5545" stage="1" effect1="41480;1|41500;1|41510;1.35" reset="204023;24956"/>
+		<ItemSpec id="112" cost="204023;3729" power="6291" stage="1" effect1="41480;1|41500;1|41520;1.35" reset="204023;28312"/>
+		<ItemSpec id="113" cost="204023;4476" power="7186" stage="1" effect1="41480;1|41500;1|41510;1.35" reset="204023;32341"/>
+		<ItemSpec id="114" cost="204023;5370" power="8260" stage="1" effect1="41480;1|41500;1|41520;1.35" reset="204023;37174"/>
+		<ItemSpec id="115" unlock_lv="40" cost="204023;6444" power="9549" stage="1" effect1="41480;1|41500;1|41510;1.35" reset="204023;42973"/>
+		<ItemSpec id="116" cost="204023;7734" power="11096" stage="1" effect1="41480;1|41500;1|41520;1.35" reset="204023;49934"/>
+		<ItemSpec id="117" cost="204023;9282" power="12952" stage="1" effect1="41480;1|41500;1|41510;1.35" reset="204023;58288"/>
+		<ItemSpec id="118" cost="204023;11139" power="15180" stage="1" effect1="41480;1|41500;1|41520;1.35" reset="204023;68313"/>
+		<ItemSpec id="119" cost="204023;13368" power="17854" stage="1" effect1="41480;1|41500;1|41510;1.35" reset="204023;80344"/>
+		<ItemSpec id="120" unlock_lv="50" cost="204023;16041" power="21062" stage="2" effect1="41480;1|41500;1|41520;1.35" reset="204023;94781"/>
+		<ItemSpec id="121" cost="204023;6685" unlock_season="pet_rankup1_season" power="22399" stage="2" effect1="41480;1|41500;1|41510;1.35" reset="204023;100797"/>
+		<ItemSpec id="122" cost="204023;8023" power="24003" stage="2" effect1="41480;1|41500;1|41520;1.35" reset="204023;108018"/>
+		<ItemSpec id="123" cost="204023;9628" power="25929" stage="2" effect1="41480;1|41500;1|41510;1.35" reset="204023;116682"/>
+		<ItemSpec id="124" cost="204023;11553" power="28239" stage="2" effect1="41480;1|41500;1|41520;1.35" reset="204023;127080"/>
+		<ItemSpec id="125" cost="204023;13863" power="31012" stage="2" effect1="41480;1|41500;1|41510;1.35" reset="204023;139556"/>
+		<ItemSpec id="126" cost="204023;16635" power="34339" stage="2" effect1="41480;1|41500;1|41520;1.35" reset="204023;154527"/>
+		<ItemSpec id="127" cost="204023;19963" power="38331" stage="2" effect1="41480;1|41500;1|41510;1.35" reset="204023;172494"/>
+		<ItemSpec id="128" cost="204023;23955" power="43122" stage="2" effect1="41480;1|41500;1|41520;1.35" reset="204023;194053"/>
+		<ItemSpec id="129" cost="204023;28745" power="48871" stage="2" effect1="41480;1|41500;1|41510;1.35" reset="204023;219924"/>
+		<ItemSpec id="130" cost="204023;34495" power="55770" stage="2" effect1="41480;1|41500;1|41520;1.35" reset="204023;250969"/>
+		<ItemSpec id="131" cost="204023;11038" power="57978" stage="2" effect1="41480;1|41500;1|41510;2" reset="204023;260904"/>
+		<ItemSpec id="132" cost="204023;13246" power="60627" stage="2" effect1="41480;1|41500;1|41520;2" reset="204023;272825"/>
+		<ItemSpec id="133" cost="204023;15896" power="63807" stage="2" effect1="41480;1|41500;1|41510;2" reset="204023;287132"/>
+		<ItemSpec id="134" cost="204023;19075" power="67622" stage="2" effect1="41480;1|41500;1|41520;2" reset="204023;304299"/>
+		<ItemSpec id="135" cost="204023;22890" power="72200" stage="2" effect1="41480;1|41500;1|41510;2" reset="204023;324900"/>
+		<ItemSpec id="136" cost="204023;27467" power="77693" stage="2" effect1="41480;1|41500;1|41520;2" reset="204023;349621"/>
+		<ItemSpec id="137" cost="204023;32960" power="84285" stage="2" effect1="41480;1|41500;1|41510;2" reset="204023;379285"/>
+		<ItemSpec id="138" cost="204023;39552" power="92195" stage="2" effect1="41480;1|41500;1|41520;2" reset="204023;414881"/>
+		<ItemSpec id="139" cost="204023;47462" power="101688" stage="2" effect1="41480;1|41500;1|41510;2" reset="204023;457598"/>
+		<ItemSpec id="140" cost="204023;56955" power="113079" stage="3" effect1="41480;1|41500;1|41520;2" reset="204023;508857"/>
+	</Group>
+
+</tns:database>

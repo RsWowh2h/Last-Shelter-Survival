@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!--最初版阵营友好度-->
+    <Group id="faction_lv_reward">
+
+    <ItemSpec id="1001" faction="1" friendship_lv="1" lv_name="110040800" exp="200" rate="1,80;2,20" />
+    <ItemSpec id="1002" faction="1" friendship_lv="2" lv_name="110041018" reward="215204,2000" exp="300" rate="1,70;2,30" />
+    <ItemSpec id="1003" faction="1" friendship_lv="3" lv_name="110041023" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="450" rate="1,60;2,40" />
+    <ItemSpec id="1004" faction="1" friendship_lv="4" lv_name="110040801" effect="3010;5" effect_des="110041010,5" reward="215204,3000" exp="670" rate="1,45;2,50;3,5" />
+    <ItemSpec id="1005" faction="1" friendship_lv="5" lv_name="110041019" reward="215204,3000" exp="1000" rate="1,40;2,50;3,10" />
+    <ItemSpec id="1006" faction="1" friendship_lv="6" lv_name="110041024" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="1500" rate="1,30;2,55;3,15" />
+    <ItemSpec id="1007" faction="1" friendship_lv="7" lv_name="110040802" effect="3010;5" effect_des="110041010,5" reward="211213,50000" exp="2200" rate="1,25;2,55;3,20" />
+    <ItemSpec id="1008" faction="1" friendship_lv="8" lv_name="110041020" reward="211213,50000" exp="3400" rate="2,45;3,50;4,5" />
+    <ItemSpec id="1009" faction="1" friendship_lv="9" lv_name="110041025" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="5100" rate="2,40;3,50;4,10"/>
+    <ItemSpec id="1010" faction="1" friendship_lv="10" lv_name="110040803" effect="3050;5" effect_des="110041011,5" reward="211213,50000" exp="7600" rate="2,30;3,55;4,15" />
+    <ItemSpec id="1011" faction="1" friendship_lv="11" lv_name="110041021" reward="211213,50000" exp="11000" rate="2,25;3,55;4,20" />
+    <ItemSpec id="1012" faction="1" friendship_lv="12" lv_name="110041026" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="17000" rate="3,45;4,50;5,5"/>
+    <ItemSpec id="1013" faction="1" friendship_lv="13" lv_name="110040868" effect="3050;5" effect_des="110041011,5" reward="209933,100" exp="25000" rate="3,40;4,50;5,10" />
+    <ItemSpec id="1014" faction="1" friendship_lv="14" lv_name="110041022" reward="209933,100" exp="38000" rate="3,30;4,55;5,15" />
+    <ItemSpec id="1015" faction="1" friendship_lv="15" lv_name="110041027" effect="3020;20" effect_des="110041013,20" reward="215206,5000" exp="0" rate="3,30;4,55;5,15" />
+    <ItemSpec id="1016" faction="2" friendship_lv="1" lv_name="110040800" exp="200" rate="1,80;2,20" />
+    <ItemSpec id="1017" faction="2" friendship_lv="2" lv_name="110041018" reward="215204,2000" exp="300" rate="1,70;2,30" />
+    <ItemSpec id="1018" faction="2" friendship_lv="3" lv_name="110041023" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="450" rate="1,60;2,40" />
+    <ItemSpec id="1019" faction="2" friendship_lv="4" lv_name="110040801" effect="3010;5" effect_des="110041010,5" reward="215204,3000" exp="670" rate="1,45;2,50;3,5" />
+    <ItemSpec id="1020" faction="2" friendship_lv="5" lv_name="110041019" reward="215204,3000" exp="1000" rate="1,40;2,50;3,10" />
+    <ItemSpec id="1021" faction="2" friendship_lv="6" lv_name="110041024" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="1500" rate="1,30;2,55;3,15" />
+    <ItemSpec id="1022" faction="2" friendship_lv="7" lv_name="110040802" effect="3010;5" effect_des="110041010,5" reward="211213,50000" exp="2200" rate="1,25;2,55;3,20" />
+    <ItemSpec id="1023" faction="2" friendship_lv="8" lv_name="110041020" reward="211213,50000" exp="3400" rate="2,45;3,50;4,5" />
+    <ItemSpec id="1024" faction="2" friendship_lv="9" lv_name="110041025" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="5100" rate="2,40;3,50;4,10"/>
+    <ItemSpec id="1025" faction="2" friendship_lv="10" lv_name="110040803" effect="3050;5" effect_des="110041011,5" reward="211213,50000" exp="7600" rate="2,30;3,55;4,15" />
+    <ItemSpec id="1026" faction="2" friendship_lv="11" lv_name="110041021" reward="211213,50000" exp="11000" rate="2,25;3,55;4,20" />
+    <ItemSpec id="1027" faction="2" friendship_lv="12" lv_name="110041026" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="17000" rate="3,45;4,50;5,5"/>
+    <ItemSpec id="1028" faction="2" friendship_lv="13" lv_name="110040868" effect="3050;5" effect_des="110041011,5" reward="209933,100" exp="25000" rate="3,40;4,50;5,10" />
+    <ItemSpec id="1029" faction="2" friendship_lv="14" lv_name="110041022" reward="209933,100" exp="38000" rate="3,30;4,55;5,15" />
+    <ItemSpec id="1030" faction="2" friendship_lv="15" lv_name="110041027" effect="3020;20" effect_des="110041013,20" reward="215206,5000" exp="0" rate="3,30;4,55;5,15" />
+    <ItemSpec id="1031" faction="3" friendship_lv="1" lv_name="110040800" exp="200" rate="1,80;2,20" />
+    <ItemSpec id="1032" faction="3" friendship_lv="2" lv_name="110041018" reward="215204,2000" exp="300" rate="1,70;2,30" />
+    <ItemSpec id="1033" faction="3" friendship_lv="3" lv_name="110041023" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="450" rate="1,60;2,40" />
+    <ItemSpec id="1034" faction="3" friendship_lv="4" lv_name="110040801" effect="3010;5" effect_des="110041010,5" reward="215204,3000" exp="670" rate="1,45;2,50;3,5" />
+    <ItemSpec id="1035" faction="3" friendship_lv="5" lv_name="110041019" reward="215204,3000" exp="1000" rate="1,40;2,50;3,10" />
+    <ItemSpec id="1036" faction="3" friendship_lv="6" lv_name="110041024" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="1500" rate="1,30;2,55;3,15" />
+    <ItemSpec id="1037" faction="3" friendship_lv="7" lv_name="110040802" effect="3010;5" effect_des="110041010,5" reward="211213,50000" exp="2200" rate="1,25;2,55;3,20" />
+    <ItemSpec id="1038" faction="3" friendship_lv="8" lv_name="110041020" reward="211213,50000" exp="3400" rate="2,45;3,50;4,5" />
+    <ItemSpec id="1039" faction="3" friendship_lv="9" lv_name="110041025" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="5100" rate="2,40;3,50;4,10"/>
+    <ItemSpec id="1040" faction="3" friendship_lv="10" lv_name="110040803" effect="3050;5" effect_des="110041011,5" reward="211213,50000" exp="7600" rate="2,30;3,55;4,15" />
+    <ItemSpec id="1041" faction="3" friendship_lv="11" lv_name="110041021" reward="211213,50000" exp="11000" rate="2,25;3,55;4,20" />
+    <ItemSpec id="1042" faction="3" friendship_lv="12" lv_name="110041026" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="17000" rate="3,45;4,50;5,5"/>
+    <ItemSpec id="1043" faction="3" friendship_lv="13" lv_name="110040868" effect="3050;5" effect_des="110041011,5" reward="209933,100" exp="25000" rate="3,40;4,50;5,10" />
+    <ItemSpec id="1044" faction="3" friendship_lv="14" lv_name="110041022" reward="209933,100" exp="38000" rate="3,30;4,55;5,15" />
+    <ItemSpec id="1045" faction="3" friendship_lv="15" lv_name="110041027" effect="3020;20" effect_des="110041013,20" reward="215206,5000" exp="0" rate="3,30;4,55;5,15" />
+    <ItemSpec id="1046" faction="4" friendship_lv="1" lv_name="110040800" exp="200" rate="1,80;2,20" />
+    <ItemSpec id="1047" faction="4" friendship_lv="2" lv_name="110041018" reward="215204,2000" exp="300" rate="1,70;2,30" />
+    <ItemSpec id="1048" faction="4" friendship_lv="3" lv_name="110041023" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="450" rate="1,60;2,40" />
+    <ItemSpec id="1049" faction="4" friendship_lv="4" lv_name="110040801" effect="3010;5" effect_des="110041010,5" reward="215204,3000" exp="670" rate="1,45;2,50;3,5" />
+    <ItemSpec id="1050" faction="4" friendship_lv="5" lv_name="110041019" reward="215204,3000" exp="1000" rate="1,40;2,50;3,10" />
+    <ItemSpec id="1051" faction="4" friendship_lv="6" lv_name="110041024" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="1500" rate="1,30;2,55;3,15" />
+    <ItemSpec id="1052" faction="4" friendship_lv="7" lv_name="110040802" effect="3010;5" effect_des="110041010,5" reward="211213,50000" exp="2200" rate="1,25;2,55;3,20" />
+    <ItemSpec id="1053" faction="4" friendship_lv="8" lv_name="110041020" reward="211213,50000" exp="3400" rate="2,45;3,50;4,5" />
+    <ItemSpec id="1054" faction="4" friendship_lv="9" lv_name="110041025" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="5100" rate="2,40;3,50;4,10"/>
+    <ItemSpec id="1055" faction="4" friendship_lv="10" lv_name="110040803" effect="3050;5" effect_des="110041011,5" reward="211213,50000" exp="7600" rate="2,30;3,55;4,15" />
+    <ItemSpec id="1056" faction="4" friendship_lv="11" lv_name="110041021" reward="211213,50000" exp="11000" rate="2,25;3,55;4,20" />
+    <ItemSpec id="1057" faction="4" friendship_lv="12" lv_name="110041026" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="17000" rate="3,45;4,50;5,5"/>
+    <ItemSpec id="1058" faction="4" friendship_lv="13" lv_name="110040868" effect="3050;5" effect_des="110041011,5" reward="209933,100" exp="25000" rate="3,40;4,50;5,10" />
+    <ItemSpec id="1059" faction="4" friendship_lv="14" lv_name="110041022" reward="209933,100" exp="38000" rate="3,30;4,55;5,15" />
+    <ItemSpec id="1060" faction="4" friendship_lv="15" lv_name="110041027" effect="3020;20" effect_des="110041013,20" reward="215206,5000" exp="0" rate="3,30;4,55;5,15" />
+    <ItemSpec id="1061" faction="5" friendship_lv="10" lv_name="110040798" reward="209933,10" />
+    <ItemSpec id="1062" faction="5" friendship_lv="20" lv_name="110040864" reward="209933,20" />
+    <ItemSpec id="1063" faction="5" friendship_lv="30" lv_name="110040865" reward="209933,40" />
+    <ItemSpec id="1064" faction="5" friendship_lv="40" lv_name="110040866" reward="209933,60" />
+    <ItemSpec id="1065" faction="5" friendship_lv="50" lv_name="110040969" reward="209933,80" />
+    <ItemSpec id="1066" faction="5" friendship_lv="60" lv_name="110040867" reward="209933,100" />
+
+    </Group> 
+
+<!--新四阵营版-->
+    <Group id="faction_lv_reward1">
+    <ItemSpec id="2001" faction="1" friendship_lv="1" lv_name="110040800" exp="200" rate="1,80;2,20" />
+    <ItemSpec id="2002" faction="1" friendship_lv="2" lv_name="110041018" reward="215204,20" exp="300" rate="1,70;2,30" />
+    <ItemSpec id="2003" faction="1" friendship_lv="3" lv_name="110041023" effect="3030;5" effect_des="110041009,5" reward="215206,50" exp="450" rate="1,60;2,40" />
+    <ItemSpec id="2004" faction="1" friendship_lv="4" lv_name="110040801" effect="3010;5" effect_des="110041010,5" reward="215204,30" exp="670" rate="1,45;2,50;3,5" />
+    <ItemSpec id="2005" faction="1" friendship_lv="5" lv_name="110041019" reward="215204,30" exp="1000" rate="1,40;2,50;3,10" />
+    <ItemSpec id="2006" faction="1" friendship_lv="6" lv_name="110041024" effect="3030;5" effect_des="110041009,5" reward="215206,50" exp="1500" rate="1,30;2,55;3,15" />
+    <ItemSpec id="2007" faction="1" friendship_lv="7" lv_name="110040802" effect="3010;5" effect_des="110041010,5" reward="211213500" exp="2200" rate="1,25;2,55;3,20" />
+    <ItemSpec id="2008" faction="1" friendship_lv="8" lv_name="110041020" reward="211213500" exp="3400" rate="2,45;3,50;4,5" />
+    <ItemSpec id="2009" faction="1" friendship_lv="9" lv_name="110041025" effect="27660;5" effect_des="110041012,5" reward="215206,50" exp="5100" rate="2,40;3,50;4,10"/>
+    <ItemSpec id="2010" faction="1" friendship_lv="10" lv_name="110040803" effect="3050;5" effect_des="110041011,5" reward="211213500" exp="7600" rate="2,30;3,55;4,15" />
+    <ItemSpec id="2011" faction="1" friendship_lv="11" lv_name="110041021" reward="211213500" exp="11000" rate="2,25;3,55;4,20" />
+    <ItemSpec id="2012" faction="1" friendship_lv="12" lv_name="110041026" effect="27660;5" effect_des="110041012,5" reward="215206,50" exp="17000" rate="3,45;4,50;5,5"/>
+    <ItemSpec id="2013" faction="1" friendship_lv="13" lv_name="110040868" effect="3050;5" effect_des="110041011,5" reward="209933,100" exp="25000" rate="3,40;4,50;5,10" />
+    <ItemSpec id="2014" faction="1" friendship_lv="14" lv_name="110041022" reward="209933,100" exp="38000" rate="3,30;4,55;5,15" />
+    <ItemSpec id="2015" faction="1" friendship_lv="15" lv_name="110041027" effect="3020;20" effect_des="110041013,20" reward="215206,50" exp="0" rate="3,30;4,55;5,15" />
+    <ItemSpec id="2016" faction="2" friendship_lv="1" lv_name="110040800" exp="200" rate="1,80;2,20" />
+    <ItemSpec id="2017" faction="2" friendship_lv="2" lv_name="110041018" reward="215204,20" exp="300" rate="1,70;2,30" />
+    <ItemSpec id="2018" faction="2" friendship_lv="3" lv_name="110041023" effect="3030;5" effect_des="110041009,5" reward="215206,50" exp="450" rate="1,60;2,40" />
+    <ItemSpec id="2019" faction="2" friendship_lv="4" lv_name="110040801" effect="3010;5" effect_des="110041010,5" reward="215204,30" exp="670" rate="1,45;2,50;3,5" />
+    <ItemSpec id="2020" faction="2" friendship_lv="5" lv_name="110041019" reward="215204,30" exp="1000" rate="1,40;2,50;3,10" />
+    <ItemSpec id="2021" faction="2" friendship_lv="6" lv_name="110041024" effect="3030;5" effect_des="110041009,5" reward="215206,50" exp="1500" rate="1,30;2,55;3,15" />
+    <ItemSpec id="2022" faction="2" friendship_lv="7" lv_name="110040802" effect="3010;5" effect_des="110041010,5" reward="211213500" exp="2200" rate="1,25;2,55;3,20" />
+    <ItemSpec id="2023" faction="2" friendship_lv="8" lv_name="110041020" reward="211213500" exp="3400" rate="2,45;3,50;4,5" />
+    <ItemSpec id="2024" faction="2" friendship_lv="9" lv_name="110041025" effect="27660;5" effect_des="110041012,5" reward="215206,50" exp="5100" rate="2,40;3,50;4,10"/>
+    <ItemSpec id="2025" faction="2" friendship_lv="10" lv_name="110040803" effect="3050;5" effect_des="110041011,5" reward="211213500" exp="7600" rate="2,30;3,55;4,15" />
+    <ItemSpec id="2026" faction="2" friendship_lv="11" lv_name="110041021" reward="211213500" exp="11000" rate="2,25;3,55;4,20" />
+    <ItemSpec id="2027" faction="2" friendship_lv="12" lv_name="110041026" effect="27660;5" effect_des="110041012,5" reward="215206,50" exp="17000" rate="3,45;4,50;5,5"/>
+    <ItemSpec id="2028" faction="2" friendship_lv="13" lv_name="110040868" effect="3050;5" effect_des="110041011,5" reward="209933,100" exp="25000" rate="3,40;4,50;5,10" />
+    <ItemSpec id="2029" faction="2" friendship_lv="14" lv_name="110041022" reward="209933,100" exp="38000" rate="3,30;4,55;5,15" />
+    <ItemSpec id="2030" faction="2" friendship_lv="15" lv_name="110041027" effect="3020;20" effect_des="110041013,20" reward="215206,50" exp="0" rate="3,30;4,55;5,15" />
+    <ItemSpec id="2031" faction="3" friendship_lv="1" lv_name="110040800" exp="200" rate="1,80;2,20" />
+    <ItemSpec id="2032" faction="3" friendship_lv="2" lv_name="110041018" reward="215204,20" exp="300" rate="1,70;2,30" />
+    <ItemSpec id="2033" faction="3" friendship_lv="3" lv_name="110041023" effect="3030;5" effect_des="110041009,5" reward="215206,50" exp="450" rate="1,60;2,40" />
+    <ItemSpec id="2034" faction="3" friendship_lv="4" lv_name="110040801" effect="3010;5" effect_des="110041010,5" reward="215204,30" exp="670" rate="1,45;2,50;3,5" />
+    <ItemSpec id="2035" faction="3" friendship_lv="5" lv_name="110041019" reward="215204,30" exp="1000" rate="1,40;2,50;3,10" />
+    <ItemSpec id="2036" faction="3" friendship_lv="6" lv_name="110041024" effect="3030;5" effect_des="110041009,5" reward="215206,50" exp="1500" rate="1,30;2,55;3,15" />
+    <ItemSpec id="2037" faction="3" friendship_lv="7" lv_name="110040802" effect="3010;5" effect_des="110041010,5" reward="211213500" exp="2200" rate="1,25;2,55;3,20" />
+    <ItemSpec id="2038" faction="3" friendship_lv="8" lv_name="110041020" reward="211213500" exp="3400" rate="2,45;3,50;4,5" />
+    <ItemSpec id="2039" faction="3" friendship_lv="9" lv_name="110041025" effect="27660;5" effect_des="110041012,5" reward="215206,50" exp="5100" rate="2,40;3,50;4,10"/>
+    <ItemSpec id="2040" faction="3" friendship_lv="10" lv_name="110040803" effect="3050;5" effect_des="110041011,5" reward="211213500" exp="7600" rate="2,30;3,55;4,15" />
+    <ItemSpec id="2041" faction="3" friendship_lv="11" lv_name="110041021" reward="211213500" exp="11000" rate="2,25;3,55;4,20" />
+    <ItemSpec id="2042" faction="3" friendship_lv="12" lv_name="110041026" effect="27660;5" effect_des="110041012,5" reward="215206,50" exp="17000" rate="3,45;4,50;5,5"/>
+    <ItemSpec id="2043" faction="3" friendship_lv="13" lv_name="110040868" effect="3050;5" effect_des="110041011,5" reward="209933,100" exp="25000" rate="3,40;4,50;5,10" />
+    <ItemSpec id="2044" faction="3" friendship_lv="14" lv_name="110041022" reward="209933,100" exp="38000" rate="3,30;4,55;5,15" />
+    <ItemSpec id="2045" faction="3" friendship_lv="15" lv_name="110041027" effect="3020;20" effect_des="110041013,20" reward="215206,50" exp="0" rate="3,30;4,55;5,15" />
+    <ItemSpec id="2046" faction="4" friendship_lv="1" lv_name="110040800" exp="200" rate="1,80;2,20" />
+    <ItemSpec id="2047" faction="4" friendship_lv="2" lv_name="110041018" reward="215204,20" exp="300" rate="1,70;2,30" />
+    <ItemSpec id="2048" faction="4" friendship_lv="3" lv_name="110041023" effect="3030;5" effect_des="110041009,5" reward="215206,50" exp="450" rate="1,60;2,40" />
+    <ItemSpec id="2049" faction="4" friendship_lv="4" lv_name="110040801" effect="3010;5" effect_des="110041010,5" reward="215204,30" exp="670" rate="1,45;2,50;3,5" />
+    <ItemSpec id="2050" faction="4" friendship_lv="5" lv_name="110041019" reward="215204,30" exp="1000" rate="1,40;2,50;3,10" />
+    <ItemSpec id="2051" faction="4" friendship_lv="6" lv_name="110041024" effect="3030;5" effect_des="110041009,5" reward="215206,50" exp="1500" rate="1,30;2,55;3,15" />
+    <ItemSpec id="2052" faction="4" friendship_lv="7" lv_name="110040802" effect="3010;5" effect_des="110041010,5" reward="211213500" exp="2200" rate="1,25;2,55;3,20" />
+    <ItemSpec id="2053" faction="4" friendship_lv="8" lv_name="110041020" reward="211213500" exp="3400" rate="2,45;3,50;4,5" />
+    <ItemSpec id="2054" faction="4" friendship_lv="9" lv_name="110041025" effect="27660;5" effect_des="110041012,5" reward="215206,50" exp="5100" rate="2,40;3,50;4,10"/>
+    <ItemSpec id="2055" faction="4" friendship_lv="10" lv_name="110040803" effect="3050;5" effect_des="110041011,5" reward="211213500" exp="7600" rate="2,30;3,55;4,15" />
+    <ItemSpec id="2056" faction="4" friendship_lv="11" lv_name="110041021" reward="211213500" exp="11000" rate="2,25;3,55;4,20" />
+    <ItemSpec id="2057" faction="4" friendship_lv="12" lv_name="110041026" effect="27660;5" effect_des="110041012,5" reward="215206,50" exp="17000" rate="3,45;4,50;5,5"/>
+    <ItemSpec id="2058" faction="4" friendship_lv="13" lv_name="110040868" effect="3050;5" effect_des="110041011,5" reward="209933,100" exp="25000" rate="3,40;4,50;5,10" />
+    <ItemSpec id="2059" faction="4" friendship_lv="14" lv_name="110041022" reward="209933,100" exp="38000" rate="3,30;4,55;5,15" />
+    <ItemSpec id="2060" faction="4" friendship_lv="15" lv_name="110041027" effect="3020;20" effect_des="110041013,20" reward="215206,50" exp="0" rate="3,30;4,55;5,15" />
+    <ItemSpec id="2061" faction="5" friendship_lv="10" lv_name="110040798" reward="209933,10" />
+    <ItemSpec id="2062" faction="5" friendship_lv="20" lv_name="110040864" reward="209933,20" />
+    <ItemSpec id="2063" faction="5" friendship_lv="30" lv_name="110040865" reward="209933,40" />
+    <ItemSpec id="2064" faction="5" friendship_lv="40" lv_name="110040866" reward="209933,60" />
+    <ItemSpec id="2065" faction="5" friendship_lv="50" lv_name="110040969" reward="209933,80" />
+    <ItemSpec id="2066" faction="5" friendship_lv="60" lv_name="110040867" reward="209933,100" />
+
+    </Group> 
+
+
+<!--新南北版-->
+    <Group id="faction_lv_reward2">
+    <ItemSpec id="3001" faction="1" friendship_lv="1" lv_name="110040800" exp="200" rate="1,80;2,20" />
+    <ItemSpec id="3002" faction="1" friendship_lv="2" lv_name="110041018" reward="215204,2000" exp="300" rate="1,70;2,30" />
+    <ItemSpec id="3003" faction="1" friendship_lv="3" lv_name="110041023" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="450" rate="1,60;2,40" />
+    <ItemSpec id="3004" faction="1" friendship_lv="4" lv_name="110040801" effect="3010;5" effect_des="110041010,5" reward="215204,3000" exp="670" rate="1,45;2,50;3,5" />
+    <ItemSpec id="3005" faction="1" friendship_lv="5" lv_name="110041019" reward="215204,3000" exp="1000" rate="1,40;2,50;3,10" />
+    <ItemSpec id="3006" faction="1" friendship_lv="6" lv_name="110041024" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="1500" rate="1,30;2,55;3,15" />
+    <ItemSpec id="3007" faction="1" friendship_lv="7" lv_name="110040802" effect="3010;5" effect_des="110041010,5" reward="211213,50000" exp="2200" rate="1,25;2,55;3,20" />
+    <ItemSpec id="3008" faction="1" friendship_lv="8" lv_name="110041020" reward="211213,50000" exp="3400" rate="2,45;3,50;4,5" />
+    <ItemSpec id="3009" faction="1" friendship_lv="9" lv_name="110041025" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="5100" rate="2,40;3,50;4,10"/>
+    <ItemSpec id="3010" faction="1" friendship_lv="10" lv_name="110040803" effect="3050;5" effect_des="110041011,5" reward="211213,50000" exp="7600" rate="2,30;3,55;4,15" />
+    <ItemSpec id="3011" faction="1" friendship_lv="11" lv_name="110041021" reward="211213,50000" exp="11000" rate="2,25;3,55;4,20" />
+    <ItemSpec id="3012" faction="1" friendship_lv="12" lv_name="110041026" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="17000" rate="3,45;4,50;5,5"/>
+    <ItemSpec id="3013" faction="1" friendship_lv="13" lv_name="110040868" effect="3050;5" effect_des="110041011,5" reward="209933,100" exp="25000" rate="3,40;4,50;5,10" />
+    <ItemSpec id="3014" faction="1" friendship_lv="14" lv_name="110041022" reward="209933,100" exp="38000" rate="3,30;4,55;5,15" />
+    <ItemSpec id="3015" faction="1" friendship_lv="15" lv_name="110041027" effect="3020;20" effect_des="110041013,20" reward="215206,5000" exp="0" rate="3,30;4,55;5,15" />
+    <ItemSpec id="3016" faction="2" friendship_lv="1" lv_name="110040800" exp="200" rate="1,80;2,20" />
+    <ItemSpec id="3017" faction="2" friendship_lv="2" lv_name="110041018" reward="215204,2000" exp="300" rate="1,70;2,30" />
+    <ItemSpec id="3018" faction="2" friendship_lv="3" lv_name="110041023" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="450" rate="1,60;2,40" />
+    <ItemSpec id="3019" faction="2" friendship_lv="4" lv_name="110040801" effect="3010;5" effect_des="110041010,5" reward="215204,3000" exp="670" rate="1,45;2,50;3,5" />
+    <ItemSpec id="3020" faction="2" friendship_lv="5" lv_name="110041019" reward="215204,3000" exp="1000" rate="1,40;2,50;3,10" />
+    <ItemSpec id="3021" faction="2" friendship_lv="6" lv_name="110041024" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="1500" rate="1,30;2,55;3,15" />
+    <ItemSpec id="3022" faction="2" friendship_lv="7" lv_name="110040802" effect="3010;5" effect_des="110041010,5" reward="211213,50000" exp="2200" rate="1,25;2,55;3,20" />
+    <ItemSpec id="3023" faction="2" friendship_lv="8" lv_name="110041020" reward="211213,50000" exp="3400" rate="2,45;3,50;4,5" />
+    <ItemSpec id="3024" faction="2" friendship_lv="9" lv_name="110041025" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="5100" rate="2,40;3,50;4,10"/>
+    <ItemSpec id="3025" faction="2" friendship_lv="10" lv_name="110040803" effect="3050;5" effect_des="110041011,5" reward="211213,50000" exp="7600" rate="2,30;3,55;4,15" />
+    <ItemSpec id="3026" faction="2" friendship_lv="11" lv_name="110041021" reward="211213,50000" exp="11000" rate="2,25;3,55;4,20" />
+    <ItemSpec id="3027" faction="2" friendship_lv="12" lv_name="110041026" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="17000" rate="3,45;4,50;5,5"/>
+    <ItemSpec id="3028" faction="2" friendship_lv="13" lv_name="110040868" effect="3050;5" effect_des="110041011,5" reward="209933,100" exp="25000" rate="3,40;4,50;5,10" />
+    <ItemSpec id="3029" faction="2" friendship_lv="14" lv_name="110041022" reward="209933,100" exp="38000" rate="3,30;4,55;5,15" />
+    <ItemSpec id="3030" faction="2" friendship_lv="15" lv_name="110041027" effect="3020;20" effect_des="110041013,20" reward="215206,5000" exp="0" rate="3,30;4,55;5,15" />
+    <ItemSpec id="3031" faction="3" friendship_lv="1" lv_name="110040800" exp="200" rate="1,80;2,20" />
+    <ItemSpec id="3032" faction="3" friendship_lv="2" lv_name="110041018" reward="215204,2000" exp="300" rate="1,70;2,30" />
+    <ItemSpec id="3033" faction="3" friendship_lv="3" lv_name="110041023" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="450" rate="1,60;2,40" />
+    <ItemSpec id="3034" faction="3" friendship_lv="4" lv_name="110040801" effect="3010;5" effect_des="110041010,5" reward="215204,3000" exp="670" rate="1,45;2,50;3,5" />
+    <ItemSpec id="3035" faction="3" friendship_lv="5" lv_name="110041019" reward="215204,3000" exp="1000" rate="1,40;2,50;3,10" />
+    <ItemSpec id="3036" faction="3" friendship_lv="6" lv_name="110041024" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="1500" rate="1,30;2,55;3,15" />
+    <ItemSpec id="3037" faction="3" friendship_lv="7" lv_name="110040802" effect="3010;5" effect_des="110041010,5" reward="211213,50000" exp="2200" rate="1,25;2,55;3,20" />
+    <ItemSpec id="3038" faction="3" friendship_lv="8" lv_name="110041020" reward="211213,50000" exp="3400" rate="2,45;3,50;4,5" />
+    <ItemSpec id="3039" faction="3" friendship_lv="9" lv_name="110041025" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="5100" rate="2,40;3,50;4,10"/>
+    <ItemSpec id="3040" faction="3" friendship_lv="10" lv_name="110040803" effect="3050;5" effect_des="110041011,5" reward="211213,50000" exp="7600" rate="2,30;3,55;4,15" />
+    <ItemSpec id="3041" faction="3" friendship_lv="11" lv_name="110041021" reward="211213,50000" exp="11000" rate="2,25;3,55;4,20" />
+    <ItemSpec id="3042" faction="3" friendship_lv="12" lv_name="110041026" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="17000" rate="3,45;4,50;5,5"/>
+    <ItemSpec id="3043" faction="3" friendship_lv="13" lv_name="110040868" effect="3050;5" effect_des="110041011,5" reward="209933,100" exp="25000" rate="3,40;4,50;5,10" />
+    <ItemSpec id="3044" faction="3" friendship_lv="14" lv_name="110041022" reward="209933,100" exp="38000" rate="3,30;4,55;5,15" />
+    <ItemSpec id="3045" faction="3" friendship_lv="15" lv_name="110041027" effect="3020;20" effect_des="110041013,20" reward="215206,5000" exp="0" rate="3,30;4,55;5,15" />
+    <ItemSpec id="3046" faction="4" friendship_lv="1" lv_name="110040800" exp="200" rate="1,80;2,20" />
+    <ItemSpec id="3047" faction="4" friendship_lv="2" lv_name="110041018" reward="215204,2000" exp="300" rate="1,70;2,30" />
+    <ItemSpec id="3048" faction="4" friendship_lv="3" lv_name="110041023" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="450" rate="1,60;2,40" />
+    <ItemSpec id="3049" faction="4" friendship_lv="4" lv_name="110040801" effect="3010;5" effect_des="110041010,5" reward="215204,3000" exp="670" rate="1,45;2,50;3,5" />
+    <ItemSpec id="3050" faction="4" friendship_lv="5" lv_name="110041019" reward="215204,3000" exp="1000" rate="1,40;2,50;3,10" />
+    <ItemSpec id="3051" faction="4" friendship_lv="6" lv_name="110041024" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="1500" rate="1,30;2,55;3,15" />
+    <ItemSpec id="3052" faction="4" friendship_lv="7" lv_name="110040802" effect="3010;5" effect_des="110041010,5" reward="211213,50000" exp="2200" rate="1,25;2,55;3,20" />
+    <ItemSpec id="3053" faction="4" friendship_lv="8" lv_name="110041020" reward="211213,50000" exp="3400" rate="2,45;3,50;4,5" />
+    <ItemSpec id="3054" faction="4" friendship_lv="9" lv_name="110041025" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="5100" rate="2,40;3,50;4,10"/>
+    <ItemSpec id="3055" faction="4" friendship_lv="10" lv_name="110040803" effect="3050;5" effect_des="110041011,5" reward="211213,50000" exp="7600" rate="2,30;3,55;4,15" />
+    <ItemSpec id="3056" faction="4" friendship_lv="11" lv_name="110041021" reward="211213,50000" exp="11000" rate="2,25;3,55;4,20" />
+    <ItemSpec id="3057" faction="4" friendship_lv="12" lv_name="110041026" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="17000" rate="3,45;4,50;5,5"/>
+    <ItemSpec id="3058" faction="4" friendship_lv="13" lv_name="110040868" effect="3050;5" effect_des="110041011,5" reward="209933,100" exp="25000" rate="3,40;4,50;5,10" />
+    <ItemSpec id="3059" faction="4" friendship_lv="14" lv_name="110041022" reward="209933,100" exp="38000" rate="3,30;4,55;5,15" />
+    <ItemSpec id="3060" faction="4" friendship_lv="15" lv_name="110041027" effect="3020;20" effect_des="110041013,20" reward="215206,5000" exp="0" rate="3,30;4,55;5,15" />
+    <ItemSpec id="3061" faction="5" friendship_lv="10" lv_name="110040798" reward="209933,10" />
+    <ItemSpec id="3062" faction="5" friendship_lv="20" lv_name="110040864" reward="209933,20" />
+    <ItemSpec id="3063" faction="5" friendship_lv="30" lv_name="110040865" reward="209933,40" />
+    <ItemSpec id="3064" faction="5" friendship_lv="40" lv_name="110040866" reward="209933,60" />
+    <ItemSpec id="3065" faction="5" friendship_lv="50" lv_name="110040969" reward="209933,80" />
+    <ItemSpec id="3066" faction="5" friendship_lv="60" lv_name="110040867" reward="209933,100" />
+
+    </Group> 
+
+<!--faction_tasks6（军功南北-赛季英雄版）-->
+    <Group id="faction_lv_reward6">
+
+    <ItemSpec id="6001" faction="1" friendship_lv="1" lv_name="110040800" exp="200" rate="1,80;2,20" />
+    <ItemSpec id="6002" faction="1" friendship_lv="2" lv_name="110041018" reward="215204,2000" exp="300" rate="1,70;2,30" />
+    <ItemSpec id="6003" faction="1" friendship_lv="3" lv_name="110041023" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="450" rate="1,60;2,40" />
+    <ItemSpec id="6004" faction="1" friendship_lv="4" lv_name="110040801" effect="3010;5" effect_des="110041010,5" reward="215204,3000" exp="670" rate="1,45;2,50;3,5" />
+    <ItemSpec id="6005" faction="1" friendship_lv="5" lv_name="110041019" reward="215204,3000" exp="1000" rate="1,40;2,50;3,10" />
+    <ItemSpec id="6006" faction="1" friendship_lv="6" lv_name="110041024" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="1500" rate="1,30;2,55;3,15" />
+    <ItemSpec id="6007" faction="1" friendship_lv="7" lv_name="110040802" effect="3010;5" effect_des="110041010,5" reward="211213,50000" exp="2200" rate="1,25;2,55;3,20" />
+    <ItemSpec id="6008" faction="1" friendship_lv="8" lv_name="110041020" reward="211213,50000" exp="3400" rate="2,45;3,50;4,5" />
+    <ItemSpec id="6009" faction="1" friendship_lv="9" lv_name="110041025" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="5100" rate="2,40;3,50;4,10" />
+    <ItemSpec id="6010" faction="1" friendship_lv="10" lv_name="110040803" effect="3050;5" effect_des="110041011,5" reward="211213,50000" exp="7600" rate="2,30;3,55;4,15" />
+    <ItemSpec id="6011" faction="1" friendship_lv="11" lv_name="110041021" reward="211213,50000" exp="11000" rate="2,25;3,55;4,20" />
+    <ItemSpec id="6012" faction="1" friendship_lv="12" lv_name="110041026" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="17000" rate="3,45;4,50;5,5" />
+    <ItemSpec id="6013" faction="1" friendship_lv="13" lv_name="110040868" effect="3050;5" effect_des="110041011,5" reward="209933,100" exp="25000" rate="3,40;4,50;5,10" />
+    <ItemSpec id="6014" faction="1" friendship_lv="14" lv_name="110041022" reward="209933,100" exp="38000" rate="3,30;4,55;5,15" />
+    <ItemSpec id="6015" faction="1" friendship_lv="15" lv_name="110041027" effect="3020;20" effect_des="110041013,20" reward="215206,5000" exp="0" rate="3,30;4,55;5,15" />
+    <ItemSpec id="6016" faction="2" friendship_lv="1" lv_name="110040800" exp="200" rate="1,80;2,20" />
+    <ItemSpec id="6017" faction="2" friendship_lv="2" lv_name="110041018" reward="215204,2000" exp="300" rate="1,70;2,30" />
+    <ItemSpec id="6018" faction="2" friendship_lv="3" lv_name="110041023" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="450" rate="1,60;2,40" />
+    <ItemSpec id="6019" faction="2" friendship_lv="4" lv_name="110040801" effect="3010;5" effect_des="110041010,5" reward="215204,3000" exp="670" rate="1,45;2,50;3,5" />
+    <ItemSpec id="6020" faction="2" friendship_lv="5" lv_name="110041019" reward="215204,3000" exp="1000" rate="1,40;2,50;3,10" />
+    <ItemSpec id="6021" faction="2" friendship_lv="6" lv_name="110041024" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="1500" rate="1,30;2,55;3,15" />
+    <ItemSpec id="6022" faction="2" friendship_lv="7" lv_name="110040802" effect="3010;5" effect_des="110041010,5" reward="211213,50000" exp="2200" rate="1,25;2,55;3,20" />
+    <ItemSpec id="6023" faction="2" friendship_lv="8" lv_name="110041020" reward="211213,50000" exp="3400" rate="2,45;3,50;4,5" />
+    <ItemSpec id="6024" faction="2" friendship_lv="9" lv_name="110041025" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="5100" rate="2,40;3,50;4,10" />
+    <ItemSpec id="6025" faction="2" friendship_lv="10" lv_name="110040803" effect="3050;5" effect_des="110041011,5" reward="211213,50000" exp="7600" rate="2,30;3,55;4,15" />
+    <ItemSpec id="6026" faction="2" friendship_lv="11" lv_name="110041021" reward="211213,50000" exp="11000" rate="2,25;3,55;4,20" />
+    <ItemSpec id="6027" faction="2" friendship_lv="12" lv_name="110041026" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="17000" rate="3,45;4,50;5,5" />
+    <ItemSpec id="6028" faction="2" friendship_lv="13" lv_name="110040868" effect="3050;5" effect_des="110041011,5" reward="209933,100" exp="25000" rate="3,40;4,50;5,10" />
+    <ItemSpec id="6029" faction="2" friendship_lv="14" lv_name="110041022" reward="209933,100" exp="38000" rate="3,30;4,55;5,15" />
+    <ItemSpec id="6030" faction="2" friendship_lv="15" lv_name="110041027" effect="3020;20" effect_des="110041013,20" reward="215206,5000" exp="0" rate="3,30;4,55;5,15" />
+    <ItemSpec id="6031" faction="3" friendship_lv="1" lv_name="110040800" exp="200" rate="1,80;2,20" />
+    <ItemSpec id="6032" faction="3" friendship_lv="2" lv_name="110041018" reward="215204,2000" exp="300" rate="1,70;2,30" />
+    <ItemSpec id="6033" faction="3" friendship_lv="3" lv_name="110041023" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="450" rate="1,60;2,40" />
+    <ItemSpec id="6034" faction="3" friendship_lv="4" lv_name="110040801" effect="3010;5" effect_des="110041010,5" reward="215204,3000" exp="670" rate="1,45;2,50;3,5" />
+    <ItemSpec id="6035" faction="3" friendship_lv="5" lv_name="110041019" reward="215204,3000" exp="1000" rate="1,40;2,50;3,10" />
+    <ItemSpec id="6036" faction="3" friendship_lv="6" lv_name="110041024" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="1500" rate="1,30;2,55;3,15" />
+    <ItemSpec id="6037" faction="3" friendship_lv="7" lv_name="110040802" effect="3010;5" effect_des="110041010,5" reward="211213,50000" exp="2200" rate="1,25;2,55;3,20" />
+    <ItemSpec id="6038" faction="3" friendship_lv="8" lv_name="110041020" reward="211213,50000" exp="3400" rate="2,45;3,50;4,5" />
+    <ItemSpec id="6039" faction="3" friendship_lv="9" lv_name="110041025" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="5100" rate="2,40;3,50;4,10" />
+    <ItemSpec id="6040" faction="3" friendship_lv="10" lv_name="110040803" effect="3050;5" effect_des="110041011,5" reward="211213,50000" exp="7600" rate="2,30;3,55;4,15" />
+    <ItemSpec id="6041" faction="3" friendship_lv="11" lv_name="110041021" reward="211213,50000" exp="11000" rate="2,25;3,55;4,20" />
+    <ItemSpec id="6042" faction="3" friendship_lv="12" lv_name="110041026" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="17000" rate="3,45;4,50;5,5" />
+    <ItemSpec id="6043" faction="3" friendship_lv="13" lv_name="110040868" effect="3050;5" effect_des="110041011,5" reward="209933,100" exp="25000" rate="3,40;4,50;5,10" />
+    <ItemSpec id="6044" faction="3" friendship_lv="14" lv_name="110041022" reward="209933,100" exp="38000" rate="3,30;4,55;5,15" />
+    <ItemSpec id="6045" faction="3" friendship_lv="15" lv_name="110041027" effect="3020;20" effect_des="110041013,20" reward="215206,5000" exp="0" rate="3,30;4,55;5,15" />
+    <ItemSpec id="6046" faction="4" friendship_lv="1" lv_name="110040800" exp="200" rate="1,80;2,20" />
+    <ItemSpec id="6047" faction="4" friendship_lv="2" lv_name="110041018" reward="215204,2000" exp="300" rate="1,70;2,30" />
+    <ItemSpec id="6048" faction="4" friendship_lv="3" lv_name="110041023" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="450" rate="1,60;2,40" />
+    <ItemSpec id="6049" faction="4" friendship_lv="4" lv_name="110040801" effect="3010;5" effect_des="110041010,5" reward="215204,3000" exp="670" rate="1,45;2,50;3,5" />
+    <ItemSpec id="6050" faction="4" friendship_lv="5" lv_name="110041019" reward="215204,3000" exp="1000" rate="1,40;2,50;3,10" />
+    <ItemSpec id="6051" faction="4" friendship_lv="6" lv_name="110041024" effect="3030;5" effect_des="110041009,5" reward="215206,5000" exp="1500" rate="1,30;2,55;3,15" />
+    <ItemSpec id="6052" faction="4" friendship_lv="7" lv_name="110040802" effect="3010;5" effect_des="110041010,5" reward="211213,50000" exp="2200" rate="1,25;2,55;3,20" />
+    <ItemSpec id="6053" faction="4" friendship_lv="8" lv_name="110041020" reward="211213,50000" exp="3400" rate="2,45;3,50;4,5" />
+    <ItemSpec id="6054" faction="4" friendship_lv="9" lv_name="110041025" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="5100" rate="2,40;3,50;4,10" />
+    <ItemSpec id="6055" faction="4" friendship_lv="10" lv_name="110040803" effect="3050;5" effect_des="110041011,5" reward="211213,50000" exp="7600" rate="2,30;3,55;4,15" />
+    <ItemSpec id="6056" faction="4" friendship_lv="11" lv_name="110041021" reward="211213,50000" exp="11000" rate="2,25;3,55;4,20" />
+    <ItemSpec id="6057" faction="4" friendship_lv="12" lv_name="110041026" effect="27660;5" effect_des="110041012,5" reward="215206,5000" exp="17000" rate="3,45;4,50;5,5" />
+    <ItemSpec id="6058" faction="4" friendship_lv="13" lv_name="110040868" effect="3050;5" effect_des="110041011,5" reward="209933,100" exp="25000" rate="3,40;4,50;5,10" />
+    <ItemSpec id="6059" faction="4" friendship_lv="14" lv_name="110041022" reward="209933,100" exp="38000" rate="3,30;4,55;5,15" />
+    <ItemSpec id="6060" faction="4" friendship_lv="15" lv_name="110041027" effect="3020;20" effect_des="110041013,20" reward="215206,5000" exp="0" rate="3,30;4,55;5,15" />
+    <ItemSpec id="6061" faction="5" friendship_lv="10" lv_name="110040798" reward="209933,10" />
+    <ItemSpec id="6062" faction="5" friendship_lv="20" lv_name="110040864" reward="209933,20" />
+    <ItemSpec id="6063" faction="5" friendship_lv="30" lv_name="110040865" reward="209933,40" />
+    <ItemSpec id="6064" faction="5" friendship_lv="40" lv_name="110040866" reward="209933,60" />
+    <ItemSpec id="6065" faction="5" friendship_lv="50" lv_name="110040969" reward="209933,80" />
+    <ItemSpec id="6066" faction="5" friendship_lv="60" lv_name="110040867" reward="209933,100" />
+
+
+    </Group> 
+
+
+</tns:database>

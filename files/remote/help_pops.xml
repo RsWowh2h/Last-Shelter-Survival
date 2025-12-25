@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="help_pops">
+
+
+<ItemSpec id="1001" type="2" content="item217009" />
+<ItemSpec id="1002" type="1" content="77000269" />
+<ItemSpec id="1003" type="1" content="77000270" />
+<ItemSpec id="1004" type="1" content="77000271" />
+<ItemSpec id="1005" type="1" content="77000272" />
+<ItemSpec id="1006" type="1" content="77000273" />
+<ItemSpec id="1007" type="1" content="77000274" />
+<ItemSpec id="1008" type="1" content="77000275" />
+<ItemSpec id="1009" type="1" content="77000276" />
+<ItemSpec id="1010" type="1" content="77000277" />
+<ItemSpec id="1011" type="1" content="77000278" />
+<ItemSpec id="1012" type="1" content="77000279" />
+<ItemSpec id="1013" type="2" content="item217013" />
+<ItemSpec id="1014" type="2" content="item217014" />
+<ItemSpec id="1015" type="2" content="item217015" />
+<ItemSpec id="1016" type="2" content="item217017" />
+<ItemSpec id="1017" type="2" content="jichu70012" />
+<ItemSpec id="1018" type="2" content="item217019" />
+<ItemSpec id="1019" type="2" content="jichu70018" />
+
+
+
+  </Group>
+</tns:database>

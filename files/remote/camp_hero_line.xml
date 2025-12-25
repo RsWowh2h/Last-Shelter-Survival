@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="camp_hero_line">
+    <ItemSpec id="1" camp="1" hero="10129" slogan="110096110"/>
+		<ItemSpec id="2" camp="1" hero="10133" slogan="110096113"/>
+		<ItemSpec id="3" camp="1" hero="10120" slogan="110096117"/>
+		<ItemSpec id="4" camp="1" hero="10131" slogan="110096121"/>
+		<ItemSpec id="5" camp="1" hero="10126" slogan="110096122"/>
+		<ItemSpec id="6" camp="1" hero="10121" slogan="110096123"/>
+		<ItemSpec id="7" camp="1" hero="10152" slogan="110096027"/>
+		<ItemSpec id="8" camp="1" hero="10151" slogan="110096028"/>
+		<ItemSpec id="9" camp="1" hero="10156" slogan="110096127"/>
+		<ItemSpec id="10" camp="1" hero="10157" slogan="110096066"/>
+		<ItemSpec id="11" camp="1" hero="10158" slogan="110096129"/>
+		<ItemSpec id="12" camp="1" hero="10163" slogan="110096134"/>
+		<ItemSpec id="13" camp="1" hero="10164" slogan="110096135"/>
+		<ItemSpec id="14" camp="1" hero="10165" slogan="110096137"/>
+		<ItemSpec id="15" camp="1" hero="10177" slogan="110096147"/>
+		<ItemSpec id="16" camp="1" hero="10185" slogan="110096155"/>
+		<ItemSpec id="17" camp="1" hero="10190" slogan="110096162"/>
+		<ItemSpec id="18" camp="1" hero="10196" slogan="110095670"/>
+		<ItemSpec id="19" camp="1" hero="10205" slogan="110095690"/>
+		<ItemSpec id="20" camp="1" hero="10206" slogan="110095693"/>
+		<ItemSpec id="21" camp="1" hero="10208" slogan="110095686"/>
+		<ItemSpec id="22" camp="1" hero="10209" slogan="236111"/>
+		<ItemSpec id="23" camp="1" hero="10210" slogan="110490074"/>
+		<ItemSpec id="24" camp="2" hero="10128" slogan="110096111"/>
+		<ItemSpec id="25" camp="2" hero="10122" slogan="110096112"/>
+		<ItemSpec id="26" camp="2" hero="10124" slogan="110096116"/>
+		<ItemSpec id="27" camp="2" hero="10137" slogan="110096120"/>
+		<ItemSpec id="28" camp="2" hero="10139" slogan="110096017"/>
+		<ItemSpec id="29" camp="2" hero="10147" slogan="110096024"/>
+		<ItemSpec id="30" camp="2" hero="10148" slogan="110096025"/>
+		<ItemSpec id="31" camp="2" hero="10155" slogan="110096126"/>
+		<ItemSpec id="32" camp="2" hero="10160" slogan="110096131"/>
+		<ItemSpec id="33" camp="2" hero="10166" slogan="110096136"/>
+		<ItemSpec id="34" camp="2" hero="10170" slogan="110096143"/>
+		<ItemSpec id="35" camp="2" hero="10174" slogan="110096142"/>
+		<ItemSpec id="36" camp="2" hero="10175" slogan="110096146"/>
+		<ItemSpec id="37" camp="2" hero="10178" slogan="110096149"/>
+		<ItemSpec id="38" camp="2" hero="10183" slogan="110311014"/>
+		<ItemSpec id="39" camp="2" hero="10184" slogan="110311013"/>
+		<ItemSpec id="40" camp="2" hero="10188" slogan="110096158"/>
+		<ItemSpec id="41" camp="2" hero="10195" slogan="110095669"/>
+		<ItemSpec id="42" camp="2" hero="10201" slogan="110095681"/>
+		<ItemSpec id="43" camp="3" hero="10136" slogan="110096114"/>
+		<ItemSpec id="44" camp="3" hero="10134" slogan="110096119"/>
+		<ItemSpec id="45" camp="3" hero="10144" slogan="110096021"/>
+		<ItemSpec id="46" camp="3" hero="10146" slogan="110096023"/>
+		<ItemSpec id="47" camp="3" hero="10063" slogan="110096030"/>
+		<ItemSpec id="48" camp="3" hero="10141" slogan="110096047"/>
+		<ItemSpec id="49" camp="3" hero="10153" slogan="110096124"/>
+		<ItemSpec id="50" camp="3" hero="10159" slogan="110096130"/>
+		<ItemSpec id="51" camp="3" hero="10162" slogan="110096133"/>
+		<ItemSpec id="52" camp="3" hero="10168" slogan="110096139"/>
+		<ItemSpec id="53" camp="3" hero="10169" slogan="110096140"/>
+		<ItemSpec id="54" camp="3" hero="10171" slogan="110096145"/>
+		<ItemSpec id="55" camp="3" hero="10173" slogan="110096141"/>
+		<ItemSpec id="56" camp="3" hero="10187" slogan="110096157"/>
+		<ItemSpec id="57" camp="3" hero="10191" slogan="110095665"/>
+		<ItemSpec id="58" camp="3" hero="10197" slogan="110095674"/>
+		<ItemSpec id="59" camp="3" hero="10198" slogan="110095675"/>
+		<ItemSpec id="60" camp="3" hero="10202" slogan="110095682"/>
+		<ItemSpec id="61" camp="3" hero="10211" slogan="110490075"/>
+		<ItemSpec id="62" camp="4" hero="10125" slogan="110096115"/>
+		<ItemSpec id="63" camp="4" hero="10127" slogan="110096118"/>
+		<ItemSpec id="64" camp="4" hero="10138" slogan="110096018"/>
+		<ItemSpec id="65" camp="4" hero="10142" slogan="110096019"/>
+		<ItemSpec id="66" camp="4" hero="10143" slogan="110096020"/>
+		<ItemSpec id="67" camp="4" hero="10145" slogan="110096022"/>
+		<ItemSpec id="68" camp="4" hero="10149" slogan="110096026"/>
+		<ItemSpec id="69" camp="4" hero="10154" slogan="110096125"/>
+		<ItemSpec id="70" camp="4" hero="10161" slogan="110096132"/>
+		<ItemSpec id="71" camp="4" hero="10167" slogan="110096138"/>
+		<ItemSpec id="72" camp="4" hero="10172" slogan="110096144"/>
+		<ItemSpec id="73" camp="4" hero="10176" slogan="110096148"/>
+		<ItemSpec id="74" camp="4" hero="10179" slogan="110096150"/>
+		<ItemSpec id="75" camp="4" hero="10189" slogan="110096159"/>
+		<ItemSpec id="76" camp="4" hero="10192" slogan="110095666"/>
+		<ItemSpec id="77" camp="4" hero="10199" slogan="110095676"/>
+		<ItemSpec id="78" camp="4" hero="10200" slogan="110095678"/>
+		<ItemSpec id="79" camp="4" hero="10203" slogan="110095684"/>
+		<ItemSpec id="80" camp="4" hero="10204" slogan="110095689"/>
+		<ItemSpec id="81" camp="4" hero="10207" slogan="110095696"/>
+		<ItemSpec id="82" camp="5" hero="10180" slogan="110096151"/>
+		<ItemSpec id="83" camp="5" hero="10181" slogan="110096151"/>
+		<ItemSpec id="84" camp="5" hero="10182" slogan="110096152"/>
+		<ItemSpec id="85" camp="5" hero="10193" slogan="110096160"/>
+		<ItemSpec id="86" camp="5" hero="10194" slogan="110096161"/>
+    
+
+
+
+    </Group> 
+
+</tns:database>

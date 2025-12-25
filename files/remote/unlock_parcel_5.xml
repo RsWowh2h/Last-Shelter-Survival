@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="unlock_parcel">
+	<!--order 对应block_unlock表block_id+1，id对应block_unlock表中id -->
+     <ItemSpec id="1" order="28" stone="1" iron="2" food="3" wood="4" population="0" money="0" building="400000;0" chapter="0" Tower_level="0" fight="0" unlock="1" />
+    <ItemSpec id="2" order="36" stone="2" iron="3" food="4" wood="5" population="0" money="1" building="400000;0" chapter="0" Tower_level="0" fight="0" regionID="28" />
+    <ItemSpec id="3" order="37" stone="0" iron="0" food="0" wood="0" population="0" money="2" building="400000;2" chapter="0" Tower_level="0" fight="1" regionID="36" />
+    <ItemSpec id="4" order="29" stone="0" iron="0" food="0" wood="0" population="0" money="3" building="400000;3" chapter="2" Tower_level="0" fight="1" regionID="37" />
+    <ItemSpec id="5" order="21" stone="0" iron="0" food="0" wood="0" population="0" money="4" building="400000;4" chapter="0" Tower_level="0" fight="1" regionID="29" />
+    <ItemSpec id="6" order="20" stone="0" iron="0" food="0" wood="0" population="0" money="5" building="400000;5" chapter="0" Tower_level="0" fight="1" regionID="21" />
+    <ItemSpec id="7" order="19" stone="0" iron="0" food="0" wood="0" population="0" money="6" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="20" />
+    <ItemSpec id="8" order="27" stone="0" iron="0" food="0" wood="0" population="0" money="7" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="19" />
+    <ItemSpec id="9" order="35" stone="0" iron="0" food="0" wood="0" population="0" money="8" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="27" />
+    <ItemSpec id="10" order="43" stone="0" iron="0" food="0" wood="0" population="0" money="9" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="35" />
+    <ItemSpec id="11" order="44" stone="0" iron="0" food="0" wood="0" population="0" money="10" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="43" />
+    <ItemSpec id="12" order="45" stone="0" iron="0" food="0" wood="0" population="0" money="11" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="44" />
+    <ItemSpec id="13" order="46" stone="0" iron="0" food="0" wood="0" population="0" money="12" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="45" />
+    <ItemSpec id="14" order="38" stone="0" iron="0" food="0" wood="0" population="0" money="13" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="46" />
+    <ItemSpec id="15" order="30" stone="0" iron="0" food="0" wood="0" population="0" money="14" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="38" />
+    <ItemSpec id="16" order="22" stone="0" iron="0" food="0" wood="0" population="0" money="15" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="30" />
+    <ItemSpec id="17" order="14" stone="0" iron="0" food="0" wood="0" population="0" money="16" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="22" />
+    <ItemSpec id="18" order="13" stone="0" iron="0" food="0" wood="0" population="0" money="17" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="14" />
+    <ItemSpec id="19" order="12" stone="0" iron="0" food="0" wood="0" population="0" money="18" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="13" />
+    <ItemSpec id="20" order="11" stone="0" iron="0" food="0" wood="0" population="0" money="19" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="12" />
+    <ItemSpec id="21" order="10" stone="0" iron="0" food="0" wood="0" population="0" money="20" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="11" />
+    <ItemSpec id="22" order="18" stone="0" iron="0" food="0" wood="0" population="0" money="21" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="10" />
+    <ItemSpec id="23" order="26" stone="0" iron="0" food="0" wood="0" population="0" money="22" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="18" />
+    <ItemSpec id="24" order="34" stone="0" iron="0" food="0" wood="0" population="0" money="23" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="26" />
+    <ItemSpec id="25" order="42" stone="0" iron="0" food="0" wood="0" population="0" money="24" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="34" />
+    <ItemSpec id="26" order="50" stone="0" iron="0" food="0" wood="0" population="0" money="25" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="42" />
+    <ItemSpec id="27" order="51" stone="0" iron="0" food="0" wood="0" population="0" money="26" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="50" />
+    <ItemSpec id="28" order="52" stone="0" iron="0" food="0" wood="0" population="0" money="27" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="51" />
+    <ItemSpec id="29" order="53" stone="0" iron="0" food="0" wood="0" population="0" money="28" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="52" />
+    <ItemSpec id="30" order="54" stone="0" iron="0" food="0" wood="0" population="0" money="29" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="53" />
+    <ItemSpec id="31" order="55" stone="0" iron="0" food="0" wood="0" population="0" money="30" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="54" />
+    <ItemSpec id="32" order="47" stone="0" iron="0" food="0" wood="0" population="0" money="31" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="55" />
+    <ItemSpec id="33" order="39" stone="0" iron="0" food="0" wood="0" population="0" money="32" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="47" />
+    <ItemSpec id="34" order="31" stone="0" iron="0" food="0" wood="0" population="0" money="33" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="39" />
+    <ItemSpec id="35" order="23" stone="0" iron="0" food="0" wood="0" population="0" money="34" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="31" />
+    <ItemSpec id="36" order="15" stone="0" iron="0" food="0" wood="0" population="0" money="35" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="23" />
+    <ItemSpec id="37" order="7" stone="0" iron="0" food="0" wood="0" population="0" money="36" building="400000;6" chapter="7" Tower_level="0" fight="1" regionID="15" />
+    <ItemSpec id="38" order="6" stone="0" iron="0" food="0" wood="0" population="0" money="37" building="400000;6" chapter="6" Tower_level="0" fight="1" regionID="7" />
+    <ItemSpec id="39" order="5" stone="0" iron="0" food="0" wood="0" population="0" money="38" building="400000;6" chapter="5" Tower_level="0" fight="1" regionID="6" />
+    <ItemSpec id="40" order="4" stone="0" iron="0" food="0" wood="0" population="0" money="39" building="400000;6" chapter="4" Tower_level="0" fight="1" regionID="5" />
+    <ItemSpec id="41" order="3" stone="0" iron="0" food="0" wood="0" population="0" money="40" building="400000;6" chapter="3" Tower_level="0" fight="1" regionID="4" />
+    <ItemSpec id="42" order="2" stone="0" iron="0" food="0" wood="0" population="0" money="41" building="400000;6" chapter="2" Tower_level="0" fight="-1" regionID="3" />
+    <ItemSpec id="43" order="1" stone="0" iron="0" food="0" wood="0" population="0" money="42" building="400000;6" chapter="1" Tower_level="0" fight="0" />
+    <ItemSpec id="44" order="9" stone="0" iron="0" food="0" wood="0" population="0" money="43" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="1" />
+    <ItemSpec id="45" order="17" stone="0" iron="0" food="0" wood="0" population="0" money="44" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="9" />
+    <ItemSpec id="46" order="25" stone="0" iron="0" food="0" wood="0" population="0" money="45" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="17" />
+    <ItemSpec id="47" order="33" stone="0" iron="0" food="0" wood="0" population="0" money="46" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="25" />
+    <ItemSpec id="48" order="41" stone="0" iron="0" food="0" wood="0" population="0" money="47" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="33" />
+    <ItemSpec id="49" order="49" stone="0" iron="0" food="0" wood="0" population="0" money="48" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="41" />
+    <ItemSpec id="50" order="57" stone="0" iron="0" food="0" wood="0" population="0" money="49" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="49" />
+    <ItemSpec id="51" order="58" stone="0" iron="0" food="0" wood="0" population="0" money="50" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="57" />
+    <ItemSpec id="52" order="59" stone="0" iron="0" food="0" wood="0" population="0" money="51" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="58" />
+    <ItemSpec id="53" order="60" stone="0" iron="0" food="0" wood="0" population="0" money="52" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="59" />
+    <ItemSpec id="54" order="61" stone="0" iron="0" food="0" wood="0" population="0" money="53" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="60" />
+    <ItemSpec id="55" order="62" stone="0" iron="0" food="0" wood="0" population="0" money="54" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="61" />
+    <ItemSpec id="56" order="63" stone="0" iron="0" food="0" wood="0" population="0" money="55" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="62" />
+    <ItemSpec id="57" order="64" stone="0" iron="0" food="0" wood="0" population="0" money="56" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="63" />
+    <ItemSpec id="58" order="56" stone="0" iron="0" food="0" wood="0" population="0" money="57" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="64" />
+    <ItemSpec id="59" order="48" stone="0" iron="0" food="0" wood="0" population="0" money="58" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="56" />
+    <ItemSpec id="60" order="40" stone="0" iron="0" food="0" wood="0" population="0" money="59" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="48" />
+    <ItemSpec id="61" order="32" stone="0" iron="0" food="0" wood="0" population="0" money="60" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="40" />
+    <ItemSpec id="62" order="24" stone="0" iron="0" food="0" wood="0" population="0" money="61" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="32" />
+    <ItemSpec id="63" order="16" stone="0" iron="0" food="0" wood="0" population="0" money="62" building="400000;6" chapter="0" Tower_level="0" fight="1" regionID="24" />
+    <ItemSpec id="64" order="8" stone="0" iron="0" food="0" wood="0" population="0" money="63" building="400000;6" chapter="8" Tower_level="0" fight="1" regionID="16" />
+
+
+	</Group>
+	</tns:database>

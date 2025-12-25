@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="af_newevents">
+	<!-- 事件名称， 大本等级要求，距离上一次事件的时间范围：最小时间~最大时间，单位分钟， 上一个事件的依赖ID -->
+	<ItemSpec id="1001" name="AF_IM30_event2" lv_require="1" affair_timeMin="360" affair_timeMax="1440" last="0" />
+	<ItemSpec id="1002" name="AF_IM30_event3" lv_require="1" affair_timeMin="360" affair_timeMax="1440" last="1001"  />
+	<ItemSpec id="1003" name="AF_IM30_event4" lv_require="1" affair_timeMin="360" affair_timeMax="1440" last="1002"  />
+	</Group> 
+	
+	
+	
+	<Group id="af_timelimit">	
+    <!-- 时间为注册多少天以内的用户有效。例：0为所有新老用户，7为7天内注册的新用户 -->		
+	<ItemSpec id="1001" time="0" />
+	</Group> 
+	
+	
+	</tns:database>

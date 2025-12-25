@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="satellite_orbit">
+		<ItemSpec id="1" name="110403837" icon="img_trackmarking_01" point="101|102|103|104|105|106|107|108|109|110|111|112" posX="54" posY="-55.2" track_id="1" suit="1001"/>
+		<ItemSpec id="2" name="110403838" icon="img_trackmarking_02" season="1" unlock="1;60" point="201|202|203|204|205|206|207|208|209|210|211|212" posX="82.8" posY="166.8" track_id="4" suit="1002"/>
+		<ItemSpec id="3" name="110403839" icon="img_trackmarking_03" season="1" unlock="2;60" point="301|302|303|304|305|306|307|308|309|310|311|312" posX="-234" posY="-54" track_id="5" suit="1003"/>
+		<ItemSpec id="4" name="110403840" icon="img_trackmarking_04" season="1" show="3;180" unlock="3;240" point="401|402|403|404|405|406|407|408|409|410|411|412" posX="-248.4" posY="196.8" track_id="6" suit="1004"/>
+		<ItemSpec id="5" name="110403841" icon="img_trackmarking_01" season="1" show="4;180" unlock="4;240" point="501|502|503|504|505|506|507|508|509|510|511|512" posX="160.8" posY="25.2" track_id="2" suit="1005"/>
+	</Group>
+</tns:database>

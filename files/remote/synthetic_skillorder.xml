@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="synthetic_skillorder">
+		<ItemSpec id="501201" heroId="10501" slot="2" skillId_order="501201|501202|501203|501204" unlock="0;11301;31301;41301"/>
+		<ItemSpec id="501501" heroId="10501" slot="5" skillId_order="501501|501502|501503|501504" unlock="0;21301;31901;51301"/>
+		<ItemSpec id="501801" heroId="10501" slot="8" skillId_order="501801|501802|501803|501804" unlock="0;22401;42701;52601"/>
+	</Group>
+</tns:database>

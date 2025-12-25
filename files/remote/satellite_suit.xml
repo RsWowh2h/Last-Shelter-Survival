@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="satellite_suit">
+		<ItemSpec id="1001" name="110403844" lv_num="5" satellite_num="6|9|12|12|12" satellite_lv="60|120|180|240|300" des="110403848|110403849|110403864|110403850|110403851" icon="SatelliteSuitSkill1"/>
+		<ItemSpec id="1002" name="110403845" icon="SatelliteSuitSkill2" lv_num="5" satellite_num="6|9|12|12|12" satellite_lv="60|120|180|240|300" des="110403852|110403853|110403865|110403854|110403855"/>
+		<ItemSpec id="1003" name="110403846" icon="SatelliteSuitSkill3" lv_num="5" satellite_num="6|9|12|12|12" satellite_lv="60|120|180|240|300" des="110403856|110403857|110403866|110403858|110403859"/>
+		<ItemSpec id="1004" icon="SatelliteSuitSkill4" lv_num="5" satellite_num="6|9|12|12|12" satellite_lv="60|120|180|240|300" des="110403852|110403853|110403865|110403854|110403855" name="110403847"/>
+		<ItemSpec id="1005" icon="SatelliteSuitSkill2" lv_num="5" satellite_num="6|9|12|12|12" satellite_lv="60|120|180|240|300" des="110403852|110403853|110403865|110403854|110403855" name="110403860"/>
+	</Group>
+</tns:database>

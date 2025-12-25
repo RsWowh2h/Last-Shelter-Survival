@@ -1,0 +1,8 @@
+# caches / temp
+files/cache/
+files/code_cache/
+files/app_webview/
+
+# system
+Thumbs.db
+*.log

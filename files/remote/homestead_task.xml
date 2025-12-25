@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="homestead_task">
+		<ItemSpec id="1101" type1="253" pic="pet_medal_2_1" effects="medal_default_1" name="112132001" content="112132002" para2="100" reward="3060701"/>
+		<ItemSpec id="1102" type1="253" pic="pet_medal_2_2" effects="medal_default_2" name="112132001" content="112132002" para2="300" reward="3060702"/>
+		<ItemSpec id="1103" type1="253" pic="pet_medal_2_3" effects="medal_default_3" name="112132001" content="112132002" para2="500" reward="3060703"/>
+		<ItemSpec id="1201" type1="254" pic="pet_medal_3_1" effects="medal_default_1" name="112132003" content="112132004" para2="100" reward="3060711"/>
+		<ItemSpec id="1202" type1="254" pic="pet_medal_3_2" effects="medal_default_2" name="112132003" content="112132004" para2="300" reward="3060712"/>
+		<ItemSpec id="1203" type1="254" pic="pet_medal_3_3" effects="medal_default_3" name="112132003" content="112132004" para2="500" reward="3060713"/>
+		<ItemSpec id="1301" type1="255" pic="pet_medal_4_1" effects="medal_hudong_1" name="112132005" content="112132006" para2="3" reward="3060721"/>
+		<ItemSpec id="1302" type1="255" pic="pet_medal_4_2" effects="medal_hudong_2" name="112132005" content="112132006" para2="5" reward="3060722"/>
+		<ItemSpec id="1303" type1="255" pic="pet_medal_4_3" effects="medal_hudong_3" name="112132005" content="112132006" para2="7" reward="3060723"/>
+		<ItemSpec id="1401" type1="256" pic="pet_medal_1_1" effects="medal_default_1" name="112132007" content="112132008" para2="100" reward="3060731"/>
+		<ItemSpec id="1402" type1="256" pic="pet_medal_1_2" effects="medal_default_2" name="112132007" content="112132008" para2="300" reward="3060732"/>
+		<ItemSpec id="1403" type1="256" pic="pet_medal_1_3" effects="medal_default_3" name="112132007" content="112132008" para2="500" reward="3060733"/>
+
+	</Group>
+</tns:database>

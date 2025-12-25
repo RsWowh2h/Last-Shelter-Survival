@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="alliance_upgrade_donate">
+    <ItemSpec id="1" times="1" cost="0" add_alliance_exp="100" add_contribution="500" />
+    <ItemSpec id="2" times="2" cost="50" add_alliance_exp="100" add_contribution="500" />
+    <ItemSpec id="3" times="3" cost="100" add_alliance_exp="100" add_contribution="500" />
+    <ItemSpec id="4" times="4" cost="150" add_alliance_exp="100" add_contribution="500" />
+    <ItemSpec id="5" times="5" cost="200" add_alliance_exp="100" add_contribution="500" />
+    <ItemSpec id="6" times="6" cost="250" add_alliance_exp="100" add_contribution="500" />
+	</Group> 
+</tns:database>

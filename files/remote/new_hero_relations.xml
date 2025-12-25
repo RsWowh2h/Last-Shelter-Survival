@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="new_hero_relations">
+
+    <ItemSpec id="20001" heroes="10026;10027;10028" need_num="3" effect="+5%|+100" effect_plus="901;100|1013;5|1014;5" name="90500044" effect_desc="90500049" relation_desc="90500045" order="4" effectPara="90700010;+100|90700006;+5%" />
+    <ItemSpec id="20002" heroes="10029;10030;10031" need_num="3" effect="+5%|+5%" effect_plus="1015;10|1016;10" name="90500042" effect_desc="90500048" relation_desc="90500043" order="3" effectPara="90700008;+10%" />
+    <ItemSpec id="20003" heroes="10032;10033;10034" need_num="3" effect="+5%|+5%" effect_plus="1031;5|1032;5|1051;5|1052;5" name="90500046" effect_desc="90500050" relation_desc="90500047" order="2" effectPara="90700005;+5%|90700011;+5%" />
+    <ItemSpec id="20004" heroes="10062;10063;10064" need_num="3" effect_plus="1011;3|1012;3|1015;3|1016;3|1013;3|1014;3|926;80" name="90460151" relation_desc="90460152" order="2" effectPara="90700004;+3%|90700008;+3%|90700006;+3%|90810038;+80" />
+    <ItemSpec id="20005" heroes="10181;10182" need_num="2" effect_plus="3050;10|3010;15" order="2" effectPara="90700002;+15%|77112003;+10%" />
+	<ItemSpec id="20006" heroes="10181;10182;10193;10194" need_num="2" effect_plus="3050;10|3010;15" order="2" effectPara="88003615;+10%" />
+	<ItemSpec id="20007" heroes="10193;10194" need_num="2" effect_plus="3050;10|3010;15" order="2" effectPara="88003614;+25%" />
+	<ItemSpec id="20008" heroes="10060;10185" need_num="2" effect_plus="3010;5|3030;5" name="88003733" effect_desc="90700002|90700003" relation_desc="88003734" order="2" effectPara="90700002;+5%|90700003;+5%" />
+	
+
+	</Group >
+
+</tns:database>

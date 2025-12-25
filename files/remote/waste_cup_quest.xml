@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="waste_cup_quest">
+
+    <ItemSpec id="1" type1="1" type2="1" para1="1" reward="770110" dec="110110522"/>
+    <ItemSpec id="2" type1="1" type2="1" para1="5" reward="770111" dec="110110522"/>
+    <ItemSpec id="3" type1="1" type2="1" para1="10" reward="770112" dec="110110522"/>
+    <ItemSpec id="4" type1="1" type2="1" para1="15" reward="770113" dec="110110522"/>
+    <ItemSpec id="8" type1="1" type2="3" para1="100" reward="770114" dec="110110524"/>
+    <ItemSpec id="9" type1="1" type2="3" para1="200" reward="770115" dec="110110524"/>
+    <ItemSpec id="10" type1="1" type2="3" para1="400" reward="770116" dec="110110524"/>
+    <ItemSpec id="11" type1="1" type2="3" para1="1000" reward="770117" dec="110110524"/>
+    <ItemSpec id="12" type1="1" type2="3" para1="3000" reward="770118" dec="110110524"/>
+    <ItemSpec id="13" type1="1" type2="4" para1="1" reward="770119" dec="110110525"/>
+    <ItemSpec id="14" type1="1" type2="4" para1="5" reward="770120" dec="110110525"/>
+    <ItemSpec id="15" type1="1" type2="4" para1="10" reward="770121" dec="110110525"/>
+    <ItemSpec id="16" type1="1" type2="4" para1="15" reward="770122" dec="110110525"/>
+    <ItemSpec id="17" type1="1" type2="5" para1="1" reward="770123" dec="110110526"/>
+    <ItemSpec id="18" type1="1" type2="5" para1="3" reward="770124" dec="110110526"/>
+    <ItemSpec id="19" type1="1" type2="5" para1="5" reward="770125" dec="110110526"/>
+    <ItemSpec id="20" type1="2" type2="7" para1="5" reward="770126" dec="110110527"/>
+    <ItemSpec id="21" type1="2" type2="7" para1="10" reward="770127" dec="110110527"/>
+    <ItemSpec id="22" type1="2" type2="7" para1="30" reward="770128" dec="110110527"/>
+    <ItemSpec id="23" type1="2" type2="7" para1="50" reward="770129" dec="110110527"/>
+    <ItemSpec id="24" type1="2" type2="6" para1="50" reward="770130" dec="110110529"/>
+    <ItemSpec id="25" type1="2" type2="6" para1="150" reward="770131" dec="110110529"/>
+    <ItemSpec id="26" type1="2" type2="6" para1="250" reward="770132" dec="110110529"/>
+    <ItemSpec id="27" type1="2" type2="8" para1="5000" reward="770133" dec="110110530"/>
+    <ItemSpec id="28" type1="2" type2="8" para1="10000" reward="770134" dec="110110530"/>
+    <ItemSpec id="29" type1="2" type2="8" para1="30000" reward="770135" dec="110110530"/>
+    <ItemSpec id="30" type1="2" type2="9" para1="10" reward="770136" dec="110110531"/>
+    <ItemSpec id="31" type1="2" type2="9" para1="20" reward="770137" dec="110110531"/>
+    <ItemSpec id="32" type1="2" type2="9" para1="50" reward="770138" dec="110110531"/>
+    <ItemSpec id="33" type1="2" type2="9" para1="100" reward="770139" dec="110110531"/>
+    <ItemSpec id="34" type1="2" type2="10" para1="5" reward="770140" dec="110110532"/>
+    <ItemSpec id="35" type1="2" type2="10" para1="10" reward="770141" dec="110110532"/>
+    <ItemSpec id="36" type1="2" type2="10" para1="20" reward="770142" dec="110110532"/>
+		<ItemSpec id="37" type1="2" type2="10" para1="30" reward="770143" dec="110110532"/>
+
+
+
+
+
+	</Group>
+
+</tns:database>

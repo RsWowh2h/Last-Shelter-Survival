@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="pet_effectshow">
+		<ItemSpec id="60437" name="110401936" type="1" icon="mail_pet_tegong" max="500"/>
+		<ItemSpec id="60438" type="1" icon="mail_pet_zhili" max="500"/>
+		<ItemSpec id="60439" name="110401937" type="1" icon="mail_pet_tefang" max="500"/>
+		<ItemSpec id="60440" name="110401938" type="1" icon="mail_pet_tili" max="500"/>
+		<ItemSpec id="60441" name="110401940" type="1" icon="mail_pet_minjie" max="500"/>
+		<ItemSpec id="60442" type="1" icon="mail_pet_dungan" max="500"/>
+		<ItemSpec id="60443" type="1" icon="mail_pet_yinian" max="500"/>
+	</Group>
+</tns:database>

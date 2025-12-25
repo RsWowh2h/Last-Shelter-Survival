@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="DD_zone_county">
+    
+      <ItemSpec id="1" name="90601160" county="1" zoneID="1"/>
+    <ItemSpec id="2" name="90601161" county="2" zoneID="1"/>
+    <ItemSpec id="3" name="90601162" county="3" zoneID="1"/>
+    <ItemSpec id="4" name="90601163" county="4" zoneID="1"/>
+    <ItemSpec id="5" name="90601164" county="5" zoneID="1"/>
+    <ItemSpec id="6" name="90601165" county="6" zoneID="1"/>
+    <ItemSpec id="7" name="90601160" county="7" zoneID="2"/>
+    <ItemSpec id="8" name="90601161" county="8" zoneID="2"/>
+    <ItemSpec id="9" name="90601162" county="9" zoneID="2"/>
+    <ItemSpec id="10" name="90601163" county="10" zoneID="2"/>
+    <ItemSpec id="11" name="90601164" county="11" zoneID="2"/>
+    <ItemSpec id="12" name="90601165" county="12" zoneID="2"/>
+    <ItemSpec id="13" name="90601160" county="13" zoneID="3"/>
+    <ItemSpec id="14" name="90601161" county="14" zoneID="3"/>
+    <ItemSpec id="15" name="90601162" county="15" zoneID="3"/>
+    <ItemSpec id="16" name="90601163" county="16" zoneID="3"/>
+    <ItemSpec id="17" name="90601164" county="17" zoneID="3"/>
+    <ItemSpec id="18" name="90601165" county="18" zoneID="3"/>
+    <ItemSpec id="19" name="90601160" county="19" zoneID="4"/>
+    <ItemSpec id="20" name="90601161" county="20" zoneID="4"/>
+    <ItemSpec id="21" name="90601162" county="21" zoneID="4"/>
+    <ItemSpec id="22" name="90601163" county="22" zoneID="4"/>
+    <ItemSpec id="23" name="90601164" county="23" zoneID="4"/>
+    <ItemSpec id="24" name="90601165" county="24" zoneID="4"/>
+    <ItemSpec id="25" name="90601160" county="25" zoneID="5"/>
+    <ItemSpec id="26" name="90601161" county="26" zoneID="5"/>
+    <ItemSpec id="27" name="90601162" county="27" zoneID="5"/>
+    <ItemSpec id="28" name="90601163" county="28" zoneID="5"/>
+    <ItemSpec id="29" name="90601164" county="29" zoneID="5"/>
+    <ItemSpec id="30" name="90601165" county="30" zoneID="5"/>
+    <ItemSpec id="31" name="90601160" county="31" zoneID="6"/>
+    <ItemSpec id="32" name="90601161" county="32" zoneID="6"/>
+    <ItemSpec id="33" name="90601162" county="33" zoneID="6"/>
+    <ItemSpec id="34" name="90601163" county="34" zoneID="6"/>
+    <ItemSpec id="35" name="90601164" county="35" zoneID="6"/>
+    <ItemSpec id="36" name="90601165" county="36" zoneID="6"/>
+    <ItemSpec id="37" name="90601160" county="37" zoneID="7"/>
+    <ItemSpec id="38" name="90601161" county="38" zoneID="7"/>
+    <ItemSpec id="39" name="90601162" county="39" zoneID="7"/>
+    <ItemSpec id="40" name="90601163" county="40" zoneID="7"/>
+    <ItemSpec id="41" name="90601164" county="41" zoneID="7"/>
+    <ItemSpec id="42" name="90601165" county="42" zoneID="7"/>
+    <ItemSpec id="43" name="90601160" county="43" zoneID="8"/>
+    <ItemSpec id="44" name="90601161" county="44" zoneID="8"/>
+    <ItemSpec id="45" name="90601162" county="45" zoneID="8"/>
+    <ItemSpec id="46" name="90601163" county="46" zoneID="8"/>
+    <ItemSpec id="47" name="90601164" county="47" zoneID="8"/>
+    <ItemSpec id="48" name="90601165" county="48" zoneID="8"/>
+    <ItemSpec id="49" name="90601160" county="49" zoneID="9"/>
+    <ItemSpec id="50" name="90601161" county="50" zoneID="9"/>
+    <ItemSpec id="51" name="90601162" county="51" zoneID="9"/>
+    <ItemSpec id="52" name="90601163" county="52" zoneID="9"/>
+    <ItemSpec id="53" name="90601160" county="53" zoneID="10"/>
+    <ItemSpec id="54" name="90601161" county="54" zoneID="10"/>
+    <ItemSpec id="55" name="90601162" county="55" zoneID="10"/>
+    <ItemSpec id="56" name="90601163" county="56" zoneID="10"/>
+    <ItemSpec id="57" name="90601160" county="57" zoneID="11"/>
+    <ItemSpec id="58" name="90601161" county="58" zoneID="11"/>
+    <ItemSpec id="59" name="90601162" county="59" zoneID="11"/>
+    <ItemSpec id="60" name="90601163" county="60" zoneID="11"/>
+    <ItemSpec id="61" name="90601164" county="61" zoneID="11"/>
+    <ItemSpec id="62" name="90601160" county="62" zoneID="12"/>
+    <ItemSpec id="63" name="90601161" county="63" zoneID="12"/>
+    <ItemSpec id="64" name="90601162" county="64" zoneID="12"/>
+    <ItemSpec id="65" name="90601163" county="65" zoneID="12"/>
+    <ItemSpec id="66" county="66" zoneID="13"/>
+    <ItemSpec id="67" county="67" zoneID="14" ignore="1"/>
+    <ItemSpec id="68" county="68" zoneID="14" ignore="1"/>
+
+
+
+   
+	</Group>
+
+	<Group id="DD_zone_county2">
+
+        
+    <ItemSpec id="69" name="90601160" county="1" zoneID="1" type="1" pos="51;348"/>
+    <ItemSpec id="70" name="90601161" county="2" zoneID="1" type="1" pos="125;236"/>
+    <ItemSpec id="71" name="90601162" county="3" zoneID="1" type="1" pos="69;75"/>
+    <ItemSpec id="72" name="90601163" county="4" zoneID="1" type="1" pos="232;429"/>
+    <ItemSpec id="73" name="90601164" county="5" zoneID="1" type="1" pos="227;177"/>
+    <ItemSpec id="74" name="90601165" county="6" zoneID="1" type="1" pos="407;395"/>
+    <ItemSpec id="75" name="90601160" county="7" zoneID="2" type="1" pos="316;88"/>
+    <ItemSpec id="76" name="90601161" county="8" zoneID="2" type="1" pos="499;103"/>
+    <ItemSpec id="77" name="90601162" county="9" zoneID="2" type="1" pos="656;87"/>
+    <ItemSpec id="78" name="90601163" county="10" zoneID="2" type="1" pos="460;275"/>
+    <ItemSpec id="79" name="90601164" county="11" zoneID="2" type="1" pos="632;305"/>
+    <ItemSpec id="80" name="90601165" county="12" zoneID="2" type="1" pos="732;274"/>
+    <ItemSpec id="81" name="90601160" county="13" zoneID="3" type="1" pos="837;139"/>
+    <ItemSpec id="82" name="90601161" county="14" zoneID="3" type="1" pos="1035;80"/>
+    <ItemSpec id="83" name="90601162" county="15" zoneID="3" type="1" pos="1255;62"/>
+    <ItemSpec id="84" name="90601163" county="16" zoneID="3" type="1" pos="919;326"/>
+    <ItemSpec id="85" name="90601164" county="17" zoneID="3" type="1" pos="994;213"/>
+    <ItemSpec id="86" name="90601165" county="18" zoneID="3" type="1" pos="1203;186"/>
+    <ItemSpec id="87" name="90601160" county="19" zoneID="4" type="1" pos="1501;143"/>
+    <ItemSpec id="88" name="90601161" county="20" zoneID="4" type="1" pos="1470;349"/>
+    <ItemSpec id="89" name="90601162" county="21" zoneID="4" type="1" pos="1488;574"/>
+    <ItemSpec id="90" name="90601163" county="22" zoneID="4" type="1" pos="1263;375"/>
+    <ItemSpec id="91" name="90601164" county="23" zoneID="4" type="1" pos="1345;611"/>
+    <ItemSpec id="92" name="90601165" county="24" zoneID="4" type="1" pos="1156;514"/>
+    <ItemSpec id="93" name="90601160" county="25" zoneID="5" type="2" pos="1454;783"/>
+    <ItemSpec id="94" name="90601161" county="26" zoneID="5" type="2" pos="1532;946"/>
+    <ItemSpec id="95" name="90601162" county="27" zoneID="5" type="2" pos="1347;879"/>
+    <ItemSpec id="96" name="90601163" county="28" zoneID="5" type="2" pos="1199;706"/>
+    <ItemSpec id="97" name="90601164" county="29" zoneID="5" type="2" pos="1232;932"/>
+    <ItemSpec id="98" name="90601160" county="30" zoneID="6" type="1" pos="1463;1080"/>
+    <ItemSpec id="99" name="90601161" county="31" zoneID="6" type="1" pos="1520;1242"/>
+    <ItemSpec id="100" name="90601162" county="32" zoneID="6" type="1" pos="1521;1461"/>
+    <ItemSpec id="101" name="90601163" county="33" zoneID="6" type="1" pos="1434;1293"/>
+    <ItemSpec id="102" name="90601164" county="34" zoneID="6" type="1" pos="1200;1065"/>
+    <ItemSpec id="103" name="90601165" county="35" zoneID="6" type="1" pos="1267;1185"/>
+    <ItemSpec id="104" name="90601160" county="36" zoneID="7" type="1" pos="1316;1455"/>
+    <ItemSpec id="105" name="90601161" county="37" zoneID="7" type="1" pos="1145;1484"/>
+    <ItemSpec id="106" name="90601162" county="38" zoneID="7" type="1" pos="947;1490"/>
+    <ItemSpec id="107" name="90601163" county="39" zoneID="7" type="1" pos="1196;1277"/>
+    <ItemSpec id="108" name="90601164" county="40" zoneID="7" type="1" pos="1007;1286"/>
+    <ItemSpec id="109" name="90601165" county="41" zoneID="7" type="1" pos="852;1282"/>
+    <ItemSpec id="110" name="90601160" county="42" zoneID="8" type="1" pos="729;1525"/>
+    <ItemSpec id="111" name="90601161" county="43" zoneID="8" type="1" pos="398;1528"/>
+    <ItemSpec id="112" name="90601162" county="44" zoneID="8" type="1" pos="413;1362"/>
+    <ItemSpec id="113" name="90601163" county="45" zoneID="8" type="1" pos="667;1343"/>
+    <ItemSpec id="114" name="90601164" county="46" zoneID="8" type="1" pos="424;1204"/>
+    <ItemSpec id="115" name="90601165" county="47" zoneID="8" type="1" pos="655;1190"/>
+    <ItemSpec id="116" name="90601160" county="48" zoneID="9" type="1" pos="143;1455"/>
+    <ItemSpec id="117" name="90601161" county="49" zoneID="9" type="1" pos="69;1247"/>
+    <ItemSpec id="118" name="90601162" county="50" zoneID="9" type="1" pos="81;1053"/>
+    <ItemSpec id="119" name="90601163" county="51" zoneID="9" type="1" pos="142;908"/>
+    <ItemSpec id="120" name="90601164" county="52" zoneID="9" type="1" pos="244;1113"/>
+    <ItemSpec id="121" name="90601165" county="53" zoneID="9" type="1" pos="366;1008"/>
+    <ItemSpec id="122" name="90601160" county="54" zoneID="10" type="2" pos="45;721"/>
+    <ItemSpec id="123" name="90601161" county="55" zoneID="10" type="2" pos="112;597"/>
+    <ItemSpec id="124" name="90601162" county="56" zoneID="10" type="2" pos="290;853"/>
+    <ItemSpec id="125" name="90601163" county="57" zoneID="10" type="2" pos="267;720"/>
+    <ItemSpec id="126" name="90601164" county="58" zoneID="10" type="2" pos="360;591"/>
+    <ItemSpec id="127" name="90601160" county="59" zoneID="11" type="3" pos="639;506"/>
+    <ItemSpec id="128" name="90601161" county="60" zoneID="11" type="3" pos="606;711"/>
+    <ItemSpec id="129" name="90601162" county="61" zoneID="11" type="3" pos="480;743"/>
+    <ItemSpec id="130" name="90601163" county="62" zoneID="11" type="3" pos="488;942"/>
+    <ItemSpec id="131" name="90601164" county="63" zoneID="11" type="3" pos="728;1064"/>
+    <ItemSpec id="132" name="90601160" county="64" zoneID="12" type="3" pos="906;1048"/>
+    <ItemSpec id="133" name="90601161" county="65" zoneID="12" type="3" pos="1063;948"/>
+    <ItemSpec id="134" name="90601162" county="66" zoneID="12" type="3" pos="1046;628"/>
+    <ItemSpec id="135" name="90601163" county="67" zoneID="12" type="3" pos="882;673"/>
+    <ItemSpec id="136" name="90601164" county="68" zoneID="12" type="3" pos="802;490"/>
+    <ItemSpec id="137" county="69" zoneID="13" type="4" pos="787;750"/>
+    <ItemSpec id="138" county="70" zoneID="14" ignore="1"/>
+    <ItemSpec id="139" county="71" zoneID="14" ignore="1"/>
+
+
+
+
+
+	</Group>
+
+    <!-- 4阵营-首占有稀土奖励 -->
+
+    <Group id="DD_zone_county3">
+    <ItemSpec id="140" name="90601160" county="18" zoneID="2"/>
+    <ItemSpec id="141" name="90601161" county="19" zoneID="2"/>
+    <ItemSpec id="142" name="90601162" county="20" zoneID="2"/>
+    <ItemSpec id="143" name="90601163" county="21" zoneID="2"/>
+    <ItemSpec id="144" name="90601164" county="22" zoneID="2"/>
+    <ItemSpec id="145" name="90601165" county="23" zoneID="2"/>
+    <ItemSpec id="146" name="90601160" county="24" zoneID="3"/>
+    <ItemSpec id="147" name="90601161" county="25" zoneID="3"/>
+    <ItemSpec id="148" name="90601162" county="26" zoneID="3"/>
+    <ItemSpec id="149" name="90601163" county="27" zoneID="3"/>
+    <ItemSpec id="150" name="90601160" county="28" zoneID="4"/>
+    <ItemSpec id="151" name="90601161" county="29" zoneID="4"/>
+    <ItemSpec id="152" name="90601162" county="30" zoneID="4"/>
+    <ItemSpec id="153" name="90601163" county="31" zoneID="4"/>
+    <ItemSpec id="154" name="90601164" county="32" zoneID="4"/>
+    <ItemSpec id="155" name="90601165" county="33" zoneID="4"/>
+    <ItemSpec id="156" name="90601160" county="34" zoneID="5"/>
+    <ItemSpec id="157" name="90601161" county="35" zoneID="5"/>
+    <ItemSpec id="158" name="90601162" county="36" zoneID="5"/>
+    <ItemSpec id="159" name="90601163" county="37" zoneID="5"/>
+    <ItemSpec id="160" name="90601160" county="38" zoneID="6"/>
+    <ItemSpec id="161" name="90601161" county="39" zoneID="6"/>
+    <ItemSpec id="162" name="90601162" county="40" zoneID="6"/>
+    <ItemSpec id="163" name="90601163" county="41" zoneID="6"/>
+    <ItemSpec id="164" name="90601164" county="42" zoneID="6"/>
+    <ItemSpec id="165" name="90601165" county="43" zoneID="6"/>
+    <ItemSpec id="166" name="90601160" county="44" zoneID="7"/>
+    <ItemSpec id="167" name="90601161" county="45" zoneID="7"/>
+    <ItemSpec id="168" name="90601162" county="46" zoneID="7"/>
+    <ItemSpec id="169" name="90601163" county="47" zoneID="7"/>
+    <ItemSpec id="170" name="90601160" county="48" zoneID="8"/>
+    <ItemSpec id="171" name="90601161" county="49" zoneID="8"/>
+    <ItemSpec id="172" name="90601162" county="50" zoneID="8"/>
+    <ItemSpec id="173" name="90601163" county="51" zoneID="8"/>
+    <ItemSpec id="174" name="90601164" county="52" zoneID="8"/>
+    <ItemSpec id="175" name="90601165" county="53" zoneID="8"/>
+    <ItemSpec id="176" name="90601160" county="54" zoneID="9"/>
+    <ItemSpec id="177" name="90601161" county="55" zoneID="9"/>
+    <ItemSpec id="178" name="90601162" county="56" zoneID="9"/>
+    <ItemSpec id="179" name="90601163" county="57" zoneID="9"/>
+    <ItemSpec id="180" name="90601160" county="58" zoneID="10"/>
+    <ItemSpec id="181" name="90601161" county="59" zoneID="10"/>
+    <ItemSpec id="182" name="90601162" county="60" zoneID="10"/>
+    <ItemSpec id="183" name="90601163" county="61" zoneID="10"/>
+    <ItemSpec id="184" name="90601164" county="62" zoneID="10"/>
+    <ItemSpec id="185" name="90601160" county="63" zoneID="12"/>
+    <ItemSpec id="186" name="90601161" county="64" zoneID="12"/>
+    <ItemSpec id="187" name="90601162" county="65" zoneID="12"/>
+    <ItemSpec id="188" name="90601163" county="66" zoneID="12"/>
+    <ItemSpec id="189" name="90601164" county="67" zoneID="12"/>
+    <ItemSpec id="190" name="90601160" county="68" zoneID="14"/>
+    <ItemSpec id="191" name="90601161" county="69" zoneID="14"/>
+    <ItemSpec id="192" name="90601162" county="70" zoneID="14"/>
+    <ItemSpec id="193" name="90601163" county="71" zoneID="14"/>
+    <ItemSpec id="194" name="90601164" county="72" zoneID="14"/>
+    <ItemSpec id="195" name="90601160" county="73" zoneID="16"/>
+    <ItemSpec id="196" name="90601161" county="74" zoneID="16"/>
+    <ItemSpec id="197" name="90601162" county="75" zoneID="16"/>
+    <ItemSpec id="198" name="90601163" county="76" zoneID="16"/>
+    <ItemSpec id="199" name="90601164" county="77" zoneID="16"/>
+    <ItemSpec id="200" name="110255013" county="2" zoneID="17"/>
+    <ItemSpec id="201" name="110255010" county="3" zoneID="11"/>
+    <ItemSpec id="202" name="110255011" county="4" zoneID="13"/>
+    <ItemSpec id="203" name="110255012" county="5" zoneID="15"/>
+    <ItemSpec id="204" name="110026034" county="6" zoneID="18"/>
+
+
+
+
+
+    </Group>
+
+
+    <!-- 新插旗 -->
+    <Group id="DD_zone_county4">
+	
+    <ItemSpec id="205" county="2" zoneID="2"/>
+    <ItemSpec id="206" county="4" zoneID="4"/>
+    <ItemSpec id="207" county="5" zoneID="5"/>
+    <ItemSpec id="208" county="7" zoneID="7"/>
+    <ItemSpec id="209" county="3" zoneID="3"/>
+    <ItemSpec id="210" county="6" zoneID="6"/>
+    <ItemSpec id="211" county="8" zoneID="8"/>
+    <ItemSpec id="212" county="9" zoneID="9"/>
+    <ItemSpec id="213" county="10" zoneID="10"/>
+    <ItemSpec id="214" county="11" zoneID="11"/>
+    <ItemSpec id="215" county="12" zoneID="12"/>
+    <ItemSpec id="216" county="13" zoneID="13"/>
+    <ItemSpec id="217" county="14" zoneID="14"/>
+    <ItemSpec id="218" county="1" zoneID="1"/>
+
+
+	
+	</Group>
+
+
+
+    <!-- 新插旗 泡泉 -->
+    <Group id="DD_zone_county5">
+    
+    <ItemSpec id="219" county="2" zoneID="2"/>
+    <ItemSpec id="220" county="4" zoneID="4"/>
+    <ItemSpec id="221" county="5" zoneID="5"/>
+    <ItemSpec id="222" county="7" zoneID="7"/>
+    <ItemSpec id="223" county="3" zoneID="3"/>
+    <ItemSpec id="224" county="6" zoneID="6"/>
+    <ItemSpec id="225" county="8" zoneID="8"/>
+    <ItemSpec id="226" county="9" zoneID="9"/>
+    <ItemSpec id="227" county="10" zoneID="10"/>
+    <ItemSpec id="228" county="11" zoneID="11"/>
+    <ItemSpec id="229" county="12" zoneID="12"/>
+    <ItemSpec id="230" county="13" zoneID="13"/>
+    <ItemSpec id="231" county="14" zoneID="14"/>
+    <ItemSpec id="232" county="15" zoneID="15"/>
+    <ItemSpec id="233" county="1" zoneID="1"/>
+
+
+
+    </Group>
+
+
+    <!-- 新插旗赛季 内争夺州 -->
+    <Group id="DD_zone_county7">
+    
+    <ItemSpec id="234" county="2" zoneID="2" />
+    <ItemSpec id="235" county="4" zoneID="4" />
+    <ItemSpec id="236" county="5" zoneID="5" />
+    <ItemSpec id="237" county="7" zoneID="7" />
+    <ItemSpec id="238" county="3" zoneID="3" />
+    <ItemSpec id="239" county="6" zoneID="6" />
+    <ItemSpec id="240" county="8" zoneID="8" />
+    <ItemSpec id="241" county="9" zoneID="9" />
+    <ItemSpec id="242" county="10" zoneID="10" />
+    <ItemSpec id="243" county="11" zoneID="11" />
+    <ItemSpec id="244" county="12" zoneID="12" />
+    <ItemSpec id="245" county="13" zoneID="13" />
+    <ItemSpec id="246" county="14" zoneID="14" />
+    <ItemSpec id="247" county="15" zoneID="15" />
+    <ItemSpec id="248" county="16" zoneID="16" />
+
+
+
+    </Group>
+
+
+    <!-- 北极赛季-->
+    <Group id="DD_zone_county8">
+    
+    <ItemSpec id="129" county="4" zoneID="4" />
+    <ItemSpec id="130" county="9" zoneID="9" />
+    <ItemSpec id="131" county="14" zoneID="14" />
+    <ItemSpec id="132" county="19" zoneID="19" />
+    <ItemSpec id="133" county="2" zoneID="2" />
+    <ItemSpec id="134" county="3" zoneID="3" />
+    <ItemSpec id="135" county="5" zoneID="5" />
+    <ItemSpec id="136" county="6" zoneID="6" />
+    <ItemSpec id="137" county="7" zoneID="7" />
+    <ItemSpec id="138" county="8" zoneID="8" />
+    <ItemSpec id="139" county="10" zoneID="10" />
+    <ItemSpec id="140" county="11" zoneID="11" />
+    <ItemSpec id="141" county="12" zoneID="12" />
+    <ItemSpec id="142" county="13" zoneID="13" />
+    <ItemSpec id="143" county="15" zoneID="15" />
+    <ItemSpec id="144" county="16" zoneID="16" />
+    <ItemSpec id="145" county="17" zoneID="17" />
+    <ItemSpec id="146" county="18" zoneID="18" />
+    <ItemSpec id="147" county="20" zoneID="20" />
+    <ItemSpec id="148" county="21" zoneID="21" />
+    <ItemSpec id="149" county="22" zoneID="22" />
+    <ItemSpec id="150" county="23" zoneID="23" />
+    <ItemSpec id="151" county="24" zoneID="24" />
+    <ItemSpec id="152" county="25" zoneID="25" />
+    <ItemSpec id="153" county="26" zoneID="26" />
+    <ItemSpec id="154" county="27" zoneID="27" />
+    <ItemSpec id="155" county="28" zoneID="28" />
+    <ItemSpec id="156" county="29" zoneID="29" />
+    <ItemSpec id="157" county="30" zoneID="30" />
+    <ItemSpec id="158" county="31" zoneID="31" />
+    <ItemSpec id="159" county="1" zoneID="1" />
+
+
+
+    </Group>
+    <!-- 高地赛季-->
+  <Group id="DD_zone_county10">
+    <ItemSpec id="202" county="1" zoneID="1"/>
+    <ItemSpec id="203" county="2" zoneID="1"/>
+    <ItemSpec id="204" county="3" zoneID="1"/>
+    <ItemSpec id="205" county="4" zoneID="1"/>
+    <ItemSpec id="206" county="5" zoneID="1"/>
+    <ItemSpec id="207" county="6" zoneID="1"/>
+    <ItemSpec id="208" county="7" zoneID="2"/>
+    <ItemSpec id="209" county="8" zoneID="2"/>
+    <ItemSpec id="210" county="9" zoneID="2"/>
+    <ItemSpec id="211" county="10" zoneID="2"/>
+    <ItemSpec id="212" county="11" zoneID="2"/>
+    <ItemSpec id="213" county="12" zoneID="2"/>
+    <ItemSpec id="214" county="13" zoneID="3"/>
+    <ItemSpec id="215" county="14" zoneID="3"/>
+    <ItemSpec id="216" county="15" zoneID="3"/>
+    <ItemSpec id="217" county="16" zoneID="3"/>
+    <ItemSpec id="218" county="17" zoneID="3"/>
+    <ItemSpec id="219" county="18" zoneID="3"/>
+    <ItemSpec id="220" county="19" zoneID="4"/>
+    <ItemSpec id="221" county="20" zoneID="4"/>
+    <ItemSpec id="222" county="21" zoneID="4"/>
+    <ItemSpec id="223" county="22" zoneID="4"/>
+    <ItemSpec id="224" county="23" zoneID="4"/>
+    <ItemSpec id="225" county="24" zoneID="4"/>
+    <ItemSpec id="226" county="26" zoneID="5"/>
+    <ItemSpec id="227" county="27" zoneID="5"/>
+    <ItemSpec id="228" county="28" zoneID="5"/>
+    <ItemSpec id="229" county="29" zoneID="5"/>
+    <ItemSpec id="230" county="75" zoneID="5" landtype="1"/>
+    <ItemSpec id="231" county="76" zoneID="5" landtype="1"/>
+    <ItemSpec id="232" county="30" zoneID="6"/>
+    <ItemSpec id="233" county="31" zoneID="6"/>
+    <ItemSpec id="234" county="32" zoneID="6"/>
+    <ItemSpec id="235" county="33" zoneID="6"/>
+    <ItemSpec id="236" county="34" zoneID="6"/>
+    <ItemSpec id="237" county="35" zoneID="6"/>
+    <ItemSpec id="238" county="36" zoneID="7"/>
+    <ItemSpec id="239" county="37" zoneID="7"/>
+    <ItemSpec id="240" county="38" zoneID="7"/>
+    <ItemSpec id="241" county="39" zoneID="7"/>
+    <ItemSpec id="242" county="40" zoneID="7"/>
+    <ItemSpec id="243" county="41" zoneID="7"/>
+    <ItemSpec id="244" county="42" zoneID="8"/>
+    <ItemSpec id="245" county="43" zoneID="8"/>
+    <ItemSpec id="246" county="44" zoneID="8"/>
+    <ItemSpec id="247" county="45" zoneID="8"/>
+    <ItemSpec id="248" county="46" zoneID="8"/>
+    <ItemSpec id="249" county="47" zoneID="8"/>
+    <ItemSpec id="250" county="48" zoneID="9"/>
+    <ItemSpec id="251" county="49" zoneID="9"/>
+    <ItemSpec id="252" county="50" zoneID="9"/>
+    <ItemSpec id="253" county="51" zoneID="9"/>
+    <ItemSpec id="254" county="52" zoneID="9"/>
+    <ItemSpec id="255" county="53" zoneID="9"/>
+    <ItemSpec id="256" county="54" zoneID="10"/>
+    <ItemSpec id="257" county="55" zoneID="10"/>
+    <ItemSpec id="258" county="56" zoneID="10"/>
+    <ItemSpec id="259" county="57" zoneID="10"/>
+    <ItemSpec id="260" county="58" zoneID="10" landtype="1"/>
+    <ItemSpec id="261" county="77" zoneID="10" landtype="1"/>
+    <ItemSpec id="262" county="59" zoneID="11" landtype="1"/>
+    <ItemSpec id="263" county="60" zoneID="11" landtype="1"/>
+    <ItemSpec id="264" county="61" zoneID="11" landtype="1"/>
+    <ItemSpec id="265" county="62" zoneID="11" landtype="1"/>
+    <ItemSpec id="266" county="63" zoneID="11"/>
+    <ItemSpec id="267" county="64" zoneID="11"/>
+    <ItemSpec id="268" county="65" zoneID="11" landtype="1"/>
+    <ItemSpec id="269" county="66" zoneID="11" landtype="1"/>
+    <ItemSpec id="270" county="67" zoneID="11"/>
+    <ItemSpec id="271" county="68" zoneID="11"/>
+    <ItemSpec id="272" county="70" zoneID="11" landtype="1"/>
+    <ItemSpec id="273" county="71" zoneID="11" landtype="1"/>
+    <ItemSpec id="274" county="72" zoneID="11" landtype="1"/>
+    <ItemSpec id="275" county="73" zoneID="11" landtype="1"/>
+    <ItemSpec id="276" county="74" zoneID="11" landtype="1"/>
+    <ItemSpec id="277" county="25" zoneID="11" landtype="1"/>
+    <ItemSpec id="278" county="69" zoneID="13"/>
+    <ItemSpec id="279" county="0" zoneID="0"/>
+    </Group>
+
+
+       <!-- 南北平衡版-->
+    <Group id="DD_zone_county11">
+    <ItemSpec id="280" name="90601160" county="1" zoneID="1" type="1" pos="51;348"/>
+    <ItemSpec id="281" name="90601161" county="2" zoneID="1" type="1" pos="125;236"/>
+    <ItemSpec id="282" name="90601162" county="3" zoneID="1" type="1" pos="69;75"/>
+    <ItemSpec id="283" name="90601163" county="4" zoneID="1" type="1" pos="232;429"/>
+    <ItemSpec id="284" name="90601164" county="5" zoneID="1" type="1" pos="227;177"/>
+    <ItemSpec id="285" name="90601165" county="6" zoneID="1" type="1" pos="407;395"/>
+    <ItemSpec id="286" name="90601160" county="7" zoneID="2" type="1" pos="316;88"/>
+    <ItemSpec id="287" name="90601161" county="8" zoneID="2" type="1" pos="499;103"/>
+    <ItemSpec id="288" name="90601162" county="9" zoneID="2" type="1" pos="656;87"/>
+    <ItemSpec id="289" name="90601163" county="10" zoneID="2" type="1" pos="460;275"/>
+    <ItemSpec id="290" name="90601164" county="11" zoneID="2" type="1" pos="632;305"/>
+    <ItemSpec id="291" name="90601165" county="12" zoneID="2" type="1" pos="732;274"/>
+    <ItemSpec id="292" name="90601160" county="13" zoneID="3" type="1" pos="837;139"/>
+    <ItemSpec id="293" name="90601161" county="14" zoneID="3" type="1" pos="1035;80"/>
+    <ItemSpec id="294" name="90601162" county="15" zoneID="3" type="1" pos="1255;62"/>
+    <ItemSpec id="295" name="90601163" county="16" zoneID="3" type="1" pos="919;326"/>
+    <ItemSpec id="296" name="90601164" county="17" zoneID="3" type="1" pos="994;213"/>
+    <ItemSpec id="297" name="90601165" county="18" zoneID="3" type="1" pos="1203;186"/>
+    <ItemSpec id="298" name="90601160" county="19" zoneID="4" type="1" pos="1501;143"/>
+    <ItemSpec id="299" name="90601161" county="20" zoneID="4" type="1" pos="1470;349"/>
+    <ItemSpec id="300" name="90601162" county="21" zoneID="4" type="1" pos="1488;574"/>
+    <ItemSpec id="301" name="90601163" county="22" zoneID="4" type="1" pos="1263;375"/>
+    <ItemSpec id="302" name="90601164" county="23" zoneID="4" type="1" pos="1345;611"/>
+    <ItemSpec id="303" name="90601165" county="24" zoneID="4" type="1" pos="1156;514"/>
+    <ItemSpec id="304" name="90601160" county="25" zoneID="5" type="2" pos="1454;783"/>
+    <ItemSpec id="305" name="90601161" county="26" zoneID="5" type="2" pos="1532;946"/>
+    <ItemSpec id="306" name="90601162" county="27" zoneID="5" type="2" pos="1347;879"/>
+    <ItemSpec id="307" name="90601163" county="28" zoneID="5" type="2" pos="1199;706"/>
+    <ItemSpec id="308" name="90601164" county="29" zoneID="5" type="2" pos="1232;932"/>
+    <ItemSpec id="309" name="90601160" county="30" zoneID="6" type="1" pos="1463;1080"/>
+    <ItemSpec id="310" name="90601161" county="31" zoneID="6" type="1" pos="1520;1242"/>
+    <ItemSpec id="311" name="90601162" county="32" zoneID="6" type="1" pos="1521;1461"/>
+    <ItemSpec id="312" name="90601163" county="33" zoneID="6" type="1" pos="1434;1293"/>
+    <ItemSpec id="313" name="90601164" county="34" zoneID="6" type="1" pos="1200;1065"/>
+    <ItemSpec id="314" name="90601165" county="35" zoneID="6" type="1" pos="1267;1185"/>
+    <ItemSpec id="315" name="90601160" county="36" zoneID="7" type="1" pos="1316;1455"/>
+    <ItemSpec id="316" name="90601161" county="37" zoneID="7" type="1" pos="1145;1484"/>
+    <ItemSpec id="317" name="90601162" county="38" zoneID="7" type="1" pos="947;1490"/>
+    <ItemSpec id="318" name="90601163" county="39" zoneID="7" type="1" pos="1196;1277"/>
+    <ItemSpec id="319" name="90601164" county="40" zoneID="7" type="1" pos="1007;1286"/>
+    <ItemSpec id="320" name="90601165" county="41" zoneID="7" type="1" pos="852;1282"/>
+    <ItemSpec id="321" name="90601160" county="42" zoneID="8" type="1" pos="729;1525"/>
+    <ItemSpec id="322" name="90601161" county="43" zoneID="8" type="1" pos="398;1528"/>
+    <ItemSpec id="323" name="90601162" county="44" zoneID="8" type="1" pos="413;1362"/>
+    <ItemSpec id="324" name="90601163" county="45" zoneID="8" type="1" pos="667;1343"/>
+    <ItemSpec id="325" name="90601164" county="46" zoneID="8" type="1" pos="424;1204"/>
+    <ItemSpec id="326" name="90601165" county="47" zoneID="8" type="1" pos="655;1190"/>
+    <ItemSpec id="327" name="90601160" county="48" zoneID="9" type="1" pos="143;1455"/>
+    <ItemSpec id="328" name="90601161" county="49" zoneID="9" type="1" pos="69;1247"/>
+    <ItemSpec id="329" name="90601162" county="50" zoneID="9" type="1" pos="81;1053"/>
+    <ItemSpec id="330" name="90601163" county="51" zoneID="9" type="1" pos="142;908"/>
+    <ItemSpec id="331" name="90601164" county="52" zoneID="9" type="1" pos="244;1113"/>
+    <ItemSpec id="332" name="90601165" county="53" zoneID="9" type="1" pos="366;1008"/>
+    <ItemSpec id="333" name="90601160" county="54" zoneID="10" type="2" pos="45;721"/>
+    <ItemSpec id="334" name="90601161" county="55" zoneID="10" type="2" pos="112;597"/>
+    <ItemSpec id="335" name="90601162" county="56" zoneID="10" type="2" pos="290;853"/>
+    <ItemSpec id="336" name="90601163" county="57" zoneID="10" type="2" pos="267;720"/>
+    <ItemSpec id="337" name="90601164" county="58" zoneID="10" type="2" pos="360;591"/>
+    <ItemSpec id="338" name="90601160" county="59" zoneID="11" type="3" pos="639;506"/>
+    <ItemSpec id="339" name="90601161" county="60" zoneID="11" type="3" pos="606;711"/>
+    <ItemSpec id="340" name="90601162" county="61" zoneID="11" type="3" pos="480;743"/>
+    <ItemSpec id="341" name="90601163" county="62" zoneID="11" type="3" pos="488;942"/>
+    <ItemSpec id="342" name="90601164" county="63" zoneID="11" type="3" pos="728;1064"/>
+    <ItemSpec id="343" name="90601160" county="64" zoneID="12" type="3" pos="906;1048"/>
+    <ItemSpec id="344" name="90601161" county="65" zoneID="12" type="3" pos="1063;948"/>
+    <ItemSpec id="345" name="90601162" county="66" zoneID="12" type="3" pos="1046;628"/>
+    <ItemSpec id="346" name="90601163" county="67" zoneID="12" type="3" pos="882;673"/>
+    <ItemSpec id="347" name="90601164" county="68" zoneID="12" type="3" pos="802;490"/>
+    <ItemSpec id="348" county="69" zoneID="13" type="4" pos="787;750"/>
+    <ItemSpec id="349" county="70" zoneID="14" ignore="1"/>
+    <ItemSpec id="350" county="71" zoneID="14" ignore="1"/>
+
+
+
+
+
+
+   </Group>
+   
+   
+          <!-- 南北水战跑商-->
+    <Group id="DD_zone_county12">
+    <ItemSpec id="360" name="90601160" county="1" zoneID="1" type="1" pos="51;348"/>
+    <ItemSpec id="361" name="90601161" county="2" zoneID="1" type="1" pos="125;236"/>
+    <ItemSpec id="362" name="90601162" county="3" zoneID="1" type="1" pos="69;75"/>
+    <ItemSpec id="363" name="90601163" county="4" zoneID="1" type="1" pos="232;429"/>
+    <ItemSpec id="364" name="90601164" county="5" zoneID="1" type="1" pos="227;177"/>
+    <ItemSpec id="365" name="90601165" county="6" zoneID="1" type="1" pos="407;395"/>
+    <ItemSpec id="366" name="90601160" county="7" zoneID="2" type="1" pos="316;88"/>
+    <ItemSpec id="367" name="90601161" county="8" zoneID="2" type="1" pos="499;103"/>
+    <ItemSpec id="368" name="90601162" county="9" zoneID="2" type="1" pos="656;87"/>
+    <ItemSpec id="369" name="90601163" county="10" zoneID="2" type="1" pos="460;275"/>
+    <ItemSpec id="370" name="90601164" county="11" zoneID="2" type="1" pos="632;305"/>
+    <ItemSpec id="371" name="90601165" county="12" zoneID="2" type="1" pos="732;274"/>
+    <ItemSpec id="372" name="90601160" county="13" zoneID="3" type="1" pos="837;139"/>
+    <ItemSpec id="373" name="90601161" county="14" zoneID="3" type="1" pos="1035;80"/>
+    <ItemSpec id="374" name="90601162" county="15" zoneID="3" type="1" pos="1255;62"/>
+    <ItemSpec id="375" name="90601163" county="16" zoneID="3" type="1" pos="919;326"/>
+    <ItemSpec id="376" name="90601164" county="17" zoneID="3" type="1" pos="994;213"/>
+    <ItemSpec id="377" name="90601165" county="18" zoneID="3" type="1" pos="1203;186"/>
+    <ItemSpec id="378" name="90601160" county="19" zoneID="4" type="1" pos="1501;143"/>
+    <ItemSpec id="379" name="90601161" county="20" zoneID="4" type="1" pos="1470;349"/>
+    <ItemSpec id="380" name="90601162" county="21" zoneID="4" type="1" pos="1488;574"/>
+    <ItemSpec id="381" name="90601163" county="22" zoneID="4" type="1" pos="1263;375"/>
+    <ItemSpec id="382" name="90601164" county="23" zoneID="4" type="1" pos="1345;611"/>
+    <ItemSpec id="383" name="90601165" county="24" zoneID="4" type="1" pos="1156;514"/>
+    <ItemSpec id="384" name="90601160" county="25" zoneID="5" type="2" pos="1454;783"/>
+    <ItemSpec id="385" name="90601161" county="26" zoneID="5" type="2" pos="1532;946"/>
+    <ItemSpec id="386" name="90601162" county="27" zoneID="5" type="2" pos="1347;879"/>
+    <ItemSpec id="387" name="90601163" county="28" zoneID="5" type="2" pos="1199;706"/>
+    <ItemSpec id="388" name="90601164" county="29" zoneID="5" type="2" pos="1232;932"/>
+    <ItemSpec id="389" name="90601160" county="30" zoneID="6" type="1" pos="1463;1080"/>
+    <ItemSpec id="390" name="90601161" county="31" zoneID="6" type="1" pos="1520;1242"/>
+    <ItemSpec id="391" name="90601162" county="32" zoneID="6" type="1" pos="1521;1461"/>
+    <ItemSpec id="392" name="90601163" county="33" zoneID="6" type="1" pos="1434;1293"/>
+    <ItemSpec id="393" name="90601164" county="34" zoneID="6" type="1" pos="1200;1065"/>
+    <ItemSpec id="394" name="90601165" county="35" zoneID="6" type="1" pos="1267;1185"/>
+    <ItemSpec id="395" name="90601160" county="36" zoneID="7" type="1" pos="1316;1455"/>
+    <ItemSpec id="396" name="90601161" county="37" zoneID="7" type="1" pos="1145;1484"/>
+    <ItemSpec id="397" name="90601162" county="38" zoneID="7" type="1" pos="947;1490"/>
+    <ItemSpec id="398" name="90601163" county="39" zoneID="7" type="1" pos="1196;1277"/>
+    <ItemSpec id="399" name="90601164" county="40" zoneID="7" type="1" pos="1007;1286"/>
+    <ItemSpec id="400" name="90601165" county="41" zoneID="7" type="1" pos="852;1282"/>
+    <ItemSpec id="401" name="90601160" county="42" zoneID="8" type="1" pos="729;1525"/>
+    <ItemSpec id="402" name="90601161" county="43" zoneID="8" type="1" pos="398;1528"/>
+    <ItemSpec id="403" name="90601162" county="44" zoneID="8" type="1" pos="413;1362"/>
+    <ItemSpec id="404" name="90601163" county="45" zoneID="8" type="1" pos="667;1343"/>
+    <ItemSpec id="405" name="90601164" county="46" zoneID="8" type="1" pos="424;1204"/>
+    <ItemSpec id="406" name="90601165" county="47" zoneID="8" type="1" pos="655;1190"/>
+    <ItemSpec id="407" name="90601160" county="48" zoneID="9" type="1" pos="143;1455"/>
+    <ItemSpec id="408" name="90601161" county="49" zoneID="9" type="1" pos="69;1247"/>
+    <ItemSpec id="409" name="90601162" county="50" zoneID="9" type="1" pos="81;1053"/>
+    <ItemSpec id="410" name="90601163" county="51" zoneID="9" type="1" pos="142;908"/>
+    <ItemSpec id="411" name="90601164" county="52" zoneID="9" type="1" pos="244;1113"/>
+    <ItemSpec id="412" name="90601165" county="53" zoneID="9" type="1" pos="366;1008"/>
+    <ItemSpec id="413" name="90601160" county="54" zoneID="10" type="2" pos="45;721"/>
+    <ItemSpec id="414" name="90601161" county="55" zoneID="10" type="2" pos="112;597"/>
+    <ItemSpec id="415" name="90601162" county="56" zoneID="10" type="2" pos="290;853"/>
+    <ItemSpec id="416" name="90601163" county="57" zoneID="10" type="2" pos="267;720"/>
+    <ItemSpec id="417" name="90601164" county="58" zoneID="10" type="2" pos="360;591"/>
+    <ItemSpec id="418" name="90601160" county="59" zoneID="11" type="3" pos="639;506"/>
+    <ItemSpec id="419" name="90601161" county="60" zoneID="11" type="3" pos="606;711"/>
+    <ItemSpec id="420" name="90601162" county="61" zoneID="11" type="3" pos="480;743"/>
+    <ItemSpec id="421" name="90601163" county="62" zoneID="11" type="3" pos="488;942"/>
+    <ItemSpec id="422" name="90601164" county="63" zoneID="11" type="3" pos="728;1064"/>
+    <ItemSpec id="423" name="90601160" county="64" zoneID="12" type="3" pos="906;1048"/>
+    <ItemSpec id="424" name="90601161" county="65" zoneID="12" type="3" pos="1063;948"/>
+    <ItemSpec id="425" name="90601162" county="66" zoneID="12" type="3" pos="1046;628"/>
+    <ItemSpec id="426" name="90601163" county="67" zoneID="12" type="3" pos="882;673"/>
+    <ItemSpec id="427" name="90601164" county="68" zoneID="12" type="3" pos="802;490"/>
+    <ItemSpec id="428" county="69" zoneID="13" type="4" pos="787;750"/>
+    <ItemSpec id="429" county="70" zoneID="14" ignore="1"/>
+    <ItemSpec id="430" county="71" zoneID="14" ignore="1"/>
+
+
+
+
+
+
+
+   </Group>
+   
+            <!-- 南北平衡-温泉战-->
+    <Group id="DD_zone_county13">
+    <ItemSpec id="440" name="90601160" county="1" zoneID="1" type="1" pos="51;348"/>
+    <ItemSpec id="441" name="90601161" county="2" zoneID="1" type="1" pos="125;236"/>
+    <ItemSpec id="442" name="90601162" county="3" zoneID="1" type="1" pos="69;75"/>
+    <ItemSpec id="443" name="90601163" county="4" zoneID="1" type="1" pos="232;429"/>
+    <ItemSpec id="444" name="90601164" county="5" zoneID="1" type="1" pos="227;177"/>
+    <ItemSpec id="445" name="90601165" county="6" zoneID="1" type="1" pos="407;395"/>
+    <ItemSpec id="446" name="90601160" county="7" zoneID="2" type="1" pos="316;88"/>
+    <ItemSpec id="447" name="90601161" county="8" zoneID="2" type="1" pos="499;103"/>
+    <ItemSpec id="448" name="90601162" county="9" zoneID="2" type="1" pos="656;87"/>
+    <ItemSpec id="449" name="90601163" county="10" zoneID="2" type="1" pos="460;275"/>
+    <ItemSpec id="450" name="90601164" county="11" zoneID="2" type="1" pos="632;305"/>
+    <ItemSpec id="451" name="90601165" county="12" zoneID="2" type="1" pos="732;274"/>
+    <ItemSpec id="452" name="90601160" county="13" zoneID="3" type="1" pos="837;139"/>
+    <ItemSpec id="453" name="90601161" county="14" zoneID="3" type="1" pos="1035;80"/>
+    <ItemSpec id="454" name="90601162" county="15" zoneID="3" type="1" pos="1255;62"/>
+    <ItemSpec id="455" name="90601163" county="16" zoneID="3" type="1" pos="919;326"/>
+    <ItemSpec id="456" name="90601164" county="17" zoneID="3" type="1" pos="994;213"/>
+    <ItemSpec id="457" name="90601165" county="18" zoneID="3" type="1" pos="1203;186"/>
+    <ItemSpec id="458" name="90601160" county="19" zoneID="4" type="1" pos="1501;143"/>
+    <ItemSpec id="459" name="90601161" county="20" zoneID="4" type="1" pos="1470;349"/>
+    <ItemSpec id="460" name="90601162" county="21" zoneID="4" type="1" pos="1488;574"/>
+    <ItemSpec id="461" name="90601163" county="22" zoneID="4" type="1" pos="1263;375"/>
+    <ItemSpec id="462" name="90601164" county="23" zoneID="4" type="1" pos="1345;611"/>
+    <ItemSpec id="463" name="90601165" county="24" zoneID="4" type="1" pos="1156;514"/>
+    <ItemSpec id="464" name="90601160" county="25" zoneID="5" type="2" pos="1454;783"/>
+    <ItemSpec id="465" name="90601161" county="26" zoneID="5" type="2" pos="1532;946"/>
+    <ItemSpec id="466" name="90601162" county="27" zoneID="5" type="2" pos="1347;879"/>
+    <ItemSpec id="467" name="90601163" county="28" zoneID="5" type="2" pos="1199;706"/>
+    <ItemSpec id="468" name="90601164" county="29" zoneID="5" type="2" pos="1232;932"/>
+    <ItemSpec id="469" name="90601160" county="30" zoneID="6" type="1" pos="1463;1080"/>
+    <ItemSpec id="470" name="90601161" county="31" zoneID="6" type="1" pos="1520;1242"/>
+    <ItemSpec id="471" name="90601162" county="32" zoneID="6" type="1" pos="1521;1461"/>
+    <ItemSpec id="472" name="90601163" county="33" zoneID="6" type="1" pos="1434;1293"/>
+    <ItemSpec id="473" name="90601164" county="34" zoneID="6" type="1" pos="1200;1065"/>
+    <ItemSpec id="474" name="90601165" county="35" zoneID="6" type="1" pos="1267;1185"/>
+    <ItemSpec id="475" name="90601160" county="36" zoneID="7" type="1" pos="1316;1455"/>
+    <ItemSpec id="476" name="90601161" county="37" zoneID="7" type="1" pos="1145;1484"/>
+    <ItemSpec id="477" name="90601162" county="38" zoneID="7" type="1" pos="947;1490"/>
+    <ItemSpec id="478" name="90601163" county="39" zoneID="7" type="1" pos="1196;1277"/>
+    <ItemSpec id="479" name="90601164" county="40" zoneID="7" type="1" pos="1007;1286"/>
+    <ItemSpec id="480" name="90601165" county="41" zoneID="7" type="1" pos="852;1282"/>
+    <ItemSpec id="481" name="90601160" county="42" zoneID="8" type="1" pos="729;1525"/>
+    <ItemSpec id="482" name="90601161" county="43" zoneID="8" type="1" pos="398;1528"/>
+    <ItemSpec id="483" name="90601162" county="44" zoneID="8" type="1" pos="413;1362"/>
+    <ItemSpec id="484" name="90601163" county="45" zoneID="8" type="1" pos="667;1343"/>
+    <ItemSpec id="485" name="90601164" county="46" zoneID="8" type="1" pos="424;1204"/>
+    <ItemSpec id="486" name="90601165" county="47" zoneID="8" type="1" pos="655;1190"/>
+    <ItemSpec id="487" name="90601160" county="48" zoneID="9" type="1" pos="143;1455"/>
+    <ItemSpec id="488" name="90601161" county="49" zoneID="9" type="1" pos="69;1247"/>
+    <ItemSpec id="489" name="90601162" county="50" zoneID="9" type="1" pos="81;1053"/>
+    <ItemSpec id="490" name="90601163" county="51" zoneID="9" type="1" pos="142;908"/>
+    <ItemSpec id="491" name="90601164" county="52" zoneID="9" type="1" pos="244;1113"/>
+    <ItemSpec id="492" name="90601165" county="53" zoneID="9" type="1" pos="366;1008"/>
+    <ItemSpec id="493" name="90601160" county="54" zoneID="10" type="2" pos="45;721"/>
+    <ItemSpec id="494" name="90601161" county="55" zoneID="10" type="2" pos="112;597"/>
+    <ItemSpec id="495" name="90601162" county="56" zoneID="10" type="2" pos="290;853"/>
+    <ItemSpec id="496" name="90601163" county="57" zoneID="10" type="2" pos="267;720"/>
+    <ItemSpec id="497" name="90601164" county="58" zoneID="10" type="2" pos="360;591"/>
+    <ItemSpec id="498" name="90601160" county="59" zoneID="11" type="3" pos="639;506"/>
+    <ItemSpec id="499" name="90601161" county="60" zoneID="11" type="3" pos="606;711"/>
+    <ItemSpec id="500" name="90601162" county="61" zoneID="11" type="3" pos="480;743"/>
+    <ItemSpec id="501" name="90601163" county="62" zoneID="11" type="3" pos="488;942"/>
+    <ItemSpec id="502" name="90601164" county="63" zoneID="11" type="3" pos="728;1064"/>
+    <ItemSpec id="503" name="90601160" county="64" zoneID="12" type="3" pos="906;1048"/>
+    <ItemSpec id="504" name="90601161" county="65" zoneID="12" type="3" pos="1063;948"/>
+    <ItemSpec id="505" name="90601162" county="66" zoneID="12" type="3" pos="1046;628"/>
+    <ItemSpec id="506" name="90601163" county="67" zoneID="12" type="3" pos="882;673"/>
+    <ItemSpec id="507" name="90601164" county="68" zoneID="12" type="3" pos="802;490"/>
+    <ItemSpec id="508" county="69" zoneID="13" type="4" pos="787;750"/>
+    <ItemSpec id="509" county="70" zoneID="14" ignore="1"/>
+    <ItemSpec id="510" county="71" zoneID="14" ignore="1"/>
+    <ItemSpec id="511" name="112160122" county="72" zoneID="15" ignore="1"/>
+    <ItemSpec id="512" name="112160123" county="73" zoneID="16" ignore="1"/>
+    <ItemSpec id="513" name="112160124" county="74" zoneID="17" ignore="1"/>
+    <ItemSpec id="514" name="112160125" county="75" zoneID="18" ignore="1"/>
+    <ItemSpec id="515" name="112160126" county="78" zoneID="79" ignore="1"/>
+
+
+
+
+
+   </Group> 
+   
+   
+   
+</tns:database>

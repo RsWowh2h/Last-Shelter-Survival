@@ -1,0 +1,2043 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="guide">
+<!-- 触发解锁校场 头，基地建筑越来越多，我们可以探明基地周围的未知区域来扩大基地范围-->
+<ItemSpec id="20002000" next="20002001" plot="9200015" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 移动到52号区域 -->
+<ItemSpec id="20002001" next="20002002" arrow="2" lag="2" cartoon="Move_to_area52" enforce="1"/>
+<!-- 框选锁 -->
+<ItemSpec id="20002002" next="20002003" arrow="2" area="FreeSceneArea_52" enforce="1" showFinger="1" click="1" clickCntDelay="8" fingerPosY="40" hideLayer="1" hideKuang="1"/>
+<!-- 等待一秒 -->
+<ItemSpec id="20002003" next="20002004" arrow="2" lag="1" hideLayer="1" enforce="1"/>
+<!-- 框选解锁按钮 -->
+<ItemSpec id="20002004" next="" soft="1" softActType="hand" area="FreeUnlockView_confirm"/>
+
+
+<!-- 触发直升机引导 -->
+<ItemSpec id="20002010" next="20002011" arrow="2" lag="1000" cartoon="Follow_helicopter" enforce="1"/>
+<!-- 83200405 大人，我们全歼自由联邦的部队，夺回了贸易所。这位是被我们救下的商会长威廉。 -->
+<ItemSpec id="20002011" next="20010035" plot="9200016" dub="83200405" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 91015059 尊敬的领主，感谢您把我从那些没有礼貌的自由联邦士兵手里救出来。 -->
+<ItemSpec id="20010035" next="20010036" plot="9200669" dub="91015059" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 91015060 举手之劳。帝国的荣耀不容侵犯！不过，威廉，除了看起来狼狈一点，他们似乎没有怎么为难您。 -->
+<ItemSpec id="20010036" next="20010037" plot="9200670" dub="91015060" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 91015061 因为他们的眼睛一直盯着我口袋里的钱。领主大人，为了对您表示感谢，商会的热气球会定期携带物资降落在您的贸易所，您可以通过金币和我们交易买卖资源。 -->
+<ItemSpec id="20010037" next="20010038" plot="9200671" dub="91015061" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 91015062 真是意外之喜，我们需要和商人交易以应对不时之需。 -->
+<ItemSpec id="20010038" next="20002012" plot="9200672" dub="91015062" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 指向交易中心 -->
+<ItemSpec id="20002012" next="20002015" soft="1" softActType="hand" area="FreeBuildFunBuildTouch_435000_1" para1="0.62"/>
+<ItemSpec id="20002015" next="20002013" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" click="6" clickCntDelay="1" area="CreateRoadConfirm_20002015" para2="27;51_27;51"/>
+<!-- 等一秒 -->
+<ItemSpec id="20002013" next="20002014" arrow="2" lag="3" hideLayer="1" enforce="1"/>
+<!-- 指向交易按钮 jump="20002012"-->
+<ItemSpec id="20002014" next="" soft="1" softActType="roundPar"  area="FreeBuildBtnsView_btnMarketExchange"/>
+
+
+<!-- 先显示虚拟地图背景！ -->
+<!-- <ItemSpec id="20002020" next="20002021" cartoon="jump_to_title1" arrow="0" enforce="1"  hideLayer="1"/> -->
+<!-- 头儿，直升机燃料就要耗尽了，我们必须立刻降落！ -->
+<!-- <ItemSpec id="20002021" next="20002023" plot="9200119" dub="90400049" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15"/> -->
+<!-- 准备降落！ -->
+<!-- <ItemSpec id="20002022" next="20002023" plot="9200120" dub="83400067" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15"/> -->
+<!-- 切换到僵尸围城 -->
+<!-- <ItemSpec id="20002023" next="" enforce="1" cartoon="jump_to_title2"/> -->
+
+<!-- 片头：幽灵号，第九区是通往首都的必经之路，你们需要在这里建立新基地，阻挡丧尸侵袭                -->
+<!-- <ItemSpec id="20002024" next="20002025" plot="9200051" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15"/> -->
+<!-- 切换到新手主场景 -->
+<!-- <ItemSpec id="20002025" next="" enforce="1" cartoon="jump_to_new_world"/> -->
+
+
+<!-- 还好只是手臂受了点轻伤伤，这是哪里 -->
+<ItemSpec id="20002026" plot="9200300" dub="90400051" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" runNextIntroAnim="1"/>
+<!-- 是谁在那？ -->
+<ItemSpec id="20002027" plot="9200301" dub="90400052" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" runNextIntroAnim="1"/>
+<!-- 见鬼，又是这些该死的怪物 -->
+<ItemSpec id="20002028" plot="9200302" dub="90400055" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" runNextIntroAnim="1"/>
+
+<!-- 83200448=头，第九区爆发大规模疫情，我们收到了他们的求救信号，需要即刻前往支援 -->
+<!-- <ItemSpec id="20002030" next="20002031" plot="9200057" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="30"/> -->
+
+<!-- 切换到僵尸围城 -->
+<!-- <ItemSpec id="20002031" next="" enforce="1" cartoon="jump_to_title2"/> -->
+
+<!-- 83200449=丧尸已经包围了这里整片区域，地面部队需要我们的火力支援 -->
+<!-- <ItemSpec id="9200058" content="83200449" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- <ItemSpec id="20002032" next="20002033" plot="9200058" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="30"/> -->
+
+<!-- 83200450=机枪准备！ -->
+<!-- <ItemSpec id="9200060" content="83200450" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200317"/>       -->
+<!-- <ItemSpec id="20002033" next="20002034" plot="9200060" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15"/> -->
+
+<!-- 开枪 -->
+<!-- <ItemSpec id="20002034" next="" enforce="1" cartoon="free_shoot_view_start"/> -->
+
+<!-- 83200452=长..长官！我是第九区的警卫队长，看来你们收到了我们发出的求教信号 -->
+<!-- <ItemSpec id="20002035" next="20002036" plot="9200061" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="30"/> -->
+<!-- 显示章节 -->
+<!-- <ItemSpec id="20002036" next="20002037" enforce="1" cartoon="show_chapter"/> -->
+<!-- 切换到新手主场景 -->
+<!-- <ItemSpec id="20002037" next="" enforce="1" cartoon="jump_to_new_world"/> -->
+
+<!-- 锁定屏幕 -->
+<ItemSpec id="20002040" next="" arrow="2" lag="30" hideLayer="1" enforce="1"/>
+
+
+<!-- 故事 -->
+<ItemSpec id="20002100" next="20002101" cartoon="storyboard" cartoonType="4" enforce="1" mark="1"/>
+<!-- 故事 -->
+<ItemSpec id="20002101" next="20002110" cartoon="storyboard" cartoonType="5" enforce="1" dub="90500307" mark="1"/>
+
+<!-- 90400096=神秘的龙晶矿脉给我们带来了财富和灾难，亡灵已经被我们击退，我们的损失怎么样？ -->
+<ItemSpec id="20002110" next="20002111" plot="9200628" dub="90400096" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/>
+<!-- 90400096=领主大人，由于您英明的指挥，我们实际的损失很小。最重要的是，我们保住了龙晶矿脉，士兵们在矿脉里发现了这枚号角。 -->
+<ItemSpec id="20002111" next="20002112" plot="9200411" dub="90400097" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/>
+<!-- 91015000  （你尝试着吹响了这柄号角，可惜什么都没有发生）无论是谁把它放到了那里，显然，它失去了它的作用。 -->
+<ItemSpec id="20002112" next="20002113" plot="9200412" dub="91015000" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/>
+<!-- 91015001  大人，难道你没有注意到它上面的花纹比刚才更清晰了么？“一切都在等待，只是时候未到”，我父亲常这么说。 -->
+<ItemSpec id="20002113" next="20002114" plot="9200629" dub="91015001" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/>
+<!-- 91015002  也许只是时候未到吧，派几个人把这枚号角看好了。那些被我们事先转移的居民目前怎么样？ -->
+<ItemSpec id="20002114" next="20002115" plot="9200630" dub="91015002" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/>
+<!-- 91015002  他们被安置得很好，但是亡灵的进攻摧毁了我们与他们之间的道路，目前我们暂时和他们失去了联系。 -->
+<ItemSpec id="20002115" next="20002122" plot="9200631" dub="91015003" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/>
+<!-- 等一秒 -->
+<!-- <ItemSpec id="20002112" next="20002113" arrow="2" lag="0.5" hideLayer="1" enforce="1"/> -->
+<!-- 90400098=丧尸随时可能来袭，指挥官我们得赶紧行动起来 -->
+<!-- <ItemSpec id="20002113" next="20002115" plot="9200413" dub="90400098" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/> -->
+
+
+<!-- 90400096=可恶，这里没有通讯信号，我们无法和总部联络。 -->
+<!-- <ItemSpec id="20002120" next="20002121" plot="9200170" dub="83401005" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/> -->
+<!-- 90400097=总有一天，要夺回我们失去的一切！可现在我们得先活下去。 -->
+<!-- <ItemSpec id="20002121" next="20002115" plot="9200171" dub="83401007" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/> -->
+<!-- 等一秒 -->
+<!-- <ItemSpec id="20002127" next="20002128" arrow="2" lag="0.5" hideLayer="1" enforce="1"/> -->
+<!-- 90400098=在外面那群丧尸越过铁丝网之前，得把这里弄的坚固一些。 -->
+<!-- <ItemSpec id="20002128" next="20002115" plot="9200172" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/> -->
+
+<!-- 显示章节 -->
+<!-- <ItemSpec id="20002610" next="20002122" soft="1" cartoon="show_chapter"/> -->
+
+<!-- ******造路****** -->
+<!-- 添加绿色地格闪烁 -->
+<ItemSpec id="20002122" next="20002123" hideLayer="1" enforce="1"  hideKuang="1" lag="1000" cartoon="Free_add_ground_green_spr" para1="34;29_34;30_34;31_34;32_34;33_34;34_34;35_34;36_34;37_34;38_34;39" para2="34;33" closeAllPop="1" mark="1"/>
+<!-- 按钮跳动 -->
+<!-- <ItemSpec id="20002123" next="20002124" soft="1" jump="20002122" softActType="hand" area="UI_FreeBuildListEnter" cartoon="UI_FreeBuildListEnter" sidePlot="9200025" dub="83200418"/> -->
+<ItemSpec id="20002123" next="20002124" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_FreeBuildListEnter" cartoon="UI_FreeBuildListEnter" sidePlot="9200025" dub="83200418"/>
+<!-- 点击类型列表 -->
+<ItemSpec id="20002124" next="20002125" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="PutFreeBuildTypesView_9"/>
+<!-- 点击格子 点击按钮 -->
+<ItemSpec id="20002125" next="20010039" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" click="6" clickCntDelay="1" area="CreateRoadConfirm_20002124" para2="33;33_33;33"/>
+<!-- 等一秒 -->
+<ItemSpec id="20010039" next="20010000" arrow="2" lag="1" hideLayer="1" enforce="1"/>
+<!-- 91015004	伟大的领主，我代表大家来见您，好消息，大家目前安然无恙。不过倒霉的是，我的工人小屋在战争中被损坏了。 -->
+<ItemSpec id="20010000" next="20010001" plot="9200632" dub="91015004" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/>
+<!-- 91015005	一所房子而已，我们有足够的资源，凭你的手艺，能很快把工人小屋重新修起来！ -->
+<ItemSpec id="20010001" next="20002126" plot="9200633" dub="91015005" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/>
+<!-- 检测是否所有的格子都放了路 -->
+<ItemSpec id="20002126" next="" cartoon="check_put_guide_road" hideLayer="1" enforce="1"  hideKuang="1" para1="20002131" para2="20002122" mark="1"/>
+
+<!-- ******造车****** -->
+<!-- 添加绿色地格的闪烁 -->
+<ItemSpec id="20002131" next="20002132" hideLayer="1" enforce="1"  hideKuang="1" lag="1000" cartoon="Free_add_ground_green_spr" para1="33;29" para2="33;29" mark="1" closeAllPop="1"/>
+<!-- 按钮跳动 -->
+<ItemSpec id="20002132" next="20002133" soft="1" jump="20002131" softActType="hand" area="UI_FreeBuildListEnter"  cartoon="UI_FreeBuildListEnter" sidePlot="9200027" cannotBreakDub="83200420"/>
+<!-- 点击列表里的建筑 -->
+<!-- <ItemSpec id="20002133" next="20002134" soft="1" jump="20002132" softActType="cover;hand" area="FreeBuildList_443000"/> -->
+<!-- 点击类型列表 -->
+<ItemSpec id="20002133" next="20002134" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="PutFreeBuildTypesView_10"/>
+<!-- 拖拽建筑 -->
+<ItemSpec id="20002134" next="20002135" soft="1" jump="20002132" cannotBreakDub="83401013" softActType="" area="PutFreeBuildDragView_443000" para1="33;29"/>
+<!-- 放置建筑 -->
+<ItemSpec id="20002135" next="20002136" soft="1" jump="20002131" softActType="" area="FreeBuildPut_443000" para1="33;29" para2="33;29"/>
+<!-- 等待动画完成 -->
+<ItemSpec id="20002136" next="20002137" arrow="2" lag="2" hideLayer="1" enforce="1"  hideKuang="1" fbTouchHandler="1" click="1" notAllowBreak="1" mark="1"/>
+<!-- 飞行拖尾特效 -->
+<ItemSpec id="20002137" next="20002138" enforce="1" lag="1.5" cartoon="show_flyEffect" para1="443000" closeAllPop="1" fbTouchHandler="1"/>
+<!-- 小车开到大本 -->
+<ItemSpec id="20002138" next="20002611" enforce="1" click="5" clickCntDelay="1000" cartoon="show_carToBase" closeAllPop="1" fbTouchHandler="1"/>
+<!-- 90400098	更多的工人小屋意味着更多的建筑队列。 -->
+<!-- <ItemSpec id="20002139" next="20002611" plot="9200287" dub="90500273" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/> -->
+
+
+<!-- 83200481  大家不要客气，我准备了葡萄酒和肉派。随意享用吧。 -->
+<ItemSpec id="20002260" next="20002690" plot="9200077" cannotBreakDub="83200481" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="10" closeAllPop="1" mark="1"/>
+<!-- 91015070=感谢领主大人盛情款待！大家敬领主大人一杯！ -->
+<ItemSpec id="20002690" next="20002261" plot="9200047" cannotBreakDub="91015070" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"  closeAllPop="1"/>
+<!-- 跳转到bus -->
+<ItemSpec id="20002261" next="20002262" enforce="1" lag="1" cartoon="jump_to_bus" closeAllPop="1" fbTouchHandler="1"/>
+<!-- 召唤巴士 -->
+<ItemSpec id="20002262" next="20002263" enforce="1" click="5" clickCntDelay="1000" cartoon="show_bus" closeAllPop="1" fbTouchHandler="1"/>
+<!-- 83200482  报告！领主大人！我们在城郊营救了一批被亡灵袭击的流民！ -->
+<ItemSpec id="20002263" next="20002264" plot="9200078" dub="83200482" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="10" closeAllPop="1" />
+<!-- 83200483  请领主大人开恩！亡灵军团和东部王朝摧毁了我们的城镇！我们无家可归了！ -->
+<ItemSpec id="20002264" next="20002265" plot="9200079" dub="83200483" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="10" closeAllPop="1" />
+<!-- 83200484  您是乌瑟学士？学士，我是您的学生伊萨贝拉。领主大人，这就是我常给你提到的大学士乌瑟，他是帝国首屈一指的历史学家。 -->
+<ItemSpec id="20002265" next="20010006" plot="9200080" cannotBreakDub="83200484" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="10" closeAllPop="1" />
+<!-- 91015010  天啦，伊萨贝拉，你长成个大姑娘了，我都认不出你来了。 -->
+<ItemSpec id="20010006" next="20010007" plot="9200639" cannotBreakDub="91015010" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="10" closeAllPop="1" />
+<!-- 91015011  乌瑟学士您好，先带着您的人去客栈休息休息，填饱肚子。从此之后这里就是你们的新家！ -->
+<ItemSpec id="20010007" next="20002266" plot="9200640" cannotBreakDub="91015011" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="10" closeAllPop="1" />
+<!-- 召唤难民 -->
+<ItemSpec id="20002266" next="20002269" enforce="1" click="5" clickCntDelay="1000" cartoon="Free_nanmin_comming" soundEffect="nanmin_move" closeAllPop="1" />
+<!-- show_people_unlock 解锁界面 -->
+<!-- <ItemSpec id="20002267" next="20002268" arrow="2" lag="1" cartoon="show_people_unlock" click="1" mark="1" hideLayer="1" enforce="1"  hideKuang="1" notAllowBreak="1"/> -->
+<!-- 升级完成 解锁人口 -->
+<!-- <ItemSpec id="20002268" next="20002269" soft="1" softActType="hand" area="FreeResourceUnlockView_confirm" mark="1"/> -->
+<!-- 播放特效 -->
+<!-- <ItemSpec id="20002269" next="20002270" arrow="2" lag="2" mark="1" cartoon="fly_people" hideLayer="1" enforce="1"  hideKuang="1" notAllowBreak="1"/> -->
+<!-- 故事 -->
+<ItemSpec id="20002269" next="20010008" cartoon="storyboard" cartoonType="6" enforce="1" dub="90500316" mark="1"/>
+<!-- 91015012  这，这是？（乌瑟学士发现了那柄巨大的号角）大人，我能看看那柄号角吗？ -->
+<ItemSpec id="20010008" next="20010009" plot="9200641" dub="91015012" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="10" closeAllPop="1" />
+<!-- 91015013  当然，这是战争后人们在龙晶矿脉中发现的。 -->
+<ItemSpec id="20010009" next="20010010" plot="9200642" dub="91015013" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="10" closeAllPop="1" />
+<!-- 91015014  这股力量？！看来传闻是真的，亡灵入侵之后，本已沉寂的魔法在这个世间逐渐重现。这柄号角上的魔纹是不是越来越清晰了？ -->
+<ItemSpec id="20010010" next="20010011" plot="9200643" dub="91015014" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="10" closeAllPop="1" />
+<!-- 91015015  是的，那么这柄号角到底有什么作用？ -->
+<ItemSpec id="20010011" next="20010012" plot="9200644" dub="91015015" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="10" closeAllPop="1" />
+<!-- 91015016  我有一些猜想，不过还得再研究一下，查阅一下古籍才能下结论。大人，我们还有一些无家可归的同伴流落在荒野，能不能请你先派兵解救他们？ -->
+<ItemSpec id="20010012" next="20002270" plot="9200645" dub="91015016" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="10" closeAllPop="1" />
+<!-- 83200485  这事交给我吧！我会把您的同伴接回来。领主大人，请确保城内粮食和酒水充足，我相信会有更多的人加入我们的城市 -->
+<ItemSpec id="20002270" next="20002271" plot="9200081" dub="83200485" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="10" closeAllPop="1" />
+<!-- 让巴士走 -->
+<ItemSpec id="20002271" next="20002273" enforce="1" click="5" clickCntDelay="1000" cartoon="let_bus_go" closeAllPop="1" />
+<!-- 83200486  最好准备更多的水食物，会有大量的幸存者来投奔我们 -->
+<!--ItemSpec id="20002272" next="20002273" plot="9200082" dub="83200486" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="10" closeAllPop="1" />-->
+<!-- 聚焦主城 -->
+<ItemSpec id="20002273" next="20002274" enforce="1"  hideKuang="1" lag="1" cartoon="Free_add_ground_green_spr" para1="32;32" para2="32;32" mark="1" closeAllPop="1" notAllowBreak="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20002274" next="20002275" arrow="2" lag="1.5" hideLayer="1" enforce="1" notAllowBreak="1"/>
+<!-- 领主大人！请下令升级城堡，我们需要解锁更多的建筑，迎接更大的挑战！ -->
+<ItemSpec id="20002275" next="20002280" plot="9200179" cannotBreakDub="83401139" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="10" closeAllPop="1" mark="1"/>
+
+
+<!-- ******大本升二级****** -->
+<!-- 指向任务栏 -->
+<ItemSpec id="20002280" next="20002281" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_target" closeAllPop="1" />
+<!-- 显示章节任务 -->
+<ItemSpec id="20002281" next="20002282" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="50" area="FreeTaskChapterView_2500001"/>
+<!-- 显示章节任务 -->
+<ItemSpec id="20002282" next="20002283" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="50" area="FreeTaskChapterView_2500003"/>
+<!-- 点击主城 -->
+<!-- <ItemSpec id="20002283" next="20002284" soft="1" softActType="bigShou"  area="FreeBuildFunBuildTouch_400000_999" para1="0.62" para2="1" mark="1"/> -->
+<ItemSpec id="20002283" next="20002284" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_400000_999" para1="0.62" para2="0" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20002284" next="20002285" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 指向升级按钮 -->
+<ItemSpec id="20002285" next="20002286" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnLevelup"/>
+<!-- 显示升级界面 -->
+<ItemSpec id="20002286" next="20002287" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" click="3" clickCntDelay="1" area="FreeFunBuildUpView_confirm"/>
+<!-- 显示小车选择界面 -->
+<ItemSpec id="20002287" next="20002288" jump="20002283" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" click="5" clickCntDelay="1" area="FreeCarSelectConfirmView_confirm" para1="32;32"/>
+<!-- 等待小车选择命令返回 -->
+<ItemSpec id="20002288" next="20002289" jump="20002283" lag="10" area="FreeCarSelectConfirm_wait" enforce="1"  hideKuang="1" fbTouchHandler="1" notAllowBreak="1"/>
+<!-- 小车去升级建筑 -->
+<ItemSpec id="20002289" next="20002290" enforce="1" hideLayer="1" cartoon="Guide_FinishUpgradeFunBuild_400000" para1="1" notAllowBreak="1" mark="1"/>
+<!-- 播放特效 -->
+<ItemSpec id="20002290" next="20002291" arrow="2" lag="2" hideLayer="1" enforce="1"  hideKuang="1" notAllowBreak="1" mark="1"/>
+<!-- 指向任务栏 -->
+<!-- <ItemSpec id="20002291" next="20002292" soft="1" softActType="hand" area="UI_target" closeAllPop="1" /> -->
+<!-- 结束强制引导 -->
+<ItemSpec id="20002291" next="" enforce="1"  hideKuang="1" lag="1" cartoon="force_guide_end" para1="32;32" para2="32;32" mark="1" closeAllPop="1" notAllowBreak="1"/>
+
+
+
+<!-- 20002400 到 20002599 是任务软引导 -->
+<!-- 指向大本 -->
+<ItemSpec id="20002400" next="20002401" soft="1" softActType="bigShou" area="FreeBuildFunBuildTouch_400000_1" para2="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20002401" next="20002402" arrow="2" lag="0.5" hideLayer="1" enforce="1"/>
+<!-- 指向升级按钮 -->
+<ItemSpec id="20002402" next="" soft="1" softActType="roundPar;hand" jump="20002400" area="FreeBuildBtnsView_btnLevelup"/>
+
+<!-- ******造净水站****** -->
+<!-- 83200427=这些伟大的工匠是帝国的基石！伊萨贝拉，瞧瞧我带来了什么？ -->
+<ItemSpec id="20002611" next="20010002" plot="9200034" cannotBreakDub="83200427" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/>
+<!-- 83200427=“筑城者”米开朗基罗的建筑手稿？酿酒厂？天啦，这还是我第一次见到他的真迹！ -->
+<ItemSpec id="20010002" next="20010003" plot="9200635" cannotBreakDub="91015006" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/>
+<!-- 83200427=（凑上前来）按照米开朗基罗大人的手稿，我可以修建一座酿酒厂，您也知道，美酒对于大家来说意味着什么！ -->
+<ItemSpec id="20010003" next="20002612" plot="9200636" cannotBreakDub="91015007" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/>
+<!-- 添加绿色地格的闪烁 -->
+<ItemSpec id="20002612" next="20002613" hideLayer="1" enforce="1"  hideKuang="1" lag="1000" cartoon="Free_add_ground_green_spr" para1="33;37" para2="33;37" closeAllPop="1"/>
+<!-- 指向任务栏 -->
+<ItemSpec id="20002613" next="20002614" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_target" closeAllPop="1" />
+<!-- 显示章节任务 -->
+<ItemSpec id="20002614" next="20002615" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="50" area="FreeTaskChapterView_2500004"/>
+<!-- 拖拽建筑放置 -->
+<ItemSpec id="20002615" next="20002616" soft="1" jump="20002612" softActType="" area="PutFreeBuildDragView_432000" para1="33;37"/>
+<!-- 放置建筑 -->
+<ItemSpec id="20002616" next="20002617" soft="1" softActType="" jump="20002612" area="FreeBuildPut_432000" para1="33;37" para2="33;37"/>
+<!-- 等一秒 -->
+<ItemSpec id="20002617" next="20002619" enforce="1" lag="0.2" cartoon="JumpToBuild" para1="432000" para2="999" para3="0.62" notAllowBreak="1" mark="1" roe_break_next="20002618"/>
+<!-- 点击废墟 -->
+<!-- <ItemSpec id="20002618" next="20002619" soft="1" softActType="hand"  area="FreeBuildFunBuildTouch_432000_0" para1="0.62" para2="1" mark="1"/> -->
+<ItemSpec id="20002618" next="20002619" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_432000_999" para1="0.62" para2="0" closeAllPop="1"/>
+<!-- 判断点击废墟后的状态-->
+<ItemSpec id="20002619" next="" soft="1" jump="" cartoon="check_guideId_on_click_build" para1="432000" para2="20002620" para3="20002621" para4="20002621"/>
+<!-- 如果未联通 显示造路界面 -->
+<ItemSpec id="20002620" next="20002617" soft="1" jump="20002617" softActType="hand" area="CreateRoadConfirm_20002619"/>
+<!-- 如果联通 显示升级界面 -->
+<ItemSpec id="20002621" next="20002622" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" click="5" clickCntDelay="1" area="FreeFunBuildUpView_confirm"/>
+<!-- 显示小车选择界面 -->
+<ItemSpec id="20002622" next="20002623" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" click="5" clickCntDelay="1" area="FreeCarSelectConfirmView_confirm" para1="32;32"/>
+<!-- 等待小车选择命令返回 -->
+<ItemSpec id="20002623" next="20002624" jump="20002617" lag="10" area="FreeCarSelectConfirm_wait" hideLayer="1" enforce="1"  hideKuang="1" fbTouchHandler="1" notAllowBreak="1"/>
+<!-- 小车去升级建筑 -->
+<ItemSpec id="20002624" next="20002625" enforce="1" hideLayer="1" cartoon="Guide_FinishUpgradeFunBuild_432000" para1="1" notAllowBreak="1" mark="1"/>
+<!-- 播放特效 -->
+<ItemSpec id="20002625" next="20002630" arrow="2" lag="2" hideLayer="1" enforce="1"  hideKuang="1" notAllowBreak="1" mark="1"/>
+
+
+<!-- ******造民居****** -->
+<!-- 83200432=这甘洌的美酒，是乱世的良药！干杯！伊萨贝拉，让居民从避难所里出来，我们好好喝一杯！ -->
+<ItemSpec id="20002630" next="20010004" plot="9200039" cannotBreakDub="83200432" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/>
+<!-- 91015008=遵命！建筑工人也在这里？正好，我们需要修建一些新的民居，要比以前更坚固，更美观，能容纳更多的人！ -->
+<ItemSpec id="20010004" next="20010005" plot="9200637" cannotBreakDub="91015008" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/>
+<!-- 91015009=（打个酒嗝）好的，伊萨贝拉，吃饱喝足后，我有使不完的力气！ -->
+<ItemSpec id="20010005" next="20002631" plot="9200638" cannotBreakDub="91015009" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/>
+<!-- 添加绿色地格的闪烁 -->
+<ItemSpec id="20002631" next="20002632" hideLayer="1" enforce="1"  hideKuang="1" lag="1000" cartoon="Free_add_ground_green_spr" para1="35;39" para2="35;39" mark="1" closeAllPop="1"/>
+<!-- 指向任务栏 -->
+<ItemSpec id="20002632" next="20002633" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_target" closeAllPop="1" />
+<!-- 领取奖励 -->
+<ItemSpec id="20002633" next="20002634" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="50" area="FreeTaskChapterView_2500004"/>
+<!-- 显示章节任务 -->
+<ItemSpec id="20002634" next="20002635" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="50" area="FreeTaskChapterView_2500005"/>
+<!-- 拖拽建筑 -->
+<ItemSpec id="20002635" next="20002636" soft="1" jump="20002631" softActType="" area="PutFreeBuildDragView_433000" para1="35;39"/>
+<!-- 放置建筑 -->
+<ItemSpec id="20002636" next="20002637" soft="1" softActType="" jump="20002631" area="FreeBuildPut_433000" para1="35;39" para2="35;39"/>
+<!-- 等一秒 -->
+<ItemSpec id="20002637" next="20002639" enforce="1" lag="0.2" cartoon="JumpToBuild" para1="433000" para2="999" para3="0.62" notAllowBreak="1" mark="1" roe_break_next="20002638"/>
+<!-- 点击废墟 -->
+<!-- <ItemSpec id="20002638" next="20002639" soft="1" softActType="hand"  area="FreeBuildFunBuildTouch_433000_0" para1="0.62" para2="1" mark="1"/> -->
+<ItemSpec id="20002638" next="20002639" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_433000_999" para1="0.62" para2="0" closeAllPop="1"/>
+<!-- 判断点击废墟后的状态-->
+<ItemSpec id="20002639" next="" soft="1" jump="" cartoon="check_guideId_on_click_build" para1="433000" para2="20002640" para3="20002641"/>
+<!-- 如果未联通 显示造路界面 -->
+<ItemSpec id="20002640" next="20002637" soft="1" jump="20002637" softActType="hand" area="CreateRoadConfirm_20002640" />
+<!-- 如果联通 显示升级界面 -->
+<ItemSpec id="20002641" next="20002642" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" click="5" clickCntDelay="1" area="FreeFunBuildUpView_confirm"/>
+<!-- 显示小车选择界面 -->
+<ItemSpec id="20002642" next="20002643" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" click="5" clickCntDelay="1" area="FreeCarSelectConfirmView_confirm" para1="32;32"/>
+<!-- 等待小车选择命令返回 -->
+<ItemSpec id="20002643" next="20002644" jump="20002637" lag="10" area="FreeCarSelectConfirm_wait" hideLayer="1" enforce="1"  hideKuang="1" fbTouchHandler="1" notAllowBreak="1"/>
+<!-- 小车去升级建筑 -->
+<ItemSpec id="20002644" next="20002645" enforce="1" hideLayer="1" cartoon="Guide_FinishUpgradeFunBuild_433000" para1="1" notAllowBreak="1" mark="1"/>
+<!-- 播放特效 -->
+<ItemSpec id="20002645" next="20002650" arrow="2" lag="2" hideLayer="1" enforce="1"  hideKuang="1" notAllowBreak="1" mark="1"/>
+
+
+<!-- ******造农田****** -->
+<!-- 添加绿色地格的闪烁 -->
+<!-- 83200435=基地人口逐渐多了起来，粮食开始紧张，自己种植是个不错的办法 -->
+<ItemSpec id="20002650" next="20002651" plot="9200042" dub="83200435" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/>
+<!-- 添加绿色地格的闪烁 -->
+<ItemSpec id="20002651" next="20002652" enforce="1"  hideKuang="1" lag="1000" cartoon="Free_add_ground_green_spr" para1="37;32" para2="37;32" mark="1" closeAllPop="1"/>
+<!-- 指向任务栏 -->
+<ItemSpec id="20002652" next="20002653" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_target" closeAllPop="1" />
+<!-- 领取奖励 -->
+<ItemSpec id="20002653" next="20002654" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="50" area="FreeTaskChapterView_2500005"/>
+<!-- 显示章节任务 -->
+<ItemSpec id="20002654" next="20002655" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="50" area="FreeTaskChapterView_2500006"/>
+<!-- 拖拽建筑放置 -->
+<ItemSpec id="20002655" next="20002656" soft="1" jump="20002651" softActType="" area="PutFreeBuildDragView_415000" para1="37;32"/>
+<!-- 放置建筑 -->
+<ItemSpec id="20002656" next="20002657" soft="1" softActType="" jump="20002651" area="FreeBuildPut_415000" para1="37;32" para2="37;32"/>
+<!-- 等一秒 -->
+<ItemSpec id="20002657" next="20002658" enforce="1" lag="2" cartoon="JumpToBuild" para1="415000" para2="999" para3="0.62" para4="20002660" para5="20002661" para6="20002658" notAllowBreak="1" mark="1"/>
+<!-- 点击废墟 -->
+<!-- <ItemSpec id="20002658" next="20002658" soft="1" softActType="hand"  area="FreeBuildFunBuildTouch_415000_0" para1="0.62" para2="1" mark="1"/> -->
+<ItemSpec id="20002658" next="20002659" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_415000_999" para1="0.62" para2="0" closeAllPop="1" sidePlot="9200286" cannotBreakDub="90300025" notAllowBreak="1"/>
+<!-- 判断点击废墟后的状态-->
+<ItemSpec id="20002659" next="" soft="1" jump="" cartoon="check_guideId_on_click_build" para1="415000" para2="20002660" para3="20002661" para4="20002657"/>
+<!-- 如果未联通 显示造路界面 -->
+<ItemSpec id="20002660" next="20002657" soft="1" jump="20002657" softActType="hand" area="CreateRoadConfirm_20002660"/>
+<!-- 如果联通 显示升级界面 -->
+<ItemSpec id="20002661" next="20002662" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" click="5" clickCntDelay="1" area="FreeFunBuildUpView_confirm"/>
+<!-- 显示小车选择界面 -->
+<ItemSpec id="20002662" next="20002663" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" click="5" clickCntDelay="1" area="FreeCarSelectConfirmView_confirm"  para1="32;32"/>
+<!-- 等待小车选择命令返回 -->
+<ItemSpec id="20002663" next="20002664" jump="20002657" lag="10" area="FreeCarSelectConfirm_wait" enforce="1"  hideKuang="1" fbTouchHandler="1" notAllowBreak="1"/>
+<!-- 小车去升级建筑 -->
+<ItemSpec id="20002664" next="20002665" enforce="1" hideLayer="1" cartoon="Guide_FinishUpgradeFunBuild_415000" para1="1" notAllowBreak="1" mark="1"/>
+<!-- 播放特效 -->
+<ItemSpec id="20002665" next="20002670" arrow="2" lag="2" hideLayer="1" enforce="1"  hideKuang="1" notAllowBreak="1" mark="1"/>
+
+
+<!-- ******造餐厅****** -->
+<!-- 添加绿色地格的闪烁 -->
+<!-- 83200437=有了粮食和酒水，我们的客栈可以重新营业了！建筑工人，把客栈修起来！ -->
+<ItemSpec id="20002670" next="20002671" plot="9200044" cannotBreakDub="83200437" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/>
+<!-- 83200438=建造一个餐厅，基地的居民都将在这里用餐 -->
+<ItemSpec id="20002671" next="20002672" enforce="1"  hideKuang="1" lag="1000" cartoon="Free_add_ground_green_spr" para1="36;30_36;29_35;30_35;29" para2="36;30" mark="1" closeAllPop="1"/>
+<!-- 指向任务栏 -->
+<ItemSpec id="20002672" next="20002684" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_target" closeAllPop="1" />
+<!-- 领取奖励 -->
+<ItemSpec id="20002684" next="20002673" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="50" area="FreeTaskChapterView_2500006"/>
+<!-- 显示章节任务 -->
+<ItemSpec id="20002673" next="20002674" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="50" area="FreeTaskChapterView_2500001"/>
+<!-- 点击列表里的建筑 -->
+<!-- <ItemSpec id="20002674" next="20002675" soft="1" jump="20002671" softActType="cover;hand" area="FreeBuildList_460000"/> -->
+<!-- 拖拽建筑放置 -->
+<ItemSpec id="20002674" next="20002675" soft="1" jump="20002671" softActType="" area="PutFreeBuildDragView_460000" para1="36;30"/>
+<!-- 放置建筑 -->
+<ItemSpec id="20002675" next="20004028" soft="1" softActType="" jump="20002671" area="FreeBuildPut_460000" para1="36;30" para2="36;30"/>
+<!-- 等一秒 -->
+<ItemSpec id="20004028" next="20002677" enforce="1" lag="0.2" cartoon="JumpToBuild" para1="460000" para2="999" para3="0.62" notAllowBreak="1" mark="1"/>
+<!-- 点击 -->
+<ItemSpec id="20002676" next="20002677" soft="1" softActType="hand"  area="FreeBuildFunBuildTouch_460000_999" para1="0.62" para2="1" mark="1"/>
+<!-- <ItemSpec id="20002676" next="20002677" arrow="2" area="FreeBuildTileTouch_36;30_2" enforce="1" showFinger="1" click="1" clickCntDelay="8" para1="0.62" para2="36;30_36;30" fingerPosY="40" mark="1" hideLayer="1" hideKuang="1" closeAllPop="1"/> -->
+<!-- 判断点击废墟后的状态-->
+<ItemSpec id="20002677" next="" soft="1" jump="" cartoon="check_guideId_on_click_build" para1="460000" para2="20002678" para3="20002679"/>
+<!-- 如果未联通 显示造路界面 -->
+<ItemSpec id="20002678" next="20002676" soft="1" jump="20002676" softActType="hand" area="CreateRoadConfirm_20002678"/>
+<!-- 如果联通 显示升级界面 -->
+<ItemSpec id="20002679" next="20002680" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" click="3" clickCntDelay="1" area="FreeFunBuildUpView_confirm"/>
+<!-- 显示小车选择界面 -->
+<ItemSpec id="20002680" next="20002681" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" click="5" clickCntDelay="1" area="FreeCarSelectConfirmView_confirm"  para1="32;32"/>
+<!-- 等待小车选择命令返回 -->
+<ItemSpec id="20002681" next="20002682" jump="20002676" lag="10" area="FreeCarSelectConfirm_wait" enforce="1"  hideKuang="1" fbTouchHandler="1" notAllowBreak="1"/>
+<!-- 小车去升级建筑 -->
+<ItemSpec id="20002682" next="20002683" enforce="1" hideLayer="1" cartoon="Guide_FinishUpgradeFunBuild_460000" para1="1" notAllowBreak="1" mark="1"/>
+<!-- 播放特效 -->
+<ItemSpec id="20002683" next="20002689" arrow="2" lag="2" hideLayer="1" enforce="1"  hideKuang="1" notAllowBreak="1" mark="1"/>
+
+
+<!-- ******向餐厅运水和粮食****** -->
+<!-- 83200439=大人，客栈已经建成，只要将食物和酒水运送到客栈中，这里将重新成为城市的中心。 -->
+<ItemSpec id="20002689" next="20002691" plot="9200046" dub="83200439" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"  closeAllPop="1"/>
+<!-- 指引 -->
+<!-- <ItemSpec id="20002691" next="20002692" soft="1" softActType="hand" area="FreeBuildFunBuildTouch_460000_1" para2="1" closeAllPop="1"/> -->
+<ItemSpec id="20002691" next="20002692" arrow="2" area="FreeBuildTileTouch_36;30_2" enforce="1" showFinger="1" click="5" clickCntDelay="1" para1="0.62" para2="36;30_36;30" fingerPosY="40" mark="1" hideLayer="1" hideKuang="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20002692" next="20002693" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 指向运输按钮 -->
+<!-- <ItemSpec id="20002693" next="20002694" soft="1" softActType="roundPar;hand" jump="20002691" area="FreeBuildBtnsView_transport"/> -->
+<ItemSpec id="20002693" next="20002694" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnTransport"/>
+<!-- 播放手的动画 -->
+<ItemSpec id="20002694" next="20002695" click="5" clickCntDelay="1" enforce="1"  hideKuang="1" cartoon="show_transport_guide_hand"/>
+<!-- 按钮跳动 -->
+<ItemSpec id="20002695" next="20002696" click="5" clickCntDelay="1" soft="1" jump="20002691" area="FreeResTransportConfirmView_confirm"/>
+<!-- 点击小车选择界面的确定按钮 -->
+<ItemSpec id="20002696" next="20002697" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeCarSelectConfirmView_confirm"  para1="32;32"/>
+<!-- 等待小车选择命令返回 -->
+<ItemSpec id="20002697" next="20002698" jump="20002691" lag="10" area="FreeCarSelectConfirm_wait" enforce="1"  hideKuang="1" notAllowBreak="1"/>
+<!-- 小车去运水粮食 -->
+<ItemSpec id="20002698" next="20002699" soft="1" cartoon="Guide_FinishTransportQueue_460000" notAllowBreak="1" mark="1" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20002699" next="20002700" arrow="2" lag="1" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 检测是否在主城 -->
+<ItemSpec id="20002700" next="" soft="1" cartoon="check_in_freebuildscene" para1="20002260" para2="" notAllowBreak="1" mark="1"/>
+    
+	
+<!-- ******造兵营****** -->
+<!-- 90900060=我们修建了兵营，训练了士兵，击退了亡灵！整座城市逐渐步入正轨。士兵们的士气怎么样？他们准备好了探索未知的世界了吗？伊萨贝拉，是时候检阅士兵了！ -->
+<ItemSpec id="20002710" next="20010028" plot="9200611" dub="90900060" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 91015063=好的大人，我们必须修建一座校场。士兵和英雄们，将在校场编队，接受你的检阅！ -->
+<ItemSpec id="20010028" next="20002712" plot="9200662" dub="91015063" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 添加绿色地格的闪烁 -->
+<!-- <ItemSpec id="20002711" next="20002712" hideLayer="1" enforce="1"  hideKuang="1" lag="1000" cartoon="Free_add_ground_green_spr" para1="40;40" para2="40;40" closeAllPop="1"/> -->
+<!-- 按钮跳动 -->
+<ItemSpec id="20002712" next="20002713" click="50" clickCntDelay="20" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_FreeBuildListEnter" cartoon="UI_FreeBuildListEnter" closeAllPop="1"/>
+
+<!--<ItemSpec id="20002712" next="20002713" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_FreeBuildListEnter"  cartoon="UI_FreeBuildListEnter" closeAllPop="1"/>-->
+<!-- 点击类型列表 -->
+<ItemSpec id="20002713" next="20002714" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="PutFreeBuildTypesView_12"/>
+<!-- <ItemSpec id="20002713" next="20002714" soft="1" softActType="hand" area="PutFreeBuildTypesView_12"/>-->
+<!-- 拖拽建筑 -->
+<ItemSpec id="20002714" next="" soft="1" hideLayer="1" hideKuang="1" showFinger="1" fingerPosY="40" area="PutFreeBuildDragView_427000"/>
+
+<!-- 报告指挥官！城外有不明部队！ -->
+<!-- <ItemSpec id="20002720" next="20002721" plot="9200177" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 播放动画来兵 -->
+<!-- <ItemSpec id="20002721" next="20002723" enforce="1" cartoon="Show_SoldierComming" closeAllPop="1" fbTouchHandler="1" notAllowBreak="1"/> -->
+<!-- 尊敬的指挥官，这是附近唯一能够生存的人类庇护所，请收留我们。 -->
+<!-- <ItemSpec id="20002723" next="20002724" plot="9200178" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 获得新兵奖励展示 -->
+<!-- <ItemSpec id="20002724" next="20002725" soft="1" softActType="" area="ShowFreeBuildChapterRewardView_0" /> -->
+<!-- 播放动画来兵 -->
+<!-- <ItemSpec id="20002725" next="20002751" enforce="1" cartoon="Show_HeroComming" closeAllPop="1" fbTouchHandler="1" notAllowBreak="1"/> -->
+
+<!-- 跳到格子 -->
+<!-- <ItemSpec id="20002720" next="20002721" enforce="1" lag="0.5" cartoon="JumpToTile" para1="50;37"/> -->
+<!-- 小车漂移 -->
+<!-- <ItemSpec id="20002721" next="" enforce="1" cartoon="Show_ShiftCar" closeAllPop="1" fbTouchHandler="1" notAllowBreak="1"/> -->
+
+
+<!-- 90300040	太好了，有了他们的加入，我们就有了探寻世界的能力，现在来配置出征队列吧！ -->
+<!-- <ItemSpec id="20002729" next="20002730" plot="9200303" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 跳到建筑 -->
+<!-- <ItemSpec id="20002730" next="20002731" enforce="1" lag="1.5" cartoon="JumpToBuild" para1="427000" para2="999" para3="0.62" notAllowBreak="1"/> -->
+<!-- 指引 -->
+<!-- <ItemSpec id="20002731" next="20002732" soft="1" softActType="hand" area="FreeBuildFunBuildTouch_427000_999" para2="1" closeAllPop="1"/> -->
+<!-- <ItemSpec id="20002731" next="20002732" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_427000_999" para1="0.62" para2="0" closeAllPop="1"/> -->
+<!-- 判断该指向哪个按钮 -->
+<!-- <ItemSpec id="20002732" next="" soft="1" jump="" cartoon="check_freeBuildBtns_on_trainfield" para1="" para2="20002733" para3="20002734"/> -->
+<!-- 指向编队按钮 -->
+<!-- <ItemSpec id="20002733" next="20002735" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnRearTroops"/> -->
+<!-- 指向编队按钮 -->
+<!-- <ItemSpec id="20002734" next="20002735" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnRearTroops"/> -->
+<!-- 播放手的动画 -->
+<!-- <ItemSpec id="20002735" next="20002736" soft="1" softActType="" cartoon="show_formation_soldier_hand"/> -->
+<!-- 英雄按钮 -->
+<!-- <ItemSpec id="20002736" next="20002737" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FBFormationNewView_HeroTabBtn"/> -->
+<!-- 播放手的动画 -->
+<!-- <ItemSpec id="20002737" next="20002738" soft="1" softActType="" cartoon="show_formation_hero_hand"/> -->
+<!-- 面板返回按钮 -->
+<!-- <ItemSpec id="20002738" next="20002739" soft="1" softActType="hand" area="UI_returnBtn"/> -->
+<!-- <ItemSpec id="20002738" next="20002739" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_returnBtn"/> -->
+<!-- 现在我们有了部队，可以尝试击杀1级丧尸了，击杀丧尸能够获得大量的资源奖励 -->
+<!-- <ItemSpec id="20002739" next="20002740" plot="9200227" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 90300041 就由我来带队出征吧！ -->
+<!-- <ItemSpec id="20002739" next="20002740" plot="9200304" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="300" closeAllPop="1"/> -->
+<!-- 指向任务栏 -->
+<!-- <ItemSpec id="20002740" next="20002741" soft="1" softActType="hand" area="UI_target" closeAllPop="1" /> -->
+<!-- 领取奖励 -->
+<!-- <ItemSpec id="20002741" next="" soft="1" softActType="hand" area="FreeTaskChapterView_2500305"/> -->
+
+<!-- 头儿，探寻世界我们需要建造兵营，无论是战斗还是资源采集，有了兵营才能够拥有出征的编队。更多的兵营能够为我们带来更多的出征队伍。 -->
+<ItemSpec id="20002745" next="20002746" plot="9200174" dub="83401016" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 点击 -->
+<ItemSpec id="20002746" next="" soft="1" softActType="hand"  area="FreeBuildFunBuildTouch_427000_0" para1="0.62" para2="1"/>
+
+
+<!-- ******送第一个军官****** -->
+<!-- 90450049	请问，请问这里有人看到过这个女孩吗？他是我的未婚妻，我正在找她。 -->
+<!-- <ItemSpec id="20002751" next="20002752" plot="9200198" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 90450050	很抱歉，她应该不在这里。 -->
+<!-- <ItemSpec id="20002752" next="20002753" plot="9200199" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 90450051	头儿，我们出城攻击丧尸时，这位先生帮助了我们，否则会有更多的兄弟们受伤。 -->
+<!-- <ItemSpec id="20002753" next="20002754" plot="9200200" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 90450052	感谢你的出手相助。作为报答我会让人帮助你寻找你未婚妻的消息。 -->
+<!-- <ItemSpec id="20002754" next="20002755" plot="9200201" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 90450053	恕我直言，你这样找下去很难找到她。你可以考虑留在我们的庇护所，一旦有了她的消息你也可以第一时间收到。 -->
+<!-- <ItemSpec id="20002755" next="20002756" plot="9200202" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 90450054	我可以留下吗？ -->
+<!-- <ItemSpec id="20002756" next="20002757" plot="9200203" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 90450055	当然，我们的庇护所也需要像你这样英勇的将领。相信大家都会帮你寻找你的未婚妻的。 -->
+<!-- <ItemSpec id="20002757" next="20002758" plot="9200204" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 90450056	再次感谢你的仁慈，尊敬的指挥官。  -->
+<!-- <ItemSpec id="20002758" next="20002759" plot="9200205" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 90450057	哦，我的菲奥娜，你到底在哪里 -->
+<!-- <ItemSpec id="20002759" next="20002760" plot="9200206" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 播放领取军官动画 -->
+<!-- <ItemSpec id="20002760" next="" soft="1" softActType="" cartoon="show_hero_get" cartoonType="10009"/> -->
+<!-- 获得新兵奖励展示 -->
+<!-- <ItemSpec id="20002760" next="20002729" soft="1" softActType="" area="ShowFreeBuildChapterRewardView_3" /> -->
+
+
+<!-- ******极速模式****** -->
+<!-- 90400046	成功解锁农田的急速生长！急速生长可以让我们立刻获得大量资源，快来试试吧！ -->
+<ItemSpec id="20002770" next="20002771" plot="9200207" dub="90400046" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 点击 -->
+<ItemSpec id="20002771" next="20002772" soft="1" softActType="hand"  area="FreeBuildFunBuildTouch_415000_999" para1="0.62" para2="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20002772" next="20002773" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 指向编队按钮 -->
+<ItemSpec id="20002773" next="20002774" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnResourceSpeedup"/>
+<!-- 确定按钮 -->
+<ItemSpec id="20002774" next="20002775" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildHightSpeedView_confirm"/>
+<!-- 等一秒 -->
+<ItemSpec id="20002775" next="20002776" arrow="2" lag="3" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 90400047	运气不错成功了！当我们急需资源时，可以通过急速生产来获得！ -->
+<ItemSpec id="20002776" next="" plot="9200208" dub="90400047" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+
+
+<!-- ******治疗伤兵****** -->
+<!-- 90400043	头儿！医疗帐篷里的伤员需要救治，否则他们无法出征。 -->
+<ItemSpec id="20002780" next="20002781" plot="9200209" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 点击 -->
+<ItemSpec id="20002781" next="20002782" soft="1" softActType="hand"  area="FreeBuildFunBuildTouch_411000_999" para1="0.62" para2="1"/>
+<!-- 指向恢复按钮 -->
+<ItemSpec id="20002782" next="20002783" soft="1" softActType="hand" area="FreeBuildBtnsView_btnHospitalTreat"/>
+<!-- 恢复按钮 -->
+<ItemSpec id="20002783" next="20002784" soft="1" softActType="hand" area="BuildingHospitalPopUpView_confirm"/>
+<!-- 90400044   治疗伤兵需要一定的时间，我先替那些伤员感谢您，仁慈的指挥官。 -->
+<ItemSpec id="20002784" next="20002785" plot="9200210" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 90400045   在世界发生战斗，均有可能出现伤兵，您要记得及时救治他们，他们才能继续为您战斗。 -->
+<ItemSpec id="20002785" next="20002786" plot="9200211" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 跳到建筑 -->
+<ItemSpec id="20002786" next="" soft="1" softActType="" lag="0.5" cartoon="JumpToBuild" para1="411000" para2="999" para3="0.5"/>
+
+
+<!-- ******送第二个军官****** -->
+<!-- 91015051	（眉头紧锁）大人，我们每天在农田辛勤的工作，可是即便如此，目前的粮食产量也跟不上消耗了！ -->
+<ItemSpec id="20002790" next="20010033" plot="9200667" dub="91015051" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 91015052	伊萨贝拉，你有什么好建议么？ -->
+<ItemSpec id="20010033" next="20010034" plot="9200668" dub="91015052" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 90450032	我们可以从两方面着手解决这个问题：一，聘请一位粮食问题的专家；二，进行粮食相关科技的研究，提升粮食产量！ -->
+<ItemSpec id="20010034" next="20002791" plot="9200212" dub="90450032" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 90450033	说到专家，我听过你那位曾在皇家学院进修农业博士，精通粮食种植的哥哥的事，他能来帮我们吗？ -->
+<ItemSpec id="20002791" next="20002792" plot="9200213" dub="90450033" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 90450034	这正是我想对您说的，我已经写信通知了他。他决定过来帮我们，从他的封地到我们的城堡大概需要一天时间。 -->
+<ItemSpec id="20002792" next="20002793" plot="9200214" dub="90450034" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 提示弹窗 -->
+<!-- <ItemSpec id="20002793" next="" soft="1" softActType="" cartoon="show_secondHero_tips"/> -->
+<!-- 90450035	诺拉先锋官已经出发，点击这里可查看行军情况。 -->
+<ItemSpec id="20002793" next="20002794" plot="9200219" dub="90450035" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 指向消息球 -->
+<!-- <ItemSpec id="20002794" next="" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_news_ball" closeAllPop="1"/> -->
+<ItemSpec id="20002794" next="" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="NewsBall_secondHero" closeAllPop="1"/>
+
+<!-- 等一秒 -->
+<ItemSpec id="20002799" next="20002801" arrow="2" lag="3" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<ItemSpec id="20002800" next="20002801" arrow="2" lag="3" soft="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 90450041	速度要能再快点就好了 -->
+<ItemSpec id="20002801" next="20002802" plot="9200218" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 90450047	距离先锋官到达我们的庇护所还需要一些时间，在她到来之前我们需要加快发展我们的基地。 -->
+<ItemSpec id="20002802" next="20002803" plot="9200215" dub="90450047" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 队列菜单 -->
+<ItemSpec id="20002803" next="20002804" soft="1" softActType="" lag="2" cartoon="show_giveHero_troop" cartoonType="10010" notAllowBreak="1"/>
+<!-- 指向回城按钮 -->
+<ItemSpec id="20002804" next="" soft="1" softActType="hand" lag="6" area="UI_world_back" closeAllPop="1"/>
+
+<!-- 90460035	Z组织先锋官诺拉受命向您报道，乐意为您效劳，我的指挥官。  -->
+<ItemSpec id="20002810" next="20002811" plot="9200216" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 90460036	欢迎你的到来！有了你的加入，我们的庇护所会更加强大！ -->
+<ItemSpec id="20002811" next="20002812" plot="9200217" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 播放领取军官动画 -->
+<ItemSpec id="20002812" next="" soft="1" softActType="" cartoon="show_hero_get" cartoonType="10010"/>
+
+<!-- 90460037	头儿，诺拉先锋官已经抵达，赶快点击消息球查看吧！  -->
+<ItemSpec id="20002820" next="20002821" plot="9200220" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 指向消息球 -->
+<!-- <ItemSpec id="20002821" next="" soft="1" softActType="hand" area="UI_news_ball" closeAllPop="1"/> -->
+<ItemSpec id="20002821" next="" soft="1" softActType="hand" area="NewsBall_secondHero" closeAllPop="1"/>
+
+<!-- 83401298	您可随时点击左下方的英雄消息球来查看诺拉先锋官的位置和其他信息，现在继续跟随章节任务建设庇护所吧，铁丝网外面的丧尸已经虎视眈眈了。  -->
+<ItemSpec id="20002830" next="" plot="9200221" dub="83401298" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+
+
+<!-- ******第二个军官驻扎引导****** -->
+<!-- 83401302	诺拉先锋官拥有着强大的发展能力，将她驻扎在任意农田上，可提升农田产量！ -->
+<!-- <ItemSpec id="20002850" next="20002851" plot="9200222" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 点击农田 -->
+<!-- <ItemSpec id="20002851" next="20002852" soft="1" softActType="hand"  area="FreeBuildFunBuildTouch_415000_999" para1="0.62" para2="1"/> -->
+<!-- 等一秒 -->
+<!-- <ItemSpec id="20002852" next="20002853" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/> -->
+<!-- 指向驻扎按钮 -->
+<!-- <ItemSpec id="20002853" next="20002854" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_heroStation"/> -->
+<!-- 指向驻扎英雄 -->
+<!-- <ItemSpec id="20002854" next="20002855" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="50" area="FBHeroStationView_10010"/> -->
+<!-- 确定按钮 -->
+<!-- <ItemSpec id="20002855" next="20002856" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FBHeroStation_Confirm"/> -->
+<!-- 83401303	驻扎在城内的英雄无法配置编队带队出征，合理分配英雄的使用时间，才能够带来最大的收益。 -->
+<!-- <ItemSpec id="20002856" next="" plot="9200223" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+
+
+<!-- ******第一个军官上阵引导****** -->
+<!-- 83401299	太好了现在我们拥有了第一个英雄，只有上阵后的英雄才能给出征部队带来增益，现在我们去给编队配置英雄吧。 -->
+<!-- <ItemSpec id="20002860" next="20002861" plot="9200224" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 指引 -->
+<!-- <ItemSpec id="20002861" next="20002862" soft="1" softActType="hand" area="FreeBuildFunBuildTouch_427000_999" para1="0.62" para2="1" closeAllPop="1"/> -->
+<!-- 判断该指向哪个按钮 -->
+<!-- <ItemSpec id="20002862" next="" soft="1" jump="" cartoon="check_freeBuildBtns_on_trainfield" para1="" para2="20002863" para3="20002864"/> -->
+<!-- 指向编队按钮 -->
+<!-- <ItemSpec id="20002863" next="20002865" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_3"/> -->
+<!-- 指向编队按钮 -->
+<!-- <ItemSpec id="20002864" next="20002865" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_4"/> -->
+<!-- 指向加英雄按钮 -->
+<!-- <ItemSpec id="20002865" next="20002866" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFormationView_HeroTabBtn"/> -->
+<!-- 指向英雄 -->
+<!-- <ItemSpec id="20002866" next="20002867" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFormationView_10009"/> -->
+<!-- 保存按钮 -->
+<!-- <ItemSpec id="20002867" next="20002868" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFormationView_Confirm"/> -->
+<!-- 83401300	英雄带队出征击杀丧尸能够获得经验提升等级，从而提升技能效果解锁更多强力技能！ -->
+<!-- <ItemSpec id="20002868" next="20002869" plot="9200225" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 83401301	所以，部队空闲时，时常去击杀丧尸是一个不错的选择。 -->
+<!-- <ItemSpec id="20002869" next="" plot="9200226" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+
+
+<!-- ******第一次出征打怪引导****** -->
+<!-- 90300042	部队行军需要一定的时间，我们先回城内发展吧。 -->
+<ItemSpec id="20002880" next="20002881" plot="9200228" dub="90300042" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 指向回城按钮 -->
+<ItemSpec id="20002881" next="" soft="1" softActType="hand" lag="6" area="UI_world_back" closeAllPop="1" notAllowBreak="1"/>
+<!-- 指向任务栏 -->
+<ItemSpec id="20002882" next="20002883" soft="1" softCanNotBreak="1" softActType="hand" area="UI_target" closeAllPop="1" />
+<!-- 领取奖励 -->
+<ItemSpec id="20002883" next="" soft="1" softActType="hand" area="FreeTaskChapterView_2500201"/>
+
+
+<!-- ******燃油发电厂引导****** -->
+<!-- 83401362	发电厂需要消耗燃料才能发电，现在运送一次燃料吧。 -->
+<!-- <ItemSpec id="20002890" next="20002891" plot="9200229" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 指引 -->
+<!-- <ItemSpec id="20002891" next="20002892" soft="1" softActType="hand" area="FreeBuildFunBuildTouch_431000_999" para1="0.62" para2="1" closeAllPop="1"/> -->
+<!-- 等一秒 -->
+<!-- <ItemSpec id="20002892" next="20002893" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/> -->
+<!-- 指向运输按钮 -->
+<!-- <ItemSpec id="20002893" next="20002894" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnTransport"/> -->
+<!-- 播放手的动画 -->
+<!-- <ItemSpec id="20002894" next="" enforce="1"  hideKuang="1" cartoon="show_transport_guide_hand"/> -->
+
+
+<!-- 升级消息球触发引导 -->
+<!-- 我们解锁了更高级兵种，通过战略指挥台可以将低级兵种晋升至更高级的兵种。在此之前需要通过科技解锁晋级功能 -->
+<!-- <ItemSpec id="20002900" next="20002901" plot="9200409" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/> -->
+<!-- 指向升级建筑 -->
+<!-- <ItemSpec id="20002901" next="20002902" soft="1" softActType="hand" area="FreeBuildFunBuildTouch_449000_1000" para2="1"/> -->
+<!-- 等一秒 -->
+<!-- <ItemSpec id="20002902" next="20002903" arrow="2" lag="1" hideLayer="1" enforce="1" notAllowBreak="1"/> -->
+<!-- 指向升级兵种 -->
+<!-- <ItemSpec id="20002903" next="20002904" soft="1" softActType="hand" jump="20002901" area="FreeBuildBtnsView_4"/> -->
+<!-- 等一秒 -->
+<!-- <ItemSpec id="20002904" next="20002905" arrow="2" lag="1" hideLayer="1" enforce="1" notAllowBreak="1"/> -->
+<!-- 弹出可升级的兵的对话框 -->
+<!-- <ItemSpec id="20002905" next="20002906" arrow="2" lag="1" cartoon="show_up_soldier_tip" notAllowBreak="1"/> -->
+<!-- 指向升级按钮 -->
+<!-- <ItemSpec id="20002906" next="20002907" soft="1" softActType="hand" area="UpgradeUnlockDetailView_up"/> -->
+<!-- 指向确定升级 -->
+<!-- <ItemSpec id="20002907" next="" soft="1" softActType="hand" area="FreeBuildSoldierUpView_confirm"/> -->
+
+<!-- ******点消息球引导运水和粮食****** -->
+<!-- 90500008	由于餐车里没有足够的补给，出现了饥饿人口，快往餐车里运送水和粮食吧！ -->
+<ItemSpec id="20002910" next="20002911" plot="9200230" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 指引 -->
+<ItemSpec id="20002911" next="20002912" soft="1" softActType="hand" area="FreeBuildFunBuildTouch_460000_999" para1="0.62" para2="1" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20002912" next="20002913" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 指向运输按钮 -->
+<ItemSpec id="20002913" next="20002914" soft="1" softActType="roundPar;hand" area="FreeBuildBtnsView_btnTransport"/>
+<!-- 播放手的动画 -->
+<ItemSpec id="20002914" next="" enforce="1"  hideKuang="1" cartoon="show_transport_guide_hand"/>
+
+
+<!-- ******升级消息球触发引导****** -->
+<!-- 我们解锁了更高级兵种，通过战略指挥台可以将低级兵种晋升至更高级的兵种。在此之前需要通过科技解锁晋级功能 -->
+<ItemSpec id="20002920" next="20002921" plot="9200409" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 指向升级建筑 -->
+<ItemSpec id="20002921" next="20002922" soft="1" softActType="hand" area="FreeBuildFunBuildTouch_449000_999" para1="0.62" para2="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20002922" next="20002923" arrow="2" lag="0.5" hideLayer="1" enforce="1" notAllowBreak="1"/>
+<!-- 指向升级兵种 -->
+<ItemSpec id="20002923" next="20002924" soft="1" softActType="hand" jump="20002921" area="FreeBuildBtnsView_btnBarrackTroops"/>
+<!-- 指向兵种 -->
+<ItemSpec id="20002924" next="20002925" soft="1" softActType="hand" jump="" area="FBTroopsView_cell_jinji"/>
+<!-- 指向升级 -->
+<ItemSpec id="20002925" next="20002926" soft="1" softActType="hand" jump="" area="FBTroopsView_selectNode_jinji"/>
+<!-- 指向确定升级 -->
+<ItemSpec id="20002926" next="" soft="1" softActType="hand" area="FreeBuildSoldierUpView_confirm"/>
+
+
+<!-- ******探寻Z组织****** -->
+<!-- 83401378	时间过的真快，我们从一无所有到现在拥有一定的自保能力，多亏了您的英明指挥。 -->
+<ItemSpec id="20002930" next="20002931" plot="9200231" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 83401379	我们还有很长一段路要走，不能松懈。 -->
+<ItemSpec id="20002931" next="20002932" plot="9200232" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 83401380	头儿，您庇护幸存者们的事迹被传开了，我们收到Z组织邀请您到总部参观的邀请函。 -->
+<ItemSpec id="20002932" next="20002933" plot="9200233" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 83401381	那还等什么，我很久之前就想去参观一下了！ -->
+<ItemSpec id="20002933" next="20002934" plot="9200234" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 跳到世界 -->
+<ItemSpec id="20002934" next="20002935" soft="1" softActType="hand" area="JumpToWorld_600_600"/>
+<!-- 等一秒 -->
+<ItemSpec id="20002935" next="20002936" arrow="2" lag="1" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 指向按钮 -->
+<ItemSpec id="20002936" next="" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" click="1" clickCntDelay="1" area="WorldTileButton_600_600"/>
+
+<!-- 83401382	欢迎你的到来，英勇的指挥官。 -->
+<ItemSpec id="20002940" next="20002941" plot="9200235" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 83401383	这位是Z组织总司令克莱恩先生。 -->
+<ItemSpec id="20002941" next="20002942" plot="9200236" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 83401384	您好，尊敬的克莱恩司令。 -->
+<ItemSpec id="20002942" next="20002943" plot="9200237" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 83401385	这次请你来，为的是表彰你庇护了大量的幸存者。 -->
+<ItemSpec id="20002943" next="20002944" plot="9200238" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 83401386	Z组织将正式授予你属于指挥官的勋章，一旦接受，你就必须肩负起带领庇护所重建家园的重任。你愿意接受吗？ -->
+<ItemSpec id="20002944" next="20002945" plot="9200239" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 83401387	万分荣幸。 -->
+<ItemSpec id="20002945" next="20002946" plot="9200240" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 获得奖励展示 -->
+<ItemSpec id="20002946" next="20002947" soft="1" softActType="" area="ShowFreeBuildChapterRewardView_2" />
+<!-- 83401388	直到目前仍有无数的人类同胞面临丧尸的危机，饱受流离失所之苦。 -->
+<ItemSpec id="20002947" next="20002948" plot="9200241" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 83401389	Z组织虽拥有军队，但是无法及时的拯救每一个人。 -->
+<ItemSpec id="20002948" next="20002949" plot="9200242" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 83401390	我们需要你这样的指挥官，带领庇护所的人们重建新的家园。 -->
+<ItemSpec id="20002949" next="20002950" plot="9200243" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 83401391	你愿意肩负这个使命吗？ -->
+<ItemSpec id="20002950" next="20002951" plot="9200244" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 83401392	我愿意！ -->
+<ItemSpec id="20002951" next="20002952" plot="9200245" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 83401393	很好，诺拉，你可以带指挥官在城里逛逛，我还有军务就暂不陪同了。 -->
+<ItemSpec id="20002952" next="20002953" plot="9200246" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 播放手的动画 -->
+<ItemSpec id="20002953" next="20002954" enforce="1"  hideKuang="1" lag="25" cartoon="move_ground" notAllowBreak="1"/>
+<!-- 83401394	不愧是Z组织的最高指挥部！那群丧尸肯定攻不破这样的城市！ -->
+<ItemSpec id="20002954" next="20002955" plot="9200247" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 83401395	您可以在这随便逛逛，点击右下角世界即可返程。 -->
+<ItemSpec id="20002955" next="" plot="9200248" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+
+<!-- 83401396	下次再来不知道要什么时候了，确定离开吗？ -->
+<ItemSpec id="20002957" next="" plot="9200249" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+
+<!-- 83401399	艾达，诺拉，我们回去吧。总有一天，我们的庇护所也能像这里一样繁荣！ -->
+<ItemSpec id="20002958" next="20002959" plot="9200250" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 离开别人的城 -->
+<ItemSpec id="20002959" next="" cartoon="leave_view_scene" closeAllPop="1"/>
+
+
+<!-- ******老版编队重引导****** -->
+<!-- 90300039  出城之前，还是先配置好出征队列吧！ -->
+<!-- <ItemSpec id="20002960" next="20002961" plot="9200410" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/> -->
+<!-- 跳到建筑 -->
+<!-- <ItemSpec id="20002961" next="20002962" enforce="1" lag="0.2" cartoon="JumpToBuild" para1="427000" para2="999" para3="0.62"/> -->
+<!-- 指引 -->
+<!-- <ItemSpec id="20002731" next="20002732" soft="1" softActType="hand" area="FreeBuildFunBuildTouch_427000_999" para2="1" closeAllPop="1"/> -->
+<!-- <ItemSpec id="20002962" next="20002963" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_427000_999" para1="0.62" para2="0" closeAllPop="1"/> -->
+<!-- 判断该指向哪个按钮 -->
+<!-- <ItemSpec id="20002963" next="" soft="1" jump="" cartoon="check_freeBuildBtns_on_trainfield" para1="" para2="20002964" para3="20002965"/> -->
+<!-- 指向编队按钮 -->
+<!-- <ItemSpec id="20002964" next="20002966" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_3"/> -->
+<!-- 指向编队按钮 -->
+<!-- <ItemSpec id="20002965" next="20002966" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_4"/> -->
+<!-- 播放手的动画 -->
+<!-- <ItemSpec id="20002966" next="20002967" soft="1" softActType="" cartoon="show_formation_soldier_hand"/> -->
+<!-- 保存按钮 -->
+<!-- <ItemSpec id="20002967" next="" soft="1" softActType="hand" area="FreeBuildFormationView_Confirm"/> -->
+
+
+<!-- ******驻扎引导****** -->
+<!-- 90500051	管理中心建造完毕，现在我们可以让英雄进行驻扎了！ -->
+<ItemSpec id="20003300" next="20003301" plot="9200251" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 跳到建筑 -->
+<ItemSpec id="20003301" next="20003302" enforce="1" lag="0.2" cartoon="JumpToBuild" para1="486000" para2="999" para3="0.62"/>
+<!-- 点击管理中心 -->
+<!-- <ItemSpec id="20003302" next="20003303" soft="1" softActType="hand"  area="FreeBuildFunBuildTouch_486000_999" para1="0.62" para2="1"/> -->
+<ItemSpec id="20003302" next="20003303" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_486000_999" para1="0.62" para2="0" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20003303" next="20003304" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 指向驻扎按钮 -->
+<ItemSpec id="20003304" next="20003305" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnStation"/>
+<!-- 指向驻扎英雄 -->
+<ItemSpec id="20003305" next="20003308" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FBHeroStationNewManagerView_10010"/>
+<!-- 指向驻扎英雄 -->
+<!-- <ItemSpec id="20003306" next="20003307" soft="1" softActType="hand" area="FBStationHeroListView_0"/> -->
+<!-- 驻扎按钮 -->
+<!-- <ItemSpec id="20003307" next="20003308" soft="1" softActType="hand" area="FBStationHeroListView_SelectBtn"/> -->
+<!-- 指向关闭按钮 -->
+<ItemSpec id="20003308" next="20003309" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_returnBtn"/>
+<!-- 90500052	搞定，有了诺拉的驻扎，农田的产量变高了！ -->
+<ItemSpec id="20003309" next="20003310" plot="9200252" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 83401361	驻扎在城内的英雄无法配置编队带队出征，合理分配英雄的使用时间，才能够带来最大的收益。 -->
+<ItemSpec id="20003310" next="" plot="9200253" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+
+
+<!-- ******音响引导****** -->
+<!-- 90500061	现在我们有了一定的守城力量，可以试试这个丧尸音响了。 -->
+<ItemSpec id="20003320" next="20003321" plot="9200254" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 跳到建筑 -->
+<ItemSpec id="20003321" next="20003322" enforce="1" lag="1.0" cartoon="JumpToSpeBuild" para1="music" para2="999" para3="0.62"/>
+<!-- 等一秒 -->
+<ItemSpec id="20003322" next="20003323" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 90500062	这东西有什么用？ -->
+<ItemSpec id="20003323" next="20003324" plot="9200255" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 90500063	丧尸音响能吸引周边较弱的丧尸来到音响附近，击杀它们我们能获得一些资源。 -->
+<ItemSpec id="20003324" next="20003325" plot="9200256" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 90500064	不过丧尸音响需要充能，您有空的时候时常来看看就行~！ -->
+<ItemSpec id="20003325" next="20003326" plot="9200257" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 点击音响 -->
+<ItemSpec id="20003326" next="20003327" arrow="2" area="FreeBuildTileTouch_45;65_1" enforce="1" showFinger="1" click="1" clickCntDelay="8" para1="0.62" para2="45;65_45;65" fingerPosY="40" hideLayer="1" hideKuang="1" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20003327" next="20003328" arrow="2" lag="7" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 点击音响 -->
+<ItemSpec id="20003328" next="20003329" arrow="2" area="FreeBuildTileTouch_45;65_1" enforce="1" showFinger="1" click="1" clickCntDelay="8" para1="0.62" para2="45;65_45;65" fingerPosY="40" hideLayer="1" hideKuang="1" closeAllPop="1"/>
+<!-- 领取按钮 -->
+<ItemSpec id="20003329" next="20003330" soft="1" softActType="hand" area="TimeRwdShowView_OKBtn"/>
+<!-- 90500065	你可一定要控制好这东西的音量。我可不想引来丧尸潮。 -->
+<ItemSpec id="20003330" next="20003331" plot="9200258" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 90500066	放心~！ -->
+<ItemSpec id="20003331" next="20003332" plot="9200259" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 跳到建筑 -->
+<ItemSpec id="20003332" next="20003333" soft="1" softActType="" lag="0.5" cartoon="JumpToBuild" para1="400000" para2="999" para3="0.5"/>
+<!-- 指向任务栏 -->
+<ItemSpec id="20003333" next="" soft="1" softActType="hand" area="UI_target" closeAllPop="1" />
+
+
+<!-- ******老版编队引导****** -->
+<!-- 90300040	太好了，有了他们的加入，我们就有了探寻世界的能力，现在来配置出征队列吧！ -->
+<!-- <ItemSpec id="20003340" next="20003341" plot="9200303" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 跳到建筑 -->
+<!-- <ItemSpec id="20003341" next="20003342" enforce="1" lag="0.2" cartoon="JumpToBuild" para1="427000" para2="999" para3="0.62"/> -->
+<!-- 指引 -->
+<!-- <ItemSpec id="20003342" next="20003343" click="1" clickCntDelay="8" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_427000_999" para1="0.62" para2="0" closeAllPop="1"/> -->
+<!-- 判断该指向哪个按钮 -->
+<!-- <ItemSpec id="20003343" next="" soft="1" jump="" cartoon="check_freeBuildBtns_on_trainfield" para1="" para2="20003344" para3="20003345"/> -->
+<!-- 指向编队按钮 -->
+<!-- <ItemSpec id="20003344" next="20003346" click="1" clickCntDelay="8" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_3"/> -->
+<!-- 指向编队按钮 -->
+<!-- <ItemSpec id="20003345" next="20003346" click="1" clickCntDelay="8" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_4"/> -->
+<!-- 播放手的动画 -->
+<!-- <ItemSpec id="20003346" next="20003347" soft="1" softActType="" cartoon="show_formation_guide_hand"/> -->
+<!-- 保存按钮 -->
+<!-- <ItemSpec id="20003347" next="20003348" soft="1" softActType="hand" area="FreeBuildFormationView_Confirm"/> -->
+<!-- 现在我们有了部队，可以尝试击杀1级丧尸了，击杀丧尸能够获得大量的资源奖励 -->
+<!-- <ItemSpec id="20003348" next="20003349" plot="9200227" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 90300041 就由我来带队出征吧！ -->
+<!-- <ItemSpec id="20003349" next="20003350" plot="9200304" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 指向任务栏 -->
+<!-- <ItemSpec id="20003350" next="20003351" soft="1" softActType="hand" area="UI_target" closeAllPop="1" /> -->
+<!-- 领取奖励 -->
+<!-- <ItemSpec id="20003351" next="" soft="1" softActType="hand" area="FreeTaskChapterView_2500305"/> -->
+
+
+<!-- ******编队重引导****** -->
+<!-- 90300039  出城之前，还是先配置好出征队列吧！ -->
+<!-- <ItemSpec id="20003360" next="20003361" plot="9200410" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/> -->
+<!-- 跳到建筑 -->
+<!-- <ItemSpec id="20003361" next="20003362" enforce="1" lag="0.2" cartoon="JumpToBuild" para1="427000" para2="999" para3="0.62"/> -->
+<!-- 指引 -->
+<!-- <ItemSpec id="20003362" next="20003363" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_427000_999" para1="0.62" para2="0" closeAllPop="1"/> -->
+<!-- 判断该指向哪个按钮 -->
+<!-- <ItemSpec id="20003363" next="" soft="1" jump="" cartoon="check_freeBuildBtns_on_trainfield" para1="" para2="20003364" para3="20003365"/> -->
+<!-- 指向编队按钮 -->
+<!-- <ItemSpec id="20003364" next="20003366" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnRearTroops"/> -->
+<!-- 指向编队按钮 -->
+<!-- <ItemSpec id="20003365" next="20003366" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnRearTroops"/> -->
+<!-- 播放手的动画 -->
+<!-- <ItemSpec id="20003366" next="20003367" soft="1" softActType="" cartoon="show_formation_soldier_hand"/> -->
+<!-- 英雄按钮 -->
+<!-- <ItemSpec id="20003367" next="20003368" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FBFormationNewView_HeroTabBtn"/> -->
+<!-- 播放手的动画 -->
+<!-- <ItemSpec id="20003368" next="20003369" soft="1" softActType="" cartoon="show_formation_hero_hand"/> -->
+<!-- 面板返回按钮 -->
+<!-- <ItemSpec id="20003369" next="" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_returnBtn"/> -->
+
+
+<!-- ******英雄大厅引导****** -->
+<!-- 90500084  终于有了英雄大厅，现在我们可以招募更多的英雄了！ -->
+<ItemSpec id="20003380" next="20003381" plot="9200260" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 90500085  不同的英雄可以为我们带来不同的增益，英雄是我们发展必不可少的力量之一！ -->
+<ItemSpec id="20003381" next="20003382" plot="9200261" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 90500087  现在，我们快来试试招募吧！ -->
+<ItemSpec id="20003382" next="20003383" plot="9200263" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 跳到建筑 -->
+<ItemSpec id="20003383" next="20003384" enforce="1" lag="0.2" cartoon="JumpToBuild" para1="483000" para2="999" para3="0.62"/>
+<!-- 指引 -->
+<ItemSpec id="20003384" next="20003385" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_483000_999" para1="0.62" para2="0" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20003385" next="20003386" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 判断该指向哪个按钮 -->
+<ItemSpec id="20003386" next="" soft="1" jump="" cartoon="check_freeBuildBtns" para1="483000" para2="20003387" para3="20003388"/>
+<!-- 指向招募按钮 -->
+<ItemSpec id="20003387" next="20003389" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnHeroRecruit"/>
+<!-- 指向招募按钮 -->
+<ItemSpec id="20003388" next="20003389" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnHeroRecruit"/>
+<!-- 免费招募按钮 -->
+<ItemSpec id="20003389" next="20003390" soft="1" softActType="hand" area="FreeBuildOfficerDrawView_recruitFreeBtn"/>
+<!-- 等一秒 -->
+<ItemSpec id="20003390" next="20003391" arrow="2" lag="2" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 免费招募按钮 -->
+<ItemSpec id="20003391" next="20003392" soft="1" softActType="hand" area="FreeBuildOfficerRecruitView_closeBtn"/>
+<!-- 90500086  战斗英雄可以增加部队战斗力，发展英雄可以驻扎在建筑上提升资源收益。 -->
+<ItemSpec id="20003392" next="20003393" plot="9200262" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 90500088  我们每日有两次免费招募英雄的机会，千万不要错过哦！ -->
+<ItemSpec id="20003393" next="" plot="9200264" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+
+
+<!-- ******人口引导****** -->
+<!-- 90500081  现在餐车里没有吃的，我们无法达到人口增长的需求。赶快运输一些资源吧，大家都饿坏了！ -->
+<ItemSpec id="20003400" next="20003401" plot="9200265" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 前往按钮 -->
+<ItemSpec id="20003401" next="20003402" soft="1" softActType="hand" area="FreeBuildResourceInstructionView_goBtn"/>
+<!-- 指引 -->
+<ItemSpec id="20003402" next="20003403" soft="1" softActType="hand" area="FreeBuildFunBuildTouch_460000_999" para2="1" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20003403" next="20003404" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 指向运输按钮 -->
+<ItemSpec id="20003404" next="20003405" soft="1" softActType="roundPar;hand" area="FreeBuildBtnsView_btnTransport"/>
+<!-- 播放手的动画 -->
+<ItemSpec id="20003405" next="20003406" enforce="1"  hideKuang="1" cartoon="show_transport_guide_hand"/>
+<!-- 按钮跳动 -->
+<ItemSpec id="20003406" next="" soft="1" area="FreeResTransportConfirmView_confirm"/>
+
+<!-- 90500083  人口正在增长中，在达到建设需求之前，我们可以先干点别的。 -->
+<ItemSpec id="20003410" next="" plot="9200267" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+
+
+<!-- ******引导造电厂****** -->
+<!-- 90500091  天黑了，我们不能靠篝火撑过夜晚，那不是长久之计。 -->
+<!-- <ItemSpec id="20003420" next="20003421" plot="9200268" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/> -->
+<!-- 90500092  我们需要电，资源建筑的生产也离不开电力，我们手头没有燃料，先建造一个风力发电厂吧。 -->
+<!-- <ItemSpec id="20003421" next="20003422" plot="9200269" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 指向任务栏 -->
+<!-- <ItemSpec id="20003422" next="20003423" soft="1" softCanNotBreak="1" softActType="hand" area="UI_target" closeAllPop="1" /> -->
+<!-- 领取奖励 -->
+<!-- <ItemSpec id="20003423" next="" soft="1" softActType="hand" area="FreeTaskChapterView_2500110"/> -->
+
+<!-- 等一秒 -->
+<!-- <ItemSpec id="20003425" next="20003426" arrow="2" lag="2.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/> -->
+<!-- 90500093  搞定！有了光，看起来安全多了。 -->
+<!-- <ItemSpec id="20003426" next="" plot="9200270" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/> -->
+
+
+<!-- ******引导加联盟****** -->
+<!-- 90500096  领主大人，城市的建设是一方面。我在大陆游历的过程中获悉，许多强大的城邦已经联合起来，共同抗击亡灵与战争。也许我们可以选择一个联盟加入？ -->
+<ItemSpec id="20003430" next="20003431" plot="9200271" dub="90500096" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 90500097  不错的主意，联合，可以让我们更强大；团结，让我们能够应付各种危机。来，我们选择一个联盟！或者，我们建立一个联盟！ -->
+<ItemSpec id="20003431" next="20003434" plot="9200272" dub="90500097" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 90500098  我想我们不应该孤军奋战，加入合适的联盟能让我们安全不少。 -->
+<!-- <ItemSpec id="20003432" next="20003433" plot="9200273" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/> -->
+<!-- 90500099  不错的主意。 -->
+<!-- <ItemSpec id="20003433" next="20003434" plot="9200274" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/> -->
+<!-- 指向菜单按钮 -->
+<ItemSpec id="20003434" next="20003435" clickCntDelay="8" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_moreBtn" closeAllPop="1" />
+<!-- 等一秒 -->
+<ItemSpec id="20003435" next="20003436" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 指向菜单按钮 -->
+<ItemSpec id="20003436" next="" clickCntDelay="8" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_allianceBtn" closeAllPop="1" />
+
+
+<!-- ******引导勇士拖到第一个位置****** -->
+<!-- 90500108  兵种分为勇士、射手、改装车。将防御力和生命更强的勇士放在第一排，能够更好的保护输出兵种。 -->
+<ItemSpec id="20003440" next="" plot="9200275" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+
+
+<!-- ******第一次造兵后引导****** -->
+<!-- 90500114  我们修建了兵营，训练了士兵，击退了亡灵！整座城市逐渐步入正轨。士兵们的士气怎么样？他们准备好了探索未知的世界了吗？伊萨贝拉，是时候检阅士兵了！ -->
+<ItemSpec id="20003450" next="" plot="9200276" cannotBreakDub="90500114" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+
+
+<!-- ******联盟三部曲引导****** -->
+<!-- 90500109  有了联盟就有了依靠，我们先去起一个指挥官名字吧，这样更容易被大家记住。 -->
+<ItemSpec id="20003455" next="20003456" plot="9200277" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 指向消息球 -->
+<ItemSpec id="20003456" next="20003457" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="NewsBall_alliancesanbuqunewsball" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20003457" next="20003458" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 改名按钮 -->
+<ItemSpec id="20003458" next="" soft="1" softActType="hand" area="GeneralsPopupViewNew_changeName"/>
+
+<!-- 等一秒 -->
+<ItemSpec id="20003460" next="20003461" arrow="2" lag="0.5" hideLayer="1" enforce="1"/>
+<!-- 改名按钮 -->
+<ItemSpec id="20003461" next="" soft="1" softActType="hand" area="GeneralsPopupViewNew_changeName"/>
+
+<!-- 90500110  相信这个名字一定会被历史铭记！现在我们去联盟中打个招呼吧！ -->
+<ItemSpec id="20003465" next="20003466" plot="9200278" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 指向消息球 -->
+<ItemSpec id="20003466" next="" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="NewsBall_alliancesanbuqunewsball" closeAllPop="1"/>
+
+<!-- 90500111  迁城至盟友身边我们会更加安全。 -->
+<ItemSpec id="20003475" next="20003476" plot="9200279" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 指向消息球 -->
+<ItemSpec id="20003476" next="" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="NewsBall_alliancesanbuqunewsball" closeAllPop="1"/>
+
+
+<!-- ******加速引导****** -->
+<!-- 90500226  升级基地需要较长的时间，您可使用「加速道具」来「缩短建设时间」，快来试试吧！ -->
+<ItemSpec id="20003480" next="20003481" plot="9200280" dub="90500226" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 跳到建筑 -->
+<ItemSpec id="20003481" next="20003482" enforce="1" lag="0.2" cartoon="JumpToBuild" para1="400000" para2="999" para3="0.62"/>
+<!-- 指引 -->
+<ItemSpec id="20003482" next="20003483" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_400000_999" para1="0.62" para2="0" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20003483" next="20003484" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 指向加速按钮 -->
+<ItemSpec id="20003484" next="20003485" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnSpeedup"/>
+<!-- 等一秒 -->
+<ItemSpec id="20003485" next="20003486" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 使用按钮 -->
+<ItemSpec id="20003486" next="" soft="1" softActType="hand" area="AcceleratePropsView_useBtn"/>
+
+
+<!-- ******获得地块引导****** -->
+<!-- 90500227  末日争霸已经开启。为了生存，仅仅依靠城内的资源是远远不够的。我们必须去世界探索，谋取生存！ -->
+<ItemSpec id="20003490" next="20003491" plot="9200281" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="1000"/>
+<!-- 发消息 -->
+<ItemSpec id="20003491" next="" enforce="1" lag="0.2" cartoon="SendCommand" para1="1"/>
+
+<!-- 90500261  附近土地的守卫较强，难以发展。我们将免费赠予您一次迁城至更合适区域的机会，是否前往迁城？ -->
+<ItemSpec id="20003500" next="" plot="9200282" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10000"/>
+
+<!-- 等一秒 -->
+<ItemSpec id="20003505" next="20003510" arrow="2" lag="4.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+
+<!-- 90500263  周边的土地情况很适合我们的发展，我们的士兵已经在开拓第一块空地了。 -->
+<ItemSpec id="20003510" next="20003511" plot="9200285" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="1000"/>
+<!-- 发消息 -->
+<ItemSpec id="20003511" next="20003512" enforce="1" lag="0.2" cartoon="SendCommand" para1="3"/>
+<!-- 等一秒 -->
+<ItemSpec id="20003512" next="20003513" arrow="2" lag="2.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 90500230  成功了！现在我们拥有了第一块土地，我们只能占领它周边的土地来扩张。 -->
+<ItemSpec id="20003513" next="" plot="9200283" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="1000"/>
+<!-- 90500262  现在，占领旁边的1级土地吧！ -->
+<!-- <ItemSpec id="20003514" next="20003515" plot="9200284" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="1000"/> -->
+<!-- 跳到世界 -->
+<!-- <ItemSpec id="20003515" next="20003516" soft="1" softActType="hand" area="JumpToWorldTile_0_0" para1="sendTile"/> -->
+<!-- 等一秒 -->
+<!-- <ItemSpec id="20003516" next="20003517" arrow="2" lag="1" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/> -->
+<!-- 指向按钮 -->
+<!-- <ItemSpec id="20003517" next="" soft="1" softActType="hand" area="OpenWorldTileButton_0_0_3"/> -->
+
+
+<!-- ******造完哨塔引导****** -->
+<!-- 添加箭塔丧尸 -->
+<ItemSpec id="20003520" next="20003521" enforce="1" lag="0.1" cartoon="AddArrowTowerZombie" para1="1"/>
+<!-- 90500294  哨塔建造完毕，可以点击射杀城内游走的丧尸了，干掉它们城里会安全的多。 -->
+<ItemSpec id="20003521" next="20003522" plot="9200288" dub="90500294" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="1000"/>
+<!-- 跳到建筑 -->
+<ItemSpec id="20003522" next="20003523" enforce="1" lag="1" cartoon="JumpToBuild" para1="418000" para2="999" para3="0.56"/>
+<!-- 添加箭塔丧尸 -->
+<ItemSpec id="20003523" next="20010027" enforce="0" lag="0.1" cartoon="PlayArrowTowerZombie" para1="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20010027" next="20010015" arrow="2" lag="4.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!--91015022 大人，大人，我找到那柄号角的作用了，我的猜想没有错！ -->
+<ItemSpec id="20010015" next="20010016" plot="9200649" cannotBreakDub="91015022" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="10" closeAllPop="1" mark="1"/>
+<!--91015023 它有什么作用？ -->
+<ItemSpec id="20010016" next="20010017" plot="9200650" cannotBreakDub="91015023" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="10" closeAllPop="1" mark="1"/>
+<!--91015024 召唤巨龙，我的大人，那些魔纹是传说中用于召唤巨龙的魔纹，古籍记载，当号角的魔纹全部显现时，吹响这柄号角，就能召唤巨龙！我想他原来的主人将其放在龙晶矿脉中，正是为了让它加快魔力的积蓄。 -->
+<ItemSpec id="20010017" next="20010018" plot="9200651" cannotBreakDub="91015024" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="10" closeAllPop="1" mark="1"/>
+<!--91015025 召唤巨龙？如果这一切是真的，大人，那这片大陆没有任何人能够阻挡我们前进的步伐！ -->
+<ItemSpec id="20010018" next="20010019" plot="9200652" cannotBreakDub="91015025" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="10" closeAllPop="1" mark="1"/>
+<!--91015026 （凝视号角）我们会找到机会吹响这枚号角的，到时候我们就知道传说是不是真实的了！ -->
+<ItemSpec id="20010019" next="" plot="9200653" cannotBreakDub="91015026" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="10" closeAllPop="1" mark="1"/>
+
+
+
+<!-- ******城内地块引导****** -->
+<!-- 报告指挥官！城外有不明部队！ -->
+<!-- <ItemSpec id="20003530" next="20003531" plot="9200177" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/> -->
+<!-- 播放动画来兵 -->
+<!-- <ItemSpec id="20003531" next="20003532" enforce="1" cartoon="Show_SoldierComming" closeAllPop="1" fbTouchHandler="1" notAllowBreak="1"/> -->
+<!-- 跳到格子 -->
+<ItemSpec id="20003530" next="20003531" enforce="1" lag="0.5" cartoon="JumpToTile" para1="50;40"/>
+<!-- 小车漂移 -->
+<ItemSpec id="20003531" next="" enforce="1" cartoon="Show_ShiftCar" closeAllPop="1" fbTouchHandler="1" notAllowBreak="1"/>
+<!-- 90500309  尊敬的指挥官，我们收到了来自同伴的求救信号，希望您能帮助我们救出他们。外面已经沦陷，我们愿意与您一同守护这里。 -->
+<ItemSpec id="20003532" next="20003533" plot="9200289" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="1000"/>
+<!-- 移动到52号区域 -->
+<ItemSpec id="20003533" next="20003534" arrow="2" lag="1" cartoon="Move_to_area52" enforce="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20003534" next="20003535" arrow="2" lag="2.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 故事 -->
+<ItemSpec id="20003535" next="20003537" cartoon="storyboard" cartoonType="12" dub="90500343" enforce="1"/>
+<!-- 90500310  义不容辞 -->
+<!-- <ItemSpec id="20003536" next="20003537" plot="9200290" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="1000"/> -->
+<!-- 获得新兵奖励展示 -->
+<ItemSpec id="20003537" next="20004013" soft="1" softActType="" area="ShowFreeBuildChapterRewardView_3" />
+<ItemSpec id="20004013" next="20003538" soft="1" softActType="" area="ShowFreeBuildHeroView_1" />
+<!-- 90500311  我们快来配置出征部队，营救被困的同伴吧！ -->
+<ItemSpec id="20003538" next="20003539" plot="9200291" dub="90500311" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="1000"/>
+<!-- 跳到建筑 -->
+<ItemSpec id="20003539" next="20003540" enforce="1" lag="1" cartoon="JumpToBuild" para1="427000" para2="999" para3="0.62" notAllowBreak="1"/>
+<!-- 指引 -->
+<ItemSpec id="20003540" next="20003541" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_427000_999" para1="0.62" para2="0" closeAllPop="1"/>
+<!-- 判断该指向哪个按钮 -->
+<ItemSpec id="20003541" next="" soft="1" jump="" cartoon="check_freeBuildBtns_on_trainfield" para1="" para2="20003542" para3="20003543"/>
+<!-- 指向编队按钮 -->
+<ItemSpec id="20003542" next="20003544" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnRearTroops"/>
+<!-- 指向编队按钮 -->
+<ItemSpec id="20003543" next="20003544" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnRearTroops"/>
+<!-- 播放手的动画 -->
+<ItemSpec id="20003544" next="20003545" soft="1" softActType="" cartoon="show_formation_soldier_hand"/>
+<!-- 英雄按钮 -->
+<ItemSpec id="20003545" next="20003546" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FBFormationNewView_HeroTabBtn"/>
+<!-- 播放手的动画 -->
+<ItemSpec id="20003546" next="20003547" soft="1" softActType="" cartoon="show_formation_hero_hand"/>
+<!-- 面板返回按钮 -->
+<ItemSpec id="20003547" next="20003548" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_returnBtn"/>
+<!-- 移动到52号区域 -->
+<ItemSpec id="20003548" next="20004051" arrow="2" lag="2" cartoon="Move_to_area52" enforce="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20004051" next="20004048" arrow="2" lag="1" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 框选锁 -->
+<ItemSpec id="20003549" next="20003550" arrow="0" area="FreeSceneArea_52" enforce="1" showFinger="1" click="1" clickCntDelay="8" fingerPosY="40" hideLayer="1" hideKuang="1"/>
+<!-- 等待一秒 -->
+<ItemSpec id="20003550" next="20003551" arrow="2" lag="0.5" hideLayer="1" enforce="1"/>
+<!-- 框选解锁按钮 -->
+<ItemSpec id="20003551" next="20003552" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeUnlockViewNew_confirm"/>
+<!-- 出征按钮 -->
+<ItemSpec id="20003552" next="" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBattleView_marchBtn"/>
+
+<!-- 跳到格子 -->
+<ItemSpec id="20003560" next="20003561" enforce="1" lag="0.2" cartoon="JumpToTile" para1="36;50" para3="0.62"/>
+<!-- 等待一秒 -->
+<ItemSpec id="20003561" next="20003562" arrow="2" lag="5" hideLayer="1" enforce="1"/>
+<!-- 故事 -->
+<ItemSpec id="20003562" next="20003563" cartoon="storyboard" cartoonType="13" dub="90400102" enforce="1"/>
+<!-- 90500312  猎魔人大人！感谢您拯救了我们！ -->
+<ItemSpec id="20003563" next="20003564" plot="9200292" dub="90500312" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="1000"/>
+<!-- 90500313  真正要感谢的是领主大人！是他为我们提供了矛与剑，是他庇护着你们的家人，没有他就没有一切！ -->
+<ItemSpec id="20003564" next="20003565" plot="9200293" dub="90500313" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="1000"/>
+<!-- 90500314  各位！有你们这些无畏的士兵和英雄，我相信我迟早会结束这场战争，击退亡灵，为大陆带来永久的和平。 -->
+<ItemSpec id="20003565" next="20003566" plot="9200294" dub="90500314" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="1000"/>
+<!-- 90500315  大人，东部王朝的敌军一定会卷土重来。我们必须确保客栈中有足够的资源，当城市的人口增加后，我们就可以持续的训练部队。 -->
+<ItemSpec id="20003566" next="20010032" plot="9200295" dub="90500315" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="1000"/>
+<!-- 91015046  你说得没错，伊萨贝拉，我不仅要缔造一个军事强盛的城邦，我还要创造一片富裕安宁的乐土！ -->
+<ItemSpec id="20010032" next="20003567" plot="9200666" dub="91015046" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="1000"/>
+<!-- 跳到格子 -->
+<ItemSpec id="20003567" next="20006002" enforce="1" lag="1" cartoon="JumpToTile" para1="32;32" para3="0.5"/>
+<!-- 指向任务栏 -->
+<ItemSpec id="20003568" next="" soft="1" softActType="hand" area="UI_target" closeAllPop="1" />
+
+
+<!-- ******亮灯引导****** -->
+<!-- 等待一秒 -->
+<ItemSpec id="20003580" next="20003581" arrow="2" lag="1" hideLayer="1" enforce="1"/>
+<!-- 90500319  （你注视着渐渐逝去的白昼，寒冷的风抚起了你的长发）暗夜将至，伊萨贝拉，通知士兵们点燃篝火，驱散严寒！ -->
+<ItemSpec id="20003581" next="20003582" plot="9200296" dub="90500319" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 90500320	遵命！领主大人 -->
+<ItemSpec id="20003582" next="20003583" plot="9200297" dub="90500320" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 跳到格子 -->
+<ItemSpec id="20003583" next="20003584" enforce="1" lag="0.2" cartoon="JumpToTile" para1="32;32" para3="0.62"/>
+<!-- 设置大本点击状态 -->
+<ItemSpec id="20003584" next="20003585" enforce="1" cartoon="SetBaseClickState" lag="0.1" closeAllPop="1" fbTouchHandler="1" notAllowBreak="1"/>
+<!-- 指引 -->
+<ItemSpec id="20003585" next="20003586" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_400000_999" para1="0.62" para2="0" closeAllPop="1"/>
+<!-- 大本显示篝火 -->
+<ItemSpec id="20003586" next="20003587" enforce="1" cartoon="ShowBaseFire" cannotBreakSoundEffect="guide_basefire" lag="2" closeAllPop="1" fbTouchHandler="1" notAllowBreak="1"/>
+<!-- 跳到格子 -->
+<ItemSpec id="20003587" next="20003588" enforce="1" lag="0.01" cartoon="JumpToTile" para1="32;32" para3="0.62"/>
+<!-- 故事 -->
+<ItemSpec id="20003588" next="20003589" cartoon="storyboard" cartoonType="7" dub="90500321" enforce="1"/>
+<!-- 故事 -->
+<ItemSpec id="20003589" next="20010013" cartoon="storyboard" cartoonType="8" dub="90500322" enforce="1"/>
+<!-- 91015017	我们的木炭能够撑多久？ -->
+<ItemSpec id="20010013" next="20003590" plot="9200646" dub="91015017" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 90500091	领主大人！城内的木炭储量充足，但是如果我们想在夜间出击作战，就需要更多的木炭，我建议建造一座民用木炭厂！ -->
+<ItemSpec id="20003590" next="20010014" plot="9200298" dub="90500091" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 91015018	按你的想法去做，自保不是我的目的，我要让所有人都不需要畏惧寒夜！让夜晚不再成为亡灵的庇护！ -->
+<ItemSpec id="20010014" next="20003591" plot="9200647" dub="91015018" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 指向任务栏 -->
+<ItemSpec id="20003591" next="20003592" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_target" closeAllPop="1" />
+<!-- 指向任务风力发电任务 -->
+<ItemSpec id="20003592" next="20004012" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="50" area="FreeTaskChapterView_2500110"/>
+<!--<ItemSpec id="20003592" next="20003593" soft="1" softActType="hand" area="FreeTaskChapterView_2500110"/>-->
+<!-- 按钮跳动 -->
+<ItemSpec id="20004010" next="20004011" click="50" clickCntDelay="20" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_FreeBuildListEnter" cartoon="UI_FreeBuildListEnter" closeAllPop="1"/>
+
+<!--<ItemSpec id="20002712" next="20002713" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_FreeBuildListEnter"  cartoon="UI_FreeBuildListEnter" closeAllPop="1"/>-->
+<!-- 点击类型列表 -->
+<ItemSpec id="20004011" next="20004012" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="PutFreeBuildTypesView_4"/>
+<!-- <ItemSpec id="20002713" next="20002714" soft="1" softActType="hand" area="PutFreeBuildTypesView_12"/>-->
+<!-- 拖拽建筑 -->
+<ItemSpec id="20004012" next="" soft="1" hideLayer="1" hideKuang="1" showFinger="1" fingerPosY="40" area="PutFreeBuildDragView_444000"/>
+<!-- 拖拽建筑放置 -->
+<ItemSpec id="20003593" next="" soft="1" softActType="" area="PutFreeBuildDragView_444000"/>
+
+<!-- 等一秒 -->
+<ItemSpec id="20003600" next="20003601" arrow="2" lag="2.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 故事 -->
+<ItemSpec id="20003601" next="20003602" cartoon="storyboard" cartoonType="9" dub="91015066" enforce="1"/>
+<!-- 90500324	领主大人，光明照亮了城市的每一个角落！我们将成为黑暗中的利剑，而亡灵与邪恶，将无处藏身！ -->
+<ItemSpec id="20003602" next="20003603" plot="9200299" dub="90500324" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 90500325	很好，一鼓作气，将城市周围的亡灵全部消灭！伊萨贝拉，修建一座步兵营，然后训练一些士兵，让那些家伙尝尝我们的厉害。 -->
+<ItemSpec id="20003603" next="20003604" plot="9200305" dub="90500325" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 90500326	遵命，领主大人！ -->
+<ItemSpec id="20003604" next="20003605" plot="9200306" dub="90500326" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 指向任务栏 -->
+<ItemSpec id="20003605" next="" soft="1" softActType="hand" area="UI_target" closeAllPop="1" />
+
+
+<!-- ******第三章开始引导****** -->
+<!-- 闪烁警灯 -->
+<ItemSpec id="20003620" next="20003621" enforce="1" lag="1.5" cartoon="showAlarmLight"/>
+<!-- 90300028	报告！亡灵军团正在向我们的领地发起进攻，敌军数量不明！-->
+<ItemSpec id="20003621" next="20003622" plot="9200307" dub="90300028" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 丧尸移动 -->
+<ItemSpec id="20003622" next="20003623" enforce="1" lag="4" cartoon="showZombieToMusicTile"/>
+<!-- 103791		死者复苏，生者陨命，寒冬已至，万物凋零！蝼蚁们，迎接永恒的死亡吧！-->
+<ItemSpec id="20003623" next="20003624" plot="9200320" dub="103791" cannotBreakSoundEffect="guide_zombieRoar" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 故事 -->
+<ItemSpec id="20003624" next="20003625" cartoon="storyboard" cartoonType="10" dub="90300035" enforce="1"/>
+<!-- 故事 -->
+<ItemSpec id="20003625" next="20003626" cartoon="storyboard" cartoonType="11" dub="90300036" enforce="1"/>
+<!-- 跳到格子 -->
+<ItemSpec id="20003626" next="20003627" enforce="1" lag="1" cartoon="JumpToTile" para1="32;32" para3="0.62"/>
+<!-- 90300031	不要惊慌！瞧，这只是尸鬼组成的先锋部队，一群数量众多的乌合之众而已！-->
+<ItemSpec id="20003627" next="20003628" plot="9200308" dub="90300031" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 90300030	那我们接下来该如何应对？-->
+<ItemSpec id="20003628" next="20003629" plot="9200309" dub="90300030" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 90300029	龙晶！它们会被龙晶散发的气息吸引！我们可以利用龙晶来牵制住它们！然后，让它们尝尝弓箭的味道！-->
+<ItemSpec id="20003629" next="20003630" plot="9200310" dub="90300029" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 90300032	明白了，领主大人！来人，把城外被我们隐藏起来的龙晶矿脉的入口打开！-->
+<ItemSpec id="20003630" next="20003660" plot="9200311" dub="90300032" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+
+
+<!-- ******燃油发电厂引导****** -->
+<!-- 90300033	呼，木炭作坊终于建好了。我得把仓库里面的木材运过去，只要作坊中有足够的木材，我们就能源源不断的获得木炭。 -->
+<ItemSpec id="20003650" next="20003651" plot="9200312" dub="90300033" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1" mark="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20003651" next="20003652" enforce="1" lag="0.2" cartoon="JumpToBuild" para1="431000" para2="999" para3="0.62" notAllowBreak="1"/>
+<!-- 指引 -->
+<ItemSpec id="20003652" next="20003653" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_431000_999" para1="0.62" para2="0" closeAllPop="1"/>
+<!-- 设置发电厂引导 -->
+<ItemSpec id="20003653" next="20003654" enforce="1" lag="0.5" cartoon="setIsElectricityGuide"/>
+<!-- 指向运输按钮 -->
+<ItemSpec id="20003654" next="20003655" click="5" clickCntDelay="1" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnTransport"/>
+<!-- 播放手的动画 -->
+<ItemSpec id="20003655" next="" enforce="1"  hideKuang="1" cartoon="show_transport_guide_hand"/>
+
+<!-- 丧尸拍打铁丝网 -->
+<ItemSpec id="20003660" next="20003661" enforce="1" lag="3" cartoon="showZombiePat" para1="1"/>
+<!-- 丧尸拍打铁丝网 -->
+<ItemSpec id="20003661" next="20003662" enforce="1" lag="3" cartoon="showZombiePat" para1="2"/>
+<!-- 90300037	领主大人！工人们已经打开了龙晶矿脉的人口，这足以让那些尸鬼们疯狂！ -->
+<ItemSpec id="20003662" next="20003664" plot="9200313" dub="90300037" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 90300038	或许这家伙能排上用场。 -->
+<!--<ItemSpec id="20003663" next="20003664" plot="9200314" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>-->
+<!-- 跳到建筑 -->
+<ItemSpec id="20003664" next="20003665" enforce="1" lag="1.0" cartoon="JumpToSpeBuild" para1="music" para2="999" para3="0.62"/>
+<!-- 等一秒 -->
+<ItemSpec id="20003665" next="20003666" arrow="2" lag="0.8" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 90400101	非常好！等一等，等它们聚集在龙晶矿脉周围！弓箭手，准备！ -->
+<ItemSpec id="20003666" next="20010020" plot="9200315" dub="90400101" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 91015027	大人，我担心这些弓箭手无法将这些数量众多的尸鬼全部消灭。 -->
+<ItemSpec id="20010020" next="20010021" plot="9200654" dub="91015027" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 91015028	如果再加上巨龙呢？伊萨贝拉，祈祷传说是真的吧！（魔法号角被吹响的声音响彻云霄） -->
+<ItemSpec id="20010021" next="20003667" plot="9200655" dub="91015028" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 删除丧尸移动 -->
+<ItemSpec id="20003667" next="20003668" enforce="1" lag="0.5" cartoon="hideZombieToMusicTile"/>
+<!-- 点击音响 -->
+<ItemSpec id="20003668" next="20003669" arrow="2" area="FreeBuildTileTouch_45;65_1" enforce="1" showFinger="1" click="1" clickCntDelay="8" para1="0.62" para2="45;65_45;65" fingerPosY="40" hideLayer="1" hideKuang="1" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20003669" next="20003670" arrow="2" lag="7" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 隐藏警灯 -->
+<ItemSpec id="20003670" next="20003671" enforce="1" lag="0.5" cartoon="hideAlarmLight"/>
+<!-- 91015067	我们胜利啦！巨龙，领主可以呼唤巨龙，我们也有巨龙的帮助！ -->
+<ItemSpec id="20003671" next="20003672" plot="9200316" dub="91015067" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 90400103	伟大的领主，传说是真的，号角真的可以召唤巨龙！驭龙者，您的智慧和力量必将为我们赢得一场又一场胜利！ -->
+<ItemSpec id="20003672" next="20010022" plot="9200317" dub="90400103" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 91015029	想不到有生之年还能见到巨龙的出现，见证一段史诗的诞生，伟大的领主，伟大的驭龙者万岁！ -->
+<ItemSpec id="20010022" next="20003673" plot="9200656" dub="91015029" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 点击音响 -->
+<ItemSpec id="20003673" next="20003674" arrow="2" area="FreeBuildTileTouch_45;65_1" enforce="1" showFinger="1" click="1" clickCntDelay="8" para1="0.62" para2="45;65_45;65" fingerPosY="40" hideLayer="1" hideKuang="1" closeAllPop="1"/>
+<!-- 领取按钮 -->
+<ItemSpec id="20003674" next="20010023" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="TimeRwdShowView_OKBtn"/>
+<!-- 91015030	这就是龙晶（你看了看手里的神秘晶体），亡灵、自由联邦、东部王国都为之疯狂的魔法金属。拥有它，就拥有了财富、权利、力量，而它，就在我手中！ -->
+<ItemSpec id="20010023" next="20010024" plot="9200657" dub="91015030" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 91015031	大人，有无数的人愿意花大价钱收购龙晶，目前我们应该有足够的实力开采龙晶矿脉了，每隔一段时间你都可以通过出售龙晶换取一些金币。 -->
+<ItemSpec id="20010024" next="20003675" plot="9200658" dub="91015031" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 跳到格子 -->
+<ItemSpec id="20003675" next="20010025" enforce="1" lag="1" cartoon="JumpToTile" para1="32;32" para3="0.62"/>
+<!-- 91015032	渡鸦携带你获胜的消息飞向了大陆的每一个角落，英雄们慕名而来！著名的猎魔人，克里斯蒂安正在赶来的途中！ -->
+<ItemSpec id="20010025" next="20010026" plot="9200659" dub="91015032" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 91015033	很好！唯有英雄，方能领导英雄，让我们期待他的到来！ -->
+<ItemSpec id="20010026" next="20004014" plot="9200660" dub="91015033" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 90900025	领主大人，城镇建设需要大量的人手，为了加快人口增长速度，请升级民居吧！ -->
+<ItemSpec id="20004014" next="20004015" plot="9200604" dub="90900025" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 两种情况的指向任务栏 -->
+<ItemSpec id="20004015" next="20004016" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_target" closeAllPop="1" />
+<!-- 指向升级民居任务 -->
+<ItemSpec id="20004016" next="" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="50" area="FreeTaskChapterView_2500208"/>
+<!-- 指向任务栏 -->
+<ItemSpec id="20003678" next="" soft="1" softActType="hand" area="UI_target" closeAllPop="1" />
+
+<!-- 90400104	在您不在的期间，我们奋力抵抗了丧尸。 -->
+<ItemSpec id="20003690" next="20003691" plot="9200318" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 90400105	好在勉强守下了我们的庇护所，但有些勇士负了伤，请您及时医治他们。 -->
+<ItemSpec id="20003691" next="" plot="9200319" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+
+
+<!-- ******新版编队重引导****** -->
+<!-- 90300039  出城之前，还是先配置好出征队列吧！ -->
+<ItemSpec id="20003700" next="20003701" plot="9200410" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 跳到建筑 -->
+<ItemSpec id="20003701" next="20003702" enforce="1" lag="0.2" cartoon="JumpToBuild" para1="427000" para2="999" para3="0.62"/>
+<!-- 指引 -->
+<ItemSpec id="20003702" next="20003703" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_427000_999" para1="0.62" para2="0" closeAllPop="1"/>
+<!-- 判断该指向哪个按钮 -->
+<ItemSpec id="20003703" next="" soft="1" jump="" cartoon="check_freeBuildBtns_on_trainfield" para1="" para2="20003704" para3="20003705"/>
+<!-- 指向编队按钮 -->
+<ItemSpec id="20003704" next="20003706" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnRearTroops"/>
+<!-- 指向编队按钮 -->
+<ItemSpec id="20003705" next="20003706" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnRearTroops"/>
+<!-- 播放手的动画 -->
+<ItemSpec id="20003706" next="20003707" soft="1" softActType="" cartoon="show_formation_soldier_hand"/>
+<!-- 英雄按钮 -->
+<ItemSpec id="20003707" next="20003708" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FBFormationNewView_HeroTabBtn"/>
+<!-- 播放手的动画 -->
+<ItemSpec id="20003708" next="20003709" soft="1" softActType="" cartoon="show_formation_hero_hand"/>
+<!-- 面板返回按钮 -->
+<ItemSpec id="20003709" next="20003710" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_returnBtn"/>
+<!-- 移动到52号区域 -->
+<ItemSpec id="20003710" next="20003711" arrow="2" lag="2" cartoon="Move_to_area52" enforce="1"/>
+<!-- 框选锁 -->
+<ItemSpec id="20003711" next="20003712" arrow="0" area="FreeSceneArea_52" enforce="1" showFinger="1" click="1" clickCntDelay="8" fingerPosY="40" hideLayer="1" hideKuang="1"/>
+<!-- 等待一秒 -->
+<ItemSpec id="20003712" next="20003713" arrow="2" lag="0.5" hideLayer="1" enforce="1"/>
+<!-- 框选解锁按钮 -->
+<ItemSpec id="20003713" next="20003714" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeUnlockViewNew_confirm"/>
+<!-- 出征按钮 -->
+<ItemSpec id="20003714" next="" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBattleView_marchBtn"/>
+
+
+<!-- ******移动建筑引导****** -->
+<!-- 90800128	长按建筑可以使其进入移动状态， 您可以将建筑移动至合适的位置-->
+<ItemSpec id="20003730" next="" soft="1" softActType="hand" lag="3000" sidePlot="9200324"/>
+
+
+
+<!-- ******防御中心驻守引导****** -->
+<!-- 跳到建筑 -->
+<ItemSpec id="20003740" next="20003741" enforce="1" lag="0.2" cartoon="JumpToBuild" para1="450000" para2="999" para3="0.62"/>
+<!-- 指引 -->
+<ItemSpec id="20003741" next="20003742" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_450000_999" para1="0.62" para2="0" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20003742" next="20003743" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 指向驻守按钮 -->
+<ItemSpec id="20003743" next="20003744" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnDefenceStation"/>
+<!-- 选择按钮 -->
+<ItemSpec id="20003744" next="" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FBDefendTroopsListView_selectBtn1" sidePlot="9200325"/>
+<!-- 提示 -->
+<!-- <ItemSpec id="20003745" next="" soft="1" softActType="" sidePlot="9200326"/> -->
+
+<!-- 等一秒 -->
+<ItemSpec id="20003760" next="20003761" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 选择按钮 -->
+<ItemSpec id="20003761" next="" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FBDefendTroopsListView_selectBtn2" sidePlot="9200327"/>
+
+
+<!-- ******采集资源引导****** -->
+<!-- 等待一秒 -->
+<ItemSpec id="20003780" next="20003781" arrow="2" lag="0.2" hideLayer="1" enforce="1"/>
+<!-- 90800145  指挥官，这是一处资源点，您可以派出编队出征采集，采集到的资源数量可以在 -->
+<ItemSpec id="20003781" next="" plot="9200328" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+
+
+<!-- ******慰问邮件引导****** -->
+<!-- 90800145  指挥官，我们的基地不幸被敌方攻陷 -->
+<ItemSpec id="20003790" next="" plot="9200329" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+
+<!-- **************************************************************************************************************************** -->
+<!-- 故事-片头 -->
+<ItemSpec id="20003001" next="" cartoon="storyboard" cartoonType="1" enforce="1" mark="1"/>
+
+<!-- 已经没有安全的城市了 -->
+<ItemSpec id="20003010" next="20003011" plot="9200180" dub="90300000" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+<!-- 飞机燃油耗尽，我们必须在附近降落 -->
+<ItemSpec id="20003011" next="20003020" plot="9200181" dub="90300001" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+
+<!-- 切换到僵尸围城 -->
+<ItemSpec id="20003020" next="" enforce="1" cartoon="jump_to_title2"/>
+
+<!-- 故事-序章 -->
+<ItemSpec id="20003030" next="20003031" cartoon="storyboard" cartoonType="2" enforce="1" mark="1"/>
+<!-- 到处都是丧失，天马上就要黑了 -->
+<ItemSpec id="20003031" next="20003040" plot="9200196" dub="90300016" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+
+<!-- 等一秒 -->
+<ItemSpec id="20003040" next="20003041" arrow="2" lag="0.5" hideLayer="1" enforce="1"/>
+<!-- 点击 大本 -->
+<ItemSpec id="20003041" next="20003050" soft="1" softActType="hand"  area="FreeBuildFunBuildTouch_400000_1" para1="0.62" para2="1" mark="1" sidePlot="9200037"/>
+
+<!-- 艾达：别动，举起手，你是谁 -->
+<ItemSpec id="20003050" next="20003051" plot="9200182" dub="90300002" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+<!-- 男主：冷静，女士，我只是想找点儿吃的 -->
+<ItemSpec id="20003051" next="20003052" plot="9200183" dub="90300003" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+<!-- 男主：我以为这附近没有人了 -->
+<ItemSpec id="20003052" next="20003053" plot="9200184" dub="90300004" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+<!-- 西蒙：附近确实基本没有活人了 -->
+<ItemSpec id="20003053" next="20003054" plot="9200185" dub="90300005" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+<!-- 西蒙：艾达，给他弄点儿吃的 -->
+<ItemSpec id="20003054" next="20003060" plot="9200186" dub="90300006" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+
+<!-- 获得水和食物奖励展示 -->
+<ItemSpec id="20003060" next="20003070" soft="1" softActType="" area="ShowFreeBuildChapterRewardView_1" />
+
+<!-- 嘶吼声音 -->
+<ItemSpec id="20003070" next="20003071" arrow="2" lag="1" hideLayer="1" enforce="1"/>
+<!-- 艾达：他们出来活动了 -->
+<ItemSpec id="20003071" next="20003072" plot="9200187" dub="90300007" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+<!-- 男主：夜里比白天更危险，也许我们应该天亮再做打算 -->
+<ItemSpec id="20003072" next="20003080" plot="9200188" dub="90300008" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+
+<!-- 故事-第一章荒野求生 -->
+<ItemSpec id="20003080" next="20003090" cartoon="storyboard" cartoonType="3" enforce="1" mark="1"/>
+
+<!-- 艾达：我们发出的联络信号仍然没有人回应 -->
+<ItemSpec id="20003090" next="20003091" plot="9200189" dub="90300009" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+<!-- 西蒙：见鬼，周围到处都是丧尸 -->
+<ItemSpec id="20003091" next="20003111" plot="9200190" dub="90300010" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+<!-- 男主：我去加固好铁丝网，我们的先守住这里 -->
+<ItemSpec id="20003092" next="20003093" plot="9200191" dub="90300011" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+<!-- 艾达：这是个危险的活，要小心点儿-->
+<ItemSpec id="20003093" next="20003100" plot="9200192" dub="90300012" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+
+<!-- 等一秒 -->
+<ItemSpec id="20003100" next="20003110" arrow="2" lag="0.5" hideLayer="1" enforce="1"/>
+
+<!-- 男主：搞定 -->
+<ItemSpec id="20003110" next="20003111" plot="9200193" dub="90300013" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+<!-- 西蒙：看来我们的在这里呆上一阵子 -->
+<ItemSpec id="20003111" next="20003112" plot="9200194" dub="90300014" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+<!-- 男主：伙计们，我们的先解决水和食物的问题-->
+<ItemSpec id="20003112" next="20002612" plot="9200195" dub="90300015" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+
+
+<!--新版引导在建造引导之前添加一段进大本的剧情-->
+<!-- 旁白：你不知道奔跑了多久，终于发现了前方有一幢房屋，你打算先进去稍作休息-->
+<!-- 镜头缩进 -->
+<!--<ItemSpec id="20003200" next="20003201" cartoon="scene_zoom_in" enforce="1"  hideLayer="1"/>-->
+<!--<ItemSpec id="20003200" next="20003202" arrow="0" cartoon="just_blur" enforce="1"  hideLayer="1" side_lag="1" mark="1"/>-->
+<!-- 旁白：进入屋内休息 -->
+<!--<ItemSpec id="20003200" next="20003203" content="90400058" arrow="0" cartoon="sidevoice_continue" enforce="1"  hideLayer="1" side_lag="5" mark="1"/>-->
+<!-- 引导：手指点击大本（点击有声效反馈）-->
+<ItemSpec id="20003200" next="20003205" arrow="0" soft="1" softActType="hand" withDes="90400058" area="FreeBuildFunBuildTouch_400000_999" fakeClick="1" enforce="1" hideLayer="1" mark="1"/>
+<!-- 图层逐渐消失-->
+<!--<ItemSpec id="20003204" next="20003205" arrow="0" cartoon="hide_guide_black_layer" enforce="1" hideLayer="1" mark="1"/>-->
+<ItemSpec id="20003205" next="20003206" soundEffect="openfortress" hideLayer="1" lag="0.5" enforce="1" mark="1"/>
+<!-- 旁白：小心翼翼推开门....（门吱嘎一声打开声效）-->
+<ItemSpec id="20003206" next="20003208" content="90400059" soundEffect="opendoor" arrow="0" cartoon="sidevoice_continue" enforce="1"  hideLayer="1" side_lag="5" mark="1"/>
+<!-- 镜头晃动 -->
+<ItemSpec id="20003207" next="20003208" cartoon="camera_shake" enforce="1"  hideLayer="1"/>
+<!-- 女主：别动，你是谁？-->
+<ItemSpec id="20003208" next="20003218" plot="9200400" dub="90300002" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+<!-- 旁白：一把枪指着你的后脑勺（手枪子弹上膛音效）-->
+<ItemSpec id="20003218" next="20003219" content="90400060" arrow="0" cartoon="sidevoice_continue" enforce="1"  hideLayer="1" side_lag="5" soundEffect="reload" mark="1"/>
+<!-- 男主：冷静，女士，我只是想进来休息会顺便找点吃的-->
+<ItemSpec id="20003219" next="20003220" plot="9200401" dub="90400061" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+<!-- 男主：我以为这附近没有人-->
+<ItemSpec id="20003220" next="20003221" plot="9200402" dub="90300004" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+<!-- 女主：附近确实已经基本没有活人了-->
+<ItemSpec id="20003221" next="20003222" plot="9200403" dub="90400062" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+<!-- 女主：你最好别成为我的累赘-->
+<ItemSpec id="20003222" next="20003223" plot="9200404" dub="90400063" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+<!-- 旁白：陌生女子扔过来一些食物 -->
+<ItemSpec id="20003223" next="20003224" content="90400064" arrow="0" cartoon="sidevoice_continue" enforce="1"  hideLayer="1" side_lag="5" mark="1"/>
+<!-- 展示UI -->
+<ItemSpec id="20003224" next="20003225" arrow="0" cartoon="show_gui" enforce="1" hideBuildBtn="1" hideLayer="1" mark="1"/>
+<!-- 展示奖励UI-水和食物（奖励音效）-->
+<ItemSpec id="20003225" next="20003226" arrow="0" cartoon="show_food" soundEffect="reward" enforce="1"  hideLayer="1" mark="1"/>
+<!-- 旁白：附近传来了丧尸的声音（丧尸吼叫）-->
+<ItemSpec id="20003226" next="20003227" content="90400065" arrow="0" cartoon="sidevoice_continue" enforce="1"  hideLayer="1" side_lag="5" soundEffect="zombieroar" mark="1"/>
+<!-- 男主：我们最好天亮再做打算-->
+<ItemSpec id="20003227" next="20003228" plot="9200405" dub="90400066" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+<!-- 旁白：天亮了 -->
+<ItemSpec id="20003228" next="20003229" content="90400074" arrow="0" cartoon="sidevoice_continue" enforce="1"  hideLayer="1" side_lag="5" mark="1"/>
+<!-- 天亮，场景逐渐亮起-->
+<ItemSpec id="20003229" next="20003230" cartoon="day_break" enforce="1"  hideLayer="1" mark="1" lag="4"/>
+<!-- 女主：我每天都会向外发出联络信号，但是从来没有人回应-->
+<ItemSpec id="20003230" next="20003231" plot="9200406" dub="90400067" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+<!-- 男主：看来我们得在这待上一阵子-->
+<ItemSpec id="20003231" next="20003232" plot="9200407" dub="90400068" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+<!-- 男主：我们先解决水和食物的问题  之后接正常的引导-->
+<ItemSpec id="20003232" next="20003233" plot="9200408" dub="90400069" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="15" mark="1"/>
+<!-- 男主：我们先解决水和食物的问题  之后接正常的引导-->
+<ItemSpec id="20003233" next="20002122" arrow="0" cartoon="show_gui" enforce="1"  hideLayer="1" mark="1"/>
+<!-- 一本升二本 后指向任务栏 -->
+<!-- 指向任务栏 -->
+<ItemSpec id="20005000" next="" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_target" closeAllPop="1" />
+<!-- 幸存者庆典引导 -->
+<ItemSpec id="20004001" next="20004002" plot="9200603" cannotBreakDub="90900009" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/>
+<ItemSpec id="20004002" next="" hideLayer="1" enforce="1" showFinger="1" fingerPosY="40" area="UI_WelfareCentrer"/>
+<!-- 第四章点击城堡升级 -->
+<ItemSpec id="20004059" next="20004017" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<ItemSpec id="20004017" next="20004020" plot="9200605" dub="90900026" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="20004020" next="" area="people_shegnji"/>
+<!-- 第五章开头 -->
+<ItemSpec id="20004018" next="20004019" plot="9200606" dub="90900027" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="20004019" next="" area="people_jianzao"/>
+<!-- 客栈运输引导 -->
+<ItemSpec id="20004021" next="20004022" plot="9200607" dub="90900028" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="20004022" next="" area="foodShop_Guide"/>
+<!-- 木炭运输引导 -->
+<ItemSpec id="20004023" next="20004024" plot="9200608" dub="90900029" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="20004024" next="" area="Dust_Guide"/>
+<!-- 二级怪引导 -->
+<ItemSpec id="20004025" next="20004026" plot="9200609" dub="90900030" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="20004026" next="20004027" soft="1" softActType="hand" area="FreeArmyView_1"/>
+<ItemSpec id="20004027" next="" plot="9200610" dub="90900031" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 校场建完 -->
+<!-- 90900061=领主大人，慕名而来的英雄猎魔人带领他的部队到达城外，遭遇了一股来犯的亡灵，双方展开激战。-->
+<ItemSpec id="20004029" next="20004030" plot="9200612" dub="90900061" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 90900062=很好，让我们见识见识猎魔人的本事。-->
+<ItemSpec id="20004030" next="20003530" plot="9200613" dub="90900062" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- ItemSpec id="20004031" next="20003530" plot="9200614" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/> -->
+
+<!-- 小车漂移结束 -->
+<!-- 90900064  螳臂当车！在战场上没有人能抵挡猎魔人！大人，猎魔人已经抵达酒馆了，我建议我们的部队可以交给他带领。！-->
+<ItemSpec id="20004032" next="20004033" plot="9200615" dub="90900064" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 90900065  让我和他好好聊聊！-->
+<ItemSpec id="20004033" next="20004050" plot="9200616" dub="90900065" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+
+
+<!-- 小车漂移结束 招募引导-->
+<!-- <ItemSpec id="20004034" next="20004050" plot="9200609" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>-->
+<!-- 跳到大本 -->
+<ItemSpec id="20004050" next="20004035" enforce="1" lag="1" cartoon="JumpToTile" para1="32;32" para3="0.62"/>
+<ItemSpec id="20004035" next="20004036" hideLayer="1" enforce="1" showFinger="1" fingerPosY="40" area="UI_HeroBtn"/>
+<!-- 英雄界面 招募按钮 -->
+<ItemSpec id="20004036" next="20004037" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" click="5" clickCntDelay="1" area="FreeHeroView_recruit"/>
+<!-- 招募界面 招募按钮 -->
+<ItemSpec id="20004037" next="20004038" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" click="5" clickCntDelay="1" area="FreeRecruitView_recruitBtn"/>
+<ItemSpec id="20004038" next="20004039" soft="1" softActType="" area="ShowFreeBuildHeroView_1" />
+<!-- 等一秒 -->
+<ItemSpec id="20004039" next="20004052" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<ItemSpec id="20004052" next="20004040" plot="9200617" dub="90900066" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="20004040" next="20004041" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeRecruitView_returnBtn"/>
+<!-- 招募完成 -->
+<!-- 等一秒 -->
+<ItemSpec id="20004041" next="20004042" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1" closeAllPop="1"/>
+<ItemSpec id="20004042" next="20004043" plot="9200618" dub="90900067" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="20004043" next="20010029" plot="9200619" dub="90900068" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="20010029" next="20010030" plot="9200663" dub="91015042" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="20010030" next="20004044" plot="9200664" dub="91015043" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="20004044" next="20004045" plot="9200620" dub="90900069" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 移动到52号区域-->
+<ItemSpec id="20004045" next="20004046" arrow="2" lag="1" cartoon="Move_to_area52" enforce="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20004046" next="20010031" arrow="2" lag="1" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 91015044  东部王朝的家伙不足为虑！克里斯蒂安，我把部队交给你！你有信心解决那些家伙吗？-->
+<ItemSpec id="20010031" next="20004047" plot="9200665" dub="91015044" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 90900070  当然，两位，等待我胜利的消息！勇士们，随我出征，歼灭敌军！-->
+<ItemSpec id="20004047" next="20003539" plot="9200621" dub="90900070" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+
+<!-- 配置完兵 -->
+<ItemSpec id="20004048" next="20004049" plot="9200622" dub="90900071" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 故事 -->
+<ItemSpec id="20004049" next="20003549" cartoon="storyboard" cartoonType="12" dub="90500343" enforce="1"/>
+
+<!-- 第一次铺路引导 -->
+<ItemSpec id="20004053" next="20004054" plot="9200623" dub="90900072" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="20004054" next="" area="road_guide"/>
+
+<!-- 总览 -->
+<ItemSpec id="20004055" next="20004056" plot="9200624" dub="90900135" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="20004056" next="20004057" hideLayer="1" enforce="1" showFinger="1" fingerPosY="40" area="UI_pandect"/>
+<ItemSpec id="20004057" next="20004058" arrow="2" lag="0.7" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<ItemSpec id="20004058" next="" plot="9200625" dub="90900136" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+
+<!-- 酒馆引导 -->
+<ItemSpec id="20004060" next="20004061" plot="9200626" dub="90900138" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<ItemSpec id="20004061" next="" soft="1" softActType="" cartoon="FocusBuild_483000"/>
+<ItemSpec id="20004062" next="" soft="1" hideLayer="1" hideKuang="1" showFinger="1" fingerPosY="40" area="PutFreeBuildDragView_483000"/>
+
+<!-- 英雄升级 -->
+<ItemSpec id="20004063" next="20004064" hideLayer="1" enforce="1" showFinger="1" fingerPosY="40" area="UI_HeroBtn"/>
+<ItemSpec id="20004064" next="20004065" hideLayer="1" enforce="1" showFinger="1" fingerPosY="40" area="FBHeroListView_cellBtn"/>
+<ItemSpec id="20004065" next="20004066" plot="9200627" dub="90900142" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="20004066" next="" soft="1" softActType="hand" area="FBHeroView_addBtn"/>
+
+<!-- 王座 -->
+<ItemSpec id="20004067" next="20004068" hideLayer="1" enforce="1" showFinger="1" fingerPosY="40" area="UI_worldMap"/>
+<!--等一秒-->
+<ItemSpec id="20004068" next="20004069" arrow="2" lag="1" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<ItemSpec id="20004069" next="20004070" plot="9200700" dub="90902033" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="20004070" next="20004071" plot="9200701" dub="90902034" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="20004071" next="20004072" hideLayer="1" enforce="1" showFinger="1" fingerPosY="40" area="FBWorldThrone_btn"/>
+<!--等一秒-->
+<ItemSpec id="20004072" next="20004073" arrow="2" lag="2" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<ItemSpec id="20004073" next="20004074" plot="9200702" dub="90902035" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="20004074" next="20004075" plot="9200703" dub="90902036" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="20004075" next="20004076" plot="9200704" dub="90902037" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="20004076" next="20004077" plot="9200705" dub="90902038" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 指向回城按钮 -->
+<ItemSpec id="20004077" next="" soft="1" softActType="hand" lag="6" area="UI_world_back" closeAllPop="1"/>
+
+<!-- 客栈四级引导运输-->
+<!-- 指引 -->
+<ItemSpec id="20004080" next="20004081" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_460000_999" para1="0.62" para2="1" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20004081" next="20004082" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 指向运输按钮 -->
+<ItemSpec id="20004082" next="20004083" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnTransport"/>
+<!-- 播放手的动画 -->
+<ItemSpec id="20004083" next="" click="5" clickCntDelay="1" enforce="1"  hideKuang="1" cartoon="show_transport_guide_hand"/>
+
+<!-- 获得绿指后没有市政厅提示-->
+<ItemSpec id="20004084" next="" plot="9200706" dub="83401406" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+
+<!-- 末日争霸引导 -->
+<!-- 指向菜单按钮 -->
+<ItemSpec id="20003290" next="20003291" soft="1" softCanNotBreak="1" softActType="hand" area="UI_moreBtn" closeAllPop="1" />
+<!-- 等一秒 -->
+<ItemSpec id="20003291" next="20003292" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 指向联盟按钮 -->
+<ItemSpec id="20003292" next="20003293" clickCntDelay="8" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_allianceBtn" closeAllPop="1" />
+<!-- 联盟建筑按钮 -->
+<ItemSpec id="20003293" next="" soft="1" softActType="hand" area="GuideControl_fun_2" arrowAngle="45"/>
+
+<!-- 末日争霸引导图示1 -->
+<ItemSpec id="20003250" next="20003251" soft="1" softActType="hand" area="FBTileDoomsdayGuideView_0"/>
+<!-- 末日争霸引导图示2 -->
+<ItemSpec id="20003251" next="" soft="1" softActType="hand" area="FBTileDoomsdayGuideView_0"/>
+
+<!-- 末日争霸引导 -->
+<!-- 指向菜单按钮 -->
+<ItemSpec id="20003290" next="20003291" soft="1" softCanNotBreak="1" softActType="hand" area="UI_moreBtn" closeAllPop="1" />
+<!-- 等一秒 -->
+<ItemSpec id="20003291" next="20003292" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 指向联盟按钮 -->
+<ItemSpec id="20003292" next="20003293" clickCntDelay="8" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_allianceBtn" closeAllPop="1" />
+<!-- 联盟建筑按钮 -->
+<ItemSpec id="20003293" next="" soft="1" softActType="hand" area="GuideControl_fun_2" arrowAngle="45"/>
+
+<!-- 迁城引导成功后延迟 -->
+<ItemSpec id="20003260" next="20003261" arrow="2" lag="4.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 剧情：恭喜您迁城成功！下面我们需要占领一块土地作为我们在末日争霸中的出发点！ -->
+<ItemSpec id="20003261" next="20003262" plot="9200413" arrow="0" area="plot_continue" enforce="1" hideLayer="1"/>
+<!-- 查找可以打的满足条件的地块并跳转 -->
+<ItemSpec id="20003262" next="20003263" enforce="1" hideLayer="1" cartoon="find_doomsday_guide_tile"/>
+<!-- 等一秒 -->
+<ItemSpec id="20003263" next="20003264" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 地块菜单上的占领按钮上显示手指 -->
+<ItemSpec id="20003264" next="" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosX="2" fingerPosY="30" area="NewBaseTileInfo_4"/>
+
+<!-- 联盟对决引导 -->
+<ItemSpec id="20003280" next="" plot="9200414" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100"/>
+
+<!-- 装备引导 -->
+<!-- 大本升完十本装备引导 -->
+<!-- 领主  伊萨贝拉，最近我们的战败次数越来越多，我们必须想办法找到原因。 -->
+<ItemSpec id="20004090" next="20004091" plot="9200707" dub="90902138" arrow="0" area="plot_continue" enforce="1" hideLayer="1"/>
+<!-- 伊萨贝拉  领主大人，我分析最近的战报，发现敌人军团都携带了装备，战斗力远高于我们，我们损失惨重！ -->
+<ItemSpec id="20004091" next="20004092" plot="9200708" dub="90902139" arrow="0" area="plot_continue" enforce="1" hideLayer="1"/>
+<!-- 伊萨贝拉  我们应该建造一个铁匠铺，用装备来武装我们的军团！！ -->
+<ItemSpec id="20004092" next="20004093" plot="9200709" dub="90902140" arrow="0" area="plot_continue" enforce="1" hideLayer="1"/>
+<!-- 领主  好的，伊萨贝拉。原来装备这么重要！！ -->
+<ItemSpec id="20004093" next="20004094" plot="9200710" dub="90902141" arrow="0" area="plot_continue" enforce="1" hideLayer="1"/>
+<!-- 按钮跳动 -->
+<ItemSpec id="20004094" next="20004095" click="50" clickCntDelay="20" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_FreeBuildListEnter" cartoon="UI_FreeBuildListEnter" closeAllPop="1"/>
+<!-- 点击类型列表 -->
+<ItemSpec id="20004095" next="20004096" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="PutFreeBuildTypesView_12"/>
+<!-- 拖拽建筑 -->
+<ItemSpec id="20004096" next="" soft="1" hideLayer="1" hideKuang="1" showFinger="1" fingerPosY="40" area="PutFreeBuildDragView_429000"/>
+
+<!-- 铁匠铺建造完成 装备引导 -->
+<!-- 伊萨贝拉  领主大人，铁匠铺已经建造完成！ -->
+<ItemSpec id="20004097" next="20004098" plot="9200711" dub="90902142" arrow="0" area="plot_continue" enforce="1" hideLayer="1"/>
+<!-- 领主  干的漂亮，伊萨贝拉！快去指导大家制造装备吧！！ -->
+<ItemSpec id="20004098" next="20004099" plot="9200712" dub="90902143" arrow="0" area="plot_continue" enforce="1" hideLayer="1"/>
+<!-- 跳到建筑 -->
+<ItemSpec id="20004099" next="20005001" enforce="1" lag="0.2" cartoon="JumpToBuild" para1="429000" para2="999" para3="0.62"/>
+<!-- 点击铁匠铺 -->
+<ItemSpec id="20005001" next="20005002" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_429000_999" para1="0.62" para2="0" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20005002" next="20005003" arrow="2" lag="0.1" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 指向生产按钮 -->
+<ItemSpec id="20005003" next="20005004" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnForgeEquipment"/>
+<!-- 等一秒 -->
+<ItemSpec id="20005002" next="20005003" arrow="2" lag="1" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!--  在这里可以制造各种装备，包括发展类与战斗类两种，战斗类又分为步兵装备、骑兵装备和弓兵装备。 -->
+<ItemSpec id="20005004" next="20005005"  sidePlotRoe ="9200714" dub="90902146"/>
+<!--  目前我们的铁匠铺等级比较低，我们先制造发展类装备。可以加快采集速度，提高军团负重。 -->
+<ItemSpec id="20005005" next="20005006"  sidePlotRoe ="9200715" dub="90902147"/>
+<!--  点击拓荒者 -->
+<ItemSpec id="20005006" next="20005007" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="AZEquipmentSetView_0"/>
+<!--  点击生产 -->
+<ItemSpec id="20005007" next="20005008" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="EquipListView_0"/>
+<!-- 等一秒 -->
+<ItemSpec id="20005008" next="20005044" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<ItemSpec id="20005044" cartoon="check_equip_guide_is_new" para1="20005009" para2="20005037"/>
+
+<!--  先选择材料槽。 -->
+<ItemSpec id="20005009" next="20005011"  sidePlotRoe ="9200716" dub="90902148" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="MaterialNode_0" needChange="1"/>
+<!--  点击材料槽1 -->
+<!--   再选择该材料槽准备放入的材料 -->
+<ItemSpec id="20005011" next="20005013"  sidePlotRoe ="9200717" dub="90902149" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="MaterialSmallNode_0" needChange="1"/>
+<!--  点击材料 -->
+<!--  点击材料槽2 -->
+<ItemSpec id="20005013" next="20005014" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="MaterialNode_1"/>
+<!--  点击材料 -->
+<ItemSpec id="20005014" next="20005015" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="MaterialSmallNode_0"/>
+<!--  点击材料槽3 -->
+<ItemSpec id="20005015" next="20005016" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="MaterialNode_2"/>
+<!--  点击材料 -->
+<ItemSpec id="20005016" next="20005017" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="MaterialSmallNode_0"/>
+<!--  点击材料槽4 -->
+<ItemSpec id="20005017" next="20005018" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="MaterialNode_3"/>
+<!--  点击材料 -->
+<ItemSpec id="20005018" next="20005019" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="MaterialSmallNode_0"/>
+<!--    材料槽里放入的材料的品质越高，制造出高品质装备的几率就越高！-->
+<ItemSpec id="20005019" next="20005020"  sidePlotRoe ="9200718" dub="90902150"/>
+<!--    这里会显示装备制造的品质几率。-->
+<ItemSpec id="20005020" next="20005021"  sidePlotRoe ="9200719" dub="90902151" showParticle="1" area="EquipmentManufactureView_particleNode" />
+<!--  点击“生产”按钮开始制造装备吧！ 点击生产needChange(层级变低，可以点到手指)-->
+<ItemSpec id="20005021" next="20005022" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="EquipmentManufactureView_upBtn" sidePlotRoe ="9200720" dub="90902152" needChange="1"/>
+<!-- 伊萨贝拉  铁匠铺升到5级后，我们就可以制造战斗类装备了！ -->
+<ItemSpec id="20005022" next="" plot="9200713" dub="90902153" arrow="0" area="plot_continue" enforce="1" hideLayer="1"/>
+
+<!-- 装备怪引导-->
+<!-- 等一秒 -->
+<ItemSpec id="20005028" next="20005029" arrow="2" lag="1" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 伊萨贝拉 城外的白鬼越来越多了，给我们的军团行军带来了很多麻烦！ -->
+<ItemSpec id="20005029" next="20005030" plot="9200726" dub="91015084" arrow="0" area="plot_continue" enforce="1" hideLayer="1"/>
+<!-- 伊萨贝拉  不过我们发现，白鬼身上携带了很多我们制造装备的材料，而且等级越高的白鬼，携带的装备材料品质越高！ -->
+<ItemSpec id="20005030" next="20005031" plot="9200727" dub="91015085" arrow="0" area="plot_continue" enforce="1" hideLayer="1"/>
+<!-- 领主 这是个非常有价值的信息，伊萨贝拉！派出所有空闲的军团，全天24小时击杀白鬼，迅速解决装备紧缺的问题！！ -->
+<ItemSpec id="20005031" next="20005032" plot="9200728" dub="91015086" arrow="0" area="plot_continue" enforce="1" hideLayer="1"/>
+<!-- 伊萨贝拉  遵命，领主大人！ -->
+<ItemSpec id="20005032" next="20005033" plot="9200729" dub="91015087" arrow="0" area="plot_continue" enforce="1" hideLayer="1"/>
+<!-- 找到装备怪 -->
+<ItemSpec id="20005033" next="20005034" enforce="1" lag="1" cartoon="JumpToMonster" para1="930006"/>
+<!-- 等一秒 -->
+<ItemSpec id="20005034" next="" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<ItemSpec id="20005035" next="20005036" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 伊萨贝拉   白鬼等级越高，携带的装备材料品质越高！-->
+<ItemSpec id="20005036" next=""  sidePlotRoe ="9200730" dub="91015088" showParticle="1" area="worldTileMonster_particleNode_1"/>
+
+<!-- 新增主线任务引导-->
+<!-- 伊萨贝拉  ！ -->
+<ItemSpec id="20005023" next="20005024" plot="9200722" dub="90902234" arrow="0" area="plot_continue" enforce="1" hideLayer="1"/>
+<!-- 伊萨贝拉  ！ -->
+<ItemSpec id="20005024" next="20005025" plot="9200723" dub="90902235" arrow="0" area="plot_continue" enforce="1" hideLayer="1"/>
+<!-- 点击任务图标 -->
+<ItemSpec id="20005025" next="20005026" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_newQuestNode" closeAllPop="1" />
+<!-- 伊萨贝拉   ！-->
+<ItemSpec id="20005026" next="20005027"  sidePlotRoe ="9200724" dub="90902236"/>
+<!--  伊萨贝拉  ！-->
+<ItemSpec id="20005027" next=""  sidePlotRoe ="9200725" dub="90902237"/>
+
+
+<!--  new 装备引导点击想要制造的装备品质 -->
+<ItemSpec id="20005037" next="20005038"  sidePlotRoe ="9200731" dub="91015172" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="EquipMidNode_0" needChange="1"/>
+<!--   材料会自动放入材料槽里 -->
+<ItemSpec id="20005038" next="20005039"  sidePlotRoe ="9200732" dub="91015173"  area="MaterialTopNode_all" showParticle="1"/>
+<!--   点击材料槽可以替换不同品质的材料 -->
+<ItemSpec id="20005039" next="20005040"  sidePlotRoe ="9200733" dub="91015174"  area="MaterialTopNode_1" showParticle="1"/>
+
+<!--    材料槽里放入的材料的品质越高，制造出高品质装备的几率就越高！-->
+<ItemSpec id="20005040" next="20005041"  sidePlotRoe ="9200718" dub="90902150"/>
+<!--    这里会显示装备制造的品质几率。-->
+<ItemSpec id="20005041" next="20005042"  sidePlotRoe ="9200719" dub="90902151" showParticle="1" area="EquipmentPercent_particleNode" />
+<!--  点击“生产”按钮开始制造装备吧！ 点击生产needChange(层级变低，可以点到手指)-->
+<ItemSpec id="20005042" next="20005043" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="EquipmentManufactureViewRoe_upBtn" sidePlotRoe ="9200720" dub="90902152" needChange="1"/>
+<!-- 伊萨贝拉  铁匠铺升到5级后，我们就可以制造战斗类装备了！ -->
+<ItemSpec id="20005043" next="" plot="9200713" dub="90902153" arrow="0" area="plot_continue" enforce="1" hideLayer="1"/>
+
+<!-- 伊萨贝拉  引导卡死通用！ -->
+<ItemSpec id="20005045" next="" plot="9200734" dub="91015187" arrow="0" area="plot_continue" enforce="1" hideLayer="1"/>
+
+<!-- 伊萨贝拉  流亡者之塔召唤士兵 -->
+<ItemSpec id="20020040" next="20020041" enforce="1" lag="0.5" cartoon="JumpToBuildAndOpen" para1="462000" para2="999"/>
+<!-- 等一秒 -->
+<ItemSpec id="20020041" next="20020042" arrow="2" lag="2" hideLayer="1" enforce="1"/>
+<ItemSpec id="20020042" next="" plot="9200735" dub="91015188" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+
+<!--90902214=领主大人，我们胜利的消息已经传遍帝国各个角落，我刚收到一封联盟的邀请函，请您过目！-->
+<ItemSpec id="20006000" next="20006001" plot="9200721" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="20006001" next="" arrow="2" lag="1" cartoon="roe_show_alliance_invite" enforce="1"/>
+
+<!-- 向服务器请求可直接加入的联盟数据 -->
+<ItemSpec id="20006002" next="" arrow="2" lag="1" cartoon="roe_get_invite_alliance_data" enforce="1"/>
+
+<!-- ******第一次被攻击引导****** -->
+<!-- 91012000  指挥官，敌人进攻了我们的基地，抢走部分资源 -->
+<ItemSpec id="20003850" next="20003852" plot="9200338" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 91012001  指挥官，您终于回来了！我们的基地遭到了攻击，损失惨重，快去看看基地的情况吧！ -->
+<ItemSpec id="20003851" next="20003852" plot="9200339" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 城门口显示箱子 -->
+<ItemSpec id="20003852" next="20003853" enforce="1" cartoon="ShowBeAttackBox" lag="0.2" closeAllPop="1" fbTouchHandler="1" notAllowBreak="1"/>
+<!-- 跳到格子 -->
+<!-- <ItemSpec id="20003853" next="20003854" enforce="1" lag="0.01" cartoon="JumpToTile" para1="32;32" para3="0.62" sidePlot="9200340"/> -->
+<!-- 跳到建筑 -->
+<ItemSpec id="20003853" next="20003854" enforce="1" lag="1.0" cartoon="JumpToSpeBuild" para1="beAttackBox" para2="999" para3="0.62"/>
+<!-- 等一秒 -->
+<ItemSpec id="20003854" next="20003855" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 点击音响 -->
+<ItemSpec id="20003855" next="20003856" arrow="2" area="FreeBuildTileTouch_900;900_1" enforce="1" showFinger="1" click="1" clickCntDelay="8" para1="0.62" para2="900;900_900;900" fingerPosY="40" hideLayer="1" hideKuang="1" closeAllPop="1" sidePlot="9200340"/>
+
+<!-- 播放动画来兵 -->
+<ItemSpec id="20003860" next="20003861" enforce="1" cartoon="Show_SoldierComming2" closeAllPop="1" fbTouchHandler="1" notAllowBreak="1"/>
+<!-- 跳到建筑 -->
+<!-- <ItemSpec id="20003858" next="" enforce="1" lag="5.0" cartoon="MoveToBuild" para1="417000" notAllowBreak="1" sidePlot="9200341"/> -->
+<!-- 跳到建筑 -->
+<ItemSpec id="20003861" next="20003862" enforce="1" lag="0.5" cartoon="JumpToBuild" para1="417000" para2="999" para3="0.62"/>
+<!-- 指引 -->
+<ItemSpec id="20003862" next="" soft="1" softActType="hand" lag="3.0" area="FreeBuildFunBuildTouch_417000_999" arrowAngle="180" arrowScale="2.0" para1="0.62" para2="1" hideCircle="1" sidePlot="9200341"/>
+
+<!-- ******第二次被攻击引导****** -->
+<!-- 91012000  指挥官，敌人进攻了我们的基地，抢走部分资源 -->
+<ItemSpec id="20003870" next="20003872" plot="9200343" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 91012004  指挥官，您终于回来了！我们的基地遭到了攻击，没有了战争守护的保护，基地受到了很大的破坏 -->
+<ItemSpec id="20003871" next="20003872" plot="9200343" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 城门口显示箱子 -->
+<ItemSpec id="20003872" next="20003873" enforce="1" cartoon="ShowBeAttackBox" lag="0.2" closeAllPop="1" fbTouchHandler="1" notAllowBreak="1"/>
+<!-- 跳到建筑 -->
+<ItemSpec id="20003873" next="20003874" enforce="1" lag="1.0" cartoon="JumpToSpeBuild" para1="beAttackBox" para2="999" para3="0.62"/>
+<!-- 等一秒 -->
+<ItemSpec id="20003874" next="20003875" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 点击音响 -->
+<ItemSpec id="20003875" next="20003876" arrow="2" area="FreeBuildTileTouch_900;900_1" enforce="1" showFinger="1" click="1" clickCntDelay="8" para1="0.62" para2="900;900_900;900" fingerPosY="40" hideLayer="1" hideKuang="1" closeAllPop="1" sidePlot="9200344"/>
+
+<!-- 播放动画来兵 -->
+<ItemSpec id="20003880" next="20003881" enforce="1" cartoon="Show_SoldierComming2" closeAllPop="1" fbTouchHandler="1" notAllowBreak="1"/>
+<!-- 跳到建筑 -->
+<!-- <ItemSpec id="20003878" next="" soft="1" softActType="" cartoon="MoveToBuild" para1="411000" sidePlot="9200345"/> -->
+<!-- 跳到建筑 -->
+<ItemSpec id="20003881" next="20003882" enforce="1" lag="0.5" cartoon="JumpToBuild" para1="411000" para2="999" para3="0.62"/>
+<!-- 指引 -->
+<ItemSpec id="20003882" next="" soft="1" softActType="hand" lag="3.0" area="FreeBuildFunBuildTouch_411000_999" arrowAngle="180" arrowScale="2.0" para1="0.62" para2="1" hideCircle="1" sidePlot="9200345"/>
+
+<!-- ******roe新版编队重引导****** -->
+<!-- ******出城前检测****** -->
+<!-- 90500311  我们快来配置出征部队，营救被困的同伴吧！ -->
+<ItemSpec id="20006003" next="20006004" plot="9200410" dub="90300039" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="1000"/>
+<!-- 跳到兵营建筑 -->
+<ItemSpec id="20006004" next="20006005" enforce="1" lag="1" cartoon="JumpToBuild" para1="427000" para2="999" para3="0.62" notAllowBreak="1"/>
+<!-- 指引兵营 -->
+<ItemSpec id="20006005" next="20006006" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_427000_999" para1="0.62" para2="0" closeAllPop="1"/>
+<!-- 等待一秒 -->
+<ItemSpec id="20006006" next="20006007" arrow="2" lag="0.5" hideLayer="1" enforce="1"/>
+<!-- 指向编队按钮 -->
+<ItemSpec id="20006007" next="20006008" click="5" clickCntDelay="1" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="35" area="FreeBuildBtnsView_btnRearTroops"/>
+<!-- 英雄按钮 -->
+<ItemSpec id="20006008" next="20006009" click="5" clickCntDelay="1" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="GuideControl_heroNode_1"/>
+<!-- 播放手的动画 -->
+<ItemSpec id="20006009" next="200060010" soft="1" softActType="" cartoon="show_formation_hero_hand" index="1"/>
+<!-- 指向关闭 -->
+<ItemSpec id="200060010" next="200060011" enforce="1" clickCntDelay="1" hideLayer="1" hideKuang="1" showFinger="1" fingerPosY="50" area="GuideControl_heroCloseBtn"/>
+<!-- 等0.5秒 -->
+<ItemSpec id="200060011" next="200060012" arrow="2" lag="0.5" enforce="1" hideLayer="1" hideKuang="1"/>
+<!-- 英雄按钮 -->
+<ItemSpec id="200060012" next="200060013" click="5" clickCntDelay="1" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="GuideControl_soldierBtn_1"/>
+<!-- 等0.5秒 -->
+<ItemSpec id="200060013" next="200060014" arrow="2" lag="0.5" enforce="1" hideLayer="1" hideKuang="1"/>
+<!-- 播放手的动画 -->
+<ItemSpec id="200060014" next="200060015" soft="1" softActType="" cartoon="show_formation_soldier_hand" index="1"/>
+<!-- 英雄按钮 -->
+<ItemSpec id="200060015" next="200060016" click="5" clickCntDelay="1" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="GuideControl_soldierCloseBtn"/>
+<!-- 面板返回按钮 -->
+<ItemSpec id="200060016" next="" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="GuideControl_returnBtn"/>
+
+<!-- ******打help****** -->
+<!-- 小车漂移结束 -->
+<!-- 90900064  螳臂当车！在战场上没有人能抵挡猎魔人！大人，猎魔人已经抵达酒馆了，我建议我们的部队可以交给他带领。！-->
+<ItemSpec id="200060020" next="200060021" plot="9200615" dub="90900064" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 90900065  让我和他好好聊聊！-->
+<ItemSpec id="200060021" next="200060022" plot="9200616" dub="90900065" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 跳到大本 -->
+<ItemSpec id="200060022" next="200060023" enforce="1" lag="1" cartoon="JumpToTile" para1="32;32" para3="0.62"/>
+<ItemSpec id="200060023" next="200060024" hideLayer="1" enforce="1" showFinger="1" fingerPosY="40" area="UI_HeroBtn"/>
+<!-- 英雄界面 招募按钮 -->
+<ItemSpec id="200060024" next="200060025" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" click="5" clickCntDelay="1" area="FreeHeroView_recruit"/>
+<!-- 招募界面 招募按钮 -->
+<ItemSpec id="200060025" next="200060026" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" click="5" clickCntDelay="1" area="FreeRecruitView_recruitBtn"/>
+<ItemSpec id="200060026" next="200060027" soft="1" softActType="" area="ShowFreeBuildHeroView_1" />
+<!-- 等一秒 -->
+<ItemSpec id="200060027" next="200060028" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<ItemSpec id="200060028" next="200060029" plot="9200617" dub="90900066" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="200060029" next="200060030" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeRecruitView_returnBtn"/>
+<!-- 招募完成 -->
+<!-- 等一秒 -->
+<ItemSpec id="200060030" next="200060031" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1" closeAllPop="1"/>
+<ItemSpec id="200060031" next="200060032" plot="9200618" dub="90900067" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="200060032" next="200060033" plot="9200619" dub="90900068" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="200060033" next="200060034" plot="9200663" dub="91015042" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="200060034" next="200060035" plot="9200664" dub="91015043" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<ItemSpec id="200060035" next="200060036" plot="9200620" dub="90900069" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 移动到52号区域-->
+<ItemSpec id="200060036" next="200060037" arrow="2" lag="1" cartoon="Move_to_area52" enforce="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="200060037" next="200060038" arrow="2" lag="1" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 91015044  东部王朝的家伙不足为虑！克里斯蒂安，我把部队交给你！你有信心解决那些家伙吗？-->
+<ItemSpec id="200060038" next="200060039" plot="9200665" dub="91015044" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 90900070  当然，两位，等待我胜利的消息！勇士们，随我出征，歼灭敌军！-->
+<ItemSpec id="200060039" next="200060040" plot="9200621" dub="90900070" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+
+<!-- 跳到兵营建筑 -->
+<ItemSpec id="200060040" next="200060041" enforce="1" lag="1" cartoon="JumpToBuild" para1="427000" para2="999" para3="0.62" notAllowBreak="1"/>
+<!-- 指引兵营 -->
+<ItemSpec id="200060041" next="200060042" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_427000_999" para1="0.62" para2="0" closeAllPop="1"/>
+<!-- 等待一秒 -->
+<ItemSpec id="200060042" next="200060043" arrow="2" lag="0.5" hideLayer="1" enforce="1"/>
+<!-- 指向编队按钮 -->
+<ItemSpec id="200060043" next="200060044" click="5" clickCntDelay="1" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="35" area="FreeBuildBtnsView_btnRearTroops"/>
+<!-- 英雄按钮 -->
+<ItemSpec id="200060044" next="200060045" click="5" clickCntDelay="1" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="GuideControl_heroNode_1"/>
+<!-- 播放手的动画 -->
+<ItemSpec id="200060045" next="200060046" soft="1" softActType="" cartoon="show_formation_hero_hand" index="1"/>
+<!-- 指向关闭 -->
+<ItemSpec id="200060046" next="200060047" enforce="1" clickCntDelay="1" hideLayer="1" hideKuang="1" showFinger="1" fingerPosY="50" area="GuideControl_heroCloseBtn"/>
+<!-- 等0.5秒 -->
+<ItemSpec id="200060047" next="200060048" arrow="2" lag="0.5" enforce="1" hideLayer="1" hideKuang="1"/>
+<!-- 英雄按钮 -->
+<ItemSpec id="200060048" next="200060049" click="5" clickCntDelay="1" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="GuideControl_soldierBtn_1"/>
+<!-- 等0.5秒 -->
+<ItemSpec id="200060049" next="200060050" arrow="2" lag="0.5" enforce="1" hideLayer="1" hideKuang="1"/>
+<!-- 播放手的动画 -->
+<ItemSpec id="200060050" next="200060051" soft="1" softActType="" cartoon="show_formation_soldier_hand" index="1"/>
+<!-- 英雄按钮 -->
+<ItemSpec id="200060051" next="200060052" click="5" clickCntDelay="1" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="GuideControl_soldierCloseBtn"/>
+<!-- 面板返回按钮 -->
+<ItemSpec id="200060052" next="200060053" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="GuideControl_returnBtn"/>
+<!-- 面板确认按钮 -->
+<!--<ItemSpec id="200060052" next="200060053" click="5" clickCntDelay="1" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="GuideControl_troopsOk"/>-->
+<!-- 移动到52号区域 -->
+<ItemSpec id="200060053" next="200060054" arrow="2" lag="2" cartoon="Move_to_area52" enforce="1"/>
+<!-- 配置完兵 -->
+<ItemSpec id="200060054" next="200060055" plot="9200622" dub="90900071" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 故事 -->
+<ItemSpec id="200060055" next="200060056" cartoon="storyboard" cartoonType="12" dub="90500343" enforce="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="200060056" next="200060057" arrow="2" lag="1" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 框选锁 -->
+<ItemSpec id="200060057" next="200060058" arrow="0" area="FreeSceneArea_52" enforce="1" showFinger="1" click="1" clickCntDelay="8" fingerPosY="40" hideLayer="1" hideKuang="1"/>
+<!-- 等待一秒 -->
+<ItemSpec id="200060058" next="200060059" arrow="2" lag="0.5" hideLayer="1" enforce="1"/>
+<!-- 框选解锁按钮 -->
+<ItemSpec id="200060059" next="200060060" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeUnlockViewNew_confirm"/>
+<!-- 出征按钮 -->
+<ItemSpec id="200060060" next="" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBattleView_marchBtn"/>
+
+<!-- roe触发直升机引导 -->
+<ItemSpec id="200060070" next="200060071" arrow="2" lag="1000" cartoon="Follow_helicopter" enforce="1"/>
+<!-- 83200405 大人，我们全歼自由联邦的部队，夺回了贸易所。这位是被我们救下的商会长威廉。 -->
+<ItemSpec id="200060071" next="200060072" plot="9200016" dub="83200405" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 91015059 尊敬的领主，感谢您把我从那些没有礼貌的自由联邦士兵手里救出来。 -->
+<ItemSpec id="200060072" next="200060073" plot="9200669" dub="91015059" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 91015060 举手之劳。帝国的荣耀不容侵犯！不过，威廉，除了看起来狼狈一点，他们似乎没有怎么为难您。 -->
+<ItemSpec id="200060073" next="200060074" plot="9200670" dub="91015060" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 91015061 因为他们的眼睛一直盯着我口袋里的钱。领主大人，为了对您表示感谢，商会的热气球会定期携带物资降落在您的贸易所，您可以通过金币和我们交易买卖资源。 -->
+<ItemSpec id="200060074" next="200060075" plot="9200671" dub="91015061" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 91015062 真是意外之喜，我们需要和商人交易以应对不时之需。 -->
+<ItemSpec id="200060075" next="200060076" plot="9200672" dub="91015062" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 跳到建筑 -->
+<ItemSpec id="200060076" next="200060077" enforce="1" lag="0.2" cartoon="JumpToBuild" para1="435000" para2="999" para3="0.62"/>
+<!-- 指引 -->
+<ItemSpec id="200060077" next="200060079" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_435000_999" para1="0.62" para2="0" closeAllPop="1"/>
+<!-- 判断点击废墟后的状态-->
+<ItemSpec id="200060079" next="" soft="1" jump="" cartoon="check_guideId_on_click_build" para1="435000" para2="200060080" para3="200060081" para4="200060081"/>
+<!-- 如果未联通 显示造路界面 -->
+<!--<ItemSpec id="200060080" next="200060077" soft="1" jump="200060077" softActType="hand" area="CreateRoadConfirm_200060080"/>-->
+<ItemSpec id="200060080" next="200060077" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="CreateRoadConfirm_200060080"/>
+<!-- 等一秒 -->
+<ItemSpec id="200060081" next="200060082" arrow="2" lag="0.6" hideLayer="1" enforce="1"/>
+<!-- 指向交易按钮 -->
+<ItemSpec id="200060082" next="" soft="1" softActType="roundPar" area="FreeBuildBtnsView_btnMarketExchange"/>
+
+<!-- ******ls圣诞活动引导****** -->
+<!-- 指向建造按钮 -->
+<ItemSpec id="30003090" next="30003091" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_FreeBuildListEnter" cartoon="UI_FreeBuildListEnter"/>
+<!-- 点击景观类型列表 -->
+<ItemSpec id="30003091" next="30003092" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="PutFreeBuildTypesView_18"/>
+<!-- 拖拽缤纷圣诞树 -->
+<ItemSpec id="30003092" next="" soft="1" hideLayer="1" hideKuang="1" showFinger="1" fingerPosY="40" area="PutFreeBuildDragView_600010"/>
+
+<!-- ls S5末日争霸引导 -->
+<!-- 点击S5赛季界面的进入按钮 -->
+<ItemSpec id="20004200" next="20004201" soft="1" softActType="hand" area="FBTileS5OngoingView_0" arrowAngle="135"/>
+<!-- NPC对话（全屏） -->
+<ItemSpec id="20004201" next="20004202" plot="9200416" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 移动镜头到(300, 900)，然后是NPC对话（半屏） -->
+<ItemSpec id="20004202" next="20004203" arrow="2" enforce="1" hideLayer="1" hideKuang="1" sidePlot="9200417" notAllowBreak="1"/>
+<!-- 移动镜头到(600, 600)，然后是NPC对话（半屏） -->
+<ItemSpec id="20004203" next="20004204" arrow="2" enforce="1" hideLayer="1" hideKuang="1" sidePlot="9200418" notAllowBreak="1"/>
+
+<!-- 因为时空限制，我们无法像之前一样使用一些工具了。指挥官，请您认真查看下面这个列表！ -->
+<ItemSpec id="20004204" next="20004205" plot="9200421" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 显示介绍界面，界面只有【确认】按钮 -->
+<ItemSpec id="20004205" next="20004206" enforce="1" hideLayer="1" cartoon="open_FBTileS5InstructionView"/>
+<!-- 手指指向【确认】按钮 -->
+<ItemSpec id="20004206" next="20004207" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosX="2" fingerPosY="30" area="FBTileS5InstructionView_0"/>
+
+<!-- 移动镜头到玩家基地，然后是NPC对话（半屏） -->
+<ItemSpec id="20004207" next="20004208" plot="9200419" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 查找可占领的地块，镜头转过去（非瞬间）， 并跳转打开tile菜单 -->
+<ItemSpec id="20004208" next="20004209" enforce="1" hideLayer="1" cartoon="find_doomsday_guide_tile_s5"/>
+<!-- 等一秒 -->
+<ItemSpec id="20004209" next="20004210" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 地块菜单上的占领按钮上显示手指 -->
+<ItemSpec id="20004210" next="" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosX="2" fingerPosY="30" area="NewBaseTileInfo_4" sidePlot="9200420"/>
+<!-- NPC对话（全屏） -->
+<ItemSpec id="20004211" next="" plot="9200422" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+
+    </Group>
+
+</tns:database>

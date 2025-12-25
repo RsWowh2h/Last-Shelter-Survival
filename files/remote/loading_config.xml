@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="loading_config">
+	<ItemSpec id="loadingBg_config" value="free@EG&amp;freeUS@SD&amp;freeUS@LY&amp;freeUS@TN&amp;freeUS@DZ&amp;freeUS@MA&amp;freeUS@SA&amp;freeUS@AE&amp;freeUS@IQ&amp;freeUS@KW&amp;freeUS@YE&amp;freeUS@QA&amp;freeUS@LB&amp;freeUS@SY&amp;freeUS@MR&amp;freeUS@BH&amp;freeUS@OM&amp;freeUS@JO&amp;freeUS"/>
+	<ItemSpec id="particle_config" value=""/>
+	<ItemSpec id="spine_config" value="spine_LoadingPeople#0.5#0#1#1#animation"/>
+	<ItemSpec id="frame_config" value=""/>
+	<ItemSpec id="particle_config_new" value="Loading_0#1.1:0.5:0;Loading_1#1.1:0.5:0;Loading_2#0.4:0:1;Loading_3#1.15:0:1"/>
+	<ItemSpec id="spine_halloween_config" value="spine_LoadingHalloween#0.5#0.5#1.0#0.75#animation" />
+	<ItemSpec id="switch_account_config" value="0#3000"/>
+  </Group>
+  
+  <Group id="loading_group">
+    <ItemSpec id="60000" function="loadingtheme_christmas" start_time="2019/12/20 00:00:00" end_time="2020/01/10 23:59:59" language="ALL" resource="LoadingTheme_701" />
+    <ItemSpec id="60001" function="loadingtheme_christmas" start_time="2020/4/3 00:00:00" end_time="2020/4/5 00:00:00" language="cn|tw" resource="LoadingTheme_201" />
+    <ItemSpec id="60002" function="loadingtheme_christmas" start_time="2020/12/22 0:01:00" end_time="2020/12/30 00:00:00" language="de|en|es|fr|id|it|jp|kr|pt|ru|th|tr|cn|tw" resource="LoadingTheme_702" />
+    <ItemSpec id="60003" function="loadingtheme_christmas" start_time="2021/1/21 0:01:00" end_time="2021/2/28 0:01:00" language="ALL" resource="LoadingTheme_703" />
+    <ItemSpec id="60004" function="spring_festival" start_time="2024/2/5 0:00:00" end_time="2024/2/25 23:59:59" language="ALL" resource="LoadingTheme_704" />
+    <ItemSpec id="60005" function="spring_festival" start_time="2021/3/11 0:01:00" end_time="2021/5/12 23:59:00" language="ALL" resource="LoadingTheme_705" />
+    <ItemSpec id="60006" function="new_dd_loading" start_time="2021/3/11 0:01:00" end_time="2021/5/23 23:59:00" language="ALL" resource="LoadingTheme_711" />
+    <ItemSpec id="60007" function="2022summer_loading" start_time="2021/3/11 0:01:00" end_time="2021/4/12 23:59:00" language="ALL" resource="LoadingTheme_712" />
+
+    <ItemSpec id="60008" function="22anniversary_loading" start_time="2021/3/11 0:01:00" end_time="2021/4/12 23:59:00" language="ALL" resource="LoadingAnniversary" />
+ 
+    <ItemSpec id="60009" function="2022christmas_loading" start_time="2023/01/11 0:01:00" end_time="2024/4/12 23:59:00" language="ALL" resource="LoadingChristmas" />
+ <!--   <ItemSpec id="60010" function="2023twd_loading" start_time="2023/01/11 0:01:00" end_time="2024/04/12 23:59:00" language="ALL" resource="Loadingtwd01" progress_resource="Loadingtwd02" />-->
+<!--<ItemSpec id="60011" function="heimdall_fightback_loading" start_time="2023/06/11 00:00:00" end_time="2024/12/12 23:59:00" language="ALL" resource="LoadingHeimedall" progress_resource="" />-->
+<!--<ItemSpec id="60012" function="2023celebration_loading" start_time="2023/6/11  0:00:00" end_time="2024/12/12 23:59:00" language="ALL" resource="Loading2023celebration"/>-->
+    <ItemSpec id="60013" function="2024celebration_loading" start_time="2024/8/2  0:00:00" end_time="2024/9/30 23:59:00" language="ALL" resource="Loading2024celebration" progress_resource="Loading2024celebrationProgress"/>
+    <ItemSpec id="60014" function="2022christmas_loading" start_time="2024/12/01  0:00:00" end_time="2025/01/01 23:59:00" language="ALL" resource="Loading2024Christmas" progress_resource="Loading2024ChristmasProgress"/>
+    <ItemSpec id="60015" function="2022christmas_loading" start_time="2025/12/16 0:00:00" end_time="2026/01/08 23:59:00" language="ALL" resource="Loading" progress_resource="Loading_Prorgress_Spine"/>
+
+
+  </Group>
+</tns:database>

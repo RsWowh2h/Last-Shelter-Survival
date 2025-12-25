@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="radar_intelligence">
+    <ItemSpec id="1" level="1" reward_value="1" />
+    <ItemSpec id="2" level="2" reward_value="2" />
+    <ItemSpec id="3" level="3" reward_value="3" />
+    <ItemSpec id="4" level="4" reward_value="4" />
+    <ItemSpec id="5" level="5" reward_value="5" />
+    <ItemSpec id="6" level="6" reward_value="6" />
+    <ItemSpec id="7" level="7" reward_value="7" />
+    <ItemSpec id="8" level="8" reward_value="8" />
+    <ItemSpec id="9" level="9" reward_value="9" />
+    <ItemSpec id="10" level="10" reward_value="10" />
+		<ItemSpec id="11" level="11" reward_value="10"/>
+		<ItemSpec id="12" level="12" reward_value="10"/>
+
+
+
+	</Group> 
+
+</tns:database>

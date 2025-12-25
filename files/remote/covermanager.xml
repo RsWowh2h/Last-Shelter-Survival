@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="covermanager">
+		<ItemSpec id="1" view="MechPosterView" order="20000" showpos="city,world" begintype="season,6,1" lasttime="day,7" function_on="MechaUpgrade"/>
+		<ItemSpec id="2" order="20002" showpos="city" begintype="date,2022-10-22 05:30:00" lasttime="day,7"/>
+		<ItemSpec id="3" order="20003" showpos="city" begintype="date,2022-10-22 05:30:00" lasttime="date,2022-10-29 05:29:59"/>
+		<ItemSpec id="4" order="20004" showpos="city,world" begintype="repeatweekinmonth,2022-10,3,5" lasttime="minute,86400"/>
+		<ItemSpec id="5" order="20005" showpos="city" begintype="repeatdayinyear,2022,10-22"/>
+		<ItemSpec id="6" order="20006" showpos="city" begintype="repeatdayinweek,2022-10-22,-3"/>
+		<ItemSpec id="7" order="20007" view="AssembleActView" showpos="city" function_on="alliance_attack_boss_function"/>
+		<ItemSpec id="12" view="FBPowerSprintView" order="20001" showpos="city" function_on="powerrank_poster" base_level="4"/>
+		<ItemSpec id="13" view="ActivityResourceStationSprintView" order="20002" showpos="city" function_on="activity_57339" base_level="6"/>
+		
+		<ItemSpec id="101" order="99999" view="ActivityPaymentChainsView" showpos="city" function_on="payment_quest"/>
+		<ItemSpec id="102" order="20010" view="ActivityMysteryTourView" showpos="city" function_on="recharge_monopoly"/>
+		<ItemSpec id="103" order="20011" view="FBLeagueRacingAd" showpos="city" function_on="alliance_race"/>
+		<ItemSpec id="105" order="2" view="FunUserView" showpos="city" function_on="activity_57792"/>
+		<ItemSpec id="106" view="PeakArenaLoginPopView" order="3" showpos="city" function_on="activity_57778"/>
+		<ItemSpec id="109" view="FBHeavenFallAd" order="3" showpos="city" function_on="heaven_fall_switch"/>
+		<!-- <ItemSpec id="110" order="20011" view="ActivityLuckyStarView" showpos="city" function_on="lucky_star_switch"/>			 -->
+		<ItemSpec id="111" order="30011" view="URHeroRecruitPopView" showpos="city" function_on="ur_hero_cover"/>
+		<ItemSpec id="112" order="20000" view="KopLibaoShowView" showpos="city" function_on="libao_cryptocurrency"/>
+		
+		<!-- 联盟争霸赛 -->
+		<ItemSpec id="113" order="20000" view="alliance_championship" showpos="city" function_on="alliance_championship_switch"/>
+
+		
+	</Group>
+</tns:database>

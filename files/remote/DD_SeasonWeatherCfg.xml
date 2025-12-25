@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+
+<Group id="DD_SeasonWeatherCfg">
+
+    <ItemSpec id="10000" seasonCfgID="season_1" seasonStartDate="1" seasonContDays="6" weatherCfgID="weather_1" weatherRefreshTime="86400" weatherEventCfgID="weatherEvent_1" weatherEventRefreshTime="14400" areaWeatherCfgID="areaWeather_1"/>
+
+  </Group>
+  
+</tns:database>

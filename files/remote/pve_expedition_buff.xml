@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="pve_expedition_buff">
+
+    <ItemSpec id="1001" hero="10059" icon="pve_skill1" name="161141" desc="103580" />
+    <ItemSpec id="1002" hero="10051" icon="pve_skill2" name="110520100" desc="103581" />
+    <ItemSpec id="1003" hero="10096" icon="pve_skill1" name="88000536" desc="103582" />
+    <ItemSpec id="1004" hero="10081" icon="pve_skill2" name="88000265" desc="103583" />
+    <ItemSpec id="1005" hero="10082" icon="pve_skill1" name="161300" desc="103584" />
+    <ItemSpec id="1006" hero="10181" icon="pve_skill2" name="161159" desc="103585" />
+    <ItemSpec id="1007" hero="10080" icon="pve_skill1" name="161155" desc="103586" />
+    <ItemSpec id="1008" hero="10054" icon="pve_skill2" name="161156" desc="103587" />
+    <ItemSpec id="1009" hero="10053" icon="pve_skill1" name="88000265" desc="103589" />
+    <ItemSpec id="1010" hero="10067" icon="pve_skill2" name="88000555" desc="103708" />
+    <ItemSpec id="1011" hero="10028" icon="pve_skill1" name="88000529" desc="109007" />
+    <ItemSpec id="1012" hero="10083" icon="pve_skill2" name="88000542" desc="109009" />
+    <ItemSpec id="1013" hero="10144" icon="pve_skill1" name="88000534" desc="109010" />
+    <ItemSpec id="1014" hero="10149" icon="pve_skill2" name="110520100" desc="109011" />
+    <ItemSpec id="1015" hero="10158" icon="pve_skill1" name="110520104" desc="109006" />
+    <ItemSpec id="1016" hero="10152" icon="pve_skill2" name="88000590" desc="122257" />
+    <ItemSpec id="1017" hero="10162" icon="pve_skill1" name="88000536" desc="130120" />
+
+
+
+  </Group>
+</tns:database>

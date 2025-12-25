@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="roeNewMonthCard">
+	    <ItemSpec id="882000001" subId="882000004" resType="5" title="90902003" des="90902006" des2="90902154" icon="ROE_monthCard_d1" para1="4500%" para2="" para3=" 28,000 " para4=" 4,000 "/>
+	    <ItemSpec id="882000002" subId="882000005" resType="5" title="90902004" des="90902006" des2="90902154" icon="ROE_monthCard_d2" para1="3500%" para2="" para3=" 50,000 " para4=" 14,000 "/>
+	    <ItemSpec id="882000003" subId="882000006" resType="5" title="90902005" des="90902006" des2="90902154" icon="ROE_monthCard_d3" para1="2000%" para2="" para3=" 120,000 " para4=" 60,000 "/>
+		
+		<ItemSpec id="882000011" subId="882000014" resType="30" title="90902003" des="90902006" des2="90902154" icon="ROE_monthCard_g1" para1="1500%" para2="" para3=" 11.2M " para4=" 1.3M "/>
+	    <ItemSpec id="882000012" subId="882000015" resType="30" title="90902004" des="90902006" des2="90902154" icon="ROE_monthCard_g2" para1="1200%" para2="" para3=" 20M " para4=" 5M "/>
+	    <ItemSpec id="882000013" subId="882000016" resType="30" title="90902005" des="90902006" des2="90902154" icon="ROE_monthCard_g3" para1="600%" para2="" para3=" 45M " para4=" 24M "/>
+		
+		<ItemSpec id="882000021" subId="882000024" resType="1" title="90902003" des="90902006" des2="90902154" icon="ui_stone" para1="1600%" para2="" para3=" 42M " para4=" 6M "/>
+	    <ItemSpec id="882000022" subId="882000025" resType="1" title="90902004" des="90902006" des2="90902154" icon="ui_stone" para1="1200%" para2="" para3=" 75M " para4=" 21M "/>
+	    <ItemSpec id="882000023" subId="882000026" resType="1" title="90902005" des="90902006" des2="90902154" icon="ui_stone" para1="600%" para2="" para3=" 153M " para4=" 90M "/>
+		
+		<ItemSpec id="882000031" subId="882000034" resType="2" title="90902003" des="90902006" des2="90902154" icon="ui_iron" para1="1600%" para2="" para3=" 56M " para4=" 8M "/>
+	    <ItemSpec id="882000032" subId="882000035" resType="2" title="90902004" des="90902006" des2="90902154" icon="ui_iron" para1="1000%" para2="" para3=" 85M " para4=" 25M "/>
+	    <ItemSpec id="882000033" subId="882000036" resType="2" title="90902005" des="90902006" des2="90902154" icon="ui_iron" para1="600%" para2="" para3=" 195M " para4=" 120M "/>
+		
+		<ItemSpec id="882000041" subId="882000044" resType="0" title="90902003" des="90902006" des2="90902154" icon="ui_wood" para1="1600%" para2="" para3=" 84M " para4=" 12M "/>
+	    <ItemSpec id="882000042" subId="882000045" resType="0" title="90902004" des="90902006" des2="90902154" icon="ui_wood" para1="1000%" para2="" para3=" 127.5M " para4=" 37.5M "/>
+	    <ItemSpec id="882000043" subId="882000046" resType="0" title="90902005" des="90902006" des2="90902154" icon="ui_wood" para1="600%" para2="" para3=" 292.5M " para4=" 180M "/>
+		
+		<ItemSpec id="882000051" subId="882000054" resType="3" title="90902003" des="90902006" des2="90902154" icon="ui_food" para1="1600%" para2="" para3=" 84M " para4=" 12M "/>
+	    <ItemSpec id="882000052" subId="882000055" resType="3" title="90902004" des="90902006" des2="90902154" icon="ui_food" para1="1000%" para2="" para3=" 127.5M " para4=" 37.5M "/>
+	    <ItemSpec id="882000053" subId="882000056" resType="3" title="90902005" des="90902006" des2="90902154" icon="ui_food" para1="600%" para2="" para3=" 292.5M " para4=" 180M "/>
+		
+</Group>
+
+</tns:database>

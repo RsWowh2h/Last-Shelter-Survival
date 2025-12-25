@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="twd_4main_activities">
+  
+    <ItemSpec id="1" activity_id="57763" type="156" start_time="2023/04/27 00:00:00" end_time="2023/05/08 23:59:59" show_time="2023/05/24 23:59:59" name="5601403" military_service="0" />
+    <ItemSpec id="2" activity_id="57765" type="158" start_time="2023/05/09 00:00:00" end_time="2023/05/13 23:59:59" show_time="2023/05/24 23:59:59" name="5601404" military_service="0" start_guide="90006016" end_guide="90006023" />
+    <ItemSpec id="3" activity_id="57744" type="132" start_time="2023/05/14 00:00:00" end_time="2023/05/21 23:59:59" show_time="2023/05/24 23:59:59" name="5601351" military_service="1" start_guide="90006024" />
+    <ItemSpec id="4" activity_id="57764" type="157" start_time="2023/05/22 00:00:00" end_time="2023/05/24 23:59:59" show_time="2023/05/24 23:59:59" name="110270223" military_service="0" start_guide="90006037" end_guide="90006039" />
+
+</Group>
+<Group id="twd_cg">
+    <ItemSpec id="10001" resource_name="LS_CG_1280x2722_21M_1.mp4" start_time="2023/04/27 00:00:00" end_time="2023/05/24 23:59:59" />
+    <ItemSpec id="10002" resource_name="LS_CG_1280x2722_21M_2.mp4" start_time="2023/05/14 00:00:00" end_time="2023/05/24 23:59:59" />
+
+</Group>
+<Group id="twd_calendar">
+    <ItemSpec id="10001" activity_id="57722" name="110221572" icon="BP" time="05.04-05.10" order="1" pre_desc_info="110221576" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10002" activity_id="1120122" name="110281048" icon="Turntable_Activity" time="05.04-05.24" order="2" pre_desc_info="5600849" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10003" activity_id="57770" name="110221617" icon="Exchange_leads" time="05.04-05.08" order="3" pre_desc_info="110221619" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10004" activity_id="57149" name="110221558" icon="LeadTracking" time="05.04-05.08" order="4" pre_desc_info="110221565" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10005" activity_id="57238" name="90823388" icon="check_in" time="05.04-05.10" order="5" pre_desc_info="90823389" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10006" activity_id="57768" name="110400024" icon="Numeric_racing" time="05.04-05.06" order="6" pre_desc_info="230011" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10007" activity_id="57241" name="5601407" icon="EscapingFromTheTigersMouth" time="05.09-05.13" order="7" pre_desc_info="90823364" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10008" activity_id="57719" name="110270285" icon="WorldBoss" time="05.09-05.13" order="8" pre_desc_info="110270289" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10009" activity_id="57713" name="5600182" icon="Puzzle_Activity" time="05.07-05.13" order="9" pre_desc_info="5600917" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10010" activity_id="57737" name="5601351" icon="build_a_prison" time="05.14-05.21" order="10" pre_desc_info="5601352" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10011" activity_id="57764" name="79000122" icon="CorpseWaveincoming" time="05.22-05.24" order="11" pre_desc_info="110270224" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10012" activity_id="57722" name="110221640" icon="ResistCorpses" time="05.14-05.24" order="12" pre_desc_info="110221644" pre_banner="activity_icon_57719" />
+    <ItemSpec id="10013" activity_id="57749" name="5600037" icon="Survivor_Celebration" time="05.04-05.24" order="13" pre_desc_info="5601449" pre_banner="activity_icon_57719" />
+
+
+</Group>
+<Group id="twd_in_progress"><!--进行中的活动-->
+
+    <ItemSpec id="10001" activity_id="57722" type="112" name="110221572" icon="FB_twd_battlepass" start_time="2023/05/04 00:00:00" end_time="2023/05/10 23:59:59" order="11" military_service="1" />
+    <ItemSpec id="10002" activity_id="1120122" type="67" name="110281048" icon="FB_twd_zhuanpan" start_time="2023/05/04 00:00:00" end_time="2023/05/24 23:59:59" order="10" military_service="1" />
+    <ItemSpec id="10003" activity_id="57770" type="160" name="110221617" icon="FB_twd_zhusimaji" start_time="2023/05/04 00:00:00" end_time="2023/05/08 23:59:59" order="9" military_service="1" />
+    <ItemSpec id="10004" activity_id="57149" type="7" name="110281193" icon="FB_twd_xingcunzheyingdi" start_time="2023/05/04 00:00:00" end_time="2023/05/08 23:59:59" order="8" military_service="0" />
+    <ItemSpec id="10005" activity_id="57238" type="87" name="90823388" icon="FB_twd_qiriqiandao" start_time="2023/05/04 00:00:00" end_time="2023/05/10 23:59:59" order="7" military_service="1" />
+    <ItemSpec id="10006" activity_id="57768" type="145" name="110400024" icon="FB_twd_jixutaowang" start_time="2023/05/04 00:00:00" end_time="2023/05/06 23:59:59" order="6" military_service="1" />
+    <ItemSpec id="10007" activity_id="57241" type="89" name="5601407" icon="FB_twd_feixutanxian" start_time="2023/05/09 00:00:00" end_time="2023/05/13 23:59:59" order="5" military_service="1" />
+    <ItemSpec id="10008" activity_id="57719" type="110" name="110270285" icon="FB_twd_shijieboss" start_time="2023/05/09 00:00:00" end_time="2023/05/13 23:59:59" order="4" military_service="0" />
+    <ItemSpec id="10009" activity_id="57713" type="103" name="5600182" icon="FB_twd_jiyipintu" start_time="2023/05/07 00:00:00" end_time="2023/05/13 23:59:59" order="3" military_service="1" />
+    <ItemSpec id="10010" activity_id="57737" type="125" name="5601351" icon="FB_twd_jianyu" start_time="2023/05/14 00:00:00" end_time="2023/05/21 23:59:59" order="2" military_service="1" />
+    <ItemSpec id="10011" activity_id="57764" type="157" name="110270223" icon="FB_twd_diyushichao" start_time="2023/05/22 00:00:00" end_time="2023/05/24 23:59:59" order="1" military_service="0" />
+
+</Group>
+
+
+
+
+
+
+
+
+</tns:database>

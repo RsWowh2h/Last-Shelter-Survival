@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="homestead">
+		<ItemSpec id="1" exp="100" level_des="112130009;8" count_own="1" count_foster="1" explore_queue="2"/>
+		<ItemSpec id="2" exp="150" level_des="112130009;10" count_own="1" count_foster="1" explore_queue="2"/>
+		<ItemSpec id="3" exp="250" level_des="112130006;1" count_own="2" count_foster="1" explore_queue="2"/>
+		<ItemSpec id="4" exp="350" level_des="112130009;12" count_own="2" count_foster="1" explore_queue="2"/>
+		<ItemSpec id="5" exp="500" level_des="112130119" count_own="2" count_foster="1" explore_queue="2"/>
+		<ItemSpec id="6" exp="650" level_des="112130120" count_own="2" count_foster="1" explore_queue="2"/>
+		<ItemSpec id="7" exp="850" level_des="112130119" count_own="2" count_foster="1" explore_queue="2"/>
+		<ItemSpec id="8" exp="1000" level_des="112130008;1" count_own="2" count_foster="1" explore_queue="3"/>
+		<ItemSpec id="9" exp="1200" level_des="112130009;14" count_own="2" count_foster="1" explore_queue="3"/>
+		<ItemSpec id="10" exp="1500" level_des="112130008;1" count_own="2" count_foster="1" explore_queue="4"/>
+
+	</Group>
+</tns:database>

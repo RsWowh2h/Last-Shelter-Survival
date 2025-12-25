@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="plot">
+
+<!-- 83200300=我们需要尽快找到水和食物进行补给，这是我们存活下去的根本 -->
+<!-- <ItemSpec id="9200001" content="83200300" dub="83200300" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316" /> -->
+<!-- 83200301=指挥官，营地周围找到了一些保存完整的饮用水和食物 -->
+<!-- <ItemSpec id="9200002" content="83200301" dub="83200301" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" /> -->
+<!-- 83200302=营地需要有持续的水源才能保障我们的生存 -->
+<!-- <ItemSpec id="9200003" content="83200302" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316" /> -->
+<!-- 83200303=附近有一处水源，但是我们得建造一个净水站来将水源净化 -->
+<!-- <ItemSpec id="9200004" content="83200303" dub="83200303" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" /> -->
+<!-- 83200335	我们需要修复马路，让指挥中心与净水站进入连通状态 -->
+<!-- <ItemSpec id="9200005" content="83200335" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" /> -->
+<!-- 83200308=指挥官，钢铁是发展基地的必要原料，我们需要建造一个钢铁冶炼厂 -->
+<!-- <ItemSpec id="9200006" content="83200308" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" /> -->
+<!-- 83200309=我们可以用冶炼的钢铁来建造一幢民居，作为营地人员的住处 -->
+<!-- <ItemSpec id="9200007" content="83200309" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" /> -->
+<!-- 83200336	人口是衡量营地发展的重要指标，我们保证人口的水与食物的充足供应 -->
+<!-- <ItemSpec id="9200008" content="83200336" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" /> -->
+<!-- 83200304	粮食种植可以解决营地的食物供应问题 -->
+<!-- <ItemSpec id="9200009" content="83200304" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" /> -->
+<!-- 83200305	营地的建筑设施越来越多，我们需要充足的电力来保证设施运转 -->
+<!-- <ItemSpec id="9200010" content="83200305" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" /> -->
+<!-- 83200307	电力供应不足会导致建筑工作效率的下降，需要保持充足的电力 -->
+<!-- <ItemSpec id="9200011" content="83200307" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" /> -->
+<!-- 83200337	建造一座餐厅来让居民们进餐 -->
+<!-- <ItemSpec id="9200012" content="83200337" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" /> -->
+<!-- 83200338	餐厅需要时刻保持水与食物的供应，才能保持人口的增长 -->
+<!-- <ItemSpec id="9200013" content="83200338" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" /> -->
+<!-- 83200339	水和食物需要定期通过卡车向餐厅进行运输 -->
+<!-- <ItemSpec id="9200014" content="83200339" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" /> -->
+<ItemSpec id="9200015" content="83200404" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" />
+<ItemSpec id="9200016" content="83200405" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" />
+<!-- 83200413=头，我们就选这片区域开始基地建设吧？ -->
+<!-- <ItemSpec id="9200020" content="83200413" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" para1="20002102" para2="20002102"/> -->
+<!-- 83200414=无论如何，至少这里目前是安全的 -->
+<!-- <ItemSpec id="9200021" content="83200414" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" para1="20002103"/> -->
+<!-- 83200415=您可以点击屏幕来移动地图，观察周围的环境 -->
+<!-- <ItemSpec id="9200022" content="83200415" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83200416=头，看来你也觉得这个地方不错，让我们在这里开辟一处新基地吧 -->
+<!-- <ItemSpec id="9200023" content="83200416" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" para1="20002105"/> -->
+<!-- 83200417=首先我们需要修建一个指挥中心，这将是我们基地的核心 -->
+<!-- <ItemSpec id="9200024" content="83200417" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83200418=然后我们得修一条主干道，所有的建筑都需要修建在马路旁边 -->
+<ItemSpec id="9200025" content="83200418" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83200419=通过人力建设基地有些慢，如果有一台工程车，我们的建设效率会大大提高 -->
+<!-- <ItemSpec id="9200026" content="83200419" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" para1="20002131"/> -->
+<!-- 83200420=建造一个工程车库，有了工程车我们会快很多 -->
+<ItemSpec id="9200027" content="83200420" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83200421=头，相信你不喜欢我们基地一片漆黑吧，看来我们需要点电 -->
+<!-- <ItemSpec id="9200028" content="83200421" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" para1="20002141"/> -->
+<!-- 83200422=建造一座风力发电站，可以为基地供电 -->
+<!-- <ItemSpec id="9200029" content="83200422" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83200423=我们需要将风力发电厂连入主干道，电力才会通过公路输送到各处 -->
+<!-- <ItemSpec id="9200030" content="83200423" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83200424=风力发电厂已经接入公路，可以开始运送材料进行建造 -->
+<!-- <ItemSpec id="9200031" content="83200424" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83200425=建造建筑首先需要进行材料运输，工程车一次只能建造一个建筑 -->
+<!-- <ItemSpec id="9200032" content="83200425" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83200426=风力发电厂已经开始运转，指挥中心与车库已经通电，运行良好 -->
+<!-- <ItemSpec id="9200033" content="83200426" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" para1="20002160"/> -->
+<!-- 83200427=头，我们的净水已经严重匮乏，当务之急是在附近寻找到干净的水源 -->
+<ItemSpec id="9200034" content="83200427" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" para1="20002161"/>
+<!-- 83200428=在水源旁建造净水站来为基地提供净水 -->
+<!-- <ItemSpec id="9200035" content="83200428" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83200429=我们需要将净水站连入主干道，通过公路将水进行输送 -->
+<!-- <ItemSpec id="9200036" content="83200429" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83200430=现在让我们运送材料开始建造吧 -->
+<ItemSpec id="9200037" content="83200430" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83200431=随着基地人口的增加可以建造更多的工程车车库 -->
+<!-- <ItemSpec id="9200038" content="83200431" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83200432=水电问题已经得到解决，但是基地的发展我们需要更多的人口 -->
+<ItemSpec id="9200039" content="83200432" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" para1="20002181"/>
+<!-- 83200433=头，建造民居可以收留那些未被感染的幸存者，让基地变得繁荣 -->
+<!-- <ItemSpec id="9200040" content="83200433" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83200434=触发难民对话：到处都是丧尸，我们一路逃亡，希望能加入你们共同抵御丧尸 -->
+<!-- <ItemSpec id="9200041" content="83200434" seat="1" at="1" figure="guide_nanmin" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83200435=基地人口逐渐多了起来，粮食开始紧张，自己种植是个不错的办法 -->
+<ItemSpec id="9200042" content="83200435" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" para1="20002201"/>
+<!-- 83200436=寻找沃土，在旁边种植农田，这样可以解决人口的食物问题 -->
+<!-- <ItemSpec id="9200043" content="83200436" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83200437=有了水与食物，我们可以吸引到更多的幸存者加入我们 -->
+<ItemSpec id="9200044" content="83200437" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" para1="20002221"/>
+<!-- 83200438=建造一个餐厅，基地的居民都将在这里用餐 -->
+<!-- <ItemSpec id="9200045" content="83200438" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83200439=保持餐厅存储充足的食物和水，基地的人口才会不断的增长 -->
+<ItemSpec id="9200046" content="83200439" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" para1="20002241"/>
+<!-- 83200440=使用工程车往餐厅运输一次水和食物 -->
+<ItemSpec id="9200047" content="83200440" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83200441=看，餐厅里又来了新居民，我们基地的人口开始增加了 -->
+<!-- <ItemSpec id="9200048" content="83200441" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83200442=随着基地人口数量的增加，可以解锁更多的功能 -->
+<!-- <ItemSpec id="9200049" content="83200442" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" para1="111111"/> -->
+<!-- 83200411  幽灵号，你们需要立刻赶到第九区域进行火力支援 -->
+<!-- <ItemSpec id="9200050" content="83200411" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" para1="111111"/> -->
+<!-- 83200412  幽灵号，第九区是通往首都的必经之路，你们需要在这里建立新基地，阻挡丧尸侵袭 -->
+<!-- <ItemSpec id="9200051" content="83200412" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" para1="111111"/> -->
+<!-- 83200459=头，我们的后勤补给已经耗尽，但是附近有个废弃车库，我们可以去碰碰运气 -->
+<!-- <ItemSpec id="9200052" content="83200459" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83200460=随我一起去看看 -->
+<!-- <ItemSpec id="9200053" content="83200460" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83200462=头，我们惊动了丧尸，他们马上就要冲出来了 -->
+<!-- <ItemSpec id="9200054" content="83200462" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83200463=干掉这些恶心的怪物 -->
+<!-- <ItemSpec id="9200055" content="83200463" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83200470=杰森，看来得修一条路，这么多物资，看来要用卡车才能把这些补给拉回基地 -->
+<!-- <ItemSpec id="9200056" content="83200470" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83200448=头，第九区爆发大规模疫情，我们收到了他们的求救信号，需要即刻前往支援 -->
+<!-- <ItemSpec id="9200057" content="83200448" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83200449=丧尸已经包围了这里整片区域，地面部队需要我们的火力支援 -->
+<ItemSpec id="9200058" content="83200449" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83200450=机枪准备！ -->
+<ItemSpec id="9200060" content="83200450" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200317"/>
+<!-- guide_jiaoguan -->
+<!-- 83200452=长..长官！我是第九区的警卫队长，看来你们收到了我们发出的求教信号 -->
+<!-- <ItemSpec id="9200061" content="83200452" seat="1" at="1" figure="guide_jiaoguan" bg="world_duihuabeijing" name="83200317"/> -->
+
+<!-- 83200481  基地有了充足的水和食物，基地能吸引更多的幸存者的到来 -->
+<ItemSpec id="9200077" content="83200481" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83200482  我们一路逃亡，在几乎绝望的时候，发现了你们的基地 -->
+<ItemSpec id="9200078" content="83200482" seat="1" at="1" figure="guide_badman" bg="world_duihuabeijing" name="103521"/>
+<!-- 83200483  我们已经好几天没有吃过东西了 -->
+<ItemSpec id="9200079" content="83200483" seat="1" at="1" figure="guide_nanmin" bg="world_duihuabeijing" name="103521"/>
+<!-- 83200484  我先带你们先去餐厅用餐 -->
+<ItemSpec id="9200080" content="83200484" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83200485  基地发展需要更多的人手，我会持续向基地运送来更多的幸存者 -->
+<ItemSpec id="9200081" content="83200485" seat="1" at="1" figure="guide_badman" bg="world_duihuabeijing" name="103521"/>
+<!-- 83200486  最好准备更多的水食物，会有大量的幸存者来投奔我们 -->
+<ItemSpec id="9200082" content="83200486" seat="1" at="1" figure="guide_badman" bg="world_duihuabeijing" name="103521"/>
+<!-- 9200083  上传头像引导 -->
+<ItemSpec id="9200083" content="83300113" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83400015   艾达  指挥官，这是雷达探测到的最近的可以落脚的地方了，直升机燃料就要耗尽了，我们必须立刻降落。 -->
+<!-- <ItemSpec id="9200090" content="83400015" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400016   我   准备降落，这里似乎还有人类。 -->
+<!-- <ItemSpec id="9200091" content="83400016" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400017   居民1 是军队的直升机！我们有救了！我们有救了！ -->
+<!-- <ItemSpec id="9200092" content="83400017" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400018   我   这里发生了什么？ -->
+<!-- <ItemSpec id="9200093" content="83400018" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400019   居民1 里...里面，里面有丧尸！ -->
+<!-- <ItemSpec id="9200094" content="83400019" seat="1" at="1" figure="guide_nanmin" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400020   居民1 就在昨天，突然有人发狂变成了丧尸，还同化了很多人！他们毁了整个城市！ -->
+<!-- <ItemSpec id="9200095" content="83400020" seat="1" at="1" figure="guide_nanmin" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400021   居民1 我们拼尽全力干掉了一些，可是武器和弹药都用光了，只能把它们锁在铁门里，可这坚持不了多久，求求您救救我们吧！ -->
+<!-- <ItemSpec id="9200096" content="83400021" seat="1" at="1" figure="guide_nanmin" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400022   我   艾达，我们还剩余多少弹药？ -->
+<!-- <ItemSpec id="9200097" content="83400022" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400023   艾达  勉强够干掉这些烂肉。 -->
+<!-- <ItemSpec id="9200098" content="83400023" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400024   我   那还等什么，开火！ -->
+<!-- <ItemSpec id="9200099" content="83400024" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400025   居民2 感谢您，伟大的指挥官！如果不是您的到来，我们真的不知该如何是好。 -->
+<!-- <ItemSpec id="9200100" content="83400025" seat="1" at="1" figure="guide_nanmin" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400026   居民1 您是最伟大的指挥官！ -->
+<!-- <ItemSpec id="9200101" content="83400026" seat="1" at="1" figure="guide_nanmin" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400027   居民1 只是，这里只剩下我们这些人了，能否恳请您帮助我们重建这里。周围的城市早被攻陷了，除了这里，我们没有别的选择。 -->
+<!-- <ItemSpec id="9200102" content="83400027" seat="1" at="1" figure="guide_nanmin" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400028   我   事实上，我也没有别的选择。艾达，打起精神，开始干活了！想在这活下去也不是件容易的事。 -->
+<!-- <ItemSpec id="9200103" content="83400028" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400029   艾达  是，头儿！ -->
+<!-- <ItemSpec id="9200104" content="83400029" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400030   我   艾达，我们已经没有更多的资源去寻找更安全的地点。况且这里的幸存者也需要我们。重建这里是我们活下去最后的可能。 -->
+<!-- <ItemSpec id="9200105" content="83400030" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/> -->
+<!-- 83400031   艾达  明白！开始建设之前，我们得先修整公路。公路是城市的生命线，所有的建筑都需要建设在公路旁边。 -->
+<!-- <ItemSpec id="9200106" content="83400031" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400032   艾达  设施建设、资源运输都需要依靠工程车。不过在此之前，我们得有个车库。 -->
+<!-- <ItemSpec id="9200107" content="83400032" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400033   艾达  我们得优先恢复这里的电力，才能让一切正常运转。当下我们没有足够的燃料，只能先建设风力发电厂了。 -->
+<!-- <ItemSpec id="9200108" content="83400033" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400035   艾达  只是，我们剩下的水恐怕撑不过今晚，得加紧找到新的水源，建设净水站。 -->
+<!-- <ItemSpec id="9200109" content="83400035" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400036   妞妞  指挥官大人，能不能借妞妞点吃的，妞妞很乖的，等妞妞有了食物一定还给您。 -->
+<!-- <ItemSpec id="9200110" content="83400036" seat="1" at="1" figure="guide_badman" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400037   妞妞  外婆把食物都给了妞妞，已经饿了两天了，虽然大人们不让妞妞来麻烦您，可是，可是外婆再不吃东西就，就……呜呜…… -->
+<!-- <ItemSpec id="9200111" content="83400037" seat="1" at="1" figure="guide_badman" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400038   我   妞妞不哭，把这些拿给外婆，相信我，外婆会好起来的。 -->
+<!-- <ItemSpec id="9200112" content="83400038" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/> -->
+<!-- 83400039   妞妞  谢谢您，您是这世上最好的人！ -->
+<!-- <ItemSpec id="9200113" content="83400039" seat="1" at="1" figure="guide_badman" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400040   艾达  头儿，您刚刚送出去了我们最后的食物。 -->
+<!-- <ItemSpec id="9200114" content="83400040" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400041   艾达  我们需要加紧建设农田了，虽然我很不想说这句话，但是这样下去我们确实撑不了多久。 -->
+<!-- <ItemSpec id="9200115" content="83400041" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400042   艾达  食物问题暂时解决，快建设餐厅让大家来吃些东西吧。大家都饿坏了。 -->
+<!-- <ItemSpec id="9200116" content="83400042" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400043   居民1 再次感谢您，伟大的指挥官，如果没有您，我们很难活到现在。 -->
+<!-- <ItemSpec id="9200117" content="83400043" seat="1" at="1" figure="guide_nanmin" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400044   妞妞  指挥官大人是这世界上最好的人！ -->
+<!-- <ItemSpec id="9200118" content="83400044" seat="1" at="1" figure="guide_badman" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 90400049	头儿，直升机燃料就要耗尽了，我们必须立刻降落！ -->
+<ItemSpec id="9200119" content="90400049" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 83400067	准备降落！ -->
+<!-- <ItemSpec id="9200120" content="83400067" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/> -->
+<!-- 83400068	艾达,艾达，快降落，快降落！油表马上就空了，我可不想被摔死！	 -->							
+<!-- <ItemSpec id="9200121" content="83400068" dub="83400068" seat="1" at="1" figure="263" bg="world_duihuabeijing" name="83200200"/> -->
+<!-- 83400069	呼！得救了！ -->
+<!-- <ItemSpec id="9200122" content="83400069" dub="83400069" seat="1" at="1" figure="263" bg="world_duihuabeijing" name="83200200"/> -->
+<!-- 83400070	头儿，恳请您原谅我的鲁莽。我答应了弟兄们一定要带着您活着逃出来。 -->
+<!-- <ItemSpec id="9200123" content="83400070" dub="83400070" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400071	您活着，我们才有希望从丧尸手里夺回家园。总有一天要剿灭那群该死的畜生！ -->
+<!-- <ItemSpec id="9200124" content="83400071" dub="83400071" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400072	艾达，艾达说的对，您一定要振作起来！ -->
+<!-- <ItemSpec id="9200125" content="83400072" dub="83400072" seat="1" at="1" figure="263" bg="world_duihuabeijing" name="83200200"/> -->
+<!-- 83400073	我会的。可眼下，我们得想办法在这活下去。 -->
+<!-- <ItemSpec id="9200126" content="83400073" dub="83400073" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/> -->
+<!-- 83400074	这是附近唯一的建筑了。收拾收拾勉强可以当做基地。 -->
+<!-- <ItemSpec id="9200127" content="83400074" dub="83400074" seat="1" at="1" figure="guide_sikaote" bg="world_duihuabeijing" name="83400065"/> -->
+<!-- 83400075	目前只能如此了。大家打起精神开始干活了，我们必须在天黑之前把这里弄的像样一点。 -->
+<!-- <ItemSpec id="9200128" content="83400075" dub="83400075" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/> -->
+<!-- 83400076	头儿！在开始一切建设之前我们得先把公路修好。我的工程车在沙地上可开不起来。 -->
+<!-- <ItemSpec id="9200129" content="83400076" dub="83400076" seat="1" at="1" figure="263" bg="world_duihuabeijing" name="83200200"/> -->
+<!-- 83400077	虽然很不情愿，但不得不承认，我们所有的建设都要靠西蒙和他的工程车 -->
+<!-- <ItemSpec id="9200130" content="83400077" dub="83400077" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400078	为此我们得先为工程车修一条主干道，所有的建筑都需要修建在公路旁边 -->
+<!-- <ItemSpec id="9200131" content="83400078" dub="83400078" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400079	艾达，艾达说的对！ -->
+<!-- <ItemSpec id="9200132" content="83400079" dub="83400079" seat="1" at="1" figure="263" bg="world_duihuabeijing" name="83200200"/> -->
+<!-- 83400080	艾达，艾达！有了车库我才能改装出我的工程车。手头可用的材料勉强能搞出一辆。还好我随身带着我的宝贝工具。 -->
+<!-- <ItemSpec id="9200133" content="83400080" dub="83400080" seat="1" at="1" figure="263" bg="world_duihuabeijing" name="83200200"/> -->
+<!-- 83400081	好了好了，知道了，这就开始建你的宝贝车库。	 -->
+<!-- <ItemSpec id="9200134" content="83400081" dub="83400081" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400082	为西蒙建造一个工程车库，有了工程车我们的建设会快的多。	 -->
+<!-- <ItemSpec id="9200135" content="83400082" dub="83400082" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400083	报告！“豪华”工程车“霹雳号”已就位，随时待命！ -->
+<!-- <ItemSpec id="9200136" content="83400083" dub="83400083" seat="1" at="1" figure="263" bg="world_duihuabeijing" name="83200200"/> -->
+<!-- 83400084	西蒙，说“豪华”之前能不能先把你“碎裂号”上碎了的挡风玻璃换掉。 -->
+<!-- <ItemSpec id="9200137" content="83400084" dub="83400084" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400085	特殊时期，特殊时期嘛 -->
+<!-- <ItemSpec id="9200138" content="83400085" dub="83400085" seat="1" at="1" figure="263" bg="world_duihuabeijing" name="83200200"/> -->
+<!-- 83400086	艾达艾达，我们还有水吗，忙了半天渴死了！ -->
+<!-- <ItemSpec id="9200139" content="83400086" dub="83400086" seat="1" at="1" figure="263" bg="world_duihuabeijing" name="83200200"/> -->
+<!-- 83400087	你刚灌进肚子的是我们最后一瓶水。 -->
+<!-- <ItemSpec id="9200140" content="83400087" dub="83400087" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400088	如果你不想当这里第一个被渴死的人，就赶快用上你工程车给我们建一个净水站。 -->
+<!-- <ItemSpec id="9200141" content="83400088" dub="83400088" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400089	艾达艾达，净水站搞定！是不是应该拿点食物犒劳犒劳我。 -->
+<!-- <ItemSpec id="9200142" content="83400089" dub="83400089" seat="1" at="1" figure="263" bg="world_duihuabeijing" name="83200200"/> -->
+<!-- 83400090	你喝最后一瓶水前咽下的那块面包就已经是我们最后的食物了。你还是加把劲把农田建好吧，否则今天我们都要饿着肚子。 -->
+<!-- <ItemSpec id="9200143" content="83400090" dub="83400090" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400091	还有，说了多少次，我叫艾达，不叫艾达艾达！	 -->
+<!-- <ItemSpec id="9200144" content="83400091" dub="83400091" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400092	干的漂亮西蒙，一鼓作气，将餐厅建好，我保证，今天让你饱餐一顿。	 -->
+<!-- <ItemSpec id="9200145" content="83400092" dub="83400092" seat="1" at="1" figure="guide_sikaote" bg="world_duihuabeijing" name="83400065"/> -->
+<!-- 83400093	斯考特，按你说的农田已经搞定，可我不认为它能马上长出能吃的东西。 -->
+<!-- <ItemSpec id="9200146" content="83400093" dub="83400093" seat="1" at="1" figure="263" bg="world_duihuabeijing" name="83200200"/> -->
+<!-- 83400094	当然，所有的资源生产都需要一定的时间。你可以在建筑详情处看到它的产量。 -->
+<!-- <ItemSpec id="9200147" content="83400094" dub="83400094" seat="1" at="1" figure="guide_sikaote" bg="world_duihuabeijing" name="83400065"/> -->
+<!-- 83400095	我现在只想填饱肚子。 -->
+<!-- <ItemSpec id="9200148" content="83400095" dub="83400095" seat="1" at="1" figure="263" bg="world_duihuabeijing" name="83200200"/> -->
+<!-- 83400096	为了保证你的工作效率，艾达说了句善意的谎言。我们还有些食物，你可以在屏幕上方看见当前我们拥有的所有资源。 -->
+<!-- <ItemSpec id="9200149" content="83400096" dub="83400096" seat="1" at="1" figure="guide_sikaote" bg="world_duihuabeijing" name="83400065"/> -->
+<!-- 83400097	西蒙，餐厅需要保持充足的食物和水才能保证我们的人不会挨饿。 -->
+<!-- <ItemSpec id="9200150" content="83400097" dub="83400097" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400098	运输食物和水这么重要的事只有你的工程车能做，西蒙。搞定我们就能开饭了。	 -->
+<!-- <ItemSpec id="9200151" content="83400098" dub="83400098" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400099	女士们先生们，开饭了，来尝尝我们的辛苦一天的成果。 -->
+<!-- <ItemSpec id="9200152" content="83400099" dub="83400099" seat="1" at="1" figure="guide_sikaote" bg="world_duihuabeijing" name="83400065"/> -->
+<!-- 83400100	这是这几天来吃过的最好的一顿饭，我算是知道头儿为什么去哪都带着这个厨子了。 -->
+<!-- <ItemSpec id="9200153" content="83400100" dub="83400100" seat="1" at="1" figure="263" bg="world_duihuabeijing" name="83200200"/> -->
+<!-- 83400101	西蒙，如果你能少说点话会更招美女喜欢。 -->
+<!-- <ItemSpec id="9200154" content="83400101" dub="83400101" seat="1" at="1" figure="guide_sikaote" bg="world_duihuabeijing" name="83400065"/> -->
+<!-- 83400102	西蒙，吃饱了的话，就赶紧将把睡觉的地方建好，没有民居，你晚上就要在沙地里搭帐篷了。 -->
+<!-- <ItemSpec id="9200155" content="83400102" dub="83400102" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->	
+<!-- 83400103	看见没斯考特，艾达艾达就很喜欢…… -->
+<!-- <ItemSpec id="9200156" content="83400103" dub="83400103" seat="1" at="1" figure="263" bg="world_duihuabeijing" name="83200200"/> -->
+<!-- 83400104	嗯？ -->
+<!-- <ItemSpec id="9200157" content="83400104" dub="83400104" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400105	让我干活。	 -->
+<!-- <ItemSpec id="9200158" content="83400105" dub="83400105" seat="1" at="1" figure="263" bg="world_duihuabeijing" name="83200200"/> -->
+<!-- 83400106	有了民居，我们能够容纳更多的人口来帮助我们一同建设我们的基地。虽然现在这只有我们几个。 -->
+<!-- <ItemSpec id="9200159" content="83400106" dub="83400106" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83400107	有人吗，有人吗！ -->
+<!-- <ItemSpec id="9200160" content="83400107" dub="83400107" seat="1" at="1" figure="guide_nanmin" bg="world_duihuabeijing" name="103521"/> -->
+<!-- 83400108	现在，就不只我们几个了~	 -->
+<!-- <ItemSpec id="9200161" content="83400108" dub="83400108" seat="1" at="1" figure="guide_sikaote" bg="world_duihuabeijing" name="83400065"/> -->
+<!-- 83400109	上帝保佑，终于让我们碰到了人类。 -->
+<!-- <ItemSpec id="9200162" content="83400109" dub="83400109" seat="1" at="1" figure="guide_nanmin" bg="world_duihuabeijing" name="103521"/> -->
+<!-- 83400110	能否给我们些食物和水。我们一路逃亡，已经3天没有吃东西了。 -->
+<!-- <ItemSpec id="9200163" content="83400110" dub="83400110" seat="1" at="1" figure="guide_nanmin" bg="world_duihuabeijing" name="103521"/> -->
+<!-- 83400111	艾达，先带他们去餐厅吧。 -->
+<!-- <ItemSpec id="9200164" content="83400111" dub="83400111" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/> -->
+<!-- 83400112	感谢您的慷慨，上帝会保佑您的！ -->
+<!-- <ItemSpec id="9200165" content="83400112" dub="83400112" seat="1" at="1" figure="guide_nanmin" bg="world_duihuabeijing" name="103521"/> -->
+<!-- 83400113	艾达艾达，基地周围的丧尸渐渐多了起来！太阳就要落山了，我想我们需要更多的帮手和我们一起建造基地。 -->
+<!-- <ItemSpec id="9200166" content="83400113" dub="83400113" seat="1" at="1" figure="263" bg="world_duihuabeijing" name="83200200"/> -->
+<!-- 83400114	我知道附近还有些无家可归的人，只要我们有足够的粮食和水，足够的民居落脚。我可以用我的大巴车带他们来。 -->
+<!-- <ItemSpec id="9200167" content="83400114" dub="83400114" seat="1" at="1" figure="guide_nanmin" bg="world_duihuabeijing" name="103521"/> -->
+<!-- 83400115	每多一个同伴，我们生存下去的概率就多一分 -->
+<!-- <ItemSpec id="9200168" content="83400115" dub="83400115" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/> -->
+<!-- 83400116	天黑了，度过这一夜是我们现在面临的最大挑战。 -->
+<!-- <ItemSpec id="9200169" content="83400116" dub="83400116" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/> -->
+<!-- 83401005	可恶，这里没有通讯信号，我们无法和总部联络。 -->
+<!-- <ItemSpec id="9200170" content="83401005" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83401007	总有一天，要夺回我们失去的一切！可现在我们得先活下去。 -->
+<!-- <ItemSpec id="9200171" content="83401007" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/> -->
+<!-- 83401008	在外面那群丧尸越过铁丝网之前，得把这里弄的坚固一些。 -->
+<!-- <ItemSpec id="9200172" content="83401008" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/> -->
+<!-- 83401015	头儿，基地等级达到2级建造兵营后才能够解锁出征队列，探寻世界。 -->
+<!-- <ItemSpec id="9200173" content="83401015" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83401016	头儿，探寻世界我们需要建造兵营，无论是战斗还是资源采集，有了兵营才能够拥有出征的编队。更多的兵营能够为我们带来更多的出征队伍。 -->
+<ItemSpec id="9200174" content="83401016" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83401017	兵营建造完毕，现在我们来编辑我们的出征部队吧。 -->
+<!-- <ItemSpec id="9200175" content="83401017" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83401018	干的漂亮头儿，现在我们可以去世界进行探索了！ -->
+<!-- <ItemSpec id="9200176" content="83401018" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 83401022	报告指挥官！城外有不明部队！ -->
+<ItemSpec id="9200177" content="83401022" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83401023	尊敬的指挥官，这是附近唯一能够生存的人类庇护所，请收留我们。 -->
+<ItemSpec id="9200178" content="83401023" seat="1" at="1" figure="260" bg="world_duihuabeijing" name="103521"/>
+<!-- 83401139	请根据章节任务来发展我们的庇护所吧！ -->
+<ItemSpec id="9200179" content="83401139" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90300000=看来已经没有任何一个城市是安全的了 -->
+<ItemSpec id="9200180" content="90300000" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 90300001=飞机燃油耗尽，我必须的在附近降落 -->
+<ItemSpec id="9200181" content="90300001" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 90300002=别动，举起手，你是谁 -->
+<ItemSpec id="9200182" content="90300002" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90300003=冷静，女士，我只是想找点儿吃的 -->
+<ItemSpec id="9200183" content="90300003" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 90300004=我以为这附近没有人 -->
+<ItemSpec id="9200184" content="90300004" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 90300005=附近确实基本没有活的人了 -->
+<ItemSpec id="9200185" content="90300005" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200200"/>
+<!-- 90300006=艾达，给他弄点儿吃的 -->
+<ItemSpec id="9200186" content="90300006" seat="1" at="1" figure="263" bg="world_duihuabeijing" name="83200200"/>
+<!-- 90300007=听，【他们】出来活动了 -->
+<ItemSpec id="9200187" content="90300007" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90300008=夜里比白天更危险，也许我们应该天亮在做打算 -->
+<ItemSpec id="9200188" content="90300008" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 90300009=已经三天了，我们发出的联络信号仍然没有任何回应 -->
+<ItemSpec id="9200189" content="90300009" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90300010=该死，附近出现的丧尸越来越多 -->
+<ItemSpec id="9200190" content="90300010" seat="1" at="1" figure="263" bg="world_duihuabeijing" name="83200200"/>
+<!-- 90300011=右侧的铁丝网好像出现了缺口，我马上去加固，你们先守在这里 -->
+<ItemSpec id="9200191" content="90300011" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 90300012=这是个危险的活，你得小心点儿 -->
+<ItemSpec id="9200192" content="90300012" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90300013=搞定 -->
+<ItemSpec id="9200193" content="90300013" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 90300014=看来我们的在这里呆上一阵子 -->
+<ItemSpec id="9200194" content="90300014" seat="1" at="1" figure="263" bg="world_duihuabeijing" name="83200200"/>
+<!-- 90300015=伙计们，我们的先解决水和食物的问题 -->
+<ItemSpec id="9200195" content="90300015" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 90300019=到处都是丧尸，天马上就要黑了，我得找个安全的地方 -->
+<ItemSpec id="9200196" content="90300016" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 90300017=末日后的第一百天 -->
+<!-- <ItemSpec id="9200197" content="90300017" dub="90300017" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/> -->
+<!-- 90450049	请问，请问这里有人看到过这个女孩吗？他是我的未婚妻，我正在找她。 -->
+<ItemSpec id="9200198" content="90450049" seat="1" at="1" figure="guide_kelaoding" bg="world_duihuabeijing" name="90460000"/>
+<!-- 90450050	很抱歉，她应该不在这里。 -->
+<ItemSpec id="9200199" content="90450050" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 90450051	头儿，我们出城攻击丧尸时，这位先生帮助了我们，否则会有更多的兄弟们受伤。 -->
+<ItemSpec id="9200200" content="90450051" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90450052	感谢你的出手相助。作为报答我会让人帮助你寻找你未婚妻的消息。 -->
+<ItemSpec id="9200201" content="90450052" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 90450053	恕我直言，你这样找下去很难找到她。你可以考虑留在我们的庇护所，一旦有了她的消息你也可以第一时间收到。 -->
+<ItemSpec id="9200202" content="90450053" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90450054	我可以留下吗？ -->
+<ItemSpec id="9200203" content="90450054" seat="1" at="1" figure="guide_kelaoding" bg="world_duihuabeijing" name="90460000"/>
+<!-- 90450055	当然，我们的庇护所也需要像你这样英勇的将领。相信大家都会帮你寻找你的未婚妻的。 -->
+<ItemSpec id="9200204" content="90450055" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 90450056	再次感谢你的仁慈，尊敬的指挥官。  -->
+<ItemSpec id="9200205" content="90450056" seat="1" at="1" figure="guide_kelaoding" bg="world_duihuabeijing" name="90460000"/>
+<!-- 90450057	哦，我的菲奥娜，你到底在哪里 -->
+<ItemSpec id="9200206" content="90450057" seat="1" at="1" figure="guide_kelaoding" bg="world_duihuabeijing" name="90460000"/>
+<!-- 90400046	成功解锁农田的急速生长！急速生长可以让我们立刻获得大量资源，快来试试吧！ -->
+<ItemSpec id="9200207" content="90400046" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90400047	运气不错成功了！当我们急需资源时，可以通过急速生产来获得！ -->
+<ItemSpec id="9200208" content="90400047" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90400043	头儿！医疗帐篷里的伤员需要救治，否则他们无法出征。 -->
+<ItemSpec id="9200209" content="90400043" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90400044	治疗伤兵需要一定的时间，我先替那些伤员感谢您，仁慈的指挥官。 -->
+<ItemSpec id="9200210" content="90400044" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90400045	在世界发生战斗，均有可能出现伤兵，您要记得及时救治他们，他们才能继续为您战斗。 -->
+<ItemSpec id="9200211" content="90400045" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90450032	头儿，无线电联通，我们成功联系到了Z组织，Z组织已经派遣先锋官诺拉援助我们的庇护所！ -->
+<ItemSpec id="9200212" content="90450032" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90450033	太好了，诺拉军官何时抵达？ -->
+<ItemSpec id="9200213" content="90450033" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 90450034	距离抵达还需24小时。有了先锋官的加入，我们一定能更快的建设庇护所！ -->
+<ItemSpec id="9200214" content="90450034" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90450047	距离先锋官到达我们的庇护所还需要一些时间，在她到来之前我们需要加快发展我们的基地。 -->
+<ItemSpec id="9200215" content="90450047" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90460035	Z组织先锋官诺拉受命向您报道，乐意为您效劳，我的指挥官。 -->
+<ItemSpec id="9200216" content="90460035" seat="1" at="1" figure="guide_nuola" bg="world_duihuabeijing" name="90460007"/>
+<!-- 90460036	有了你的加入，我们的庇护所会更加强大！ -->
+<ItemSpec id="9200217" content="90460036" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 90450041	速度要能再快点就好了 -->
+<ItemSpec id="9200218" content="90450041" seat="1" at="1" figure="guide_nuola" bg="world_duihuabeijing" name="90460007"/>
+<!-- 90450035	诺拉先锋官已经出发，点击这里可查看行军情况。 -->
+<ItemSpec id="9200219" content="90450035" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90460037	头儿，诺拉先锋官已经抵达，赶快点击消息球查看吧！ -->
+<ItemSpec id="9200220" content="90460037" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83401298	您可随时点击左下方的英雄消息球来查看诺拉先锋官的位置和其他信息，现在继续跟随章节任务建设庇护所吧，铁丝网外面的丧尸已经虎视眈眈了。 -->
+<ItemSpec id="9200221" content="83401298" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83401360	诺拉先锋官拥有着强大的发展能力，将她驻扎在任意农田上，可提升农田产量！ -->
+<ItemSpec id="9200222" content="83401360" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83401361	驻扎在城内的英雄无法带队出征，合理分配英雄的使用时间，才能够带来最大的收益。 -->
+<ItemSpec id="9200223" content="83401361" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83401299	太好了现在我们拥有了第一个英雄，只有上阵后的英雄才能给出征部队带来增益，现在我们去给编队配置英雄吧。 -->
+<ItemSpec id="9200224" content="83401299" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83401300	英雄带队出征击杀丧尸能够获得经验提升等级，从而提升技能效果解锁更多强力技能！ -->
+<ItemSpec id="9200225" content="83401300" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83401301	所以，部队空闲时，时常去击杀丧尸是一个不错的选择。 -->
+<ItemSpec id="9200226" content="83401301" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90300043	现在我们有了部队，可以尝试击杀1级丧尸了，击杀丧尸能够获得大量的资源奖励 -->
+<ItemSpec id="9200227" content="90300043" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90300042	部队行军需要一定的时间，我们先回城内发展吧。 -->
+<ItemSpec id="9200228" content="90300042" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83401362	发电厂需要消耗燃料才能发电，现在运送一次燃料吧。 -->
+<ItemSpec id="9200229" content="83401362" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500008	由于餐车里没有足够的补给，出现了饥饿人口，快往餐车里运送水和粮食吧！ -->
+<ItemSpec id="9200230" content="90500008" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+
+<!-- 83401378	时间过的真快，我们从一无所有到现在拥有一定的自保能力，多亏了您的英明指挥。 -->
+<ItemSpec id="9200231" content="83401378" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83401379	我们还有很长一段路要走，不能松懈。 -->
+<ItemSpec id="9200232" content="83401379" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 83401380	头儿，您庇护幸存者们的事迹被传开了，我们收到Z组织邀请您到总部参观的邀请函。 -->
+<ItemSpec id="9200233" content="83401380" seat="1" at="1" figure="guide_nuola" bg="world_duihuabeijing" name="90460007"/>
+<!-- 83401381	那还等什么，我很久之前就想去参观一下了！ -->
+<ItemSpec id="9200234" content="83401381" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83401382	欢迎你的到来，英勇的指挥官。 -->
+<ItemSpec id="9200235" content="83401382" seat="1" at="1" figure="FB_IC_hero35_TOU" bg="world_duihuabeijing" name="90500023"/>
+<!-- 83401383	这位是Z组织总司令克莱恩先生。 -->
+<ItemSpec id="9200236" content="83401383" seat="1" at="1" figure="guide_nuola" bg="world_duihuabeijing" name="90460007"/>
+<!-- 83401384	您好，尊敬的克莱恩司令。 -->
+<ItemSpec id="9200237" content="83401384" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 83401385	这次请你来，为的是表彰你庇护了大量的幸存者。 -->
+<ItemSpec id="9200238" content="83401385" seat="1" at="1" figure="FB_IC_hero35_TOU" bg="world_duihuabeijing" name="90500023"/>
+<!-- 83401386	Z组织将正式授予你属于指挥官的勋章，一旦接受，你就必须肩负起带领庇护所重建家园的重任。你愿意接受吗？ -->
+<ItemSpec id="9200239" content="83401386" seat="1" at="1" figure="FB_IC_hero35_TOU" bg="world_duihuabeijing" name="90500023"/>
+<!-- 83401387	万分荣幸。 -->
+<ItemSpec id="9200240" content="83401387" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 83401388	直到目前仍有无数的人类同胞面临丧尸的危机，饱受流离失所之苦。 -->
+<ItemSpec id="9200241" content="83401388" seat="1" at="1" figure="FB_IC_hero35_TOU" bg="world_duihuabeijing" name="90500023"/>
+<!-- 83401389	Z组织虽拥有军队，但是无法及时的拯救每一个人。 -->
+<ItemSpec id="9200242" content="83401389" seat="1" at="1" figure="FB_IC_hero35_TOU" bg="world_duihuabeijing" name="90500023"/>
+<!-- 83401390	我们需要你这样的指挥官，带领庇护所的人们重建新的家园。 -->
+<ItemSpec id="9200243" content="83401390" seat="1" at="1" figure="FB_IC_hero35_TOU" bg="world_duihuabeijing" name="90500023"/>
+<!-- 83401391	你愿意肩负这个使命吗？ -->
+<ItemSpec id="9200244" content="83401391" seat="1" at="1" figure="FB_IC_hero35_TOU" bg="world_duihuabeijing" name="90500023"/>
+<!-- 83401392	我愿意！ -->
+<ItemSpec id="9200245" content="83401392" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 83401393	很好，诺拉，你可以带指挥官在城里逛逛，我还有军务就暂不陪同了。 -->
+<ItemSpec id="9200246" content="83401393" seat="1" at="1" figure="FB_IC_hero35_TOU" bg="world_duihuabeijing" name="90500023"/>
+<!-- 83401394	不愧是Z组织的最高指挥部！那群丧尸肯定攻不破这样的城市！ -->
+<ItemSpec id="9200247" content="83401394" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83401395	您可以在这随便逛逛，点击右下角世界即可返程。 -->
+<ItemSpec id="9200248" content="83401395" seat="1" at="1" figure="guide_nuola" bg="world_duihuabeijing" name="90460007"/>
+<!-- 83401396	下次再来不知道要什么时候了，确定离开吗？ -->
+<ItemSpec id="9200249" content="83401396" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83401399	艾达，诺拉，我们回去吧。总有一天，我们的庇护所也能像这里一样繁荣！ -->
+<ItemSpec id="9200250" content="83401399" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500051	管理中心建造完毕，现在我们可以让英雄进行驻扎了！ -->
+<ItemSpec id="9200251" content="90500051" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500052	搞定，有了诺拉的驻扎，农田的产量变高了！需要注意的是驻扎英雄需要有足够的领导力 -->
+<ItemSpec id="9200252" content="90500052" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 83401361	驻扎在城内的英雄无法配置编队带队出征，合理分配英雄的使用时间，才能够带来最大的收益。 -->
+<ItemSpec id="9200253" content="83401361" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500061	现在我们有了一定的守城力量，可以试试这个丧尸音响了。 -->
+<ItemSpec id="9200254" content="90500061" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500062	这东西有什么用？ -->
+<ItemSpec id="9200255" content="90500062" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 90500063	丧尸音响能吸引周边较弱的丧尸来到音响附近，击杀它们我们能获得一些资源。 -->
+<ItemSpec id="9200256" content="90500063" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500064	不过丧尸音响需要充能，您有空的时候时常来看看就行~！ -->
+<ItemSpec id="9200257" content="90500064" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500065	艾达，你可一定要控制好这东西的音量。我可不想引来丧尸潮。 -->
+<ItemSpec id="9200258" content="90500065" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 90500066	放心~！ -->
+<ItemSpec id="9200259" content="90500066" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500084	终于有了英雄大厅，现在我们可以招募更多的英雄了！ -->
+<ItemSpec id="9200260" content="90500084" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500085	不同的英雄可以为我们带来不同的增益，英雄是我们发展必不可少的力量之一！ -->
+<ItemSpec id="9200261" content="90500085" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500086	战斗英雄可以增加部队战斗力，发展英雄可以驻扎在建筑上提升资源收益。 -->
+<ItemSpec id="9200262" content="90500086" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500087	现在，我们快来试试招募吧！ -->
+<ItemSpec id="9200263" content="90500087" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500088	我们每日有两次免费招募英雄的机会，千万不要错过哦！ -->
+<ItemSpec id="9200264" content="90500088" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500081	现在餐车里没有吃的，我们无法达到人口增长的需求。赶快运输一些资源吧，大家都饿坏了！ -->
+<ItemSpec id="9200265" content="90500081" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500082	餐车里有了吃的，我们的人口就会不断增长。在达到建设需求之前，我们可以先干点别的。 -->
+<ItemSpec id="9200266" content="90500082" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500083	人口正在增长中，在达到建设需求之前，我们可以先干点别的。 -->
+<ItemSpec id="9200267" content="90500083" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500091	天黑了，我们不能靠篝火撑过夜晚，那不是长久之计。 -->
+<!-- <ItemSpec id="9200268" content="90500091" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 90500092	我们需要电，资源建筑的生产也离不开电力，我们手头没有燃料，先建造一个风力发电厂吧。 -->
+<!-- <ItemSpec id="9200269" content="90500092" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 90500093	搞定！有了光，看起来安全多了。 -->
+<!-- <ItemSpec id="9200270" content="90500093" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/> -->
+<!-- 90500096	越来越多的幸存者来投奔我们，总觉得身上的担子更重了。 -->
+<ItemSpec id="9200271" content="90500096" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500097	你说的没错，艾达。想要保护他们，我们得更加强大。 -->
+<ItemSpec id="9200272" content="90500097" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 90500098	我想我们不应该孤军奋战，加入合适的联盟能让我们安全不少。 -->
+<ItemSpec id="9200273" content="90500098" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500099	不错的主意。 -->
+<ItemSpec id="9200274" content="90500099" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 90500108	兵种分为勇士、射手、改装车。将防御力和生命更强的勇士放在第一排，能够更好的保护输出兵种。 -->
+<ItemSpec id="9200275" content="90500108" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500114	只有不断的训练士兵增加部队实力，才能守护住我们的庇护所。我们的处境还很危险，永远不要停下练兵的的脚步！ -->
+<ItemSpec id="9200276" content="90500114" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500109	有了联盟就有了依靠，我们先去起一个指挥官名字吧，这样更容易被大家记住。 -->
+<ItemSpec id="9200277" content="90500109" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500110	相信这个名字一定会被历史铭记！现在我们去联盟中打个招呼吧！ -->
+<ItemSpec id="9200278" content="90500110" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500111	迁城至盟友身边我们会更加安全。 -->
+<ItemSpec id="9200279" content="90500111" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500226	升级基地需要较长的时间，您可使用「加速道具」来「缩短建设时间」，快来试试吧！ -->
+<ItemSpec id="9200280" content="90500226" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500227	末日争霸已经开启。为了生存，仅仅依靠城内的资源是远远不够的。我们必须去世界探索，谋取生存！ -->
+<ItemSpec id="9200281" content="90500227" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500261	附近土地的守卫较强，难以发展。我们将免费赠予您一次迁城至更合适区域的机会，是否前往迁城？ -->
+<ItemSpec id="9200282" content="90500261" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500230	成功了！现在我们拥有了第一块土地，我们只能占领它周边的土地来扩张。 -->
+<ItemSpec id="9200283" content="90500230" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500262	现在，占领旁边的1级土地吧！ -->
+<ItemSpec id="9200284" content="90500262" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90500263	周边的土地情况很适合我们的发展，我们的士兵已经在开拓第一块空地了。 -->
+<ItemSpec id="9200285" content="90500263" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90300025	运输资源进行建设之前需要先把道路连通。 -->
+<ItemSpec id="9200286" content="90300025" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--90500273	车库可以增加我们的建筑队列，有了它我们就能开始重建我们的城市了！-->
+<ItemSpec id="9200287" content="90500273" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--90500294	哨塔建造完毕，可以点击射杀城内游走的丧尸了，干掉它们城里会安全的多。-->
+<ItemSpec id="9200288" content="90500294" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--90500309	尊敬的指挥官，我们收到了来自同伴的求救信号，希望您能帮助我们救出他们。外面已经沦陷，我们愿意与您一同守护这里。-->
+<ItemSpec id="9200289" content="90500309" seat="1" at="1" figure="guide_kelaoding" bg="world_duihuabeijing" name="90460000"/>
+<!--90500310	义不容辞-->
+<ItemSpec id="9200290" content="90500310" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!--90500311	我们快来配置出征部队，营救被困的同伴吧！-->
+<ItemSpec id="9200291" content="90500311" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--90500312	你果然来救我们了！-->
+<ItemSpec id="9200292" content="90500312" seat="1" at="1" figure="260" bg="world_duihuabeijing" name="103521"/>
+<!--90500313	那当然！是这位指挥官帮助了我们。外面已经沦陷了，我们决定留在这。-->
+<ItemSpec id="9200293" content="90500313" seat="1" at="1" figure="guide_kelaoding" bg="world_duihuabeijing" name="90460000"/>
+<!--90500314	欢迎至极。-->
+<ItemSpec id="9200294" content="90500314" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!--90500315	我们自己也要不断的训练士兵，增强战斗力，城外的那些丧尸随时可能冲进来。-->
+<ItemSpec id="9200295" content="90500315" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--90500319	天黑下来了，我们的处境很危险。-->
+<ItemSpec id="9200296" content="90500319" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--90500320	先把篝火点着吧，没点儿亮都看不清周围。-->
+<ItemSpec id="9200297" content="90500320" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!--90500091	我们不能靠篝火撑过夜晚，那不是长久之计。-->
+<ItemSpec id="9200298" content="90500091" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--90500324	灯亮起来，看起来就安全的多了。-->
+<ItemSpec id="9200299" content="90500324" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90400051   还好只是手臂受了点轻伤伤，这是哪里？ -->
+<ItemSpec id="9200300" content="90400051" seat="1" at="1" figure="258" name="83200316"/>
+<!-- 90400052   是谁在那？ -->
+<ItemSpec id="9200301" content="90400052" seat="1" at="1" figure="258" name="83200316"/>
+<!-- 90400055   见鬼，又是这些该死的怪物 -->
+<ItemSpec id="9200302" content="90400055" seat="1" at="1" figure="258" name="83200316"/>
+<!-- 90300040	太好了，有了他们的加入，我们就有了探寻世界的能力，现在来配置出征队列吧！ -->
+<ItemSpec id="9200303" content="90300040" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90300041	就由我来带队出征吧！ -->
+<ItemSpec id="9200304" content="90300041" seat="1" at="1" figure="guide_kelaoding" bg="world_duihuabeijing" name="90460000"/>
+<!--90500325	艾达，我们还要再加把劲把这里弄的坚固点，谁都不知道晚上会发生什么。-->
+<ItemSpec id="9200305" content="90500325" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!--90500326	是，头儿！-->
+<ItemSpec id="9200306" content="90500326" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--90300028	报告！发现大批丧尸正向庇护所行进！-->
+<ItemSpec id="9200307" content="90300028" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--90300031	在丧尸到来之前，我们得尽快加固我们的城市。-->
+<ItemSpec id="9200308" content="90300031" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!--90300030	是！训练士兵……加固防御……储备物资……-->
+<ItemSpec id="9200309" content="90300030" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--90300029	艾达，冷静。我们一定能够守住这里，相信我！-->
+<ItemSpec id="9200310" content="90300029" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!--90300032	您说的对，我们一定能保护大家！-->
+<ItemSpec id="9200311" content="90300032" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--90300033	给发电厂补给足够的燃料，我们必须保证在这场恶仗来临时庇护所有足够的电力支撑。-->
+<ItemSpec id="9200312" content="90300033" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--90300037	丧尸太多了！我们不能把部队过于分散，要想办法把这些烂肉引到一处，集中火力。-->
+<ItemSpec id="9200313" content="90300037" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--90300038	或许这家伙能排上用场。-->
+<ItemSpec id="9200314" content="90300038" seat="1" at="1" figure="260" bg="world_duihuabeijing" name="83000259"/>
+<!--90400101	这家伙的音量应该可以把那些丧尸引过来。这样战斗会容易的多。-->
+<ItemSpec id="9200315" content="90400101" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!--90400102	我们赢了！-->
+<ItemSpec id="9200316" content="90400102" seat="1" at="1" figure="260" bg="world_duihuabeijing" name="103521"/>
+<!--90400103	多亏了您的英明指挥！-->
+<ItemSpec id="9200317" content="90400103" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--90400104	在您不在的期间，我们奋力抵抗了丧尸。-->
+<ItemSpec id="9200318" content="90400104" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--90400105	好在勉强守下了我们的庇护所，但有些勇士负了伤，请您及时医治他们。-->
+<ItemSpec id="9200319" content="90400105" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--103791	    啊……新鲜的……血……-->
+<ItemSpec id="9200320" content="103791" seat="1" at="1" figure="kulou_bust" bg="world_duihuabeijing" name=""/>
+<!--90500341	多亏您的英明指挥，我们顶过了这次丧尸潮-->
+<ItemSpec id="9200321" content="90500341" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--90500342	我们得尽快发展，说不定下次来的就不只是这么点怪物了。-->
+<ItemSpec id="9200322" content="90500342" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!--90800128	长按建筑可以使其进入移动状态， 您可以将建筑移动至合适的位置-->
+<ItemSpec id="9200323" content="90800128" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" positionType="3"/>
+<!--90800127	指挥官，{0}的放置地点无法连接道路，您可以通过长按建筑来进行移动。-->
+<ItemSpec id="9200324" content="90800127" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--90800130	编队只有被勾选之后才能参与防守，当您拥有更多的是编队时，可勾选多个编队同时进行防守。 -->
+<ItemSpec id="9200325" content="90800130" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--83352103	所有防守部队被攻破后，城内其他部队会损失一定量的士兵。 -->
+<ItemSpec id="9200326" content="83352103" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--90800131	新增的编队都默为未守城认状态，如果您要增加守城编队需要手动勾选 -->
+<ItemSpec id="9200327" content="90800131" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!--90800145	指挥官，这是一处资源点，您可以派出编队出征采集，采集到的资源数量可以在 -->
+<ItemSpec id="9200328" content="90800145" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+
+<!-- 90300002=别动，举起手，你是谁 -->
+<ItemSpec id="9200400" content="90300002" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 90300003=冷静，女士，我只是想找点儿吃的 -->
+<ItemSpec id="9200401" content="90400061" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 90300004=我以为这附近没有人 -->
+<ItemSpec id="9200402" content="90300004" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200316"/>
+<!-- 90300005=附近确实基本没有活的人了 -->
+<ItemSpec id="9200403" content="90400062" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200200"/>
+<!-- 90400063=你最好别成为我的累赘 -->
+<ItemSpec id="9200404" content="90400063" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200200"/>
+<!-- 90400066=我们最好天亮再做打算 -->
+<ItemSpec id="9200405" content="90400066" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200200"/>
+<!-- 90400067=我每天都会向外发出联络信号，但是从来没有人回应 -->
+<ItemSpec id="9200406" content="90400067" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200200"/>
+<!-- 90400068=看来我们得在这待上一阵子 -->
+<ItemSpec id="9200407" content="90400068" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200200"/>
+<!-- 90400069=我们先解决水和食物的问题 -->
+<ItemSpec id="9200408" content="90400069" seat="1" at="1" figure="258" bg="world_duihuabeijing" name="83200200"/>
+<!-- 90500002 我们解锁了更高级兵种，通过战略指挥台可以将低级兵种晋升至更高级的兵种。在此之前需要通过科技解锁晋级功能。 -->
+<ItemSpec id="9200409" content="90500002" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" />
+<!-- 90300039  出城之前，还是先配置好出征队列吧！ -->
+<ItemSpec id="9200410" content="90300039" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" />
+<!-- 90400096  指挥官，丧尸越来越多，我们需要尽快将这里建设成为一个安全牢固的基地 -->
+<ItemSpec id="9200411" content="90400096" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" />
+<!-- 90400097  这里将会是我们最后的庇护所 -->
+<ItemSpec id="9200412" content="90400097" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" />
+<!-- 90400098  丧尸随时可能来袭，指挥官我们得赶紧行动起来 -->
+<!-- <ItemSpec id="9200413" content="90400098" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317" /> -->
+
+
+
+
+
+<!-- wow 新增 -->
+<!-- 指挥官，我们要尽快把这里建设起来，要塞能给更多逃亡者提供庇护。 -->
+<ItemSpec id="1000000004" content="100000004" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+
+<!-- 有了足够的实力，才能把兽人逐出永恒大陆！ -->
+<ItemSpec id="1000000005" content="100000005" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+
+<!-- 为了建设更多的建筑，让我们先开辟一条坚固的道路。 -->
+<ItemSpec id="1000000006" content="100000006" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+
+<!-- 嗨！我在这儿！谢天谢地，我以为自己要迷失在这里了。 -->
+<ItemSpec id="1000000007" content="100000007" seat="1" at="1" figure="wow_worker" bg="world_duihuabeijing" name="100000029"/>
+
+<!-- 你是谁？ -->
+<ItemSpec id="1000000008" content="100000008" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+
+<!-- 我是矮人王国的工人！感谢你救了我，我想我正好帮得上你。 -->
+<ItemSpec id="1000000009" content="100000009" seat="1" at="1" figure="wow_worker" bg="world_duihuabeijing" name="100000029"/>
+
+<!-- 只要有一座工人小屋，我就能全面开工了！我可不想把工具铺的满地都是。 -->
+<ItemSpec id="1000000010" content="100000010" seat="1" at="1" figure="wow_worker_small" bg="world_duihuabeijing" name="100000029"/>
+
+<!-- 矮人（工人半身）：忙了这么久，渴死我了！部队驻守在这里也需要供水保障，我可以在水源地附近建造一处净水收集器！ -->
+<ItemSpec id="1000000011" content="100000011" seat="1" at="1" figure="wow_worker" bg="world_duihuabeijing" name="100000029"/>
+
+<!-- 军团副官（玩家助手半身）：指挥官，已经陆续有逃亡者到来了，我们需要建造民居容纳他们。 -->
+<ItemSpec id="1000000012" content="100000012" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+
+<!-- 我们有了更多的人手，但我们还需要粮食保证生存，建立农场可以解决这个问题。 -->
+<ItemSpec id="1000000013" content="100000013" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+<!-- 军团副官（玩家助手半身）：指挥官，粮食的问题解决了，现在我们需要一座酒馆烹饪食物。  -->
+<ItemSpec id="1000000014" content="100000014" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+
+<!-- 建造酒馆？！真是太好了，交给我吧！真想好好喝一杯！ -->
+<ItemSpec id="1000000015" content="100000015" seat="1" at="1" figure="wow_worker" bg="world_duihuabeijing" name="100000029"/>
+
+<!-- 指挥官，有了食物和水，就能吸引逃亡者进入要塞。 -->
+<ItemSpec id="1000000016" content="100000016" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+
+<!-- 我们要经常为酒馆运送食水，否则饥饿会驱使人们离开。 -->
+<ItemSpec id="1000000017" content="100000017" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+
+<!-- 谢天谢地居然能在兽人的领地上找到一个藏身之处，我们一路上都在躲避它们的追击。 -->
+<ItemSpec id="1000000018" content="100000018" seat="1" at="1" figure="wow_soldier" bg="world_duihuabeijing" name="100000030"/>
+
+<!-- 快到食堂吃些东西吧！你们能逃离兽人的魔爪真是太好了。 -->
+<ItemSpec id="1000000019" content="100000019" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+
+<!-- 真该死！它们肯定是追着我们来到这儿的，我们要加入你们的军队，和你们并肩作战！ -->
+<ItemSpec id="1000000020" content="100000020" seat="1" at="1" figure="wow_soldier" bg="world_duihuabeijing" name="100000030"/>
+
+<!-- 好的！全体集合！准备战斗！ -->
+<ItemSpec id="1000000021" content="100000021" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+
+<!-- 你们这群蝼蚁，居然挫败了我的先锋部队？！ -->
+<ItemSpec id="1000000023" content="100000023" seat="1" at="1" figure="wow_dominator" bg="world_duihuabeijing" name="100000031"/>
+
+<!-- 享受短暂的胜利吧，凡人！我还会再回来的！ -->
+<ItemSpec id="1000000024" content="100000024" seat="1" at="1" figure="wow_dominator" bg="world_duihuabeijing" name="100000031"/>
+
+<!-- 是恶魔支配者加古尔！我们竟击败了他的军队！指挥官你创造了奇迹！ -->
+<ItemSpec id="1000000025" content="100000025" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+
+<!-- 这场胜利能让我们有机会解救更多的逃亡者，我们这就出发！ -->
+<ItemSpec id="1000000026" content="100000026" seat="1" at="1" figure="wow_soldier" bg="world_duihuabeijing" name="100000030"/>
+
+<!-- 指挥官，兽人很可能会再次进攻，我们要升级城堡做好准备。 -->
+<ItemSpec id="1000000027" content="100000027" seat="1" at="1" figure="259" bg="world_duihuabeijing" name="83200317"/>
+
+<!-- 你们以为这就样就能躲开我吗？！ -->
+<ItemSpec id="1000000032" content="100000032" seat="1" at="1" figure="wow_dominator" bg="world_duihuabeijing" name="100000031"/>
+    </Group>
+
+</tns:database>

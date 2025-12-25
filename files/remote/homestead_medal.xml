@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="homestead_medal">
+		<ItemSpec id="111" name="112132001" task="1101;1102;1103" default_pic="pet_medal_2_1" arrange="1;2"/>
+		<ItemSpec id="112" name="112132003" task="1201;1202;1203" default_pic="pet_medal_3_1" arrange="2;1"/>
+		<ItemSpec id="113" name="112132005" task="1301;1302;1303" default_pic="pet_medal_4_1" arrange="2;3"/>
+		<ItemSpec id="114" name="112132007" task="1401;1402;1403" default_pic="pet_medal_1_1" arrange="3;2"/>
+
+	</Group>
+</tns:database>

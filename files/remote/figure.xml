@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="figure">
+
+    <ItemSpec id="10001" name="83200200" image="Free_car_dirver_head_1.png" sound="driver1_diapatch;driver1_diapatch_01;0" trans_sound="driver1_transport_complete" upgrade_sound="driver1_build_complete"/>
+    <ItemSpec id="10002" name="83200202" image="Free_car_dirver_head_2.png" sound="driver2_diapatch;driver2_diapatch_01;0" trans_sound="driver2_transport_complete" upgrade_sound="driver2_build_complete"/>
+    <ItemSpec id="10003" name="83200204" image="Free_car_dirver_head_3.png" sound="driver3_diapatch;driver3_diapatch_01;0" trans_sound="driver3_transport_complete" upgrade_sound="driver3_build_complete"/>
+    <ItemSpec id="10004" name="83200206" image="Free_car_dirver_head_4.png" sound="driver4_diapatch;driver4_diapatch_01;0" trans_sound="driver4_transport_complete" upgrade_sound="driver4_build_complete"/>
+    <ItemSpec id="10005" name="83200208" image="Free_car_dirver_head_5.png" sound="driver6_diapatch;driver6_diapatch_01;0" trans_sound="driver6_transport_complete" upgrade_sound="driver6_build_complete"/>
+    <ItemSpec id="10006" name="83200210" image="Free_car_dirver_head_6.png" sound="driver7_diapatch;driver7_diapatch_01;0" trans_sound="driver7_transport_complete" upgrade_sound="driver7_build_complete"/>
+    <ItemSpec id="10007" name="83200212" image="Free_car_dirver_head_7.png" sound="driver8_diapatch;driver8_diapatch_01;0" trans_sound="driver8_transport_complete" upgrade_sound="driver8_build_complete"/>
+    <ItemSpec id="10008" name="83200214" image="Free_car_dirver_head_8.png" sound="driver5_diapatch;driver5_diapatch_01;0" trans_sound="driver5_transport_complete" upgrade_sound="driver5_build_complete"/>
+    <ItemSpec id="10009" name="91011030" image="Icon_siji13.png" sound="driver1_diapatch;driver1_diapatch_01;0" trans_sound="driver1_transport_complete" upgrade_sound="driver1_build_complete"/>
+    <ItemSpec id="10010" name="91011031" image="Icon_siji2.png" sound="driver8_diapatch;driver8_diapatch_01;0" trans_sound="driver8_transport_complete" upgrade_sound="driver8_build_complete"/>
+    <ItemSpec id="10011" name="91011032" image="Icon_siji3.png" sound="driver8_diapatch;driver8_diapatch_01;0" trans_sound="driver8_transport_complete" upgrade_sound="driver8_build_complete"/>
+    <ItemSpec id="10012" name="91011033" image="Icon_siji11.png" sound="driver3_diapatch;driver3_diapatch_01;0" trans_sound="driver3_transport_complete" upgrade_sound="driver3_build_complete"/>
+    <ItemSpec id="10013" name="91011034" image="Icon_siji1.png" sound="driver4_diapatch;driver4_diapatch_01;0" trans_sound="driver4_transport_complete" upgrade_sound="driver4_build_complete"/>
+    <ItemSpec id="10014" name="91011035" image="Icon_siji5.png" sound="driver8_diapatch;driver8_diapatch_01;0" trans_sound="driver8_transport_complete" upgrade_sound="driver8_build_complete"/>
+    <ItemSpec id="10015" name="91011036" image="Icon_siji7.png" sound="driver7_diapatch;driver7_diapatch_01;0" trans_sound="driver7_transport_complete" upgrade_sound="driver7_build_complete"/>
+    <ItemSpec id="10016" name="91011037" image="Icon_siji8.png" sound="driver6_diapatch;driver6_diapatch_01;0" trans_sound="driver6_transport_complete" upgrade_sound="driver6_build_complete"/>
+    <ItemSpec id="10017" name="91011038" image="Icon_siji12.png" sound="driver5_diapatch;driver5_diapatch_01;0" trans_sound="driver5_transport_complete" upgrade_sound="driver5_build_complete"/>
+    <ItemSpec id="10018" name="91011039" image="Icon_siji9.png" sound="driver1_diapatch;driver1_diapatch_01;0" trans_sound="driver1_transport_complete" upgrade_sound="driver1_build_complete"/>
+    <ItemSpec id="10019" name="91011040" image="Icon_siji6.png" sound="driver2_diapatch;driver2_diapatch_01;0" trans_sound="driver2_transport_complete" upgrade_sound="driver2_build_complete"/>
+    <ItemSpec id="10020" name="90460075" image="Icon_siji4.png" sound="driver3_diapatch;driver3_diapatch_01;0" trans_sound="driver3_transport_complete" upgrade_sound="driver3_build_complete"/>
+
+
+</Group>
+
+
+  </tns:database>

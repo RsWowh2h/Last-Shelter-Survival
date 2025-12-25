@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="science_recommend2">
+	<!-- LS策划\5.科技\00.【个人科技推荐】 配置文件 -->
+	<ItemSpec id="1" scienceId="901000" lv="1" />
+    <ItemSpec id="2" scienceId="901100" lv="1" />
+    <ItemSpec id="3" scienceId="901200" lv="1" />
+    <ItemSpec id="4" scienceId="901300" lv="1" />
+    <ItemSpec id="5" scienceId="901400" lv="1" />
+    <ItemSpec id="6" scienceId="901500" lv="1" />
+    <ItemSpec id="7" scienceId="901600" lv="1" />
+    <ItemSpec id="8" scienceId="904100" lv="1" />
+    <ItemSpec id="9" scienceId="904200" lv="1" />
+    <ItemSpec id="10" scienceId="904300" lv="5" />
+    <ItemSpec id="11" scienceId="904400" lv="5" />
+    <ItemSpec id="12" scienceId="904500" lv="5" />
+    <ItemSpec id="13" scienceId="904700" lv="1" />
+    <ItemSpec id="14" scienceId="904600" lv="1" />
+    <ItemSpec id="15" scienceId="904800" lv="1" />
+    <ItemSpec id="16" scienceId="902500" lv="1" />
+    <ItemSpec id="17" scienceId="972500" lv="1" />
+    <ItemSpec id="18" scienceId="974500" lv="1" />
+    <ItemSpec id="19" scienceId="970500" lv="1" />
+    <ItemSpec id="20" scienceId="902800" lv="3" />
+    <ItemSpec id="21" scienceId="902600" lv="3" />
+    <ItemSpec id="22" scienceId="902700" lv="3" />
+    <ItemSpec id="23" scienceId="920000" lv="1" />
+    <ItemSpec id="24" scienceId="920100" lv="1" />
+    <ItemSpec id="25" scienceId="920200" lv="1" />
+    <ItemSpec id="26" scienceId="920300" lv="1" />
+    <ItemSpec id="27" scienceId="920400" lv="1" />
+    <ItemSpec id="28" scienceId="920500" lv="1" />
+    <ItemSpec id="29" scienceId="920600" lv="1" />
+
+  </Group>
+  
+</tns:database>

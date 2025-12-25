@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="hero_special_equipments">
+		<ItemSpec id="1" name="111002515" type="0" rare="5" hero_group="1" hero_id="10128" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201139;1" equip_icon="icon_siwangqishiwuqi_01" weapon_pic="pic_siwangqishiwuqi_01"/>
+		<ItemSpec id="2" name="111002516" type="0" rare="5" hero_group="1" hero_id="10129" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201140;1" equip_icon="icon_tianguojiushuwuqi_01" weapon_pic="pic_tianguojiushuwuqi_01"/>
+		<ItemSpec id="3" name="111002512" type="0" rare="5" hero_group="1" hero_id="10136" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201141;1" equip_icon="icon_qixiushiwuqi_01" weapon_pic="pic_qixiushiwuqi_01"/>
+		<ItemSpec id="4" name="111002506" type="0" rare="5" hero_group="1" hero_id="10137" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201142;1" equip_icon="icon_daxiunvwuqi_01" weapon_pic="pic_daxiunvwuqi_01"/>
+		<ItemSpec id="5" name="111002503" type="0" rare="5" hero_group="1" hero_id="10138" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201143;1" equip_icon="icon_baoshiwuqi_01" weapon_pic="pic_baoshiwuqi_01"/>
+		<ItemSpec id="6" name="111002522" type="0" rare="5" hero_group="1" hero_id="10142" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201144;1" equip_icon="icon_zhuizongzhewuqi_01" weapon_pic="pic_zhuizongzhewuqi_01"/>
+		<ItemSpec id="7" name="111002502" type="0" rare="5" hero_group="1" hero_id="10143" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201145;1" equip_icon="icon_baonuwuqi_01" weapon_pic="pic_baonuwuqi_01"/>
+		<ItemSpec id="8" name="111002519" type="0" rare="5" hero_group="1" hero_id="10144" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201146;1" equip_icon="icon_xinghonghaiyaowuqi_01" weapon_pic="pic_xinghonghaiyaowuqi_01"/>
+		<ItemSpec id="9" name="111002505" type="0" rare="5" hero_group="1" hero_id="10146" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201147;1" equip_icon="icon_conglinzhanshiwuqi_01" weapon_pic="pic_conglinzhanshiwuqi_01"/>
+		<ItemSpec id="10" name="111002521" type="0" rare="5" hero_group="1" hero_id="10147" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201148;1" equip_icon="icon_yuyanjiawuqi_01" weapon_pic="pic_yuyanjiawuqi_01"/>
+		<ItemSpec id="11" name="111002511" type="0" rare="5" hero_group="1" hero_id="10148" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201149;1" equip_icon="icon_nixingzhewuqi_01" weapon_pic="pic_nixingzhewuqi_01"/>
+		<ItemSpec id="12" name="111002501" type="0" rare="5" hero_group="1" hero_id="10149" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201150;1" equip_icon="icon_aimuwuqi_01" weapon_pic="pic_aimuwuqi_01"/>
+		<ItemSpec id="13" name="111002504" type="0" rare="5" hero_group="1" hero_id="10151" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201151;1" equip_icon="icon_chenxiwuqi_01" weapon_pic="pic_chenxiwuqi_01"/>
+		<ItemSpec id="14" name="111002518" type="0" rare="5" hero_group="1" hero_id="10152" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201152;1" equip_icon="icon_xieweiwuqi_01" weapon_pic="pic_xieweiwuqi_01"/>
+		<ItemSpec id="15" name="111002507" type="0" rare="5" hero_group="1" hero_id="10153" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201153;1" equip_icon="icon_fengmowuqi_01" weapon_pic="pic_fengmowuqi_01"/>
+		<ItemSpec id="16" name="111002510" type="0" rare="5" hero_group="1" hero_id="10154" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201154;1" equip_icon="icon_lieyanwuqi_01" weapon_pic="pic_lieyanwuqi_01"/>
+		<ItemSpec id="17" name="111002514" type="0" rare="5" hero_group="1" hero_id="10155" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201155;1" equip_icon="icon_shoucangjiawuqi_01" weapon_pic="pic_shoucangjiawuqi_01"/>
+		<ItemSpec id="18" name="111002508" type="0" rare="5" hero_group="1" hero_id="10156" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201156;1" equip_icon="icon_guangrenwuqi_01" weapon_pic="pic_guangrenwuqi_01"/>
+		<ItemSpec id="19" name="111002513" type="0" rare="5" hero_group="1" hero_id="10158" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201157;1" equip_icon="icon_shenqianzhewuqi_01" weapon_pic="pic_shenqianzhewuqi_01"/>
+		<ItemSpec id="20" name="111002517" type="0" rare="5" hero_group="1" hero_id="10159" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201158;1" equip_icon="icon_tiaoyinshiwuqi_01" weapon_pic="pic_tiaoyinshiwuqi_01"/>
+		<ItemSpec id="21" name="111002509" type="0" rare="5" hero_group="1" hero_id="10161" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201159;1" equip_icon="icon_leitingwuqi_01" weapon_pic="pic_leitingwuqi_01"/>
+		<ItemSpec id="22" name="111002520" type="0" rare="5" hero_group="1" hero_id="10162" hero_effect_name="192106" hero_effect_show="111002037" hero_effect="3590;10" item="201160;1" equip_icon="icon_yeyingwuqi_01" weapon_pic="pic_yeyingwuqi_01"/>
+
+	</Group> 
+</tns:database>

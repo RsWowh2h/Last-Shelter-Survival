@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="fortress_para">
+		<ItemSpec id="1" score_defend="20" score_dispatch="45" march_time="900:30;1800:15;2700:10;3600:5" march_num="10|10" recovery_time="90" return_cd="60" hof_condition="5" broadcast="20" score_limit="500" advance="0" rank_refresh="5" mail_canyu="90302" mail_promote="90303" mail_final="90304" mail_mobai="90305" insufficient_quota="20"/>
+	</Group>
+</tns:database>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="doomsdaynote">
+        
+	<ItemSpec id="10001" chapter="1" type="7" icon="B_Icon_TaskNote_04" description="110010212" introduction="110083134" title="110010272" words="110010194" picture="noteBook_picture6" reward="860001" rewardShow="2000" figure="258" cardPicture="guide_maleLead" />
+    <ItemSpec id="10002" chapter="1" type="7" icon="B_Icon_TaskNote_04" description="110010274" introduction="110083136" title="110010274" words="110010190" picture="noteBook_picture5" reward="860001" rewardShow="2000" figure="294" cardPicture="guide_nike" />
+    <ItemSpec id="10003" chapter="1" type="7" icon="B_Icon_TaskNote_04" description="110010214" introduction="110083135" title="110010276" words="110010191" picture="noteBook_picture4" reward="860001" rewardShow="2000" figure="259" cardPicture="guide_aida" />
+
+    <ItemSpec id="10005" chapter="1" type="1" icon="B_Icon_TaskNote_02" description="110010154" title="110010154" words="110010195" reward="860001" rewardShow="2000" task="2501102" />
+    <ItemSpec id="10007" chapter="1" type="1" icon="B_Icon_TaskNote_02" description="110010152" title="110010152" words="110010197" reward="860001" rewardShow="2000" task="2501104" />
+    <ItemSpec id="10008" chapter="1" type="2" icon="B_Icon_TaskNote_04" description="110010155" title="110010155" words="110010198" picture="noteBook_picture9" reward="860001" rewardShow="2000" task="2501105" />
+
+    <ItemSpec id="20001" chapter="2" type="1" icon="B_Icon_TaskNote_02" description="110010157" title="110010157" words="110010199" reward="860001" rewardShow="2000" />
+    <ItemSpec id="20002" chapter="2" type="1" icon="B_Icon_TaskNote_02" description="110010153" title="110010153" words="110010201" reward="860001" rewardShow="2000" />
+    <ItemSpec id="20003" chapter="2" type="1" icon="B_Icon_TaskNote_02" description="110010159" title="110010159" words="110010202" reward="860001" rewardShow="2000" />
+    <ItemSpec id="20004" chapter="2" type="2" icon="B_Icon_TaskNote_04" description="110010160" title="110010160" picture="noteBook_picture1" reward="860001" rewardShow="2000" task="2501203" />
+    <ItemSpec id="20005" chapter="2" type="1" icon="B_Icon_TaskNote_02" description="110010158" title="110010158" words="110010204" reward="860001" rewardShow="2000" task="2501204" />
+    <ItemSpec id="20006" chapter="2" type="1" icon="B_Icon_TaskNote_02" description="110010169" title="110010169" words="110010205" reward="860001" rewardShow="2000" task="2501205" />
+    <ItemSpec id="30001" chapter="3" type="5" icon="B_Icon_TaskNote_04" description="83200114" introduction="110010189" reward="860001" rewardShow="2000" buildId="477000" />
+    <ItemSpec id="30002" chapter="3" type="1" icon="B_Icon_TaskNote_02" description="110010156" title="110010156" words="110010207" reward="860001" rewardShow="2000" />
+
+    <ItemSpec id="30004" chapter="3" type="1" icon="B_Icon_TaskNote_02" description="110010163" title="110010163" words="110010209" reward="860001" rewardShow="2000" />
+    <ItemSpec id="30005" chapter="3" type="1" icon="B_Icon_TaskNote_02" description="110010161" title="110010161" words="110010210" reward="860001" rewardShow="2000" />
+    <ItemSpec id="30006" chapter="3" type="1" icon="B_Icon_TaskNote_02" description="110010164" title="110010164" words="110010211" reward="860001" rewardShow="2000" />
+    <ItemSpec id="30007" chapter="3" type="1" icon="B_Icon_TaskNote_02" description="110010166" title="110010166" words="110010217" reward="860001" rewardShow="2000" />
+    <ItemSpec id="40001" chapter="4" type="5" icon="B_Icon_TaskNote_04" description="102024" introduction="110010241" reward="860001" rewardShow="2000" buildId="427000" />
+    <ItemSpec id="40002" chapter="4" type="1" icon="B_Icon_TaskNote_02" description="110010165" title="110010165" words="110010219" reward="860001" rewardShow="2000" />
+    <ItemSpec id="40003" chapter="4" type="1" icon="B_Icon_TaskNote_02" description="110010167" title="110010167" words="110010220" reward="860001" rewardShow="2000" />
+    
+	<ItemSpec id="40005" chapter="4" type="1" icon="B_Icon_TaskNote_02" description="110010169" title="110010169" words="110010221" reward="860001" rewardShow="2000" task="2500403" />
+    <ItemSpec id="40006" chapter="4" type="1" icon="B_Icon_TaskNote_02" description="110010170" title="110010170" words="110010222" reward="860001" rewardShow="2000" task="2500403" />
+
+    <ItemSpec id="40008" chapter="4" type="1" icon="B_Icon_TaskNote_02" description="110010166" title="110010166" words="110010224" reward="860001" rewardShow="2000" task="2500301" />
+    <ItemSpec id="40009" chapter="4" type="1" icon="B_Icon_TaskNote_04" description="110010225" title="110010225" words="110010226" reward="860001" rewardShow="2000" task="2500308" />
+    <ItemSpec id="40010" chapter="4" type="4" icon="B_Icon_TaskNote_04" description="110010216" introduction="110010182" title="110010216" words="110010192" reward="860001" rewardShow="2000" heroId ="10009" task="2500308" />
+    <ItemSpec id="50001" chapter="5" type="2" icon="B_Icon_TaskNote_04" description="110010172" title="110010172" words="110010231" picture="noteBook_picture2" reward="860001" rewardShow="2000" />
+    <ItemSpec id="50002" chapter="5" type="1" icon="B_Icon_TaskNote_02" description="110010174" title="110010174" words="110010230" reward="860001" rewardShow="2000" />
+    <ItemSpec id="50003" chapter="5" type="4" icon="B_Icon_TaskNote_04" description="110010215" introduction="110010185" title="110010215" words="110010193" reward="860001" rewardShow="2000" heroId ="10010" />
+
+    <ItemSpec id="50005" chapter="5" type="1" icon="B_Icon_TaskNote_02" description="110010176" title="110010176" words="110010232" reward="860001" rewardShow="2000" task="2500500" />
+    <ItemSpec id="50006" chapter="5" type="1" icon="B_Icon_TaskNote_02" description="110010175" title="110010175" words="110010233" reward="860001" rewardShow="2000" task="2500500" />
+    <ItemSpec id="50007" chapter="5" type="5" icon="B_Icon_TaskNote_04" description="102003" introduction="110010242" reward="860001" rewardShow="2000" buildId="403000" />
+    <ItemSpec id="50008" chapter="5" type="1" icon="B_Icon_TaskNote_02" description="110010157" title="110010157" words="110010200" reward="860001" rewardShow="2000" task="2500405" />
+
+    <ItemSpec id="60001" chapter="6" type="5" icon="B_Icon_TaskNote_04" description="83200005" introduction="110010243" reward="860001" rewardShow="2000" buildId="435000" />
+    <ItemSpec id="60002" chapter="6" type="1" icon="B_Icon_TaskNote_02" description="110010177" title="110010177" words="110010238" reward="860001" rewardShow="2000" />
+	
+    <ItemSpec id="60004" chapter="6" type="1" icon="B_Icon_TaskNote_02" description="110010180" title="110010180" words="110010237" reward="860001" rewardShow="2000" />
+	
+    <ItemSpec id="60008" chapter="6" type="5" icon="B_Icon_TaskNote_04" description="83401308" introduction="110010244" reward="860001" rewardShow="2000" buildId="450000" />
+    <ItemSpec id="60009" chapter="6" type="2" icon="B_Icon_TaskNote_04" description="110010181" title="110010181" words="110010236" picture="noteBook_picture3" reward="860001" rewardShow="2000" task="2500413" />
+    <ItemSpec id="60011" chapter="6" type="5" icon="B_Icon_TaskNote_04" description="90821104" introduction="110010245" reward="860001" rewardShow="2000" buildId="429000" />
+    <ItemSpec id="60012" chapter="6" type="5" icon="B_Icon_TaskNote_04" description="102382" introduction="110010246" reward="860001" rewardShow="2000" buildId="483000" />
+    <ItemSpec id="60013" chapter="6" type="5" icon="B_Icon_TaskNote_04" description="110066" introduction="110010248" reward="860001" rewardShow="2000" buildId="486000" />
+    <ItemSpec id="60015" chapter="6" type="5" icon="B_Icon_TaskNote_04" description="90810009" introduction="110010247" reward="860001" rewardShow="2000" buildId="462000" />
+    <ItemSpec id="60016" chapter="6" type="5" icon="B_Icon_TaskNote_04" description="190980" introduction="110010249" reward="860001" rewardShow="2000" buildId="467000" />
+
+
+
+        </Group>
+
+    <Group id="sheet001">
+    <ItemSpec id="1001" Applicant="110010250" item="102160" ps="88000003" />
+    <ItemSpec id="1002" Applicant="110010251" item="110010255" ps="110010264" />
+    <ItemSpec id="1003" Applicant="90460007" item="110010256" ps="110010265" />
+    <ItemSpec id="1004" Applicant="110010252" item="110010257" ps="110010266" />
+    <ItemSpec id="1005" Applicant="110010251" item="110010255" />
+    <ItemSpec id="1006" Applicant="90460000" item="110010258" />
+    <ItemSpec id="1007" Applicant="90460000" item="110010259" ps="110010267" />
+    <ItemSpec id="1008" Applicant="83200317" item="110010260" />
+    <ItemSpec id="1009" Applicant="110010251" item="110010255" />
+    <ItemSpec id="1010" Applicant="110010253" item="110010261" ps="110010268" />
+    <ItemSpec id="1011" Applicant="110010254" item="110010261" ps="110010269" />
+    <ItemSpec id="1012" Applicant="110010251" item="110010262" ps="110010270" />
+    <ItemSpec id="1013" Applicant="[playername]" item="110010263" ps="110010271" />
+
+
+    </Group>
+
+
+
+
+</tns:database>

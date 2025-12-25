@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="activity_main">
+
+		<ItemSpec id="1001" serverIds="1-1480" start_time="2025/07/1 00:00:00" end_time="2025/07/29 00:00:00" stage="10011;10012" left_entrance="20011;20012;20013" scene_entrance="30011;30012;30013;30014;30015;30016;30017;30018" goods="510903;510904"/>
+		<ItemSpec id="1002" serverIds="1481-1485" start_time="2025/07/1 00:00:00" end_time="2025/07/29 00:00:00" stage="10021;10022" left_entrance="20021;20022;20023" scene_entrance="30021;30022;30023;30024;30025;30026" goods="510903;510904"/>
+
+	</Group>
+	<Group id="activity_stage">
+		<ItemSpec id="10021" stage="1" start_time="2025/07/01 00:00:00" end_time="2025/07/15 00:00:00" title="112184001" subtitle="112184002"/>
+		<ItemSpec id="10022" stage="2" start_time="2025/07/15 00:00:00" end_time="2025/07/29 00:00:00" title="112184001" subtitle="112184002"/>
+		<ItemSpec id="10011" stage="1" start_time="2025/07/01 00:00:00" end_time="2025/07/15 00:00:00" title="112184001" subtitle="112184002"/>
+		<ItemSpec id="10012" stage="2" start_time="2025/07/15 00:00:00" end_time="2025/07/29 00:00:00" title="112184001" subtitle="112184002"/>
+	</Group>
+	<Group id="left_entrance">
+		<ItemSpec id="20011" type="1" activity_id="57900" order="1" name="112155001" icon="ptn_znqjh_shuju"/>
+		<ItemSpec id="20012" type="1" activity_id="57814" order="2" name="110810235" icon="ptn_znqjh_youjian"/>
+		<ItemSpec id="20013" type="1" activity_id="58002" order="3" name="112184201" icon="ptn_znqjh_zhounianqing"/>
+		<ItemSpec id="20021" type="1" activity_id="57900" order="1" name="112155001" icon="ptn_znqjh_shuju"/>
+		<ItemSpec id="20022" type="1" activity_id="57814" order="2" name="110810235" icon="ptn_znqjh_youjian"/>
+		<ItemSpec id="20023" type="1" activity_id="58002" order="3" name="112184201" icon="ptn_znqjh_zhounianqing"/>
+	</Group>
+	<Group id="scene_entrance">
+		<ItemSpec id="30011" type="1" activity_id="57797" index="1" name="110112096" start_time="2025/07/01 00:00:00" end_time="2025/07/15 00:00:00"/>
+		<ItemSpec id="30012" type="2" activity_id="67" index="2" name="110281048" start_time="2025/07/01 00:00:00" end_time="2025/07/15 00:00:00"/>
+		<ItemSpec id="30013" type="1" activity_id="57149" index="3" name="110663365" start_time="2025/07/01 00:00:00" end_time="2025/07/08 00:00:00"/>
+		<ItemSpec id="30014" type="1" activity_id="58001" index="4" name="112184101" start_time="2025/07/01 00:00:00" end_time="2025/07/15 00:00:00"/>
+		<ItemSpec id="30015" type="1" activity_id="57821" index="5" name="111880225" start_time="2025/07/15 00:00:00" end_time="2025/07/29 00:00:00"/>
+		<ItemSpec id="30016" type="2" activity_id="67" index="6" name="110281048" start_time="2025/07/15 00:00:00" end_time="2025/07/29 00:00:00"/>
+		<ItemSpec id="30017" type="1" activity_id="57770" index="7" name="5602090" start_time="2025/07/15 00:00:00" end_time="2025/07/22 00:00:00"/>
+		<ItemSpec id="30018" type="1" activity_id="58001" index="8" name="112184101" start_time="2025/07/15 00:00:00" end_time="2025/07/29 00:00:00"/>
+		<ItemSpec id="30021" type="1" activity_id="57797" index="1" name="110112096" start_time="2025/07/01 00:00:00" end_time="2025/07/15 00:00:00"/>
+		<ItemSpec id="30022" type="1" activity_id="57149" index="2" name="110663365" start_time="2025/07/01 00:00:00" end_time="2025/07/08 00:00:00"/>
+		<ItemSpec id="30023" type="1" activity_id="58001" index="3" name="112184101" start_time="2025/07/01 00:00:00" end_time="2025/07/15 00:00:00"/>
+		<ItemSpec id="30024" type="1" activity_id="57821" index="5" name="111880225" start_time="2025/07/15 00:00:00" end_time="2025/07/29 00:00:00"/>
+		<ItemSpec id="30025" type="1" activity_id="57770" index="6" name="5602090" start_time="2025/07/15 00:00:00" end_time="2025/07/22 00:00:00"/>
+		<ItemSpec id="30026" type="1" activity_id="58001" index="7" name="112184101" start_time="2025/07/15 00:00:00" end_time="2025/07/29 00:00:00"/>
+	</Group>
+</tns:database>

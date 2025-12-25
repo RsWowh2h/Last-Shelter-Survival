@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="armyscore_type">
+    <ItemSpec id="1" name="111001002" armytype="1" position="1" order="1" quality="1" icon="zj_rk_img_1" server="all" season="4" version="2.0.9" />
+    <ItemSpec id="2" name="111001003" armytype="1" position="1" order="2" quality="2" lock="1" icon="zj_rk_img_1" server="all" season="4" version="2.0.9" />
+    <ItemSpec id="3" name="111001244" armytype="1" position="1" order="3" quality="3" lock="2" icon="zj_rk_img_1" server="all" season="4" version="2.0.9" />
+    <ItemSpec id="4" name="111001245" armytype="1" position="1" order="4" quality="3" lock="3" icon="zj_rk_img_1" server="all" season="4" version="2.0.9" />
+    <ItemSpec id="5" name="111001004" armytype="1" position="8" order="1" quality="1" lock="1" icon="zj_rk_img_2" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="6" name="111001343" armytype="1" position="8" order="2" quality="1" lock="5;2" icon="zj_rk_img_2" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="7" name="111001005" armytype="1" position="8" order="3" quality="1" lock="1" icon="zj_rk_img_7" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="8" name="111001344" armytype="1" position="8" order="4" quality="1" lock="7;2" icon="zj_rk_img_7" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="9" name="111001006" armytype="1" position="9" order="1" quality="2" lock="2" icon="zj_rk_img_1" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="10" name="111001007" armytype="1" position="9" order="2" quality="2" lock="9;3" icon="zj_rk_img_2" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="11" name="111001345" armytype="1" position="9" order="3" quality="3" lock="10;4" icon="zj_rk_img_2" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="12" name="111001348" armytype="1" position="9" order="4" quality="2" lock="3" icon="zj_rk_img_3" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="13" name="111001011" armytype="1" position="10" order="1" quality="3" lock="2" icon="zj_rk_img_6" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="14" name="111001352" armytype="1" position="10" order="2" quality="3" lock="13;3" icon="zj_rk_img_5" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="15" name="111001353" armytype="1" position="10" order="3" quality="3" lock="14;4" icon="zj_rk_img_5" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="16" name="111001354" armytype="1" position="10" order="4" quality="3" lock="15;11" icon="zj_rk_img_4" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="17" name="111001349" armytype="1" position="11" order="1" quality="2" icon="zj_rk_img_4" server="all" season="5" version="2.0.9"/>
+    <ItemSpec id="18" name="111001396" armytype="1" position="11" order="2" quality="3" lock="3;17" icon="zj_rk_img_4" server="all" season="5" version="2.0.9"/>
+    <ItemSpec id="19" name="111001350" armytype="1" position="11" order="3" quality="2" lock="3" icon="zj_rk_img_6" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="20" name="111001351" armytype="1" position="11" order="4" quality="3" lock="19;4" icon="zj_rk_img_6" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="21" name="111001251" armytype="1" position="12" order="1" quality="3" lock="4" icon="zj_rk_img_5" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="22" name="111001252" armytype="1" position="12" order="2" quality="3" lock="21" icon="zj_rk_img_5" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="23" name="110240762" armytype="1" position="12" order="3" quality="2" lock="12;4" icon="zj_rk_img_3" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="24" name="110240763" armytype="1" position="12" order="4" quality="2" lock="23;4" icon="zj_rk_img_3" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="25" name="110240764" armytype="1" position="13" order="1" quality="3" lock="22;16" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="26" name="110240765" armytype="1" position="13" order="2" quality="3" lock="25;16" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="27" name="110240766" armytype="1" position="13" order="3" quality="3" lock="26;16" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="28" name="110240767" armytype="1" position="13" order="4" quality="3" lock="27;16" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="29" name="110345031" armytype="1" position="14" order="1" quality="3" lock="28" icon="zj_rk_img_5" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="30" name="110345032" armytype="1" position="14" order="2" quality="3" lock="29" icon="zj_rk_img_5" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="31" name="110345033" armytype="1" position="14" order="3" quality="3" lock="24;26" icon="zj_rk_img_3" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="32" name="110345034" armytype="1" position="14" order="4" quality="3" lock="31" icon="zj_rk_img_3" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="33" name="110345035" armytype="1" position="15" order="1" quality="3" lock="29" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="34" name="110345036" armytype="1" position="15" order="2" quality="3" lock="33" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="35" name="110345037" armytype="1" position="15" order="3" quality="3" lock="34" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="36" name="110345038" armytype="1" position="15" order="4" quality="3" lock="35" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="37" name="110320300" armytype="1" position="16" order="1" quality="3" lock="36" icon="zj_rk_img_6" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="38" name="110320301" armytype="1" position="16" order="2" quality="3" lock="37" icon="zj_rk_img_2" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="39" name="110320302" armytype="1" position="16" order="3" quality="3" lock="38" icon="zj_rk_img_3" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="40" name="110320303" armytype="1" position="16" order="4" quality="3" lock="39" icon="zj_rk_img_4" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="41" name="110320304" armytype="1" position="17" order="1" quality="3" lock="40" icon="zj_rk_img_6" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="42" name="110320305" armytype="1" position="17" order="2" quality="3" lock="41" icon="zj_rk_img_2" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="43" name="110320306" armytype="1" position="17" order="3" quality="3" lock="42" icon="zj_rk_img_3" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="44" name="110320307" armytype="1" position="17" order="4" quality="3" lock="43" icon="zj_rk_img_4" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="45" name="110320308" armytype="1" position="18" order="1" quality="3" lock="44" icon="zj_rk_img_5" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="46" name="110320309" armytype="1" position="18" order="2" quality="3" lock="45" icon="zj_rk_img_7" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="47" name="110320310" armytype="1" position="18" order="3" quality="3" lock="46" icon="zj_rk_img_1" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="48" name="110320311" armytype="1" position="18" order="4" quality="3" lock="47" icon="zj_rk_img_4" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="49" name="110320312" armytype="1" position="19" order="1" quality="3" lock="48" icon="zj_rk_img_5" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="50" name="110320313" armytype="1" position="19" order="2" quality="3" lock="49" icon="zj_rk_img_7" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="51" name="110320314" armytype="1" position="19" order="3" quality="3" lock="50" icon="zj_rk_img_1" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="52" name="110320315" armytype="1" position="19" order="4" quality="3" lock="51" icon="zj_rk_img_4" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="53" name="110320327" armytype="1" position="2" order="1" quality="3" lock="4" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="54" name="110320316" armytype="1" position="2" order="2" quality="3" lock="53" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="55" name="110320317" armytype="1" position="2" order="3" quality="3" lock="54" icon="zj_rk_img_1" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="56" name="110320318" armytype="1" position="2" order="4" quality="3" lock="55" icon="zj_rk_img_1" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="57" name="110320319" armytype="1" position="3" order="1" quality="3" lock="56" icon="zj_rk_img_4" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="58" name="110320320" armytype="1" position="3" order="2" quality="3" lock="57" icon="zj_rk_img_4" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="59" name="110320321" armytype="1" position="3" order="3" quality="3" lock="58" icon="zj_rk_img_4" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="60" name="110320322" armytype="1" position="3" order="4" quality="3" lock="59" icon="zj_rk_img_4" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="61" name="110320323" armytype="1" position="4" order="1" quality="3" lock="60" icon="zj_rk_img_6" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="62" name="110320324" armytype="1" position="4" order="2" quality="3" lock="61" icon="zj_rk_img_6" server="all" season="12" version="2.0.9"/>
+    <ItemSpec id="63" name="110320325" armytype="1" position="4" order="3" quality="3" lock="62" icon="zj_rk_img_6" server="all" season="12" version="2.0.9"/>
+    <ItemSpec id="64" name="110320326" armytype="1" position="4" order="4" quality="3" lock="63" icon="zj_rk_img_6" server="all" season="12" version="2.0.9"/>
+	<ItemSpec id="65" name="112100028" armytype="1" position="5" order="1" quality="3" icon="zj_rk_img_7" server="all" season="12" version="2.0.9" lock="64"/>
+	<ItemSpec id="66" name="112100029" armytype="1" position="5" order="2" quality="3" icon="zj_rk_img_7" server="all" season="12" version="2.0.9" lock="65"/>
+	<ItemSpec id="67" name="112100030" armytype="1" position="5" order="3" quality="3" icon="zj_rk_img_7" server="all" season="12" version="2.0.9" lock="66"/>
+	<ItemSpec id="68" name="112100031" armytype="1" position="5" order="4" quality="3" icon="zj_rk_img_7" server="all" season="12" version="2.0.9" lock="67"/>
+	<!--兵种专精第8期2025/09火火-->
+    <ItemSpec id="69" name="112189011" armytype="1" position="6" order="1" quality="2" lock="55" icon="zj_rk_img_5" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="70" name="112189012" armytype="1" position="6" order="2" quality="2" lock="69" icon="zj_rk_img_5" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="71" name="112189013" armytype="1" position="6" order="3" quality="2" lock="70" icon="zj_rk_img_5" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="72" name="112189014" armytype="1" position="6" order="4" quality="2" lock="71" icon="zj_rk_img_5" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="73" name="112189015" armytype="1" position="7" order="1" quality="3" lock="72" icon="zj_rk_img_2" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="74" name="112189016" armytype="1" position="7" order="2" quality="3" lock="73" icon="zj_rk_img_2" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="75" name="112189017" armytype="1" position="7" order="3" quality="3" lock="74" icon="zj_rk_img_2" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="76" name="112189018" armytype="1" position="7" order="4" quality="3" lock="75" icon="zj_rk_img_2" server="all" season="12" version="2.0.9" />
+	
+	
+    <ItemSpec id="101" name="111001002" armytype="2" position="1" order="1" quality="1" icon="zj_rk_img_1" server="all" season="4" version="2.0.9" />
+    <ItemSpec id="102" name="111001003" armytype="2" position="1" order="2" quality="2" lock="101" icon="zj_rk_img_1" server="all" season="4" version="2.0.9" />
+    <ItemSpec id="103" name="111001244" armytype="2" position="1" order="3" quality="3" lock="102" icon="zj_rk_img_1" server="all" season="4" version="2.0.9" />
+    <ItemSpec id="104" name="111001245" armytype="2" position="1" order="4" quality="3" lock="103" icon="zj_rk_img_1" server="all" season="4" version="2.0.9" />
+    <ItemSpec id="105" name="111001004" armytype="2" position="8" order="1" quality="1" lock="101" icon="zj_rk_img_2" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="106" name="111001343" armytype="2" position="8" order="2" quality="1" lock="105;102" icon="zj_rk_img_2" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="107" name="111001005" armytype="2" position="8" order="3" quality="1" lock="101" icon="zj_rk_img_7" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="108" name="111001344" armytype="2" position="8" order="4" quality="1" lock="107;102" icon="zj_rk_img_7" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="109" name="111001006" armytype="2" position="9" order="1" quality="2" lock="102" icon="zj_rk_img_1" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="110" name="111001183" armytype="2" position="9" order="2" quality="2" lock="109;103" icon="zj_rk_img_2" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="111" name="111001347" armytype="2" position="9" order="3" quality="3" lock="110;104" icon="zj_rk_img_2" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="112" name="111001348" armytype="2" position="9" order="4" quality="2" lock="103" icon="zj_rk_img_3" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="113" name="111001011" armytype="2" position="10" order="1" quality="3" lock="102" icon="zj_rk_img_6" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="114" name="111001352" armytype="2" position="10" order="2" quality="3" lock="113;103" icon="zj_rk_img_5" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="115" name="111001353" armytype="2" position="10" order="3" quality="3" lock="114;104" icon="zj_rk_img_5" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="116" name="111001354" armytype="2" position="10" order="4" quality="3" lock="115;111" icon="zj_rk_img_4" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="117" name="111001349" armytype="2" position="11" order="1" quality="2" icon="zj_rk_img_4" server="all" season="5" version="2.0.9"/>
+    <ItemSpec id="118" name="111001396" armytype="2" position="11" order="2" quality="3" lock="103;117" icon="zj_rk_img_4" server="all" season="5" version="2.0.9"/>
+    <ItemSpec id="119" name="111001350" armytype="2" position="11" order="3" quality="3" lock="103" icon="zj_rk_img_6" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="120" name="111001351" armytype="2" position="11" order="4" quality="3" lock="119;104" icon="zj_rk_img_6" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="121" name="111001251" armytype="2" position="12" order="1" quality="3" lock="104" icon="zj_rk_img_5" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="122" name="111001252" armytype="2" position="12" order="2" quality="3" lock="121" icon="zj_rk_img_5" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="123" name="110240762" armytype="2" position="12" order="3" quality="2" lock="112;104" icon="zj_rk_img_3" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="124" name="110240763" armytype="2" position="12" order="4" quality="2" lock="123;104" icon="zj_rk_img_3" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="125" name="110240764" armytype="2" position="13" order="1" quality="3" lock="122;116" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="126" name="110240765" armytype="2" position="13" order="2" quality="3" lock="125;116" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="127" name="110240766" armytype="2" position="13" order="3" quality="3" lock="126;116" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="128" name="110240767" armytype="2" position="13" order="4" quality="3" lock="127;116" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="129" name="110345031" armytype="2" position="14" order="1" quality="3" lock="128" icon="zj_rk_img_5" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="130" name="110345032" armytype="2" position="14" order="2" quality="3" lock="129" icon="zj_rk_img_5" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="131" name="110345033" armytype="2" position="14" order="3" quality="3" lock="124;126" icon="zj_rk_img_3" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="132" name="110345034" armytype="2" position="14" order="4" quality="3" lock="131" icon="zj_rk_img_3" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="133" name="110345035" armytype="2" position="15" order="1" quality="3" lock="129" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="134" name="110345036" armytype="2" position="15" order="2" quality="3" lock="133" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="135" name="110345037" armytype="2" position="15" order="3" quality="3" lock="134" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="136" name="110345038" armytype="2" position="15" order="4" quality="3" lock="135" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="137" name="110320300" armytype="2" position="16" order="1" quality="3" lock="136" icon="zj_rk_img_6" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="138" name="110320301" armytype="2" position="16" order="2" quality="3" lock="137" icon="zj_rk_img_2" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="139" name="110320302" armytype="2" position="16" order="3" quality="3" lock="138" icon="zj_rk_img_3" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="140" name="110320303" armytype="2" position="16" order="4" quality="3" lock="139" icon="zj_rk_img_4" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="141" name="110320304" armytype="2" position="17" order="1" quality="3" lock="140" icon="zj_rk_img_6" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="142" name="110320305" armytype="2" position="17" order="2" quality="3" lock="141" icon="zj_rk_img_2" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="143" name="110320306" armytype="2" position="17" order="3" quality="3" lock="142" icon="zj_rk_img_3" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="144" name="110320307" armytype="2" position="17" order="4" quality="3" lock="143" icon="zj_rk_img_4" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="145" name="110320308" armytype="2" position="18" order="1" quality="3" lock="144" icon="zj_rk_img_5" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="146" name="110320309" armytype="2" position="18" order="2" quality="3" lock="145" icon="zj_rk_img_7" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="147" name="110320310" armytype="2" position="18" order="3" quality="3" lock="146" icon="zj_rk_img_1" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="148" name="110320311" armytype="2" position="18" order="4" quality="3" lock="147" icon="zj_rk_img_4" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="149" name="110320312" armytype="2" position="19" order="1" quality="3" lock="148" icon="zj_rk_img_5" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="150" name="110320313" armytype="2" position="19" order="2" quality="3" lock="149" icon="zj_rk_img_7" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="151" name="110320314" armytype="2" position="19" order="3" quality="3" lock="150" icon="zj_rk_img_1" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="152" name="110320315" armytype="2" position="19" order="4" quality="3" lock="151" icon="zj_rk_img_4" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="153" name="110320327" armytype="2" position="2" order="1" quality="3" lock="104" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="154" name="110320316" armytype="2" position="2" order="2" quality="3" lock="153" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="155" name="110320317" armytype="2" position="2" order="3" quality="3" lock="154" icon="zj_rk_img_1" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="156" name="110320318" armytype="2" position="2" order="4" quality="3" lock="155" icon="zj_rk_img_1" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="157" name="110320319" armytype="2" position="3" order="1" quality="3" lock="156" icon="zj_rk_img_4" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="158" name="110320320" armytype="2" position="3" order="2" quality="3" lock="157" icon="zj_rk_img_4" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="159" name="110320321" armytype="2" position="3" order="3" quality="3" lock="158" icon="zj_rk_img_4" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="160" name="110320322" armytype="2" position="3" order="4" quality="3" lock="159" icon="zj_rk_img_4" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="161" name="110320323" armytype="2" position="4" order="1" quality="3" lock="160" icon="zj_rk_img_6" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="162" name="110320324" armytype="2" position="4" order="2" quality="3" lock="161" icon="zj_rk_img_6" server="all" season="12" version="2.0.9"/>
+    <ItemSpec id="163" name="110320325" armytype="2" position="4" order="3" quality="3" lock="162" icon="zj_rk_img_6" server="all" season="12" version="2.0.9"/>
+    <ItemSpec id="164" name="110320326" armytype="2" position="4" order="4" quality="3" lock="163" icon="zj_rk_img_6" server="all" season="12" version="2.0.9"/>
+    <ItemSpec id="165" name="112100028" armytype="2" position="5" order="1" quality="3" icon="zj_rk_img_7" server="all" season="12" version="2.0.9" lock="164"/>
+	<ItemSpec id="166" name="112100029" armytype="2" position="5" order="2" quality="3" icon="zj_rk_img_7" server="all" season="12" version="2.0.9" lock="165"/>
+	<ItemSpec id="167" name="112100030" armytype="2" position="5" order="3" quality="3" icon="zj_rk_img_7" server="all" season="12" version="2.0.9" lock="166"/>
+	<ItemSpec id="168" name="112100031" armytype="2" position="5" order="4" quality="3" icon="zj_rk_img_7" server="all" season="12" version="2.0.9" lock="167"/>
+	<!--兵种专精第8期2025/09火火-->
+    <ItemSpec id="169" name="112189011" armytype="2" position="6" order="1" quality="2" lock="155" icon="zj_rk_img_5" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="170" name="112189012" armytype="2" position="6" order="2" quality="2" lock="169" icon="zj_rk_img_5" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="171" name="112189013" armytype="2" position="6" order="3" quality="2" lock="170" icon="zj_rk_img_5" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="172" name="112189014" armytype="2" position="6" order="4" quality="2" lock="171" icon="zj_rk_img_5" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="173" name="112189015" armytype="2" position="7" order="1" quality="3" lock="172" icon="zj_rk_img_2" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="174" name="112189016" armytype="2" position="7" order="2" quality="3" lock="173" icon="zj_rk_img_2" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="175" name="112189017" armytype="2" position="7" order="3" quality="3" lock="174" icon="zj_rk_img_2" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="176" name="112189018" armytype="2" position="7" order="4" quality="3" lock="175" icon="zj_rk_img_2" server="all" season="12" version="2.0.9" />
+	
+    <ItemSpec id="201" name="111001002" armytype="3" position="1" order="1" quality="1" icon="zj_rk_img_1" server="all" season="4" version="2.0.9" />
+    <ItemSpec id="202" name="111001003" armytype="3" position="1" order="2" quality="2" lock="201" icon="zj_rk_img_1" server="all" season="4" version="2.0.9" />
+    <ItemSpec id="203" name="111001244" armytype="3" position="1" order="3" quality="3" lock="202" icon="zj_rk_img_1" server="all" season="4" version="2.0.9" />
+    <ItemSpec id="204" name="111001245" armytype="3" position="1" order="4" quality="3" lock="203" icon="zj_rk_img_1" server="all" season="4" version="2.0.9" />
+    <ItemSpec id="205" name="111001004" armytype="3" position="8" order="1" quality="1" lock="201" icon="zj_rk_img_2" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="206" name="111001343" armytype="3" position="8" order="2" quality="1" lock="205;202" icon="zj_rk_img_2" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="207" name="111001005" armytype="3" position="8" order="3" quality="1" lock="201" icon="zj_rk_img_7" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="208" name="111001344" armytype="3" position="8" order="4" quality="1" lock="207;202" icon="zj_rk_img_7" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="209" name="111001006" armytype="3" position="9" order="1" quality="2" lock="202" icon="zj_rk_img_1" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="210" name="111001182" armytype="3" position="9" order="2" quality="2" lock="209;203" icon="zj_rk_img_2" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="211" name="111001346" armytype="3" position="9" order="3" quality="3" lock="210;204" icon="zj_rk_img_2" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="212" name="111001348" armytype="3" position="9" order="4" quality="2" lock="203" icon="zj_rk_img_3" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="213" name="111001011" armytype="3" position="10" order="1" quality="3" lock="202" icon="zj_rk_img_6" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="214" name="111001352" armytype="3" position="10" order="2" quality="3" lock="213;203" icon="zj_rk_img_5" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="215" name="111001353" armytype="3" position="10" order="3" quality="3" lock="214;204" icon="zj_rk_img_5" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="216" name="111001354" armytype="3" position="10" order="4" quality="3" lock="215;211" icon="zj_rk_img_4" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="217" name="111001349" armytype="3" position="11" order="1" quality="2" icon="zj_rk_img_4" server="all" season="5" version="2.0.9"/>
+    <ItemSpec id="218" name="111001396" armytype="3" position="11" order="2" quality="3" lock="203;217" icon="zj_rk_img_4" server="all" season="5" version="2.0.9"/>
+    <ItemSpec id="219" name="111001350" armytype="3" position="11" order="3" quality="3" lock="203" icon="zj_rk_img_6" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="220" name="111001351" armytype="3" position="11" order="4" quality="3" lock="219;204" icon="zj_rk_img_6" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="221" name="111001251" armytype="3" position="12" order="1" quality="3" lock="204" icon="zj_rk_img_5" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="222" name="111001252" armytype="3" position="12" order="2" quality="3" lock="221" icon="zj_rk_img_5" server="all" season="4" version="2.0.9"/>
+    <ItemSpec id="223" name="110240762" armytype="3" position="12" order="3" quality="2" lock="212;204" icon="zj_rk_img_3" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="224" name="110240763" armytype="3" position="12" order="4" quality="2" lock="223;204" icon="zj_rk_img_3" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="225" name="110240764" armytype="3" position="13" order="1" quality="3" lock="222;216" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="226" name="110240765" armytype="3" position="13" order="2" quality="3" lock="225;216" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="227" name="110240766" armytype="3" position="13" order="3" quality="3" lock="226;216" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="228" name="110240767" armytype="3" position="13" order="4" quality="3" lock="227;216" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="229" name="110345031" armytype="3" position="14" order="1" quality="3" lock="228" icon="zj_rk_img_5" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="230" name="110345032" armytype="3" position="14" order="2" quality="3" lock="229" icon="zj_rk_img_5" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="231" name="110345033" armytype="3" position="14" order="3" quality="3" lock="224;226" icon="zj_rk_img_3" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="232" name="110345034" armytype="3" position="14" order="4" quality="3" lock="231" icon="zj_rk_img_3" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="233" name="110345035" armytype="3" position="15" order="1" quality="3" lock="229" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="234" name="110345036" armytype="3" position="15" order="2" quality="3" lock="233" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="235" name="110345037" armytype="3" position="15" order="3" quality="3" lock="234" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="236" name="110345038" armytype="3" position="15" order="4" quality="3" lock="235" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="237" name="110320300" armytype="3" position="16" order="1" quality="3" lock="236" icon="zj_rk_img_6" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="238" name="110320301" armytype="3" position="16" order="2" quality="3" lock="237" icon="zj_rk_img_2" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="239" name="110320302" armytype="3" position="16" order="3" quality="3" lock="238" icon="zj_rk_img_3" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="240" name="110320303" armytype="3" position="16" order="4" quality="3" lock="239" icon="zj_rk_img_4" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="241" name="110320304" armytype="3" position="17" order="1" quality="3" lock="240" icon="zj_rk_img_6" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="242" name="110320305" armytype="3" position="17" order="2" quality="3" lock="241" icon="zj_rk_img_2" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="243" name="110320306" armytype="3" position="17" order="3" quality="3" lock="242" icon="zj_rk_img_3" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="244" name="110320307" armytype="3" position="17" order="4" quality="3" lock="243" icon="zj_rk_img_4" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="245" name="110320308" armytype="3" position="18" order="1" quality="3" lock="244" icon="zj_rk_img_5" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="246" name="110320309" armytype="3" position="18" order="2" quality="3" lock="245" icon="zj_rk_img_7" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="247" name="110320310" armytype="3" position="18" order="3" quality="3" lock="246" icon="zj_rk_img_1" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="248" name="110320311" armytype="3" position="18" order="4" quality="3" lock="247" icon="zj_rk_img_4" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="249" name="110320312" armytype="3" position="19" order="1" quality="3" lock="248" icon="zj_rk_img_5" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="250" name="110320313" armytype="3" position="19" order="2" quality="3" lock="249" icon="zj_rk_img_7" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="251" name="110320314" armytype="3" position="19" order="3" quality="3" lock="250" icon="zj_rk_img_1" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="252" name="110320315" armytype="3" position="19" order="4" quality="3" lock="251" icon="zj_rk_img_4" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="253" name="110320327" armytype="3" position="2" order="1" quality="3" lock="204" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="254" name="110320316" armytype="3" position="2" order="2" quality="3" lock="253" icon="zj_rk_img_1" server="all" season="6" version="2.0.9"/>
+    <ItemSpec id="255" name="110320317" armytype="3" position="2" order="3" quality="3" lock="254" icon="zj_rk_img_1" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="256" name="110320318" armytype="3" position="2" order="4" quality="3" lock="255" icon="zj_rk_img_1" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="257" name="110320319" armytype="3" position="3" order="1" quality="3" lock="256" icon="zj_rk_img_4" server="all" season="9" version="2.0.9"/>
+    <ItemSpec id="258" name="110320320" armytype="3" position="3" order="2" quality="3" lock="257" icon="zj_rk_img_4" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="259" name="110320321" armytype="3" position="3" order="3" quality="3" lock="258" icon="zj_rk_img_4" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="260" name="110320322" armytype="3" position="3" order="4" quality="3" lock="259" icon="zj_rk_img_4" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="261" name="110320323" armytype="3" position="4" order="1" quality="3" lock="260" icon="zj_rk_img_6" server="all" season="11" version="2.0.9"/>
+    <ItemSpec id="262" name="110320324" armytype="3" position="4" order="2" quality="3" lock="261" icon="zj_rk_img_6" server="all" season="12" version="2.0.9"/>
+    <ItemSpec id="263" name="110320325" armytype="3" position="4" order="3" quality="3" lock="262" icon="zj_rk_img_6" server="all" season="12" version="2.0.9"/>
+    <ItemSpec id="264" name="110320326" armytype="3" position="4" order="4" quality="3" lock="263" icon="zj_rk_img_6" server="all" season="12" version="2.0.9"/>
+	<ItemSpec id="265" name="112100028" armytype="3" position="5" order="1" quality="3" icon="zj_rk_img_7" server="all" season="12" version="2.0.9" lock="264"/>
+	<ItemSpec id="266" name="112100029" armytype="3" position="5" order="2" quality="3" icon="zj_rk_img_7" server="all" season="12" version="2.0.9" lock="265"/>
+	<ItemSpec id="267" name="112100030" armytype="3" position="5" order="3" quality="3" icon="zj_rk_img_7" server="all" season="12" version="2.0.9" lock="266"/>
+	<ItemSpec id="268" name="112100031" armytype="3" position="5" order="4" quality="3" icon="zj_rk_img_7" server="all" season="12" version="2.0.9" lock="267"/>
+	<!--兵种专精第8期2025/09火火-->
+    <ItemSpec id="269" name="112189011" armytype="3" position="6" order="1" quality="2" lock="255" icon="zj_rk_img_5" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="270" name="112189012" armytype="3" position="6" order="2" quality="2" lock="269" icon="zj_rk_img_5" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="271" name="112189013" armytype="3" position="6" order="3" quality="2" lock="270" icon="zj_rk_img_5" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="272" name="112189014" armytype="3" position="6" order="4" quality="2" lock="271" icon="zj_rk_img_5" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="273" name="112189015" armytype="3" position="7" order="1" quality="3" lock="272" icon="zj_rk_img_2" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="274" name="112189016" armytype="3" position="7" order="2" quality="3" lock="273" icon="zj_rk_img_2" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="275" name="112189017" armytype="3" position="7" order="3" quality="3" lock="274" icon="zj_rk_img_2" server="all" season="12" version="2.0.9" />
+    <ItemSpec id="276" name="112189018" armytype="3" position="7" order="4" quality="3" lock="275" icon="zj_rk_img_2" server="all" season="12" version="2.0.9" />
+
+	</Group> 
+</tns:database>

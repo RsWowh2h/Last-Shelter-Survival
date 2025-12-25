@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="region_task">
+ 
+<!-- 旧阵营任务 -->
+    <ItemSpec id="1001" faction_info_id="faction_info" faction_lv_reward_id="faction_lv_reward" faction_tasks_id="faction_tasks" />
+
+<!-- 新阵营任务1（新四阵营版） -->
+    <ItemSpec id="1002" faction_info_id="faction_info" faction_lv_reward_id="faction_lv_reward" faction_tasks_id="faction_tasks1" />
+
+<!-- 新阵营任务2（新军功南北版） -->
+    <ItemSpec id="1003" faction_info_id="faction_info" faction_lv_reward_id="faction_lv_reward" faction_tasks_id="faction_tasks2" />
+
+<!-- 新阵营任务3（无军功版） -->
+    <ItemSpec id="1004" faction_info_id="faction_info" faction_lv_reward_id="faction_lv_reward" faction_tasks_id="faction_tasks3" />
+
+<!-- 插旗阵营任务（新故事） -->
+    <ItemSpec id="1006" faction_info_id="faction_info3" faction_lv_reward_id="faction_lv_reward" faction_tasks_id="faction_tasks3" />
+
+<!-- 南北阵营任务（新故事） -->
+    <ItemSpec id="1007" faction_info_id="faction_info4" faction_lv_reward_id="faction_lv_reward" faction_tasks_id="faction_tasks3" />
+
+<!-- 南北军功阵营任务-赛季英雄版 -->
+    <ItemSpec id="1008" faction_info_id="faction_info4" faction_lv_reward_id="faction_lv_reward6" faction_tasks_id="faction_tasks6" />
+
+<!-- 南北军功-赛季英雄版 -->
+    <ItemSpec id="1009" faction_info_id="faction_info4" faction_lv_reward_id="faction_lv_reward" faction_tasks_id="faction_tasks7" />
+
+<!-- 凛冬赛季-委托刷新卡 -->
+    <ItemSpec id="1010" faction_info_id="faction_info" faction_lv_reward_id="faction_lv_reward" faction_tasks_id="faction_tasks8" />
+
+
+    </Group> 
+
+</tns:database>

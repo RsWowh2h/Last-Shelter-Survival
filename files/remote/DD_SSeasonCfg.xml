@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<Group id="season_1">
+
+    <ItemSpec id="1" index="1" type="1" name="110288007" des="110288011" pic="season_1.png" para="751;500" paraDes="110288019" paraShowVal="500" eventWeight="10001,100;10002,100;10003,100" typeWeight="1,100;2,50;3,20;4,20;5,10;6,0;7,0;8,0;9,33"/>
+    <ItemSpec id="2" index="2" type="2" name="110288008" des="110288012" pic="season_2.png" para="50002;15" paraDes="110288020" paraShowVal="15" eventWeight="10004,100;10005,100;10006,100" typeWeight="1,100;2,50;3,20;4,20;5,10;6,0;7,0;8,0;9,33"/>
+    <ItemSpec id="3" index="3" type="3" name="110288009" des="110288013" pic="season_3.png" para="50003;10" paraDes="110288021" paraShowVal="10" eventWeight="10007,100;10008,100;10009,100" typeWeight="1,100;2,50;3,20;4,20;5,10;6,0;7,0;8,0;9,33"/>
+    <ItemSpec id="4" index="4" type="4" name="110288010" des="110288014" pic="season_4.png" para="50001;20" paraDes="110288022" paraShowVal="20" eventWeight="10010,100;10011,100;10012,100" typeWeight="1,100;2,50;3,20;4,20;5,10;6,20;7,20;8,10;9,33"/>
+
+  </Group>
+
+
+
+
+
+</tns:database>

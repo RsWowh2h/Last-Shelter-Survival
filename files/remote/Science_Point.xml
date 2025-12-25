@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="Science_Point">
+    <ItemSpec id="1000" connect="1101;1301;1001;1002" type="100" default="1" needLv="1" maxLv="1" x="2000" y="3000" icon="Skill_icon_ZJIC" icon_info="Skill_icon_ZJIC" size="100" frame="FB_jinengshu_l_kuang" framedark="FB_jinengshu_l_kuang" />
+    <ItemSpec id="1001" connect="1107;1000" type="100" default="1" needLv="1" maxLv="1" x="1100" y="3300" icon="Skill_icon_ZJIC" icon_info="Skill_icon_ZJIC" size="100" frame="FB_jinengshu_l_kuang" framedark="FB_jinengshu_l_kuang" />
+    <ItemSpec id="1002" connect="1207;1307;1000" type="100" default="1" needLv="1" maxLv="1" x="3000" y="3300" icon="Skill_icon_ZJIC" icon_info="Skill_icon_ZJIC" size="100" frame="FB_jinengshu_l_kuang" framedark="FB_jinengshu_l_kuang" />
+    <ItemSpec id="1101" noLimitLvUP="1" connect="1000;1102;1103" type="100" needLv="1" needTalent="1000_0" maxLv="3" x="1700" y="2800" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_zixhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1102" connect="1101;1104" type="100" needLv="1" needTalent="1101_3" maxLv="5" x="1575" y="2670" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_zixhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1103" connect="1101;1104" type="100" needLv="1" needTalent="1101_3" maxLv="5" x="1825" y="2670" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_zixhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1104" connect="1102;1103;1105;1106" type="100" needLv="1" needTalent="1102_5|1103_5" maxLv="3" x="1700" y="2540" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_zixhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1105" connect="1104;1110" type="100" needLv="1" needTalent="1104_3" maxLv="5" x="1575" y="2410" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_zixhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1106" connect="1104;1110" type="100" needLv="1" needTalent="1104_3" maxLv="5" x="1825" y="2410" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_zixhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1107" noLimitLvUP="1" connect="1502;1602;1001" type="100" needLv="1" needTalent="1113_5;1001_0" maxLv="3" x="1100" y="3000" icon="Skill_icon_sbslzj" icon_info="Skill_icon_sbslzj" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+
+
+    <ItemSpec id="1110" connect="1105;1106" type="100" needLv="1" needTalent="1105_5|1106_5" maxLv="5" x="1700" y="2280" icon="Skill_icon_djxhjs" icon_info="Skill_icon_djxhjs" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+    <ItemSpec id="1111" type="100" needLv="1" maxLv="3" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_zixhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1112" type="100" needLv="1" maxLv="3" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_zixhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1113" connect="1110;1210" type="100" needLv="1" needTalent="1110_5|1210_5" maxLv="5" x="2000" y="2080" icon="Skill_icon_kejixiaoguo" icon_info="Skill_icon_kejixiaoguo" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+    <ItemSpec id="1201" connect="1113;1202;1203" type="100" needLv="1" needTalent="1113_5" maxLv="3" x="2300" y="1880" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_cxsjzj" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1202" connect="1201;1204" type="100" needLv="1" needTalent="1201_3" maxLv="5" x="2175" y="1750" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_cxsjzj" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1203" connect="1201;1204" type="100" needLv="1" needTalent="1201_3" maxLv="5" x="2425" y="1750" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_cxsjzj" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1204" connect="1202;1203;1205;1206" type="100" needLv="1" needTalent="1202_5|1203_5" maxLv="3" x="2300" y="1620" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_cxsjzj" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1205" connect="1204;1410" type="100" needLv="1" needTalent="1204_3" maxLv="5" x="2175" y="1490" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_cxsjzj" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1206" connect="1204;1410" type="100" needLv="1" needTalent="1204_3" maxLv="5" x="2425" y="1490" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_cxsjzj" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1207" noLimitLvUP="1" connect="1407;1002" type="100" needLv="1" needTalent="1113_5;1002_0" maxLv="3" x="3125" y="3000" icon="Skill_icon_sbsl" icon_info="Skill_icon_sbsl" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+
+
+    <ItemSpec id="1210" connect="1305;1306" type="100" needLv="1" needTalent="1305_5|1306_5" maxLv="5" x="2300" y="2280" icon="Skill_icon_djxhjs" icon_info="Skill_icon_djxhjs" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+
+
+    <ItemSpec id="1213" connect="1310;1410" type="100" needLv="1" needTalent="1410_5|1310_5" maxLv="5" x="2000" y="1160" icon="Skill_icon_kejixiaoguo" icon_info="Skill_icon_kejixiaoguo" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+    <ItemSpec id="1214" connect="1410" type="100" needLv="1" needTalent="1410_5" maxLv="2" x="2425" y="1230" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_cxsjzj" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1301" noLimitLvUP="1" connect="1000;1302;1303" type="100" needLv="1" needTalent="1000_0" maxLv="3" x="2300" y="2800" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_jbxhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1302" connect="1301;1304" type="100" needLv="1" needTalent="1301_3" maxLv="5" x="2175" y="2670" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_jbxhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1303" connect="1301;1304" type="100" needLv="1" needTalent="1301_3" maxLv="5" x="2425" y="2670" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_jbxhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1304" connect="1302;1303;1305;1306" type="100" needLv="1" needTalent="1302_5|1303_5" maxLv="3" x="2300" y="2540" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_jbxhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1305" connect="1304;1210" type="100" needLv="1" needTalent="1304_3" maxLv="5" x="2175" y="2410" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_jbxhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1306" connect="1304;1210" type="100" needLv="1" needTalent="1304_3" maxLv="5" x="2425" y="2410" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_jbxhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1307" noLimitLvUP="1" connect="1407;1002" type="100" needLv="1" needTalent="1113_5;1002_0" maxLv="3" x="2875" y="3000" icon="Skill_icon_sbgj" icon_info="Skill_icon_sbgj" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+
+
+    <ItemSpec id="1310" connect="1405;1406;1213" type="100" needLv="1" needTalent="1405_5|1406_5" maxLv="5" x="1700" y="1360" icon="Skill_icon_djxhjs" icon_info="Skill_icon_djxhjs" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+
+
+    <ItemSpec id="1313" connect="1703;1704;1803;1804" type="100" needLv="1" needTalent="1803_5;1703_5" maxLv="5" x="1100" y="1630" icon="Skill_icon_kejixiaoguo" icon_info="Skill_icon_kejixiaoguo" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+    <ItemSpec id="1401" connect="1113;1402;1403" type="100" needLv="1" needTalent="1113_5" maxLv="3" x="1700" y="1880" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_yjsjjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1402" connect="1401;1404" type="100" needLv="1" needTalent="1401_3" maxLv="5" x="1575" y="1750" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_yjsjjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1403" connect="1401;1404" type="100" needLv="1" needTalent="1401_3" maxLv="5" x="1825" y="1750" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_yjsjjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1404" connect="1402;1403;1405;1406" type="100" needLv="1" needTalent="1402_5|1403_5" maxLv="3" x="1700" y="1620" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_yjsjjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1405" connect="1404;1310" type="100" needLv="1" needTalent="1404_3" maxLv="5" x="1575" y="1490" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_yjsjjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1406" connect="1404;1310" type="100" needLv="1" needTalent="1404_3" maxLv="5" x="1825" y="1490" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_yjsjjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1407" connect="1207;1307;1901;1903" type="100" needLv="1" needTalent="1207_3|1307_3" maxLv="3" x="3000" y="2870" icon="Skill_icon_sbsm" icon_info="Skill_icon_sbsm" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+
+
+    <ItemSpec id="1410" connect="1205;1206;1213" type="100" needLv="1" needTalent="1205_5|1206_5" maxLv="5" x="2300" y="1360" icon="Skill_icon_djxhjs" icon_info="Skill_icon_djxhjs" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+
+
+    <ItemSpec id="1413" connect="2011;2012;1902;1904" type="100" needLv="1" needTalent="2011_5;2012_5" maxLv="5" x="3000" y="2350" icon="Skill_icon_kejixiaoguo" icon_info="Skill_icon_kejixiaoguo" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+    <ItemSpec id="1414" connect="1310" type="100" needLv="1" needTalent="1310_5" maxLv="2" x="1575" y="1230" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_yjsjjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1501" connect="1504;1603" type="100" needLv="1" needTalent="1504_5;1213_5" maxLv="3" x="1225" y="2280" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_zixhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1502" connect="1107;1503" type="100" needLv="1" needTalent="1107_3" maxLv="3" x="1225" y="2800" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_zixhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1503" connect="1502;1602;1702;1802" type="100" needLv="1" needTalent="1502_3|1602_3" maxLv="5" x="1100" y="2670" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_zixhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1504" connect="1702;1802;1501;1601" type="100" needLv="1" needTalent="1802_3|1702_3" maxLv="5" x="1100" y="2410" icon="Skill_icon_sbgj" icon_info="Skill_icon_sbgj" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+    <ItemSpec id="1601" connect="1504;1603" type="100" needLv="1" needTalent="1504_5;1213_5" maxLv="3" x="975" y="2280" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_zixhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1602" connect="1107;1503" type="100" needLv="1" needTalent="1107_3" maxLv="3" x="975" y="2800" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_zixhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1603" connect="1501;1601;1701;1801" type="100" needLv="1" needTalent="1601_3|1501_3" maxLv="5" x="1100" y="2150" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_zixhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1604" connect="1701;1801;1703;1803" type="100" needLv="1" needTalent="1701_3|1801_3" maxLv="5" x="1100" y="1890" icon="Skill_icon_sbgj" icon_info="Skill_icon_sbgj" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+    <ItemSpec id="1701" connect="1603;1604" type="100" needLv="1" needTalent="1603_5" maxLv="3" x="1225" y="2020" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_zixhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1702" connect="1503;1504" type="100" needLv="1" needTalent="1503_5" maxLv="3" x="1225" y="2540" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_zixhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1703" connect="1604;1313" type="100" needLv="1" needTalent="1604_5" maxLv="5" x="975" y="1760" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_zixhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1704" connect="1313" type="100" needLv="1" needTalent="1313_5" maxLv="5" x="975" y="1500" icon="Skill_icon_sbgj" icon_info="Skill_icon_sbgj" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+    <ItemSpec id="1801" connect="1603;1604" type="100" needLv="1" needTalent="1603_5" maxLv="3" x="975" y="2020" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_zixhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1802" connect="1503;1504" type="100" needLv="1" needTalent="1503_5" maxLv="3" x="975" y="2540" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_zixhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1803" connect="1604;1313" type="100" needLv="1" needTalent="1604_5" maxLv="5" x="1225" y="1760" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_zixhjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="1804" connect="1313" type="100" needLv="1" needTalent="1313_5" maxLv="5" x="1225" y="1500" icon="Skill_icon_sbgj" icon_info="Skill_icon_sbgj" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+    <ItemSpec id="1901" connect="1407;2001;2002" type="100" needLv="1" needTalent="1407_3;1213_5" maxLv="5" x="2875" y="2740" icon="Skill_icon_sbgj" icon_info="Skill_icon_sbgj" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+    <ItemSpec id="1902" connect="1413;2013" type="100" needLv="1" needTalent="1413_5" maxLv="5" x="2875" y="2220" icon="Skill_icon_sbgj" icon_info="Skill_icon_sbgj" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+    <ItemSpec id="1903" connect="1407;2002;2003" type="100" needLv="1" needTalent="1407_3;1213_5" maxLv="5" x="3125" y="2740" icon="Skill_icon_sbsl" icon_info="Skill_icon_sbsl" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+    <ItemSpec id="1904" connect="1413;2013" type="100" needLv="1" needTalent="1413_5" maxLv="5" x="3125" y="2220" icon="Skill_icon_sbsl" icon_info="Skill_icon_sbsl" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+    <ItemSpec id="2001" connect="1901;2011" type="100" needLv="1" needTalent="1901_5" maxLv="5" x="2750" y="2610" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_yjsjjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="2002" connect="1901;1903;2011;2012" type="100" needLv="1" needTalent="1901_5|1903_5" maxLv="5" x="3000" y="2610" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_yjsjjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="2003" connect="1903;2012" type="100" needLv="1" needTalent="1903_5" maxLv="5" x="3250" y="2610" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_yjsjjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="2011" connect="2001;2002;1413" type="100" needLv="1" needTalent="2001_5|2002_5" maxLv="5" x="2875" y="2480" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_yjsjjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="2012" connect="2002;2003;1413" type="100" needLv="1" needTalent="2002_5|2003_5" maxLv="5" x="3125" y="2480" icon="Skill_icon_lanxiaodian" icon_info="Skill_icon_yjsjjs" size="50" frame="FB_jinengshu_5_kuang" framedark="FB_jinengshu_4_kuang" />
+    <ItemSpec id="2013" connect="1902;1904" type="100" needLv="1" needTalent="1902_5|1904_5" maxLv="5" x="3000" y="2090" icon="Skill_icon_djxhjs" icon_info="Skill_icon_djxhjs" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+    <ItemSpec id="2021" connect="2013" type="100" needLv="1" needTalent="2013_5" maxLv="5" x="3200" y="1960" icon="Skill_icon_sbsl" icon_info="Skill_icon_sbsl" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+    <ItemSpec id="2022" connect="2013" type="100" needLv="1" needTalent="2013_5" maxLv="5" x="2800" y="1960" icon="Skill_icon_sbgj" icon_info="Skill_icon_sbgj" size="75" frame="FB_jinengshu_3_kuang" framedark="FB_jinengshu_2_kuang" />
+
+
+	</Group> 
+</tns:database>

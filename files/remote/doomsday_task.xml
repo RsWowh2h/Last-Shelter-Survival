@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="doomsday_task">
+
+	<ItemSpec quest="243037" id="1" type="6" type1="1" type2="108" para2="3" reward="50" dialog_para="133125" show="1" Order="1" icon1="quest_BigCastle_icon1" gotype="32" />
+	<ItemSpec quest="243038" id="2" type="6" type1="1" type2="63" para2="2" reward="50" dialog_para="800009" show="1" Order="2" icon1="item200064"  gotype="14" go="483000" />
+    <ItemSpec quest="243039" id="3" type="6" type1="1" type2="26" para2="2" reward="50" dialog_para="133146" show="1" Order="3" icon1="quest_Monster0_icon1" gotype="22"  />
+    <ItemSpec quest="243040" id="4" type="6" type1="2" type2="99" para2="10" reward="200" dialog_para="90551040" show="2" Order="4" icon1="scws_icon_dy" gotype="22" />
+    <ItemSpec quest="243041" id="5" type="6" type1="3" type2="26" para2="10" reward="200" dialog_para="133146" show="3" Order="5" icon1="quest_Monster0_icon1" gotype="22"  />
+    <ItemSpec quest="243042" id="6" type="6" type1="3" type2="63" para2="15" reward="150" dialog_para="800009" show="3" Order="6" icon1="item200064" gotype="14" go="483000" />
+    <ItemSpec quest="243043" id="7" type="6" type1="3" type2="23" para2="50000" reward="200" dialog_para="83401162" show="3" Order="7" icon1="quest_Farm_icon1" gotype="4" />
+    <ItemSpec quest="243044" id="8" type="6" type1="2" type2="117" para2="1440" reward="250" dialog_para="90551035" show="2" Order="8" icon1="item207" gotype="32"  />
+    <ItemSpec quest="243051" id="9" type="6" type1="2" type2="123" para2="5000" reward="200" dialog_para="133148" show="3" Order="15" icon1="quest_Range_icon1" gotype="2" go="425000" />
+    <ItemSpec quest="243046" id="10" type="6" type1="2" type2="55" para2="50" reward="200" dialog_para="133131" show="2" Order="10" icon1="quest_Embassy_icon1" gotype="9" />
+    <ItemSpec quest="243047" id="11" type="6" type1="3" type2="63" para2="10" reward="250" dialog_para="800010" show="3" Order="11" icon1="item200056" gotype="14" go="483000" />
+    <ItemSpec quest="243048" id="12" type="6" type1="2" type2="123" para2="5000" reward="200" dialog_para="133118" show="2" Order="12" icon1="quest_Barrack_icon1" gotype="2" go="423000" />
+    <ItemSpec quest="243049" id="13" type="6" type1="3" type2="63" para2="10" reward="300" dialog_para="800011" show="3" Order="13" icon1="item200060" gotype="14" go="483000" />
+    <ItemSpec quest="243050" id="14" type="6" type1="2" type2="123" para2="5000" reward="200" dialog_para="133121" show="2" Order="14" icon1="quest_Stable_icon1" gotype="2" go="424000" />
+ 
+    <ItemSpec quest="243037" id="15" type="6" type1="1" type2="108" para2="3" reward="50" dialog_para="133125" show="1" Order="1" icon1="quest_BigCastle_icon1" gotype="32" />
+	<ItemSpec quest="243038" id="16" type="6" type1="1" type2="63" para2="2" reward="50" dialog_para="800009" show="1" Order="2" icon1="item200064"  gotype="14" go="483000" />
+    <ItemSpec quest="243039" id="17" type="6" type1="1" type2="26" para2="2" reward="50" dialog_para="133146" show="1" Order="3" icon1="quest_Monster0_icon1" gotype="22"  />
+    <ItemSpec quest="243040" id="18" type="6" type1="2" type2="99" para2="10" reward="200" dialog_para="90551040" show="2" Order="4" icon1="scws_icon_dy" gotype="22" />
+    <ItemSpec quest="243041" id="19" type="6" type1="3" type2="26" para2="10" reward="200" dialog_para="133146" show="3" Order="5" icon1="quest_Monster0_icon1" gotype="22"  />
+    <ItemSpec quest="243042" id="20" type="6" type1="3" type2="63" para2="15" reward="150" dialog_para="800009" show="3" Order="6" icon1="item200064" gotype="14" go="483000" />
+    <ItemSpec quest="243043" id="21" type="6" type1="3" type2="23" para2="50000" reward="200" dialog_para="83401162" show="3" Order="7" icon1="quest_Farm_icon1" gotype="4" />
+    <ItemSpec quest="243044" id="22" type="6" type1="2" type2="117" para2="1440" reward="250" dialog_para="90551035" show="2" Order="8" icon1="item207" gotype="32"  />
+    <ItemSpec quest="243051" id="23" type="6" type1="2" type2="123" para2="5000" reward="200" dialog_para="133148" show="3" Order="15" icon1="quest_Range_icon1" gotype="2" go="425000" />
+    <ItemSpec quest="243046" id="24" type="6" type1="2" type2="55" para2="50" reward="200" dialog_para="133131" show="2" Order="10" icon1="quest_Embassy_icon1" gotype="9" />
+    <ItemSpec quest="243047" id="25" type="6" type1="3" type2="63" para2="10" reward="250" dialog_para="800010" show="3" Order="11" icon1="item200056" gotype="14" go="483000" />
+    <ItemSpec quest="243048" id="26" type="6" type1="2" type2="123" para2="5000" reward="200" dialog_para="133118" show="2" Order="12" icon1="quest_Barrack_icon1" gotype="2" go="423000" />
+    <ItemSpec quest="243049" id="27" type="6" type1="3" type2="63" para2="10" reward="300" dialog_para="800011" show="3" Order="13" icon1="item200060" gotype="14" go="483000" />
+    <ItemSpec quest="243050" id="28" type="6" type1="2" type2="123" para2="5000" reward="200" dialog_para="133121" show="2" Order="14" icon1="quest_Stable_icon1" gotype="2" go="424000" />
+ 
+  
+
+ </Group>  
+
+
+
+
+</tns:database>

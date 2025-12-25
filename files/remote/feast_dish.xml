@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ 
+ 	<Group id="feast_dish">
+<!-- 沙拉 -->
+		<ItemSpec id="1" goods_id="650161" dish_type="1" dish_point="10" dish_alliance_point="10" urgent_dish_point="2" urgent_dish_alliance_point="2" dish_recipe="650144;1|650148;1" game_success="50" game_perfect="30" />
+		
+<!-- 布丁		 -->
+		<ItemSpec id="2" goods_id="650160" dish_type="1" dish_point="10" dish_alliance_point="10" urgent_dish_point="2" urgent_dish_alliance_point="2" dish_recipe="650144;1|650148;1" game_success="50" game_perfect="30" />		
+
+<!-- 炸肉排 -->
+		<ItemSpec id="3" goods_id="650159" dish_type="1" dish_point="15" dish_alliance_point="15" urgent_dish_point="3" urgent_dish_alliance_point="3" dish_recipe="650146;1|650147;1|650150;1" game_success="50" game_perfect="30" />	
+
+<!-- 煎鱼 -->
+		<ItemSpec id="4" goods_id="650156" dish_type="1" dish_point="15" dish_alliance_point="15" urgent_dish_point="3" urgent_dish_alliance_point="3" dish_recipe="650145;1|650153;1|650152;1" game_success="50" game_perfect="30" />	
+
+<!-- 海鲜 -->
+		<ItemSpec id="5" goods_id="650158" dish_type="1" dish_point="20" dish_alliance_point="20" urgent_dish_point="4" urgent_dish_alliance_point="4" dish_recipe="650155;1|650152;1|650153;1|650145;1" game_success="50" game_perfect="30" />	
+
+<!-- 烤鸡 -->
+		<ItemSpec id="6" goods_id="650157" dish_type="1" dish_point="20" dish_alliance_point="20" urgent_dish_point="4" urgent_dish_alliance_point="4" dish_recipe="650146;1|650147;1|650150;1|650155;1" game_success="50" game_perfect="30" />						
+
+	</Group>
+</tns:database>

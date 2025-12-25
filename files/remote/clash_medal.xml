@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="clash_medal">
+    <ItemSpec id="4400000" name="190910" tips="79022051;79022056" param="+10%;+10%" description="190935" icon="FB_IC_baiyangzuoduanwei" order="1" />
+    <ItemSpec id="4400001" name="190911" tips="79022051;79022056" param="+8%;+10%" description="190936" icon="FB_IC_chuanqiduanwei" star="FB_IC_xingxing4" order="2" />
+    <ItemSpec id="4400002" name="190912" tips="79022051;79022056" param="+7%;+10%" description="190936" icon="FB_IC_chuanqiduanwei" star="FB_IC_xingxing3" order="3" />
+    <ItemSpec id="4400003" name="190913" tips="79022051;79022056" param="+6%;+10%" description="190936" icon="FB_IC_chuanqiduanwei" star="FB_IC_xingxing2" order="4" />
+    <ItemSpec id="4400004" name="190914" tips="79022051;79022056" param="+5%;+10%" description="190936" icon="FB_IC_chuanqiduanwei" star="FB_IC_xingxing1" order="5" />
+    <ItemSpec id="4400005" name="190915" tips="79022051;79022056" param="+5%;+10%" description="190937" icon="FB_IC_shishiduanwei" star="FB_IC_xingxing5" order="6" />
+    <ItemSpec id="4400006" name="190916" tips="79022051;79022056" param="+5%;+8%" description="190937" icon="FB_IC_shishiduanwei" star="FB_IC_xingxing4" order="7" />
+    <ItemSpec id="4400007" name="190917" tips="79022051;79022056" param="+5%;+7%" description="190937" icon="FB_IC_shishiduanwei" star="FB_IC_xingxing3" order="8" />
+    <ItemSpec id="4400008" name="190918" tips="79022051;79022056" param="+5%;+6%" description="190937" icon="FB_IC_shishiduanwei" star="FB_IC_xingxing2" order="9" />
+    <ItemSpec id="4400009" name="190919" tips="79022051;79022056" param="+5%;+5%" description="190937" icon="FB_IC_shishiduanwei" star="FB_IC_xingxing1" order="10" />
+    <ItemSpec id="4400010" name="190920" tips="79022051;79022056" param="+5%;+5%" description="190938" icon="FB_IC_yingxiongduanwei" star="FB_IC_xingxing5" order="11" />
+    <ItemSpec id="4400011" name="190921" tips="79022051;79022056" param="+4.5%;+5%" description="190938" icon="FB_IC_yingxiongduanwei" star="FB_IC_xingxing4" order="12" />
+    <ItemSpec id="4400012" name="190922" tips="79022051;79022056" param="+4%;+5%" description="190938" icon="FB_IC_yingxiongduanwei" star="FB_IC_xingxing3" order="13" />
+    <ItemSpec id="4400013" name="190923" tips="79022051;79022056" param="+3.5%;+5%" description="190938" icon="FB_IC_yingxiongduanwei" star="FB_IC_xingxing2" order="14" />
+    <ItemSpec id="4400014" name="190924" tips="79022051;79022056" param="+3%;+5%" description="190938" icon="FB_IC_yingxiongduanwei" star="FB_IC_xingxing1" order="15" />
+    <ItemSpec id="4400015" name="190925" tips="79022051;79022056" param="+3%;+5%" description="190939" icon="FB_IC_yongzheduanwei" star="FB_IC_xingxing5" order="16" />
+    <ItemSpec id="4400016" name="190926" tips="79022051;79022056" param="+3%;+4.5%" description="190939" icon="FB_IC_yongzheduanwei" star="FB_IC_xingxing4" order="17" />
+    <ItemSpec id="4400017" name="190927" tips="79022051;79022056" param="+3%;+4%" description="190939" icon="FB_IC_yongzheduanwei" star="FB_IC_xingxing3" order="18" />
+    <ItemSpec id="4400018" name="190928" tips="79022051;79022056" param="+3%;+3.5%" description="190939" icon="FB_IC_yongzheduanwei" star="FB_IC_xingxing2" order="19" />
+    <ItemSpec id="4400019" name="190929" tips="79022051;79022056" param="+3%;+3%" description="190939" icon="FB_IC_yongzheduanwei" star="FB_IC_xingxing1" order="20" />
+    <ItemSpec id="4400020" name="190930" tips="79022051;79022056" param="+3%;+3%" description="190940" icon="FB_IC_jingyingduanwei" star="FB_IC_xingxing5" order="21" />
+    <ItemSpec id="4400021" name="190931" tips="79022051;79022056" param="+2.5%;+2.5%" description="190940" icon="FB_IC_jingyingduanwei" star="FB_IC_xingxing4" order="22" />
+    <ItemSpec id="4400022" name="190932" tips="79022051;79022056" param="+2%;+2%" description="190940" icon="FB_IC_jingyingduanwei" star="FB_IC_xingxing3" order="23" />
+    <ItemSpec id="4400023" name="190933" tips="79022051;79022056" param="+1.5%;+1.5%" description="190940" icon="FB_IC_jingyingduanwei" star="FB_IC_xingxing2" order="24" />
+    <ItemSpec id="4400024" name="190934" tips="79022051;79022056" param="+1%;+1%" description="190940" icon="FB_IC_jingyingduanwei" star="FB_IC_xingxing1" order="25" />
+    <ItemSpec id="4500000" type="1" name="90604051" tips="88001463;88001464" param="+5%;+5%" description="90604053" icon="Icon_saijiliwu1X" order="26" />
+    <ItemSpec id="4500001" type="1" name="90604054" tips="88001463" param="+5%" description="90604056" icon="Icon_saijiliwu2X" order="27" />
+    <ItemSpec id="4500002" type="1" name="90604057" tips="88001464" param="+5%" description="90604059" icon="Icon_saijiliwu3X" order="28" />
+    <ItemSpec id="4500003" type="1" name="90604074" tips="88001463;88001464" param="+10%;+10%" description="90604076" icon="Icon_saijiliwu4X" order="44" />
+
+    <ItemSpec id="4600000" type="2" name="110030315" tips="76601801;77110001" param="+70%;+30%" description="110690102" icon="FB_IC_shizixinxunzhang" star="FB_IC_xingxing5" order="29" time="56"/>
+    <ItemSpec id="4600001" type="2" name="110030316" tips="76601801;77110001" param="+65%;+25%" description="110690102" icon="FB_IC_shizixinxunzhang" star="FB_IC_xingxing4" order="30" time="56"/>
+    <ItemSpec id="4600002" type="2" name="110030317" tips="76601801;77110001" param="+60%;+20%" description="110690102" icon="FB_IC_shizixinxunzhang" star="FB_IC_xingxing3" order="31" time="56"/>
+    <ItemSpec id="4600003" type="2" name="110030318" tips="76601801;77110001" param="+55%;+15%" description="110690102" icon="FB_IC_shizixinxunzhang" star="FB_IC_xingxing2" order="32" time="56"/>
+    <ItemSpec id="4600004" type="2" name="110030319" tips="76601801;77110001" param="+50%;+10%" description="110690102" icon="FB_IC_shizixinxunzhang" star="FB_IC_xingxing1" order="33" time="56"/>
+    <ItemSpec id="4600010" type="2" name="110030320" tips="76601801;77110001" param="+45%;+30%" description="110690102" icon="FB_IC_buqulanghunxunzhang" star="FB_IC_xingxing5" order="34" time="56"/>
+    <ItemSpec id="4600011" type="2" name="110030321" tips="76601801;77110001" param="+40%;+25%" description="110690102" icon="FB_IC_buqulanghunxunzhang" star="FB_IC_xingxing4" order="35" time="56"/>
+    <ItemSpec id="4600012" type="2" name="110030322" tips="76601801;77110001" param="+35%;+20%" description="110690102" icon="FB_IC_buqulanghunxunzhang" star="FB_IC_xingxing3" order="36" time="56"/>
+    <ItemSpec id="4600013" type="2" name="110030323" tips="76601801;77110001" param="+30%;+15%" description="110690102" icon="FB_IC_buqulanghunxunzhang" star="FB_IC_xingxing2" order="37" time="56"/>
+    <ItemSpec id="4600014" type="2" name="110030324" tips="76601801;77110001" param="+25%;+10%" description="110690102" icon="FB_IC_buqulanghunxunzhang" star="FB_IC_xingxing1" order="38" time="56"/>
+    <ItemSpec id="4600020" type="2" name="110030325" tips="76601801;77110001" param="+20%;+30%" description="110690102" icon="FB_IC_jiminhumengxunzhang" star="FB_IC_xingxing5" order="39" time="56"/>
+    <ItemSpec id="4600021" type="2" name="110030326" tips="76601801;77110001" param="+15%;+25%" description="110690102" icon="FB_IC_jiminhumengxunzhang" star="FB_IC_xingxing4" order="40" time="56"/>
+    <ItemSpec id="4600022" type="2" name="110030327" tips="76601801;77110001" param="+10%;+20%" description="110690102" icon="FB_IC_jiminhumengxunzhang" star="FB_IC_xingxing3" order="41" time="56"/>
+    <ItemSpec id="4600023" type="2" name="110030328" tips="76601801;77110001" param="+5%;+15%" description="110690102" icon="FB_IC_jiminhumengxunzhang" star="FB_IC_xingxing2" order="42" time="56"/>
+    <ItemSpec id="4600024" type="2" name="110030329" tips="77110001" param="+10%" description="110030332" icon="FB_IC_jiminhumengxunzhang" star="FB_IC_xingxing1" order="43" time="56"/>
+
+    <ItemSpec id="4700001" type="3" name="90604077" description="90604081" icon="Icon_allstar3_big" order="44" />
+    <ItemSpec id="4700002" type="3" name="90604078" description="90604082" icon="Icon_allstar4_big" order="45" />
+    <ItemSpec id="4700003" type="3" name="90604079" description="90604083" icon="Icon_allstar2_big" order="46" />
+    <ItemSpec id="4700004" type="3" name="90604080" description="90604084" icon="Icon_allstar1_big" order="47" />
+
+    <ItemSpec id="4700021" type="4" name="110240281" description="110240285" icon="Icon_allstar21_big" order="48" />
+    <ItemSpec id="4700022" type="4" name="110240282" description="110240286" icon="Icon_allstar22_big" order="49" />
+    <ItemSpec id="4700023" type="4" name="110240283" description="110240287" icon="Icon_allstar23_big" order="50" />
+    <ItemSpec id="4700024" type="4" name="110240284" description="110240288" icon="Icon_allstar24_big" order="51" />
+
+<!--箱神，全明星2023七档勋章，可外显至战报，属性加成永久生效，从高到低，由物品获得，客户端不显示列表，获得后显示；动态spine效果默认判断是否有进行支持-->		
+    <ItemSpec id="4700101" type="4" name="110483085" tips="79022051;88001241" param="+12%;+3%" description="110483164" icon="Icon_allstar31_big" isSpine="1" order="52" />
+    <ItemSpec id="4700102" type="4" name="110483086" tips="79022051;88001241" param="+10%;+2%" description="110483165" icon="Icon_allstar32_big" isSpine="1" order="53" />
+    <ItemSpec id="4700103" type="4" name="110483087" tips="79022051;88001241" param="+10%;+1%" description="110483166" icon="Icon_allstar33_big" isSpine="1" order="54" />
+    <ItemSpec id="4700104" type="4" name="110483088" tips="79022051;79022054" param="+8%;+3%" description="110483167" icon="Icon_allstar34_big" isSpine="1" order="55" />
+	<ItemSpec id="4700105" type="4" name="110483089" tips="79022051;79022054" param="+6%;+2%" description="110483168" icon="Icon_allstar35_big" isSpine="1" order="56" />
+    <ItemSpec id="4700106" type="4" name="110483090" tips="79022051;79022054" param="+4%;+1%" description="110483169" icon="Icon_allstar36_big" isSpine="1" order="57" />
+    <ItemSpec id="4700107" type="4" name="110483091" tips="79022051;79022054" param="+2%;+1%" description="110483170" icon="Icon_allstar37_big" isSpine="1" order="58" />
+
+<!--利卡，全明星2024七档勋章，可外显至战报，属性加成永久生效，从高到低，由物品获得，客户端不显示列表，获得后显示；动态spine效果默认判断是否有进行支持-->
+<ItemSpec id="4700201" type="4" name="110483183" tips="79022051;88001241" param="+12%;+3%" description="110483208" icon="Icon_allstar38_big" isSpine="1" order="52" />
+<ItemSpec id="4700202" type="4" name="110483184" tips="79022051;88001241" param="+10%;+2%" description="110483209" icon="Icon_allstar39_big" isSpine="1" order="53" />
+<ItemSpec id="4700203" type="4" name="110483185" tips="79022051;88001241" param="+10%;+1%" description="110483210" icon="Icon_allstar40_big" isSpine="1" order="54" />
+<ItemSpec id="4700204" type="4" name="110483186" tips="79022051;79022054" param="+8%;+3%" description="110483211" icon="Icon_allstar41_big" isSpine="1" order="55" />
+<ItemSpec id="4700205" type="4" name="110483187" tips="79022051;79022054" param="+6%;+2%" description="110483212" icon="Icon_allstar42_big" isSpine="1" order="56" />
+<ItemSpec id="4700206" type="4" name="110483188" tips="79022051;79022054" param="+4%;+1%" description="110483213" icon="Icon_allstar43_big" isSpine="1" order="57" />
+<ItemSpec id="4700207" type="4" name="110483189" tips="79022051;79022054" param="+2%;+1%" description="110483214" icon="Icon_allstar44_big" isSpine="1" order="58" />
+
+<!--利卡，跑商勋章 -->
+    <ItemSpec id="4701001" type="10" name="112142415" tips="90700010;79022058" param="+10;+10%" description="112142418" icon="icon_csmy_1" order="4701001" />
+    <ItemSpec id="4701002" type="11" name="112142416" tips="110320852;110320851" param="+10%;+10%" description="112142419" icon="icon_csmy_2" order="4701002" />
+    <ItemSpec id="4701003" type="12" name="112142417" tips="110110140;110110141" param="+15%;+15%" description="112142420" icon="icon_csmy_3" order="4701003" />
+
+<!--利卡，全明星2025七档勋章，可外显至战报，属性加成永久生效，从高到低，由物品获得，客户端不显示列表，获得后显示；动态spine效果默认判断是否有进行支持-->
+    <ItemSpec id="4700301" type="13" name="112181101" tips="79022051;88001241" param="+12%;+3%" description="112181108" icon="Icon_allstar4700301" order="4700301" />
+    <ItemSpec id="4700302" type="13" name="112181102" tips="79022051;88001241" param="+10%;+2%" description="112181109" icon="Icon_allstar4700302" order="4700302" />
+    <ItemSpec id="4700303" type="13" name="112181103" tips="79022051;88001241" param="+10%;+1%" description="112181110" icon="Icon_allstar4700303" order="4700303" />
+    <ItemSpec id="4700304" type="13" name="112181104" tips="79022051;79022054" param="+8%;+3%" description="112181111" icon="Icon_allstar4700304" order="4700304" />
+    <ItemSpec id="4700305" type="13" name="112181105" tips="79022051;79022054" param="+6%;+2%" description="112181112" icon="Icon_allstar4700305" order="4700305" />
+    <ItemSpec id="4700306" type="13" name="112181106" tips="79022051;79022054" param="+4%;+2%" description="112181113" icon="Icon_allstar4700306" order="4700306" />
+    <ItemSpec id="4700307" type="13" name="112181107" tips="79022051;79022054" param="+2%;+1%" description="112181114" icon="Icon_allstar4700307" order="4700307" />
+
+<!--利卡，2025周年庆纪念奖章 -->
+    <ItemSpec id="4701101" type="14" name="112186021" description="112186022" icon="Icon_allstar4701101" order="4701101" />
+    <ItemSpec id="4701102" type="15" name="112186023" description="112186024" icon="Icon_allstar4701102" order="4701102" />
+
+
+
+	</Group>
+</tns:database>

@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<Group id="Science_Point_Level_2">
+	
+    <ItemSpec id="100001" group="1000" connect="1101;1301;1001;1002" name="1" description="1" default="1" needLv="1" Lv="1" maxLv="1" />
+    <ItemSpec id="100101" group="1001" connect="1107;1000" name="1" description="1" default="1" needLv="1" Lv="1" maxLv="1" />
+    <ItemSpec id="100201" group="1002" connect="1207;1307;1000" name="1" description="1" default="1" needLv="1" Lv="1" maxLv="1" />
+    <ItemSpec id="110101" group="1101" connect="1000;1102;1103" name="111000151" description="111000157;111000157" des_value="50 k;1%" needLv="1" needTalent="1000_0" Lv="1" maxLv="3" extraPara="514;50000|373;1" />
+    <ItemSpec id="110102" group="1101" connect="1000;1102;1103" name="111000151" description="111000157;111000157" des_value="100 k;2%" needLv="1" needTalent="1101_1" Lv="2" maxLv="3" extraPara="514;100000|373;2" />
+    <ItemSpec id="110103" group="1101" connect="1000;1102;1103" name="111000151" description="111000157;111000157" des_value="150 k;3%" needLv="1" needTalent="1101_2" Lv="3" maxLv="3" extraPara="514;150000|373;3" />
+    <ItemSpec id="110201" group="1102" connect="1101;1104" name="111000178" description="111000157" des_value="1%" needLv="1" needTalent="1101_3" Lv="1" maxLv="5" extraPara="373;1" />
+    <ItemSpec id="110202" group="1102" connect="1101;1104" name="111000178" description="111000157" des_value="2%" needLv="1" needTalent="1102_1" Lv="2" maxLv="5" extraPara="373;2" />
+    <ItemSpec id="110203" group="1102" connect="1101;1104" name="111000178" description="111000157" des_value="3%" needLv="1" needTalent="1102_2" Lv="3" maxLv="5" extraPara="373;3" />
+    <ItemSpec id="110204" group="1102" connect="1101;1104" name="111000178" description="111000157" des_value="4%" needLv="1" needTalent="1102_3" Lv="4" maxLv="5" extraPara="373;4" />
+    <ItemSpec id="110205" group="1102" connect="1101;1104" name="111000178" description="111000157" des_value="5%" needLv="1" needTalent="1102_4" Lv="5" maxLv="5" extraPara="373;5" />
+    <ItemSpec id="110301" group="1103" connect="1101;1104" name="111000179" description="111000157" des_value="50 k" needLv="1" needTalent="1101_3" Lv="1" maxLv="5" extraPara="514;50000" />
+    <ItemSpec id="110302" group="1103" connect="1101;1104" name="111000179" description="111000157" des_value="100 k" needLv="1" needTalent="1103_1" Lv="2" maxLv="5" extraPara="514;100000" />
+    <ItemSpec id="110303" group="1103" connect="1101;1104" name="111000179" description="111000157" des_value="150 k" needLv="1" needTalent="1103_2" Lv="3" maxLv="5" extraPara="514;150000" />
+    <ItemSpec id="110304" group="1103" connect="1101;1104" name="111000179" description="111000157" des_value="200 k" needLv="1" needTalent="1103_3" Lv="4" maxLv="5" extraPara="514;200000" />
+    <ItemSpec id="110305" group="1103" connect="1101;1104" name="111000179" description="111000157" des_value="250 k" needLv="1" needTalent="1103_4" Lv="5" maxLv="5" extraPara="514;250000" />
+    <ItemSpec id="110401" group="1104" connect="1102;1103;1105;1106" name="111000151" description="111000157;111000157" des_value="50 k;1%" needLv="1" needTalent="1102_5|1103_5" Lv="1" maxLv="3" extraPara="514;50000|373;1" />
+    <ItemSpec id="110402" group="1104" connect="1102;1103;1105;1106" name="111000151" description="111000157;111000157" des_value="100 k;2%" needLv="1" needTalent="1104_1" Lv="2" maxLv="3" extraPara="514;100000|373;2" />
+    <ItemSpec id="110403" group="1104" connect="1102;1103;1105;1106" name="111000151" description="111000157;111000157" des_value="150 k;3%" needLv="1" needTalent="1104_2" Lv="3" maxLv="3" extraPara="514;150000|373;3" />
+    <ItemSpec id="110501" group="1105" connect="1104;1110" name="111000178" description="111000157" des_value="1%" needLv="1" needTalent="1104_3" Lv="1" maxLv="5" extraPara="373;1" />
+    <ItemSpec id="110502" group="1105" connect="1104;1110" name="111000178" description="111000157" des_value="2%" needLv="1" needTalent="1105_1" Lv="2" maxLv="5" extraPara="373;2" />
+    <ItemSpec id="110503" group="1105" connect="1104;1110" name="111000178" description="111000157" des_value="3%" needLv="1" needTalent="1105_2" Lv="3" maxLv="5" extraPara="373;3" />
+    <ItemSpec id="110504" group="1105" connect="1104;1110" name="111000178" description="111000157" des_value="4%" needLv="1" needTalent="1105_3" Lv="4" maxLv="5" extraPara="373;4" />
+    <ItemSpec id="110505" group="1105" connect="1104;1110" name="111000178" description="111000157" des_value="5%" needLv="1" needTalent="1105_4" Lv="5" maxLv="5" extraPara="373;5" />
+    <ItemSpec id="110601" group="1106" connect="1104;1110" name="111000179" description="111000157" des_value="50 k" needLv="1" needTalent="1104_3" Lv="1" maxLv="5" extraPara="514;50000" />
+    <ItemSpec id="110602" group="1106" connect="1104;1110" name="111000179" description="111000157" des_value="100 k" needLv="1" needTalent="1106_1" Lv="2" maxLv="5" extraPara="514;100000" />
+    <ItemSpec id="110603" group="1106" connect="1104;1110" name="111000179" description="111000157" des_value="150 k" needLv="1" needTalent="1106_2" Lv="3" maxLv="5" extraPara="514;150000" />
+    <ItemSpec id="110604" group="1106" connect="1104;1110" name="111000179" description="111000157" des_value="200 k" needLv="1" needTalent="1106_3" Lv="4" maxLv="5" extraPara="514;200000" />
+    <ItemSpec id="110605" group="1106" connect="1104;1110" name="111000179" description="111000157" des_value="250 k" needLv="1" needTalent="1106_4" Lv="5" maxLv="5" extraPara="514;250000" />
+    <ItemSpec id="110701" group="1107" connect="1502;1602;1001" name="111000146" description="111000156" des_value="100000" needLv="1" needTalent="1113_5;1001_0" Lv="1" maxLv="3" extraPara="10079;100000|10080;100000|10081;100000" />
+    <ItemSpec id="110702" group="1107" connect="1502;1602;1001" name="111000146" description="111000156" des_value="200000" needLv="1" needTalent="1107_1" Lv="2" maxLv="3" extraPara="10079;200000|10080;200000|10081;200000" />
+    <ItemSpec id="110703" group="1107" connect="1502;1602;1001" name="111000146" description="111000156" des_value="300000" needLv="1" needTalent="1107_2" Lv="3" maxLv="3" extraPara="10079;300000|10080;300000|10081;300000" />
+    <ItemSpec id="110801" group="1108" connect="0" name="111000178" description="111000157" des_value="1%" needLv="1" needTalent="0" Lv="1" maxLv="3" extraPara="373;1" />
+    <ItemSpec id="110802" group="1108" connect="0" name="111000178" description="111000157" des_value="2%" needLv="1" needTalent="1108_1" Lv="2" maxLv="3" extraPara="373;2" />
+    <ItemSpec id="110803" group="1108" connect="0" name="111000178" description="111000157" des_value="3%" needLv="1" needTalent="1108_2" Lv="3" maxLv="3" extraPara="373;3" />
+    <ItemSpec id="110901" group="1109" connect="0" name="111000179" description="111000157" des_value="50 k" needLv="1" needTalent="0" Lv="1" maxLv="3" extraPara="514;50000" />
+    <ItemSpec id="110902" group="1109" connect="0" name="111000179" description="111000157" des_value="100 k" needLv="1" needTalent="1109_1" Lv="2" maxLv="3" extraPara="514;100000" />
+    <ItemSpec id="110903" group="1109" connect="0" name="111000179" description="111000157" des_value="150 k" needLv="1" needTalent="1109_2" Lv="3" maxLv="3" extraPara="514;150000" />
+    <ItemSpec id="111001" group="1110" connect="1105;1106" name="111000236" description="111000158" des_value="1%" needLv="1" needTalent="1105_5|1106_5" Lv="1" maxLv="5" extraPara="372;1" />
+    <ItemSpec id="111002" group="1110" connect="1105;1106" name="111000236" description="111000158" des_value="2%" needLv="1" needTalent="1110_1" Lv="2" maxLv="5" extraPara="372;2" />
+    <ItemSpec id="111003" group="1110" connect="1105;1106" name="111000236" description="111000158" des_value="3%" needLv="1" needTalent="1110_2" Lv="3" maxLv="5" extraPara="372;3" />
+    <ItemSpec id="111004" group="1110" connect="1105;1106" name="111000236" description="111000158" des_value="4%" needLv="1" needTalent="1110_3" Lv="4" maxLv="5" extraPara="372;4" />
+    <ItemSpec id="111005" group="1110" connect="1105;1106" name="111000236" description="111000158" des_value="5%" needLv="1" needTalent="1110_4" Lv="5" maxLv="5" extraPara="372;5" />
+    <ItemSpec id="111101" group="1111" connect="0" name="111000178" description="111000157" des_value="1%" needLv="1" needTalent="0" Lv="1" maxLv="3" extraPara="373;1" />
+    <ItemSpec id="111102" group="1111" connect="0" name="111000178" description="111000157" des_value="2%" needLv="1" needTalent="1111_1" Lv="2" maxLv="3" extraPara="373;2" />
+    <ItemSpec id="111103" group="1111" connect="0" name="111000178" description="111000157" des_value="3%" needLv="1" needTalent="1111_2" Lv="3" maxLv="3" extraPara="373;3" />
+    <ItemSpec id="111201" group="1112" connect="0" name="111000179" description="111000157" des_value="50 k" needLv="1" needTalent="0" Lv="1" maxLv="3" extraPara="514;50000" />
+    <ItemSpec id="111202" group="1112" connect="0" name="111000179" description="111000157" des_value="100 k" needLv="1" needTalent="1112_1" Lv="2" maxLv="3" extraPara="514;100000" />
+    <ItemSpec id="111203" group="1112" connect="0" name="111000179" description="111000157" des_value="150 k" needLv="1" needTalent="1112_2" Lv="3" maxLv="3" extraPara="514;150000" />
+    <ItemSpec id="111301" group="1113" connect="1110;1210" name="111000232" description="111000159" des_value="1%" needLv="1" needTalent="1110_5|1210_5" Lv="1" maxLv="5" extraPara="377;1" />
+    <ItemSpec id="111302" group="1113" connect="1110;1210" name="111000232" description="111000159" des_value="2%" needLv="1" needTalent="1113_1" Lv="2" maxLv="5" extraPara="377;2" />
+    <ItemSpec id="111303" group="1113" connect="1110;1210" name="111000232" description="111000159" des_value="3%" needLv="1" needTalent="1113_2" Lv="3" maxLv="5" extraPara="377;3" />
+    <ItemSpec id="111304" group="1113" connect="1110;1210" name="111000232" description="111000159" des_value="4%" needLv="1" needTalent="1113_3" Lv="4" maxLv="5" extraPara="377;4" />
+    <ItemSpec id="111305" group="1113" connect="1110;1210" name="111000232" description="111000159" des_value="5%" needLv="1" needTalent="1113_4" Lv="5" maxLv="5" extraPara="377;5" />
+    <ItemSpec id="120101" group="1201" connect="1113;1202;1203" name="111000155" description="111000161;111000161" des_value="48 h;1%" needLv="1" needTalent="1113_5" Lv="1" maxLv="3" extraPara="516;172800|375;1" />
+    <ItemSpec id="120102" group="1201" connect="1113;1202;1203" name="111000155" description="111000161;111000161" des_value="96 h;2%" needLv="1" needTalent="1201_1" Lv="2" maxLv="3" extraPara="516;345600|375;2" />
+    <ItemSpec id="120103" group="1201" connect="1113;1202;1203" name="111000155" description="111000161;111000161" des_value="144 h;3%" needLv="1" needTalent="1201_2" Lv="3" maxLv="3" extraPara="516;518400|375;3" />
+    <ItemSpec id="120201" group="1202" connect="1201;1204" name="111000182" description="111000161" des_value="1%" needLv="1" needTalent="1201_3" Lv="1" maxLv="5" extraPara="375;1" />
+    <ItemSpec id="120202" group="1202" connect="1201;1204" name="111000182" description="111000161" des_value="2%" needLv="1" needTalent="1202_1" Lv="2" maxLv="5" extraPara="375;2" />
+    <ItemSpec id="120203" group="1202" connect="1201;1204" name="111000182" description="111000161" des_value="3%" needLv="1" needTalent="1202_2" Lv="3" maxLv="5" extraPara="375;3" />
+    <ItemSpec id="120204" group="1202" connect="1201;1204" name="111000182" description="111000161" des_value="4%" needLv="1" needTalent="1202_3" Lv="4" maxLv="5" extraPara="375;4" />
+    <ItemSpec id="120205" group="1202" connect="1201;1204" name="111000182" description="111000161" des_value="5%" needLv="1" needTalent="1202_4" Lv="5" maxLv="5" extraPara="375;5" />
+    <ItemSpec id="120301" group="1203" connect="1201;1204" name="111000183" description="111000161" des_value="48 h" needLv="1" needTalent="1201_3" Lv="1" maxLv="5" extraPara="516;172800" />
+    <ItemSpec id="120302" group="1203" connect="1201;1204" name="111000183" description="111000161" des_value="96 h" needLv="1" needTalent="1203_1" Lv="2" maxLv="5" extraPara="516;345600" />
+    <ItemSpec id="120303" group="1203" connect="1201;1204" name="111000183" description="111000161" des_value="144 h" needLv="1" needTalent="1203_2" Lv="3" maxLv="5" extraPara="516;518400" />
+    <ItemSpec id="120304" group="1203" connect="1201;1204" name="111000183" description="111000161" des_value="192 h" needLv="1" needTalent="1203_3" Lv="4" maxLv="5" extraPara="516;691200" />
+    <ItemSpec id="120305" group="1203" connect="1201;1204" name="111000183" description="111000161" des_value="240 h" needLv="1" needTalent="1203_4" Lv="5" maxLv="5" extraPara="516;864000" />
+    <ItemSpec id="120401" group="1204" connect="1202;1203;1205;1206" name="111000155" description="111000161;111000161" des_value="48 h;1%" needLv="1" needTalent="1202_5|1203_5" Lv="1" maxLv="3" extraPara="516;172800|375;1" />
+    <ItemSpec id="120402" group="1204" connect="1202;1203;1205;1206" name="111000155" description="111000161;111000161" des_value="96 h;2%" needLv="1" needTalent="1204_1" Lv="2" maxLv="3" extraPara="516;345600|375;2" />
+    <ItemSpec id="120403" group="1204" connect="1202;1203;1205;1206" name="111000155" description="111000161;111000161" des_value="144 h;3%" needLv="1" needTalent="1204_2" Lv="3" maxLv="3" extraPara="516;518400|375;3" />
+    <ItemSpec id="120501" group="1205" connect="1204;1410" name="111000182" description="111000161" des_value="1%" needLv="1" needTalent="1204_3" Lv="1" maxLv="5" extraPara="375;1" />
+    <ItemSpec id="120502" group="1205" connect="1204;1410" name="111000182" description="111000161" des_value="2%" needLv="1" needTalent="1205_1" Lv="2" maxLv="5" extraPara="375;2" />
+    <ItemSpec id="120503" group="1205" connect="1204;1410" name="111000182" description="111000161" des_value="3%" needLv="1" needTalent="1205_2" Lv="3" maxLv="5" extraPara="375;3" />
+    <ItemSpec id="120504" group="1205" connect="1204;1410" name="111000182" description="111000161" des_value="4%" needLv="1" needTalent="1205_3" Lv="4" maxLv="5" extraPara="375;4" />
+    <ItemSpec id="120505" group="1205" connect="1204;1410" name="111000182" description="111000161" des_value="5%" needLv="1" needTalent="1205_4" Lv="5" maxLv="5" extraPara="375;5" />
+    <ItemSpec id="120601" group="1206" connect="1204;1410" name="111000183" description="111000161" des_value="48 h" needLv="1" needTalent="1204_3" Lv="1" maxLv="5" extraPara="516;172800" />
+    <ItemSpec id="120602" group="1206" connect="1204;1410" name="111000183" description="111000161" des_value="96 h" needLv="1" needTalent="1206_1" Lv="2" maxLv="5" extraPara="516;345600" />
+    <ItemSpec id="120603" group="1206" connect="1204;1410" name="111000183" description="111000161" des_value="144 h" needLv="1" needTalent="1206_2" Lv="3" maxLv="5" extraPara="516;518400" />
+    <ItemSpec id="120604" group="1206" connect="1204;1410" name="111000183" description="111000161" des_value="192 h" needLv="1" needTalent="1206_3" Lv="4" maxLv="5" extraPara="516;691200" />
+    <ItemSpec id="120605" group="1206" connect="1204;1410" name="111000183" description="111000161" des_value="240 h" needLv="1" needTalent="1206_4" Lv="5" maxLv="5" extraPara="516;864000" />
+    <ItemSpec id="120701" group="1207" connect="1407;1002" name="111000150" description="111000160" des_value="2%" needLv="1" needTalent="1113_5;1002_0" Lv="1" maxLv="3" extraPara="1030;2" />
+    <ItemSpec id="120702" group="1207" connect="1407;1002" name="111000150" description="111000160" des_value="4%" needLv="1" needTalent="1207_1" Lv="2" maxLv="3" extraPara="1030;4" />
+    <ItemSpec id="120703" group="1207" connect="1407;1002" name="111000150" description="111000160" des_value="6%" needLv="1" needTalent="1207_2" Lv="3" maxLv="3" extraPara="1030;6" />
+    <ItemSpec id="120801" group="1208" connect="0" name="111000182" description="111000161" des_value="1%" needLv="1" needTalent="0" Lv="1" maxLv="3" extraPara="375;1" />
+    <ItemSpec id="120802" group="1208" connect="0" name="111000182" description="111000161" des_value="2%" needLv="1" needTalent="1208_1" Lv="2" maxLv="3" extraPara="375;2" />
+    <ItemSpec id="120803" group="1208" connect="0" name="111000182" description="111000161" des_value="3%" needLv="1" needTalent="1208_2" Lv="3" maxLv="3" extraPara="375;3" />
+    <ItemSpec id="120901" group="1209" connect="0" name="111000183" description="111000161" des_value="48 h" needLv="1" needTalent="0" Lv="1" maxLv="3" extraPara="516;172800" />
+    <ItemSpec id="120902" group="1209" connect="0" name="111000183" description="111000161" des_value="96 h" needLv="1" needTalent="1209_1" Lv="2" maxLv="3" extraPara="516;345600" />
+    <ItemSpec id="120903" group="1209" connect="0" name="111000183" description="111000161" des_value="144 h" needLv="1" needTalent="1209_2" Lv="3" maxLv="3" extraPara="516;518400" />
+    <ItemSpec id="121001" group="1210" connect="1305;1306" name="111000237" description="111000158" des_value="50" needLv="1" needTalent="1305_5|1306_5" Lv="1" maxLv="5" extraPara="513;50" />
+    <ItemSpec id="121002" group="1210" connect="1305;1306" name="111000237" description="111000158" des_value="100" needLv="1" needTalent="1210_1" Lv="2" maxLv="5" extraPara="513;100" />
+    <ItemSpec id="121003" group="1210" connect="1305;1306" name="111000237" description="111000158" des_value="150" needLv="1" needTalent="1210_2" Lv="3" maxLv="5" extraPara="513;150" />
+    <ItemSpec id="121004" group="1210" connect="1305;1306" name="111000237" description="111000158" des_value="200" needLv="1" needTalent="1210_3" Lv="4" maxLv="5" extraPara="513;200" />
+    <ItemSpec id="121005" group="1210" connect="1305;1306" name="111000237" description="111000158" des_value="250" needLv="1" needTalent="1210_4" Lv="5" maxLv="5" extraPara="513;250" />
+    <ItemSpec id="121101" group="1211" connect="0" name="111000182" description="111000161" des_value="1%" needLv="1" needTalent="0" Lv="1" maxLv="3" extraPara="375;1" />
+    <ItemSpec id="121102" group="1211" connect="0" name="111000182" description="111000161" des_value="2%" needLv="1" needTalent="1211_1" Lv="2" maxLv="3" extraPara="375;2" />
+    <ItemSpec id="121103" group="1211" connect="0" name="111000182" description="111000161" des_value="3%" needLv="1" needTalent="1211_2" Lv="3" maxLv="3" extraPara="375;3" />
+    <ItemSpec id="121201" group="1212" connect="0" name="111000183" description="111000161" des_value="48 h" needLv="1" needTalent="0" Lv="1" maxLv="3" extraPara="516;172800" />
+    <ItemSpec id="121202" group="1212" connect="0" name="111000183" description="111000161" des_value="96 h" needLv="1" needTalent="1212_1" Lv="2" maxLv="3" extraPara="516;345600" />
+    <ItemSpec id="121203" group="1212" connect="0" name="111000183" description="111000161" des_value="144 h" needLv="1" needTalent="1212_2" Lv="3" maxLv="3" extraPara="516;518400" />
+    <ItemSpec id="121301" group="1213" connect="1310;1410" name="111000233" description="111000159" des_value="1%" needLv="1" needTalent="1410_5|1310_5" Lv="1" maxLv="5" extraPara="377;1" />
+    <ItemSpec id="121302" group="1213" connect="1310;1410" name="111000233" description="111000159" des_value="2%" needLv="1" needTalent="1213_1" Lv="2" maxLv="5" extraPara="377;2" />
+    <ItemSpec id="121303" group="1213" connect="1310;1410" name="111000233" description="111000159" des_value="3%" needLv="1" needTalent="1213_2" Lv="3" maxLv="5" extraPara="377;3" />
+    <ItemSpec id="121304" group="1213" connect="1310;1410" name="111000233" description="111000159" des_value="4%" needLv="1" needTalent="1213_3" Lv="4" maxLv="5" extraPara="377;4" />
+    <ItemSpec id="121305" group="1213" connect="1310;1410" name="111000233" description="111000159" des_value="5%" needLv="1" needTalent="1213_4" Lv="5" maxLv="5" extraPara="377;5" />
+    <ItemSpec id="121401" group="1214" connect="1410" name="111000155" description="111000161;111000161" des_value="48 h;1%" needLv="1" needTalent="1410_5" Lv="1" maxLv="2" extraPara="516;172800|375;1" />
+    <ItemSpec id="121402" group="1214" connect="1410" name="111000155" description="111000161;111000161" des_value="96 h;2%" needLv="1" needTalent="1214_1" Lv="2" maxLv="2" extraPara="516;345600|375;2" />
+    <ItemSpec id="130101" group="1301" connect="1000;1302;1303" name="111000153" description="111000163;111000163" des_value="10 k;1%" needLv="1" needTalent="1000_0" Lv="1" maxLv="3" extraPara="515;10000|374;1" />
+    <ItemSpec id="130102" group="1301" connect="1000;1302;1303" name="111000153" description="111000163;111000163" des_value="20 k;2%" needLv="1" needTalent="1301_1" Lv="2" maxLv="3" extraPara="515;20000|374;2" />
+    <ItemSpec id="130103" group="1301" connect="1000;1302;1303" name="111000153" description="111000163;111000163" des_value="30 k;3%" needLv="1" needTalent="1301_2" Lv="3" maxLv="3" extraPara="515;30000|374;3" />
+    <ItemSpec id="130201" group="1302" connect="1301;1304" name="111000180" description="111000163" des_value="1%" needLv="1" needTalent="1301_3" Lv="1" maxLv="5" extraPara="374;1" />
+    <ItemSpec id="130202" group="1302" connect="1301;1304" name="111000180" description="111000163" des_value="2%" needLv="1" needTalent="1302_1" Lv="2" maxLv="5" extraPara="374;2" />
+    <ItemSpec id="130203" group="1302" connect="1301;1304" name="111000180" description="111000163" des_value="3%" needLv="1" needTalent="1302_2" Lv="3" maxLv="5" extraPara="374;3" />
+    <ItemSpec id="130204" group="1302" connect="1301;1304" name="111000180" description="111000163" des_value="4%" needLv="1" needTalent="1302_3" Lv="4" maxLv="5" extraPara="374;4" />
+    <ItemSpec id="130205" group="1302" connect="1301;1304" name="111000180" description="111000163" des_value="5%" needLv="1" needTalent="1302_4" Lv="5" maxLv="5" extraPara="374;5" />
+    <ItemSpec id="130301" group="1303" connect="1301;1304" name="111000181" description="111000163" des_value="10 k" needLv="1" needTalent="1301_3" Lv="1" maxLv="5" extraPara="515;10000" />
+    <ItemSpec id="130302" group="1303" connect="1301;1304" name="111000181" description="111000163" des_value="20 k" needLv="1" needTalent="1303_1" Lv="2" maxLv="5" extraPara="515;20000" />
+    <ItemSpec id="130303" group="1303" connect="1301;1304" name="111000181" description="111000163" des_value="30 k" needLv="1" needTalent="1303_2" Lv="3" maxLv="5" extraPara="515;30000" />
+    <ItemSpec id="130304" group="1303" connect="1301;1304" name="111000181" description="111000163" des_value="40 k" needLv="1" needTalent="1303_3" Lv="4" maxLv="5" extraPara="515;40000" />
+    <ItemSpec id="130305" group="1303" connect="1301;1304" name="111000181" description="111000163" des_value="50 k" needLv="1" needTalent="1303_4" Lv="5" maxLv="5" extraPara="515;50000" />
+    <ItemSpec id="130401" group="1304" connect="1302;1303;1305;1306" name="111000153" description="111000163;111000163" des_value="10 k;1%" needLv="1" needTalent="1302_5|1303_5" Lv="1" maxLv="3" extraPara="515;10000|374;1" />
+    <ItemSpec id="130402" group="1304" connect="1302;1303;1305;1306" name="111000153" description="111000163;111000163" des_value="20 k;2%" needLv="1" needTalent="1304_1" Lv="2" maxLv="3" extraPara="515;20000|374;2" />
+    <ItemSpec id="130403" group="1304" connect="1302;1303;1305;1306" name="111000153" description="111000163;111000163" des_value="30 k;3%" needLv="1" needTalent="1304_2" Lv="3" maxLv="3" extraPara="515;30000|374;3" />
+    <ItemSpec id="130501" group="1305" connect="1304;1210" name="111000180" description="111000163" des_value="1%" needLv="1" needTalent="1304_3" Lv="1" maxLv="5" extraPara="374;1" />
+    <ItemSpec id="130502" group="1305" connect="1304;1210" name="111000180" description="111000163" des_value="2%" needLv="1" needTalent="1305_1" Lv="2" maxLv="5" extraPara="374;2" />
+    <ItemSpec id="130503" group="1305" connect="1304;1210" name="111000180" description="111000163" des_value="3%" needLv="1" needTalent="1305_2" Lv="3" maxLv="5" extraPara="374;3" />
+    <ItemSpec id="130504" group="1305" connect="1304;1210" name="111000180" description="111000163" des_value="4%" needLv="1" needTalent="1305_3" Lv="4" maxLv="5" extraPara="374;4" />
+    <ItemSpec id="130505" group="1305" connect="1304;1210" name="111000180" description="111000163" des_value="5%" needLv="1" needTalent="1305_4" Lv="5" maxLv="5" extraPara="374;5" />
+    <ItemSpec id="130601" group="1306" connect="1304;1210" name="111000181" description="111000163" des_value="10 k" needLv="1" needTalent="1304_3" Lv="1" maxLv="5" extraPara="515;10000" />
+    <ItemSpec id="130602" group="1306" connect="1304;1210" name="111000181" description="111000163" des_value="20 k" needLv="1" needTalent="1306_1" Lv="2" maxLv="5" extraPara="515;20000" />
+    <ItemSpec id="130603" group="1306" connect="1304;1210" name="111000181" description="111000163" des_value="30 k" needLv="1" needTalent="1306_2" Lv="3" maxLv="5" extraPara="515;30000" />
+    <ItemSpec id="130604" group="1306" connect="1304;1210" name="111000181" description="111000163" des_value="40 k" needLv="1" needTalent="1306_3" Lv="4" maxLv="5" extraPara="515;40000" />
+    <ItemSpec id="130605" group="1306" connect="1304;1210" name="111000181" description="111000163" des_value="50 k" needLv="1" needTalent="1306_4" Lv="5" maxLv="5" extraPara="515;50000" />
+    <ItemSpec id="130701" group="1307" connect="1407;1002" name="111000152" description="111000162" des_value="2%" needLv="1" needTalent="1113_5;1002_0" Lv="1" maxLv="3" extraPara="1010;2" />
+    <ItemSpec id="130702" group="1307" connect="1407;1002" name="111000152" description="111000162" des_value="4%" needLv="1" needTalent="1307_1" Lv="2" maxLv="3" extraPara="1010;4" />
+    <ItemSpec id="130703" group="1307" connect="1407;1002" name="111000152" description="111000162" des_value="6%" needLv="1" needTalent="1307_2" Lv="3" maxLv="3" extraPara="1010;6" />
+    <ItemSpec id="130801" group="1308" connect="0" name="111000180" description="111000163" des_value="1%" needLv="1" needTalent="0" Lv="1" maxLv="3" extraPara="374;1" />
+    <ItemSpec id="130802" group="1308" connect="0" name="111000180" description="111000163" des_value="2%" needLv="1" needTalent="1308_1" Lv="2" maxLv="3" extraPara="374;2" />
+    <ItemSpec id="130803" group="1308" connect="0" name="111000180" description="111000163" des_value="3%" needLv="1" needTalent="1308_2" Lv="3" maxLv="3" extraPara="374;3" />
+    <ItemSpec id="130901" group="1309" connect="0" name="111000181" description="111000163" des_value="10 k" needLv="1" needTalent="0" Lv="1" maxLv="3" extraPara="515;10000" />
+    <ItemSpec id="130902" group="1309" connect="0" name="111000181" description="111000163" des_value="20 k" needLv="1" needTalent="1309_1" Lv="2" maxLv="3" extraPara="515;20000" />
+    <ItemSpec id="130903" group="1309" connect="0" name="111000181" description="111000163" des_value="30 k" needLv="1" needTalent="1309_2" Lv="3" maxLv="3" extraPara="515;30000" />
+    <ItemSpec id="131001" group="1310" connect="1405;1406;1213" name="111000236" description="111000158" des_value="1%" needLv="1" needTalent="1405_5|1406_5" Lv="1" maxLv="5" extraPara="372;1" />
+    <ItemSpec id="131002" group="1310" connect="1405;1406;1213" name="111000236" description="111000158" des_value="2%" needLv="1" needTalent="1310_1" Lv="2" maxLv="5" extraPara="372;2" />
+    <ItemSpec id="131003" group="1310" connect="1405;1406;1213" name="111000236" description="111000158" des_value="3%" needLv="1" needTalent="1310_2" Lv="3" maxLv="5" extraPara="372;3" />
+    <ItemSpec id="131004" group="1310" connect="1405;1406;1213" name="111000236" description="111000158" des_value="4%" needLv="1" needTalent="1310_3" Lv="4" maxLv="5" extraPara="372;4" />
+    <ItemSpec id="131005" group="1310" connect="1405;1406;1213" name="111000236" description="111000158" des_value="5%" needLv="1" needTalent="1310_4" Lv="5" maxLv="5" extraPara="372;5" />
+    <ItemSpec id="131101" group="1311" connect="0" name="111000180" description="111000163" des_value="1%" needLv="1" needTalent="0" Lv="1" maxLv="3" extraPara="374;1" />
+    <ItemSpec id="131102" group="1311" connect="0" name="111000180" description="111000163" des_value="2%" needLv="1" needTalent="1311_1" Lv="2" maxLv="3" extraPara="374;2" />
+    <ItemSpec id="131103" group="1311" connect="0" name="111000180" description="111000163" des_value="3%" needLv="1" needTalent="1311_2" Lv="3" maxLv="3" extraPara="374;3" />
+    <ItemSpec id="131201" group="1312" connect="0" name="111000181" description="111000163" des_value="10 k" needLv="1" needTalent="0" Lv="1" maxLv="3" extraPara="515;10000" />
+    <ItemSpec id="131202" group="1312" connect="0" name="111000181" description="111000163" des_value="20 k" needLv="1" needTalent="1312_1" Lv="2" maxLv="3" extraPara="515;20000" />
+    <ItemSpec id="131203" group="1312" connect="0" name="111000181" description="111000163" des_value="30 k" needLv="1" needTalent="1312_2" Lv="3" maxLv="3" extraPara="515;30000" />
+    <ItemSpec id="131301" group="1313" connect="1703;1704;1803;1804" name="111000234" description="111000159" des_value="1%" needLv="1" needTalent="1803_5;1703_5" Lv="1" maxLv="5" extraPara="377;1" />
+    <ItemSpec id="131302" group="1313" connect="1703;1704;1803;1804" name="111000234" description="111000159" des_value="2%" needLv="1" needTalent="1313_1" Lv="2" maxLv="5" extraPara="377;2" />
+    <ItemSpec id="131303" group="1313" connect="1703;1704;1803;1804" name="111000234" description="111000159" des_value="3%" needLv="1" needTalent="1313_2" Lv="3" maxLv="5" extraPara="377;3" />
+    <ItemSpec id="131304" group="1313" connect="1703;1704;1803;1804" name="111000234" description="111000159" des_value="4%" needLv="1" needTalent="1313_3" Lv="4" maxLv="5" extraPara="377;4" />
+    <ItemSpec id="131305" group="1313" connect="1703;1704;1803;1804" name="111000234" description="111000159" des_value="5%" needLv="1" needTalent="1313_4" Lv="5" maxLv="5" extraPara="377;5" />
+    <ItemSpec id="140101" group="1401" connect="1113;1402;1403" name="111000147" description="111000165;111000165" des_value="5 h;1%" needLv="1" needTalent="1113_5" Lv="1" maxLv="3" extraPara="517;18000|376;1" />
+    <ItemSpec id="140102" group="1401" connect="1113;1402;1403" name="111000147" description="111000165;111000165" des_value="10 h;2%" needLv="1" needTalent="1401_1" Lv="2" maxLv="3" extraPara="517;36000|376;2" />
+    <ItemSpec id="140103" group="1401" connect="1113;1402;1403" name="111000147" description="111000165;111000165" des_value="15 h;3%" needLv="1" needTalent="1401_2" Lv="3" maxLv="3" extraPara="517;54000|376;3" />
+    <ItemSpec id="140201" group="1402" connect="1401;1404" name="111000176" description="111000165" des_value="1%" needLv="1" needTalent="1401_3" Lv="1" maxLv="5" extraPara="376;1" />
+    <ItemSpec id="140202" group="1402" connect="1401;1404" name="111000176" description="111000165" des_value="2%" needLv="1" needTalent="1402_1" Lv="2" maxLv="5" extraPara="376;2" />
+    <ItemSpec id="140203" group="1402" connect="1401;1404" name="111000176" description="111000165" des_value="3%" needLv="1" needTalent="1402_2" Lv="3" maxLv="5" extraPara="376;3" />
+    <ItemSpec id="140204" group="1402" connect="1401;1404" name="111000176" description="111000165" des_value="4%" needLv="1" needTalent="1402_3" Lv="4" maxLv="5" extraPara="376;4" />
+    <ItemSpec id="140205" group="1402" connect="1401;1404" name="111000176" description="111000165" des_value="5%" needLv="1" needTalent="1402_4" Lv="5" maxLv="5" extraPara="376;5" />
+    <ItemSpec id="140301" group="1403" connect="1401;1404" name="111000177" description="111000165" des_value="5 h" needLv="1" needTalent="1401_3" Lv="1" maxLv="5" extraPara="517;18000" />
+    <ItemSpec id="140302" group="1403" connect="1401;1404" name="111000177" description="111000165" des_value="10 h" needLv="1" needTalent="1403_1" Lv="2" maxLv="5" extraPara="517;36000" />
+    <ItemSpec id="140303" group="1403" connect="1401;1404" name="111000177" description="111000165" des_value="15 h" needLv="1" needTalent="1403_2" Lv="3" maxLv="5" extraPara="517;54000" />
+    <ItemSpec id="140304" group="1403" connect="1401;1404" name="111000177" description="111000165" des_value="20 h" needLv="1" needTalent="1403_3" Lv="4" maxLv="5" extraPara="517;72000" />
+    <ItemSpec id="140305" group="1403" connect="1401;1404" name="111000177" description="111000165" des_value="25 h" needLv="1" needTalent="1403_4" Lv="5" maxLv="5" extraPara="517;90000" />
+    <ItemSpec id="140401" group="1404" connect="1402;1403;1405;1406" name="111000147" description="111000165;111000165" des_value="5 h;1%" needLv="1" needTalent="1402_5|1403_5" Lv="1" maxLv="3" extraPara="517;18000|376;1" />
+    <ItemSpec id="140402" group="1404" connect="1402;1403;1405;1406" name="111000147" description="111000165;111000165" des_value="10 h;2%" needLv="1" needTalent="1404_1" Lv="2" maxLv="3" extraPara="517;36000|376;2" />
+    <ItemSpec id="140403" group="1404" connect="1402;1403;1405;1406" name="111000147" description="111000165;111000165" des_value="15 h;3%" needLv="1" needTalent="1404_2" Lv="3" maxLv="3" extraPara="517;54000|376;3" />
+    <ItemSpec id="140501" group="1405" connect="1404;1310" name="111000176" description="111000165" des_value="1%" needLv="1" needTalent="1404_3" Lv="1" maxLv="5" extraPara="376;1" />
+    <ItemSpec id="140502" group="1405" connect="1404;1310" name="111000176" description="111000165" des_value="2%" needLv="1" needTalent="1405_1" Lv="2" maxLv="5" extraPara="376;2" />
+    <ItemSpec id="140503" group="1405" connect="1404;1310" name="111000176" description="111000165" des_value="3%" needLv="1" needTalent="1405_2" Lv="3" maxLv="5" extraPara="376;3" />
+    <ItemSpec id="140504" group="1405" connect="1404;1310" name="111000176" description="111000165" des_value="4%" needLv="1" needTalent="1405_3" Lv="4" maxLv="5" extraPara="376;4" />
+    <ItemSpec id="140505" group="1405" connect="1404;1310" name="111000176" description="111000165" des_value="5%" needLv="1" needTalent="1405_4" Lv="5" maxLv="5" extraPara="376;5" />
+    <ItemSpec id="140601" group="1406" connect="1404;1310" name="111000177" description="111000165" des_value="5 h" needLv="1" needTalent="1404_3" Lv="1" maxLv="5" extraPara="517;18000" />
+    <ItemSpec id="140602" group="1406" connect="1404;1310" name="111000177" description="111000165" des_value="10 h" needLv="1" needTalent="1406_1" Lv="2" maxLv="5" extraPara="517;36000" />
+    <ItemSpec id="140603" group="1406" connect="1404;1310" name="111000177" description="111000165" des_value="15 h" needLv="1" needTalent="1406_2" Lv="3" maxLv="5" extraPara="517;54000" />
+    <ItemSpec id="140604" group="1406" connect="1404;1310" name="111000177" description="111000165" des_value="20 h" needLv="1" needTalent="1406_3" Lv="4" maxLv="5" extraPara="517;72000" />
+    <ItemSpec id="140605" group="1406" connect="1404;1310" name="111000177" description="111000165" des_value="25 h" needLv="1" needTalent="1406_4" Lv="5" maxLv="5" extraPara="517;90000" />
+    <ItemSpec id="140701" group="1407" connect="1207;1307;1901;1903" name="111000154" description="111000164" des_value="1%" needLv="1" needTalent="1207_3|1307_3" Lv="1" maxLv="3" extraPara="1050;1" />
+    <ItemSpec id="140702" group="1407" connect="1207;1307;1901;1903" name="111000154" description="111000164" des_value="2%" needLv="1" needTalent="1407_1" Lv="2" maxLv="3" extraPara="1050;2" />
+    <ItemSpec id="140703" group="1407" connect="1207;1307;1901;1903" name="111000154" description="111000164" des_value="3%" needLv="1" needTalent="1407_2" Lv="3" maxLv="3" extraPara="1050;3" />
+    <ItemSpec id="140801" group="1408" connect="0" name="111000176" description="111000165" des_value="1%" needLv="1" needTalent="0" Lv="1" maxLv="3" extraPara="376;1" />
+    <ItemSpec id="140802" group="1408" connect="0" name="111000176" description="111000165" des_value="2%" needLv="1" needTalent="1408_1" Lv="2" maxLv="3" extraPara="376;2" />
+    <ItemSpec id="140803" group="1408" connect="0" name="111000176" description="111000165" des_value="3%" needLv="1" needTalent="1408_2" Lv="3" maxLv="3" extraPara="376;3" />
+    <ItemSpec id="140901" group="1409" connect="0" name="111000177" description="111000165" des_value="5 h" needLv="1" needTalent="0" Lv="1" maxLv="3" extraPara="517;18000" />
+    <ItemSpec id="140902" group="1409" connect="0" name="111000177" description="111000165" des_value="10 h" needLv="1" needTalent="1409_1" Lv="2" maxLv="3" extraPara="517;36000" />
+    <ItemSpec id="140903" group="1409" connect="0" name="111000177" description="111000165" des_value="15 h" needLv="1" needTalent="1409_2" Lv="3" maxLv="3" extraPara="517;54000" />
+    <ItemSpec id="141001" group="1410" connect="1205;1206;1213" name="111000237" description="111000158" des_value="50" needLv="1" needTalent="1205_5|1206_5" Lv="1" maxLv="5" extraPara="513;50" />
+    <ItemSpec id="141002" group="1410" connect="1205;1206;1213" name="111000237" description="111000158" des_value="100" needLv="1" needTalent="1410_1" Lv="2" maxLv="5" extraPara="513;100" />
+    <ItemSpec id="141003" group="1410" connect="1205;1206;1213" name="111000237" description="111000158" des_value="150" needLv="1" needTalent="1410_2" Lv="3" maxLv="5" extraPara="513;150" />
+    <ItemSpec id="141004" group="1410" connect="1205;1206;1213" name="111000237" description="111000158" des_value="200" needLv="1" needTalent="1410_3" Lv="4" maxLv="5" extraPara="513;200" />
+    <ItemSpec id="141005" group="1410" connect="1205;1206;1213" name="111000237" description="111000158" des_value="250" needLv="1" needTalent="1410_4" Lv="5" maxLv="5" extraPara="513;250" />
+    <ItemSpec id="141101" group="1411" connect="0" name="111000176" description="111000165" des_value="1%" needLv="1" needTalent="0" Lv="1" maxLv="3" extraPara="376;1" />
+    <ItemSpec id="141102" group="1411" connect="0" name="111000176" description="111000165" des_value="2%" needLv="1" needTalent="1411_1" Lv="2" maxLv="3" extraPara="376;2" />
+    <ItemSpec id="141103" group="1411" connect="0" name="111000176" description="111000165" des_value="3%" needLv="1" needTalent="1411_2" Lv="3" maxLv="3" extraPara="376;3" />
+    <ItemSpec id="141201" group="1412" connect="0" name="111000177" description="111000165" des_value="5 h" needLv="1" needTalent="0" Lv="1" maxLv="3" extraPara="517;18000" />
+    <ItemSpec id="141202" group="1412" connect="0" name="111000177" description="111000165" des_value="10 h" needLv="1" needTalent="1412_1" Lv="2" maxLv="3" extraPara="517;36000" />
+    <ItemSpec id="141203" group="1412" connect="0" name="111000177" description="111000165" des_value="15 h" needLv="1" needTalent="1412_2" Lv="3" maxLv="3" extraPara="517;54000" />
+    <ItemSpec id="141301" group="1413" connect="2011;2012;1902;1904" name="111000235" description="111000159" des_value="1%" needLv="1" needTalent="2011_5;2012_5" Lv="1" maxLv="5" extraPara="377;1" />
+    <ItemSpec id="141302" group="1413" connect="2011;2012;1902;1904" name="111000235" description="111000159" des_value="2%" needLv="1" needTalent="1413_1" Lv="2" maxLv="5" extraPara="377;2" />
+    <ItemSpec id="141303" group="1413" connect="2011;2012;1902;1904" name="111000235" description="111000159" des_value="3%" needLv="1" needTalent="1413_2" Lv="3" maxLv="5" extraPara="377;3" />
+    <ItemSpec id="141304" group="1413" connect="2011;2012;1902;1904" name="111000235" description="111000159" des_value="4%" needLv="1" needTalent="1413_3" Lv="4" maxLv="5" extraPara="377;4" />
+    <ItemSpec id="141305" group="1413" connect="2011;2012;1902;1904" name="111000235" description="111000159" des_value="5%" needLv="1" needTalent="1413_4" Lv="5" maxLv="5" extraPara="377;5" />
+    <ItemSpec id="141401" group="1414" connect="1310" name="111000147" description="111000165;111000165" des_value="5 h;1%" needLv="1" needTalent="1310_5" Lv="1" maxLv="2" extraPara="517;18000|376;1" />
+    <ItemSpec id="141402" group="1414" connect="1310" name="111000147" description="111000165;111000165" des_value="10 h;2%" needLv="1" needTalent="1414_1" Lv="2" maxLv="2" extraPara="517;36000|376;2" />
+    <ItemSpec id="150101" group="1501" connect="1504;1603" name="111000191" description="111000195" des_value="3%" needLv="1" needTalent="1504_5;1213_5" Lv="1" maxLv="3" extraPara="10088;3|10089;3|10090;3" />
+    <ItemSpec id="150102" group="1501" connect="1504;1603" name="111000191" description="111000195" des_value="5%" needLv="1" needTalent="1501_1" Lv="2" maxLv="3" extraPara="10088;5|10089;5|10090;5" />
+    <ItemSpec id="150103" group="1501" connect="1504;1603" name="111000191" description="111000195" des_value="10%" needLv="1" needTalent="1501_2" Lv="3" maxLv="3" extraPara="10088;10|10089;10|10090;10" />
+    <ItemSpec id="150201" group="1502" connect="1107;1503" name="111000192" description="111000196" des_value="3%" needLv="1" needTalent="1107_3" Lv="1" maxLv="3" extraPara="10091;3|10092;3|10093;3" />
+    <ItemSpec id="150202" group="1502" connect="1107;1503" name="111000192" description="111000196" des_value="5%" needLv="1" needTalent="1502_1" Lv="2" maxLv="3" extraPara="10091;5|10092;5|10093;5" />
+    <ItemSpec id="150203" group="1502" connect="1107;1503" name="111000192" description="111000196" des_value="10%" needLv="1" needTalent="1502_2" Lv="3" maxLv="3" extraPara="10091;10|10092;10|10093;10" />
+    <ItemSpec id="150301" group="1503" connect="1502;1602;1702;1802" name="111000193" description="111000156" des_value="50000" needLv="1" needTalent="1502_3|1602_3" Lv="1" maxLv="5" extraPara="10079;50000|10080;50000|10081;50000" />
+    <ItemSpec id="150302" group="1503" connect="1502;1602;1702;1802" name="111000193" description="111000156" des_value="150000" needLv="1" needTalent="1503_1" Lv="2" maxLv="5" extraPara="10079;150000|10080;150000|10081;150000" />
+    <ItemSpec id="150303" group="1503" connect="1502;1602;1702;1802" name="111000193" description="111000156" des_value="250000" needLv="1" needTalent="1503_2" Lv="3" maxLv="5" extraPara="10079;250000|10080;250000|10081;250000" />
+    <ItemSpec id="150304" group="1503" connect="1502;1602;1702;1802" name="111000193" description="111000156" des_value="150000" needLv="1" needTalent="1503_3" Lv="4" maxLv="5" extraPara="10079;150000|10080;150000|10081;150000" />
+    <ItemSpec id="150305" group="1503" connect="1502;1602;1702;1802" name="111000193" description="111000156" des_value="250000" needLv="1" needTalent="1503_4" Lv="5" maxLv="5" extraPara="10079;250000|10080;250000|10081;250000" />
+    <ItemSpec id="150401" group="1504" connect="1702;1802;1501;1601" name="111000194" description="111000197" des_value="1%" needLv="1" needTalent="1802_3|1702_3" Lv="1" maxLv="5" extraPara="20431;1|20432;1|20435;1|20436;1|20433;1|20434;1" />
+    <ItemSpec id="150402" group="1504" connect="1702;1802;1501;1601" name="111000194" description="111000197" des_value="2%" needLv="1" needTalent="1504_1" Lv="2" maxLv="5" extraPara="20431;2|20432;2|20435;2|20436;2|20433;2|20434;2" />
+    <ItemSpec id="150403" group="1504" connect="1702;1802;1501;1601" name="111000194" description="111000197" des_value="3%" needLv="1" needTalent="1504_2" Lv="3" maxLv="5" extraPara="20431;3|20432;3|20435;3|20436;3|20433;3|20434;3" />
+    <ItemSpec id="150404" group="1504" connect="1702;1802;1501;1601" name="111000194" description="111000197" des_value="4%" needLv="1" needTalent="1504_3" Lv="4" maxLv="5" extraPara="20431;4|20432;4|20435;4|20436;4|20433;4|20434;4" />
+    <ItemSpec id="150405" group="1504" connect="1702;1802;1501;1601" name="111000194" description="111000197" des_value="5%" needLv="1" needTalent="1504_4" Lv="5" maxLv="5" extraPara="20431;5|20432;5|20435;5|20436;5|20433;5|20434;5" />
+    <ItemSpec id="160101" group="1601" connect="1504;1603" name="111000202" description="111000204" des_value="3%" needLv="1" needTalent="1504_5;1213_5" Lv="1" maxLv="3" extraPara="10082;3|10083;3|10084;3" />
+    <ItemSpec id="160102" group="1601" connect="1504;1603" name="111000202" description="111000204" des_value="5%" needLv="1" needTalent="1601_1" Lv="2" maxLv="3" extraPara="10082;5|10083;5|10084;5" />
+    <ItemSpec id="160103" group="1601" connect="1504;1603" name="111000202" description="111000204" des_value="10%" needLv="1" needTalent="1601_2" Lv="3" maxLv="3" extraPara="10082;10|10083;10|10084;10" />
+    <ItemSpec id="160201" group="1602" connect="1107;1503" name="111000203" description="111000206" des_value="3%" needLv="1" needTalent="1107_3" Lv="1" maxLv="3" extraPara="10085;-3|10086;-3|10087;-3" />
+    <ItemSpec id="160202" group="1602" connect="1107;1503" name="111000203" description="111000206" des_value="5%" needLv="1" needTalent="1602_1" Lv="2" maxLv="3" extraPara="10085;-5|10086;-5|10087;-5" />
+    <ItemSpec id="160203" group="1602" connect="1107;1503" name="111000203" description="111000206" des_value="10%" needLv="1" needTalent="1602_2" Lv="3" maxLv="3" extraPara="10085;-10|10086;-10|10087;-10" />
+    <ItemSpec id="160301" group="1603" connect="1501;1601;1701;1801" name="111000193" description="111000156" des_value="50000" needLv="1" needTalent="1601_3|1501_3" Lv="1" maxLv="5" extraPara="10079;50000|10080;50000|10081;50000" />
+    <ItemSpec id="160302" group="1603" connect="1501;1601;1701;1801" name="111000193" description="111000156" des_value="150000" needLv="1" needTalent="1603_1" Lv="2" maxLv="5" extraPara="10079;150000|10080;150000|10081;150000" />
+    <ItemSpec id="160303" group="1603" connect="1501;1601;1701;1801" name="111000193" description="111000156" des_value="250000" needLv="1" needTalent="1603_2" Lv="3" maxLv="5" extraPara="10079;250000|10080;250000|10081;250000" />
+    <ItemSpec id="160304" group="1603" connect="1501;1601;1701;1801" name="111000193" description="111000156" des_value="150000" needLv="1" needTalent="1603_3" Lv="4" maxLv="5" extraPara="10079;150000|10080;150000|10081;150000" />
+    <ItemSpec id="160305" group="1603" connect="1501;1601;1701;1801" name="111000193" description="111000156" des_value="250000" needLv="1" needTalent="1603_4" Lv="5" maxLv="5" extraPara="10079;250000|10080;250000|10081;250000" />
+    <ItemSpec id="160401" group="1604" connect="1701;1801;1703;1803" name="111000194" description="111000197" des_value="1%" needLv="1" needTalent="1701_3|1801_3" Lv="1" maxLv="5" extraPara="20431;1|20432;1|20435;1|20436;1|20433;1|20434;1" />
+    <ItemSpec id="160402" group="1604" connect="1701;1801;1703;1803" name="111000194" description="111000197" des_value="2%" needLv="1" needTalent="1604_1" Lv="2" maxLv="5" extraPara="20431;2|20432;2|20435;2|20436;2|20433;2|20434;2" />
+    <ItemSpec id="160403" group="1604" connect="1701;1801;1703;1803" name="111000194" description="111000197" des_value="3%" needLv="1" needTalent="1604_2" Lv="3" maxLv="5" extraPara="20431;3|20432;3|20435;3|20436;3|20433;3|20434;3" />
+    <ItemSpec id="160404" group="1604" connect="1701;1801;1703;1803" name="111000194" description="111000197" des_value="4%" needLv="1" needTalent="1604_3" Lv="4" maxLv="5" extraPara="20431;4|20432;4|20435;4|20436;4|20433;4|20434;4" />
+    <ItemSpec id="160405" group="1604" connect="1701;1801;1703;1803" name="111000194" description="111000197" des_value="5%" needLv="1" needTalent="1604_4" Lv="5" maxLv="5" extraPara="20431;5|20432;5|20435;5|20436;5|20433;5|20434;5" />
+    <ItemSpec id="170101" group="1701" connect="1603;1604" name="111000191" description="111000195" des_value="3%" needLv="1" needTalent="1603_5" Lv="1" maxLv="3" extraPara="10088;3|10089;3|10090;3" />
+    <ItemSpec id="170102" group="1701" connect="1603;1604" name="111000191" description="111000195" des_value="5%" needLv="1" needTalent="1701_1" Lv="2" maxLv="3" extraPara="10088;5|10089;5|10090;5" />
+    <ItemSpec id="170103" group="1701" connect="1603;1604" name="111000191" description="111000195" des_value="10%" needLv="1" needTalent="1701_2" Lv="3" maxLv="3" extraPara="10088;10|10089;10|10090;10" />
+    <ItemSpec id="170201" group="1702" connect="1503;1504" name="111000192" description="111000196" des_value="3%" needLv="1" needTalent="1503_5" Lv="1" maxLv="3" extraPara="10091;3|10092;3|10093;3" />
+    <ItemSpec id="170202" group="1702" connect="1503;1504" name="111000192" description="111000196" des_value="5%" needLv="1" needTalent="1702_1" Lv="2" maxLv="3" extraPara="10091;5|10092;5|10093;5" />
+    <ItemSpec id="170203" group="1702" connect="1503;1504" name="111000192" description="111000196" des_value="10%" needLv="1" needTalent="1702_2" Lv="3" maxLv="3" extraPara="10091;10|10092;10|10093;10" />
+    <ItemSpec id="170301" group="1703" connect="1604;1313" name="111000193" description="111000156" des_value="50000" needLv="1" needTalent="1604_5" Lv="1" maxLv="5" extraPara="10079;50000|10080;50000|10081;50000" />
+    <ItemSpec id="170302" group="1703" connect="1604;1313" name="111000193" description="111000156" des_value="150000" needLv="1" needTalent="1703_1" Lv="2" maxLv="5" extraPara="10079;150000|10080;150000|10081;150000" />
+    <ItemSpec id="170303" group="1703" connect="1604;1313" name="111000193" description="111000156" des_value="250000" needLv="1" needTalent="1703_2" Lv="3" maxLv="5" extraPara="10079;250000|10080;250000|10081;250000" />
+    <ItemSpec id="170304" group="1703" connect="1604;1313" name="111000193" description="111000156" des_value="150000" needLv="1" needTalent="1703_3" Lv="4" maxLv="5" extraPara="10079;150000|10080;150000|10081;150000" />
+    <ItemSpec id="170305" group="1703" connect="1604;1313" name="111000193" description="111000156" des_value="250000" needLv="1" needTalent="1703_4" Lv="5" maxLv="5" extraPara="10079;250000|10080;250000|10081;250000" />
+    <ItemSpec id="170401" group="1704" connect="1313" name="111000194" description="111000197" des_value="1%" needLv="1" needTalent="1313_5" Lv="1" maxLv="5" extraPara="20431;1|20432;1|20435;1|20436;1|20433;1|20434;1" />
+    <ItemSpec id="170402" group="1704" connect="1313" name="111000194" description="111000197" des_value="2%" needLv="1" needTalent="1704_1" Lv="2" maxLv="5" extraPara="20431;2|20432;2|20435;2|20436;2|20433;2|20434;2" />
+    <ItemSpec id="170403" group="1704" connect="1313" name="111000194" description="111000197" des_value="3%" needLv="1" needTalent="1704_2" Lv="3" maxLv="5" extraPara="20431;3|20432;3|20435;3|20436;3|20433;3|20434;3" />
+    <ItemSpec id="170404" group="1704" connect="1313" name="111000194" description="111000197" des_value="4%" needLv="1" needTalent="1704_3" Lv="4" maxLv="5" extraPara="20431;4|20432;4|20435;4|20436;4|20433;4|20434;4" />
+    <ItemSpec id="170405" group="1704" connect="1313" name="111000194" description="111000197" des_value="5%" needLv="1" needTalent="1704_4" Lv="5" maxLv="5" extraPara="20431;5|20432;5|20435;5|20436;5|20433;5|20434;5" />
+    <ItemSpec id="180101" group="1801" connect="1603;1604" name="111000202" description="111000204" des_value="3%" needLv="1" needTalent="1603_5" Lv="1" maxLv="3" extraPara="10082;3|10083;3|10084;3" />
+    <ItemSpec id="180102" group="1801" connect="1603;1604" name="111000202" description="111000204" des_value="5%" needLv="1" needTalent="1801_1" Lv="2" maxLv="3" extraPara="10082;5|10083;5|10084;5" />
+    <ItemSpec id="180103" group="1801" connect="1603;1604" name="111000202" description="111000204" des_value="10%" needLv="1" needTalent="1801_2" Lv="3" maxLv="3" extraPara="10082;10|10083;10|10084;10" />
+    <ItemSpec id="180201" group="1802" connect="1503;1504" name="111000203" description="111000206" des_value="3%" needLv="1" needTalent="1503_5" Lv="1" maxLv="3" extraPara="10085;-3|10086;-3|10087;-3" />
+    <ItemSpec id="180202" group="1802" connect="1503;1504" name="111000203" description="111000206" des_value="5%" needLv="1" needTalent="1802_1" Lv="2" maxLv="3" extraPara="10085;-5|10086;-5|10087;-5" />
+    <ItemSpec id="180203" group="1802" connect="1503;1504" name="111000203" description="111000206" des_value="10%" needLv="1" needTalent="1802_2" Lv="3" maxLv="3" extraPara="10085;-10|10086;-10|10087;-10" />
+    <ItemSpec id="180301" group="1803" connect="1604;1313" name="111000193" description="111000156" des_value="50000" needLv="1" needTalent="1604_5" Lv="1" maxLv="5" extraPara="10079;50000|10080;50000|10081;50000" />
+    <ItemSpec id="180302" group="1803" connect="1604;1313" name="111000193" description="111000156" des_value="150000" needLv="1" needTalent="1803_1" Lv="2" maxLv="5" extraPara="10079;150000|10080;150000|10081;150000" />
+    <ItemSpec id="180303" group="1803" connect="1604;1313" name="111000193" description="111000156" des_value="250000" needLv="1" needTalent="1803_2" Lv="3" maxLv="5" extraPara="10079;250000|10080;250000|10081;250000" />
+    <ItemSpec id="180304" group="1803" connect="1604;1313" name="111000193" description="111000156" des_value="150000" needLv="1" needTalent="1803_3" Lv="4" maxLv="5" extraPara="10079;150000|10080;150000|10081;150000" />
+    <ItemSpec id="180305" group="1803" connect="1604;1313" name="111000193" description="111000156" des_value="250000" needLv="1" needTalent="1803_4" Lv="5" maxLv="5" extraPara="10079;250000|10080;250000|10081;250000" />
+    <ItemSpec id="180401" group="1804" connect="1313" name="111000194" description="111000197" des_value="1%" needLv="1" needTalent="1313_5" Lv="1" maxLv="5" extraPara="20431;1|20432;1|20435;1|20436;1|20433;1|20434;1" />
+    <ItemSpec id="180402" group="1804" connect="1313" name="111000194" description="111000197" des_value="2%" needLv="1" needTalent="1804_1" Lv="2" maxLv="5" extraPara="20431;2|20432;2|20435;2|20436;2|20433;2|20434;2" />
+    <ItemSpec id="180403" group="1804" connect="1313" name="111000194" description="111000197" des_value="3%" needLv="1" needTalent="1804_2" Lv="3" maxLv="5" extraPara="20431;3|20432;3|20435;3|20436;3|20433;3|20434;3" />
+    <ItemSpec id="180404" group="1804" connect="1313" name="111000194" description="111000197" des_value="4%" needLv="1" needTalent="1804_3" Lv="4" maxLv="5" extraPara="20431;4|20432;4|20435;4|20436;4|20433;4|20434;4" />
+    <ItemSpec id="180405" group="1804" connect="1313" name="111000194" description="111000197" des_value="5%" needLv="1" needTalent="1804_4" Lv="5" maxLv="5" extraPara="20431;5|20432;5|20435;5|20436;5|20433;5|20434;5" />
+    <ItemSpec id="190101" group="1901" connect="1407;2001;2002" name="111000208" description="111000210" des_value="1%" needLv="1" needTalent="1407_3;1213_5" Lv="1" maxLv="5" extraPara="10040;1" />
+    <ItemSpec id="190102" group="1901" connect="1407;2001;2002" name="111000208" description="111000210" des_value="2%" needLv="1" needTalent="1901_1" Lv="2" maxLv="5" extraPara="10040;2" />
+    <ItemSpec id="190103" group="1901" connect="1407;2001;2002" name="111000208" description="111000210" des_value="3%" needLv="1" needTalent="1901_2" Lv="3" maxLv="5" extraPara="10040;3" />
+    <ItemSpec id="190104" group="1901" connect="1407;2001;2002" name="111000208" description="111000210" des_value="4%" needLv="1" needTalent="1901_3" Lv="4" maxLv="5" extraPara="10040;4" />
+    <ItemSpec id="190105" group="1901" connect="1407;2001;2002" name="111000208" description="111000210" des_value="5%" needLv="1" needTalent="1901_4" Lv="5" maxLv="5" extraPara="10040;5" />
+    <ItemSpec id="190201" group="1902" connect="1413;2013" name="111000208" description="111000210" des_value="1%" needLv="1" needTalent="1413_5" Lv="1" maxLv="5" extraPara="10040;1" />
+    <ItemSpec id="190202" group="1902" connect="1413;2013" name="111000208" description="111000210" des_value="2%" needLv="1" needTalent="1902_1" Lv="2" maxLv="5" extraPara="10040;2" />
+    <ItemSpec id="190203" group="1902" connect="1413;2013" name="111000208" description="111000210" des_value="3%" needLv="1" needTalent="1902_2" Lv="3" maxLv="5" extraPara="10040;3" />
+    <ItemSpec id="190204" group="1902" connect="1413;2013" name="111000208" description="111000210" des_value="4%" needLv="1" needTalent="1902_3" Lv="4" maxLv="5" extraPara="10040;4" />
+    <ItemSpec id="190205" group="1902" connect="1413;2013" name="111000208" description="111000210" des_value="5%" needLv="1" needTalent="1902_4" Lv="5" maxLv="5" extraPara="10040;5" />
+    <ItemSpec id="190301" group="1903" connect="1407;2002;2003" name="111000209" description="111000211" des_value="1%" needLv="1" needTalent="1407_3;1213_5" Lv="1" maxLv="5" extraPara="32000;1" />
+    <ItemSpec id="190302" group="1903" connect="1407;2002;2003" name="111000209" description="111000211" des_value="2%" needLv="1" needTalent="1903_1" Lv="2" maxLv="5" extraPara="32000;2" />
+    <ItemSpec id="190303" group="1903" connect="1407;2002;2003" name="111000209" description="111000211" des_value="3%" needLv="1" needTalent="1903_2" Lv="3" maxLv="5" extraPara="32000;3" />
+    <ItemSpec id="190304" group="1903" connect="1407;2002;2003" name="111000209" description="111000211" des_value="4%" needLv="1" needTalent="1903_3" Lv="4" maxLv="5" extraPara="32000;4" />
+    <ItemSpec id="190305" group="1903" connect="1407;2002;2003" name="111000209" description="111000211" des_value="5%" needLv="1" needTalent="1903_4" Lv="5" maxLv="5" extraPara="32000;5" />
+    <ItemSpec id="190401" group="1904" connect="1413;2013" name="111000209" description="111000211" des_value="1%" needLv="1" needTalent="1413_5" Lv="1" maxLv="5" extraPara="32000;1" />
+    <ItemSpec id="190402" group="1904" connect="1413;2013" name="111000209" description="111000211" des_value="2%" needLv="1" needTalent="1904_1" Lv="2" maxLv="5" extraPara="32000;2" />
+    <ItemSpec id="190403" group="1904" connect="1413;2013" name="111000209" description="111000211" des_value="3%" needLv="1" needTalent="1904_2" Lv="3" maxLv="5" extraPara="32000;3" />
+    <ItemSpec id="190404" group="1904" connect="1413;2013" name="111000209" description="111000211" des_value="4%" needLv="1" needTalent="1904_3" Lv="4" maxLv="5" extraPara="32000;4" />
+    <ItemSpec id="190405" group="1904" connect="1413;2013" name="111000209" description="111000211" des_value="5%" needLv="1" needTalent="1904_4" Lv="5" maxLv="5" extraPara="32000;5" />
+    <ItemSpec id="200101" group="2001" connect="1901;2011" name="111000212" description="111000215" des_value="2%" needLv="1" needTalent="1901_5" Lv="1" maxLv="5" extraPara="19020;2" />
+    <ItemSpec id="200102" group="2001" connect="1901;2011" name="111000212" description="111000215" des_value="4%" needLv="1" needTalent="2001_1" Lv="2" maxLv="5" extraPara="19020;4" />
+    <ItemSpec id="200103" group="2001" connect="1901;2011" name="111000212" description="111000215" des_value="6%" needLv="1" needTalent="2001_2" Lv="3" maxLv="5" extraPara="19020;6" />
+    <ItemSpec id="200104" group="2001" connect="1901;2011" name="111000212" description="111000215" des_value="8%" needLv="1" needTalent="2001_3" Lv="4" maxLv="5" extraPara="19020;8" />
+    <ItemSpec id="200105" group="2001" connect="1901;2011" name="111000212" description="111000215" des_value="10%" needLv="1" needTalent="2001_4" Lv="5" maxLv="5" extraPara="19020;10" />
+    <ItemSpec id="200201" group="2002" connect="1901;1903;2011;2012" name="111000213" description="111000216" des_value="2%" needLv="1" needTalent="1901_5|1903_5" Lv="1" maxLv="5" extraPara="19021;2" />
+    <ItemSpec id="200202" group="2002" connect="1901;1903;2011;2012" name="111000213" description="111000216" des_value="4%" needLv="1" needTalent="2002_1" Lv="2" maxLv="5" extraPara="19021;4" />
+    <ItemSpec id="200203" group="2002" connect="1901;1903;2011;2012" name="111000213" description="111000216" des_value="6%" needLv="1" needTalent="2002_2" Lv="3" maxLv="5" extraPara="19021;6" />
+    <ItemSpec id="200204" group="2002" connect="1901;1903;2011;2012" name="111000213" description="111000216" des_value="8%" needLv="1" needTalent="2002_3" Lv="4" maxLv="5" extraPara="19021;8" />
+    <ItemSpec id="200205" group="2002" connect="1901;1903;2011;2012" name="111000213" description="111000216" des_value="10%" needLv="1" needTalent="2002_4" Lv="5" maxLv="5" extraPara="19021;10" />
+    <ItemSpec id="200301" group="2003" connect="1903;2012" name="111000214" description="111000217" des_value="2%" needLv="1" needTalent="1903_5" Lv="1" maxLv="5" extraPara="19022;2" />
+    <ItemSpec id="200302" group="2003" connect="1903;2012" name="111000214" description="111000217" des_value="4%" needLv="1" needTalent="2003_1" Lv="2" maxLv="5" extraPara="19022;4" />
+    <ItemSpec id="200303" group="2003" connect="1903;2012" name="111000214" description="111000217" des_value="6%" needLv="1" needTalent="2003_2" Lv="3" maxLv="5" extraPara="19022;6" />
+    <ItemSpec id="200304" group="2003" connect="1903;2012" name="111000214" description="111000217" des_value="8%" needLv="1" needTalent="2003_3" Lv="4" maxLv="5" extraPara="19022;8" />
+    <ItemSpec id="200305" group="2003" connect="1903;2012" name="111000214" description="111000217" des_value="10%" needLv="1" needTalent="2003_4" Lv="5" maxLv="5" extraPara="19022;10" />
+    <ItemSpec id="201101" group="2011" connect="2001;2002;1413" name="111000218" description="111000220" des_value="1%" needLv="1" needTalent="2001_5|2002_5" Lv="1" maxLv="5" extraPara="19018;1" />
+    <ItemSpec id="201102" group="2011" connect="2001;2002;1413" name="111000218" description="111000220" des_value="2%" needLv="1" needTalent="2011_1" Lv="2" maxLv="5" extraPara="19018;2" />
+    <ItemSpec id="201103" group="2011" connect="2001;2002;1413" name="111000218" description="111000220" des_value="3%" needLv="1" needTalent="2011_2" Lv="3" maxLv="5" extraPara="19018;3" />
+    <ItemSpec id="201104" group="2011" connect="2001;2002;1413" name="111000218" description="111000220" des_value="4%" needLv="1" needTalent="2011_3" Lv="4" maxLv="5" extraPara="19018;4" />
+    <ItemSpec id="201105" group="2011" connect="2001;2002;1413" name="111000218" description="111000220" des_value="5%" needLv="1" needTalent="2011_4" Lv="5" maxLv="5" extraPara="19018;5" />
+    <ItemSpec id="201201" group="2012" connect="2002;2003;1413" name="111000219" description="111000221" des_value="1%" needLv="1" needTalent="2002_5|2003_5" Lv="1" maxLv="5" extraPara="19019;1" />
+    <ItemSpec id="201202" group="2012" connect="2002;2003;1413" name="111000219" description="111000221" des_value="2%" needLv="1" needTalent="2012_1" Lv="2" maxLv="5" extraPara="19019;2" />
+    <ItemSpec id="201203" group="2012" connect="2002;2003;1413" name="111000219" description="111000221" des_value="3%" needLv="1" needTalent="2012_2" Lv="3" maxLv="5" extraPara="19019;3" />
+    <ItemSpec id="201204" group="2012" connect="2002;2003;1413" name="111000219" description="111000221" des_value="4%" needLv="1" needTalent="2012_3" Lv="4" maxLv="5" extraPara="19019;4" />
+    <ItemSpec id="201205" group="2012" connect="2002;2003;1413" name="111000219" description="111000221" des_value="5%" needLv="1" needTalent="2012_4" Lv="5" maxLv="5" extraPara="19019;5" />
+    <ItemSpec id="201301" group="2013" connect="1902;1904" name="111000222" description="111000223" des_value="1%" needLv="1" needTalent="1902_5|1904_5" Lv="1" maxLv="5" extraPara="19023;10" />
+    <ItemSpec id="201302" group="2013" connect="1902;1904" name="111000222" description="111000223" des_value="2%" needLv="1" needTalent="2013_1" Lv="2" maxLv="5" extraPara="19023;20" />
+    <ItemSpec id="201303" group="2013" connect="1902;1904" name="111000222" description="111000223" des_value="3%" needLv="1" needTalent="2013_2" Lv="3" maxLv="5" extraPara="19023;30" />
+    <ItemSpec id="201304" group="2013" connect="1902;1904" name="111000222" description="111000223" des_value="4%" needLv="1" needTalent="2013_3" Lv="4" maxLv="5" extraPara="19023;40" />
+    <ItemSpec id="201305" group="2013" connect="1902;1904" name="111000222" description="111000223" des_value="5%" needLv="1" needTalent="2013_4" Lv="5" maxLv="5" extraPara="19023;50" />
+    <ItemSpec id="202101" group="2021" connect="2013" name="111000150" description="111000160" des_value="2%" needLv="1" needTalent="2013_5" Lv="1" maxLv="5" extraPara="1030;2" />
+    <ItemSpec id="202102" group="2021" connect="2013" name="111000150" description="111000160" des_value="4%" needLv="1" needTalent="2021_1" Lv="2" maxLv="5" extraPara="1030;4" />
+    <ItemSpec id="202103" group="2021" connect="2013" name="111000150" description="111000160" des_value="6%" needLv="1" needTalent="2021_2" Lv="3" maxLv="5" extraPara="1030;6" />
+    <ItemSpec id="202104" group="2021" connect="2013" name="111000150" description="111000160" des_value="8%" needLv="1" needTalent="2021_3" Lv="4" maxLv="5" extraPara="1030;8" />
+    <ItemSpec id="202105" group="2021" connect="2013" name="111000150" description="111000160" des_value="10%" needLv="1" needTalent="2021_4" Lv="5" maxLv="5" extraPara="1030;10" />
+    <ItemSpec id="202201" group="2022" connect="2013" name="111000152" description="111000162" des_value="2%" needLv="1" needTalent="2013_5" Lv="1" maxLv="5" extraPara="1010;2" />
+    <ItemSpec id="202202" group="2022" connect="2013" name="111000152" description="111000162" des_value="4%" needLv="1" needTalent="2022_1" Lv="2" maxLv="5" extraPara="1010;4" />
+    <ItemSpec id="202203" group="2022" connect="2013" name="111000152" description="111000162" des_value="6%" needLv="1" needTalent="2022_2" Lv="3" maxLv="5" extraPara="1010;6" />
+    <ItemSpec id="202204" group="2022" connect="2013" name="111000152" description="111000162" des_value="8%" needLv="1" needTalent="2022_3" Lv="4" maxLv="5" extraPara="1010;8" />
+    <ItemSpec id="202205" group="2022" connect="2013" name="111000152" description="111000162" des_value="10%" needLv="1" needTalent="2022_4" Lv="5" maxLv="5" extraPara="1010;10" />
+
+
+	</Group> 
+</tns:database>

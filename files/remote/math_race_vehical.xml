@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="math_race_vehical">
+		<ItemSpec id="julvche" model="julvche" size="120,180" category="small" offset="0,-25" shadow="-10,20"/>
+		<ItemSpec id="pika" model="pika" size="130,160" category="small" offset="-5,-15" shadow="-10,18"/>
+		<ItemSpec id="T8" model="T8" size="200,240" category="big" offset="0,17" shadow="-10,50"/>
+		<ItemSpec id="brave" model="brave" size="120,160" category="small" offset="0,-25" shadow="-10,25"/>
+		<ItemSpec id="hummer" model="hummer" size="120,120" category="small" offset="0,-20" shadow="-15,55"/>
+		<ItemSpec id="T10" model="T10" size="120,150" category="big" offset="0,15" shadow="-10,10"/>
+		<ItemSpec id="hunt" model="hunt" size="150,180" category="small" offset="0,0" shadow="-15,30"/>
+		<ItemSpec id="motuoche" model="motuoche" size="120,180" category="small" offset="0,-25" shadow="-10,20"/>
+	</Group>
+</tns:database>

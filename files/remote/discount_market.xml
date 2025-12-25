@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="discount_market">
+    <ItemSpec id="1" type="1" order="6000" hot="0" icon="FB_huodongjinxiang2" name="100975" show_level="2"/>
+    <ItemSpec id="2" type="1" order="9800" hot="0" icon="FB_huodongjinxiang2" name="110270076" show_level="8"/>
+    <ItemSpec id="4" type="3" order="9000" hot="0" icon="FB_shangcheng3" name="110028001" show_level="8" rewardname="190907" />
+    <ItemSpec id="5" type="3" order="8000" hot="0" icon="FB_shangcheng3" name="110270354" show_level="4" rewardname="110270434"/>
+    <ItemSpec id="6" type="3" order="7000" hot="0" icon="FB_shangcheng3" name="101283" show_level="8" rewardname="110270435" />
+		<ItemSpec id="7" type="1" order="7500" hot="0" icon="FB_huodongjinxiang2" name="111003004" show_level="8"/>
+		<ItemSpec id="12" type="1" order="10000" hot="1" icon="FB_huodongjinxiang2" name="110270537" show_level="8" banner="banner_thsc_Christmas.png" corner_icon="img_decorate_Christmas_snow1|img_decorate_Christmas_snow2"/>
+		<ItemSpec id="13" type="1" order="9500" hot="1" icon="FB_huodongjinxiang2" name="101249" show_level="8" banner="banner_thsc_newyear.png" corner_icon="img_decorate_newyear_01|img_decorate_newyear_02"/>
+		<ItemSpec id="14" type="1" order="9500" hot="1" icon="FB_huodongjinxiang2" name="110270527" show_level="8" banner="banner_thsc_TWD.png"/>
+		<ItemSpec id="15" type="1" order="10000" hot="1" icon="FB_huodongjinxiang2" name="112184001" show_level="8" corner_icon="img_decorate_fhj_01" banner="banner_2025zhounian.png"/>
+		<ItemSpec id="16" type="1" order="10000" hot="1" icon="FB_huodongjinxiang2" name="100189" show_level="8" corner_icon="img_decorate_fhj_01|img_decorate_fhj_02" banner="banner_wanshengjie2.png"/>
+		<ItemSpec id="17" type="1" order="10000" hot="1" icon="FB_huodongjinxiang2" name="5600611" show_level="8" corner_icon="img_decorate_xr_01|img_decorate_xr_02" banner="banner_dbcz_xiariqingdian2.png"/>
+		<ItemSpec id="18" type="1" order="10000" hot="1" icon="FB_huodongjinxiang2" name="90821055" show_level="8" />
+		<ItemSpec id="19" type="1" order="10000" hot="1" icon="FB_huodongjinxiang2" name="100168" show_level="8" />
+	<ItemSpec id="21" type="4" order="101" hot="0" icon="FB_shangcheng3" name="101221" show_level="4"  /> <!--特惠商城融合原钻石商城标签，类4，101221获得钻石-->
+    <ItemSpec id="22" type="5" order="102" hot="0" icon="FB_shangcheng3" name="110330152" show_level="4"  /> <!--特惠商城融合原钻石商城标签，类5，110330152钻石商城-->
+    <ItemSpec id="23" type="6" order="99999" hot="0" icon="FB_shangcheng3" name="101110" show_level="4" /> <!--特惠商城融合原钻石商城标签，类6，101110热销礼包-->
+<!-- 卫星页签	 -->
+		<ItemSpec id="24" type="1" order="7600" hot="0" icon="FB_huodongjinxiang2" name="110403711" show_level="20"/>
+<!-- 守备设计方案页签	 -->
+		<ItemSpec id="25" type="1" order="7200" hot="0" icon="FB_huodongjinxiang2" name="212079" show_level="25"/>
+<!-- 帝王将	 -->
+		<ItemSpec id="26" type="1" order="9000" hot="0" icon="FB_huodongjinxiang2" name="110403110" show_level="8" banner="banner_diwangur.png" />
+		<!-- 战机 -->
+        <ItemSpec id="27" type="1" order="7800" hot="0" icon="FB_huodongjinxiang2" name="110112111" show_level="20"/>
+
+    </Group> 
+
+</tns:database>

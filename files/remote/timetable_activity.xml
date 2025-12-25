@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="timetable_activity">
+
+    <ItemSpec id="1" activity="9001090;9001091;9001092;9001093;9001061;9001065;9001094;9001091" subject="105810"/>
+    <ItemSpec id="2" activity="9001014;9001065;9001011;9001058;9001012;9001062;9001020;9001018" subject="133124"/>
+    <ItemSpec id="3" activity="9001058;9001063;9001061;9001012;9001006;9001059;9001065;9001054" subject="133142"/>
+    <ItemSpec id="4" activity="9001068;9001052;9001069;9001052;9001070;9001052;9001069;9001052" subject="100354"/>
+    <ItemSpec id="5" activity="9001058;9001061;9001065;9001064;9001067;9001008;9001015;9001058" subject="83000209"/>
+    <ItemSpec id="6" activity="9001058;9001063;9001062;9001064;9001065;9001066;9001008;9001015" subject="150701"/>
+    <ItemSpec id="7" activity="9001058;9001063;9001062;9001064;9001065;9001066;9001008;9001015" subject="110110022" tips="110110023"/>
+
+
+
+</Group>
+
+<Group id="timetable_activity_new">
+
+    <ItemSpec id="1" activity="9001708;9001705;9001708;9001707;9001706;9001708" subject="105810"/>
+    <ItemSpec id="2" activity="9001705;9001709;9001710;9001705;9001704;9001705" subject="133124"/>
+    <ItemSpec id="3" activity="9001707;9001710;9001704;9001707;9001704;9001707" subject="133142"/>
+    <ItemSpec id="4" activity="9001711;9001712;9001713;9001711;9001714;9001711" subject="100354"/>
+    <ItemSpec id="5" activity="9001706;9001704;9001706;9001705;9001707;9001706" subject="83000209"/>
+    <ItemSpec id="6" activity="9001704;9001705;9001706;9001707;9001708;9001704" subject="150701"/>
+    <ItemSpec id="7" activity="9001704;9001705;9001706;9001707;9001708;9001704" subject="110110022" tips="110110023"/>
+
+
+
+</Group>
+
+
+
+</tns:database>

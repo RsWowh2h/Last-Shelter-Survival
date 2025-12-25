@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="fortress_shop">
+		<ItemSpec id="1" group="1" product_id="310165" cost_item="215398:8000" exchange_time="5" priority="1" sale="300"/>
+		<ItemSpec id="2" group="1" product_id="310165" cost_item="215398:12000" exchange_time="15" priority="2" sale="260"/>
+		<ItemSpec id="3" group="1" product_id="310165" cost_item="215398:16000" exchange_time="30" priority="3" sale="200"/>
+		<ItemSpec id="4" group="1" product_id="310165" cost_item="215398:24000" exchange_time="50" priority="4" sale="100"/>
+		<ItemSpec id="5" group="2" product_id="310165" cost_item="200121:800|200122:800|200123:800" exchange_time="5" priority="1" sale="300"/>
+		<ItemSpec id="6" group="2" product_id="310165" cost_item="200121:1200|200122:1200|200123:1200" exchange_time="15" priority="2" sale="260"/>
+		<ItemSpec id="7" group="2" product_id="310165" cost_item="200121:1600|200122:1600|200123:1600" exchange_time="30" priority="3" sale="200"/>
+		<ItemSpec id="8" group="2" product_id="310165" cost_item="200121:2400|200122:2400|200123:2400" exchange_time="50" priority="4" sale="100"/>
+		<ItemSpec id="9" group="3" product_id="310165" cost_item="210163:6000" exchange_time="10" priority="1" sale="300"/>
+	</Group>
+</tns:database>

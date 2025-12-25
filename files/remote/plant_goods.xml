@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="plant_goods">
+
+    <ItemSpec id="1" goods_id="600201" spine="JiaoShui" animation="animation" description="110557116" />
+    <ItemSpec id="2" goods_id="600202" spine="PenWuJi" animation="animation" description="110557117" />
+    <ItemSpec id="3" goods_id="600203" spine="YinYueHe" animation="animation" description="110557118" />
+    <ItemSpec id="4" goods_id="600204" spine="BoZhong" animation="animation1" description="110557119" />
+
+
+
+
+
+	</Group>
+
+</tns:database>

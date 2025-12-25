@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="roeResRecommend">
+		<!--金币-->
+	    <ItemSpec id="883000005" resType="30" title="90901001" para1="90901013" para2="90901014" para3="1M" para4="3M" order="1"/>
+		<ItemSpec id="883000010" resType="30" title="90901001" para1="90901021" para2="90901022" para3="9M" para4="20M" order="2"/>
+		
+		<ItemSpec id="190826033" resType="30" title="90901001" para1="90901013" para2="90901014" para3="1M" para4="2.7M" order="3"/>
+		<ItemSpec id="190416009" resType="30" title="90901006" para1="90901021" para2="90901022" para3="9M" para4="16M" order="4"/>
+		
+		<!--金币贬值-->
+		<ItemSpec id="883000117" resType="30" title="90901001" para1="90901021" para2="90901022" para3="1M" para4="3M" order="5"/>
+		<ItemSpec id="883000120" resType="30" title="90901006" para1="90901021" para2="90901022" para3="9M" para4="20M" order="6"/>
+		
+		<!--铁-->
+		<ItemSpec id="883000004" resType="1" title="90901002" para1="90901015" para2="90901016" para3="2.58M" para4="11M" order="1"/>
+		<ItemSpec id="883000009" resType="1" title="90901002" para1="90901023" para2="90901024" para3="35M" para4="70M" order="2"/>
+		
+		<ItemSpec id="180826045" resType="1" title="90901002" para1="90901015" para2="90901016" para3="2.58M" para4="9M" order="3"/>
+		<ItemSpec id="180826037" resType="1" title="90901002" para1="90901015" para2="90901016" para3="2.58M" para4="9M" order="4"/>
+		<ItemSpec id="190416008" resType="1" title="90901007" para1="90901023" para2="90901024" para3="35M" para4="60M" order="5"/>
+		
+		<!--铁贬值-->
+		<ItemSpec id="883000102" resType="1" title="90901002" para1="90901023" para2="90901024" para3="2.58M" para4="11M" order="6"/>
+		<ItemSpec id="883000106" resType="1" title="90901002" para1="90901023" para2="90901024" para3="2.58M" para4="11M" order="7"/>
+		<ItemSpec id="883000116" resType="1" title="90901007" para1="90901023" para2="90901024" para3="35M" para4="70M" order="8"/>
+		
+		<!--石头-->
+		<ItemSpec id="883000003" resType="2" title="90901005" para1="90901019" para2="90901020" para3="3.5M" para4="14M" order="1"/>
+		<ItemSpec id="883000008" resType="2" title="90901005" para1="90901027" para2="90901028" para3="46M" para4="93M" order="2"/>
+		
+		<ItemSpec id="180826044" resType="2" title="90901005" para1="90901019" para2="90901020" para3="3.5M" para4="12M" order="3"/>
+		<ItemSpec id="180826036" resType="2" title="90901005" para1="90901019" para2="90901020" para3="3.5M" para4="12M" order="4"/>
+		<ItemSpec id="190416007" resType="2" title="90901010" para1="90901027" para2="90901028" para3="46M" para4="80M" order="5"/>
+		
+		<!--石头贬值-->
+		<ItemSpec id="883000101" resType="2" title="90901005" para1="90901019" para2="90901020" para3="3.5M" para4="14M" order="6"/>
+		<ItemSpec id="883000105" resType="2" title="90901005" para1="90901027" para2="90901028" para3="3.5M" para4="14M" order="7"/>
+		<ItemSpec id="883000115" resType="2" title="90901010" para1="90901027" para2="90901028" para3="46M" para4="93M" order="8"/>
+		
+		<!--木头-->
+		<ItemSpec id="883000002" resType="0" title="90901003" para1="90901017" para2="90901018" para3="5.25M" para4="21M" order="1"/>
+		<ItemSpec id="883000007" resType="0" title="90901003" para1="90901025" para2="90901026" para3="70M" para4="140M" order="2"/>
+		
+		<ItemSpec id="180826047" resType="0" title="90901003" para1="90901017" para2="90901018" para3="5.25M" para4="18M" order="3"/>
+		<ItemSpec id="180826039" resType="0" title="90901003" para1="90901017" para2="90901018" para3="5.25M" para4="18M" order="4"/>
+		<ItemSpec id="190416006" resType="0" title="90901008" para1="90901025" para2="90901026" para3="70M" para4="120M" order="5"/>
+		
+		<!--木头贬值-->
+		<ItemSpec id="883000104" resType="0" title="90901003" para1="90901017" para2="90901018" para3="5.25M" para4="21M" order="6"/>
+		<ItemSpec id="883000108" resType="0" title="90901003" para1="90901025" para2="90901026" para3="5.25" para4="21M" order="7"/>
+		<ItemSpec id="883000114" resType="0" title="90901008" para1="90901025" para2="90901026" para3="70M" para4="140M" order="8"/>
+				
+		
+		<!--粮食-->
+		<ItemSpec id="883000001" resType="3" title="90901004" para1="90901017" para2="90901018" para3="5.25M" para4="21M" order="1"/>
+		<ItemSpec id="883000006" resType="3" title="90901004" para1="90901025" para2="90901026" para3="70M" para4="140M" order="2"/>
+		
+		<ItemSpec id="180826046" resType="3" title="90901004" para1="90901017" para2="90901018" para3="5.25M" para4="18M" order="3"/>
+		<ItemSpec id="180826038" resType="3" title="90901004" para1="90901017" para2="90901018" para3="5.25M" para4="18M" order="4"/>
+		<ItemSpec id="190416005" resType="3" title="90901009" para1="90901025" para2="90901026" para3="70M" para4="120M" order="5"/>
+		
+		<!--粮食贬值-->
+		<ItemSpec id="883000103" resType="3" title="90901004" para1="90901017" para2="90901018" para3="5.25M" para4="21M" order="6"/>
+		<ItemSpec id="883000107" resType="3" title="90901004" para1="90901017" para2="90901018" para3="5.25M" para4="21M" order="7"/>
+		<ItemSpec id="883000113" resType="3" title="90901009" para1="90901025" para2="90901026" para3="70M" para4="140M" order="8"/>
+</Group>
+
+</tns:database>

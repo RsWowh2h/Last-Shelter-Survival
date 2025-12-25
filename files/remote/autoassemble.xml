@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="autoassemble">
+		<ItemSpec id="1" monster_pic="B_banshenxiang_bust_Boss" monster_name="111300" monster_reward="210123|200331|217268" reward_times="50"/>
+		<ItemSpec id="2" monster_pic="B_banshenxiang_futou_bust_Boss" monster_name="90601000" monster_reward="200750|209933" reward_times="50"/>
+		<ItemSpec id="3" monster_pic="lianmengBOSS-yanmo_bust" monster_name="111860254" monster_reward="210121|218051" reward_times="50"/>
+	</Group>
+</tns:database>

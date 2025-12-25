@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="biochemical_beauty">
+    <ItemSpec id="10001000" type="24" name="83200317" stage_des="236031|236032|236033|236034|236035" goods_treatment="200155|200156|200157" intimacy_stage_des="236048|236049|236050|236051|236052" goods_intimacy="200158|200159|200160|200161" spineFile="10001_1|10001_2|10001_3|10001_4|10001_5" dating_weight="1002001;10000|1002002;10000|1003001;10000|1003002;10000|1004001;10000|1004002;10000" />
+
+</Group>
+</tns:database>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="invitation_task_01">
+    <ItemSpec id="10001" TaskGroup="1" name="110283009" dialog_para="1" Reward="-1:972002" FrontTask="1" />
+    <ItemSpec id="10002" TaskGroup="1" name="110283009" dialog_para="3" Reward="-1:972003" FrontTask="2" />
+    <ItemSpec id="10003" TaskGroup="1" name="110283009" dialog_para="5" Reward="-1:972004" FrontTask="3" />
+    <ItemSpec id="10004" TaskGroup="1" name="110283011" dialog_para="10" Reward="-1:972005" FrontTask="4" />
+    <ItemSpec id="10005" TaskGroup="1" name="110283011" dialog_para="15" Reward="-1:972006" FrontTask="5" />
+
+
+
+</Group>
+
+
+    <Group id="invitation_task_02">
+		<ItemSpec id="10001" TaskGroup="2" name="110283010" dialog_para="1" Reward="-1:2706060" FrontTask="1"/>
+		<ItemSpec id="10002" TaskGroup="2" name="110283010" dialog_para="3" Reward="-1:2706061" FrontTask="2"/>
+		<ItemSpec id="10003" TaskGroup="2" name="110283010" dialog_para="5" Reward="-1:2706062" FrontTask="3"/>
+		<ItemSpec id="10004" TaskGroup="2" name="110550301" dialog_para="3" Reward="-1:2706063" FrontTask="7"/>
+		<ItemSpec id="10005" TaskGroup="2" name="110550301" dialog_para="6" Reward="-1:2706064" FrontTask="8"/>
+		<ItemSpec id="10011" TaskGroup="2" name="110550303" dialog_para="5" Reward="-1:2706070" FrontTask="11"/>
+		<ItemSpec id="10012" TaskGroup="2" name="110550304" dialog_para="1" Reward="-1:2706071" FrontTask="12"/>
+		<ItemSpec id="10013" TaskGroup="2" name="110550304" dialog_para="3" Reward="-1:2706072" FrontTask="13"/>
+		<ItemSpec id="10014" TaskGroup="2" name="110550304" dialog_para="5" Reward="-1:2706073" FrontTask="14"/>
+    <ItemSpec id="10006" TaskGroup="2" name="110550302" dialog_para="4000" Reward="-1:2706065" FrontTask="4"/>
+    <ItemSpec id="10007" TaskGroup="2" name="110550302" dialog_para="40000" Reward="-1:2706066" FrontTask="5"/>
+    <ItemSpec id="10008" TaskGroup="2" name="110550302" dialog_para="400000" Reward="-1:2706067" FrontTask="6"/>
+    <ItemSpec id="10009" TaskGroup="2" name="110550303" dialog_para="1" Reward="-1:2706068" FrontTask="9"/>
+    <ItemSpec id="10010" TaskGroup="2" name="110550303" dialog_para="3" Reward="-1:2706069" FrontTask="10"/>
+
+
+
+
+
+
+</Group>
+</tns:database>

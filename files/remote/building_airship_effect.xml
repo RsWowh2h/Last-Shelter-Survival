@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="building_airship_effect">
+ 
+    <ItemSpec id="6010" effect_des="110022383" order="10" symbol="1" percent="1" />
+    <ItemSpec id="6030" effect_des="110110113" order="20" symbol="1" percent="1" />
+    <ItemSpec id="6050" effect_des="110110115" order="30" symbol="1" percent="1" />
+    <ItemSpec id="6220" effect_des="122022" order="40" symbol="1" percent="1" />
+    <ItemSpec id="6230" effect_des="122026" order="50" symbol="1" percent="1" />
+    <ItemSpec id="6200" effect_des="122003" order="60" symbol="1" percent="1" />
+    <ItemSpec id="6210" effect_des="110456321" order="70" symbol="1" percent="1" />
+    <ItemSpec id="50" effect_des="193262" order="80" symbol="1" percent="1" />
+    <ItemSpec id="51" effect_des="193263" order="90" symbol="1" percent="1" />
+    <ItemSpec id="52" effect_des="193264" order="100" symbol="1" percent="1" />
+    <ItemSpec id="53" effect_des="193265" order="110" symbol="1" percent="1" />
+    <ItemSpec id="65" effect_des="88001287" order="120" symbol="1" percent="1" />
+    <ItemSpec id="222" effect_des="110456322" order="1" symbol="1" percent="0" />
+    <ItemSpec id="72" effect_des="190875" order="2" symbol="1" percent="0" />
+
+ </Group >
+ 
+
+</tns:database>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="chapter_tasks_passage">
+
+    <ItemSpec id="1" name="110456101" pic="img_sjft_flat_01" matter="1|2|3|4" />
+    <ItemSpec id="2" name="110456102" pic="img_sjft_flat_02" matter="5|6|7" />
+    <ItemSpec id="3" name="110456103" pic="img_sjft_flat_03" matter="8|9|10|11" />
+    <ItemSpec id="4" name="110456104" pic="img_sjft_flat_04" matter="12|13|14|15|16" />
+    <ItemSpec id="5" name="110456105" pic="img_sjft_flat_05" matter="17|18|19|20|21" />
+
+
+    
+
+
+    </Group> 
+
+</tns:database>

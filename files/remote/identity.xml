@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="identity">
+    <ItemSpec id="1001" order="1000" description="100000014" identity="0" type="1" />
+    <ItemSpec id="1002" order="999" description="100000015" identity="0" type="0" />
+    <ItemSpec id="1003" order="998" description="100000016" identity="0" type="0" />
+    <ItemSpec id="1004" order="997" description="100000017" identity="0" type="1" />
+    <ItemSpec id="1005" order="996" description="100000018" identity="0" type="1" />
+    <ItemSpec id="1006" order="995" description="100000014" identity="1" type="1" />
+    <ItemSpec id="1007" order="994" description="100000015" identity="1" type="1" />
+    <ItemSpec id="1008" order="993" description="100000016" identity="1" type="1" />
+    <ItemSpec id="1009" order="992" description="100000017" identity="1" type="1" />
+    <ItemSpec id="1010" order="991" description="100000018" identity="1" type="1" />
+
+ </Group >
+</tns:database>

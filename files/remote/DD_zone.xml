@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="DD_zone">
+    <ItemSpec id="1" name="110026022" zone="1" zone_pic="ui_yidianyuan_zuobiao01" zone_color="ada893"/>
+    <ItemSpec id="2" name="110026023" zone="2" zone_pic="ui_yidianyuan_zuobiao02" zone_color="b6be59"/>
+    <ItemSpec id="3" name="110026024" zone="3" zone_pic="ui_yidianyuan_zuobiao03" zone_color="f8a54c"/>
+    <ItemSpec id="4" name="110026025" zone="4" zone_pic="ui_yidianyuan_zuobiao04" zone_color="ef7b5b"/>
+    <ItemSpec id="5" name="110026026" zone="5" zone_pic="ui_yidianyuan_zuobiao05" zone_color="ceaf73"/>
+    <ItemSpec id="6" name="110026027" zone="6" zone_pic="ui_yidianyuan_zuobiao06" zone_color="9f81c1"/>
+    <ItemSpec id="7" name="110026028" zone="7" zone_pic="ui_yidianyuan_zuobiao07" zone_color="86a2d0"/>
+    <ItemSpec id="8" name="110026029" zone="8" zone_pic="ui_yidianyuan_zuobiao08" zone_color="80b283"/>
+    <ItemSpec id="9" name="110026030" zone="9" zone_pic="ui_yidianyuan_zuobiao01" zone_color="ada893"/>
+    <ItemSpec id="10" name="110026031" zone="10" zone_pic="ui_yidianyuan_zuobiao02" zone_color="b6be59"/>
+    <ItemSpec id="11" name="110026032" zone="11" zone_pic="ui_yidianyuan_zuobiao03" zone_color="f8a54c"/>
+    <ItemSpec id="12" name="110026033" zone="12" zone_pic="ui_yidianyuan_zuobiao04" zone_color="ef7b5b"/>
+    <ItemSpec id="13" name="110026034" zone="13" zone_pic="ui_yidianyuan_zuobiao05" zone_color="ceaf73"/>
+    <ItemSpec id="14" name="108620" zone="14" zone_pic="ui_yidianyuan_zuobiao05" zone_color="ceaf73"/>
+	</Group>
+	
+	<Group id="DD_zone2">
+
+    <ItemSpec id="15" name="110026070" zone="1" zone_pic="ui_yidianyuan_zuobiao01" zone_color="ada893" camp="1"/>
+    <ItemSpec id="16" name="110026071" zone="2" zone_pic="ui_yidianyuan_zuobiao02" zone_color="b6be59" camp="1"/>
+    <ItemSpec id="17" name="110026072" zone="3" zone_pic="ui_yidianyuan_zuobiao03" zone_color="f8a54c" camp="1"/>
+    <ItemSpec id="18" name="110026073" zone="4" zone_pic="ui_yidianyuan_zuobiao04" zone_color="ef7b5b" camp="1"/>
+    <ItemSpec id="19" name="110026074" zone="6" zone_pic="ui_yidianyuan_zuobiao05" zone_color="ceaf73" camp="2"/>
+    <ItemSpec id="20" name="110026075" zone="7" zone_pic="ui_yidianyuan_zuobiao06" zone_color="9f81c1" camp="2"/>
+    <ItemSpec id="21" name="110026076" zone="8" zone_pic="ui_yidianyuan_zuobiao07" zone_color="86a2d0" camp="2"/>
+    <ItemSpec id="22" name="110026077" zone="9" zone_pic="ui_yidianyuan_zuobiao08" zone_color="80b283" camp="2"/>
+    <ItemSpec id="23" name="110026028" zone="5" camp="3"/>
+    <ItemSpec id="24" name="110026024" zone="10" camp="3"/>
+    <ItemSpec id="25" name="110026031" zone="11" camp="3"/>
+    <ItemSpec id="26" name="110026033" zone="12" camp="3"/>
+    <ItemSpec id="27" name="110026034" zone="13" camp="3"/>
+    <ItemSpec id="28" name="108620" zone="14" camp="4"/>
+	</Group>
+
+    <Group id="DD_zone3">
+    <ItemSpec id="29" name="110095000" zone="2" zone_pic="ui_yidianyuan_zuobiao06" zone_color="9f81c1" camp="1"/>
+    <ItemSpec id="30" name="110095001" zone="4" zone_pic="ui_yidianyuan_zuobiao05" zone_color="ceaf73" camp="2"/>
+    <ItemSpec id="31" name="110095002" zone="6" zone_pic="ui_yidianyuan_zuobiao08" zone_color="80b283" camp="3"/>
+    <ItemSpec id="32" name="110095003" zone="8" zone_pic="ui_yidianyuan_zuobiao04" zone_color="ef7b5b" camp="4"/>
+    <ItemSpec id="33" name="110026029" zone="3" camp="5"/>
+    <ItemSpec id="34" name="110026027" zone="5" camp="5"/>
+    <ItemSpec id="35" name="110026025" zone="7" camp="5"/>
+    <ItemSpec id="36" name="110026023" zone="9" camp="5"/>
+    <ItemSpec id="37" name="110026030" zone="10" camp="5"/>
+    <ItemSpec id="38" name="110026033" zone="12" camp="5"/>
+    <ItemSpec id="39" name="110026032" zone="14" camp="5"/>
+    <ItemSpec id="40" name="110026031" zone="16" camp="5"/>
+    <ItemSpec id="41" name="110255010" zone="11" camp="5"/>
+    <ItemSpec id="42" name="110255011" zone="13" camp="5"/>
+    <ItemSpec id="43" name="110255012" zone="15" camp="5"/>
+    <ItemSpec id="44" name="110255013" zone="17" camp="5"/>
+    <ItemSpec id="45" name="110026034" zone="18" camp="5"/>
+    <ItemSpec id="46" name="108620" zone="1" camp="0"/>
+    </Group>
+
+
+   <!-- 新插旗 -->
+
+    <Group id="DD_zone4">
+
+     <ItemSpec id="47" name="110258033" zone="2" zone_pic="ui_yidianyuan_zuobiao06" zone_color="9f81c1" camp="1"/>
+    <ItemSpec id="48" name="110258034" zone="4" zone_pic="ui_yidianyuan_zuobiao05" zone_color="ceaf73" camp="2"/>
+    <ItemSpec id="49" name="110258035" zone="5" zone_pic="ui_yidianyuan_zuobiao08" zone_color="80b283" camp="3"/>
+    <ItemSpec id="50" name="110258036" zone="7" zone_pic="ui_yidianyuan_zuobiao04" zone_color="ef7b5b" camp="4"/>
+    <ItemSpec id="51" name="110258037" zone="3" camp="5"/>
+    <ItemSpec id="52" name="110258038" zone="6" camp="5"/>
+    <ItemSpec id="53" name="110258039" zone="8" camp="5"/>
+    <ItemSpec id="54" name="110258040" zone="9" camp="5"/>
+    <ItemSpec id="55" name="110258041" zone="10" camp="5"/>
+    <ItemSpec id="56" name="110258042" zone="11" camp="5"/>
+    <ItemSpec id="57" name="110258043" zone="12" camp="5"/>
+    <ItemSpec id="58" name="110258044" zone="13" camp="5"/>
+    <ItemSpec id="59" name="110258045" zone="14" camp="5"/>
+    <ItemSpec id="60" name="108620" zone="1" camp="5"/>
+    </Group>
+    
+
+ <!-- 新插旗 泡泉版-->
+
+    <Group id="DD_zone5">
+    <ItemSpec id="61" name="110095000" zone="2" zone_pic="ui_yidianyuan_zuobiao06" zone_color="9f81c1" camp="1"/>
+    <ItemSpec id="62" name="110095001" zone="4" zone_pic="ui_yidianyuan_zuobiao05" zone_color="ceaf73" camp="2"/>
+    <ItemSpec id="63" name="110095002" zone="5" zone_pic="ui_yidianyuan_zuobiao08" zone_color="80b283" camp="3"/>
+    <ItemSpec id="64" name="110095003" zone="7" zone_pic="ui_yidianyuan_zuobiao04" zone_color="ef7b5b" camp="4"/>
+    <ItemSpec id="65" name="110258038" zone="3" camp="5"/>
+    <ItemSpec id="66" name="110258040" zone="6" camp="5"/>
+    <ItemSpec id="67" name="110258037" zone="8" camp="5"/>
+    <ItemSpec id="68" name="110258039" zone="9" camp="5"/>
+    <ItemSpec id="69" name="110258041" zone="10" camp="5"/>
+    <ItemSpec id="70" name="110258043" zone="11" camp="5"/>
+    <ItemSpec id="71" name="110258042" zone="12" camp="5"/>
+    <ItemSpec id="72" name="110258044" zone="13" camp="5"/>
+    <ItemSpec id="73" name="110258045" zone="14" camp="5"/>
+    <ItemSpec id="74" name="110258045" zone="15" camp="5"/>
+    <ItemSpec id="75" name="108620" zone="1" camp="5"/>
+
+
+
+
+
+    </Group>
+    
+
+   <!-- 军功版 南北战争 -->
+    <Group id="DD_zone6">
+    <ItemSpec id="100" name="110026070" zone="1" zone_pic="ui_yidianyuan_zuobiao01" zone_color="ada893" camp="1"/>
+    <ItemSpec id="101" name="110026071" zone="2" zone_pic="ui_yidianyuan_zuobiao02" zone_color="b6be59" camp="1"/>
+    <ItemSpec id="102" name="110026072" zone="3" zone_pic="ui_yidianyuan_zuobiao03" zone_color="f8a54c" camp="1"/>
+    <ItemSpec id="103" name="110026073" zone="4" zone_pic="ui_yidianyuan_zuobiao04" zone_color="ef7b5b" camp="1"/>
+    <ItemSpec id="104" name="110026074" zone="6" zone_pic="ui_yidianyuan_zuobiao05" zone_color="ceaf73" camp="2"/>
+    <ItemSpec id="105" name="110026075" zone="7" zone_pic="ui_yidianyuan_zuobiao06" zone_color="9f81c1" camp="2"/>
+    <ItemSpec id="106" name="110026076" zone="8" zone_pic="ui_yidianyuan_zuobiao07" zone_color="86a2d0" camp="2"/>
+    <ItemSpec id="107" name="110026077" zone="9" zone_pic="ui_yidianyuan_zuobiao08" zone_color="80b283" camp="2"/>
+    <ItemSpec id="108" name="110026028" zone="5" camp="5"/>
+    <ItemSpec id="109" name="110026024" zone="10" camp="5"/>
+    <ItemSpec id="110" name="110026031" zone="11" camp="5"/>
+    <ItemSpec id="111" name="110026033" zone="12" camp="5"/>
+    <ItemSpec id="112" name="110026034" zone="13" camp="5"/>
+    <ItemSpec id="113" name="108620" zone="14" camp="6"/>
+
+    </Group>
+
+
+ <!-- 新插旗赛季内争夺州-->
+
+    <Group id="DD_zone7">
+    <ItemSpec id="114" name="110095000" zone="2" zone_pic="ui_yidianyuan_zuobiao06" zone_color="9f81c1" camp="1" />
+    <ItemSpec id="115" name="110095001" zone="4" zone_pic="ui_yidianyuan_zuobiao05" zone_color="ceaf73" camp="2" />
+    <ItemSpec id="116" name="110095002" zone="5" zone_pic="ui_yidianyuan_zuobiao08" zone_color="80b283" camp="3" />
+    <ItemSpec id="117" name="110095003" zone="7" zone_pic="ui_yidianyuan_zuobiao04" zone_color="ef7b5b" camp="4" />
+    <ItemSpec id="118" name="110258038" zone="3" camp="5" />
+    <ItemSpec id="119" name="110258040" zone="6" camp="5" />
+    <ItemSpec id="120" name="110258037" zone="8" camp="5" />
+    <ItemSpec id="121" name="110258039" zone="9" camp="5" />
+    <ItemSpec id="122" name="110258041" zone="10" camp="5" />
+    <ItemSpec id="123" name="110258043" zone="11" camp="5" />
+    <ItemSpec id="124" name="110258042" zone="12" camp="5" />
+    <ItemSpec id="125" name="110258044" zone="13" camp="5" />
+    <ItemSpec id="126" name="110258045" zone="14" camp="5" />
+    <ItemSpec id="127" name="110258045" zone="15" camp="5" />
+    <ItemSpec id="128" name="110258045" zone="16" camp="5"/>
+
+
+
+    </Group>
+
+
+    <!-- 北极赛季-->
+
+    <Group id="DD_zone8">
+    <ItemSpec id="129" name="110095000" zone="4" zone_pic="ui_yidianyuan_zuobiao06" zone_color="9f81c1" camp="1"/>
+    <ItemSpec id="130" name="110095001" zone="9" zone_pic="ui_yidianyuan_zuobiao05" zone_color="ceaf73" camp="2"/>
+    <ItemSpec id="131" name="110095002" zone="14" zone_pic="ui_yidianyuan_zuobiao08" zone_color="80b283" camp="3"/>
+    <ItemSpec id="132" name="110095003" zone="19" zone_pic="ui_yidianyuan_zuobiao04" zone_color="ef7b5b" camp="4"/>
+    <ItemSpec id="133" name="110258037" zone="2" camp="5"/>
+    <ItemSpec id="134" name="110256281" zone="3" camp="5"/>
+    <ItemSpec id="135" name="110256283" zone="5" camp="5"/>
+    <ItemSpec id="136" name="110256282" zone="6" camp="5"/>
+    <ItemSpec id="137" name="110258038" zone="7" camp="5"/>
+    <ItemSpec id="138" name="110256284" zone="8" camp="5"/>
+    <ItemSpec id="139" name="110256286" zone="10" camp="5"/>
+    <ItemSpec id="140" name="110256285" zone="11" camp="5"/>
+    <ItemSpec id="141" name="110258039" zone="12" camp="5"/>
+    <ItemSpec id="142" name="110256287" zone="13" camp="5"/>
+    <ItemSpec id="143" name="110256289" zone="15" camp="5"/>
+    <ItemSpec id="144" name="110256288" zone="16" camp="5"/>
+    <ItemSpec id="145" name="110258040" zone="17" camp="5"/>
+    <ItemSpec id="146" name="110256290" zone="18" camp="5"/>
+    <ItemSpec id="147" name="110256292" zone="20" camp="5"/>
+    <ItemSpec id="148" name="110256291" zone="21" camp="5"/>
+    <ItemSpec id="149" name="110258033" zone="22" camp="5"/>
+    <ItemSpec id="150" name="110258034" zone="23" camp="5"/>
+    <ItemSpec id="151" name="110258035" zone="24" camp="5"/>
+    <ItemSpec id="152" name="110258036" zone="25" camp="5"/>
+    <ItemSpec id="153" name="110258041" zone="26" camp="5"/>
+    <ItemSpec id="154" name="110258042" zone="27" camp="5"/>
+    <ItemSpec id="155" name="110258043" zone="28" camp="5"/>
+    <ItemSpec id="156" name="110258044" zone="29" camp="5"/>
+    <ItemSpec id="157" name="110026034" zone="30" camp="5"/>
+    <ItemSpec id="158" name="110026034" zone="31" camp="5"/>
+    <ItemSpec id="159" name="108620" zone="1" camp="5"/>
+
+
+
+    </Group>
+   <!-- 高地赛季-->
+    <Group id="DD_zone10">
+    <ItemSpec id="202" name="90700052" zone="1" zone_pic="ui_yidianyuan_zuobiao01" zone_color="ada893" camp="1" />
+    <ItemSpec id="203" name="90700052" zone="2" zone_pic="ui_yidianyuan_zuobiao02" zone_color="b6be59" camp="1" />
+    <ItemSpec id="204" name="90700052" zone="3" zone_pic="ui_yidianyuan_zuobiao03" zone_color="f8a54c" camp="1" />
+    <ItemSpec id="205" name="90700052" zone="4" zone_pic="ui_yidianyuan_zuobiao04" zone_color="ef7b5b" camp="1" />
+    <ItemSpec id="206" name="90700050" zone="6" zone_pic="ui_yidianyuan_zuobiao05" zone_color="ceaf73" camp="2" />
+    <ItemSpec id="207" name="90700050" zone="7" zone_pic="ui_yidianyuan_zuobiao06" zone_color="9f81c1" camp="2" />
+    <ItemSpec id="208" name="90700050" zone="8" zone_pic="ui_yidianyuan_zuobiao07" zone_color="86a2d0" camp="2" />
+    <ItemSpec id="209" name="90700050" zone="9" zone_pic="ui_yidianyuan_zuobiao08" zone_color="80b283" camp="2" />
+    <ItemSpec id="210" name="110026028" zone="5" camp="5" />
+    <ItemSpec id="211" name="110026024" zone="10" camp="5" />
+    <ItemSpec id="212" name="108621" zone="11" camp="5" />
+    <ItemSpec id="213" name="110026034" zone="13" camp="5" />
+    <ItemSpec id="243" name="108620" zone="0" camp="0" />
+    </Group>
+	
+	
+	
+	 <!-- 南北水战赛季-->
+
+    <Group id="DD_zone11">
+    <ItemSpec id="100" name="110026070" zone="1" zone_pic="ui_yidianyuan_zuobiao01" zone_color="ada893" camp="1"/>
+    <ItemSpec id="101" name="110026071" zone="2" zone_pic="ui_yidianyuan_zuobiao02" zone_color="b6be59" camp="1"/>
+    <ItemSpec id="102" name="110026072" zone="3" zone_pic="ui_yidianyuan_zuobiao03" zone_color="f8a54c" camp="1"/>
+    <ItemSpec id="103" name="110026073" zone="4" zone_pic="ui_yidianyuan_zuobiao04" zone_color="ef7b5b" camp="1"/>
+    <ItemSpec id="104" name="110026074" zone="6" zone_pic="ui_yidianyuan_zuobiao05" zone_color="ceaf73" camp="2"/>
+    <ItemSpec id="105" name="110026075" zone="7" zone_pic="ui_yidianyuan_zuobiao06" zone_color="9f81c1" camp="2"/>
+    <ItemSpec id="106" name="110026076" zone="8" zone_pic="ui_yidianyuan_zuobiao07" zone_color="86a2d0" camp="2"/>
+    <ItemSpec id="107" name="110026077" zone="9" zone_pic="ui_yidianyuan_zuobiao08" zone_color="80b283" camp="2"/>
+    <ItemSpec id="108" name="110026028" zone="5" camp="5"/>
+    <ItemSpec id="109" name="110026024" zone="10" camp="5"/>
+    <ItemSpec id="110" name="110026031" zone="11" camp="5"/>
+    <ItemSpec id="111" name="110026033" zone="12" camp="5"/>
+    <ItemSpec id="112" name="110026034" zone="13" camp="5"/>
+    <ItemSpec id="113" name="108620" zone="14" camp="6"/>
+
+
+
+ </Group>
+
+
+    <!-- 南北平衡版-->
+
+    <Group id="DD_zone12">
+    <ItemSpec id="260" name="110026070" zone="1" zone_pic="ui_yidianyuan_zuobiao01" zone_color="ada893" camp="1"/>
+    <ItemSpec id="261" name="110026071" zone="2" zone_pic="ui_yidianyuan_zuobiao02" zone_color="b6be59" camp="1"/>
+    <ItemSpec id="262" name="110026072" zone="3" zone_pic="ui_yidianyuan_zuobiao03" zone_color="f8a54c" camp="1"/>
+    <ItemSpec id="263" name="110026073" zone="4" zone_pic="ui_yidianyuan_zuobiao04" zone_color="ef7b5b" camp="1"/>
+    <ItemSpec id="264" name="110026074" zone="6" zone_pic="ui_yidianyuan_zuobiao05" zone_color="ceaf73" camp="2"/>
+    <ItemSpec id="265" name="110026075" zone="7" zone_pic="ui_yidianyuan_zuobiao06" zone_color="9f81c1" camp="2"/>
+    <ItemSpec id="266" name="110026076" zone="8" zone_pic="ui_yidianyuan_zuobiao07" zone_color="86a2d0" camp="2"/>
+    <ItemSpec id="267" name="110026077" zone="9" zone_pic="ui_yidianyuan_zuobiao08" zone_color="80b283" camp="2"/>
+    <ItemSpec id="268" name="110026028" zone="5" camp="5"/>
+    <ItemSpec id="269" name="110026024" zone="10" camp="5"/>
+    <ItemSpec id="270" name="110026031" zone="11" camp="5"/>
+    <ItemSpec id="271" name="110026033" zone="12" camp="5"/>
+    <ItemSpec id="272" name="110026034" zone="13" camp="5"/>
+    <ItemSpec id="273" name="108620" zone="14" camp="6"/>
+
+
+
+
+
+
+
+
+ </Group>
+ 
+     <!-- 南北水战跑商-->
+
+    <Group id="DD_zone13">
+    <ItemSpec id="280" name="110026070" zone="1" zone_pic="ui_yidianyuan_zuobiao01" zone_color="ada893" camp="1"/>
+    <ItemSpec id="281" name="110026071" zone="2" zone_pic="ui_yidianyuan_zuobiao02" zone_color="b6be59" camp="1"/>
+    <ItemSpec id="282" name="110026072" zone="3" zone_pic="ui_yidianyuan_zuobiao03" zone_color="f8a54c" camp="1"/>
+    <ItemSpec id="283" name="110026073" zone="4" zone_pic="ui_yidianyuan_zuobiao04" zone_color="ef7b5b" camp="1"/>
+    <ItemSpec id="284" name="110026074" zone="6" zone_pic="ui_yidianyuan_zuobiao05" zone_color="ceaf73" camp="2"/>
+    <ItemSpec id="285" name="110026075" zone="7" zone_pic="ui_yidianyuan_zuobiao06" zone_color="9f81c1" camp="2"/>
+    <ItemSpec id="286" name="110026076" zone="8" zone_pic="ui_yidianyuan_zuobiao07" zone_color="86a2d0" camp="2"/>
+    <ItemSpec id="287" name="110026077" zone="9" zone_pic="ui_yidianyuan_zuobiao08" zone_color="80b283" camp="2"/>
+    <ItemSpec id="288" name="110026028" zone="5" camp="5"/>
+    <ItemSpec id="289" name="110026024" zone="10" camp="5"/>
+    <ItemSpec id="290" name="110026031" zone="11" camp="5"/>
+    <ItemSpec id="291" name="110026033" zone="12" camp="5"/>
+    <ItemSpec id="292" name="110026034" zone="13" camp="5"/>
+    <ItemSpec id="293" name="108620" zone="14" camp="6"/>
+
+
+
+
+
+
+
+
+ </Group>
+ 
+      <!-- 南北平衡-温泉战-->
+
+    <Group id="DD_zone14">
+    <ItemSpec id="330" name="110026070" zone="1" zone_pic="ui_yidianyuan_zuobiao01" zone_color="ada893" camp="1"/>
+    <ItemSpec id="331" name="110026071" zone="2" zone_pic="ui_yidianyuan_zuobiao02" zone_color="b6be59" camp="1"/>
+    <ItemSpec id="332" name="110026072" zone="3" zone_pic="ui_yidianyuan_zuobiao03" zone_color="f8a54c" camp="1"/>
+    <ItemSpec id="333" name="110026073" zone="4" zone_pic="ui_yidianyuan_zuobiao04" zone_color="ef7b5b" camp="1"/>
+    <ItemSpec id="334" name="110026074" zone="6" zone_pic="ui_yidianyuan_zuobiao05" zone_color="ceaf73" camp="2"/>
+    <ItemSpec id="335" name="110026075" zone="7" zone_pic="ui_yidianyuan_zuobiao06" zone_color="9f81c1" camp="2"/>
+    <ItemSpec id="336" name="110026076" zone="8" zone_pic="ui_yidianyuan_zuobiao07" zone_color="86a2d0" camp="2"/>
+    <ItemSpec id="337" name="110026077" zone="9" zone_pic="ui_yidianyuan_zuobiao08" zone_color="80b283" camp="2"/>
+    <ItemSpec id="338" name="110026028" zone="5" camp="5"/>
+    <ItemSpec id="339" name="110026024" zone="10" camp="5"/>
+    <ItemSpec id="340" name="110026031" zone="11" camp="5"/>
+    <ItemSpec id="341" name="110026033" zone="12" camp="5"/>
+    <ItemSpec id="342" name="110026034" zone="13" camp="5"/>
+    <ItemSpec id="343" name="108620" zone="14" camp="0"/>
+    <ItemSpec id="344" name="110026024" zone="15" camp="5"/>
+    <ItemSpec id="345" name="110026031" zone="16" camp="5"/>
+    <ItemSpec id="346" name="110026033" zone="17" camp="5"/>
+    <ItemSpec id="347" name="110026028" zone="18" camp="5"/>
+    <ItemSpec id="348" name="112160126" zone="79" camp="0"/>
+
+
+
+
+
+ </Group>
+ 
+ 
+</tns:database>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="GC_map">
+		<ItemSpec id="101" map_info="map1" map_line="84" map_height="1250" move_border="54|-54" finish_line="342"/>
+		<ItemSpec id="102" map_info="map2" map_line="84" map_height="1250" move_border="54|-54" finish_line="342"/>
+		<ItemSpec id="103" map_info="map3" map_line="84" map_height="1250" move_border="54|-54" finish_line="342"/>
+		<ItemSpec id="104" map_info="map4" map_line="84" map_height="1250" move_border="54|-54" finish_line="342"/>
+		<ItemSpec id="105" map_info="map5" map_line="84" map_height="1250" move_border="54|-54" finish_line="342"/>
+		<ItemSpec id="201" map_info="residential1" map_height="1200" finish_line="342" map_line="84" move_border="54|-54"/>
+		<ItemSpec id="202" map_info="residential2" map_height="1200" finish_line="342" map_line="84" move_border="54|-54"/>
+		<ItemSpec id="203" map_info="treasury1" map_height="1200" finish_line="342" map_line="84" move_border="54|-54"/>
+		<ItemSpec id="204" map_info="treasury2" map_height="1200" finish_line="342" map_line="84" move_border="54|-54"/>
+		<ItemSpec id="205" map_info="energy1" map_height="1200" finish_line="342" map_line="84" move_border="54|-54"/>
+		<ItemSpec id="206" map_info="energy2" map_height="1200" finish_line="342" map_line="84" move_border="54|-54"/>
+		<ItemSpec id="207" map_info="research1" map_height="1200" finish_line="342" map_line="84" move_border="54|-54"/>
+		<ItemSpec id="208" map_info="research2" map_height="1200" finish_line="342" map_line="84" move_border="54|-54"/>
+	</Group>
+</tns:database>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="getmore_power">
+    <ItemSpec id="10237001" gotoType="1" name="237001" priority="5" icon="ZL_yingzhuzaimin" />
+    <ItemSpec id="10237002" gotoType="2" name="237002" priority="4" icon="ZL_shangzhenshibing" />
+    <ItemSpec id="10237003" gotoType="3" name="237003" priority="3" icon="ZL_shangzhenyingxiong" />
+    <ItemSpec id="10237004" gotoType="4" name="237004" priority="2" icon="ZL_peiyangyingxiong" />
+    <ItemSpec id="10237005" gotoType="5" name="237005" priority="2" icon="ZL_xunlianshibing" />
+    <ItemSpec id="10237006" gotoType="6" name="237006" priority="2" icon="ZL_yanjiukeji" />
+
+</Group>
+</tns:database>

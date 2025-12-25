@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="gvg_daily_points">
+    <ItemSpec id="1" day="0" rank="1" legend="6" gold="6" silver="6"/>
+    <ItemSpec id="2" day="0" rank="2" legend="5" gold="5" silver="5"/>
+    <ItemSpec id="3" day="0" rank="3" legend="4" gold="4" silver="4"/>
+    <ItemSpec id="4" day="0" rank="4" legend="3" gold="3" silver="3"/>
+    <ItemSpec id="5" day="0" rank="5" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="6" day="0" rank="6" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="7" day="0" rank="7" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="8" day="0" rank="8" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="9" day="1" rank="1" legend="6" gold="6" silver="6"/>
+    <ItemSpec id="10" day="1" rank="2" legend="5" gold="5" silver="5"/>
+    <ItemSpec id="11" day="1" rank="3" legend="4" gold="4" silver="4"/>
+    <ItemSpec id="12" day="1" rank="4" legend="3" gold="3" silver="3"/>
+    <ItemSpec id="13" day="1" rank="5" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="14" day="1" rank="6" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="15" day="1" rank="7" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="16" day="1" rank="8" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="17" day="2" rank="1" legend="6" gold="6" silver="6"/>
+    <ItemSpec id="18" day="2" rank="2" legend="5" gold="5" silver="5"/>
+    <ItemSpec id="19" day="2" rank="3" legend="4" gold="4" silver="4"/>
+    <ItemSpec id="20" day="2" rank="4" legend="3" gold="3" silver="3"/>
+    <ItemSpec id="21" day="2" rank="5" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="22" day="2" rank="6" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="23" day="2" rank="7" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="24" day="2" rank="8" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="25" day="3" rank="1" legend="6" gold="6" silver="6"/>
+    <ItemSpec id="26" day="3" rank="2" legend="5" gold="5" silver="5"/>
+    <ItemSpec id="27" day="3" rank="3" legend="4" gold="4" silver="4"/>
+    <ItemSpec id="28" day="3" rank="4" legend="3" gold="3" silver="3"/>
+    <ItemSpec id="29" day="3" rank="5" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="30" day="3" rank="6" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="31" day="3" rank="7" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="32" day="3" rank="8" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="33" day="4" rank="1" legend="6" gold="6" silver="6"/>
+    <ItemSpec id="34" day="4" rank="2" legend="5" gold="5" silver="5"/>
+    <ItemSpec id="35" day="4" rank="3" legend="4" gold="4" silver="4"/>
+    <ItemSpec id="36" day="4" rank="4" legend="3" gold="3" silver="3"/>
+    <ItemSpec id="37" day="4" rank="5" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="38" day="4" rank="6" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="39" day="4" rank="7" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="40" day="4" rank="8" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="41" day="5" rank="1" legend="6" gold="6" silver="6"/>
+    <ItemSpec id="42" day="5" rank="2" legend="5" gold="5" silver="5"/>
+    <ItemSpec id="43" day="5" rank="3" legend="4" gold="4" silver="4"/>
+    <ItemSpec id="44" day="5" rank="4" legend="3" gold="3" silver="3"/>
+    <ItemSpec id="45" day="5" rank="5" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="46" day="5" rank="6" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="47" day="5" rank="7" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="48" day="5" rank="8" legend="2" gold="2" silver="2"/>
+    <ItemSpec id="49" day="6" rank="1" legend="15" gold="15" silver="15"/>
+    <ItemSpec id="50" day="6" rank="2" legend="10" gold="10" silver="10"/>
+    <ItemSpec id="51" day="6" rank="3" legend="8" gold="8" silver="8"/>
+    <ItemSpec id="52" day="6" rank="4" legend="6" gold="6" silver="6"/>
+    <ItemSpec id="53" day="6" rank="5" legend="4" gold="4" silver="4"/>
+    <ItemSpec id="54" day="6" rank="6" legend="4" gold="4" silver="4"/>
+    <ItemSpec id="55" day="6" rank="7" legend="4" gold="4" silver="4"/>
+    <ItemSpec id="56" day="6" rank="8" legend="4" gold="4" silver="4"/>
+
+
+
+
+</Group>
+</tns:database>

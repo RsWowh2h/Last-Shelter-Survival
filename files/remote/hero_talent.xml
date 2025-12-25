@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="hero_talent">
+		<ItemSpec id="10001" name="111850041" desc="111850046" desc_para="atk_para;1|atk" atk_base="5" atk_para="120" icon="skill_pistol_red" skill_effect="100;1500"/>
+		<ItemSpec id="10002" name="111850042" desc="111850046" desc_para="atk_para;1|atk" atk_base="4" atk_para="110" icon="skill_pistol_orange" skill_effect="100;1000"/>
+		<ItemSpec id="10003" name="111850043" desc="111850046" desc_para="atk_para;1|atk" atk_base="3" atk_para="100" icon="skill_pistol_purple" skill_effect="100;500"/>
+		<ItemSpec id="10004" name="111850044" desc="111850046" desc_para="atk_para;1|atk" atk_base="2" atk_para="90" icon="skill_pistol_blue"/>
+		<ItemSpec id="10005" name="111850045" desc="111850046" desc_para="atk_para;1|atk" atk_base="1" atk_para="80" icon="skill_pistol_green"/>
+		<ItemSpec id="10101" name="111851300" icon="skill_Machine-Gun_red" desc="111851008" desc_para="atk_para;1|atk|skill_effect;1" atk_base="5" atk_para="120" skill_effect="101;1500"/>
+		<ItemSpec id="10102" name="111851301" icon="skill_Machine-Gun_orange" desc="111851008" desc_para="atk_para;1|atk|skill_effect;1" atk_base="4" atk_para="110" skill_effect="101;1000"/>
+		<ItemSpec id="10103" name="111851302" icon="skill_Machine-Gun_purple" desc="111851001" desc_para="atk_para;1|atk|skill_effect;1" atk_base="3" atk_para="100" skill_effect="101;500"/>
+		<ItemSpec id="10104" name="111851303" icon="skill_Machine-Gun_blue" desc="111851001" desc_para="atk_para;1|atk|skill_effect;1" atk_base="2" atk_para="90"/>
+		<ItemSpec id="10105" name="111851304" icon="hero_talent_icon_green" desc="111851001" desc_para="atk_para;1|atk|skill_effect;1" atk_base="1" atk_para="80"/>
+		<ItemSpec id="10201" name="111851305" icon="skill_Sniper_red" desc="111851009" desc_para="atk_para;1|atk|skill_effect;1" atk_base="5" atk_para="120" skill_effect="102;1500"/>
+		<ItemSpec id="10202" name="111851306" icon="skill_Sniper_orange" desc="111851009" desc_para="atk_para;1|atk|skill_effect;1" atk_base="4" atk_para="110" skill_effect="102;1000"/>
+		<ItemSpec id="10203" name="111851307" icon="skill_Sniper_purple" desc="111851002" desc_para="atk_para;1|atk|skill_effect;1" atk_base="3" atk_para="100" skill_effect="102;500"/>
+		<ItemSpec id="10204" name="111851308" icon="skill_Sniper_blue" desc="111851002" desc_para="atk_para;1|atk|skill_effect;1" atk_base="2" atk_para="90"/>
+		<ItemSpec id="10205" name="111851309" icon="hero_talent_icon_green" desc="111851002" desc_para="atk_para;1|atk|skill_effect;1" atk_base="1" atk_para="80"/>
+		<ItemSpec id="10301" name="111851310" icon="skill_shotgun_red" desc="111851010" desc_para="atk_para;1|atk|skill_effect;1" atk_base="5" atk_para="120" skill_effect="103;1500"/>
+		<ItemSpec id="10302" name="111851311" icon="skill_shotgun_orange" desc="111851010" desc_para="atk_para;1|atk|skill_effect;1" atk_base="4" atk_para="110" skill_effect="103;1000"/>
+		<ItemSpec id="10303" name="111851312" icon="skill_shotgun_purple" desc="111851003" desc_para="atk_para;1|atk|skill_effect;1" atk_base="3" atk_para="100" skill_effect="103;500"/>
+		<ItemSpec id="10304" name="111851313" icon="skill_shotgun_blue" desc="111851003" desc_para="atk_para;1|atk|skill_effect;1" atk_base="2" atk_para="90"/>
+		<ItemSpec id="10305" name="111851314" icon="hero_talent_icon_green" desc="111851003" desc_para="atk_para;1|atk|skill_effect;1" atk_base="1" atk_para="80"/>
+		<ItemSpec id="10401" name="111851315" icon="hero_talent_icon_orange" desc="111851011" desc_para="atk_para;1|atk|skill_effect;1" atk_base="5" atk_para="120" skill_effect="104;1500"/>
+		<ItemSpec id="10402" name="111851316" icon="hero_talent_icon_red" desc="111851011" desc_para="atk_para;1|atk|skill_effect;1" atk_base="4" atk_para="110" skill_effect="104;1000"/>
+		<ItemSpec id="10403" name="111851317" icon="hero_talent_icon_purple" desc="111851004" desc_para="atk_para;1|atk|skill_effect;1" atk_base="3" atk_para="100" skill_effect="104;500"/>
+		<ItemSpec id="10404" name="111851318" icon="hero_talent_icon_blue" desc="111851004" desc_para="atk_para;1|atk|skill_effect;1" atk_base="2" atk_para="90"/>
+		<ItemSpec id="10405" name="111851319" icon="hero_talent_icon_green" desc="111851004" desc_para="atk_para;1|atk|skill_effect;1" atk_base="1" atk_para="80"/>
+		<ItemSpec id="10501" name="111851320" icon="skill_Grenade_red" desc="111851012" desc_para="atk_para;1|atk|skill_effect;1" atk_base="5" atk_para="120" skill_effect="105;1500"/>
+		<ItemSpec id="10502" name="111851321" icon="skill_Grenade_orange" desc="111851012" desc_para="atk_para;1|atk|skill_effect;1" atk_base="4" atk_para="110" skill_effect="105;1000"/>
+		<ItemSpec id="10503" name="111851322" icon="skill_Grenade_purple" desc="111851005" desc_para="atk_para;1|atk|skill_effect;1" atk_base="3" atk_para="100" skill_effect="105;500"/>
+		<ItemSpec id="10504" name="111851323" icon="skill_Grenade_blue" desc="111851005" desc_para="atk_para;1|atk|skill_effect;1" atk_base="2" atk_para="90"/>
+		<ItemSpec id="10505" name="111851324" icon="hero_talent_icon_green" desc="111851005" desc_para="atk_para;1|atk|skill_effect;1" atk_base="1" atk_para="80"/>
+		<ItemSpec id="10601" name="111851325" icon="skill_tank_red" desc="111851013" desc_para="atk_para;1|atk|skill_effect;1" atk_base="5" atk_para="120" skill_effect="106;1500"/>
+		<ItemSpec id="10602" name="111851326" icon="skill_tank_orange" desc="111851013" desc_para="atk_para;1|atk|skill_effect;1" atk_base="4" atk_para="110" skill_effect="106;1000"/>
+		<ItemSpec id="10603" name="111851327" icon="skill_tank_purple" desc="111851006" desc_para="atk_para;1|atk|skill_effect;1" atk_base="3" atk_para="100" skill_effect="106;500"/>
+		<ItemSpec id="10604" name="111851328" icon="skill_tank_blue" desc="111851006" desc_para="atk_para;1|atk|skill_effect;1" atk_base="2" atk_para="90"/>
+		<ItemSpec id="10605" name="111851329" icon="hero_talent_icon_green" desc="111851006" desc_para="atk_para;1|atk|skill_effect;1" atk_base="1" atk_para="80"/>
+		<ItemSpec id="10701" name="111851330" icon="skill_aeroplane_red" desc="111851014" desc_para="atk_para;1|atk|skill_effect;1" atk_base="5" atk_para="120" skill_effect="107;1500"/>
+		<ItemSpec id="10702" name="111851331" icon="skill_aeroplane_orange" desc="111851014" desc_para="atk_para;1|atk|skill_effect;1" atk_base="4" atk_para="110" skill_effect="107;1000"/>
+		<ItemSpec id="10703" name="111851332" icon="skill_aeroplane_purple" desc="111851007" desc_para="atk_para;1|atk|skill_effect;1" atk_base="3" atk_para="100" skill_effect="107;500"/>
+		<ItemSpec id="10704" name="111851333" icon="skill_aeroplane_blue" desc="111851007" desc_para="atk_para;1|atk|skill_effect;1" atk_base="2" atk_para="90"/>
+		<ItemSpec id="10705" name="111851334" icon="hero_talent_icon_green" desc="111851007" desc_para="atk_para;1|atk|skill_effect;1" atk_base="1" atk_para="80"/>
+		<ItemSpec id="10801" name="111851335" icon="skill_spouting_red" desc="111851340" desc_para="atk_para;1|atk|skill_effect;1" atk_base="5" atk_para="120" skill_effect="108;1500"/>
+		<ItemSpec id="10802" name="111851336" icon="skill_spouting_orange" desc="111851340" desc_para="atk_para;1|atk|skill_effect;1" atk_base="4" atk_para="110" skill_effect="108;1000"/>
+		<ItemSpec id="10803" name="111851337" icon="skill_spouting_purple" desc="111851341" desc_para="atk_para;1|atk|skill_effect;1" atk_base="3" atk_para="100" skill_effect="108;500"/>
+		<ItemSpec id="10804" name="111851338" icon="skill_spouting_blue" desc="111851341" desc_para="atk_para;1|atk|skill_effect;1" atk_base="2" atk_para="90"/>
+		<ItemSpec id="10805" name="111851339" icon="hero_talent_icon_green" desc="111851341" desc_para="atk_para;1|atk|skill_effect;1" atk_base="1" atk_para="80"/>
+	</Group>
+</tns:database>

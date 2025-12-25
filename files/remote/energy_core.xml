@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="energy_core">
+
+    <ItemSpec id="20001" open="1" name="110256201" color="3" desc="110256211" desc_para="10|300|20" icon="energy_core_1" effect="757;300|23;20"/>
+    <ItemSpec id="20002" open="1" name="110256202" color="3" desc="110256212" desc_para="10|75" icon="energy_core_3" effect="9590;75|9680;75"/>
+    <ItemSpec id="20003" open="1" name="110256203" color="3" desc="110256300" desc_para="10|75" icon="energy_core_4" effect="9030;75"/>
+    <ItemSpec id="20004" open="1" name="110256204" color="3" desc="110256301" desc_para="10|50" icon="energy_core_5" effect="9010;50"/>
+    <ItemSpec id="20005" open="1" name="110256205" color="3" desc="110256215" desc_para="10|30" icon="energy_core_6" effect="9050;30"/>
+    <ItemSpec id="20006" open="1" name="110256206" color="4" desc="110256216" desc_para="20|2|50|3|5" icon="energy_core_2" skill="60391"/>
+    <ItemSpec id="20007" open="1" name="110256207" color="4" desc="110256212" desc_para="20|150" icon="energy_core_3" effect="9590;150|9680;150"/>
+    <ItemSpec id="20008" open="1" name="110256208" color="4" desc="110256300" desc_para="20|150" icon="energy_core_4" effect="9030;150"/>
+    <ItemSpec id="20009" open="1" name="110256209" color="4" desc="110256301" desc_para="20|100" icon="energy_core_5" effect="9010;100"/>
+    <ItemSpec id="20010" open="1" name="110256210" color="4" desc="110256215" desc_para="20|60" icon="energy_core_6" effect="9050;60"/>
+    <ItemSpec id="20011" open="1" name="110332045" color="3" desc="110332058" desc_para="5|200" icon="energy_core_7" effect="35002;200"/>
+    <ItemSpec id="20012" open="1" name="110332046" color="4" desc="110332058" desc_para="15|500" icon="energy_core_7" effect="35002;500"/>
+
+
+
+
+	</Group>
+
+</tns:database>

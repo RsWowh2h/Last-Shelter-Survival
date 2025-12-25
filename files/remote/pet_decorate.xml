@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="pet_decorate">
+		<ItemSpec id="100101" spine="pet_dog_com01" posX="0" posY="-200" enlarge="0.8" backgound="pet_dog_bg"/>
+		<ItemSpec id="100102" spine="pet_dog_com02" posX="0" posY="-200" enlarge="0.8" backgound="pet_dog_bg"/>
+		<ItemSpec id="100103" spine="pet_dog_com03" posX="0" posY="-200" enlarge="0.8" backgound="pet_dog_bg"/>
+		<ItemSpec id="100104" spine="pet_dog_meta01" posX="0" posY="-200" enlarge="0.8" backgound="pet_dog_bg"/>
+		<ItemSpec id="100105" spine="pet_dog_meta02" posX="0" posY="-200" enlarge="0.8" backgound="pet_dog_bg"/>
+		<ItemSpec id="100106" spine="pet_dog_meta03" posX="0" posY="-200" enlarge="0.8" backgound="pet_dog_bg"/>
+		<ItemSpec id="100107" spine="pet_cat_com01" posX="0" posY="-200" enlarge="0.8" backgound="pet_cat_bg"/>
+		<ItemSpec id="100108" spine="pet_cat_com02" posX="0" posY="-200" enlarge="0.8" backgound="pet_cat_bg"/>
+		<ItemSpec id="100109" spine="pet_cat_com03" posX="0" posY="-200" enlarge="0.8" backgound="pet_cat_bg"/>
+		<ItemSpec id="100110" spine="pet_cat_meta01" posX="0" posY="-200" enlarge="0.8" backgound="pet_cat_bg"/>
+		<ItemSpec id="100111" spine="pet_cat_meta02" posX="0" posY="-200" enlarge="0.8" backgound="pet_cat_bg"/>
+		<ItemSpec id="100112" spine="pet_cat_meta03" posX="0" posY="-200" enlarge="0.8" backgound="pet_cat_bg"/>
+		<ItemSpec id="100113" spine="pet_bear_com01" posX="0" posY="-200" enlarge="1" backgound="pet_bear_bg"/>
+		<ItemSpec id="100114" spine="pet_bear_com02" posX="0" posY="-200" enlarge="1" backgound="pet_bear_bg"/>
+		<ItemSpec id="100115" spine="pet_bear_com03" posX="0" posY="-200" enlarge="1" backgound="pet_bear_bg"/>
+		<ItemSpec id="100116" spine="pet_bear_meta01" posX="0" posY="-200" enlarge="1" backgound="pet_bear_bg"/>
+		<ItemSpec id="100117" spine="pet_bear_meta02" posX="0" posY="-200" enlarge="1" backgound="pet_bear_bg"/>
+		<ItemSpec id="100118" spine="pet_bear_meta03" posX="0" posY="-200" enlarge="1" backgound="pet_bear_bg"/>
+		<ItemSpec id="100119" spine="pet_dear_com01" posX="0" posY="-200" enlarge="0.8" backgound="pet_dear_bg"/>
+		<ItemSpec id="100120" spine="pet_dear_com02" posX="0" posY="-200" enlarge="0.8" backgound="pet_dear_bg"/>
+		<ItemSpec id="100121" spine="pet_dear_com03" posX="0" posY="-200" enlarge="0.8" backgound="pet_dear_bg"/>
+		<ItemSpec id="100122" spine="pet_dear_meta01" posX="0" posY="-200" enlarge="0.8" backgound="pet_dear_bg"/>
+		<ItemSpec id="100123" spine="pet_dear_meta02" posX="0" posY="-200" enlarge="0.8" backgound="pet_dear_bg"/>
+		<ItemSpec id="100124" spine="pet_dear_meta03" posX="0" posY="-200" enlarge="0.8" backgound="pet_dear_bg"/>
+		<ItemSpec id="100125" spine="pet_fox_com01" posX="0" posY="-200" enlarge="0.8" backgound="pet_fox_bg"/>
+		<ItemSpec id="100126" spine="pet_fox_com02" posX="0" posY="-200" enlarge="0.8" backgound="pet_fox_bg"/>
+		<ItemSpec id="100127" spine="pet_fox_com03" posX="0" posY="-200" enlarge="0.8" backgound="pet_fox_bg"/>
+		<ItemSpec id="100128" spine="pet_fox_meta01" posX="0" posY="-200" enlarge="0.8" backgound="pet_fox_bg"/>
+		<ItemSpec id="100129" spine="pet_fox_meta02" posX="0" posY="-200" enlarge="0.8" backgound="pet_fox_bg"/>
+		<ItemSpec id="100130" spine="pet_fox_meta03" posX="0" posY="-200" enlarge="0.8" backgound="pet_fox_bg"/>
+		<ItemSpec id="100131" spine="pet_owl_com01" posX="0" posY="-200" enlarge="0.9" backgound="pet_owl_bg"/>
+		<ItemSpec id="100132" spine="pet_owl_com02" posX="0" posY="-200" enlarge="0.9" backgound="pet_owl_bg"/>
+		<ItemSpec id="100133" spine="pet_owl_com03" posX="0" posY="-200" enlarge="0.9" backgound="pet_owl_bg"/>
+		<ItemSpec id="100134" spine="pet_owl_meta01" posX="0" posY="-200" enlarge="0.9" backgound="pet_owl_bg"/>
+		<ItemSpec id="100135" spine="pet_owl_meta02" posX="0" posY="-200" enlarge="0.9" backgound="pet_owl_bg"/>
+		<ItemSpec id="100136" spine="pet_owl_meta03" posX="0" posY="-200" enlarge="0.9" backgound="pet_owl_bg"/>
+		<ItemSpec id="100137" spine="pet_snake_com01" posX="0" posY="-200" enlarge="0.9" backgound="pet_snake_bg"/>
+		<ItemSpec id="100138" spine="pet_snake_com02" posX="0" posY="-200" enlarge="0.9" backgound="pet_snake_bg"/>
+		<ItemSpec id="100139" spine="pet_snake_com03" posX="0" posY="-200" enlarge="0.9" backgound="pet_snake_bg"/>
+		<ItemSpec id="100140" spine="pet_lion_com01" posX="0" posY="-200" enlarge="0.7" backgound="pet_lion_bg" recruitX="20"/>
+		<ItemSpec id="100141" spine="pet_lion_com02" posX="0" posY="-200" enlarge="0.7" backgound="pet_lion_bg"/>
+		<ItemSpec id="100142" spine="pet_lion_com03" posX="0" posY="-200" enlarge="0.7" backgound="pet_lion_bg"/>
+		<ItemSpec id="100143" spine="pet_rhino_com01" posX="0" posY="-200" enlarge="0.65" backgound="pet_rhino_bg"/>
+		<ItemSpec id="100144" spine="pet_rhino_com02" posX="0" posY="-200" enlarge="0.65" backgound="pet_rhino_bg"/>
+		<ItemSpec id="100145" spine="pet_rhino_com03" posX="0" posY="-200" enlarge="0.65" backgound="pet_rhino_bg"/>
+		<ItemSpec id="100146" spine="pet_ostrich_com01" posX="0" posY="-200" enlarge="0.65" backgound="pet_ostrich_bg"/>
+		<ItemSpec id="100147" spine="pet_ostrich_com02" posX="0" posY="-200" enlarge="0.65" backgound="pet_ostrich_bg"/>
+		<ItemSpec id="100148" spine="pet_ostrich_com03" posX="0" posY="-200" enlarge="0.65" backgound="pet_ostrich_bg"/>
+		<ItemSpec id="100149" spine="pet_snowman_com01" posX="0" posY="-200" enlarge="0.8" backgound="pet_snowman_bg"/>
+		<ItemSpec id="100150" spine="pet_snowman_com02" posX="0" posY="-200" enlarge="0.8" backgound="pet_snowman_bg"/>
+		<ItemSpec id="100151" spine="pet_snowman_com03" posX="0" posY="-200" enlarge="0.8" backgound="pet_snowman_bg"/>
+	</Group>
+</tns:database>

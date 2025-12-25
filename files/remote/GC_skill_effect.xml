@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="GC_skill_effect">
+		<ItemSpec id="1001" effect_type="1" effect_times="1000" effect_resource="lua_spine_effect_xuanyun"/>
+		<ItemSpec id="1002" effect_type="2" effect_result="500" effect_times="3000"/>
+		<ItemSpec id="1003" effect_type="3" effect_result="500" effect_times="3000"/>
+		<ItemSpec id="1004" effect_type="4" effect_result="250" effect_times="1200" effect_resource="lua_spine_effect_zhuoshao"/>
+		<ItemSpec id="1005" effect_type="5" effect_result="250" effect_times="5000"/>
+		<ItemSpec id="1006" effect_type="6" effect_times="2000"/>
+		<ItemSpec id="1007" effect_type="8" effect_result="800" effect_times="-1"/>
+		<ItemSpec id="1031" effect_type="9" effect_result="5|7" effect_ratio="3|4|500,3|5|0,3|7|0,3|9|0" effect_times="100"/>
+		<ItemSpec id="1032" effect_type="9" effect_result="8|10" effect_ratio="3|4|500,3|5|0,3|7|0,3|9|0" effect_times="100"/>
+		<ItemSpec id="1061" effect_type="2" effect_result="400" effect_ratio="3|5|0,3|7|0,3|9|0" effect_times="1800" effect_resource="lua_spine_effect_jiansu"/>
+		<ItemSpec id="1062" effect_type="1" effect_resource="lua_spine_effect_xuanyun" effect_position="0|0|20|250,4|0|0|600" effect_ratio="3|5|0,3|7|0,3|9|0" effect_times="360"/>
+		<ItemSpec id="1063" effect_type="2" effect_result="250" effect_ratio="3|5|0,3|7|0,3|9|0" effect_times="1500"/>
+		<ItemSpec id="1064" effect_type="2" effect_result="400" effect_position="0|0|0|1000,4|0|550|1800" effect_ratio="1|4|400,3|5|0" effect_times="1000" effect_resource="lua_spine_effect_jiansu"/>
+		<ItemSpec id="1071" effect_type="2" effect_result="400" effect_times="2000" effect_ratio="3|7|0,3|9|0"/>
+		<ItemSpec id="1072" effect_type="2" effect_result="500" effect_times="2500" effect_ratio="3|7|0,3|9|0"/>
+		<ItemSpec id="1080" effect_type="9" effect_result="2|3" effect_ratio="3|4|0,3|5|0,3|7|0,3|9|0" effect_times="40"/>
+		<ItemSpec id="1081" effect_type="9" effect_result="10|15" effect_times="100" effect_resource="lua_spine_effect_xuanyun" effect_position="0|0|20|200,4|0|0|400" effect_ratio="3|5|0,3|7|0,3|9|0"/>
+		<ItemSpec id="1082" effect_type="9" effect_result="12|15" effect_times="100" effect_resource="lua_spine_effect_xuanyun" effect_position="0|0|20|200,4|0|0|400" effect_ratio="3|5|0,3|7|0,3|9|0"/>
+		<ItemSpec id="1083" effect_type="9" effect_result="20|30" effect_times="100" effect_resource="lua_spine_effect_xuanyun" effect_position="0|0|20|200,4|0|0|400" effect_ratio="3|5|0,3|7|0,3|9|0"/>
+		<ItemSpec id="1091" effect_type="1" effect_times="750" effect_resource="lua_spine_dianji_hit_lv1" effect_position="0|0|0|1000,4|0|550|1800" effect_ratio="3|5|0,3|7|0,3|9|0"/>
+		<ItemSpec id="1092" effect_type="1" effect_times="750" effect_resource="lua_spine_dianji_hit_lv2" effect_position="0|0|0|1000,4|0|550|1800" effect_ratio="3|5|0,3|7|0,3|9|0"/>
+		<ItemSpec id="1093" effect_type="1" effect_resource="lua_spine_dianji_hit_lv3" effect_times="750" effect_position="0|0|0|1000,4|0|550|1800" effect_ratio="3|5|0,3|7|0,3|9|0"/>
+		<ItemSpec id="1094" effect_type="1" effect_resource="lua_spine_effect_mabi" effect_times="300" effect_position="0|0|0|1000,4|0|550|1800" effect_ratio="3|5|0,3|7|0,3|9|0"/>
+		<ItemSpec id="2001" effect_type="7" effect_result="999999" effect_times="-1"/>
+		<ItemSpec id="1024" effect_type="2" effect_result="400" effect_times="4000"/>
+		<ItemSpec id="1025" effect_type="2" effect_result="500" effect_times="3000"/>
+		<ItemSpec id="1050" effect_type="5" effect_result="600" effect_times="1200" effect_resource="lua_spine_effect_zhuoshao"/>
+		<ItemSpec id="1052" effect_type="5" effect_result="600" effect_times="1200" effect_resource="lua_spine_effect_zhuoshao"/>
+		<ItemSpec/>
+	</Group>
+</tns:database>

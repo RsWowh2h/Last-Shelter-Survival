@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="DD_season_group">
+    <ItemSpec id="1" tab_type_include="25|26|27|28" tab_type_name="79032267|79032266|79032268|79032269" tab_type_pic="bw_494000.png|bw_490000.png|bw_495000.png|bw_496000.png" tab_type_position="0,0|1,0|2,0|3,0"/>
+    <ItemSpec id="2" tab_type_include="25|26|27" tab_type_name="109500|90600857|104902" tab_type_pic="bw_494000.png|bw_490000.png|bw_495000.png" tab_type_position="0,0|1,0|2,0"/>
+
+	</Group>
+
+</tns:database>

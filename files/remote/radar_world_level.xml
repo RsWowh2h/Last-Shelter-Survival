@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="radar_world_level">
+    <ItemSpec id="10001" GroupID="1" level="1" Probability="0|0|4000|4000|0|0|0" RefreshNum="0" Exp="126000" />
+    <ItemSpec id="10002" GroupID="1" level="2" Probability="0|0|4000|3000|1000|0|0" RefreshNum="0" Exp="176000" />
+    <ItemSpec id="10003" GroupID="1" level="3" Probability="0|0|3000|4000|1000|0|0" RefreshNum="0" Exp="248000" />
+    <ItemSpec id="10004" GroupID="1" level="4" Probability="0|0|2000|4000|2000|0|0" RefreshNum="0" Exp="368000" />
+    <ItemSpec id="10005" GroupID="1" level="5" Probability="0|0|1000|5000|2000|0|0" RefreshNum="2" Exp="552000" />
+    <ItemSpec id="10006" GroupID="1" level="6" Probability="0|0|0|5000|3000|0|0" RefreshNum="2" Exp="802000" />
+    <ItemSpec id="10007" GroupID="1" level="7" Probability="0|0|0|4000|4000|0|0" RefreshNum="2" Exp="1098000" />
+    <ItemSpec id="10008" GroupID="1" level="8" Probability="0|0|0|3000|5000|0|0" RefreshNum="2" Exp="1498000" />
+    <ItemSpec id="10009" GroupID="1" level="9" Probability="0|0|0|2000|6000|0|0" RefreshNum="2" Exp="2040000" />
+    <ItemSpec id="10010" GroupID="1" level="10" Probability="0|0|0|1000|6000|1000|0" RefreshNum="4" Exp="0" />
+
+    <ItemSpec id="20001" GroupID="2" level="1" Probability="0|4000|4000|0|0|0|0" RefreshNum="0" Exp="126000" />
+    <ItemSpec id="20002" GroupID="2" level="2" Probability="0|4000|3000|1000|0|0|0" RefreshNum="0" Exp="184000" />
+    <ItemSpec id="20003" GroupID="2" level="3" Probability="0|3000|4000|1000|0|0|0" RefreshNum="0" Exp="256000" />
+    <ItemSpec id="20004" GroupID="2" level="4" Probability="0|2000|4000|2000|0|0|0" RefreshNum="0" Exp="392000" />
+    <ItemSpec id="20005" GroupID="2" level="5" Probability="0|1000|5000|2000|0|0|0" RefreshNum="2" Exp="584000" />
+    <ItemSpec id="20006" GroupID="2" level="6" Probability="0|0|5000|3000|0|0|0" RefreshNum="2" Exp="864000" />
+    <ItemSpec id="20007" GroupID="2" level="7" Probability="0|0|4000|4000|0|0|0" RefreshNum="2" Exp="1206000" />
+    <ItemSpec id="20008" GroupID="2" level="8" Probability="0|0|3000|5000|0|0|0" RefreshNum="2" Exp="1676000" />
+    <ItemSpec id="20009" GroupID="2" level="9" Probability="0|0|2000|6000|0|0|0" RefreshNum="2" Exp="2318000" />
+    <ItemSpec id="20010" GroupID="2" level="10" Probability="0|0|1000|6000|1000|0|0" RefreshNum="4" Exp="0" />
+
+
+	<!--新手二期雷达任务奖励-->
+    <ItemSpec id="50001" GroupID="5" level="1" Probability="7000|2500|0|0|0|0|0" RefreshNum="0" Exp="1000" />
+    <ItemSpec id="50002" GroupID="5" level="2" Probability="7000|2500|0|0|0|0|0" RefreshNum="2" Exp="2000" />
+    <ItemSpec id="50003" GroupID="5" level="3" Probability="8000|2000|0|0|0|0|0" RefreshNum="3" Exp="4000" />
+    <ItemSpec id="50004" GroupID="5" level="4" Probability="7000|3000|0|0|0|0|0" RefreshNum="4" Exp="5000" />
+    <ItemSpec id="50005" GroupID="5" level="5" Probability="6000|3500|500|0|0|0|0" RefreshNum="4" Exp="6000" />
+    <ItemSpec id="50006" GroupID="5" level="6" Probability="4000|4000|2000|0|0|0|0" RefreshNum="4" Exp="10000" />
+    <ItemSpec id="50007" GroupID="5" level="7" Probability="3000|4000|2000|1000|0|0|0" RefreshNum="5" Exp="20000" />
+    <ItemSpec id="50008" GroupID="5" level="8" Probability="2000|4000|2500|1500|0|0|0" RefreshNum="5" Exp="25000" />
+    <ItemSpec id="50009" GroupID="5" level="9" Probability="1000|3500|3500|2000|0|0|0" RefreshNum="5" Exp="30000" />
+    <ItemSpec id="50010" GroupID="5" level="10" Probability="500|3000|4000|2500|0|0|0" RefreshNum="6" Exp="40000" />
+    <ItemSpec id="50011" GroupID="5" level="11" Probability="0|2500|4500|3000|0|0|0" RefreshNum="6" Exp="45000" />
+    <ItemSpec id="50012" GroupID="5" level="12" Probability="0|2000|4000|3000|800|200|0" RefreshNum="6" Exp="55000" />
+    <ItemSpec id="50013" GroupID="5" level="13" Probability="0|1500|3000|3600|1500|400|0" RefreshNum="7" Exp="65000" />
+    <ItemSpec id="50014" GroupID="5" level="14" Probability="0|1000|2400|4000|2000|600|0" RefreshNum="7" Exp="80000" />
+    <ItemSpec id="50015" GroupID="5" level="15" Probability="0|500|2000|4000|2700|800|0" RefreshNum="7" Exp="95000" />
+    <ItemSpec id="50016" GroupID="5" level="16" Probability="0|0|1500|4000|3500|1000|0" RefreshNum="7" Exp="115000" />
+    <ItemSpec id="50017" GroupID="5" level="17" Probability="0|0|1000|4000|4000|1000|0" RefreshNum="8" Exp="140000" />
+    <ItemSpec id="50018" GroupID="5" level="18" Probability="0|0|1000|3500|4000|1500|0" RefreshNum="8" Exp="170000" />
+    <ItemSpec id="50019" GroupID="5" level="19" Probability="0|0|1000|3000|4000|2000|0" RefreshNum="9" Exp="205000" />
+    <ItemSpec id="50020" GroupID="5" level="20" Probability="0|0|1000|2500|4500|2000|0" RefreshNum="9" Exp="0" />
+
+
+
+
+
+
+
+
+</Group>
+
+ </tns:database>

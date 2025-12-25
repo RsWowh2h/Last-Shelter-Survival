@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="camp_task">
+  <!--阵营成就系统-->
+  
+    <ItemSpec id="3270000" name="110258083" type="1" para2="11460000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270001" name="110258083" type="1" para2="30960000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270002" name="110258083" type="1" para2="50934000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270003" name="110258083" type="1" para2="80820000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270004" name="110258083" type="1" para2="111894000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270005" name="110258083" type="1" para2="143430000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270006" name="110258083" type="1" para2="165342000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270007" name="110258083" type="1" para2="178458000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270008" name="110258083" type="1" para2="187200000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270009" name="110258083" type="1" para2="195942000" starting_time="1" time="70560" duration="1;99" />
+
+
+
+
+
+    <ItemSpec id="3270014" name="110258104" type="4" para2="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270015" name="110258097" type="2" para2="2" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270016" name="110258098" type="2" para2="9" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270017" name="110258101" type="2" para2="3" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270018" name="110258102" type="2" para2="3" starting_time="1" time="70560" duration="1;99" />
+
+
+
+    <ItemSpec id="3270022" name="110258103" type="2" para2="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270023" name="110258102" type="2" para2="6" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270024" name="110258097" type="2" para2="4" starting_time="1" time="70560" duration="1;99" />
+
+
+
+  <!--阵营成就系统 2.0-->
+    <ItemSpec id="3270025" name="110258083" type="1" para2="300000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3270026" name="110258083" type="1" para2="600000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3270027" name="110258083" type="1" para2="800000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3270028" name="110258083" type="1" para2="1000000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3270029" name="110258083" type="1" para2="1200000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3270030" name="110258083" type="1" para2="1400000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3270031" name="110258083" type="1" para2="1600000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3270032" name="110258083" type="1" para2="2200000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3270033" name="110258083" type="1" para2="2600000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3270034" name="110258083" type="1" para2="3000000000" starting_time="1" time="70560" duration="1;99"/>
+
+
+
+
+    <ItemSpec id="3270035" name="110258403" type="4" para2="1" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3270036" name="110258400" type="2" para2="2" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3270037" name="110258399" type="2" para2="9" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3270038" name="110258381" type="2" para2="3" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3270039" name="110258382" type="2" para2="5" starting_time="1" time="70560" duration="1;99"/>
+
+
+
+    <ItemSpec id="3270040" name="110258383" type="2" para2="1" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3270041" name="110258382" type="2" para2="6" starting_time="1" time="70560" duration="1;99"/>
+
+
+
+
+<!--1-800插旗用-->
+    <ItemSpec id="3270061" name="110258083" type="1" para2="300000000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270062" name="110258083" type="1" para2="600000000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270063" name="110258083" type="1" para2="800000000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270064" name="110258083" type="1" para2="1000000000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270065" name="110258083" type="1" para2="1200000000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270066" name="110258083" type="1" para2="1400000000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270067" name="110258083" type="1" para2="1600000000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270068" name="110258083" type="1" para2="2200000000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270069" name="110258083" type="1" para2="2600000000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270070" name="110258083" type="1" para2="3000000000" starting_time="1" time="70560" duration="1;99" />
+
+
+
+
+    <ItemSpec id="3270071" name="110258403" type="4" para2="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270072" name="110258400" type="2" para2="2" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270073" name="110258399" type="2" para2="9" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270074" name="110258381" type="2" para2="3" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270075" name="110258382" type="2" para2="5" starting_time="1" time="70560" duration="1;99" />
+
+
+
+    <ItemSpec id="3270076" name="110258383" type="2" para2="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3270077" name="110258382" type="2" para2="6" starting_time="1" time="70560" duration="1;99" />
+
+
+
+  <!--四阵营成就任务-先遣-10005-->
+
+    <ItemSpec id="3280801" name="110255802" type="1" para2="500000000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3280802" name="110255802" type="1" para2="1000000000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3280803" name="110255802" type="1" para2="2000000000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3280804" name="110255802" type="1" para2="3000000000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3280805" name="110255802" type="1" para2="4000000000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3280806" name="110255802" type="1" para2="5000000000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3280807" name="110258094" type="4" para2="3" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3280808" name="110258095" type="4" para2="2" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3280809" name="110256006" type="4" para2="2" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3280810" name="110258095" type="4" para2="4" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3280811" name="110255803" type="4" para2="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3280812" name="110255806" type="4" para2="3" dialog_para="3;3" starting_time="1" time="70560" duration="1;99" />
+
+  <!--四阵营成就任务-正式-10006-->
+
+    <ItemSpec id="3280901" name="110255802" type="1" para2="500000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3280902" name="110255802" type="1" para2="1000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3280903" name="110255802" type="1" para2="2000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3280904" name="110255802" type="1" para2="3000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3280905" name="110255802" type="1" para2="4000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3280906" name="110255802" type="1" para2="5000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3280907" name="110258094" type="4" para2="3" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3280908" name="110258095" type="4" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3280909" name="110256006" type="4" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3280910" name="110258095" type="4" para2="4" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3280911" name="110255803" type="4" para2="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3280912" name="110255806" type="4" para2="3" dialog_para="3;3" starting_time="1" time="73440" duration="1;99" />
+
+ <!--军功南北成就任务-颜回-10007-->
+
+    <ItemSpec id="3281001" name="110255802" type="1" para2="750000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281002" name="110255802" type="1" para2="1500000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281003" name="110255802" type="1" para2="3000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281004" name="110255802" type="1" para2="4500000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281005" name="110255802" type="1" para2="6000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281006" name="110255802" type="1" para2="7500000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281007" name="110258094" type="4" para2="4" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281008" name="110258095" type="4" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281009" name="110256006" type="4" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281010" name="110258094" type="4" para2="6" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281011" name="110255803" type="4" para2="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281012" name="110255806" type="4" para2="3" dialog_para="3;4" starting_time="1" time="73440" duration="1;99"/>
+
+
+<!-- 凛冬成就任务-先遣-10010 -->
+
+    <ItemSpec id="3281101" name="110255802" type="1" para2="500000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3281102" name="110255802" type="1" para2="1000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3281103" name="110255802" type="1" para2="2000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3281104" name="110255802" type="1" para2="3000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3281105" name="110255802" type="1" para2="4000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3281106" name="110255802" type="1" para2="5000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3281107" name="110258094" type="4" para2="3" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3281108" name="110258095" type="4" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3281109" name="110256006" type="4" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3281110" name="110258095" type="4" para2="4" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3281111" name="110255803" type="4" para2="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3281112" name="110255806" type="4" para2="3" dialog_para="3;3" starting_time="1" time="73440" duration="1;99" />
+
+
+  <!--赛季英雄南北成就任务-繁华-10011-->
+
+
+    <ItemSpec id="3281201" name="110255802" type="1" para2="500000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281202" name="110255802" type="1" para2="1000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281203" name="110255802" type="1" para2="2000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281204" name="110255802" type="1" para2="3000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281205" name="110255802" type="1" para2="4000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281206" name="110255802" type="1" para2="5000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281207" name="110258094" type="4" para2="4" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281208" name="110258095" type="4" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281209" name="110256006" type="4" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281210" name="110258095" type="4" para2="4" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281211" name="110255803" type="4" para2="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281212" name="110255806" type="4" para2="3" dialog_para="3;4" starting_time="1" time="73440" duration="1;99"/>
+
+    <ItemSpec id="3281301" name="110255802" type="1" para2="500000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281302" name="110255802" type="1" para2="1000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281303" name="110255802" type="1" para2="2000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281304" name="110255802" type="1" para2="3000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281305" name="110255802" type="1" para2="4000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281306" name="110255802" type="1" para2="5000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281307" name="110258094" type="4" para2="3" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281308" name="110258095" type="4" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281309" name="110256006" type="4" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281310" name="110258095" type="4" para2="4" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281311" name="110255803" type="4" para2="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281312" name="110255806" type="4" para2="3" dialog_para="3;3" starting_time="1" time="73440" duration="1;99"/>
+
+    <ItemSpec id="3281401" name="110255802" type="1" para2="750000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281402" name="110255802" type="1" para2="1500000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281403" name="110255802" type="1" para2="3000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281404" name="110255802" type="1" para2="4500000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281405" name="110255802" type="1" para2="6000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281406" name="110255802" type="1" para2="7500000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281407" name="110258094" type="4" para2="4" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281408" name="110258095" type="4" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281409" name="110256006" type="4" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281410" name="110258094" type="4" para2="6" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281411" name="110255803" type="4" para2="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3281412" name="110255806" type="4" para2="3" dialog_para="3;4" starting_time="1" time="73440" duration="1;99"/>
+	
+	
+  <!--南北阵营建筑阵营成就  10018-->
+    <ItemSpec id="3291301" name="110255802" type="1" para2="500000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3291302" name="110255802" type="1" para2="1000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3291303" name="110255802" type="1" para2="2000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3291304" name="110255802" type="1" para2="3000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3291305" name="110255802" type="1" para2="4000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3291306" name="110255802" type="1" para2="5000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3291307" name="110258094" type="4" para2="3" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3291308" name="110258095" type="4" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3291309" name="110256006" type="4" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3291310" name="110258095" type="4" para2="4" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3291311" name="110255803" type="4" para2="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3291312" name="110255806" type="4" para2="3" dialog_para="3;4" starting_time="1" time="73440" duration="1;99"/>
+
+    <ItemSpec id="3291313" name="110560605" type="9" para1="4" para2="4" dialog_para="4;4" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3291314" name="110560605" type="9" para1="8" para2="4" dialog_para="4;8" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3291315" name="110560607" type="9" para1="4" para2="8" dialog_para="8;4" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3291316" name="110560607" type="9" para1="8" para2="8" dialog_para="8;8" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3291317" name="110560608" type="9" para1="10" para2="2" dialog_para="2;10" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3291318" name="110560608" type="9" para1="10" para2="4" dialog_para="4;10" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3291319" name="110560608" type="9" para1="10" para2="6" dialog_para="6;10" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3291320" name="110560612" type="11" para1="1" para2="2" dialog_para="2;1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3291321" name="110560612" type="11" para1="1" para2="4" dialog_para="4;1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3291322" name="110560612" type="11" para1="1" para2="6" dialog_para="6;1" starting_time="1" time="73440" duration="1;99"/>
+	
+
+  <!--四阵营成就任务-战地手册版本-正式服-10020-->
+    <ItemSpec id="3293901" name="110255802" type="1" para2="500000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3293902" name="110255802" type="1" para2="1000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3293903" name="110255802" type="1" para2="2000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3293904" name="110255802" type="1" para2="3000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3293905" name="110255802" type="1" para2="4000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3293906" name="110255802" type="1" para2="5000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3293907" name="110258094" type="4" para2="3" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3293908" name="110258095" type="4" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3293909" name="110256006" type="4" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3293910" name="110258095" type="4" para2="4" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3293911" name="110255803" type="4" para2="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3293912" name="110255806" type="4" para2="3" dialog_para="3;3" starting_time="1" time="73440" duration="1;99" />
+
+  <!--南北阵营建筑赛季建筑阵营成就  10021-->
+    <ItemSpec id="3294301" name="110255802" type="1" para2="500000000" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3294302" name="110255802" type="1" para2="1000000000" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3294303" name="110255802" type="1" para2="2000000000" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3294304" name="110255802" type="1" para2="3000000000" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3294305" name="110255802" type="1" para2="4000000000" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3294306" name="110255802" type="1" para2="5000000000" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3294307" name="110258094" type="4" para2="3" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3294308" name="110258095" type="4" para2="2" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3294309" name="110256006" type="4" para2="2" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3294310" name="110258095" type="4" para2="4" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3294311" name="110255803" type="4" para2="1" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3294312" name="110255806" type="4" para2="3" starting_time="1" time="73440" duration="1;99" dialog_para="3;4"/>
+		<ItemSpec id="3294313" name="110560605" type="9" para2="4" starting_time="1" time="73440" duration="1;99" dialog_para="4;4" para1="4"/>
+		<ItemSpec id="3294314" name="110560605" type="9" para2="4" starting_time="1" time="73440" duration="1;99" dialog_para="4;8" para1="8"/>
+		<ItemSpec id="3294315" name="110560607" type="9" para2="8" starting_time="1" time="73440" duration="1;99" dialog_para="8;4" para1="4"/>
+		<ItemSpec id="3294316" name="110560607" type="9" para2="8" starting_time="1" time="73440" duration="1;99" dialog_para="8;8" para1="8"/>
+		<ItemSpec id="3294317" name="110560608" type="9" para2="2" starting_time="1" time="73440" duration="1;99" dialog_para="2;10" para1="10"/>
+		<ItemSpec id="3294318" name="110560608" type="9" para2="4" starting_time="1" time="73440" duration="1;99" dialog_para="4;10" para1="10"/>
+		<ItemSpec id="3294319" name="110560608" type="9" para2="6" starting_time="1" time="73440" duration="1;99" dialog_para="6;10" para1="10"/>
+		<ItemSpec id="3294320" name="110560612" type="11" para2="2" starting_time="1" time="73440" duration="1;99" dialog_para="2;1" para1="1"/>
+		<ItemSpec id="3294321" name="110560612" type="11" para2="4" starting_time="1" time="73440" duration="1;99" dialog_para="4;1" para1="1"/>
+		<ItemSpec id="3294322" name="110560612" type="11" para2="6" starting_time="1" time="73440" duration="1;99" dialog_para="6;1" para1="1"/>
+
+  <!--南北阵营建筑阵营+赛季建筑成就-10022-->
+    <ItemSpec id="3295301" name="110255802" type="1" para2="750000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3295302" name="110255802" type="1" para2="1500000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3295303" name="110255802" type="1" para2="3000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3295304" name="110255802" type="1" para2="4500000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3295305" name="110255802" type="1" para2="6000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3295306" name="110255802" type="1" para2="7500000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3295307" name="110258094" type="4" para2="4" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3295308" name="110258095" type="4" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3295309" name="110256006" type="4" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3295310" name="110258094" type="4" para2="6" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3295311" name="110255803" type="4" para2="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3295312" name="110255806" type="4" para2="3" dialog_para="3;4" starting_time="1" time="73440" duration="1;99"/>
+
+  <!--四阵营凛冬-赛季建筑成就-10023-->
+    <ItemSpec id="3296301" name="110255802" type="1" para2="500000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3296302" name="110255802" type="1" para2="1000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3296303" name="110255802" type="1" para2="2000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3296304" name="110255802" type="1" para2="3000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3296305" name="110255802" type="1" para2="4000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3296306" name="110255802" type="1" para2="5000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3296307" name="110258094" type="4" para2="3" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3296308" name="110258095" type="4" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3296309" name="110256006" type="4" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3296310" name="110258095" type="4" para2="4" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3296311" name="110255803" type="4" para2="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3296312" name="110255806" type="4" para2="3" dialog_para="3;3" starting_time="1" time="73440" duration="1;99"/>
+
+  <!--南北赛季+水战版阵营成就-10024-->
+    <ItemSpec id="3297301" name="110255802" type="6" para2="750000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3297302" name="110255802" type="6" para2="1500000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3297303" name="110255802" type="6" para2="3000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3297304" name="110255802" type="6" para2="4500000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3297305" name="110255802" type="6" para2="6000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3297306" name="110255802" type="6" para2="7500000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3297307" name="110258094" type="3" para2="4" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3297308" name="110258095" type="3" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3297309" name="110256006" type="3" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3297310" name="110258094" type="3" para2="6" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3297311" name="110255803" type="4" para2="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3297312" name="110255806" type="4" para2="3" dialog_para="3;4" starting_time="1" time="73440" duration="1;99" />
+
+
+  <!--南北赛季-赛季职业阵营成就-10025-->
+    <ItemSpec id="3298301" name="110255802" type="6" para2="750000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3298302" name="110255802" type="6" para2="1500000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3298303" name="110255802" type="6" para2="3000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3298304" name="110255802" type="6" para2="4500000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3298305" name="110255802" type="6" para2="6000000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3298306" name="110255802" type="6" para2="7500000000" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3298307" name="110258094" type="3" para2="4" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3298308" name="110258095" type="3" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3298309" name="110256006" type="3" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3298310" name="110258094" type="3" para2="6" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3298311" name="110255803" type="4" para2="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3298312" name="110255806" type="4" para2="3" dialog_para="3;4" starting_time="1" time="73440" duration="1;99"/>
+
+
+  <!--南北赛季+水战+跑商玩法成就  10026-->
+    <ItemSpec id="3299301" name="110255802" type="6" para2="750000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3299302" name="110255802" type="6" para2="1500000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3299303" name="110255802" type="6" para2="3000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3299304" name="110255802" type="6" para2="4500000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3299305" name="110255802" type="6" para2="6000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3299306" name="110255802" type="6" para2="7500000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3299307" name="110258094" type="3" para2="4" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3299308" name="110258095" type="3" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3299309" name="110256006" type="3" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3299310" name="110258094" type="3" para2="6" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3299311" name="110255803" type="4" para2="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3299312" name="110255806" type="4" para2="3" dialog_para="3;4" starting_time="1" time="73440" duration="1;99" />
+  
+  <!--南北赛季+英雄信条  10027-->
+    <ItemSpec id="3300301" name="110255802" type="6" para2="750000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3300302" name="110255802" type="6" para2="1500000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3300303" name="110255802" type="6" para2="3000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3300304" name="110255802" type="6" para2="4500000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3300305" name="110255802" type="6" para2="6000000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3300306" name="110255802" type="6" para2="7500000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3300307" name="110258094" type="3" para2="4" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3300308" name="110258095" type="3" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3300309" name="110256006" type="3" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3300310" name="110258094" type="3" para2="6" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3300311" name="110255803" type="4" para2="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3300312" name="110255806" type="4" para2="3" dialog_para="3;4" starting_time="1" time="73440" duration="1;99" />
+
+
+</Group>
+</tns:database>
+	

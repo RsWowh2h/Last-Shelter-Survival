@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ 
+    <ItemSpec id="int" name="int" purpose="string" isShow="int" vendor="Array_String"/>
+    <ItemSpec id="1" name="905103" purpose="c1" isShow="1" vendor="s1"/>
+    <ItemSpec id="2" name="905104" purpose="c2" isShow="1" vendor="s2"/>
+ 
+</tns:database>

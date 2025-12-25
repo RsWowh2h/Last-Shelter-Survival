@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="td2_level_config">
+    <ItemSpec id="1" monster_life="90" max_damage="415" resource="3" power_cost="2100" />
+    <ItemSpec id="2" monster_life="150" max_damage="677" resource="3" power_cost="2100" />
+    <ItemSpec id="3" monster_life="280" max_damage="1242" resource="3" power_cost="2100" />
+    <ItemSpec id="4" monster_life="300" max_damage="1310" resource="3" power_cost="2100" />
+    <ItemSpec id="5" monster_life="320" max_damage="1376" resource="30" power_cost="2100" />
+    <ItemSpec id="6" monster_life="300" max_damage="1270" resource="3" power_cost="2100" />
+    <ItemSpec id="7" monster_life="360" max_damage="1502" resource="3" power_cost="2100" offline_reward="630007" />
+    <ItemSpec id="8" monster_life="435" max_damage="1787" resource="3" power_cost="2100" offline_reward="630008" />
+    <ItemSpec id="9" monster_life="517" max_damage="2092" resource="3" power_cost="2100" offline_reward="630009" />
+    <ItemSpec id="10" monster_life="480" max_damage="1913" resource="90" power_cost="2100" boss="1" reward="634000" offline_reward="630010" />
+    <ItemSpec id="11" monster_life="450" max_damage="1765" resource="6" power_cost="2100" offline_reward="630011" />
+    <ItemSpec id="12" monster_life="541" max_damage="2088" resource="6" power_cost="2100" offline_reward="630012" />
+    <ItemSpec id="13" monster_life="591" max_damage="2243" resource="6" power_cost="2100" offline_reward="630013" />
+    <ItemSpec id="14" monster_life="835" max_damage="3115" resource="6" power_cost="2100" offline_reward="630014" />
+    <ItemSpec id="15" monster_life="949" max_damage="3476" resource="60" power_cost="2700" boss="1" reward="634001" offline_reward="630015" />
+    <ItemSpec id="16" monster_life="854" max_damage="3070" resource="9" power_cost="2700" offline_reward="630016" />
+    <ItemSpec id="17" monster_life="1044" max_damage="3680" resource="9" power_cost="2700" offline_reward="630017" />
+    <ItemSpec id="18" monster_life="1139" max_damage="3932" resource="9" power_cost="2700" offline_reward="630018" />
+    <ItemSpec id="19" monster_life="1253" max_damage="4232" resource="9" power_cost="2700" offline_reward="630019" />
+    <ItemSpec id="20" monster_life="1424" max_damage="4701" resource="270" power_cost="2700" boss="1" reward="634002" offline_reward="630020" />
+    <ItemSpec id="21" monster_life="1281" max_damage="4127" resource="12" power_cost="2700" offline_reward="630021" />
+    <ItemSpec id="22" monster_life="1566" max_damage="4917" resource="12" power_cost="2700" offline_reward="630022" />
+    <ItemSpec id="23" monster_life="1709" max_damage="5223" resource="12" power_cost="2700" offline_reward="630023" />
+    <ItemSpec id="24" monster_life="2297" max_damage="6821" resource="12" power_cost="2700" offline_reward="630024" />
+    <ItemSpec id="25" monster_life="2610" max_damage="7520" resource="120" power_cost="3300" boss="1" reward="634003" offline_reward="630025" />
+    <ItemSpec id="26" monster_life="2349" max_damage="6556" resource="15" power_cost="3300" offline_reward="630026" />
+    <ItemSpec id="27" monster_life="2871" max_damage="7750" resource="15" power_cost="3300" offline_reward="630027" />
+    <ItemSpec id="28" monster_life="3132" max_damage="8165" resource="15" power_cost="3300" offline_reward="630028" />
+    <ItemSpec id="29" monster_life="3759" max_damage="9452" resource="15" power_cost="3300" offline_reward="630029" />
+    <ItemSpec id="30" monster_life="4271" max_damage="10348" resource="450" power_cost="3600" boss="1" reward="634004" offline_reward="630030" />
+    <ItemSpec id="31" monster_life="3844" max_damage="8965" resource="15" power_cost="3600" offline_reward="630031" />
+    <ItemSpec id="32" monster_life="4699" max_damage="10544" resource="15" power_cost="3600" offline_reward="630032" />
+    <ItemSpec id="33" monster_life="5126" max_damage="11061" resource="15" power_cost="3600" offline_reward="630033" />
+    <ItemSpec id="34" monster_life="5638" max_damage="11698" resource="15" power_cost="3600" offline_reward="630034" />
+    <ItemSpec id="35" monster_life="5980" max_damage="11931" resource="150" power_cost="3600" boss="1" reward="634005" offline_reward="630035" />
+    <ItemSpec id="36" monster_life="5382" max_damage="10327" resource="18" power_cost="3600" offline_reward="630036" />
+    <ItemSpec id="37" monster_life="6578" max_damage="12143" resource="18" power_cost="3600" offline_reward="630037" />
+    <ItemSpec id="38" monster_life="7176" max_damage="12750" resource="18" power_cost="3600" offline_reward="630038" />
+    <ItemSpec id="39" monster_life="8552" max_damage="14631" resource="18" power_cost="3600" offline_reward="630039" />
+    <ItemSpec id="40" monster_life="9070" max_damage="14950" resource="540" power_cost="7800" boss="1" reward="634006" offline_reward="630040" />
+    <ItemSpec id="41" monster_life="8163" max_damage="12969" resource="21" power_cost="7800" offline_reward="630041" />
+    <ItemSpec id="42" monster_life="9977" max_damage="15288" resource="21" power_cost="7800" offline_reward="630042" />
+    <ItemSpec id="43" monster_life="10884" max_damage="16093" resource="21" power_cost="7800" offline_reward="630043" />
+    <ItemSpec id="44" monster_life="11972" max_damage="17090" resource="21" power_cost="7800" offline_reward="630044" />
+    <ItemSpec id="45" monster_life="12698" max_damage="17508" resource="210" power_cost="7800" boss="1" reward="634007" offline_reward="630045" />
+    <ItemSpec id="46" monster_life="11428" max_damage="15226" resource="24" power_cost="7800" offline_reward="630046" />
+    <ItemSpec id="47" monster_life="13967" max_damage="17990" resource="24" power_cost="7800" offline_reward="630047" />
+    <ItemSpec id="48" monster_life="15237" max_damage="18981" resource="24" power_cost="7800" offline_reward="630048" />
+    <ItemSpec id="49" monster_life="18050" max_damage="21755" resource="24" power_cost="7800" offline_reward="630049" />
+    <ItemSpec id="50" monster_life="19144" max_damage="22331" resource="720" power_cost="8400" boss="1" reward="634008" offline_reward="630050" />
+    <ItemSpec id="51" monster_life="17230" max_damage="19457" resource="27" power_cost="8400" offline_reward="630051" />
+    <ItemSpec id="52" monster_life="21059" max_damage="23029" resource="27" power_cost="8400" offline_reward="630052" />
+    <ItemSpec id="53" monster_life="22973" max_damage="24334" resource="27" power_cost="8400" offline_reward="630053" />
+    <ItemSpec id="54" monster_life="25270" max_damage="25934" resource="27" power_cost="8400" offline_reward="630054" />
+    <ItemSpec id="55" monster_life="26802" max_damage="26149" resource="270" power_cost="8400" boss="1" reward="634009" offline_reward="630055" />
+    <ItemSpec id="56" monster_life="24122" max_damage="23423" resource="30" power_cost="8400" offline_reward="630056" />
+    <ItemSpec id="57" monster_life="29482" max_damage="28495" resource="30" power_cost="8400" offline_reward="630057" />
+    <ItemSpec id="58" monster_life="32162" max_damage="30942" resource="30" power_cost="8400" offline_reward="630058" />
+    <ItemSpec id="59" monster_life="35379" max_damage="33882" resource="30" power_cost="8400" offline_reward="630059" />
+    <ItemSpec id="60" monster_life="37523" max_damage="35774" resource="900" power_cost="8400" boss="1" reward="634010" offline_reward="630060" />
+    <ItemSpec id="61" monster_life="33770" max_damage="32053" resource="30" power_cost="8400" offline_reward="630061" />
+    <ItemSpec id="62" monster_life="41275" max_damage="39005" resource="30" power_cost="8400" offline_reward="630062" />
+    <ItemSpec id="63" monster_life="45027" max_damage="42367" resource="30" power_cost="8400" offline_reward="630063" />
+    <ItemSpec id="64" monster_life="53068" max_damage="49719" resource="30" power_cost="8400" offline_reward="630064" />
+    <ItemSpec id="65" monster_life="56284" max_damage="52509" resource="300" power_cost="9000" boss="1" reward="634011" offline_reward="630065" />
+    <ItemSpec id="66" monster_life="50656" max_damage="47061" resource="33" power_cost="9000" offline_reward="630066" />
+    <ItemSpec id="67" monster_life="61912" max_damage="57280" resource="33" power_cost="9000" offline_reward="630067" />
+    <ItemSpec id="68" monster_life="67541" max_damage="62232" resource="33" power_cost="9000" offline_reward="630068" />
+    <ItemSpec id="69" monster_life="74295" max_damage="68178" resource="33" power_cost="9000" offline_reward="630069" />
+    <ItemSpec id="70" monster_life="78798" max_damage="72021" resource="990" power_cost="9000" boss="1" reward="634012" offline_reward="630070" />
+    <ItemSpec id="71" monster_life="70918" max_damage="64561" resource="36" power_cost="9000" offline_reward="630071" />
+    <ItemSpec id="72" monster_life="86677" max_damage="78598" resource="36" power_cost="9000" offline_reward="630072" />
+    <ItemSpec id="73" monster_life="94557" max_damage="85410" resource="36" power_cost="9000" offline_reward="630073" />
+    <ItemSpec id="74" monster_life="110947" max_damage="99828" resource="36" power_cost="9000" offline_reward="630074" />
+    <ItemSpec id="75" monster_life="117671" max_damage="105475" resource="360" power_cost="9600" boss="1" reward="634013" offline_reward="630075" />
+    <ItemSpec id="76" monster_life="105904" max_damage="94569" resource="39" power_cost="9600" offline_reward="630076" />
+    <ItemSpec id="77" monster_life="129438" max_damage="115152" resource="39" power_cost="9600" offline_reward="630077" />
+    <ItemSpec id="78" monster_life="141205" max_damage="125154" resource="39" power_cost="9600" offline_reward="630078" />
+    <ItemSpec id="79" monster_life="155326" max_damage="137164" resource="39" power_cost="9600" offline_reward="630079" />
+    <ItemSpec id="80" monster_life="164740" max_damage="144948" resource="1170" power_cost="9600" boss="1" reward="634014" offline_reward="630080" />
+    <ItemSpec id="81" monster_life="148266" max_damage="129982" resource="42" power_cost="9600" offline_reward="630081" />
+    <ItemSpec id="82" monster_life="181214" max_damage="158299" resource="42" power_cost="9600" offline_reward="630082" />
+    <ItemSpec id="83" monster_life="197687" max_damage="172076" resource="42" power_cost="9600" offline_reward="630083" />
+    <ItemSpec id="84" monster_life="244638" max_damage="212195" resource="42" power_cost="9600" offline_reward="630084" />
+    <ItemSpec id="85" monster_life="240932" max_damage="208252" resource="420" power_cost="10800" boss="1" reward="634015" offline_reward="630085" />
+    <ItemSpec id="86" monster_life="216838" max_damage="186778" resource="45" power_cost="10800" offline_reward="630086" />
+    <ItemSpec id="87" monster_life="265025" max_damage="227501" resource="45" power_cost="10800" offline_reward="630087" />
+    <ItemSpec id="88" monster_life="289118" max_damage="247338" resource="45" power_cost="10800" offline_reward="630088" />
+    <ItemSpec id="89" monster_life="318030" max_damage="271154" resource="45" power_cost="10800" offline_reward="630089" />
+    <ItemSpec id="90" monster_life="313211" max_damage="266151" resource="1350" power_cost="16200" boss="1" reward="634016" offline_reward="630090" />
+    <ItemSpec id="91" monster_life="281890" max_damage="238739" resource="45" power_cost="16200" offline_reward="630091" />
+    <ItemSpec id="92" monster_life="344532" max_damage="290830" resource="45" power_cost="16200" offline_reward="630092" />
+    <ItemSpec id="93" monster_life="375853" max_damage="316230" resource="45" power_cost="16200" offline_reward="630093" />
+    <ItemSpec id="94" monster_life="413439" max_damage="346724" resource="45" power_cost="16200" offline_reward="630094" />
+    <ItemSpec id="95" monster_life="407174" max_damage="340368" resource="450" power_cost="16200" boss="1" reward="634017" offline_reward="630095" />
+    <ItemSpec id="96" monster_life="366457" max_damage="305351" resource="48" power_cost="16200" offline_reward="630096" />
+    <ItemSpec id="97" monster_life="447892" max_damage="372020" resource="48" power_cost="16200" offline_reward="630097" />
+    <ItemSpec id="98" monster_life="488609" max_damage="404559" resource="48" power_cost="16200" offline_reward="630098" />
+    <ItemSpec id="99" monster_life="597189" max_damage="492911" resource="48" power_cost="16200" offline_reward="630099" />
+    <ItemSpec id="100" monster_life="588141" max_damage="483932" resource="1440" power_cost="18000" boss="1" reward="634018" offline_reward="630100" />
+    <ItemSpec id="101" monster_life="529327" max_damage="434192" resource="51" power_cost="18000" offline_reward="630101" />
+    <ItemSpec id="102" monster_life="646955" max_damage="529050" resource="51" power_cost="18000" offline_reward="630102" />
+    <ItemSpec id="103" monster_life="705769" max_damage="575385" resource="51" power_cost="18000" offline_reward="630103" />
+    <ItemSpec id="104" monster_life="776346" max_damage="631007" resource="51" power_cost="18000" offline_reward="630104" />
+    <ItemSpec id="105" monster_life="764583" max_damage="619575" resource="510" power_cost="18000" boss="1" reward="634019" offline_reward="630105" />
+    <ItemSpec id="106" monster_life="688125" max_damage="555951" resource="54" power_cost="18000" offline_reward="630106" />
+    <ItemSpec id="107" monster_life="841041" max_damage="677476" resource="54" power_cost="18000" offline_reward="630107" />
+    <ItemSpec id="108" monster_life="917500" max_damage="736884" resource="54" power_cost="18000" offline_reward="630108" />
+    <ItemSpec id="109" monster_life="1009250" max_damage="808195" resource="54" power_cost="18000" offline_reward="630109" />
+    <ItemSpec id="110" monster_life="993958" max_damage="793629" resource="1620" power_cost="18000" boss="1" reward="634020" offline_reward="630110" />
+    <ItemSpec id="111" monster_life="894562" max_damage="712196" resource="57" power_cost="18000" offline_reward="630111" />
+    <ItemSpec id="112" monster_life="1093354" max_damage="867956" resource="57" power_cost="18000" offline_reward="630112" />
+    <ItemSpec id="113" monster_life="1192750" max_damage="944151" resource="57" power_cost="18000" offline_reward="630113" />
+    <ItemSpec id="114" monster_life="1312025" max_damage="1035611" resource="57" power_cost="18000" offline_reward="630114" />
+    <ItemSpec id="115" monster_life="1292145" max_damage="1017034" resource="570" power_cost="18000" boss="1" reward="634021" offline_reward="630115" />
+    <ItemSpec id="116" monster_life="1162931" max_damage="912757" resource="60" power_cost="18000" offline_reward="630116" />
+    <ItemSpec id="117" monster_life="1421360" max_damage="1112474" resource="60" power_cost="18000" offline_reward="630117" />
+    <ItemSpec id="118" monster_life="1550575" max_damage="1210235" resource="60" power_cost="18000" offline_reward="630118" />
+    <ItemSpec id="119" monster_life="1705632" max_damage="1327578" resource="60" power_cost="18000" offline_reward="630119" />
+    <ItemSpec id="120" monster_life="1679789" max_damage="1303870" resource="1800" power_cost="18000" boss="1" reward="634022" offline_reward="630120" />
+    <ItemSpec id="121" monster_life="1511810" max_damage="1170276" resource="60" power_cost="18000" offline_reward="630121" />
+    <ItemSpec id="122" monster_life="1847768" max_damage="1426450" resource="60" power_cost="18000" offline_reward="630122" />
+    <ItemSpec id="123" monster_life="2015747" max_damage="1551921" resource="60" power_cost="18000" offline_reward="630123" />
+    <ItemSpec id="124" monster_life="2660786" max_damage="2043028" resource="60" power_cost="18000" offline_reward="630124" />
+    <ItemSpec id="125" monster_life="2620471" max_damage="2006693" resource="600" power_cost="21600" boss="1" reward="634023" offline_reward="630125" />
+    <ItemSpec id="126" monster_life="2358424" max_damage="1801220" resource="63" power_cost="21600" offline_reward="630126" />
+    <ItemSpec id="127" monster_life="2882518" max_damage="2195666" resource="63" power_cost="21600" offline_reward="630127" />
+    <ItemSpec id="128" monster_life="3144565" max_damage="2388968" resource="63" power_cost="21600" offline_reward="630128" />
+    <ItemSpec id="129" monster_life="3459022" max_damage="2620984" resource="63" power_cost="21600" offline_reward="630129" />
+    <ItemSpec id="130" monster_life="3406612" max_damage="2574547" resource="1890" power_cost="21600" boss="1" reward="634024" offline_reward="630130" />
+    <ItemSpec id="131" monster_life="3065951" max_damage="2311087" resource="66" power_cost="21600" offline_reward="630131" />
+    <ItemSpec id="132" monster_life="3747273" max_damage="2817377" resource="66" power_cost="21600" offline_reward="630132" />
+    <ItemSpec id="133" monster_life="4087935" max_damage="3065616" resource="66" power_cost="21600" offline_reward="630133" />
+    <ItemSpec id="134" monster_life="4496728" max_damage="3363567" resource="66" power_cost="21600" offline_reward="630134" />
+    <ItemSpec id="135" monster_life="4087935" max_damage="3050020" resource="660" power_cost="21600" boss="1" reward="634025" offline_reward="630135" />
+    <ItemSpec id="136" monster_life="3679141" max_damage="2738077" resource="69" power_cost="21600" offline_reward="630136" />
+    <ItemSpec id="137" monster_life="4496728" max_damage="3338117" resource="69" power_cost="21600" offline_reward="630137" />
+    <ItemSpec id="138" monster_life="4905522" max_damage="3632463" resource="69" power_cost="21600" offline_reward="630138" />
+    <ItemSpec id="139" monster_life="5396074" max_damage="3985750" resource="69" power_cost="21600" offline_reward="630139" />
+    <ItemSpec id="140" monster_life="4905522" max_damage="3614420" resource="2070" power_cost="28800" boss="1" reward="634026" offline_reward="630140" />
+    <ItemSpec id="141" monster_life="4414969" max_damage="3244945" resource="72" power_cost="28800" offline_reward="630141" />
+    <ItemSpec id="142" monster_life="5396074" max_damage="3956296" resource="72" power_cost="28800" offline_reward="630142" />
+    <ItemSpec id="143" monster_life="5886626" max_damage="4305400" resource="72" power_cost="28800" offline_reward="630143" />
+    <ItemSpec id="144" monster_life="6475288" max_damage="4724404" resource="72" power_cost="28800" offline_reward="630144" />
+    <ItemSpec id="145" monster_life="5886626" max_damage="4284500" resource="720" power_cost="28800" boss="1" reward="634027" offline_reward="630145" />
+    <ItemSpec id="146" monster_life="5297963" max_damage="3846742" resource="75" power_cost="28800" offline_reward="630146" />
+    <ItemSpec id="147" monster_life="6475288" max_damage="4690275" resource="75" power_cost="28800" offline_reward="630147" />
+    <ItemSpec id="148" monster_life="7063951" max_damage="5104422" resource="75" power_cost="28800" offline_reward="630148" />
+    <ItemSpec id="149" monster_life="8417875" max_damage="6068279" resource="75" power_cost="28800" offline_reward="630149" />
+    <ItemSpec id="150" monster_life="7652614" max_damage="5503533" resource="2250" power_cost="31200" boss="1" reward="634028" offline_reward="630150" />
+    <ItemSpec id="151" monster_life="6887352" max_damage="4941481" resource="75" power_cost="31200" offline_reward="630151" />
+    <ItemSpec id="152" monster_life="8417875" max_damage="6025385" resource="75" power_cost="31200" offline_reward="630152" />
+    <ItemSpec id="153" monster_life="9183136" max_damage="6557754" resource="75" power_cost="31200" offline_reward="630153" />
+    <ItemSpec id="154" monster_life="10101450" max_damage="7196707" resource="75" power_cost="31200" offline_reward="630154" />
+    <ItemSpec id="155" monster_life="9183136" max_damage="6527267" resource="750" power_cost="31200" boss="1" reward="634029" offline_reward="630155" />
+    <ItemSpec id="156" monster_life="8264823" max_damage="5860955" resource="78" power_cost="31200" offline_reward="630156" />
+    <ItemSpec id="157" monster_life="10101450" max_damage="7146889" resource="78" power_cost="31200" offline_reward="630157" />
+    <ItemSpec id="158" monster_life="11019764" max_damage="7778722" resource="78" power_cost="31200" offline_reward="630158" />
+    <ItemSpec id="159" monster_life="12121740" max_damage="8537044" resource="78" power_cost="31200" offline_reward="630159" />
+    <ItemSpec id="160" monster_life="11019764" max_damage="7743289" resource="2340" power_cost="31200" boss="1" reward="634030" offline_reward="630160" />
+    <ItemSpec id="161" monster_life="9917787" max_damage="6953164" resource="81" power_cost="31200" offline_reward="630161" />
+    <ItemSpec id="162" monster_life="12121740" max_damage="8479125" resource="81" power_cost="31200" offline_reward="630162" />
+    <ItemSpec id="163" monster_life="13223716" max_damage="9229152" resource="81" power_cost="31200" offline_reward="630163" />
+    <ItemSpec id="164" monster_life="14546088" max_damage="10129326" resource="81" power_cost="31200" offline_reward="630164" />
+    <ItemSpec id="165" monster_life="13223716" max_damage="9187929" resource="810" power_cost="31200" boss="1" reward="634031" offline_reward="630165" />
+    <ItemSpec id="166" monster_life="11901345" max_damage="8250754" resource="84" power_cost="31200" offline_reward="630166" />
+    <ItemSpec id="167" monster_life="14546088" max_damage="10061923" resource="84" power_cost="31200" offline_reward="630167" />
+    <ItemSpec id="168" monster_life="15868460" max_damage="10952426" resource="84" power_cost="31200" offline_reward="630168" />
+    <ItemSpec id="169" monster_life="17455306" max_damage="12021188" resource="84" power_cost="31200" offline_reward="630169" />
+    <ItemSpec id="170" monster_life="15868460" max_damage="10904422" resource="2520" power_cost="31200" boss="1" reward="634032" offline_reward="630170" />
+    <ItemSpec id="171" monster_life="14281614" max_damage="9792568" resource="87" power_cost="31200" offline_reward="630171" />
+    <ItemSpec id="172" monster_life="17455306" max_damage="11942677" resource="87" power_cost="31200" offline_reward="630172" />
+    <ItemSpec id="173" monster_life="19042152" max_damage="13000157" resource="87" power_cost="31200" offline_reward="630173" />
+    <ItemSpec id="174" monster_life="24168885" max_damage="16464590" resource="87" power_cost="31200" offline_reward="630174" />
+    <ItemSpec id="175" monster_life="21971713" max_damage="14935622" resource="870" power_cost="36000" boss="1" reward="634033" offline_reward="630175" />
+    <ItemSpec id="176" monster_life="19774542" max_damage="13413258" resource="90" power_cost="36000" offline_reward="630176" />
+    <ItemSpec id="177" monster_life="24168885" max_damage="16358979" resource="90" power_cost="36000" offline_reward="630177" />
+    <ItemSpec id="178" monster_life="26366056" max_damage="17808188" resource="90" power_cost="36000" offline_reward="630178" />
+    <ItemSpec id="179" monster_life="29002662" max_damage="19547473" resource="90" power_cost="36000" offline_reward="630179" />
+    <ItemSpec id="180" monster_life="26366056" max_damage="17732882" resource="2700" power_cost="36000" boss="1" reward="634034" offline_reward="630180" />
+    <ItemSpec id="181" monster_life="23729450" max_damage="15925988" resource="90" power_cost="36000" offline_reward="630181" />
+    <ItemSpec id="182" monster_life="29002662" max_damage="19424251" resource="90" power_cost="36000" offline_reward="630182" />
+    <ItemSpec id="183" monster_life="31639267" max_damage="21145775" resource="90" power_cost="36000" offline_reward="630183" />
+    <ItemSpec id="184" monster_life="34803194" max_damage="23211870" resource="90" power_cost="36000" offline_reward="630184" />
+    <ItemSpec id="185" monster_life="29002662" max_damage="19303043" resource="900" power_cost="36000" boss="1" reward="634035" offline_reward="630185" />
+    <ItemSpec id="186" monster_life="26102395" max_damage="17336768" resource="93" power_cost="36000" offline_reward="630186" />
+    <ItemSpec id="187" monster_life="31902928" max_damage="21145657" resource="93" power_cost="36000" offline_reward="630187" />
+    <ItemSpec id="188" monster_life="34803194" max_damage="23020541" resource="93" power_cost="36000" offline_reward="630188" />
+    <ItemSpec id="189" monster_life="38283513" max_damage="25270679" resource="93" power_cost="36000" offline_reward="630189" />
+    <ItemSpec id="190" monster_life="31902928" max_damage="21015864" resource="2790" power_cost="45000" boss="1" reward="634036" offline_reward="630190" />
+    <ItemSpec id="191" monster_life="28712635" max_damage="18875750" resource="96" power_cost="45000" offline_reward="630191" />
+    <ItemSpec id="192" monster_life="35093221" max_damage="23023517" resource="96" power_cost="45000" offline_reward="630192" />
+    <ItemSpec id="193" monster_life="38283513" max_damage="25065727" resource="96" power_cost="45000" offline_reward="630193" />
+    <ItemSpec id="194" monster_life="42111865" max_damage="27516668" resource="96" power_cost="45000" offline_reward="630194" />
+    <ItemSpec id="195" monster_life="35093221" max_damage="22884435" resource="960" power_cost="45000" boss="1" reward="634037" offline_reward="630195" />
+    <ItemSpec id="196" monster_life="31583899" max_damage="20554695" resource="99" power_cost="45000" offline_reward="630196" />
+    <ItemSpec id="197" monster_life="38602543" max_damage="25072187" resource="99" power_cost="45000" offline_reward="630197" />
+    <ItemSpec id="198" monster_life="42111865" max_damage="27296972" resource="99" power_cost="45000" offline_reward="630198" />
+    <ItemSpec id="199" monster_life="50955356" max_damage="32963717" resource="99" power_cost="45000" offline_reward="630199" />
+    <ItemSpec id="200" monster_life="42462797" max_damage="27415356" resource="2970" power_cost="49500" boss="1" reward="634038" offline_reward="630200" />
+    <ItemSpec id="201" monster_life="38216517" max_damage="24625097" resource="102" power_cost="49500" offline_reward="630201" />
+    <ItemSpec id="202" monster_life="46709077" max_damage="30038086" resource="102" power_cost="49500" offline_reward="630202" />
+    <ItemSpec id="203" monster_life="50955356" max_damage="32704498" resource="102" power_cost="49500" offline_reward="630203" />
+    <ItemSpec id="204" monster_life="56050892" max_damage="35904541" resource="102" power_cost="49500" offline_reward="630204" />
+    <ItemSpec id="205" monster_life="46709077" max_damage="29862065" resource="1020" power_cost="49500" boss="1" reward="634039" offline_reward="630205" />
+    <ItemSpec id="206" monster_life="42038169" max_damage="26823567" resource="105" power_cost="49500" offline_reward="630206" />
+    <ItemSpec id="207" monster_life="51379984" max_damage="32720757" resource="105" power_cost="49500" offline_reward="630207" />
+    <ItemSpec id="208" monster_life="56050892" max_damage="35626321" resource="105" power_cost="49500" offline_reward="630208" />
+    <ItemSpec id="209" monster_life="61655981" max_damage="39113362" resource="105" power_cost="49500" offline_reward="630209" />
+    <ItemSpec id="210" monster_life="51379984" max_damage="32531777" resource="3150" power_cost="49500" boss="1" reward="634040" offline_reward="630210" />
+    <ItemSpec id="211" monster_life="46241986" max_damage="29222445" resource="105" power_cost="49500" offline_reward="630211" />
+    <ItemSpec id="212" monster_life="56517983" max_damage="35648013" resource="105" power_cost="49500" offline_reward="630212" />
+    <ItemSpec id="213" monster_life="61655981" max_damage="38814573" resource="105" power_cost="49500" offline_reward="630213" />
+    <ItemSpec id="214" monster_life="67821579" max_damage="42614828" resource="105" power_cost="49500" offline_reward="630214" />
+    <ItemSpec id="215" monster_life="56517983" max_damage="35445004" resource="1050" power_cost="49500" boss="1" reward="634041" offline_reward="630215" />
+    <ItemSpec id="216" monster_life="50866184" max_damage="31840166" resource="108" power_cost="49500" offline_reward="630216" />
+    <ItemSpec id="217" monster_life="62169781" max_damage="38842355" resource="108" power_cost="49500" offline_reward="630217" />
+    <ItemSpec id="218" monster_life="67821579" max_damage="42293769" resource="108" power_cost="49500" offline_reward="630218" />
+    <ItemSpec id="219" monster_life="74603737" max_damage="46435867" resource="108" power_cost="49500" offline_reward="630219" />
+    <ItemSpec id="220" monster_life="62169781" max_damage="38624155" resource="3240" power_cost="49500" boss="1" reward="634042" offline_reward="630220" />
+    <ItemSpec id="221" monster_life="55952803" max_damage="34696874" resource="111" power_cost="49500" offline_reward="630221" />
+    <ItemSpec id="222" monster_life="68386759" max_damage="42328369" resource="111" power_cost="49500" offline_reward="630222" />
+    <ItemSpec id="223" monster_life="74603737" max_damage="46090693" resource="111" power_cost="49500" offline_reward="630223" />
+    <ItemSpec id="224" monster_life="94498067" max_damage="58273464" resource="111" power_cost="49500" offline_reward="630224" />
+    <ItemSpec id="225" monster_life="78748389" max_damage="48471555" resource="1110" power_cost="57000" boss="1" reward="634043" offline_reward="630225" />
+    <ItemSpec id="226" monster_life="70873550" max_damage="43544058" resource="114" power_cost="57000" offline_reward="630226" />
+    <ItemSpec id="227" monster_life="86623228" max_damage="53122755" resource="114" power_cost="57000" offline_reward="630227" />
+    <ItemSpec id="228" monster_life="94498067" max_damage="57845917" resource="114" power_cost="57000" offline_reward="630228" />
+    <ItemSpec id="229" monster_life="103947874" max_damage="63514222" resource="114" power_cost="57000" offline_reward="630229" />
+    <ItemSpec id="230" monster_life="86623228" max_damage="52832035" resource="3420" power_cost="57000" boss="1" reward="634044" offline_reward="630230" />
+    <ItemSpec id="231" monster_life="77960905" max_damage="47462374" resource="117" power_cost="57000" offline_reward="630231" />
+    <ItemSpec id="232" monster_life="95285551" max_damage="57904354" resource="117" power_cost="57000" offline_reward="630232" />
+    <ItemSpec id="233" monster_life="103947874" max_damage="63054100" resource="117" power_cost="57000" offline_reward="630233" />
+    <ItemSpec id="234" monster_life="114342661" max_damage="69234334" resource="117" power_cost="57000" offline_reward="630234" />
+    <ItemSpec id="235" monster_life="95285551" max_damage="57591410" resource="1170" power_cost="57000" boss="1" reward="634045" offline_reward="630235" />
+    <ItemSpec id="236" monster_life="85756996" max_damage="51739185" resource="120" power_cost="57000" offline_reward="630236" />
+    <ItemSpec id="237" monster_life="104814106" max_damage="63123492" resource="120" power_cost="57000" offline_reward="630237" />
+    <ItemSpec id="238" monster_life="114342661" max_damage="68738924" resource="120" power_cost="57000" offline_reward="630238" />
+    <ItemSpec id="239" monster_life="125776927" max_damage="75478009" resource="120" power_cost="57000" offline_reward="630239" />
+    <ItemSpec id="240" monster_life="104814106" max_damage="62786471" resource="3600" power_cost="68400" boss="1" reward="634046" offline_reward="630240" />
+    <ItemSpec id="241" monster_life="94332695" max_damage="56407559" resource="120" power_cost="68400" offline_reward="630241" />
+    <ItemSpec id="242" monster_life="115295517" max_damage="68820535" resource="120" power_cost="68400" offline_reward="630242" />
+    <ItemSpec id="243" monster_life="125776927" max_damage="74944364" resource="120" power_cost="68400" offline_reward="630243" />
+    <ItemSpec id="244" monster_life="138354620" max_damage="82293558" resource="120" power_cost="68400" offline_reward="630244" />
+    <ItemSpec id="245" monster_life="115295517" max_damage="68457425" resource="1200" power_cost="68400" boss="1" reward="634047" offline_reward="630245" />
+    <ItemSpec id="246" monster_life="103765965" max_damage="61503638" resource="123" power_cost="68400" offline_reward="630246" />
+    <ItemSpec id="247" monster_life="126825068" max_damage="75039594" resource="123" power_cost="68400" offline_reward="630247" />
+    <ItemSpec id="248" monster_life="138354620" max_damage="81718480" resource="123" power_cost="68400" offline_reward="630248" />
+    <ItemSpec id="249" monster_life="164205089" max_damage="96818022" resource="123" power_cost="68400" offline_reward="630249" />
+    <ItemSpec id="250" monster_life="136837574" max_damage="80541489" resource="3690" power_cost="73800" boss="1" reward="634048" offline_reward="630250" />
+    <ItemSpec id="251" monster_life="123153816" max_damage="72361668" resource="126" power_cost="73800" offline_reward="630251" />
+    <ItemSpec id="252" monster_life="150521331" max_damage="88289050" resource="126" power_cost="73800" offline_reward="630252" />
+    <ItemSpec id="253" monster_life="164205089" max_damage="96149092" resource="126" power_cost="73800" offline_reward="630253" />
+    <ItemSpec id="254" monster_life="180625597" max_damage="105581862" resource="126" power_cost="73800" offline_reward="630254" />
+    <ItemSpec id="255" monster_life="150521331" max_damage="87833700" resource="1260" power_cost="73800" boss="1" reward="634049" offline_reward="630255" />
+    <ItemSpec id="256" monster_life="135469198" max_damage="78914796" resource="129" power_cost="73800" offline_reward="630256" />
+    <ItemSpec id="257" monster_life="165573464" max_damage="96286410" resource="129" power_cost="73800" offline_reward="630257" />
+    <ItemSpec id="258" monster_life="180625597" max_damage="104860411" resource="129" power_cost="73800" offline_reward="630258" />
+    <ItemSpec id="259" monster_life="198688157" max_damage="115149976" resource="129" power_cost="73800" offline_reward="630259" />
+    <ItemSpec id="260" monster_life="165573464" max_damage="95795214" resource="3870" power_cost="73800" boss="1" reward="634050" offline_reward="630260" />
+    <ItemSpec id="261" monster_life="149016118" max_damage="86069467" resource="132" power_cost="73800" offline_reward="630261" />
+    <ItemSpec id="262" monster_life="182130811" max_damage="105017978" resource="132" power_cost="73800" offline_reward="630262" />
+    <ItemSpec id="263" monster_life="198688157" max_damage="114371584" resource="132" power_cost="73800" offline_reward="630263" />
+    <ItemSpec id="264" monster_life="218556973" max_damage="125596719" resource="132" power_cost="73800" offline_reward="630264" />
+    <ItemSpec id="265" monster_life="182130811" max_damage="104487915" resource="1320" power_cost="73800" boss="1" reward="634051" offline_reward="630265" />
+    <ItemSpec id="266" monster_life="163917730" max_damage="93881304" resource="135" power_cost="73800" offline_reward="630266" />
+    <ItemSpec id="267" monster_life="200343892" max_damage="114551649" resource="135" power_cost="73800" offline_reward="630267" />
+    <ItemSpec id="268" monster_life="218556973" max_damage="124756583" resource="135" power_cost="73800" offline_reward="630268" />
+    <ItemSpec id="269" monster_life="240412670" max_damage="137003359" resource="135" power_cost="73800" offline_reward="630269" />
+    <ItemSpec id="270" monster_life="200343892" max_damage="113979438" resource="4050" power_cost="73800" boss="1" reward="634052" offline_reward="630270" />
+    <ItemSpec id="271" monster_life="180309503" max_damage="102411102" resource="135" power_cost="73800" offline_reward="630271" />
+    <ItemSpec id="272" monster_life="220378281" max_damage="124961634" resource="135" power_cost="73800" offline_reward="630272" />
+    <ItemSpec id="273" monster_life="240412670" max_damage="136096260" resource="135" power_cost="73800" offline_reward="630273" />
+    <ItemSpec id="274" monster_life="296704417" max_damage="167685391" resource="135" power_cost="73800" offline_reward="630274" />
+    <ItemSpec id="275" monster_life="247253681" max_damage="139507576" resource="1350" power_cost="82800" boss="1" reward="634053" offline_reward="630275" />
+    <ItemSpec id="276" monster_life="222528313" max_damage="125350346" resource="138" power_cost="82800" offline_reward="630276" />
+    <ItemSpec id="277" monster_life="271979049" max_damage="152954535" resource="138" power_cost="82800" offline_reward="630277" />
+    <ItemSpec id="278" monster_life="296704417" max_damage="166586180" resource="138" power_cost="82800" offline_reward="630278" />
+    <ItemSpec id="279" monster_life="326374859" max_damage="182945234" resource="138" power_cost="82800" offline_reward="630279" />
+    <ItemSpec id="280" monster_life="271979049" max_damage="152205617" resource="4140" power_cost="82800" boss="1" reward="634054" offline_reward="630280" />
+    <ItemSpec id="281" monster_life="244781144" max_damage="136761984" resource="141" power_cost="82800" offline_reward="630281" />
+    <ItemSpec id="282" monster_life="299176954" max_damage="166881861" resource="141" power_cost="82800" offline_reward="630282" />
+    <ItemSpec id="283" monster_life="326374859" max_damage="181757617" resource="141" power_cost="82800" offline_reward="630283" />
+    <ItemSpec id="284" monster_life="359012345" max_damage="199609669" resource="141" power_cost="82800" offline_reward="630284" />
+    <ItemSpec id="285" monster_life="299176954" max_damage="166072581" resource="1410" power_cost="82800" boss="1" reward="634055" offline_reward="630285" />
+    <ItemSpec id="286" monster_life="269259259" max_damage="149224242" resource="144" power_cost="82800" offline_reward="630286" />
+    <ItemSpec id="287" monster_life="329094650" max_damage="182091558" resource="144" power_cost="82800" offline_reward="630287" />
+    <ItemSpec id="288" monster_life="359012345" max_damage="198326130" resource="144" power_cost="82800" offline_reward="630288" />
+    <ItemSpec id="289" monster_life="394913579" max_damage="217808834" resource="144" power_cost="82800" offline_reward="630289" />
+    <ItemSpec id="290" monster_life="329094650" max_damage="181216778" resource="4320" power_cost="96600" boss="1" reward="634056" offline_reward="630290" />
+    <ItemSpec id="291" monster_life="296185185" max_damage="162834475" resource="147" power_cost="96600" offline_reward="630291" />
+    <ItemSpec id="292" monster_life="362004114" max_damage="198702465" resource="147" power_cost="96600" offline_reward="630292" />
+    <ItemSpec id="293" monster_life="394913579" max_damage="216421201" resource="147" power_cost="96600" offline_reward="630293" />
+    <ItemSpec id="294" monster_life="434404937" max_damage="237684978" resource="147" power_cost="96600" offline_reward="630294" />
+    <ItemSpec id="295" monster_life="362004114" max_damage="197756600" resource="1470" power_cost="96600" boss="1" reward="634057" offline_reward="630295" />
+    <ItemSpec id="296" monster_life="325803703" max_damage="177699104" resource="150" power_cost="96600" offline_reward="630296" />
+    <ItemSpec id="297" monster_life="398204526" max_damage="216844488" resource="150" power_cost="96600" offline_reward="630297" />
+    <ItemSpec id="298" monster_life="434404937" max_damage="236184367" resource="150" power_cost="96600" offline_reward="630298" />
+    <ItemSpec id="299" monster_life="509009264" max_damage="276310572" resource="150" power_cost="96600" offline_reward="630299" />
+    <ItemSpec id="300" monster_life="424174386" max_damage="229896778" resource="4500" power_cost="102900" boss="1" reward="634058" offline_reward="630300" />
+    <ItemSpec id="301" monster_life="381756948" max_damage="206582356" resource="150" power_cost="102900" offline_reward="630301" />
+    <ItemSpec id="302" monster_life="466591825" max_damage="252093953" resource="150" power_cost="102900" offline_reward="630302" />
+    <ItemSpec id="303" monster_life="509009264" max_damage="274581456" resource="150" power_cost="102900" offline_reward="630303" />
+    <ItemSpec id="304" monster_life="559910190" max_damage="301568017" resource="150" power_cost="102900" offline_reward="630304" />
+    <ItemSpec id="305" monster_life="466591825" max_damage="250914985" resource="1500" power_cost="102900" boss="1" reward="634059" offline_reward="630305" />
+    <ItemSpec id="306" monster_life="419932642" max_damage="225472114" resource="153" power_cost="102900" offline_reward="630306" />
+    <ItemSpec id="307" monster_life="513251007" max_damage="275148975" resource="153" power_cost="102900" offline_reward="630307" />
+    <ItemSpec id="308" monster_life="559910190" max_damage="299697069" resource="153" power_cost="102900" offline_reward="630308" />
+    <ItemSpec id="309" monster_life="615901209" max_damage="329156442" resource="153" power_cost="102900" offline_reward="630309" />
+    <ItemSpec id="310" monster_life="513251007" max_damage="273873130" resource="4590" power_cost="102900" boss="1" reward="634060" offline_reward="630310" />
+    <ItemSpec id="311" monster_life="461925907" max_damage="246105532" resource="156" power_cost="102900" offline_reward="630311" />
+    <ItemSpec id="312" monster_life="564576108" max_damage="300332349" resource="156" power_cost="102900" offline_reward="630312" />
+    <ItemSpec id="313" monster_life="615901209" max_damage="327131488" resource="156" power_cost="102900" offline_reward="630313" />
+    <ItemSpec id="314" monster_life="677491330" max_damage="359292222" resource="156" power_cost="102900" offline_reward="630314" />
+    <ItemSpec id="315" monster_life="564576108" max_damage="298951303" resource="1560" power_cost="102900" boss="1" reward="634061" offline_reward="630315" />
+    <ItemSpec id="316" monster_life="508118497" max_damage="268644488" resource="159" power_cost="102900" offline_reward="630316" />
+    <ItemSpec id="317" monster_life="621033719" max_damage="327841683" resource="159" power_cost="102900" offline_reward="630317" />
+    <ItemSpec id="318" monster_life="677491330" max_damage="357100017" resource="159" power_cost="102900" offline_reward="630318" />
+    <ItemSpec id="319" monster_life="745240463" max_damage="392211902" resource="159" power_cost="102900" offline_reward="630319" />
+    <ItemSpec id="320" monster_life="621033719" max_damage="326346381" resource="4770" power_cost="102900" boss="1" reward="634062" offline_reward="630320" />
+    <ItemSpec id="321" monster_life="558930347" max_damage="293265955" resource="162" power_cost="102900" offline_reward="630321" />
+    <ItemSpec id="322" monster_life="683137091" max_damage="357893010" resource="162" power_cost="102900" offline_reward="630322" />
+    <ItemSpec id="323" monster_life="745240463" max_damage="389838040" resource="162" power_cost="102900" offline_reward="630323" />
+    <ItemSpec id="324" monster_life="819764509" max_damage="428174084" resource="162" power_cost="102900" offline_reward="630324" />
+    <ItemSpec id="325" monster_life="683137091" max_damage="356273601" resource="1620" power_cost="102900" boss="1" reward="634063" offline_reward="630325" />
+    <ItemSpec id="326" monster_life="614823382" max_damage="320163406" resource="165" power_cost="102900" offline_reward="630326" />
+    <ItemSpec id="327" monster_life="751450800" max_damage="390722506" resource="165" power_cost="102900" offline_reward="630327" />
+    <ItemSpec id="328" monster_life="819764509" max_damage="425602886" resource="165" power_cost="102900" offline_reward="630328" />
+    <ItemSpec id="329" monster_life="901740960" max_damage="467461484" resource="165" power_cost="102900" offline_reward="630329" />
+    <ItemSpec id="330" monster_life="751450800" max_damage="388968270" resource="4950" power_cost="102900" boss="1" reward="634064" offline_reward="630330" />
+    <ItemSpec id="331" monster_life="676305720" max_damage="349548360" resource="165" power_cost="102900" offline_reward="630331" />
+    <ItemSpec id="332" monster_life="826595880" max_damage="426588378" resource="165" power_cost="102900" offline_reward="630332" />
+    <ItemSpec id="333" monster_life="901740960" max_damage="464675891" resource="165" power_cost="102900" offline_reward="630333" />
+    <ItemSpec id="334" monster_life="991915056" max_damage="510383193" resource="165" power_cost="102900" offline_reward="630334" />
+    <ItemSpec id="335" monster_life="826595880" max_damage="424687649" resource="1650" power_cost="102900" boss="1" reward="634065" offline_reward="630335" />
+    <ItemSpec id="336" monster_life="743936292" max_damage="381652068" resource="168" power_cost="102900" offline_reward="630336" />
+    <ItemSpec id="337" monster_life="909255468" max_damage="465772923" resource="168" power_cost="102900" offline_reward="630337" />
+    <ItemSpec id="338" monster_life="991915056" max_damage="507364639" resource="168" power_cost="102900" offline_reward="630338" />
+    <ItemSpec id="339" monster_life="1091106562" max_damage="557277141" resource="168" power_cost="102900" offline_reward="630339" />
+    <ItemSpec id="340" monster_life="909255468" max_damage="463713005" resource="5040" power_cost="117600" boss="1" reward="634066" offline_reward="630340" />
+    <ItemSpec id="341" monster_life="818329921" max_damage="416727362" resource="171" power_cost="117600" offline_reward="630341" />
+    <ItemSpec id="342" monster_life="1000181015" max_damage="508584779" resource="171" power_cost="117600" offline_reward="630342" />
+    <ItemSpec id="343" monster_life="1091106562" max_damage="554005419" resource="171" power_cost="117600" offline_reward="630343" />
+    <ItemSpec id="344" monster_life="1200217218" max_damage="608512796" resource="171" power_cost="117600" offline_reward="630344" />
+    <ItemSpec id="345" monster_life="1000181015" max_damage="506351852" resource="1710" power_cost="117600" boss="1" reward="634067" offline_reward="630345" />
+    <ItemSpec id="346" monster_life="900162913" max_damage="455050670" resource="174" power_cost="117600" offline_reward="630346" />
+    <ItemSpec id="347" monster_life="1100199116" max_damage="555361395" resource="174" power_cost="117600" offline_reward="630347" />
+    <ItemSpec id="348" monster_life="1200217218" max_damage="604965910" resource="174" power_cost="117600" offline_reward="630348" />
+    <ItemSpec id="349" monster_life="1320238939" max_damage="664494114" resource="174" power_cost="117600" offline_reward="630349" />
+    <ItemSpec id="350" monster_life="1100199116" max_damage="552940416" resource="5220" power_cost="117600" boss="1" reward="634068" offline_reward="630350" />
+
+
+</Group >
+
+</tns:database>
+

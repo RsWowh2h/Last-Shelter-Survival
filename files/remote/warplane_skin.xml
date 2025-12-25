@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="warplane_skin">
+	<!-- id就是warplane_upgrade 中的model -->
+		<ItemSpec id="1" model3D="zj_march_01" march_walk="zj_march_01@walk" march_fight="zj_march_01@fight" march_scale="0.6" spine_weiqi="yijizhanjiweiqi"/>
+		<ItemSpec id="2" model3D="zj_march_02" march_walk="zj_march_02@walk" march_fight="zj_march_02@fight" march_scale="0.6" spine_weiqi="erjizhanjiweiqi"/>
+		<ItemSpec id="3" model3D="zj_march_03" march_walk="zj_march_03@walk" march_fight="zj_march_03@fight" march_scale="0.6" spine_weiqi="sanjizhanjiweiqi" spine_qiliu="sanjijishenqiliu"/>
+		<ItemSpec id="4" model3D="zj_march_04" march_walk="zj_march_04@walk" march_fight="zj_march_04@fight" march_scale="0.6" spine_weiqi="sijizhanjiweiqi" spine_qiliu="sijijishenqiliu"/>
+		<ItemSpec id="5" model3D="zj_march_05" march_walk="zj_march_05@walk" march_fight="zj_march_05@fight" march_scale="0.6" spine_weiqi="wujizhanjiweiqi" spine_qiliu="wujijishenqiliu"/>
+		<ItemSpec id="6" model3D="zj_march_06" march_walk="zj_march_06@walk" march_fight="zj_march_06@fight" march_scale="0.6" spine_weiqi="liujizhanjiweiqi" spine_qiliu="liujijishenqiliu"/>
+	</Group>
+</tns:database>

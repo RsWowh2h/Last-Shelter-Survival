@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <Group id="office">
+    <ItemSpec id="216000" name="110037" tips="110054;110055;110057" param="+50;+50;+100" tips2="79022051;79022056;103027" param2="+50%;+50%;+100%" icon="icon_216000" medal="icon_216000" description="190941" para1="4010;4030;60" para2="50;50;100" />
+    <ItemSpec id="216001" name="113204" tips="110058;83351506;200344" param="+30;-5;10" tips2="103035;190859;77110108" param2="+30%;-5%;10%" icon="icon_216001" medal="icon_216001" description="190942" para1="50;51;52;53;856;857;858;65;164;167" para2="30;30;30;30;30;30;30;20;10;5" />
+    <ItemSpec id="216002" name="113205" tips="110059;110060;110061" param="+5;+30;+5" tips2="102222;77111001;152118" param2="+5%;+30%;+5%" icon="icon_216002" medal="icon_216002" description="190943" para1="68;660;69" para2="5;30;5" />
+    <ItemSpec id="216003" name="110040" tips="110058;110060;110061" param="+20;+5;+10" tips2="103035;77111001;152118" param2="+20%;+5%;+10%" icon="icon_216003" medal="icon_216003" description="190944" para1="50;51;52;53;856;857;858;66;69" para2="20;20;20;20;20;20;20;5;10" />
+    <ItemSpec id="216004" name="110129" tips="110058;110062;171928" param="+50;-10;+20" tips2="103035;103606;77110014" param2="+50%;-10%;+20%" icon="icon_216004" medal="icon_216004" description="190945" para1="50;51;52;53;856;857;858;64;65" para2="50;50;50;50;50;50;50;10;20" />
+    <ItemSpec id="216005" name="110042" tips="110054;110057;171792" param="+20;+10;+10" tips2="79022051;103027;77112003" param2="+20%;+10%;+10%" icon="icon_216005" medal="icon_216005" description="190946" para1="4010;60;4050" para2="20;10;10" />
+    <ItemSpec id="216006" name="110043" tips="110054;110055" param="+20;+20" tips2="79022051;79022056" param2="+20%;+20%" icon="icon_216006" medal="icon_216006" description="190947" para1="4010;4030" para2="20;20" />
+    <ItemSpec id="216007" name="110044" tips="110061;173138" param="+10;+60" tips2="152118;190860" param2="+10%;+60" icon="icon_216007" medal="icon_216007" description="190948" para1="69;221" para2="10;3600" />
+    <ItemSpec id="216008" name="110045" tips="110059" param="+10" tips2="102222" param2="+10%" icon="icon_216008" medal="icon_216008" description="190949" para1="68" para2="10" />
+    <ItemSpec id="216009" name="110046" tips="110054;110058" param="-10;-5" tips2="79022051;103035" param2="-10%;-5%" icon="icon_216009" medal="icon_216009" description="190950" para1="4010;50;51;52;53;856;857;858" para2="-10;-5;-5;-5;-5;-5;-5;-5" />
+    <ItemSpec id="216010" name="110047" tips="110058;110062" param="-5;+10" tips2="103035;103606" param2="-5%;+10%" icon="icon_216010" medal="icon_216010" description="190951" para1="50;51;52;53;856;857;858;64" para2="-5;-5;-5;-5;-5;-5;-5;-10" />
+    <ItemSpec id="216011" name="113206" tips="110057;110060" param="-5;-10" tips2="103027;77111001" param2="-5%;-10%" icon="icon_216011" medal="icon_216011" description="190952" para1="60;66" para2="-5;-10" />
+    <ItemSpec id="216012" name="110049" tips="110055;110058" param="-5;-10" tips2="79022056;103035" param2="-5%;-10%" icon="icon_216012" medal="icon_216012" description="190953" para1="4030;50;51;52;53;856;857;858" para2="-5;-10;-10;-10;-10;-10;-10;-10" />
+    <ItemSpec id="216013" name="110050" tips="110054;110055" param="-8;-8" tips2="79022051;79022056" param2="-8%;-8%" icon="icon_216013" medal="icon_216013" description="190954" para1="4010;4030" para2="-8;-8" />
+    <ItemSpec id="216014" name="110051" tips="110063" param="-20" tips2="190861" param2="-20%" icon="icon_216014" medal="icon_216014" description="190955" para1="38" para2="-20" />
+    <!-- zhendingji -->
+        <ItemSpec id="216015" name="110052" tips="110057;110071006;110071007" param="-15;1;1" tips2="103027;110071006;110071007" param2="-15%;1h;1h" icon="icon_216015" medal="icon_216015" description="190956" para1="60;19016;19017" para2="-15;1;1" />
+        <!-- zhendingji -->
+    <ItemSpec id="216016" name="110053" tips="110061" param="-15" tips2="152118" param2="-15%" icon="icon_216016" medal="icon_216016" description="190957" para1="69" para2="-15" />
+    <ItemSpec id="216017" name="83351501" icon="icon_216017" medal="icon_216017" description="83351515" />
+
+    <ItemSpec id="216100" name="193889" tips="110054;110055;110057" param="+10;+10;+5" tips2="79022051;79022056;79022058" param2="+10%;+10%;+5%" icon="icon_216100_show" medal="icon_216100" description="193935" para1="4010;4030;60" para2="10;10;5" />
+    <ItemSpec id="216101" name="193890" tips="110054;110055;110057" param="+7;+7;+5" tips2="79022051;79022056;79022058" param2="+7%;+7%;+5%" icon="icon_216101_show" medal="icon_216101" description="193936" para1="4010;4030;60" para2="7;7;5" />
+    <ItemSpec id="216102" name="193891" tips="110054;110055;110057" param="+5;+5;+5" tips2="79022051;79022056;79022058" param2="+5%;+5%;+5%" icon="icon_216102_show" medal="icon_216102" description="193937" para1="4010;4030;60" para2="5;5;5" />
+    <ItemSpec id="216103" name="193886" tips="110054;110055;110057" param="+15;+15;+10" tips2="79022051;79022056;79022058" param2="+15%;+15%;+10%" icon="icon_216103_show" medal="icon_216103" description="193935" para1="4010;4030;60" para2="15;15;10" />
+    <ItemSpec id="216104" name="193887" tips="110054;110055;110057" param="+10;+10;+10" tips2="79022051;79022056;79022058" param2="+10%;+10%;+10%" icon="icon_216104_show" medal="icon_216104" description="193936" para1="4010;4030;60" para2="10;10;10" />
+    <ItemSpec id="216105" name="193888" tips="110054;110055;110057" param="+7;+7;+10" tips2="79022051;79022056;79022058" param2="+7%;+7%;+10%" icon="icon_216105_show" medal="icon_216105" description="193937" para1="4010;4030;60" para2="7;7;10" />
+    <ItemSpec id="216106" name="193883" tips="110054;110055;110057" param="+20;+20;+15" tips2="79022051;79022056;79022058" param2="+20%;+20%;+15%" icon="icon_216106_show" medal="icon_216106" description="193935" para1="4010;4030;60" para2="20;20;15" />
+    <ItemSpec id="216107" name="193884" tips="110054;110055;110057" param="+15;+15;+15" tips2="79022051;79022056;79022058" param2="+15%;+15%;+15%" icon="icon_216107_show" medal="icon_216107" description="193936" para1="4010;4030;60" para2="15;15;15" />
+    <ItemSpec id="216108" name="193885" tips="110054;110055;110057" param="+10;+10;+15" tips2="79022051;79022056;79022058" param2="+10%;+10%;+15%" icon="icon_216108_show" medal="icon_216108" description="193937" para1="4010;4030;60" para2="10;10;15" />
+
+
+
+    </Group>
+    <Group id="great_office">
+    <ItemSpec id="222000" name="171752" tips="171794;110056;171792" param="+100;+30;+20" icon="icon_222000" para1="1010;1030;8;1050" para2="100;100;30;20" />
+    <ItemSpec id="222001" name="171753" tips="171793;171794;110063" param="+20;+30;+40" icon="icon_222001" para1="235;236;1010;1030;72" para2="20;20;30;30;40" />
+    <ItemSpec id="222002" name="171754" tips="110059;110061;171793" param="+20;+20;+30" icon="icon_222002" para1="68;69;235;236" para2="20;20;30;30" />
+    <ItemSpec id="222003" name="171757" tips="110058;110060;171793" param="+100;+40;+30" icon="icon_222003" para1="50;51;52;53;660;235;236" para2="100;100;100;100;40;30;30" />
+    <ItemSpec id="222004" name="171760" tips="110058;171928;171793" param="+100;+20;+30" icon="icon_222004" para1="50;51;52;53;65;235;236" para2="100;100;100;100;20;30;30" />
+    <ItemSpec id="222005" name="171756" tips="110054;110057;171795" param="+50;+50;+300" icon="icon_222005" para1="1010;60;59" para2="50;50;300" />
+    <ItemSpec id="222006" name="171755" tips="171794;171792;171793" param="+35;+10;+20" icon="icon_222006" para1="1010;1030;1050;235;236" para2="35;35;10;20;20" />
+    <ItemSpec id="222007" name="171758" tips="110061;171793;173138" param="+30;+10;+120" icon="icon_222007" para1="69;235;236;221" para2="30;10;10;7200" />
+    <ItemSpec id="222008" name="171759" tips="110059;171793;173137" param="+30;+10;+120" icon="icon_222008" para1="68;235;236;222" para2="30;10;10;7200" />
+    <ItemSpec id="222009" name="171764" tips="171796;110054;110060" param="+20;-15;-30" icon="icon_222009" para1="78;1010;660" para2="20;-15;-30" />
+    <ItemSpec id="222010" name="171767" tips="110062;110055;110057" param="-20;-15;-30" icon="icon_222010" para1="64;1030;60" para2="20;-15;-30" />
+    <ItemSpec id="222011" name="171763" tips="171795;171792;110061" param="+50;-10;-30" icon="icon_222011" para1="59;1050;69" para2="50;-10;-30" />
+    <ItemSpec id="222012" name="171762" tips="171928;171794" param="+20;-15" icon="icon_222012" para1="65;1010;1030" para2="20;-15;-15" />
+    <ItemSpec id="222013" name="171766" tips="110057;171792" param="+50;-15" icon="icon_222013" para1="60;1050" para2="50;-15" />
+    <ItemSpec id="222014" name="171765" tips="110054;110055" param="+10;-30" icon="icon_222014" para1="1010;1030" para2="10;-30" />
+    <ItemSpec id="222015" name="171761" tips="110059;110057;171793" param="+10;-30;-10" icon="icon_222015" para1="68;60;235;236" para2="10;-30;-10;-10" />
+    <ItemSpec id="222016" name="171768" tips="110057;110062;171793" param="+30;+20;-15" icon="icon_222016" para1="60;64;235;236" para2="30;-20;-15;-15" />
+    </Group>
+ 
+</tns:database>

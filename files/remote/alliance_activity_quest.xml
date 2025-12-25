@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="alliance_activity_quest">
+    <ItemSpec id="200001" name="105810" desc="90823444" goods="215661" alliance_activity="100001" icon="quest_Farm_icon1" />
+    <ItemSpec id="200002" name="129049" desc="90823445" goods="215661" alliance_activity="100001" icon="quest_Monster0_icon1" />
+    <ItemSpec id="200003" name="83200375" desc="90823446" goods="215661" alliance_activity="100001" icon="FB_IC_liangshijisuBIG" />
+
+
+ </Group >
+
+</tns:database>

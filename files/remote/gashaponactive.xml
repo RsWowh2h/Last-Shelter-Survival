@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="gashaponactive">
+   <!-- <ItemSpec id="1" basic_gift="" special_gift="210100;11|210101;22|210165;11|210166;22|210167;11|210176;22|210177;11|210164;22|203522;11|211214;22|211213;11|200221;22|200222;11|215204;22|203517;11|203518;22|203519;11|203520;22" basic_percent="0.01" special_percent="0.0001"/>-->
+    <ItemSpec id="2" basic_gift="312002;1000|200200;20|215834;1|312002;50|312002;25|312002;5|200200;5|200390;10|200201;20" special_gift="312002;1000|200200;20" basic_percent="99" special_percent="1"/>
+	<ItemSpec id="3" basic_gift="312002;1000|200200;20|215834;1|312002;50|312002;25|312002;5|200200;5|200390;10|200201;20" special_gift="312002;1000|200200;20" basic_percent="99" special_percent="1"/>
+	<ItemSpec id="4" basic_gift="312002;1000|200200;20|215834;1|312002;50|312002;25|312002;5|200200;5|200390;10|200201;20" special_gift="312002;1000|200200;20" basic_percent="99" special_percent="1"/>
+	<ItemSpec id="5" basic_gift="312002;1000|200200;20|215834;1|312002;50|312002;25|312002;5|200200;5|200390;10|200201;20" special_gift="312002;1000|200200;20" basic_percent="99" special_percent="1"/>	
+	<!-- 扭蛋活动前端表YUYU	-->
+
+</Group>
+</tns:database>

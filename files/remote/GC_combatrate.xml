@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="GC_combatrate">
+		<ItemSpec id="1" base_level="1" rarity="200" level="0" skill="0" equipment="0"/>
+		<ItemSpec id="2" base_level="2" rarity="800" level="200" skill="0" equipment="0"/>
+		<ItemSpec id="3" base_level="3" rarity="1200" level="500" skill="400" equipment="0"/>
+		<ItemSpec id="4" base_level="4" rarity="1500" level="800" skill="840" equipment="0"/>
+		<ItemSpec id="5" base_level="5" rarity="1500" level="1200" skill="1400" equipment="0"/>
+		<ItemSpec id="6" base_level="6" rarity="2000" level="2000" skill="2000" equipment="0"/>
+		<ItemSpec id="7" base_level="7" rarity="2400" level="3000" skill="2800" equipment="0"/>
+		<ItemSpec id="8" base_level="8" rarity="2800" level="4500" skill="3600" equipment="0"/>
+		<ItemSpec id="9" base_level="9" rarity="3200" level="7500" skill="5400" equipment="500"/>
+		<ItemSpec id="10" base_level="10" rarity="3600" level="12000" skill="7200" equipment="1000"/>
+		<ItemSpec id="11" base_level="11" rarity="4000" level="20000" skill="10800" equipment="1500"/>
+		<ItemSpec id="12" base_level="12" rarity="4500" level="32000" skill="16000" equipment="2000"/>
+		<ItemSpec id="13" base_level="13" rarity="5000" level="64000" skill="24000" equipment="2500"/>
+		<ItemSpec id="14" base_level="14" rarity="6000" level="108000" skill="45000" equipment="4000"/>
+		<ItemSpec id="15" base_level="15" rarity="7000" level="162000" skill="80000" equipment="6000"/>
+		<ItemSpec id="16" base_level="16" rarity="8000" level="216000" skill="160000" equipment="10800"/>
+		<ItemSpec id="17" base_level="17" rarity="9000" level="270000" skill="270000" equipment="18000"/>
+		<ItemSpec id="18" base_level="18" rarity="10000" level="324000" skill="390000" equipment="30000"/>
+		<ItemSpec id="19" base_level="19" rarity="11000" level="356000" skill="510000" equipment="50000"/>
+		<ItemSpec id="20" base_level="20" rarity="13000" level="381000" skill="640000" equipment="80000"/>
+		<ItemSpec id="21" base_level="21" rarity="15000" level="381000" skill="780000" equipment="135000"/>
+		<ItemSpec id="22" base_level="22" rarity="15000" level="381000" skill="930000" equipment="200000"/>
+		<ItemSpec id="23" base_level="23" rarity="15000" level="381000" skill="1080000" equipment="280000"/>
+		<ItemSpec id="24" base_level="24" rarity="15000" level="381000" skill="1260000" equipment="360000"/>
+		<ItemSpec id="25" base_level="25" rarity="15000" level="381000" skill="1440000" equipment="450000"/>
+	</Group>
+</tns:database>

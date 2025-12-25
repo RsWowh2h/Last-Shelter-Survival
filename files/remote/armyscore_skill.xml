@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="armyscore_skill">
+
+    <ItemSpec id="1" name="111001110" armytype="1" needId="131901;300101;670201" icon="zhuanjing_icon_score" description="111001112;111001113;111001114" des_value="1;1;1" skill="105001;105002;105003" />
+    <ItemSpec id="2" name="111001108" armytype="1" needId="300201;670101;700101" icon="zhuanjing_icon_skill" description="111001378;111001379;111001380" des_value="1;1;1" skill="105010;105011;105012" />
+    <ItemSpec id="3" name="111001109" armytype="1" needId="700201;730201" icon="zhuanjing_icon_defense" description="111001387;111001388" des_value="1;1" skill="105019;105020" />
+    <ItemSpec id="4" name="111001111" armytype="1" needId="730101" icon="zhuanjing_icon_skill" description="111001393" des_value="1" skill="105025" />
+    <ItemSpec id="5" name="111001110" armytype="2" needId="151901;310101;680201" description="111001246;111001247;111001248" des_value="1;1;1" skill="105004;105005;105006" />
+    <ItemSpec id="6" name="111001108" armytype="2" needId="310201;680101;710101" description="111001380;111001381;111001382" des_value="1;1;1" skill="105013;105014;105015" />
+    <ItemSpec id="7" name="111001109" armytype="2" needId="710201;740201" description="111001389;111001390" des_value="1;1" skill="105021;105022" />
+    <ItemSpec id="8" name="111001111" armytype="2" needId="740101" description="111001394" des_value="1" skill="105026" />
+    <ItemSpec id="9" name="111001110" armytype="3" needId="141901;320101;690201" description="111001249;111001250;111001377" des_value="1;1;1" skill="105007;105008;105009" />
+    <ItemSpec id="10" name="111001108" armytype="3" needId="320201;690101;720101" description="111001383;111001384;111001385" des_value="1;1;1" skill="105016;105017;105018" />
+    <ItemSpec id="11" name="111001109" armytype="3" needId="720201;750201" description="111001391;111001392" des_value="1;1" skill="105023;105024" />
+    <ItemSpec id="12" name="111001111" armytype="3" needId="750101" description="111001395" des_value="1" skill="105027" />
+    <ItemSpec id="13" name="110320328" armytype="1" needId="1661901;1701901" description="110320336;110320337" des_value="1;1" skill="105032;105033" />
+    <ItemSpec id="14" name="110320330" armytype="1" needId="1681901;1741901" description="110320342;110320343" des_value="1;1" skill="105038;105039" />
+    <ItemSpec id="15" name="110320328" armytype="3" needId="1901901;1941901" description="110320334;110320335" des_value="1;1" skill="105028;105029" />
+    <ItemSpec id="16" name="110320330" armytype="3" needId="1921901;1981901" description="110320340;110320341" des_value="1;1" skill="105034;105035" />
+    <ItemSpec id="17" name="110320328" armytype="2" needId="1781901;1821901" description="110320332;110320333" des_value="1;1" skill="105030;105031" />
+    <ItemSpec id="18" name="110320330" armytype="2" needId="1801901;1861901" description="110320338;110320339" des_value="1;1" skill="105036;105037" />
+
+
+
+	</Group> 
+</tns:database>

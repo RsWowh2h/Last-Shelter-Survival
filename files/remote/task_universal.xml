@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<Group id="timeLimitShop">
+<!--折扣商店-->
+    <ItemSpec id="1000001" type1="10001" para1="1" reward="640397" />
+    <ItemSpec id="1000002" type1="10002" para1="40" reward="640398" />
+    <ItemSpec id="1000003" type1="10003" para1="2" para2="200060" reward="640398" />
+    <ItemSpec id="1000004" type1="10004" para1="1" reward="810007" />
+
+
+
+</Group>
+
+
+
+
+<!-- 大富翁 -->
+<Group id="slots">
+    <ItemSpec id="100011" name="5602178" description="5602179" />
+    <ItemSpec id="100012" name="5602174" description="5602175" />
+    <ItemSpec id="100013" name="5602176" description="5602177" />
+    <ItemSpec id="100014" name="5602172" description="5602173" />
+    <ItemSpec id="100015" name="5602180" description="5602181" />
+    <ItemSpec id="100016" name="5602182" description="5602183" />
+    <ItemSpec id="100017" name="5602184" description="5602185" />
+
+</Group>
+<Group id="recharge_monopoly">
+
+<!-- 秘境之旅每日任务 -->
+
+    <ItemSpec id="9001" name="110221634" />
+    <ItemSpec id="9002" name="110221631" />
+    <ItemSpec id="9003" name="110221633" />
+
+
+
+	</Group>
+
+<Group id="Phase_one">
+
+<!-- 联动一阶段任务 -->
+<!-- gotype配置时需加10000 -->
+
+
+    <ItemSpec id="1000005" name="110221632" />
+    <ItemSpec id="1000006" name="110221633" />
+    <ItemSpec id="1000007" name="110221631" />
+    <ItemSpec id="1000008" name="110221630" />
+
+
+</Group>
+
+	<!-- 蛛丝马迹任务 -->
+	<Group id="sticker_task_universal">
+    <ItemSpec id="1000160" name="110221630" page="1" />
+    <ItemSpec id="1000161" name="110221630" page="1" />
+    <ItemSpec id="1000162" name="110221630" page="1" />
+    <ItemSpec id="1000163" name="110221630" page="1" />
+    <ItemSpec id="1000164" name="110221636" page="1" />
+    <ItemSpec id="1000165" name="110221631" page="2" />
+    <ItemSpec id="1000166" name="110221631" page="2" />
+    <ItemSpec id="1000167" name="110221631" page="2" />
+    <ItemSpec id="1000168" name="110221631" page="2" />
+    <ItemSpec id="1000169" name="110221633" page="3" />
+    <ItemSpec id="1000170" name="110221636" page="1" />
+    <ItemSpec id="1000171" name="110221636" page="1" />
+
+
+
+	</Group>
+    
+    <!-- 废土2048任务  -->
+<Group id="mini_game_2048">
+
+    <ItemSpec id="13000001" name="111880047"/>
+    <ItemSpec id="13000002" name="111880047"/>
+    <ItemSpec id="13000003" name="111880047"/>
+    <ItemSpec id="13000004" name="111880047"/>
+    <ItemSpec id="13000005" name="111880047"/>
+    <ItemSpec id="13000006" name="111880047"/>
+    <ItemSpec id="13000007" name="111880047"/>
+    <ItemSpec id="13000008" name="111880047"/>
+    <ItemSpec id="13000009" name="111880047"/>
+
+
+    <ItemSpec id="13000012" name="111880005"/>
+    <ItemSpec id="13000013" name="111880005"/>
+    <ItemSpec id="13000014" name="111880005"/>
+    <ItemSpec id="13000015" name="111880005"/>
+
+
+    <ItemSpec id="13000016" name="111880047"/>
+    <ItemSpec id="13000017" name="111880047"/>
+    <ItemSpec id="13000018" name="111880047"/>
+    <ItemSpec id="13000019" name="111880047"/>
+    <ItemSpec id="13000020" name="111880047"/>
+    <ItemSpec id="13000021" name="111880047"/>
+    <ItemSpec id="13000022" name="111880047"/>
+    <ItemSpec id="13000023" name="111880047"/>
+    <ItemSpec id="13000024" name="111880047"/>
+
+
+    <ItemSpec id="13000025" name="111880005"/>
+    <ItemSpec id="13000026" name="111880005"/>
+    <ItemSpec id="13000027" name="111880005"/>
+    <ItemSpec id="13000028" name="111880005"/>
+
+
+    <ItemSpec id="13000029" name="111880047"/>
+    <ItemSpec id="13000030" name="111880047"/>
+    <ItemSpec id="13000031" name="111880047"/>
+    <ItemSpec id="13000032" name="111880047"/>
+    <ItemSpec id="13000033" name="111880047"/>
+    <ItemSpec id="13000034" name="111880047"/>
+    <ItemSpec id="13000035" name="111880047"/>
+    <ItemSpec id="13000036" name="111880047"/>
+    <ItemSpec id="13000037" name="111880047"/>
+
+
+    <ItemSpec id="13000038" name="111880005"/>
+    <ItemSpec id="13000039" name="111880005"/>
+    <ItemSpec id="13000040" name="111880005"/>
+    <ItemSpec id="13000041" name="111880005"/>
+
+
+    <ItemSpec id="13000042" name="111880047"/>
+    <ItemSpec id="13000043" name="111880047"/>
+    <ItemSpec id="13000044" name="111880047"/>
+    <ItemSpec id="13000045" name="111880047"/>
+    <ItemSpec id="13000046" name="111880047"/>
+    <ItemSpec id="13000047" name="111880047"/>
+    <ItemSpec id="13000048" name="111880047"/>
+    <ItemSpec id="13000049" name="111880047"/>
+    <ItemSpec id="13000050" name="111880047"/>
+
+
+    <ItemSpec id="13000051" name="111880005"/>
+    <ItemSpec id="13000052" name="111880005"/>
+    <ItemSpec id="13000053" name="111880005"/>
+    <ItemSpec id="13000054" name="111880005"/>
+    <ItemSpec id="13000075" name="111880005"/>
+    <ItemSpec id="13000076" name="111880005"/>
+
+    <ItemSpec id="13000077" name="111880047"/>
+    <ItemSpec id="13000078" name="111880047"/>
+    <ItemSpec id="13000079" name="111880047"/>
+    <ItemSpec id="13000080" name="111880047"/>
+    <ItemSpec id="13000081" name="111880047"/>
+    <ItemSpec id="13000082" name="111880047"/>
+    <ItemSpec id="13000083" name="111880047"/>
+    <ItemSpec id="13000084" name="111880047"/>
+    <ItemSpec id="13000085" name="111880047"/>
+
+
+    <ItemSpec id="13000086" name="111880005"/>
+    <ItemSpec id="13000087" name="111880005"/>
+    <ItemSpec id="13000088" name="111880005"/>
+    <ItemSpec id="13000089" name="111880005"/>
+
+    </Group>
+
+    <!-- 联盟盛宴任务  -->
+    <Group id="alliance_feast">
+
+        <ItemSpec id="13000053" name="800086"/>
+        <ItemSpec id="13000054" name="800086"/>
+        <ItemSpec id="13000055" name="800086"/>
+        <ItemSpec id="13000056" name="800086"/>
+        <ItemSpec id="13000057" name="800086"/>
+        <ItemSpec id="13000058" name="800086"/>
+        <ItemSpec id="13000059" name="800086"/>
+        <ItemSpec id="13000060" name="800086"/>
+        <ItemSpec id="13000061" name="800086"/>
+        <ItemSpec id="13000062" name="800086"/>
+        <ItemSpec id="13000063" name="800086"/>
+        <ItemSpec id="13000064" name="800086"/>
+        <ItemSpec id="13000065" name="800086"/>
+        <ItemSpec id="13000066" name="800086"/>
+        <ItemSpec id="13000067" name="800086"/>
+
+
+
+        <ItemSpec id="13000068" name="133143"/>
+        <ItemSpec id="13000069" name="133143"/>
+        <ItemSpec id="13000070" name="133143"/>
+
+        <ItemSpec id="13000071" name="110221479"/>
+        <ItemSpec id="13000072" name="110221479"/>
+        <ItemSpec id="13000073" name="110221479"/>
+
+        <ItemSpec id="13000074" name="110221634"/>
+    </Group>
+    
+</tns:database>

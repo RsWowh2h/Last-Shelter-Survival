@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="pvp_building">
+
+    <ItemSpec id="1001" type="160" coordinate="591;608" model="moba_blue_fort" dialog="110240536" name="110240539" icon="white_moba_fort" def_queue_num="20" maxdef="15000" building_open_time="120" unopen_desc="110240707" size="3" model_break="moba_blue_fort_broken" icon_break="white_moba_fort_broken" anchor_point="0.6;0.6" />
+    <ItemSpec id="1002" type="162" coordinate="608;591" model="moba_red_fort" dialog="110240536" name="110240539" icon="white_moba_fort" def_queue_num="20" maxdef="15000" building_open_time="120" unopen_desc="110240707" size="3" model_break="moba_red_fort_broken" icon_break="white_moba_fort_broken" anchor_point="0.5;0.6" />
+    <ItemSpec id="1003" type="164" coordinate="591;591|609;609" model="moba_arsenal" owntime="30" effect="757;500|1010;100" dialog="110240537" buff_dialog="500015" name="110240540" icon="white_moba_arsenal" def_queue_num="20" building_open_time="60" unopen_desc="110240707" effect_name="110240542" effect_name2="110240543|110240544" size="2" anchor_point="0.5;0.4" />
+    <ItemSpec id="1004" type="166" coordinate="597;602|592;602|597;607" model="moba_tower" effect="14003;15" dialog="110240538" name="110240541" icon="white_moba_tower" def_queue_num="20" maxdef="5000" building_open_time="60" unopen_desc="110240707" dash_area="2" size="1" model_break="moba_tower_broken" icon_break="white_moba_tower_broken" anchor_point="0.5;0.4" />
+    <ItemSpec id="1005" type="167" coordinate="602;597|602;592|607;597" model="moba_tower" effect="14003;15" dialog="110240538" name="110240541" icon="white_moba_tower" def_queue_num="20" maxdef="5000" building_open_time="60" unopen_desc="110240707" dash_area="2" size="1" model_break="moba_tower_broken" icon_break="white_moba_tower_broken" anchor_point="0.5;0.4" />
+
+</Group>
+</tns:database>

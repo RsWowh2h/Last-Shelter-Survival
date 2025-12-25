@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="science_zuori_statistic">
+		<ItemSpec id="1" description="110400193" tab="110400652"/>
+		<ItemSpec id="2" description="110400196" tab="110400652"/>
+		<ItemSpec id="3" description="110400208" tab="110400652"/>
+		<ItemSpec id="4" description="110400223" tab="110400652"/>
+		<ItemSpec id="5" description="110400202" tab="110400652"/>
+		<ItemSpec id="6" description="110400205" tab="110400652"/>
+		<ItemSpec id="7" description="110400151" tab="110400652"/>
+		<ItemSpec id="8" description="110400160" tab="110400652"/>
+		<ItemSpec id="9" description="110400161" tab="110400652"/>
+		<ItemSpec id="10" description="110400152" tab="110400652"/>
+		<ItemSpec id="11" description="110400169" tab="110400652"/>
+		<ItemSpec id="12" description="110400170" tab="110400652"/>
+		<ItemSpec id="13" description="110400171" tab="110400652"/>
+		<ItemSpec id="14" description="110400172" tab="110400652"/>
+		<ItemSpec id="15" description="110400194" tab="110400653"/>
+		<ItemSpec id="16" description="110400197" tab="110400653"/>
+		<ItemSpec id="17" description="110400209" tab="110400653"/>
+		<ItemSpec id="18" description="110400224" tab="110400653"/>
+		<ItemSpec id="19" description="110400203" tab="110400653"/>
+		<ItemSpec id="20" description="110400206" tab="110400653"/>
+		<ItemSpec id="21" description="110400153" tab="110400653"/>
+		<ItemSpec id="22" description="110400162" tab="110400653"/>
+		<ItemSpec id="23" description="110400163" tab="110400653"/>
+		<ItemSpec id="24" description="110400154" tab="110400653"/>
+		<ItemSpec id="25" description="110400174" tab="110400653"/>
+		<ItemSpec id="26" description="110400175" tab="110400653"/>
+		<ItemSpec id="27" description="110400176" tab="110400653"/>
+		<ItemSpec id="28" description="110400177" tab="110400653"/>
+		<ItemSpec id="29" description="110400195" tab="110400654"/>
+		<ItemSpec id="30" description="110400198" tab="110400654"/>
+		<ItemSpec id="31" description="110400210" tab="110400654"/>
+		<ItemSpec id="32" description="110400225" tab="110400654"/>
+		<ItemSpec id="33" description="110400204" tab="110400654"/>
+		<ItemSpec id="34" description="110400207" tab="110400654"/>
+		<ItemSpec id="35" description="110400155" tab="110400654"/>
+		<ItemSpec id="36" description="110400164" tab="110400654"/>
+		<ItemSpec id="37" description="110400165" tab="110400654"/>
+		<ItemSpec id="38" description="110400156" tab="110400654"/>
+		<ItemSpec id="39" description="110400179" tab="110400654"/>
+		<ItemSpec id="40" description="110400180" tab="110400654"/>
+		<ItemSpec id="41" description="110400181" tab="110400654"/>
+		<ItemSpec id="42" description="110400182" tab="110400654"/>
+		<ItemSpec id="43" description="110400157" tab="110400649"/>
+		<ItemSpec id="44" description="110400148" tab="110400649"/>
+		<ItemSpec id="45" description="110400190" tab="110400649"/>
+		<ItemSpec id="46" description="110400184" tab="110400649"/>
+		<ItemSpec id="47" description="110400185" tab="110400649"/>
+		<ItemSpec id="48" description="110400244" tab="110400649"/>
+		<ItemSpec id="49" description="110400211" tab="110400649"/>
+		<ItemSpec id="50" description="110400217" tab="110400649"/>
+		<ItemSpec id="51" description="110400199" tab="110400649"/>
+		<ItemSpec id="52" description="110400158" tab="110400650"/>
+		<ItemSpec id="53" description="110400149" tab="110400650"/>
+		<ItemSpec id="54" description="110400191" tab="110400650"/>
+		<ItemSpec id="55" description="110400186" tab="110400650"/>
+		<ItemSpec id="56" description="110400187" tab="110400650"/>
+		<ItemSpec id="57" description="110400245" tab="110400650"/>
+		<ItemSpec id="58" description="110400212" tab="110400650"/>
+		<ItemSpec id="59" description="110400218" tab="110400650"/>
+		<ItemSpec id="60" description="110400200" tab="110400650"/>
+		<ItemSpec id="61" description="110400159" tab="110400651"/>
+		<ItemSpec id="62" description="110400150" tab="110400651"/>
+		<ItemSpec id="63" description="110400192" tab="110400651"/>
+		<ItemSpec id="64" description="110400188" tab="110400651"/>
+		<ItemSpec id="65" description="110400189" tab="110400651"/>
+		<ItemSpec id="66" description="110400246" tab="110400651"/>
+		<ItemSpec id="67" description="110400213" tab="110400651"/>
+		<ItemSpec id="68" description="110400219" tab="110400651"/>
+		<ItemSpec id="69" description="110400201" tab="110400651"/>
+
+	</Group>
+	
+</tns:database>
+	

@@ -1,0 +1,1699 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="Dragon_wartile_position">
+<ItemSpec id="675" x="599" y="529" type="1003" />
+<ItemSpec id="1564" x="588" y="535" type="1004" />
+<ItemSpec id="1585" x="609" y="535" type="1002" />
+<ItemSpec id="6663" x="587" y="569" type="44" />
+<ItemSpec id="6664" x="588" y="569" type="45" />
+<ItemSpec id="6665" x="589" y="569" type="46" />
+<ItemSpec id="6686" x="610" y="569" type="44" />
+<ItemSpec id="6687" x="611" y="569" type="45" />
+<ItemSpec id="6688" x="612" y="569" type="46" />
+<ItemSpec id="6813" x="587" y="570" type="47" />
+<ItemSpec id="6814" x="588" y="570" type="48" />
+<ItemSpec id="6815" x="589" y="570" type="49" />
+<ItemSpec id="6836" x="610" y="570" type="47" />
+<ItemSpec id="6837" x="611" y="570" type="48" />
+<ItemSpec id="6838" x="612" y="570" type="49" />
+<ItemSpec id="6963" x="587" y="571" type="50" />
+<ItemSpec id="6964" x="588" y="571" type="51" />
+<ItemSpec id="6965" x="589" y="571" type="52" />
+<ItemSpec id="6986" x="610" y="571" type="50" />
+<ItemSpec id="6987" x="611" y="571" type="51" />
+<ItemSpec id="6988" x="612" y="571" type="52" />
+<ItemSpec id="7113" x="587" y="572" type="44" />
+<ItemSpec id="7114" x="588" y="572" type="45" />
+<ItemSpec id="7115" x="589" y="572" type="46" />
+<ItemSpec id="7136" x="610" y="572" type="44" />
+<ItemSpec id="7137" x="611" y="572" type="45" />
+<ItemSpec id="7138" x="612" y="572" type="46" />
+<ItemSpec id="7263" x="587" y="573" type="47" />
+<ItemSpec id="7264" x="588" y="573" type="48" />
+<ItemSpec id="7265" x="589" y="573" type="49" />
+<ItemSpec id="7286" x="610" y="573" type="47" />
+<ItemSpec id="7287" x="611" y="573" type="48" />
+<ItemSpec id="7288" x="612" y="573" type="49" />
+<ItemSpec id="7413" x="587" y="574" type="50" />
+<ItemSpec id="7414" x="588" y="574" type="51" />
+<ItemSpec id="7415" x="589" y="574" type="52" />
+<ItemSpec id="7436" x="610" y="574" type="50" />
+<ItemSpec id="7437" x="611" y="574" type="51" />
+<ItemSpec id="7438" x="612" y="574" type="52" />
+<ItemSpec id="7563" x="587" y="575" type="44" />
+<ItemSpec id="7564" x="588" y="575" type="45" />
+<ItemSpec id="7565" x="589" y="575" type="46" />
+<ItemSpec id="7586" x="610" y="575" type="44" />
+<ItemSpec id="7587" x="611" y="575" type="45" />
+<ItemSpec id="7588" x="612" y="575" type="46" />
+<ItemSpec id="7713" x="587" y="576" type="47" />
+<ItemSpec id="7714" x="588" y="576" type="48" />
+<ItemSpec id="7715" x="589" y="576" type="49" />
+<ItemSpec id="7736" x="610" y="576" type="47" />
+<ItemSpec id="7737" x="611" y="576" type="48" />
+<ItemSpec id="7738" x="612" y="576" type="49" />
+<ItemSpec id="7863" x="587" y="577" type="50" />
+<ItemSpec id="7864" x="588" y="577" type="51" />
+<ItemSpec id="7865" x="589" y="577" type="52" />
+<ItemSpec id="7886" x="610" y="577" type="50" />
+<ItemSpec id="7887" x="611" y="577" type="51" />
+<ItemSpec id="7888" x="612" y="577" type="52" />
+<ItemSpec id="8013" x="587" y="578" type="44" />
+<ItemSpec id="8014" x="588" y="578" type="45" />
+<ItemSpec id="8015" x="589" y="578" type="46" />
+<ItemSpec id="8036" x="610" y="578" type="44" />
+<ItemSpec id="8037" x="611" y="578" type="45" />
+<ItemSpec id="8038" x="612" y="578" type="46" />
+<ItemSpec id="8163" x="587" y="579" type="47" />
+<ItemSpec id="8164" x="588" y="579" type="48" />
+<ItemSpec id="8165" x="589" y="579" type="49" />
+<ItemSpec id="8186" x="610" y="579" type="47" />
+<ItemSpec id="8187" x="611" y="579" type="48" />
+<ItemSpec id="8188" x="612" y="579" type="49" />
+<ItemSpec id="8313" x="587" y="580" type="50" />
+<ItemSpec id="8314" x="588" y="580" type="51" />
+<ItemSpec id="8315" x="589" y="580" type="52" />
+<ItemSpec id="8336" x="610" y="580" type="50" />
+<ItemSpec id="8337" x="611" y="580" type="51" />
+<ItemSpec id="8338" x="612" y="580" type="52" />
+<ItemSpec id="8463" x="587" y="581" type="44" />
+<ItemSpec id="8464" x="588" y="581" type="45" />
+<ItemSpec id="8465" x="589" y="581" type="46" />
+<ItemSpec id="8486" x="610" y="581" type="44" />
+<ItemSpec id="8487" x="611" y="581" type="45" />
+<ItemSpec id="8488" x="612" y="581" type="46" />
+<ItemSpec id="8613" x="587" y="582" type="47" />
+<ItemSpec id="8614" x="588" y="582" type="48" />
+<ItemSpec id="8615" x="589" y="582" type="49" />
+<ItemSpec id="8636" x="610" y="582" type="47" />
+<ItemSpec id="8637" x="611" y="582" type="48" />
+<ItemSpec id="8638" x="612" y="582" type="49" />
+<ItemSpec id="8763" x="587" y="583" type="50" />
+<ItemSpec id="8764" x="588" y="583" type="51" />
+<ItemSpec id="8765" x="589" y="583" type="52" />
+<ItemSpec id="8786" x="610" y="583" type="50" />
+<ItemSpec id="8787" x="611" y="583" type="51" />
+<ItemSpec id="8788" x="612" y="583" type="52" />
+<ItemSpec id="8913" x="587" y="584" type="44" />
+<ItemSpec id="8914" x="588" y="584" type="45" />
+<ItemSpec id="8915" x="589" y="584" type="46" />
+<ItemSpec id="8936" x="610" y="584" type="44" />
+<ItemSpec id="8937" x="611" y="584" type="45" />
+<ItemSpec id="8938" x="612" y="584" type="46" />
+<ItemSpec id="9063" x="587" y="585" type="47" />
+<ItemSpec id="9064" x="588" y="585" type="48" />
+<ItemSpec id="9065" x="589" y="585" type="49" />
+<ItemSpec id="9086" x="610" y="585" type="47" />
+<ItemSpec id="9087" x="611" y="585" type="48" />
+<ItemSpec id="9088" x="612" y="585" type="49" />
+<ItemSpec id="9213" x="587" y="586" type="50" />
+<ItemSpec id="9214" x="588" y="586" type="51" />
+<ItemSpec id="9215" x="589" y="586" type="52" />
+<ItemSpec id="9236" x="610" y="586" type="50" />
+<ItemSpec id="9237" x="611" y="586" type="51" />
+<ItemSpec id="9238" x="612" y="586" type="52" />
+<ItemSpec id="9363" x="587" y="587" type="44" />
+<ItemSpec id="9364" x="588" y="587" type="45" />
+<ItemSpec id="9365" x="589" y="587" type="46" />
+<ItemSpec id="9386" x="610" y="587" type="44" />
+<ItemSpec id="9387" x="611" y="587" type="45" />
+<ItemSpec id="9388" x="612" y="587" type="46" />
+<ItemSpec id="9513" x="587" y="588" type="47" />
+<ItemSpec id="9514" x="588" y="588" type="48" />
+<ItemSpec id="9515" x="589" y="588" type="49" />
+<ItemSpec id="9536" x="610" y="588" type="47" />
+<ItemSpec id="9537" x="611" y="588" type="48" />
+<ItemSpec id="9538" x="612" y="588" type="49" />
+<ItemSpec id="9663" x="587" y="589" type="50" />
+<ItemSpec id="9664" x="588" y="589" type="51" />
+<ItemSpec id="9665" x="589" y="589" type="52" />
+<ItemSpec id="9686" x="610" y="589" type="50" />
+<ItemSpec id="9687" x="611" y="589" type="51" />
+<ItemSpec id="9688" x="612" y="589" type="52" />
+<ItemSpec id="9813" x="587" y="590" type="44" />
+<ItemSpec id="9814" x="588" y="590" type="45" />
+<ItemSpec id="9815" x="589" y="590" type="46" />
+<ItemSpec id="9836" x="610" y="590" type="44" />
+<ItemSpec id="9837" x="611" y="590" type="45" />
+<ItemSpec id="9838" x="612" y="590" type="46" />
+<ItemSpec id="9963" x="587" y="591" type="47" />
+<ItemSpec id="9964" x="588" y="591" type="48" />
+<ItemSpec id="9965" x="589" y="591" type="49" />
+<ItemSpec id="9986" x="610" y="591" type="47" />
+<ItemSpec id="9987" x="611" y="591" type="48" />
+<ItemSpec id="9988" x="612" y="591" type="49" />
+<ItemSpec id="10113" x="587" y="592" type="50" />
+<ItemSpec id="10114" x="588" y="592" type="51" />
+<ItemSpec id="10115" x="589" y="592" type="52" />
+<ItemSpec id="10136" x="610" y="592" type="50" />
+<ItemSpec id="10137" x="611" y="592" type="51" />
+<ItemSpec id="10138" x="612" y="592" type="52" />
+<ItemSpec id="10263" x="587" y="593" type="44" />
+<ItemSpec id="10264" x="588" y="593" type="45" />
+<ItemSpec id="10265" x="589" y="593" type="46" />
+<ItemSpec id="10286" x="610" y="593" type="44" />
+<ItemSpec id="10287" x="611" y="593" type="45" />
+<ItemSpec id="10288" x="612" y="593" type="46" />
+<ItemSpec id="10413" x="587" y="594" type="47" />
+<ItemSpec id="10414" x="588" y="594" type="48" />
+<ItemSpec id="10415" x="589" y="594" type="49" />
+<ItemSpec id="10436" x="610" y="594" type="47" />
+<ItemSpec id="10437" x="611" y="594" type="48" />
+<ItemSpec id="10438" x="612" y="594" type="49" />
+<ItemSpec id="10563" x="587" y="595" type="50" />
+<ItemSpec id="10564" x="588" y="595" type="51" />
+<ItemSpec id="10565" x="589" y="595" type="52" />
+<ItemSpec id="10586" x="610" y="595" type="50" />
+<ItemSpec id="10587" x="611" y="595" type="51" />
+<ItemSpec id="10588" x="612" y="595" type="52" />
+<ItemSpec id="10713" x="587" y="596" type="44" />
+<ItemSpec id="10714" x="588" y="596" type="45" />
+<ItemSpec id="10715" x="589" y="596" type="46" />
+<ItemSpec id="10736" x="610" y="596" type="44" />
+<ItemSpec id="10737" x="611" y="596" type="45" />
+<ItemSpec id="10738" x="612" y="596" type="46" />
+<ItemSpec id="10863" x="587" y="597" type="47" />
+<ItemSpec id="10864" x="588" y="597" type="48" />
+<ItemSpec id="10865" x="589" y="597" type="49" />
+<ItemSpec id="10886" x="610" y="597" type="47" />
+<ItemSpec id="10887" x="611" y="597" type="48" />
+<ItemSpec id="10888" x="612" y="597" type="49" />
+<ItemSpec id="11013" x="587" y="598" type="50" />
+<ItemSpec id="11014" x="588" y="598" type="51" />
+<ItemSpec id="11015" x="589" y="598" type="52" />
+<ItemSpec id="11036" x="610" y="598" type="50" />
+<ItemSpec id="11037" x="611" y="598" type="51" />
+<ItemSpec id="11038" x="612" y="598" type="52" />
+<ItemSpec id="11163" x="587" y="599" type="44" />
+<ItemSpec id="11164" x="588" y="599" type="45" />
+<ItemSpec id="11165" x="589" y="599" type="46" />
+<ItemSpec id="11186" x="610" y="599" type="44" />
+<ItemSpec id="11187" x="611" y="599" type="45" />
+<ItemSpec id="11188" x="612" y="599" type="46" />
+<ItemSpec id="11313" x="587" y="600" type="47" />
+<ItemSpec id="11314" x="588" y="600" type="48" />
+<ItemSpec id="11315" x="589" y="600" type="49" />
+<ItemSpec id="11336" x="610" y="600" type="47" />
+<ItemSpec id="11337" x="611" y="600" type="48" />
+<ItemSpec id="11338" x="612" y="600" type="49" />
+<ItemSpec id="11463" x="587" y="601" type="50" />
+<ItemSpec id="11464" x="588" y="601" type="51" />
+<ItemSpec id="11465" x="589" y="601" type="52" />
+<ItemSpec id="11486" x="610" y="601" type="50" />
+<ItemSpec id="11487" x="611" y="601" type="51" />
+<ItemSpec id="11488" x="612" y="601" type="52" />
+<ItemSpec id="11613" x="587" y="602" type="44" />
+<ItemSpec id="11614" x="588" y="602" type="45" />
+<ItemSpec id="11615" x="589" y="602" type="46" />
+<ItemSpec id="11636" x="610" y="602" type="44" />
+<ItemSpec id="11637" x="611" y="602" type="45" />
+<ItemSpec id="11638" x="612" y="602" type="46" />
+<ItemSpec id="11763" x="587" y="603" type="47" />
+<ItemSpec id="11764" x="588" y="603" type="48" />
+<ItemSpec id="11765" x="589" y="603" type="49" />
+<ItemSpec id="11786" x="610" y="603" type="47" />
+<ItemSpec id="11787" x="611" y="603" type="48" />
+<ItemSpec id="11788" x="612" y="603" type="49" />
+<ItemSpec id="11913" x="587" y="604" type="50" />
+<ItemSpec id="11914" x="588" y="604" type="51" />
+<ItemSpec id="11915" x="589" y="604" type="52" />
+<ItemSpec id="11936" x="610" y="604" type="50" />
+<ItemSpec id="11937" x="611" y="604" type="51" />
+<ItemSpec id="11938" x="612" y="604" type="52" />
+<ItemSpec id="12063" x="587" y="605" type="44" />
+<ItemSpec id="12064" x="588" y="605" type="45" />
+<ItemSpec id="12065" x="589" y="605" type="46" />
+<ItemSpec id="12086" x="610" y="605" type="44" />
+<ItemSpec id="12087" x="611" y="605" type="45" />
+<ItemSpec id="12088" x="612" y="605" type="46" />
+<ItemSpec id="12213" x="587" y="606" type="47" />
+<ItemSpec id="12214" x="588" y="606" type="48" />
+<ItemSpec id="12215" x="589" y="606" type="49" />
+<ItemSpec id="12236" x="610" y="606" type="47" />
+<ItemSpec id="12237" x="611" y="606" type="48" />
+<ItemSpec id="12238" x="612" y="606" type="49" />
+<ItemSpec id="12363" x="587" y="607" type="50" />
+<ItemSpec id="12364" x="588" y="607" type="51" />
+<ItemSpec id="12365" x="589" y="607" type="52" />
+<ItemSpec id="12386" x="610" y="607" type="50" />
+<ItemSpec id="12387" x="611" y="607" type="51" />
+<ItemSpec id="12388" x="612" y="607" type="52" />
+<ItemSpec id="12513" x="587" y="608" type="44" />
+<ItemSpec id="12514" x="588" y="608" type="45" />
+<ItemSpec id="12515" x="589" y="608" type="46" />
+<ItemSpec id="12536" x="610" y="608" type="44" />
+<ItemSpec id="12537" x="611" y="608" type="45" />
+<ItemSpec id="12538" x="612" y="608" type="46" />
+<ItemSpec id="12663" x="587" y="609" type="47" />
+<ItemSpec id="12664" x="588" y="609" type="48" />
+<ItemSpec id="12665" x="589" y="609" type="49" />
+<ItemSpec id="12686" x="610" y="609" type="47" />
+<ItemSpec id="12687" x="611" y="609" type="48" />
+<ItemSpec id="12688" x="612" y="609" type="49" />
+<ItemSpec id="12813" x="587" y="610" type="50" />
+<ItemSpec id="12814" x="588" y="610" type="51" />
+<ItemSpec id="12815" x="589" y="610" type="52" />
+<ItemSpec id="12836" x="610" y="610" type="50" />
+<ItemSpec id="12837" x="611" y="610" type="51" />
+<ItemSpec id="12838" x="612" y="610" type="52" />
+<ItemSpec id="12963" x="587" y="611" type="44" />
+<ItemSpec id="12964" x="588" y="611" type="45" />
+<ItemSpec id="12965" x="589" y="611" type="46" />
+<ItemSpec id="12986" x="610" y="611" type="44" />
+<ItemSpec id="12987" x="611" y="611" type="45" />
+<ItemSpec id="12988" x="612" y="611" type="46" />
+<ItemSpec id="13113" x="587" y="612" type="47" />
+<ItemSpec id="13114" x="588" y="612" type="48" />
+<ItemSpec id="13115" x="589" y="612" type="49" />
+<ItemSpec id="13136" x="610" y="612" type="47" />
+<ItemSpec id="13137" x="611" y="612" type="48" />
+<ItemSpec id="13138" x="612" y="612" type="49" />
+<ItemSpec id="13263" x="587" y="613" type="50" />
+<ItemSpec id="13264" x="588" y="613" type="51" />
+<ItemSpec id="13265" x="589" y="613" type="52" />
+<ItemSpec id="13286" x="610" y="613" type="50" />
+<ItemSpec id="13287" x="611" y="613" type="51" />
+<ItemSpec id="13288" x="612" y="613" type="52" />
+<ItemSpec id="13413" x="587" y="614" type="44" />
+<ItemSpec id="13414" x="588" y="614" type="45" />
+<ItemSpec id="13415" x="589" y="614" type="46" />
+<ItemSpec id="13436" x="610" y="614" type="44" />
+<ItemSpec id="13437" x="611" y="614" type="45" />
+<ItemSpec id="13438" x="612" y="614" type="46" />
+<ItemSpec id="13563" x="587" y="615" type="47" />
+<ItemSpec id="13564" x="588" y="615" type="48" />
+<ItemSpec id="13565" x="589" y="615" type="49" />
+<ItemSpec id="13586" x="610" y="615" type="47" />
+<ItemSpec id="13587" x="611" y="615" type="48" />
+<ItemSpec id="13588" x="612" y="615" type="49" />
+<ItemSpec id="13713" x="587" y="616" type="50" />
+<ItemSpec id="13714" x="588" y="616" type="51" />
+<ItemSpec id="13715" x="589" y="616" type="52" />
+<ItemSpec id="13736" x="610" y="616" type="50" />
+<ItemSpec id="13737" x="611" y="616" type="51" />
+<ItemSpec id="13738" x="612" y="616" type="52" />
+<ItemSpec id="13863" x="587" y="617" type="44" />
+<ItemSpec id="13864" x="588" y="617" type="45" />
+<ItemSpec id="13865" x="589" y="617" type="46" />
+<ItemSpec id="13886" x="610" y="617" type="44" />
+<ItemSpec id="13887" x="611" y="617" type="45" />
+<ItemSpec id="13888" x="612" y="617" type="46" />
+<ItemSpec id="14013" x="587" y="618" type="47" />
+<ItemSpec id="14014" x="588" y="618" type="48" />
+<ItemSpec id="14015" x="589" y="618" type="49" />
+<ItemSpec id="14036" x="610" y="618" type="47" />
+<ItemSpec id="14037" x="611" y="618" type="48" />
+<ItemSpec id="14038" x="612" y="618" type="49" />
+<ItemSpec id="14163" x="587" y="619" type="50" />
+<ItemSpec id="14164" x="588" y="619" type="51" />
+<ItemSpec id="14165" x="589" y="619" type="52" />
+<ItemSpec id="14186" x="610" y="619" type="50" />
+<ItemSpec id="14187" x="611" y="619" type="51" />
+<ItemSpec id="14188" x="612" y="619" type="52" />
+<ItemSpec id="14313" x="587" y="620" type="44" />
+<ItemSpec id="14314" x="588" y="620" type="45" />
+<ItemSpec id="14315" x="589" y="620" type="46" />
+<ItemSpec id="14336" x="610" y="620" type="44" />
+<ItemSpec id="14337" x="611" y="620" type="45" />
+<ItemSpec id="14338" x="612" y="620" type="46" />
+<ItemSpec id="14463" x="587" y="621" type="47" />
+<ItemSpec id="14464" x="588" y="621" type="48" />
+<ItemSpec id="14465" x="589" y="621" type="49" />
+<ItemSpec id="14486" x="610" y="621" type="47" />
+<ItemSpec id="14487" x="611" y="621" type="48" />
+<ItemSpec id="14488" x="612" y="621" type="49" />
+<ItemSpec id="14613" x="587" y="622" type="50" />
+<ItemSpec id="14614" x="588" y="622" type="51" />
+<ItemSpec id="14615" x="589" y="622" type="52" />
+<ItemSpec id="14636" x="610" y="622" type="50" />
+<ItemSpec id="14637" x="611" y="622" type="51" />
+<ItemSpec id="14638" x="612" y="622" type="52" />
+<ItemSpec id="14763" x="587" y="623" type="44" />
+<ItemSpec id="14764" x="588" y="623" type="45" />
+<ItemSpec id="14765" x="589" y="623" type="46" />
+<ItemSpec id="14786" x="610" y="623" type="44" />
+<ItemSpec id="14787" x="611" y="623" type="45" />
+<ItemSpec id="14788" x="612" y="623" type="46" />
+<ItemSpec id="14913" x="587" y="624" type="47" />
+<ItemSpec id="14914" x="588" y="624" type="48" />
+<ItemSpec id="14915" x="589" y="624" type="49" />
+<ItemSpec id="14936" x="610" y="624" type="47" />
+<ItemSpec id="14937" x="611" y="624" type="48" />
+<ItemSpec id="14938" x="612" y="624" type="49" />
+<ItemSpec id="15063" x="587" y="625" type="50" />
+<ItemSpec id="15064" x="588" y="625" type="51" />
+<ItemSpec id="15065" x="589" y="625" type="52" />
+<ItemSpec id="15086" x="610" y="625" type="50" />
+<ItemSpec id="15087" x="611" y="625" type="51" />
+<ItemSpec id="15088" x="612" y="625" type="52" />
+<ItemSpec id="15213" x="587" y="626" type="44" />
+<ItemSpec id="15214" x="588" y="626" type="45" />
+<ItemSpec id="15215" x="589" y="626" type="46" />
+<ItemSpec id="15236" x="610" y="626" type="44" />
+<ItemSpec id="15237" x="611" y="626" type="45" />
+<ItemSpec id="15238" x="612" y="626" type="46" />
+<ItemSpec id="15363" x="587" y="627" type="47" />
+<ItemSpec id="15364" x="588" y="627" type="48" />
+<ItemSpec id="15365" x="589" y="627" type="49" />
+<ItemSpec id="15386" x="610" y="627" type="47" />
+<ItemSpec id="15387" x="611" y="627" type="48" />
+<ItemSpec id="15388" x="612" y="627" type="49" />
+<ItemSpec id="15513" x="587" y="628" type="50" />
+<ItemSpec id="15514" x="588" y="628" type="51" />
+<ItemSpec id="15515" x="589" y="628" type="52" />
+<ItemSpec id="15536" x="610" y="628" type="50" />
+<ItemSpec id="15537" x="611" y="628" type="51" />
+<ItemSpec id="15538" x="612" y="628" type="52" />
+<ItemSpec id="15663" x="587" y="629" type="44" />
+<ItemSpec id="15664" x="588" y="629" type="45" />
+<ItemSpec id="15665" x="589" y="629" type="46" />
+<ItemSpec id="15686" x="610" y="629" type="44" />
+<ItemSpec id="15687" x="611" y="629" type="45" />
+<ItemSpec id="15688" x="612" y="629" type="46" />
+<ItemSpec id="15813" x="587" y="630" type="47" />
+<ItemSpec id="15814" x="588" y="630" type="48" />
+<ItemSpec id="15815" x="589" y="630" type="49" />
+<ItemSpec id="15836" x="610" y="630" type="47" />
+<ItemSpec id="15837" x="611" y="630" type="48" />
+<ItemSpec id="15838" x="612" y="630" type="49" />
+<ItemSpec id="15963" x="587" y="631" type="50" />
+<ItemSpec id="15964" x="588" y="631" type="51" />
+<ItemSpec id="15965" x="589" y="631" type="52" />
+<ItemSpec id="15986" x="610" y="631" type="50" />
+<ItemSpec id="15987" x="611" y="631" type="51" />
+<ItemSpec id="15988" x="612" y="631" type="52" />
+<ItemSpec id="21825" x="599" y="670" type="1001" />
+<ItemSpec id="22414" x="588" y="674" type="1004" />
+<ItemSpec id="22436" x="610" y="674" type="1002" />
+<ItemSpec id="1746" x="620" y="536" type="1005" />
+<ItemSpec id="1829" x="553" y="537" type="1055" />
+<ItemSpec id="1896" x="620" y="537" type="1109" />
+<ItemSpec id="2045" x="619" y="538" type="1005" />
+<ItemSpec id="2193" x="617" y="539" type="1110" />
+<ItemSpec id="2195" x="619" y="539" type="1005" />
+<ItemSpec id="2346" x="620" y="540" type="1006" />
+<ItemSpec id="2370" x="644" y="540" type="1055" />
+<ItemSpec id="2459" x="583" y="541" type="1110" />
+<ItemSpec id="2490" x="614" y="541" type="1056" />
+<ItemSpec id="2496" x="620" y="541" type="1109" />
+<ItemSpec id="2497" x="621" y="541" type="1108" />
+<ItemSpec id="2577" x="551" y="542" type="1053" />
+<ItemSpec id="2579" x="553" y="542" type="1051" />
+<ItemSpec id="2619" x="593" y="542" type="1005" />
+<ItemSpec id="2769" x="593" y="543" type="1006" />
+<ItemSpec id="2831" x="655" y="543" type="1056" />
+<ItemSpec id="2920" x="594" y="544" type="1108" />
+<ItemSpec id="2924" x="598" y="544" type="1006" />
+<ItemSpec id="3059" x="583" y="545" type="1005" />
+<ItemSpec id="3244" x="618" y="546" type="1101" />
+<ItemSpec id="3245" x="619" y="546" type="1108" />
+<ItemSpec id="3368" x="592" y="547" type="1005" />
+<ItemSpec id="3369" x="593" y="547" type="1006" />
+<ItemSpec id="3386" x="610" y="547" type="1052" />
+<ItemSpec id="3392" x="616" y="547" type="1107" />
+<ItemSpec id="3528" x="602" y="548" type="1005" />
+<ItemSpec id="3537" x="611" y="548" type="1102" />
+<ItemSpec id="3569" x="643" y="548" type="1059" />
+<ItemSpec id="3585" x="659" y="548" type="1052" />
+<ItemSpec id="3688" x="612" y="549" type="1108" />
+<ItemSpec id="3829" x="603" y="550" type="1006" />
+<ItemSpec id="3833" x="607" y="550" type="1033" />
+<ItemSpec id="3834" x="608" y="550" type="1027" />
+<ItemSpec id="3835" x="609" y="550" type="1027" />
+<ItemSpec id="3836" x="610" y="550" type="1034" />
+<ItemSpec id="3837" x="611" y="550" type="1110" />
+<ItemSpec id="3979" x="603" y="551" type="1109" />
+<ItemSpec id="4107" x="581" y="552" type="1111" />
+<ItemSpec id="4262" x="586" y="553" type="1006" />
+<ItemSpec id="4444" x="618" y="554" type="1006" />
+<ItemSpec id="4468" x="642" y="554" type="1058" />
+<ItemSpec id="4576" x="600" y="555" type="1006" />
+<ItemSpec id="4592" x="616" y="555" type="1006" />
+<ItemSpec id="4594" x="618" y="555" type="1005" />
+<ItemSpec id="4700" x="574" y="556" type="1005" />
+<ItemSpec id="4723" x="597" y="556" type="1021" />
+<ItemSpec id="4727" x="601" y="556" type="1101" />
+<ItemSpec id="4742" x="616" y="556" type="1109" />
+<ItemSpec id="4743" x="617" y="556" type="1108" />
+<ItemSpec id="4836" x="560" y="557" type="1006" />
+<ItemSpec id="4852" x="576" y="557" type="1006" />
+<ItemSpec id="4876" x="600" y="557" type="1108" />
+<ItemSpec id="4894" x="618" y="557" type="1108" />
+<ItemSpec id="4898" x="622" y="557" type="1005" />
+<ItemSpec id="4986" x="560" y="558" type="1109" />
+<ItemSpec id="5002" x="576" y="558" type="1109" />
+<ItemSpec id="5137" x="561" y="559" type="1101" />
+<ItemSpec id="5149" x="573" y="559" type="1006" />
+<ItemSpec id="5299" x="573" y="560" type="1109" />
+<ItemSpec id="5300" x="574" y="560" type="1108" />
+<ItemSpec id="5323" x="597" y="560" type="1035" />
+<ItemSpec id="5473" x="597" y="561" type="1023" />
+<ItemSpec id="5621" x="595" y="562" type="1033" />
+<ItemSpec id="5622" x="596" y="562" type="1025" />
+<ItemSpec id="5623" x="597" y="562" type="1039" />
+<ItemSpec id="5773" x="597" y="563" type="1023" />
+<ItemSpec id="5923" x="597" y="564" type="1023" />
+<ItemSpec id="5972" x="646" y="564" type="1110" />
+<ItemSpec id="6034" x="558" y="565" type="1109" />
+<ItemSpec id="6073" x="597" y="565" type="1023" />
+<ItemSpec id="6181" x="555" y="566" type="1057" />
+<ItemSpec id="6183" x="557" y="566" type="1103" />
+<ItemSpec id="6223" x="597" y="566" type="1032" />
+<ItemSpec id="6257" x="631" y="566" type="1110" />
+<ItemSpec id="6334" x="558" y="567" type="1108" />
+<ItemSpec id="6373" x="597" y="567" type="1043" />
+<ItemSpec id="6374" x="598" y="567" type="1024" />
+<ItemSpec id="6375" x="599" y="567" type="1024" />
+<ItemSpec id="6376" x="600" y="567" type="1045" />
+<ItemSpec id="6406" x="630" y="567" type="1005" />
+<ItemSpec id="6428" x="652" y="567" type="1057" />
+<ItemSpec id="6510" x="584" y="568" type="1046" />
+<ItemSpec id="6526" x="600" y="568" type="1022" />
+<ItemSpec id="6558" x="632" y="568" type="1102" />
+<ItemSpec id="6639" x="563" y="569" type="1023" />
+<ItemSpec id="6695" x="619" y="569" type="1101" />
+<ItemSpec id="6705" x="629" y="569" type="1046" />
+<ItemSpec id="6718" x="642" y="569" type="1052" />
+<ItemSpec id="6789" x="563" y="570" type="1023" />
+<ItemSpec id="6815" x="589" y="570" type="1051" />
+<ItemSpec id="6817" x="591" y="570" type="1005" />
+<ItemSpec id="6845" x="619" y="570" type="1006" />
+<ItemSpec id="6846" x="620" y="570" type="1109" />
+<ItemSpec id="6867" x="641" y="570" type="1006" />
+<ItemSpec id="6934" x="558" y="571" type="1033" />
+<ItemSpec id="6935" x="559" y="571" type="1024" />
+<ItemSpec id="6936" x="560" y="571" type="1024" />
+<ItemSpec id="6937" x="561" y="571" type="1024" />
+<ItemSpec id="6938" x="562" y="571" type="1024" />
+<ItemSpec id="6939" x="563" y="571" type="1042" />
+<ItemSpec id="6948" x="572" y="571" type="1110" />
+<ItemSpec id="6949" x="573" y="571" type="1111" />
+<ItemSpec id="6966" x="590" y="571" type="1101" />
+<ItemSpec id="6995" x="619" y="571" type="1005" />
+<ItemSpec id="6996" x="620" y="571" type="1108" />
+<ItemSpec id="7017" x="641" y="571" type="1109" />
+<ItemSpec id="7100" x="574" y="572" type="1108" />
+<ItemSpec id="7117" x="591" y="572" type="1108" />
+<ItemSpec id="7126" x="600" y="572" type="1035" />
+<ItemSpec id="7148" x="622" y="572" type="1005" />
+<ItemSpec id="7267" x="591" y="573" type="1006" />
+<ItemSpec id="7276" x="600" y="573" type="1023" />
+<ItemSpec id="7290" x="614" y="573" type="1110" />
+<ItemSpec id="7291" x="615" y="573" type="1111" />
+<ItemSpec id="7396" x="570" y="574" type="1053" />
+<ItemSpec id="7408" x="582" y="574" type="1005" />
+<ItemSpec id="7426" x="600" y="574" type="1022" />
+<ItemSpec id="7441" x="615" y="574" type="1109" />
+<ItemSpec id="7442" x="616" y="574" type="1108" />
+<ItemSpec id="7547" x="571" y="575" type="1051" />
+<ItemSpec id="7590" x="614" y="575" type="1108" />
+<ItemSpec id="8036" x="610" y="578" type="1055" />
+<ItemSpec id="8039" x="613" y="578" type="1051" />
+<ItemSpec id="8162" x="586" y="579" type="1052" />
+<ItemSpec id="8325" x="599" y="580" type="1035" />
+<ItemSpec id="8418" x="542" y="581" type="1006" />
+<ItemSpec id="8430" x="554" y="581" type="1021" />
+<ItemSpec id="8440" x="564" y="581" type="1101" />
+<ItemSpec id="8475" x="599" y="581" type="1023" />
+<ItemSpec id="8590" x="564" y="582" type="1108" />
+<ItemSpec id="8613" x="587" y="582" type="1056" />
+<ItemSpec id="8625" x="599" y="582" type="1023" />
+<ItemSpec id="8737" x="561" y="583" type="1107" />
+<ItemSpec id="8739" x="563" y="583" type="1110" />
+<ItemSpec id="8775" x="599" y="583" type="1023" />
+<ItemSpec id="8785" x="609" y="583" type="1053" />
+<ItemSpec id="8925" x="599" y="584" type="1023" />
+<ItemSpec id="8932" x="606" y="584" type="1006" />
+<ItemSpec id="8943" x="617" y="584" type="1106" />
+<ItemSpec id="8957" x="631" y="584" type="1006" />
+<ItemSpec id="9075" x="599" y="585" type="1023" />
+<ItemSpec id="9083" x="607" y="585" type="1108" />
+<ItemSpec id="9106" x="630" y="585" type="1110" />
+<ItemSpec id="9107" x="631" y="585" type="1005" />
+<ItemSpec id="9213" x="587" y="586" type="1005" />
+<ItemSpec id="9215" x="589" y="586" type="1110" />
+<ItemSpec id="9225" x="599" y="586" type="1022" />
+<ItemSpec id="9237" x="611" y="586" type="1056" />
+<ItemSpec id="9257" x="631" y="586" type="1109" />
+<ItemSpec id="9268" x="642" y="586" type="1033" />
+<ItemSpec id="9269" x="643" y="586" type="1024" />
+<ItemSpec id="9270" x="644" y="586" type="1024" />
+<ItemSpec id="9271" x="645" y="586" type="1024" />
+<ItemSpec id="9272" x="646" y="586" type="1044" />
+<ItemSpec id="9365" x="589" y="587" type="1110" />
+<ItemSpec id="9422" x="646" y="587" type="1032" />
+<ItemSpec id="9572" x="646" y="588" type="1028" />
+<ItemSpec id="9640" x="564" y="589" type="1005" />
+<ItemSpec id="9662" x="586" y="589" type="1057" />
+<ItemSpec id="9722" x="646" y="589" type="1026" />
+<ItemSpec id="9740" x="664" y="589" type="1059" />
+<ItemSpec id="9802" x="576" y="590" type="1005" />
+<ItemSpec id="9846" x="620" y="590" type="1006" />
+<ItemSpec id="9872" x="646" y="590" type="1026" />
+<ItemSpec id="9925" x="549" y="591" type="1005" />
+<ItemSpec id="9937" x="561" y="591" type="1103" />
+<ItemSpec id="9996" x="620" y="591" type="1109" />
+<ItemSpec id="10022" x="646" y="591" type="1022" />
+<ItemSpec id="10086" x="560" y="592" type="1052" />
+<ItemSpec id="10171" x="645" y="592" type="1111" />
+<ItemSpec id="10270" x="594" y="593" type="1111" />
+<ItemSpec id="10282" x="606" y="593" type="1005" />
+<ItemSpec id="10322" x="646" y="593" type="1109" />
+<ItemSpec id="10439" x="613" y="594" type="1059" />
+<ItemSpec id="10465" x="639" y="594" type="1109" />
+<ItemSpec id="10471" x="645" y="594" type="1107" />
+<ItemSpec id="10537" x="561" y="595" type="1101" />
+<ItemSpec id="10567" x="591" y="595" type="1107" />
+<ItemSpec id="10579" x="603" y="595" type="1107" />
+<ItemSpec id="10613" x="637" y="595" type="1107" />
+<ItemSpec id="10632" x="656" y="595" type="1103" />
+<ItemSpec id="10639" x="663" y="595" type="1058" />
+<ItemSpec id="10676" x="550" y="596" type="1110" />
+<ItemSpec id="10677" x="551" y="596" type="1106" />
+<ItemSpec id="10713" x="587" y="596" type="1059" />
+<ItemSpec id="10806" x="530" y="597" type="1055" />
+<ItemSpec id="10993" x="567" y="598" type="1109" />
+<ItemSpec id="11041" x="615" y="598" type="1053" />
+<ItemSpec id="11083" x="657" y="598" type="1110" />
+<ItemSpec id="11141" x="565" y="599" type="1108" />
+<ItemSpec id="11142" x="566" y="599" type="1109" />
+<ItemSpec id="11194" x="618" y="599" type="1006" />
+<ItemSpec id="11237" x="661" y="599" type="1053" />
+<ItemSpec id="11290" x="564" y="600" type="1106" />
+<ItemSpec id="11338" x="612" y="600" type="1058" />
+<ItemSpec id="11494" x="618" y="601" type="1108" />
+<ItemSpec id="11574" x="548" y="602" type="1059" />
+<ItemSpec id="11613" x="587" y="602" type="1058" />
+<ItemSpec id="11638" x="612" y="602" type="1056" />
+<ItemSpec id="11666" x="640" y="602" type="1006" />
+<ItemSpec id="11813" x="637" y="603" type="1110" />
+<ItemSpec id="11821" x="645" y="603" type="1035" />
+<ItemSpec id="11879" x="553" y="604" type="1111" />
+<ItemSpec id="11971" x="645" y="604" type="1023" />
+<ItemSpec id="11978" x="652" y="604" type="1055" />
+<ItemSpec id="12028" x="552" y="605" type="1109" />
+<ItemSpec id="12064" x="588" y="605" type="1053" />
+<ItemSpec id="12113" x="637" y="605" type="1101" />
+<ItemSpec id="12121" x="645" y="605" type="1023" />
+<ItemSpec id="12149" x="673" y="605" type="1030" />
+<ItemSpec id="12180" x="554" y="606" type="1108" />
+<ItemSpec id="12260" x="634" y="606" type="1059" />
+<ItemSpec id="12271" x="645" y="606" type="1023" />
+<ItemSpec id="12324" x="548" y="607" type="1103" />
+<ItemSpec id="12327" x="551" y="607" type="1107" />
+<ItemSpec id="12342" x="566" y="607" type="1102" />
+<ItemSpec id="12382" x="606" y="607" type="1108" />
+<ItemSpec id="12421" x="645" y="607" type="1023" />
+<ItemSpec id="12453" x="527" y="608" type="1057" />
+<ItemSpec id="12473" x="547" y="608" type="1058" />
+<ItemSpec id="12493" x="567" y="608" type="1110" />
+<ItemSpec id="12517" x="591" y="608" type="1107" />
+<ItemSpec id="12530" x="604" y="608" type="1106" />
+<ItemSpec id="12571" x="645" y="608" type="1023" />
+<ItemSpec id="12606" x="530" y="609" type="1056" />
+<ItemSpec id="12687" x="611" y="609" type="1057" />
+<ItemSpec id="12721" x="645" y="609" type="1023" />
+<ItemSpec id="12723" x="647" y="609" type="1109" />
+<ItemSpec id="12862" x="636" y="610" type="1103" />
+<ItemSpec id="12871" x="645" y="610" type="1023" />
+<ItemSpec id="12969" x="593" y="611" type="1110" />
+<ItemSpec id="13003" x="627" y="611" type="1102" />
+<ItemSpec id="13005" x="629" y="611" type="1109" />
+<ItemSpec id="13021" x="645" y="611" type="1106" />
+<ItemSpec id="13076" x="550" y="612" type="1005" />
+<ItemSpec id="13090" x="564" y="612" type="1056" />
+<ItemSpec id="13091" x="565" y="612" type="1051" />
+<ItemSpec id="13126" x="600" y="612" type="1035" />
+<ItemSpec id="13154" x="628" y="612" type="1108" />
+<ItemSpec id="13159" x="633" y="612" type="1058" />
+<ItemSpec id="13276" x="600" y="613" type="1028" />
+<ItemSpec id="13308" x="632" y="613" type="1006" />
+<ItemSpec id="13312" x="636" y="613" type="1051" />
+<ItemSpec id="13413" x="587" y="614" type="1055" />
+<ItemSpec id="13415" x="589" y="614" type="1103" />
+<ItemSpec id="13426" x="600" y="614" type="1028" />
+<ItemSpec id="13442" x="616" y="614" type="1052" />
+<ItemSpec id="13534" x="558" y="615" type="1035" />
+<ItemSpec id="13576" x="600" y="615" type="1028" />
+<ItemSpec id="13588" x="612" y="615" type="1110" />
+<ItemSpec id="13684" x="558" y="616" type="1043" />
+<ItemSpec id="13685" x="559" y="616" type="1027" />
+<ItemSpec id="13686" x="560" y="616" type="1027" />
+<ItemSpec id="13687" x="561" y="616" type="1027" />
+<ItemSpec id="13688" x="562" y="616" type="1034" />
+<ItemSpec id="13726" x="600" y="616" type="1028" />
+<ItemSpec id="13737" x="611" y="616" type="1055" />
+<ItemSpec id="13739" x="613" y="616" type="1110" />
+<ItemSpec id="13876" x="600" y="617" type="1022" />
+<ItemSpec id="13886" x="610" y="617" type="1051" />
+<ItemSpec id="13992" x="566" y="618" type="1035" />
+<ItemSpec id="14142" x="566" y="619" type="1029" />
+<ItemSpec id="14157" x="581" y="619" type="1056" />
+<ItemSpec id="14205" x="629" y="619" type="1033" />
+<ItemSpec id="14206" x="630" y="619" type="1027" />
+<ItemSpec id="14207" x="631" y="619" type="1027" />
+<ItemSpec id="14208" x="632" y="619" type="1027" />
+<ItemSpec id="14209" x="633" y="619" type="1027" />
+<ItemSpec id="14210" x="634" y="619" type="1027" />
+<ItemSpec id="14211" x="635" y="619" type="1027" />
+<ItemSpec id="14212" x="636" y="619" type="1027" />
+<ItemSpec id="14213" x="637" y="619" type="1027" />
+<ItemSpec id="14214" x="638" y="619" type="1027" />
+<ItemSpec id="14215" x="639" y="619" type="1034" />
+<ItemSpec id="14269" x="543" y="620" type="1006" />
+<ItemSpec id="14292" x="566" y="620" type="1038" />
+<ItemSpec id="14293" x="567" y="620" type="1030" />
+<ItemSpec id="14294" x="568" y="620" type="1034" />
+<ItemSpec id="14442" x="566" y="621" type="1023" />
+<ItemSpec id="14592" x="566" y="622" type="1029" />
+<ItemSpec id="14742" x="566" y="623" type="1023" />
+<ItemSpec id="14789" x="613" y="623" type="1056" />
+<ItemSpec id="14892" x="566" y="624" type="1023" />
+<ItemSpec id="14916" x="590" y="624" type="1059" />
+<ItemSpec id="15038" x="562" y="625" type="1108" />
+<ItemSpec id="15042" x="566" y="625" type="1023" />
+<ItemSpec id="15099" x="623" y="625" type="1101" />
+<ItemSpec id="15186" x="560" y="626" type="1107" />
+<ItemSpec id="15192" x="566" y="626" type="1023" />
+<ItemSpec id="15249" x="623" y="626" type="1108" />
+<ItemSpec id="15342" x="566" y="627" type="1022" />
+<ItemSpec id="15376" x="600" y="627" type="1035" />
+<ItemSpec id="15384" x="608" y="627" type="1057" />
+<ItemSpec id="15526" x="600" y="628" type="1023" />
+<ItemSpec id="15676" x="600" y="629" type="1023" />
+<ItemSpec id="15681" x="605" y="629" type="1102" />
+<ItemSpec id="15815" x="589" y="630" type="1058" />
+<ItemSpec id="15826" x="600" y="630" type="1023" />
+<ItemSpec id="15832" x="606" y="630" type="1108" />
+<ItemSpec id="15976" x="600" y="631" type="1022" />
+<ItemSpec id="16117" x="591" y="632" type="1005" />
+<ItemSpec id="16118" x="592" y="632" type="1006" />
+<ItemSpec id="16137" x="611" y="632" type="1052" />
+<ItemSpec id="16139" x="613" y="632" type="1103" />
+<ItemSpec id="16220" x="544" y="633" type="1005" />
+<ItemSpec id="16233" x="557" y="633" type="1053" />
+<ItemSpec id="16260" x="584" y="633" type="1006" />
+<ItemSpec id="16263" x="587" y="633" type="1053" />
+<ItemSpec id="16266" x="590" y="633" type="1101" />
+<ItemSpec id="16286" x="610" y="633" type="1056" />
+<ItemSpec id="16287" x="611" y="633" type="1110" />
+<ItemSpec id="16318" x="642" y="633" type="1110" />
+<ItemSpec id="16370" x="544" y="634" type="1109" />
+<ItemSpec id="16409" x="583" y="634" type="1005" />
+<ItemSpec id="16415" x="589" y="634" type="1051" />
+<ItemSpec id="16468" x="642" y="634" type="1109" />
+<ItemSpec id="16567" x="591" y="635" type="1033" />
+<ItemSpec id="16568" x="592" y="635" type="1027" />
+<ItemSpec id="16569" x="593" y="635" type="1027" />
+<ItemSpec id="16570" x="594" y="635" type="1027" />
+<ItemSpec id="16571" x="595" y="635" type="1034" />
+<ItemSpec id="16618" x="642" y="635" type="1108" />
+<ItemSpec id="16619" x="643" y="635" type="1101" />
+<ItemSpec id="16634" x="658" y="635" type="1110" />
+<ItemSpec id="16640" x="664" y="635" type="1057" />
+<ItemSpec id="16666" x="540" y="636" type="1053" />
+<ItemSpec id="16698" x="572" y="636" type="1005" />
+<ItemSpec id="16834" x="558" y="637" type="1056" />
+<ItemSpec id="17016" x="590" y="638" type="1006" />
+<ItemSpec id="17289" x="563" y="640" type="1005" />
+<ItemSpec id="17443" x="567" y="641" type="1006" />
+<ItemSpec id="17507" x="631" y="641" type="1110" />
+<ItemSpec id="17742" x="566" y="643" type="1006" />
+<ItemSpec id="17743" x="567" y="643" type="1005" />
+<ItemSpec id="17807" x="631" y="643" type="1108" />
+<ItemSpec id="17888" x="562" y="644" type="1006" />
+<ItemSpec id="17969" x="643" y="644" type="1006" />
+<ItemSpec id="17970" x="644" y="644" type="1005" />
+<ItemSpec id="17979" x="653" y="644" type="1055" />
+<ItemSpec id="18092" x="616" y="645" type="1109" />
+<ItemSpec id="18120" x="644" y="645" type="1109" />
+<ItemSpec id="18240" x="614" y="646" type="1106" />
+<ItemSpec id="18261" x="635" y="646" type="1005" />
+<ItemSpec id="18271" x="645" y="646" type="1108" />
+<ItemSpec id="18411" x="635" y="647" type="1006" />
+<ItemSpec id="18561" x="635" y="648" type="1109" />
+<ItemSpec id="18562" x="636" y="648" type="1108" />
+<ItemSpec id="18564" x="638" y="648" type="1006" />
+<ItemSpec id="18656" x="580" y="649" type="1102" />
+<ItemSpec id="18657" x="581" y="649" type="1109" />
+<ItemSpec id="18698" x="622" y="649" type="1046" />
+<ItemSpec id="18714" x="638" y="649" type="1109" />
+<ItemSpec id="18804" x="578" y="650" type="1052" />
+<ItemSpec id="18975" x="599" y="651" type="1021" />
+<ItemSpec id="19011" x="635" y="651" type="1005" />
+<ItemSpec id="19013" x="637" y="651" type="1005" />
+<ItemSpec id="19014" x="638" y="651" type="1006" />
+<ItemSpec id="19178" x="652" y="652" type="1059" />
+<ItemSpec id="19282" x="606" y="653" type="1102" />
+<ItemSpec id="19311" x="635" y="653" type="1108" />
+<ItemSpec id="19583" x="607" y="655" type="1103" />
+<ItemSpec id="19584" x="608" y="655" type="1108" />
+<ItemSpec id="19913" x="637" y="657" type="1005" />
+<ItemSpec id="19925" x="649" y="657" type="1103" />
+<ItemSpec id="20064" x="638" y="658" type="1109" />
+<ItemSpec id="20077" x="651" y="658" type="1058" />
+<ItemSpec id="20214" x="638" y="659" type="1108" />
+<ItemSpec id="21279" x="653" y="666" type="1052" />
+<ItemSpec id="22387" x="561" y="674" type="1055" />
+
+    </Group >
+	
+	    <!-- 箱神，全明星赛专用地图资源-->  
+	<Group id="Dragon_wartile_star_position">
+<ItemSpec id="675" x="599" y="529" type="1003" />
+<ItemSpec id="1565" x="589" y="535" type="1004" />
+<ItemSpec id="1585" x="609" y="535" type="1002" />
+<ItemSpec id="6663" x="587" y="569" type="44" />
+<ItemSpec id="6664" x="588" y="569" type="45" />
+<ItemSpec id="6665" x="589" y="569" type="46" />
+<ItemSpec id="6686" x="610" y="569" type="44" />
+<ItemSpec id="6687" x="611" y="569" type="45" />
+<ItemSpec id="6688" x="612" y="569" type="46" />
+<ItemSpec id="6813" x="587" y="570" type="47" />
+<ItemSpec id="6814" x="588" y="570" type="48" />
+<ItemSpec id="6815" x="589" y="570" type="49" />
+<ItemSpec id="6836" x="610" y="570" type="47" />
+<ItemSpec id="6837" x="611" y="570" type="48" />
+<ItemSpec id="6838" x="612" y="570" type="49" />
+<ItemSpec id="6963" x="587" y="571" type="50" />
+<ItemSpec id="6964" x="588" y="571" type="51" />
+<ItemSpec id="6965" x="589" y="571" type="52" />
+<ItemSpec id="6986" x="610" y="571" type="50" />
+<ItemSpec id="6987" x="611" y="571" type="51" />
+<ItemSpec id="6988" x="612" y="571" type="52" />
+<ItemSpec id="7113" x="587" y="572" type="44" />
+<ItemSpec id="7114" x="588" y="572" type="45" />
+<ItemSpec id="7115" x="589" y="572" type="46" />
+<ItemSpec id="7136" x="610" y="572" type="44" />
+<ItemSpec id="7137" x="611" y="572" type="45" />
+<ItemSpec id="7138" x="612" y="572" type="46" />
+<ItemSpec id="7263" x="587" y="573" type="47" />
+<ItemSpec id="7264" x="588" y="573" type="48" />
+<ItemSpec id="7265" x="589" y="573" type="49" />
+<ItemSpec id="7286" x="610" y="573" type="47" />
+<ItemSpec id="7287" x="611" y="573" type="48" />
+<ItemSpec id="7288" x="612" y="573" type="49" />
+<ItemSpec id="7413" x="587" y="574" type="50" />
+<ItemSpec id="7414" x="588" y="574" type="51" />
+<ItemSpec id="7415" x="589" y="574" type="52" />
+<ItemSpec id="7436" x="610" y="574" type="50" />
+<ItemSpec id="7437" x="611" y="574" type="51" />
+<ItemSpec id="7438" x="612" y="574" type="52" />
+<ItemSpec id="7563" x="587" y="575" type="44" />
+<ItemSpec id="7564" x="588" y="575" type="45" />
+<ItemSpec id="7565" x="589" y="575" type="46" />
+<ItemSpec id="7586" x="610" y="575" type="44" />
+<ItemSpec id="7587" x="611" y="575" type="45" />
+<ItemSpec id="7588" x="612" y="575" type="46" />
+<ItemSpec id="7713" x="587" y="576" type="47" />
+<ItemSpec id="7714" x="588" y="576" type="48" />
+<ItemSpec id="7715" x="589" y="576" type="49" />
+<ItemSpec id="7736" x="610" y="576" type="47" />
+<ItemSpec id="7737" x="611" y="576" type="48" />
+<ItemSpec id="7738" x="612" y="576" type="49" />
+<ItemSpec id="7863" x="587" y="577" type="50" />
+<ItemSpec id="7864" x="588" y="577" type="51" />
+<ItemSpec id="7865" x="589" y="577" type="52" />
+<ItemSpec id="7886" x="610" y="577" type="50" />
+<ItemSpec id="7887" x="611" y="577" type="51" />
+<ItemSpec id="7888" x="612" y="577" type="52" />
+<ItemSpec id="8013" x="587" y="578" type="44" />
+<ItemSpec id="8014" x="588" y="578" type="45" />
+<ItemSpec id="8015" x="589" y="578" type="46" />
+<ItemSpec id="8036" x="610" y="578" type="44" />
+<ItemSpec id="8037" x="611" y="578" type="45" />
+<ItemSpec id="8038" x="612" y="578" type="46" />
+<ItemSpec id="8163" x="587" y="579" type="47" />
+<ItemSpec id="8164" x="588" y="579" type="48" />
+<ItemSpec id="8165" x="589" y="579" type="49" />
+<ItemSpec id="8186" x="610" y="579" type="47" />
+<ItemSpec id="8187" x="611" y="579" type="48" />
+<ItemSpec id="8188" x="612" y="579" type="49" />
+<ItemSpec id="8313" x="587" y="580" type="50" />
+<ItemSpec id="8314" x="588" y="580" type="51" />
+<ItemSpec id="8315" x="589" y="580" type="52" />
+<ItemSpec id="8336" x="610" y="580" type="50" />
+<ItemSpec id="8337" x="611" y="580" type="51" />
+<ItemSpec id="8338" x="612" y="580" type="52" />
+<ItemSpec id="8463" x="587" y="581" type="44" />
+<ItemSpec id="8464" x="588" y="581" type="45" />
+<ItemSpec id="8465" x="589" y="581" type="46" />
+<ItemSpec id="8486" x="610" y="581" type="44" />
+<ItemSpec id="8487" x="611" y="581" type="45" />
+<ItemSpec id="8488" x="612" y="581" type="46" />
+<ItemSpec id="8613" x="587" y="582" type="47" />
+<ItemSpec id="8614" x="588" y="582" type="48" />
+<ItemSpec id="8615" x="589" y="582" type="49" />
+<ItemSpec id="8636" x="610" y="582" type="47" />
+<ItemSpec id="8637" x="611" y="582" type="48" />
+<ItemSpec id="8638" x="612" y="582" type="49" />
+<ItemSpec id="8763" x="587" y="583" type="50" />
+<ItemSpec id="8764" x="588" y="583" type="51" />
+<ItemSpec id="8765" x="589" y="583" type="52" />
+<ItemSpec id="8786" x="610" y="583" type="50" />
+<ItemSpec id="8787" x="611" y="583" type="51" />
+<ItemSpec id="8788" x="612" y="583" type="52" />
+<ItemSpec id="8913" x="587" y="584" type="44" />
+<ItemSpec id="8914" x="588" y="584" type="45" />
+<ItemSpec id="8915" x="589" y="584" type="46" />
+<ItemSpec id="8936" x="610" y="584" type="44" />
+<ItemSpec id="8937" x="611" y="584" type="45" />
+<ItemSpec id="8938" x="612" y="584" type="46" />
+<ItemSpec id="9063" x="587" y="585" type="47" />
+<ItemSpec id="9064" x="588" y="585" type="48" />
+<ItemSpec id="9065" x="589" y="585" type="49" />
+<ItemSpec id="9086" x="610" y="585" type="47" />
+<ItemSpec id="9087" x="611" y="585" type="48" />
+<ItemSpec id="9088" x="612" y="585" type="49" />
+<ItemSpec id="9213" x="587" y="586" type="50" />
+<ItemSpec id="9214" x="588" y="586" type="51" />
+<ItemSpec id="9215" x="589" y="586" type="52" />
+<ItemSpec id="9236" x="610" y="586" type="50" />
+<ItemSpec id="9237" x="611" y="586" type="51" />
+<ItemSpec id="9238" x="612" y="586" type="52" />
+<ItemSpec id="9363" x="587" y="587" type="44" />
+<ItemSpec id="9364" x="588" y="587" type="45" />
+<ItemSpec id="9365" x="589" y="587" type="46" />
+<ItemSpec id="9386" x="610" y="587" type="44" />
+<ItemSpec id="9387" x="611" y="587" type="45" />
+<ItemSpec id="9388" x="612" y="587" type="46" />
+<ItemSpec id="9513" x="587" y="588" type="47" />
+<ItemSpec id="9514" x="588" y="588" type="48" />
+<ItemSpec id="9515" x="589" y="588" type="49" />
+<ItemSpec id="9536" x="610" y="588" type="47" />
+<ItemSpec id="9537" x="611" y="588" type="48" />
+<ItemSpec id="9538" x="612" y="588" type="49" />
+<ItemSpec id="9663" x="587" y="589" type="50" />
+<ItemSpec id="9664" x="588" y="589" type="51" />
+<ItemSpec id="9665" x="589" y="589" type="52" />
+<ItemSpec id="9686" x="610" y="589" type="50" />
+<ItemSpec id="9687" x="611" y="589" type="51" />
+<ItemSpec id="9688" x="612" y="589" type="52" />
+<ItemSpec id="9813" x="587" y="590" type="44" />
+<ItemSpec id="9814" x="588" y="590" type="45" />
+<ItemSpec id="9815" x="589" y="590" type="46" />
+<ItemSpec id="9836" x="610" y="590" type="44" />
+<ItemSpec id="9837" x="611" y="590" type="45" />
+<ItemSpec id="9838" x="612" y="590" type="46" />
+<ItemSpec id="9963" x="587" y="591" type="47" />
+<ItemSpec id="9964" x="588" y="591" type="48" />
+<ItemSpec id="9965" x="589" y="591" type="49" />
+<ItemSpec id="9986" x="610" y="591" type="47" />
+<ItemSpec id="9987" x="611" y="591" type="48" />
+<ItemSpec id="9988" x="612" y="591" type="49" />
+<ItemSpec id="10113" x="587" y="592" type="50" />
+<ItemSpec id="10114" x="588" y="592" type="51" />
+<ItemSpec id="10115" x="589" y="592" type="52" />
+<ItemSpec id="10136" x="610" y="592" type="50" />
+<ItemSpec id="10137" x="611" y="592" type="51" />
+<ItemSpec id="10138" x="612" y="592" type="52" />
+<ItemSpec id="10263" x="587" y="593" type="44" />
+<ItemSpec id="10264" x="588" y="593" type="45" />
+<ItemSpec id="10265" x="589" y="593" type="46" />
+<ItemSpec id="10286" x="610" y="593" type="44" />
+<ItemSpec id="10287" x="611" y="593" type="45" />
+<ItemSpec id="10288" x="612" y="593" type="46" />
+<ItemSpec id="10413" x="587" y="594" type="47" />
+<ItemSpec id="10414" x="588" y="594" type="48" />
+<ItemSpec id="10415" x="589" y="594" type="49" />
+<ItemSpec id="10436" x="610" y="594" type="47" />
+<ItemSpec id="10437" x="611" y="594" type="48" />
+<ItemSpec id="10438" x="612" y="594" type="49" />
+<ItemSpec id="10563" x="587" y="595" type="50" />
+<ItemSpec id="10564" x="588" y="595" type="51" />
+<ItemSpec id="10565" x="589" y="595" type="52" />
+<ItemSpec id="10586" x="610" y="595" type="50" />
+<ItemSpec id="10587" x="611" y="595" type="51" />
+<ItemSpec id="10588" x="612" y="595" type="52" />
+<ItemSpec id="10713" x="587" y="596" type="44" />
+<ItemSpec id="10714" x="588" y="596" type="45" />
+<ItemSpec id="10715" x="589" y="596" type="46" />
+<ItemSpec id="10736" x="610" y="596" type="44" />
+<ItemSpec id="10737" x="611" y="596" type="45" />
+<ItemSpec id="10738" x="612" y="596" type="46" />
+<ItemSpec id="10863" x="587" y="597" type="47" />
+<ItemSpec id="10864" x="588" y="597" type="48" />
+<ItemSpec id="10865" x="589" y="597" type="49" />
+<ItemSpec id="10886" x="610" y="597" type="47" />
+<ItemSpec id="10887" x="611" y="597" type="48" />
+<ItemSpec id="10888" x="612" y="597" type="49" />
+<ItemSpec id="11013" x="587" y="598" type="50" />
+<ItemSpec id="11014" x="588" y="598" type="51" />
+<ItemSpec id="11015" x="589" y="598" type="52" />
+<ItemSpec id="11036" x="610" y="598" type="50" />
+<ItemSpec id="11037" x="611" y="598" type="51" />
+<ItemSpec id="11038" x="612" y="598" type="52" />
+<ItemSpec id="11163" x="587" y="599" type="44" />
+<ItemSpec id="11164" x="588" y="599" type="45" />
+<ItemSpec id="11165" x="589" y="599" type="46" />
+<ItemSpec id="11186" x="610" y="599" type="44" />
+<ItemSpec id="11187" x="611" y="599" type="45" />
+<ItemSpec id="11188" x="612" y="599" type="46" />
+<ItemSpec id="11313" x="587" y="600" type="47" />
+<ItemSpec id="11314" x="588" y="600" type="48" />
+<ItemSpec id="11315" x="589" y="600" type="49" />
+<ItemSpec id="11336" x="610" y="600" type="47" />
+<ItemSpec id="11337" x="611" y="600" type="48" />
+<ItemSpec id="11338" x="612" y="600" type="49" />
+<ItemSpec id="11463" x="587" y="601" type="50" />
+<ItemSpec id="11464" x="588" y="601" type="51" />
+<ItemSpec id="11465" x="589" y="601" type="52" />
+<ItemSpec id="11486" x="610" y="601" type="50" />
+<ItemSpec id="11487" x="611" y="601" type="51" />
+<ItemSpec id="11488" x="612" y="601" type="52" />
+<ItemSpec id="11613" x="587" y="602" type="44" />
+<ItemSpec id="11614" x="588" y="602" type="45" />
+<ItemSpec id="11615" x="589" y="602" type="46" />
+<ItemSpec id="11636" x="610" y="602" type="44" />
+<ItemSpec id="11637" x="611" y="602" type="45" />
+<ItemSpec id="11638" x="612" y="602" type="46" />
+<ItemSpec id="11763" x="587" y="603" type="47" />
+<ItemSpec id="11764" x="588" y="603" type="48" />
+<ItemSpec id="11765" x="589" y="603" type="49" />
+<ItemSpec id="11786" x="610" y="603" type="47" />
+<ItemSpec id="11787" x="611" y="603" type="48" />
+<ItemSpec id="11788" x="612" y="603" type="49" />
+<ItemSpec id="11913" x="587" y="604" type="50" />
+<ItemSpec id="11914" x="588" y="604" type="51" />
+<ItemSpec id="11915" x="589" y="604" type="52" />
+<ItemSpec id="11936" x="610" y="604" type="50" />
+<ItemSpec id="11937" x="611" y="604" type="51" />
+<ItemSpec id="11938" x="612" y="604" type="52" />
+<ItemSpec id="12063" x="587" y="605" type="44" />
+<ItemSpec id="12064" x="588" y="605" type="45" />
+<ItemSpec id="12065" x="589" y="605" type="46" />
+<ItemSpec id="12086" x="610" y="605" type="44" />
+<ItemSpec id="12087" x="611" y="605" type="45" />
+<ItemSpec id="12088" x="612" y="605" type="46" />
+<ItemSpec id="12213" x="587" y="606" type="47" />
+<ItemSpec id="12214" x="588" y="606" type="48" />
+<ItemSpec id="12215" x="589" y="606" type="49" />
+<ItemSpec id="12236" x="610" y="606" type="47" />
+<ItemSpec id="12237" x="611" y="606" type="48" />
+<ItemSpec id="12238" x="612" y="606" type="49" />
+<ItemSpec id="12363" x="587" y="607" type="50" />
+<ItemSpec id="12364" x="588" y="607" type="51" />
+<ItemSpec id="12365" x="589" y="607" type="52" />
+<ItemSpec id="12386" x="610" y="607" type="50" />
+<ItemSpec id="12387" x="611" y="607" type="51" />
+<ItemSpec id="12388" x="612" y="607" type="52" />
+<ItemSpec id="12513" x="587" y="608" type="44" />
+<ItemSpec id="12514" x="588" y="608" type="45" />
+<ItemSpec id="12515" x="589" y="608" type="46" />
+<ItemSpec id="12536" x="610" y="608" type="44" />
+<ItemSpec id="12537" x="611" y="608" type="45" />
+<ItemSpec id="12538" x="612" y="608" type="46" />
+<ItemSpec id="12663" x="587" y="609" type="47" />
+<ItemSpec id="12664" x="588" y="609" type="48" />
+<ItemSpec id="12665" x="589" y="609" type="49" />
+<ItemSpec id="12686" x="610" y="609" type="47" />
+<ItemSpec id="12687" x="611" y="609" type="48" />
+<ItemSpec id="12688" x="612" y="609" type="49" />
+<ItemSpec id="12813" x="587" y="610" type="50" />
+<ItemSpec id="12814" x="588" y="610" type="51" />
+<ItemSpec id="12815" x="589" y="610" type="52" />
+<ItemSpec id="12836" x="610" y="610" type="50" />
+<ItemSpec id="12837" x="611" y="610" type="51" />
+<ItemSpec id="12838" x="612" y="610" type="52" />
+<ItemSpec id="12963" x="587" y="611" type="44" />
+<ItemSpec id="12964" x="588" y="611" type="45" />
+<ItemSpec id="12965" x="589" y="611" type="46" />
+<ItemSpec id="12986" x="610" y="611" type="44" />
+<ItemSpec id="12987" x="611" y="611" type="45" />
+<ItemSpec id="12988" x="612" y="611" type="46" />
+<ItemSpec id="13113" x="587" y="612" type="47" />
+<ItemSpec id="13114" x="588" y="612" type="48" />
+<ItemSpec id="13115" x="589" y="612" type="49" />
+<ItemSpec id="13136" x="610" y="612" type="47" />
+<ItemSpec id="13137" x="611" y="612" type="48" />
+<ItemSpec id="13138" x="612" y="612" type="49" />
+<ItemSpec id="13263" x="587" y="613" type="50" />
+<ItemSpec id="13264" x="588" y="613" type="51" />
+<ItemSpec id="13265" x="589" y="613" type="52" />
+<ItemSpec id="13286" x="610" y="613" type="50" />
+<ItemSpec id="13287" x="611" y="613" type="51" />
+<ItemSpec id="13288" x="612" y="613" type="52" />
+<ItemSpec id="13413" x="587" y="614" type="44" />
+<ItemSpec id="13414" x="588" y="614" type="45" />
+<ItemSpec id="13415" x="589" y="614" type="46" />
+<ItemSpec id="13436" x="610" y="614" type="44" />
+<ItemSpec id="13437" x="611" y="614" type="45" />
+<ItemSpec id="13438" x="612" y="614" type="46" />
+<ItemSpec id="13563" x="587" y="615" type="47" />
+<ItemSpec id="13564" x="588" y="615" type="48" />
+<ItemSpec id="13565" x="589" y="615" type="49" />
+<ItemSpec id="13586" x="610" y="615" type="47" />
+<ItemSpec id="13587" x="611" y="615" type="48" />
+<ItemSpec id="13588" x="612" y="615" type="49" />
+<ItemSpec id="13713" x="587" y="616" type="50" />
+<ItemSpec id="13714" x="588" y="616" type="51" />
+<ItemSpec id="13715" x="589" y="616" type="52" />
+<ItemSpec id="13736" x="610" y="616" type="50" />
+<ItemSpec id="13737" x="611" y="616" type="51" />
+<ItemSpec id="13738" x="612" y="616" type="52" />
+<ItemSpec id="13863" x="587" y="617" type="44" />
+<ItemSpec id="13864" x="588" y="617" type="45" />
+<ItemSpec id="13865" x="589" y="617" type="46" />
+<ItemSpec id="13886" x="610" y="617" type="44" />
+<ItemSpec id="13887" x="611" y="617" type="45" />
+<ItemSpec id="13888" x="612" y="617" type="46" />
+<ItemSpec id="14013" x="587" y="618" type="47" />
+<ItemSpec id="14014" x="588" y="618" type="48" />
+<ItemSpec id="14015" x="589" y="618" type="49" />
+<ItemSpec id="14036" x="610" y="618" type="47" />
+<ItemSpec id="14037" x="611" y="618" type="48" />
+<ItemSpec id="14038" x="612" y="618" type="49" />
+<ItemSpec id="14163" x="587" y="619" type="50" />
+<ItemSpec id="14164" x="588" y="619" type="51" />
+<ItemSpec id="14165" x="589" y="619" type="52" />
+<ItemSpec id="14186" x="610" y="619" type="50" />
+<ItemSpec id="14187" x="611" y="619" type="51" />
+<ItemSpec id="14188" x="612" y="619" type="52" />
+<ItemSpec id="14313" x="587" y="620" type="44" />
+<ItemSpec id="14314" x="588" y="620" type="45" />
+<ItemSpec id="14315" x="589" y="620" type="46" />
+<ItemSpec id="14336" x="610" y="620" type="44" />
+<ItemSpec id="14337" x="611" y="620" type="45" />
+<ItemSpec id="14338" x="612" y="620" type="46" />
+<ItemSpec id="14463" x="587" y="621" type="47" />
+<ItemSpec id="14464" x="588" y="621" type="48" />
+<ItemSpec id="14465" x="589" y="621" type="49" />
+<ItemSpec id="14486" x="610" y="621" type="47" />
+<ItemSpec id="14487" x="611" y="621" type="48" />
+<ItemSpec id="14488" x="612" y="621" type="49" />
+<ItemSpec id="14613" x="587" y="622" type="50" />
+<ItemSpec id="14614" x="588" y="622" type="51" />
+<ItemSpec id="14615" x="589" y="622" type="52" />
+<ItemSpec id="14636" x="610" y="622" type="50" />
+<ItemSpec id="14637" x="611" y="622" type="51" />
+<ItemSpec id="14638" x="612" y="622" type="52" />
+<ItemSpec id="14763" x="587" y="623" type="44" />
+<ItemSpec id="14764" x="588" y="623" type="45" />
+<ItemSpec id="14765" x="589" y="623" type="46" />
+<ItemSpec id="14786" x="610" y="623" type="44" />
+<ItemSpec id="14787" x="611" y="623" type="45" />
+<ItemSpec id="14788" x="612" y="623" type="46" />
+<ItemSpec id="14913" x="587" y="624" type="47" />
+<ItemSpec id="14914" x="588" y="624" type="48" />
+<ItemSpec id="14915" x="589" y="624" type="49" />
+<ItemSpec id="14936" x="610" y="624" type="47" />
+<ItemSpec id="14937" x="611" y="624" type="48" />
+<ItemSpec id="14938" x="612" y="624" type="49" />
+<ItemSpec id="15063" x="587" y="625" type="50" />
+<ItemSpec id="15064" x="588" y="625" type="51" />
+<ItemSpec id="15065" x="589" y="625" type="52" />
+<ItemSpec id="15086" x="610" y="625" type="50" />
+<ItemSpec id="15087" x="611" y="625" type="51" />
+<ItemSpec id="15088" x="612" y="625" type="52" />
+<ItemSpec id="15213" x="587" y="626" type="44" />
+<ItemSpec id="15214" x="588" y="626" type="45" />
+<ItemSpec id="15215" x="589" y="626" type="46" />
+<ItemSpec id="15236" x="610" y="626" type="44" />
+<ItemSpec id="15237" x="611" y="626" type="45" />
+<ItemSpec id="15238" x="612" y="626" type="46" />
+<ItemSpec id="15363" x="587" y="627" type="47" />
+<ItemSpec id="15364" x="588" y="627" type="48" />
+<ItemSpec id="15365" x="589" y="627" type="49" />
+<ItemSpec id="15386" x="610" y="627" type="47" />
+<ItemSpec id="15387" x="611" y="627" type="48" />
+<ItemSpec id="15388" x="612" y="627" type="49" />
+<ItemSpec id="15513" x="587" y="628" type="50" />
+<ItemSpec id="15514" x="588" y="628" type="51" />
+<ItemSpec id="15515" x="589" y="628" type="52" />
+<ItemSpec id="15536" x="610" y="628" type="50" />
+<ItemSpec id="15537" x="611" y="628" type="51" />
+<ItemSpec id="15538" x="612" y="628" type="52" />
+<ItemSpec id="15663" x="587" y="629" type="44" />
+<ItemSpec id="15664" x="588" y="629" type="45" />
+<ItemSpec id="15665" x="589" y="629" type="46" />
+<ItemSpec id="15686" x="610" y="629" type="44" />
+<ItemSpec id="15687" x="611" y="629" type="45" />
+<ItemSpec id="15688" x="612" y="629" type="46" />
+<ItemSpec id="15813" x="587" y="630" type="47" />
+<ItemSpec id="15814" x="588" y="630" type="48" />
+<ItemSpec id="15815" x="589" y="630" type="49" />
+<ItemSpec id="15836" x="610" y="630" type="47" />
+<ItemSpec id="15837" x="611" y="630" type="48" />
+<ItemSpec id="15838" x="612" y="630" type="49" />
+<ItemSpec id="15963" x="587" y="631" type="50" />
+<ItemSpec id="15964" x="588" y="631" type="51" />
+<ItemSpec id="15965" x="589" y="631" type="52" />
+<ItemSpec id="15986" x="610" y="631" type="50" />
+<ItemSpec id="15987" x="611" y="631" type="51" />
+<ItemSpec id="15988" x="612" y="631" type="52" />
+<ItemSpec id="21825" x="599" y="670" type="1001" />
+<ItemSpec id="22414" x="588" y="674" type="1004" />
+<ItemSpec id="22435" x="609" y="674" type="1002" />
+		<ItemSpec id="214" x="588" y="526" type="1114" />
+		<ItemSpec id="235" x="609" y="526" type="1114" />
+		<ItemSpec id="366" x="590" y="527" type="1117" />
+		<ItemSpec id="386" x="610" y="527" type="1114" />
+		<ItemSpec id="387" x="611" y="527" type="1117" />
+		<ItemSpec id="685" x="609" y="529" type="1114" />
+		<ItemSpec id="686" x="610" y="529" type="1117" />
+		<ItemSpec id="814" x="588" y="530" type="1114" />
+		<ItemSpec id="815" x="589" y="530" type="1114" />
+		<ItemSpec id="966" x="590" y="531" type="1117" />
+		<ItemSpec id="985" x="609" y="531" type="1112" />
+		<ItemSpec id="1136" x="610" y="532" type="1114" />
+		<ItemSpec id="1564" x="588" y="535" type="1123" />
+		<ItemSpec id="1714" x="588" y="536" type="1122" />
+		<ItemSpec id="1716" x="590" y="536" type="1122" />
+		<ItemSpec id="1734" x="608" y="536" type="1122" />
+		<ItemSpec id="1735" x="609" y="536" type="1122" />
+		<ItemSpec id="1746" x="620" y="536" type="1005" />
+		<ItemSpec id="1829" x="553" y="537" type="1055" />
+		<ItemSpec id="1866" x="590" y="537" type="1123" />
+		<ItemSpec id="1896" x="620" y="537" type="1109" />
+		<ItemSpec id="2014" x="588" y="538" type="1131" />
+		<ItemSpec id="2015" x="589" y="538" type="1131" />
+		<ItemSpec id="2016" x="590" y="538" type="1131" />
+		<ItemSpec id="2017" x="591" y="538" type="1131" />
+		<ItemSpec id="2031" x="605" y="538" type="1131" />
+		<ItemSpec id="2032" x="606" y="538" type="1131" />
+		<ItemSpec id="2033" x="607" y="538" type="1131" />
+		<ItemSpec id="2034" x="608" y="538" type="1131" />
+		<ItemSpec id="2045" x="619" y="538" type="1005" />
+		<ItemSpec id="2193" x="617" y="539" type="1110" />
+		<ItemSpec id="2195" x="619" y="539" type="1005" />
+		<ItemSpec id="2346" x="620" y="540" type="1006" />
+		<ItemSpec id="2370" x="644" y="540" type="1055" />
+		<ItemSpec id="2459" x="583" y="541" type="1110" />
+		<ItemSpec id="2486" x="610" y="541" type="1117" />
+		<ItemSpec id="2490" x="614" y="541" type="1056" />
+		<ItemSpec id="2496" x="620" y="541" type="1109" />
+		<ItemSpec id="2497" x="621" y="541" type="1108" />
+		<ItemSpec id="2577" x="551" y="542" type="1053" />
+		<ItemSpec id="2579" x="553" y="542" type="1051" />
+		<ItemSpec id="2619" x="593" y="542" type="1005" />
+		<ItemSpec id="2769" x="593" y="543" type="1006" />
+		<ItemSpec id="2831" x="655" y="543" type="1056" />
+		<ItemSpec id="2920" x="594" y="544" type="1108" />
+		<ItemSpec id="2924" x="598" y="544" type="1006" />
+		<ItemSpec id="3059" x="583" y="545" type="1005" />
+		<ItemSpec id="3237" x="611" y="546" type="1131" />
+		<ItemSpec id="3244" x="618" y="546" type="1101" />
+		<ItemSpec id="3245" x="619" y="546" type="1108" />
+		<ItemSpec id="3368" x="592" y="547" type="1005" />
+		<ItemSpec id="3369" x="593" y="547" type="1006" />
+		<ItemSpec id="3386" x="610" y="547" type="1052" />
+		<ItemSpec id="3392" x="616" y="547" type="1107" />
+		<ItemSpec id="3526" x="600" y="548" type="1130" />
+		<ItemSpec id="3528" x="602" y="548" type="1005" />
+		<ItemSpec id="3537" x="611" y="548" type="1102" />
+		<ItemSpec id="3569" x="643" y="548" type="1059" />
+		<ItemSpec id="3585" x="659" y="548" type="1052" />
+		<ItemSpec id="3688" x="612" y="549" type="1108" />
+		<ItemSpec id="3829" x="603" y="550" type="1006" />
+		<ItemSpec id="3833" x="607" y="550" type="1033" />
+		<ItemSpec id="3834" x="608" y="550" type="1027" />
+		<ItemSpec id="3835" x="609" y="550" type="1027" />
+		<ItemSpec id="3836" x="610" y="550" type="1034" />
+		<ItemSpec id="3837" x="611" y="550" type="1110" />
+		<ItemSpec id="3979" x="603" y="551" type="1109" />
+		<ItemSpec id="4107" x="581" y="552" type="1111" />
+		<ItemSpec id="4262" x="586" y="553" type="1006" />
+		<ItemSpec id="4444" x="618" y="554" type="1006" />
+		<ItemSpec id="4468" x="642" y="554" type="1058" />
+		<ItemSpec id="4576" x="600" y="555" type="1006" />
+		<ItemSpec id="4592" x="616" y="555" type="1006" />
+		<ItemSpec id="4594" x="618" y="555" type="1005" />
+		<ItemSpec id="4700" x="574" y="556" type="1005" />
+		<ItemSpec id="4723" x="597" y="556" type="1021" />
+		<ItemSpec id="4727" x="601" y="556" type="1101" />
+		<ItemSpec id="4742" x="616" y="556" type="1109" />
+		<ItemSpec id="4743" x="617" y="556" type="1108" />
+		<ItemSpec id="4836" x="560" y="557" type="1006" />
+		<ItemSpec id="4852" x="576" y="557" type="1006" />
+		<ItemSpec id="4876" x="600" y="557" type="1108" />
+		<ItemSpec id="4894" x="618" y="557" type="1108" />
+		<ItemSpec id="4898" x="622" y="557" type="1005" />
+		<ItemSpec id="4985" x="559" y="558" type="1131" />
+		<ItemSpec id="4986" x="560" y="558" type="1109" />
+		<ItemSpec id="5002" x="576" y="558" type="1109" />
+		<ItemSpec id="5137" x="561" y="559" type="1101" />
+		<ItemSpec id="5149" x="573" y="559" type="1006" />
+		<ItemSpec id="5299" x="573" y="560" type="1109" />
+		<ItemSpec id="5300" x="574" y="560" type="1108" />
+		<ItemSpec id="5323" x="597" y="560" type="1035" />
+		<ItemSpec id="5365" x="639" y="560" type="1131" />
+		<ItemSpec id="5473" x="597" y="561" type="1023" />
+		<ItemSpec id="5476" x="600" y="561" type="1130" />
+		<ItemSpec id="5593" x="567" y="562" type="1130" />
+		<ItemSpec id="5621" x="595" y="562" type="1033" />
+		<ItemSpec id="5622" x="596" y="562" type="1025" />
+		<ItemSpec id="5623" x="597" y="562" type="1039" />
+		<ItemSpec id="5773" x="597" y="563" type="1023" />
+		<ItemSpec id="5807" x="631" y="563" type="1130" />
+		<ItemSpec id="5885" x="559" y="564" type="1131" />
+		<ItemSpec id="5923" x="597" y="564" type="1023" />
+		<ItemSpec id="5972" x="646" y="564" type="1110" />
+		<ItemSpec id="6034" x="558" y="565" type="1109" />
+		<ItemSpec id="6073" x="597" y="565" type="1023" />
+		<ItemSpec id="6181" x="555" y="566" type="1057" />
+		<ItemSpec id="6183" x="557" y="566" type="1103" />
+		<ItemSpec id="6223" x="597" y="566" type="1032" />
+		<ItemSpec id="6257" x="631" y="566" type="1110" />
+		<ItemSpec id="6334" x="558" y="567" type="1108" />
+		<ItemSpec id="6347" x="571" y="567" type="1131" />
+		<ItemSpec id="6373" x="597" y="567" type="1043" />
+		<ItemSpec id="6374" x="598" y="567" type="1024" />
+		<ItemSpec id="6375" x="599" y="567" type="1024" />
+		<ItemSpec id="6376" x="600" y="567" type="1045" />
+		<ItemSpec id="6406" x="630" y="567" type="1005" />
+		<ItemSpec id="6417" x="641" y="567" type="1131" />
+		<ItemSpec id="6428" x="652" y="567" type="1057" />
+		<ItemSpec id="6510" x="584" y="568" type="1046" />
+		<ItemSpec id="6526" x="600" y="568" type="1022" />
+		<ItemSpec id="6540" x="614" y="568" type="1131" />
+		<ItemSpec id="6558" x="632" y="568" type="1102" />
+		<ItemSpec id="6639" x="563" y="569" type="1023" />
+		<ItemSpec id="6666" x="590" y="569" type="1112" />
+		<ItemSpec id="6695" x="619" y="569" type="1101" />
+		<ItemSpec id="6705" x="629" y="569" type="1046" />
+		<ItemSpec id="6718" x="642" y="569" type="1052" />
+		<ItemSpec id="6789" x="563" y="570" type="1023" />
+		<ItemSpec id="6815" x="589" y="570" type="1051" />
+		<ItemSpec id="6816" x="590" y="570" type="1112" />
+		<ItemSpec id="6817" x="591" y="570" type="1005" />
+		<ItemSpec id="6833" x="607" y="570" type="1131" />
+		<ItemSpec id="6845" x="619" y="570" type="1006" />
+		<ItemSpec id="6846" x="620" y="570" type="1109" />
+		<ItemSpec id="6867" x="641" y="570" type="1006" />
+		<ItemSpec id="6934" x="558" y="571" type="1033" />
+		<ItemSpec id="6935" x="559" y="571" type="1024" />
+		<ItemSpec id="6936" x="560" y="571" type="1024" />
+		<ItemSpec id="6937" x="561" y="571" type="1024" />
+		<ItemSpec id="6938" x="562" y="571" type="1024" />
+		<ItemSpec id="6939" x="563" y="571" type="1042" />
+		<ItemSpec id="6948" x="572" y="571" type="1110" />
+		<ItemSpec id="6949" x="573" y="571" type="1111" />
+		<ItemSpec id="6966" x="590" y="571" type="1112" />
+		<ItemSpec id="6968" x="592" y="571" type="1131" />
+		<ItemSpec id="6995" x="619" y="571" type="1005" />
+		<ItemSpec id="6996" x="620" y="571" type="1108" />
+		<ItemSpec id="7017" x="641" y="571" type="1109" />
+		<ItemSpec id="7100" x="574" y="572" type="1108" />
+		<ItemSpec id="7114" x="588" y="572" type="1117" />
+		<ItemSpec id="7116" x="590" y="572" type="1112" />
+		<ItemSpec id="7117" x="591" y="572" type="1108" />
+		<ItemSpec id="7126" x="600" y="572" type="1035" />
+		<ItemSpec id="7148" x="622" y="572" type="1005" />
+		<ItemSpec id="7266" x="590" y="573" type="1112" />
+		<ItemSpec id="7267" x="591" y="573" type="1006" />
+		<ItemSpec id="7276" x="600" y="573" type="1023" />
+		<ItemSpec id="7290" x="614" y="573" type="1110" />
+		<ItemSpec id="7291" x="615" y="573" type="1111" />
+		<ItemSpec id="7396" x="570" y="574" type="1053" />
+		<ItemSpec id="7408" x="582" y="574" type="1005" />
+		<ItemSpec id="7416" x="590" y="574" type="1112" />
+		<ItemSpec id="7426" x="600" y="574" type="1022" />
+		<ItemSpec id="7441" x="615" y="574" type="1109" />
+		<ItemSpec id="7442" x="616" y="574" type="1108" />
+		<ItemSpec id="7546" x="570" y="575" type="1131" />
+		<ItemSpec id="7547" x="571" y="575" type="1051" />
+		<ItemSpec id="7566" x="590" y="575" type="1112" />
+		<ItemSpec id="7576" x="600" y="575" type="1130" />
+		<ItemSpec id="7590" x="614" y="575" type="1108" />
+		<ItemSpec id="7704" x="578" y="576" type="1130" />
+		<ItemSpec id="7716" x="590" y="576" type="1112" />
+		<ItemSpec id="7741" x="615" y="576" type="1131" />
+		<ItemSpec id="7866" x="590" y="577" type="1112" />
+		<ItemSpec id="7902" x="626" y="577" type="1130" />
+		<ItemSpec id="8016" x="590" y="578" type="1112" />
+		<ItemSpec id="8036" x="610" y="578" type="1055" />
+		<ItemSpec id="8039" x="613" y="578" type="1051" />
+		<ItemSpec id="8162" x="586" y="579" type="1052" />
+		<ItemSpec id="8166" x="590" y="579" type="1112" />
+		<ItemSpec id="8316" x="590" y="580" type="1112" />
+		<ItemSpec id="8325" x="599" y="580" type="1035" />
+		<ItemSpec id="8418" x="542" y="581" type="1006" />
+		<ItemSpec id="8430" x="554" y="581" type="1021" />
+		<ItemSpec id="8440" x="564" y="581" type="1101" />
+		<ItemSpec id="8466" x="590" y="581" type="1112" />
+		<ItemSpec id="8475" x="599" y="581" type="1023" />
+		<ItemSpec id="8590" x="564" y="582" type="1108" />
+		<ItemSpec id="8613" x="587" y="582" type="1056" />
+		<ItemSpec id="8616" x="590" y="582" type="1112" />
+		<ItemSpec id="8625" x="599" y="582" type="1023" />
+		<ItemSpec id="8737" x="561" y="583" type="1107" />
+		<ItemSpec id="8739" x="563" y="583" type="1110" />
+		<ItemSpec id="8740" x="564" y="583" type="1131" />
+		<ItemSpec id="8766" x="590" y="583" type="1112" />
+		<ItemSpec id="8775" x="599" y="583" type="1023" />
+		<ItemSpec id="8785" x="609" y="583" type="1053" />
+		<ItemSpec id="8916" x="590" y="584" type="1112" />
+		<ItemSpec id="8925" x="599" y="584" type="1023" />
+		<ItemSpec id="8932" x="606" y="584" type="1006" />
+		<ItemSpec id="8943" x="617" y="584" type="1106" />
+		<ItemSpec id="8957" x="631" y="584" type="1006" />
+		<ItemSpec id="9066" x="590" y="585" type="1112" />
+		<ItemSpec id="9075" x="599" y="585" type="1023" />
+		<ItemSpec id="9083" x="607" y="585" type="1108" />
+		<ItemSpec id="9106" x="630" y="585" type="1110" />
+		<ItemSpec id="9107" x="631" y="585" type="1005" />
+		<ItemSpec id="9198" x="572" y="586" type="1129" />
+		<ItemSpec id="9213" x="587" y="586" type="1005" />
+		<ItemSpec id="9215" x="589" y="586" type="1110" />
+		<ItemSpec id="9216" x="590" y="586" type="1112" />
+		<ItemSpec id="9225" x="599" y="586" type="1022" />
+		<ItemSpec id="9233" x="607" y="586" type="1131" />
+		<ItemSpec id="9237" x="611" y="586" type="1056" />
+		<ItemSpec id="9257" x="631" y="586" type="1109" />
+		<ItemSpec id="9268" x="642" y="586" type="1033" />
+		<ItemSpec id="9269" x="643" y="586" type="1024" />
+		<ItemSpec id="9270" x="644" y="586" type="1024" />
+		<ItemSpec id="9271" x="645" y="586" type="1024" />
+		<ItemSpec id="9272" x="646" y="586" type="1044" />
+		<ItemSpec id="9365" x="589" y="587" type="1110" />
+		<ItemSpec id="9366" x="590" y="587" type="1112" />
+		<ItemSpec id="9376" x="600" y="587" type="1130" />
+		<ItemSpec id="9422" x="646" y="587" type="1032" />
+		<ItemSpec id="9516" x="590" y="588" type="1112" />
+		<ItemSpec id="9517" x="591" y="588" type="1131" />
+		<ItemSpec id="9572" x="646" y="588" type="1028" />
+		<ItemSpec id="9640" x="564" y="589" type="1005" />
+		<ItemSpec id="9662" x="586" y="589" type="1057" />
+		<ItemSpec id="9666" x="590" y="589" type="1112" />
+		<ItemSpec id="9722" x="646" y="589" type="1026" />
+		<ItemSpec id="9740" x="664" y="589" type="1059" />
+		<ItemSpec id="9784" x="558" y="590" type="1131" />
+		<ItemSpec id="9802" x="576" y="590" type="1005" />
+		<ItemSpec id="9816" x="590" y="590" type="1112" />
+		<ItemSpec id="9846" x="620" y="590" type="1006" />
+		<ItemSpec id="9872" x="646" y="590" type="1026" />
+		<ItemSpec id="9925" x="549" y="591" type="1005" />
+		<ItemSpec id="9937" x="561" y="591" type="1103" />
+		<ItemSpec id="9940" x="564" y="591" type="1131" />
+		<ItemSpec id="9966" x="590" y="591" type="1112" />
+		<ItemSpec id="9996" x="620" y="591" type="1109" />
+		<ItemSpec id="10022" x="646" y="591" type="1022" />
+		<ItemSpec id="10086" x="560" y="592" type="1052" />
+		<ItemSpec id="10116" x="590" y="592" type="1112" />
+		<ItemSpec id="10167" x="641" y="592" type="1130" />
+		<ItemSpec id="10171" x="645" y="592" type="1111" />
+		<ItemSpec id="10266" x="590" y="593" type="1112" />
+		<ItemSpec id="10270" x="594" y="593" type="1111" />
+		<ItemSpec id="10282" x="606" y="593" type="1005" />
+		<ItemSpec id="10322" x="646" y="593" type="1109" />
+		<ItemSpec id="10376" x="550" y="594" type="1132" />
+		<ItemSpec id="10416" x="590" y="594" type="1112" />
+		<ItemSpec id="10439" x="613" y="594" type="1059" />
+		<ItemSpec id="10465" x="639" y="594" type="1109" />
+		<ItemSpec id="10471" x="645" y="594" type="1107" />
+		<ItemSpec id="10475" x="649" y="594" type="1131" />
+		<ItemSpec id="10537" x="561" y="595" type="1101" />
+		<ItemSpec id="10566" x="590" y="595" type="1112" />
+		<ItemSpec id="10567" x="591" y="595" type="1107" />
+		<ItemSpec id="10579" x="603" y="595" type="1107" />
+		<ItemSpec id="10610" x="634" y="595" type="1131" />
+		<ItemSpec id="10613" x="637" y="595" type="1107" />
+		<ItemSpec id="10632" x="656" y="595" type="1103" />
+		<ItemSpec id="10639" x="663" y="595" type="1058" />
+		<ItemSpec id="10676" x="550" y="596" type="1110" />
+		<ItemSpec id="10677" x="551" y="596" type="1106" />
+		<ItemSpec id="10713" x="587" y="596" type="1059" />
+		<ItemSpec id="10716" x="590" y="596" type="1112" />
+		<ItemSpec id="10806" x="530" y="597" type="1055" />
+		<ItemSpec id="10866" x="590" y="597" type="1112" />
+		<ItemSpec id="10993" x="567" y="598" type="1109" />
+		<ItemSpec id="11016" x="590" y="598" type="1112" />
+		<ItemSpec id="11041" x="615" y="598" type="1053" />
+		<ItemSpec id="11083" x="657" y="598" type="1110" />
+		<ItemSpec id="11141" x="565" y="599" type="1108" />
+		<ItemSpec id="11142" x="566" y="599" type="1109" />
+		<ItemSpec id="11166" x="590" y="599" type="1112" />
+		<ItemSpec id="11194" x="618" y="599" type="1006" />
+		<ItemSpec id="11237" x="661" y="599" type="1053" />
+		<ItemSpec id="11290" x="564" y="600" type="1106" />
+		<ItemSpec id="11316" x="590" y="600" type="1112" />
+		<ItemSpec id="11338" x="612" y="600" type="1058" />
+		<ItemSpec id="11466" x="590" y="601" type="1112" />
+		<ItemSpec id="11467" x="591" y="601" type="1112" />
+		<ItemSpec id="11494" x="618" y="601" type="1108" />
+		<ItemSpec id="11574" x="548" y="602" type="1059" />
+		<ItemSpec id="11613" x="587" y="602" type="1058" />
+		<ItemSpec id="11617" x="591" y="602" type="1112" />
+		<ItemSpec id="11638" x="612" y="602" type="1056" />
+		<ItemSpec id="11666" x="640" y="602" type="1006" />
+		<ItemSpec id="11767" x="591" y="603" type="1112" />
+		<ItemSpec id="11813" x="637" y="603" type="1110" />
+		<ItemSpec id="11821" x="645" y="603" type="1035" />
+		<ItemSpec id="11879" x="553" y="604" type="1111" />
+		<ItemSpec id="11917" x="591" y="604" type="1112" />
+		<ItemSpec id="11971" x="645" y="604" type="1023" />
+		<ItemSpec id="11978" x="652" y="604" type="1055" />
+		<ItemSpec id="11979" x="653" y="604" type="1132" />
+		<ItemSpec id="12026" x="550" y="605" type="1132" />
+		<ItemSpec id="12028" x="552" y="605" type="1109" />
+		<ItemSpec id="12064" x="588" y="605" type="1053" />
+		<ItemSpec id="12067" x="591" y="605" type="1112" />
+		<ItemSpec id="12087" x="611" y="605" type="1117" />
+		<ItemSpec id="12113" x="637" y="605" type="1101" />
+		<ItemSpec id="12121" x="645" y="605" type="1023" />
+		<ItemSpec id="12149" x="673" y="605" type="1030" />
+		<ItemSpec id="12180" x="554" y="606" type="1108" />
+		<ItemSpec id="12185" x="559" y="606" type="1129" />
+		<ItemSpec id="12217" x="591" y="606" type="1112" />
+		<ItemSpec id="12218" x="592" y="606" type="1132" />
+		<ItemSpec id="12260" x="634" y="606" type="1059" />
+		<ItemSpec id="12271" x="645" y="606" type="1023" />
+		<ItemSpec id="12324" x="548" y="607" type="1103" />
+		<ItemSpec id="12327" x="551" y="607" type="1107" />
+		<ItemSpec id="12342" x="566" y="607" type="1102" />
+		<ItemSpec id="12367" x="591" y="607" type="1112" />
+		<ItemSpec id="12382" x="606" y="607" type="1108" />
+		<ItemSpec id="12421" x="645" y="607" type="1023" />
+		<ItemSpec id="12453" x="527" y="608" type="1057" />
+		<ItemSpec id="12473" x="547" y="608" type="1058" />
+		<ItemSpec id="12493" x="567" y="608" type="1110" />
+		<ItemSpec id="12516" x="590" y="608" type="1112" />
+		<ItemSpec id="12517" x="591" y="608" type="1112" />
+		<ItemSpec id="12530" x="604" y="608" type="1106" />
+		<ItemSpec id="12571" x="645" y="608" type="1023" />
+		<ItemSpec id="12606" x="530" y="609" type="1056" />
+		<ItemSpec id="12643" x="567" y="609" type="1132" />
+		<ItemSpec id="12666" x="590" y="609" type="1112" />
+		<ItemSpec id="12667" x="591" y="609" type="1112" />
+		<ItemSpec id="12684" x="608" y="609" type="1132" />
+		<ItemSpec id="12687" x="611" y="609" type="1057" />
+		<ItemSpec id="12718" x="642" y="609" type="1129" />
+		<ItemSpec id="12721" x="645" y="609" type="1023" />
+		<ItemSpec id="12723" x="647" y="609" type="1109" />
+		<ItemSpec id="12817" x="591" y="610" type="1112" />
+		<ItemSpec id="12857" x="631" y="610" type="1132" />
+		<ItemSpec id="12862" x="636" y="610" type="1103" />
+		<ItemSpec id="12864" x="638" y="610" type="1132" />
+		<ItemSpec id="12871" x="645" y="610" type="1023" />
+		<ItemSpec id="12967" x="591" y="611" type="1112" />
+		<ItemSpec id="12969" x="593" y="611" type="1110" />
+		<ItemSpec id="13003" x="627" y="611" type="1102" />
+		<ItemSpec id="13005" x="629" y="611" type="1109" />
+		<ItemSpec id="13021" x="645" y="611" type="1106" />
+		<ItemSpec id="13076" x="550" y="612" type="1005" />
+		<ItemSpec id="13090" x="564" y="612" type="1056" />
+		<ItemSpec id="13091" x="565" y="612" type="1051" />
+		<ItemSpec id="13117" x="591" y="612" type="1112" />
+		<ItemSpec id="13126" x="600" y="612" type="1035" />
+		<ItemSpec id="13154" x="628" y="612" type="1108" />
+		<ItemSpec id="13159" x="633" y="612" type="1058" />
+		<ItemSpec id="13267" x="591" y="613" type="1112" />
+		<ItemSpec id="13276" x="600" y="613" type="1028" />
+		<ItemSpec id="13308" x="632" y="613" type="1006" />
+		<ItemSpec id="13312" x="636" y="613" type="1051" />
+		<ItemSpec id="13413" x="587" y="614" type="1055" />
+		<ItemSpec id="13415" x="589" y="614" type="1103" />
+		<ItemSpec id="13417" x="591" y="614" type="1112" />
+		<ItemSpec id="13418" x="592" y="614" type="1112" />
+		<ItemSpec id="13426" x="600" y="614" type="1028" />
+		<ItemSpec id="13442" x="616" y="614" type="1052" />
+		<ItemSpec id="13534" x="558" y="615" type="1035" />
+		<ItemSpec id="13568" x="592" y="615" type="1112" />
+		<ItemSpec id="13576" x="600" y="615" type="1028" />
+		<ItemSpec id="13588" x="612" y="615" type="1110" />
+		<ItemSpec id="13674" x="548" y="616" type="1112" />
+		<ItemSpec id="13684" x="558" y="616" type="1043" />
+		<ItemSpec id="13685" x="559" y="616" type="1027" />
+		<ItemSpec id="13686" x="560" y="616" type="1027" />
+		<ItemSpec id="13687" x="561" y="616" type="1027" />
+		<ItemSpec id="13688" x="562" y="616" type="1034" />
+		<ItemSpec id="13718" x="592" y="616" type="1112" />
+		<ItemSpec id="13726" x="600" y="616" type="1028" />
+		<ItemSpec id="13737" x="611" y="616" type="1055" />
+		<ItemSpec id="13739" x="613" y="616" type="1110" />
+		<ItemSpec id="13868" x="592" y="617" type="1112" />
+		<ItemSpec id="13876" x="600" y="617" type="1022" />
+		<ItemSpec id="13886" x="610" y="617" type="1051" />
+		<ItemSpec id="13992" x="566" y="618" type="1035" />
+		<ItemSpec id="14018" x="592" y="618" type="1112" />
+		<ItemSpec id="14026" x="600" y="618" type="1129" />
+		<ItemSpec id="14142" x="566" y="619" type="1029" />
+		<ItemSpec id="14157" x="581" y="619" type="1056" />
+		<ItemSpec id="14168" x="592" y="619" type="1112" />
+		<ItemSpec id="14205" x="629" y="619" type="1033" />
+		<ItemSpec id="14206" x="630" y="619" type="1027" />
+		<ItemSpec id="14207" x="631" y="619" type="1027" />
+		<ItemSpec id="14208" x="632" y="619" type="1027" />
+		<ItemSpec id="14209" x="633" y="619" type="1027" />
+		<ItemSpec id="14210" x="634" y="619" type="1027" />
+		<ItemSpec id="14211" x="635" y="619" type="1027" />
+		<ItemSpec id="14212" x="636" y="619" type="1027" />
+		<ItemSpec id="14213" x="637" y="619" type="1027" />
+		<ItemSpec id="14214" x="638" y="619" type="1027" />
+		<ItemSpec id="14215" x="639" y="619" type="1034" />
+		<ItemSpec id="14269" x="543" y="620" type="1006" />
+		<ItemSpec id="14292" x="566" y="620" type="1038" />
+		<ItemSpec id="14293" x="567" y="620" type="1030" />
+		<ItemSpec id="14294" x="568" y="620" type="1034" />
+		<ItemSpec id="14318" x="592" y="620" type="1112" />
+		<ItemSpec id="14442" x="566" y="621" type="1023" />
+		<ItemSpec id="14462" x="586" y="621" type="1118" />
+		<ItemSpec id="14468" x="592" y="621" type="1112" />
+		<ItemSpec id="14592" x="566" y="622" type="1029" />
+		<ItemSpec id="14614" x="588" y="622" type="1118" />
+		<ItemSpec id="14618" x="592" y="622" type="1112" />
+		<ItemSpec id="14742" x="566" y="623" type="1023" />
+		<ItemSpec id="14763" x="587" y="623" type="1115" />
+		<ItemSpec id="14765" x="589" y="623" type="1117" />
+		<ItemSpec id="14768" x="592" y="623" type="1112" />
+		<ItemSpec id="14789" x="613" y="623" type="1056" />
+		<ItemSpec id="14791" x="615" y="623" type="1132" />
+		<ItemSpec id="14892" x="566" y="624" type="1023" />
+		<ItemSpec id="14915" x="589" y="624" type="1117" />
+		<ItemSpec id="14916" x="590" y="624" type="1059" />
+		<ItemSpec id="14918" x="592" y="624" type="1112" />
+		<ItemSpec id="15038" x="562" y="625" type="1108" />
+		<ItemSpec id="15042" x="566" y="625" type="1023" />
+		<ItemSpec id="15068" x="592" y="625" type="1112" />
+		<ItemSpec id="15099" x="623" y="625" type="1101" />
+		<ItemSpec id="15186" x="560" y="626" type="1107" />
+		<ItemSpec id="15192" x="566" y="626" type="1023" />
+		<ItemSpec id="15218" x="592" y="626" type="1112" />
+		<ItemSpec id="15249" x="623" y="626" type="1108" />
+		<ItemSpec id="15342" x="566" y="627" type="1022" />
+		<ItemSpec id="15367" x="591" y="627" type="1112" />
+		<ItemSpec id="15368" x="592" y="627" type="1112" />
+		<ItemSpec id="15384" x="608" y="627" type="1057" />
+		<ItemSpec id="15406" x="630" y="627" type="1129" />
+		<ItemSpec id="15504" x="578" y="628" type="1129" />
+		<ItemSpec id="15516" x="590" y="628" type="1112" />
+		<ItemSpec id="15517" x="591" y="628" type="1112" />
+		<ItemSpec id="15526" x="600" y="628" type="1023" />
+		<ItemSpec id="15666" x="590" y="629" type="1112" />
+		<ItemSpec id="15681" x="605" y="629" type="1102" />
+		<ItemSpec id="15815" x="589" y="630" type="1058" />
+		<ItemSpec id="15816" x="590" y="630" type="1112" />
+		<ItemSpec id="15826" x="600" y="630" type="1023" />
+		<ItemSpec id="15832" x="606" y="630" type="1108" />
+		<ItemSpec id="15935" x="559" y="631" type="1132" />
+		<ItemSpec id="15976" x="600" y="631" type="1129" />
+		<ItemSpec id="15983" x="607" y="631" type="1132" />
+		<ItemSpec id="16117" x="591" y="632" type="1132" />
+		<ItemSpec id="16118" x="592" y="632" type="1006" />
+		<ItemSpec id="16137" x="611" y="632" type="1052" />
+		<ItemSpec id="16139" x="613" y="632" type="1103" />
+		<ItemSpec id="16220" x="544" y="633" type="1005" />
+		<ItemSpec id="16233" x="557" y="633" type="1053" />
+		<ItemSpec id="16260" x="584" y="633" type="1006" />
+		<ItemSpec id="16263" x="587" y="633" type="1053" />
+		<ItemSpec id="16266" x="590" y="633" type="1101" />
+		<ItemSpec id="16286" x="610" y="633" type="1056" />
+		<ItemSpec id="16287" x="611" y="633" type="1110" />
+		<ItemSpec id="16318" x="642" y="633" type="1110" />
+		<ItemSpec id="16370" x="544" y="634" type="1109" />
+		<ItemSpec id="16409" x="583" y="634" type="1005" />
+		<ItemSpec id="16415" x="589" y="634" type="1051" />
+		<ItemSpec id="16468" x="642" y="634" type="1109" />
+		<ItemSpec id="16567" x="591" y="635" type="1033" />
+		<ItemSpec id="16568" x="592" y="635" type="1027" />
+		<ItemSpec id="16569" x="593" y="635" type="1027" />
+		<ItemSpec id="16570" x="594" y="635" type="1027" />
+		<ItemSpec id="16571" x="595" y="635" type="1034" />
+		<ItemSpec id="16618" x="642" y="635" type="1108" />
+		<ItemSpec id="16619" x="643" y="635" type="1101" />
+		<ItemSpec id="16634" x="658" y="635" type="1110" />
+		<ItemSpec id="16640" x="664" y="635" type="1057" />
+		<ItemSpec id="16666" x="540" y="636" type="1053" />
+		<ItemSpec id="16698" x="572" y="636" type="1005" />
+		<ItemSpec id="16834" x="558" y="637" type="1056" />
+		<ItemSpec id="17016" x="590" y="638" type="1006" />
+		<ItemSpec id="17289" x="563" y="640" type="1005" />
+		<ItemSpec id="17443" x="567" y="641" type="1006" />
+		<ItemSpec id="17506" x="630" y="641" type="1129" />
+		<ItemSpec id="17507" x="631" y="641" type="1110" />
+		<ItemSpec id="17594" x="568" y="642" type="1129" />
+		<ItemSpec id="17742" x="566" y="643" type="1006" />
+		<ItemSpec id="17743" x="567" y="643" type="1005" />
+		<ItemSpec id="17807" x="631" y="643" type="1108" />
+		<ItemSpec id="17888" x="562" y="644" type="1006" />
+		<ItemSpec id="17969" x="643" y="644" type="1006" />
+		<ItemSpec id="17970" x="644" y="644" type="1005" />
+		<ItemSpec id="17979" x="653" y="644" type="1055" />
+		<ItemSpec id="18057" x="581" y="645" type="1132" />
+		<ItemSpec id="18077" x="601" y="645" type="1129" />
+		<ItemSpec id="18092" x="616" y="645" type="1109" />
+		<ItemSpec id="18120" x="644" y="645" type="1109" />
+		<ItemSpec id="18240" x="614" y="646" type="1106" />
+		<ItemSpec id="18261" x="635" y="646" type="1005" />
+		<ItemSpec id="18271" x="645" y="646" type="1108" />
+		<ItemSpec id="18411" x="635" y="647" type="1006" />
+		<ItemSpec id="18561" x="635" y="648" type="1109" />
+		<ItemSpec id="18562" x="636" y="648" type="1108" />
+		<ItemSpec id="18564" x="638" y="648" type="1006" />
+		<ItemSpec id="18656" x="580" y="649" type="1102" />
+		<ItemSpec id="18657" x="581" y="649" type="1109" />
+		<ItemSpec id="18698" x="622" y="649" type="1046" />
+		<ItemSpec id="18714" x="638" y="649" type="1109" />
+		<ItemSpec id="18804" x="578" y="650" type="1052" />
+		<ItemSpec id="18975" x="599" y="651" type="1021" />
+		<ItemSpec id="19011" x="635" y="651" type="1005" />
+		<ItemSpec id="19013" x="637" y="651" type="1005" />
+		<ItemSpec id="19014" x="638" y="651" type="1006" />
+		<ItemSpec id="19178" x="652" y="652" type="1059" />
+		<ItemSpec id="19282" x="606" y="653" type="1102" />
+		<ItemSpec id="19311" x="635" y="653" type="1108" />
+		<ItemSpec id="19583" x="607" y="655" type="1103" />
+		<ItemSpec id="19584" x="608" y="655" type="1108" />
+		<ItemSpec id="19913" x="637" y="657" type="1005" />
+		<ItemSpec id="19925" x="649" y="657" type="1103" />
+		<ItemSpec id="20064" x="638" y="658" type="1109" />
+		<ItemSpec id="20077" x="651" y="658" type="1058" />
+		<ItemSpec id="20214" x="638" y="659" type="1108" />
+		<ItemSpec id="20464" x="588" y="661" type="1132" />
+		<ItemSpec id="20465" x="589" y="661" type="1132" />
+		<ItemSpec id="20466" x="590" y="661" type="1132" />
+		<ItemSpec id="20467" x="591" y="661" type="1132" />
+		<ItemSpec id="20482" x="606" y="661" type="1132" />
+		<ItemSpec id="20483" x="607" y="661" type="1132" />
+		<ItemSpec id="20484" x="608" y="661" type="1132" />
+		<ItemSpec id="20485" x="609" y="661" type="1132" />
+		<ItemSpec id="20615" x="589" y="662" type="1123" />
+		<ItemSpec id="20617" x="591" y="662" type="1123" />
+		<ItemSpec id="20633" x="607" y="662" type="1122" />
+		<ItemSpec id="20635" x="609" y="662" type="1123" />
+		<ItemSpec id="20766" x="590" y="663" type="1122" />
+		<ItemSpec id="20784" x="608" y="663" type="1122" />
+		<ItemSpec id="21214" x="588" y="666" type="1114" />
+		<ItemSpec id="21215" x="589" y="666" type="1114" />
+		<ItemSpec id="21235" x="609" y="666" type="1114" />
+		<ItemSpec id="21236" x="610" y="666" type="1114" />
+		<ItemSpec id="21237" x="611" y="666" type="1117" />
+		<ItemSpec id="21279" x="653" y="666" type="1052" />
+		<ItemSpec id="21366" x="590" y="667" type="1117" />
+		<ItemSpec id="21537" x="611" y="668" type="1117" />
+		<ItemSpec id="21814" x="588" y="670" type="1114" />
+		<ItemSpec id="21815" x="589" y="670" type="1114" />
+		<ItemSpec id="21816" x="590" y="670" type="1117" />
+		<ItemSpec id="21835" x="609" y="670" type="1114" />
+		<ItemSpec id="21836" x="610" y="670" type="1114" />
+		<ItemSpec id="22387" x="561" y="674" type="1055" />
+		<ItemSpec id="22415" x="589" y="674" type="1114" />
+		<ItemSpec id="22416" x="590" y="674" type="1114" />
+		<ItemSpec id="22435" x="609" y="674" type="1114" />
+		<ItemSpec id="22436" x="610" y="674" type="1114" />
+
+
+
+    </Group >
+
+</tns:database>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="material_station">
+    <ItemSpec id="1001" unlock_level="7" season_switch="0" server_list="all" victory_rule="0" name="235004" monster_name="103770" monster_icon="tufu_02_icon" group_pic_id="4" show_reward="200148|200151|200152" stage_id="1001001|1001002|1001003|1001004|1001005|1001006|1001007|1001008|1001009|1001010" season_reward="0-99" show_reward_new="200148;200151;200152"/>
+    <ItemSpec id="1002" unlock_level="10" season_switch="0" server_list="all" victory_rule="0" name="235005" monster_name="103734" monster_icon="sangshi_05_icon" group_pic_id="3" show_reward="200149|200150|200153" stage_id="1002001|1002002|1002003|1002004|1002005|1002006|1002007|1002008|1002009|1002010" season_reward="0-99" show_reward_new="200149;200150;200153"/>
+    <ItemSpec id="1003" unlock_level="16" season_switch="0" server_list="all" victory_rule="0" name="235007" monster_name="103769" monster_icon="nurses_01_icon" group_pic_id="2" show_reward="200148|200150|212008" stage_id="1003001|1003002|1003003|1003004|1003005|1003006|1003007|1003008|1003009|1003010" season_reward="0-99" show_reward_new="200148;200150;212008"/>
+    <ItemSpec id="1004" unlock_level="20" season_switch="0" server_list="all" victory_rule="0" name="235006" monster_name="103733" monster_icon="huaban_01_icon" group_pic_id="1" show_reward="200149|200151|210163" stage_id="1004001|1004002|1004003|1004004|1004005|1004006|1004007|1004008|1004009|1004010" season_reward="0-99" show_reward_new="200149;200151;210163"/>
+    <ItemSpec id="1005" unlock_level="25" season_switch="3" server_list="all" victory_rule="0" name="235025" monster_name="103733" monster_icon="huaban_01_icon" group_pic_id="7" show_reward="200149|200151|215398" stage_id="1005001|1005002|1005003|1005004|1005005|1005006|1005007|1005008|1005009|1005010" season_reward="0-99" show_reward_new="200149;200151;215398"/>
+    <ItemSpec id="1006" unlock_level="25" season_switch="3" server_list="all" victory_rule="0" name="235028" monster_name="103770" monster_icon="tufu_02_icon" group_pic_id="5" show_reward="200148|200150|200129" stage_id="1006001|1006002|1006003|1006004|1006005|1006006|1006007|1006008|1006009|1006010" season_reward="0-99" show_reward_new="200148;200150;200129"/>
+    <ItemSpec id="1007" unlock_level="25" season_switch="7" server_list="all" victory_rule="0" name="235032" monster_name="103734" monster_icon="sangshi_05_icon" group_pic_id="13" show_reward="200149|200150|203517" stage_id="1007001|1007002|1007003|1007004|1007005|1007006|1007007|1007008|1007009|1007010" season_reward="0-99" show_reward_new="200149;200150;203517"/>
+
+    <!-- 勘探区 -->
+    <ItemSpec id="1008" unlock_level="25" season_switch="7" server_list="all" victory_rule="0" name="20533" monster_name="103734" monster_icon="sangshi_05_icon" group_pic_id="8" season_reward="0-99" show_reward_new="200149;200150;203522" show_reward="200149|200150|203522" stage_id="1008001|1008002|1008003|1008004|1008005|1008006|1008007|1008008|1008009|1008010"/>
+
+    <!-- 稀缺资源区 -->
+    <ItemSpec id="1009" unlock_level="25" season_switch="7" server_list="all" victory_rule="0" name="20534" monster_name="103734" monster_icon="sangshi_05_icon" group_pic_id="6" season_reward="0-99" show_reward_new="200149;200150;200163" show_reward="200149|200150|200163" stage_id="1009001|1009002|1009003|1009004|1009005|1009006|1009007|1009008|1009009|1009010"/>
+
+    <!-- 重矿物区 -->
+    <ItemSpec id="1010" unlock_level="25" season_switch="7" server_list="all" victory_rule="0" name="20535" monster_name="103734" monster_icon="sangshi_05_icon" group_pic_id="9" season_reward="0-99" show_reward_new="200149;200150;227094" show_reward="200149|200150|227094" stage_id="1010001|1010002|1010003|1010004|1010005|1010006|1010007|1010008|1010009|1010010"/>
+    
+    <!-- 新增兵种专精产出区域 -->
+    <ItemSpec id="1011" unlock_level="25" season_switch="8" server_list="all" victory_rule="0" name="20536" monster_name="103734" monster_icon="sangshi_05_icon" group_pic_id="12" season_reward="0-99" show_reward_new="200149;200150;200128" show_reward="200149|200150|200128" stage_id="1011001|1011002|1011003|1011004|1011005|1011006|1011007|1011008|1011009|1011010"/>
+        <!-- 新增驯养日志产出区域 -->
+		<ItemSpec id="1012" unlock_level="25" season_switch="4" server_list="all" victory_rule="0" name="20537" monster_name="103734" monster_icon="sangshi_05_icon" group_pic_id="14" show_reward="200149|200150|204052" stage_id="1012001|1012002|1012003|1012004|1012005|1012006|1012007|1012008|1012009|1012010" season_reward="0-99" show_reward_new="200149;200150;204052"/>
+        <!-- 新增机体升级产出区域   --> 
+		<ItemSpec id="1013" unlock_level="25" season_switch="11" server_list="all" victory_rule="0" name="20538" monster_name="103734" monster_icon="sangshi_05_icon" group_pic_id="15" show_reward="200149|200150|217279" stage_id="1013001|1013002|1013003|1013004|1013005|1013006|1013007|1013008|1013009|1013010" season_reward="0-99" show_reward_new="200149;200150;217279"/>
+
+</Group>
+</tns:database>

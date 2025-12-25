@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="td_unlock">
+    <ItemSpec id="1" level="1" unlock_index="4" unlock_tower="20001" />
+    <ItemSpec id="2" level="3" unlock_index="5" />
+    <ItemSpec id="3" level="4" unlock_index="7" />
+    <ItemSpec id="4" level="7" unlock_index="1" unlock_tower="20002" />
+    <ItemSpec id="5" level="11" unlock_index="3" />
+    <ItemSpec id="6" level="17" unlock_index="2" unlock_tower="20004" />
+    <ItemSpec id="7" level="21" unlock_index="6" />
+    <ItemSpec id="8" level="26" unlock_tower="20003" />
+    <ItemSpec id="9" level="31" unlock_index="8" />
+
+ </Group >
+
+</tns:database>

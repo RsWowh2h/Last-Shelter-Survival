@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="player_career">
+    <ItemSpec id="222000" name="148001" story="148006" icon="B_FB_IC_nongfu" image="image222000" depend="8001;8002" />
+    <ItemSpec id="222001" name="148002" story="148007" icon="B_FB_IC_lueduozhe" image="image222001" depend="8003;8004" />
+    <ItemSpec id="222002" name="148003" story="148008" icon="B_FB_IC_shangren" image="image222002" depend="8005;8006" />
+    <ItemSpec id="222003" name="173516" icon="B_FB_IC_jianshezhe" depend="8007;8008" />
+</Group>
+</tns:database>

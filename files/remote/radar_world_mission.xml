@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="radar_world_mission">
+
+
+    <ItemSpec id="200001" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="52" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200002" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="36" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200003" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="43" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200004" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="36" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200005" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="19" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200006" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="35" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200007" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="19" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200008" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="20" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200009" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="22" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200010" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="50" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200011" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="33" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200012" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="52" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200013" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="42" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200014" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="56" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200015" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="15" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200016" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="55" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200017" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="41" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200018" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="38" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200019" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="25" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200020" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="25" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200101" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="27" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200102" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="27" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200103" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="52" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200104" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="58" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200105" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="52" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200106" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="37" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200107" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="18" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200108" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="52" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200109" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="48" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200110" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="21" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200111" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="33" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200112" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="21" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200113" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="36" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200114" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="13" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200115" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="37" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200116" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="58" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200117" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="30" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200118" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="52" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200119" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="50" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200120" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="48" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200201" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="54" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200202" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="46" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200203" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="20" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200204" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="29" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200205" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="10" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200206" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="49" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200207" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="48" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200208" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="54" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200209" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="40" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200210" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="44" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200211" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="26" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200212" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="15" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200213" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="61" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200214" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="16" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200215" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="48" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200216" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="31" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200217" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="11" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200218" name="110092003" desc="110092007" type="3" occupied_Time="280" marchTime="25" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200219" name="110092003" desc="110092007" type="3" occupied_Time="280" marchTime="41" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200220" name="110092003" desc="110092007" type="3" occupied_Time="280" marchTime="60" reward="1;70000|4;700001|8:700002" />
+
+
+
+----新增雷达类型
+    
+   <!--  <ItemSpec id="200221" name="110092003" desc="110092007" type="5" occupied_Time="180" marchTime="10" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200222" name="110092003" desc="110092007" type="5" occupied_Time="180" marchTime="10" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200223" name="110092003" desc="110092007" type="5" occupied_Time="180" marchTime="10" reward="1;70000|4;700001|8:700002" />
+
+    <ItemSpec id="200224" name="110092003" desc="110092007" type="6" occupied_Time="0" marchTime="10" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200225" name="110092003" desc="110092007" type="6" occupied_Time="0" marchTime="10" reward="1;70000|4;700001|8:700002" />
+    <ItemSpec id="200226" name="110092003" desc="110092007" type="6" occupied_Time="0" marchTime="10" reward="1;70000|4;700001|8:700002" />-->
+
+
+    <ItemSpec id="300001" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="52" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300002" name="110092002" desc="110092006" type="1" occupied_Time="0" marchTime="36" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300003" name="110092003" desc="110092007" type="1" occupied_Time="0" marchTime="43" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300004" name="110092105" desc="110092107" type="1" occupied_Time="0" marchTime="36" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300005" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="19" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300006" name="110092002" desc="110092006" type="1" occupied_Time="0" marchTime="35" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300007" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="19" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300008" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="20" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300009" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="22" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300010" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="50" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300011" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="33" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300012" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="52" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300013" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="42" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300014" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="56" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300015" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="15" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300016" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="55" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300017" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="41" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300018" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="38" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300019" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="25" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300020" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="25" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300101" name="110092000" desc="110092004" type="2" occupied_Time="0" marchTime="27" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300102" name="110092000" desc="110092004" type="2" occupied_Time="0" marchTime="27" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300103" name="110092000" desc="110092004" type="2" occupied_Time="0" marchTime="52" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300104" name="110092000" desc="110092004" type="2" occupied_Time="0" marchTime="58" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300105" name="110092000" desc="110092004" type="2" occupied_Time="0" marchTime="52" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300106" name="110092000" desc="110092004" type="2" occupied_Time="0" marchTime="37" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300107" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="18" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300108" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="52" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300109" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="48" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300110" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="21" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300111" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="33" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300112" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="21" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300113" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="36" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300114" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="13" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300115" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="37" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300116" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="58" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300117" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="30" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300118" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="52" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300119" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="50" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300120" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="48" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300201" name="110092002" desc="110092006" type="3" occupied_Time="300" marchTime="54" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300202" name="110092002" desc="110092006" type="3" occupied_Time="300" marchTime="46" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300203" name="110092002" desc="110092006" type="3" occupied_Time="300" marchTime="20" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300204" name="110092002" desc="110092006" type="3" occupied_Time="300" marchTime="29" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300205" name="110092002" desc="110092006" type="3" occupied_Time="300" marchTime="10" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300206" name="110092002" desc="110092006" type="3" occupied_Time="300" marchTime="49" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300207" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="48" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300208" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="54" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300209" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="40" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300210" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="44" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300211" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="26" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300212" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="15" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300213" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="61" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300214" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="16" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300215" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="48" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300216" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="31" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300217" name="110092003" desc="110092007" type="3" occupied_Time="360" marchTime="11" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300218" name="110092003" desc="110092007" type="3" occupied_Time="280" marchTime="25" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300219" name="110092003" desc="110092007" type="3" occupied_Time="280" marchTime="41" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300220" name="110092003" desc="110092007" type="3" occupied_Time="280" marchTime="60" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+
+    <ItemSpec id="300221" name="110092003" desc="110092007" type="5" occupied_Time="60" marchTime="10" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300222" name="110092003" desc="110092007" type="5" occupied_Time="60" marchTime="10" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300223" name="110092003" desc="110092007" type="5" occupied_Time="60" marchTime="10" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300224" name="110092003" desc="110092007" type="6" occupied_Time="0" marchTime="10" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300225" name="110092003" desc="110092007" type="6" occupied_Time="0" marchTime="10" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+    <ItemSpec id="300226" name="110092003" desc="110092007" type="6" occupied_Time="0" marchTime="10" reward="9;921009,921009,921009,921010,921011,921012,921013" />
+
+	<!--新手二期雷达任务-->    
+
+    <ItemSpec id="100001" name="110092000" desc="110092004" type="2" occupied_Time="3" marchTime="6" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="100002" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="10" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="100003" name="110092003" desc="110092007" type="3" occupied_Time="10" marchTime="10" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="100004" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="10" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+
+    <ItemSpec id="500001" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="52" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="500002" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="36" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="500003" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="43" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="500004" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="36" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="500005" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="19" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="500006" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="35" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="500007" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="19" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="500008" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="20" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="500009" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="22" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="500010" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="50" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="500011" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="33" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="500012" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="52" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="500013" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="42" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="500014" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="56" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="500015" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="15" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="500016" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="55" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="500017" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="41" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="500018" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="38" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="500019" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="25" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="500020" name="110092000" desc="110092004" type="1" occupied_Time="0" marchTime="25" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="500101" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="27" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="500102" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="27" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="500103" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="52" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="500104" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="58" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="500105" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="52" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="500106" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="37" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="500107" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="18" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="500108" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="52" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="500109" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="48" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="500110" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="21" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="500111" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="33" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="500112" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="21" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="500113" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="36" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="500114" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="13" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="500115" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="37" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="500116" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="58" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="500117" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="30" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="500118" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="52" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="500119" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="50" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="500120" name="110092002" desc="110092006" type="2" occupied_Time="0" marchTime="48" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="500201" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="54" reward="1;980007,980008,980009,9800010,980011,980012,920015" />
+    <ItemSpec id="500202" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="46" reward="1;980007,980008,980009,9800010,980011,980012,920015" />
+    <ItemSpec id="500203" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="20" reward="1;980007,980008,980009,9800010,980011,980012,920015" />
+    <ItemSpec id="500204" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="29" reward="1;980007,980008,980009,9800010,980011,980012,920015" />
+    <ItemSpec id="500205" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="10" reward="1;980007,980008,980009,9800010,980011,980012,920015" />
+    <ItemSpec id="500206" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="49" reward="1;980007,980008,980009,9800010,980011,980012,920015" />
+    <ItemSpec id="500207" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="48" reward="1;980007,980008,980009,9800010,980011,980012,920015" />
+    <ItemSpec id="500208" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="54" reward="1;980007,980008,980009,9800010,980011,980012,920015" />
+    <ItemSpec id="500209" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="40" reward="1;980007,980008,980009,9800010,980011,980012,920015" />
+    <ItemSpec id="500210" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="44" reward="1;980007,980008,980009,9800010,980011,980012,920015" />
+    <ItemSpec id="500211" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="26" reward="1;980007,980008,980009,9800010,980011,980012,920015" />
+    <ItemSpec id="500212" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="15" reward="1;980007,980008,980009,9800010,980011,980012,920015" />
+    <ItemSpec id="500213" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="61" reward="1;980007,980008,980009,9800010,980011,980012,920015" />
+    <ItemSpec id="500214" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="16" reward="1;980007,980008,980009,9800010,980011,980012,920015" />
+    <ItemSpec id="500215" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="48" reward="1;980007,980008,980009,9800010,980011,980012,920015" />
+    <ItemSpec id="500216" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="31" reward="1;980007,980008,980009,9800010,980011,980012,920015" />
+    <ItemSpec id="500217" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="11" reward="1;980007,980008,980009,9800010,980011,980012,920015" />
+    <ItemSpec id="500218" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="25" reward="1;980007,980008,980009,9800010,980011,980012,920015" />
+    <ItemSpec id="500219" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="41" reward="1;980007,980008,980009,9800010,980011,980012,920015" />
+    <ItemSpec id="500220" name="110092003" desc="110092007" type="3" occupied_Time="300" marchTime="60" reward="1;980007,980008,980009,9800010,980011,980012,920015" />
+    <ItemSpec id="500301" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="500302" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="500303" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="500304" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="500305" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="500306" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="500307" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="500308" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="500309" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="500310" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="500311" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="500312" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="500313" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="500314" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="500315" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="500316" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="500317" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="500318" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="500319" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="500320" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980019,980020,980021,980022,980023,980024,920015" />
+    <ItemSpec id="500401" name="110092003" desc="110092007" type="3" occupied_Time="60" reward="1;980025,980026,980027,980028,980029,980030,920015" />
+    <ItemSpec id="500402" name="110092003" desc="110092007" type="3" occupied_Time="300" reward="1;980025,980026,980027,980028,980029,980030,920015" />
+    <ItemSpec id="500403" name="110092003" desc="110092007" type="3" occupied_Time="300" reward="1;980025,980026,980027,980028,980029,980030,920015" />
+    <ItemSpec id="500404" name="110092003" desc="110092007" type="3" occupied_Time="300" reward="1;980025,980026,980027,980028,980029,980030,920015" />
+    <ItemSpec id="500405" name="110092003" desc="110092007" type="3" occupied_Time="300" reward="1;980025,980026,980027,980028,980029,980030,920015" />
+    <ItemSpec id="500406" name="110092003" desc="110092007" type="3" occupied_Time="300" reward="1;980025,980026,980027,980028,980029,980030,920015" />
+    <ItemSpec id="500407" name="110092003" desc="110092007" type="3" occupied_Time="300" reward="1;980025,980026,980027,980028,980029,980030,920015" />
+    <ItemSpec id="500408" name="110092003" desc="110092007" type="3" occupied_Time="300" reward="1;980025,980026,980027,980028,980029,980030,920015" />
+    <ItemSpec id="500409" name="110092003" desc="110092007" type="3" occupied_Time="300" reward="1;980025,980026,980027,980028,980029,980030,920015" />
+    <ItemSpec id="500410" name="110092003" desc="110092007" type="3" occupied_Time="300" reward="1;980025,980026,980027,980028,980029,980030,920015" />
+    <ItemSpec id="500411" name="110092003" desc="110092007" type="3" occupied_Time="300" reward="1;980025,980026,980027,980028,980029,980030,920015" />
+    <ItemSpec id="500412" name="110092003" desc="110092007" type="3" occupied_Time="300" reward="1;980025,980026,980027,980028,980029,980030,920015" />
+    <ItemSpec id="500413" name="110092003" desc="110092007" type="3" occupied_Time="300" reward="1;980025,980026,980027,980028,980029,980030,920015" />
+    <ItemSpec id="500414" name="110092003" desc="110092007" type="3" occupied_Time="300" reward="1;980025,980026,980027,980028,980029,980030,920015" />
+    <ItemSpec id="500415" name="110092003" desc="110092007" type="3" occupied_Time="300" reward="1;980025,980026,980027,980028,980029,980030,920015" />
+    <ItemSpec id="500416" name="110092003" desc="110092007" type="3" occupied_Time="300" reward="1;980025,980026,980027,980028,980029,980030,920015" />
+    <ItemSpec id="500417" name="110092003" desc="110092007" type="3" occupied_Time="300" reward="1;980025,980026,980027,980028,980029,980030,920015" />
+    <ItemSpec id="500418" name="110092003" desc="110092007" type="3" occupied_Time="300" reward="1;980025,980026,980027,980028,980029,980030,920015" />
+    <ItemSpec id="500419" name="110092003" desc="110092007" type="3" occupied_Time="300" reward="1;980025,980026,980027,980028,980029,980030,920015" />
+    <ItemSpec id="500420" name="110092003" desc="110092007" type="3" occupied_Time="300" reward="1;980025,980026,980027,980028,980029,980030,920015" />
+<!-- 新增雷达优化二期集结任务 -->
+    <ItemSpec id="600001" name="111980114" desc="111980115" type="10" occupied_Time="0" marchTime="52" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="600002" name="111980114" desc="111980115" type="10" occupied_Time="0" marchTime="36" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="600003" name="111980114" desc="111980115" type="10" occupied_Time="0" marchTime="43" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="600004" name="111980114" desc="111980115" type="10" occupied_Time="0" marchTime="36" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="600005" name="111980114" desc="111980115" type="10" occupied_Time="0" marchTime="19" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="600006" name="111980114" desc="111980115" type="10" occupied_Time="0" marchTime="35" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="600007" name="111980114" desc="111980115" type="10" occupied_Time="0" marchTime="19" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="600008" name="111980114" desc="111980115" type="10" occupied_Time="0" marchTime="20" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="600009" name="111980114" desc="111980115" type="10" occupied_Time="0" marchTime="22" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="600010" name="111980114" desc="111980115" type="10" occupied_Time="0" marchTime="50" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="600011" name="111980114" desc="111980115" type="10" occupied_Time="0" marchTime="33" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="600012" name="111980114" desc="111980115" type="10" occupied_Time="0" marchTime="52" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="600013" name="111980114" desc="111980115" type="10" occupied_Time="0" marchTime="42" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="600014" name="111980114" desc="111980115" type="10" occupied_Time="0" marchTime="56" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="600015" name="111980114" desc="111980115" type="10" occupied_Time="0" marchTime="15" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="600016" name="111980114" desc="111980115" type="10" occupied_Time="0" marchTime="55" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="600017" name="111980114" desc="111980115" type="10" occupied_Time="0" marchTime="41" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="600018" name="111980114" desc="111980115" type="10" occupied_Time="0" marchTime="38" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="600019" name="111980114" desc="111980115" type="10" occupied_Time="0" marchTime="25" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+    <ItemSpec id="600020" name="111980114" desc="111980115" type="10" occupied_Time="0" marchTime="25" reward="1;980001,980002,980003,980004,980005,980006,920015" />
+<!-- 新增雷达优化二期帮助任务 -->
+    <ItemSpec id="600101" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="3" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600102" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="3" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600103" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="3" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600104" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="3" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600105" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="3" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600106" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="3" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600107" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="4" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600108" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="4" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600109" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="4" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600110" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="4" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600111" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="4" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600112" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="4" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600113" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="5" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600114" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="5" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600115" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="5" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600116" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="5" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600117" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="6" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600118" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="6" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600119" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="6" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600120" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="6" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600121" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="7" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600122" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="7" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600123" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="7" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600124" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="7" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600125" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="8" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600126" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="8" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600127" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="8" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600128" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="8" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600129" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="9" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600130" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="9" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600131" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="9" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600132" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="9" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600133" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="10" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600134" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="10" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600135" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="10" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600136" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="10" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600137" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="11" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600138" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="11" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600139" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="11" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+    <ItemSpec id="600140" name="111980116" desc="111980117" type="9" occupied_Time="0" marchTime="11" reward="1;980013,980014,980015,980016,980017,980018,920015" />
+
+	</Group> 
+</tns:database>

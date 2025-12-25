@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="building_bond">
+		<ItemSpec id="2014" group="202" name="110663962" bond_lv="1" effect="41130;1.2" effect_des="79022068;+1.2%" decoration="1526000|1526100|1526200|1526300" condition_lv="1" />
+		<ItemSpec id="2015" group="202" name="110663962" bond_lv="2" effect="41130;2.4|41140;1" effect_des="79022068;+2.4%|77112003;+1%" decoration="1526000|1526100|1526200|1526300" condition_lv="5" />
+		<ItemSpec id="2016" group="202" name="110663962" bond_lv="3" effect="41130;3.6|41140;3" effect_des="79022068;+3.6%|77112003;+3%" decoration="1526000|1526100|1526200|1526300" condition_lv="10" />
+		<ItemSpec id="2017" group="202" name="110663962" bond_lv="4" effect="41130;6.1|41140;5" effect_des="79022068;+6.1%|77112003;+5%" decoration="1526000|1526100|1526200|1526300" condition_lv="15" />
+		<ItemSpec id="20101" group="201" name="112160194" bond_lv="1" effect="41130;1.5" effect_des="79022068;+1.5%" decoration="1524000|1524100|1524200|1524300|1524400" condition_lv="1" />
+		<ItemSpec id="20102" group="201" name="112160194" bond_lv="2" effect="41130;3|41140;1.5" effect_des="79022068;+3%|77112003;+1.5%" decoration="1524000|1524100|1524200|1524300|1524400" condition_lv="5" />
+		<ItemSpec id="20103" group="201" name="112160194" bond_lv="3" effect="41130;4.5|41140;4.5" effect_des="79022068;+4.5%|77112003;+4.5%" decoration="1524000|1524100|1524200|1524300|1524400" condition_lv="10" />
+		<ItemSpec id="20104" group="201" name="112160194" bond_lv="4" effect="41130;6|41140;6" effect_des="79022068;+6%|77112003;+6%" decoration="1524000|1524100|1524200|1524300|1524400" condition_lv="15" />
+
+<ItemSpec id="2018" group="203" name="112160214" bond_lv="1" effect="41130;1.2" effect_des="79022056;+1.2%" decoration="1527000|1527100|1527200|1527300" condition_lv="1" />
+<ItemSpec id="2019" group="203" name="112160214" bond_lv="2" effect="41130;2.4|41141;2.4|41142;1" effect_des="79022056;+2.4%|113802;+1%" decoration="1527000|1527100|1527200|1527300" condition_lv="5" />
+<ItemSpec id="2020" group="203" name="112160214" bond_lv="3" effect="41130;3.6|41141;3.6|41142;3" effect_des="79022056;+3.6%|113802;+3%" decoration="1527000|1527100|1527200|1527300" condition_lv="10" />
+<ItemSpec id="2021" group="203" name="112160214" bond_lv="4" effect="41130;6.1|41141;6.1|41142;5" effect_des="79022056;+6.1%|113802;+5%" decoration="1527000|1527100|1527200|1527300" condition_lv="15" />
+</Group>
+</tns:database>

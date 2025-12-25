@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="math_race_random">
+		<ItemSpec id="bigBoss" OperatorGroupWeight="normal0.2;24|normal0.5;18|normal+1;12|normal-1;12|good1.2;20|bad1.2;20|normal+2;3|normal+3;1|good3;3|good4;1|bad2;3|normal-2;3|normal/2;2|normal/2;2|normal/2;2|normal/2;2|bad1.2;2|bad1.2;2|bad1.5;2|bad1.5;2|normal/1.2;2|normal/1.2;2|normal/1.5;2|normal/1.5;2" MonsterGroupWeightL="bigBoss;1" CellsWeight="0" autoWeight="6;-1;1"/>
+		<ItemSpec id="avg" OperatorGroupWeight="normal0.2;24|normal0.5;18|normal+1;12|normal-1;12|good1.2;20|bad1.2;20|normal+2;3|normal+3;1|good3;3|good4;1|bad2;3|normal-2;3|normal/2;2|normal/2;2|normal/2;2|normal/2;2|bad1.2;2|bad1.2;2|bad1.5;2|bad1.5;2|normal/1.2;2|normal/1.2;2|normal/1.5;2|normal/1.5;2" MonsterGroupWeightR="d09;1" CellsWeight="0" autoWeight="6;-1;1"/>
+	</Group>
+</tns:database>

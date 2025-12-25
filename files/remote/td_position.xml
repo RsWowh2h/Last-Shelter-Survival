@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="td_position">
+    <ItemSpec id="1" material="215675" num="3" />
+    <ItemSpec id="2" material="215675" num="3" />
+    <ItemSpec id="3" material="215675" num="3" />
+    <ItemSpec id="4" material="215675" num="3" />
+    <ItemSpec id="5" material="215675" num="3" />
+    <ItemSpec id="6" material="215675" num="3" />
+
+ </Group >
+</tns:database>
+

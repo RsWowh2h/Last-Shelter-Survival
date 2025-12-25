@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="season_special">
+
+    <ItemSpec id="1" name="110288630" pic="seasonDescIcon1.png" describe ="110454026" />
+    <ItemSpec id="2" name="110451003" pic="seasonDescIcon18.png" describe ="1104550208" />
+    <ItemSpec id="3" name="110210010" pic="seasonDescIcon3.png" describe ="1104550210" />
+    <ItemSpec id="4" name="110454023" pic="seasonDescIcon25.png" describe ="110454028" />
+    <ItemSpec id="5" name="110332001" pic="seasonDescIcon4.png" describe ="110454027" />
+    <ItemSpec id="6" name="110332091" pic="seasonDescIcon9.png" describe ="110454058" />
+    <ItemSpec id="7" name="110256137" pic="seasonDescIcon11.png" describe ="110454055" />
+    <ItemSpec id="8" name="110256222" pic="seasonDescIcon30.png" describe ="1104550214" />
+    <ItemSpec id="9" name="110560501" pic="seasonDescIcon31.png" describe ="110560538"/>
+    <ItemSpec id="10" name="110110841" pic="seasonDescIcon22.png" describe ="110111181"/>
+    <ItemSpec id="11" name="112140211" pic="seasonDescIcon32.png" describe ="112140218" />
+    <ItemSpec id="12" name="112140212" pic="seasonDescIcon33.png" describe ="112140219" />
+    <ItemSpec id="13" name="112140213" pic="seasonDescIcon34.png" describe ="112140220" />
+    <ItemSpec id="14" name="112140214" pic="seasonDescIcon35.png" describe ="112140221" />
+    <ItemSpec id="15" name="112140215" pic="seasonDescIcon36.png" describe ="112140222" />
+    <ItemSpec id="16" name="112140216" pic="seasonDescIcon37.png" describe ="112140223" />
+    <ItemSpec id="17" name="112140217" pic="seasonDescIcon38.png" describe ="112140224" />
+
+
+
+</Group>
+</tns:database>

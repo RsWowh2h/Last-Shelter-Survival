@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="DD_Allianceskill">
+
+    <ItemSpec id="20000" name="110465025" icon="allianceskill02.png" description="110465026" diago="100|100|150|200" is_show="1" type="3" item_cost="200752,500|200752,500|200752,500|200752,500" max_level="3" para1="80;10,1000|80;10,1000|80;10,1500|80;10,2000" pre_time="0" duration="0" cd_time="4320" frequency="999" open_level="1" />
+    <ItemSpec id="20001" name="110465027" icon="allianceskill03.png" description="110465028" diago="1|1|2|3" is_show="1" type="2" item_cost="200752,500|200752,500|200752,500|200752,500" max_level="3" para1="500091|500091|500092|500093" pre_time="0" duration="0" cd_time="4320" frequency="999" open_level="1" />
+    <ItemSpec id="20002" name="110465029" icon="allianceskill04.png" description="110465030" diago="100|100|150|200" is_show="1" type="3" item_cost="200752,500|200752,500|200752,500|200752,500" max_level="3" para1="30;223209,1000|30;223209,1000|50;223209,2000|50;223209,3000" pre_time="0" duration="0" cd_time="4320" frequency="999" open_level="1" />
+    <ItemSpec id="20003" name="110465031" icon="allianceskill01.png" description="110465032" diago="2000|2000|2500|3000" is_show="1" type="3" item_cost="200752,500|200752,500|200752,500|200752,500" max_level="3" para1="200750;2000|200750;2000|200750;2500|200750;3000" pre_time="0" duration="0" cd_time="4320" frequency="999" open_level="1" />
+    <ItemSpec id="30000" name="110465033" icon="allianceskill05.png" description="110465034" diago="5|5|5|5" is_show="0" type="3" max_level="3" open_level="1" />
+    <ItemSpec id="30001" name="110465037" icon="allianceskill06.png" description="110465038" diago="20|20|30|50" is_show="0" type="3" max_level="3" open_level="1" />
+    <ItemSpec id="30002" name="110465035" icon="allianceskill07.png" description="110465036" diago="20|20|30|50" is_show="0" type="3" max_level="3" open_level="1" />
+
+
+	</Group>
+</tns:database>

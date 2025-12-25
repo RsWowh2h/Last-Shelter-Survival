@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="emoticon">
+        <ItemSpec id="1" icon="LSEMOJI_1002" titleIcon="LSEMOJI_1002" page="3"/>
+		<ItemSpec id="2" icon="LSEMOJI_1003" titleIcon="LSEMOJI_1002" page="3"/>
+		<ItemSpec id="3" icon="LSEMOJI_1004" titleIcon="LSEMOJI_1002" page="3"/>
+		<ItemSpec id="4" icon="LSEMOJI_1005" titleIcon="LSEMOJI_1002" page="3"/>
+		<ItemSpec id="5" icon="LSEMOJI_1006" titleIcon="LSEMOJI_1002" page="3"/>
+		<ItemSpec id="6" icon="LSEMOJI_1007" titleIcon="LSEMOJI_1002" page="3"/>
+		<ItemSpec id="7" icon="LSEMOJI_1008" titleIcon="LSEMOJI_1002" page="3"/>
+		<ItemSpec id="8" icon="LSEMOJI_1009" titleIcon="LSEMOJI_1002" page="3"/>
+		<ItemSpec id="9" icon="LSEMOJI_1011" titleIcon="LSEMOJI_1018" page="4"/>
+		<ItemSpec id="10" icon="LSEMOJI_1012" titleIcon="LSEMOJI_1018" page="4"/>
+		<ItemSpec id="11" icon="LSEMOJI_1013" titleIcon="LSEMOJI_1018" page="4"/>
+		<ItemSpec id="12" icon="LSEMOJI_1014" titleIcon="LSEMOJI_1018" page="4"/>
+		<ItemSpec id="13" icon="LSEMOJI_1015" titleIcon="LSEMOJI_1018" page="4"/>
+		<ItemSpec id="14" icon="LSEMOJI_1016" titleIcon="LSEMOJI_1018" page="4"/>
+		<ItemSpec id="15" icon="LSEMOJI_1017" titleIcon="LSEMOJI_1018" page="4"/>
+		<ItemSpec id="16" icon="LSEMOJI_1018" titleIcon="LSEMOJI_1018" page="4"/>
+		<ItemSpec id="17" icon="LSEMOJI_1019" titleIcon="LSEMOJI_1019" page="5"/>
+		<ItemSpec id="18" icon="LSEMOJI_1020" titleIcon="LSEMOJI_1019" page="5"/>
+		<ItemSpec id="19" icon="LSEMOJI_1021" titleIcon="LSEMOJI_1019" page="5"/>
+		<ItemSpec id="20" icon="LSEMOJI_1022" titleIcon="LSEMOJI_1019" page="5"/>
+		<ItemSpec id="21" icon="LSEMOJI_1023" titleIcon="LSEMOJI_1019" page="5"/>
+		<ItemSpec id="22" icon="LSEMOJI_1024" titleIcon="LSEMOJI_1019" page="5"/>
+		<ItemSpec id="23" icon="LSEMOJI_1025" titleIcon="LSEMOJI_1019" page="5"/>
+		<ItemSpec id="24" icon="LSEMOJI_1026" titleIcon="LSEMOJI_1019" page="5"/>
+		<ItemSpec id="25" icon="LSEMOJI_1027" titleIcon="LSEMOJI_1032" page="6"/>
+		<ItemSpec id="26" icon="LSEMOJI_1028" titleIcon="LSEMOJI_1032" page="6"/>
+		<ItemSpec id="27" icon="LSEMOJI_1029" titleIcon="LSEMOJI_1032" page="6"/>
+		<ItemSpec id="28" icon="LSEMOJI_1030" titleIcon="LSEMOJI_1032" page="6"/>
+		<ItemSpec id="29" icon="LSEMOJI_1031" titleIcon="LSEMOJI_1032" page="6"/>
+		<ItemSpec id="30" icon="LSEMOJI_1032" titleIcon="LSEMOJI_1032" page="6"/>
+		<ItemSpec id="31" icon="LSEMOJI_1033" titleIcon="LSEMOJI_1032" page="6"/>
+		<ItemSpec id="32" icon="LSEMOJI_1034" titleIcon="LSEMOJI_1032" page="6"/>
+
+</Group>
+</tns:database>

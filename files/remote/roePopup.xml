@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="roePopup">
+<!--order小的优先级越高，popType=1触发多个时的只弹一个，popType=2触发多个时都弹-->	
+	<ItemSpec id="999990001" order="1" popType="1"/>
+    <ItemSpec id="999990002" order="2" popType="1"/>
+    <ItemSpec id="999990003" order="3" popType="2"/>
+    <ItemSpec id="999990004" order="4" popType="2"/>
+    <ItemSpec id="999990005" order="5" popType="2"/>
+
+</Group>
+
+</tns:database>

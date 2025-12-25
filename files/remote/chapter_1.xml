@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="chapter_1">
+    <ItemSpec id="1" chapter="1" base_lv="1" name="83300013" description="83200548" pic="u_TaskBg/u_TaskBg01" reward="420112" quest="2500004|2500005|2500006|2500001|2500003"/>
+    <ItemSpec id="2" chapter="2" base_lv="2" name="83400046" description="83200549" pic="u_TaskBg/u_TaskBg02" reward="420113" quest="2500110|2500209|2500101|2500103|2500105"/>
+    <ItemSpec id="3" chapter="3" base_lv="2" name="83400047" description="83200550" pic="u_TaskBg/u_TaskBg03" reward="420114" quest="2500202|2500208|2500109|2500306|2500210"/>
+    <ItemSpec id="4" chapter="4" base_lv="3" name="83400048" description="83200551" pic="u_TaskBg/u_TaskBg03" reward="420115" quest="2500305|2500201|2500301|2500403|2500308"/>
+    <ItemSpec id="5" chapter="5" base_lv="4" name="83400049" description="83200552" pic="u_TaskBg/u_TaskBg03" reward="590002" quest="2500401|2500500|2500405|2500406|2500407"/>
+    <ItemSpec id="6" chapter="6" base_lv="5" name="83400050" description="83200553" pic="u_TaskBg/u_TaskBg04" reward="420116" quest="2500411|2500409|2500410|2500412|2500413"/>
+    <ItemSpec id="7" chapter="7" base_lv="25" name="110250084" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108019" quest="7000000|7000001|7000002|7000003" showChapter="7" newChapter="1" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_kaxier" heroTalk="110250088"/>
+        <ItemSpec id="8" chapter="8" base_lv="25" name="110250085" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108020" quest="7000004|7000005|7000006|7000007|7000008" showChapter="8" newChapter="2" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_xiubote" heroTalk="110250090"/>
+        <ItemSpec id="9" chapter="9" base_lv="25" name="110250086" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108021" quest="7000009|7000010|7000011|7000012|7000013" showChapter="9" newChapter="3" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_aida" heroTalk="110250092"/>
+        <ItemSpec id="10" chapter="10" base_lv="25" name="110250087" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108022" quest="7000014|7000015|7000016|7000017" showChapter="10" newChapter="4" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_zhihuiguan" heroTalk="110250094"/>
+<!--35级章节配置--> 
+		  <ItemSpec id="11" chapter="11" showChapter="11" name="111980002" chapterBanner="building35_chapter" quest="7000020|7000021|7000022|7000023" newChapter="99" heroIcon="hero_kaxier" heroTalk="111980003" chapterStartTrigger="84005195" chapterEndTrigger="84005400" />
+		  <ItemSpec id="12" chapter="12" showChapter="12" name="111980004" chapterBanner="building35_chapter" quest="7000024|7000025|7000026|7000027" newChapter="100" heroIcon="hero_xiubote" heroTalk="111980005" chapterEndTrigger="84005600"/>
+		  <ItemSpec id="13" chapter="13" showChapter="13" name="111980006" chapterBanner="building35_chapter" quest="7000028|7000029|7000030|7000031|7000032" newChapter="101" heroIcon="hero_aida" heroTalk="111980007" chapterEndTrigger="84005700"/>
+		  <ItemSpec id="14" chapter="14" showChapter="14" name="111980008" chapterBanner="building35_chapter" quest="7000033|7000034|7000035|7000036|7000037" newChapter="102" heroIcon="hero_zhihuiguan" heroTalk="111980009" chapterEndTrigger="84005800"/>
+		  <ItemSpec id="15" chapter="15" showChapter="15" name="111980010" chapterBanner="building35_chapter" quest="7000038|7000039|7000040|7000041" newChapter="103" heroIcon="hero_zhihuiguan" heroTalk="111980011" chapterEndTrigger="84005900"/>
+ 
+	</Group>
+</tns:database>

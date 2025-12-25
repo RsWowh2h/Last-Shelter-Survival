@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="gvg_week_reward">
+    <ItemSpec id="100" type="30000" lv="9" rank1="1-12" rank2="1" showreward="627400" reward="627700" medal="4600000"/>
+    <ItemSpec id="101" type="30000" lv="9" rank1="1-12" rank2="2-10" showreward="627401" reward="627701" medal="4600001"/>
+    <ItemSpec id="102" type="30000" lv="9" rank1="1-12" rank2="11-20" showreward="627402" reward="627702" medal="4600002"/>
+    <ItemSpec id="103" type="30000" lv="9" rank1="1-12" rank2="21-50" showreward="627403" reward="627703" medal="4600003"/>
+    <ItemSpec id="104" type="30000" lv="9" rank1="1-12" rank2="51-100" showreward="627404" reward="627704" medal="4600004"/>
+    <ItemSpec id="105" type="30000" lv="8" rank1="1-12" rank2="1" showreward="627405" reward="627705" medal="4600001"/>
+    <ItemSpec id="106" type="30000" lv="8" rank1="1-12" rank2="2-10" showreward="627406" reward="627706" medal="4600002"/>
+    <ItemSpec id="107" type="30000" lv="8" rank1="1-12" rank2="11-20" showreward="627407" reward="627707" medal="4600003"/>
+    <ItemSpec id="108" type="30000" lv="8" rank1="1-12" rank2="21-50" showreward="627408" reward="627708" medal="4600004"/>
+    <ItemSpec id="109" type="30000" lv="8" rank1="1-12" rank2="51-100" showreward="627409" reward="627709"/>
+    <ItemSpec id="110" type="30000" lv="7" rank1="1-12" rank2="1" showreward="627410" reward="627710" medal="4600010"/>
+    <ItemSpec id="111" type="30000" lv="7" rank1="1-12" rank2="2-10" showreward="627411" reward="627711" medal="4600011"/>
+    <ItemSpec id="112" type="30000" lv="7" rank1="1-12" rank2="11-20" showreward="627412" reward="627712" medal="4600012"/>
+    <ItemSpec id="113" type="30000" lv="7" rank1="1-12" rank2="21-50" showreward="627413" reward="627713" medal="4600013"/>
+    <ItemSpec id="114" type="30000" lv="7" rank1="1-12" rank2="51-100" showreward="627414" reward="627714"/>
+    <ItemSpec id="115" type="30000" lv="6" rank1="1-12" rank2="1" showreward="627415" reward="627715" medal="4600011"/>
+    <ItemSpec id="116" type="30000" lv="6" rank1="1-12" rank2="2-10" showreward="627416" reward="627716" medal="4600012"/>
+    <ItemSpec id="117" type="30000" lv="6" rank1="1-12" rank2="11-20" showreward="627417" reward="627717" medal="4600013"/>
+    <ItemSpec id="118" type="30000" lv="6" rank1="1-12" rank2="21-50" showreward="627418" reward="627718" medal="4600014"/>
+    <ItemSpec id="119" type="30000" lv="6" rank1="1-12" rank2="51-100" showreward="627419" reward="627719"/>
+    <ItemSpec id="120" type="30000" lv="5" rank1="1-12" rank2="1" showreward="627420" reward="627720" medal="4600020"/>
+    <ItemSpec id="121" type="30000" lv="5" rank1="1-12" rank2="2-10" showreward="627421" reward="627721" medal="4600021"/>
+    <ItemSpec id="122" type="30000" lv="5" rank1="1-12" rank2="11-20" showreward="627422" reward="627722" medal="4600022"/>
+    <ItemSpec id="123" type="30000" lv="5" rank1="1-12" rank2="21-50" showreward="627423" reward="627723" medal="4600023"/>
+    <ItemSpec id="124" type="30000" lv="5" rank1="1-12" rank2="51-100" showreward="627424" reward="627724"/>
+    <ItemSpec id="125" type="30000" lv="4" rank1="1-12" rank2="1" showreward="627425" reward="627725" medal="4600021"/>
+    <ItemSpec id="126" type="30000" lv="4" rank1="1-12" rank2="2-10" showreward="627426" reward="627726" medal="4600022"/>
+    <ItemSpec id="127" type="30000" lv="4" rank1="1-12" rank2="11-20" showreward="627427" reward="627727" medal="4600023"/>
+    <ItemSpec id="128" type="30000" lv="4" rank1="1-12" rank2="21-50" showreward="627428" reward="627728" medal="4600024"/>
+    <ItemSpec id="129" type="30000" lv="4" rank1="1-12" rank2="51-100" showreward="627429" reward="627729"/>
+    <ItemSpec id="130" type="30000" lv="3" rank1="1-12" rank2="1" showreward="627430" reward="627730"/>
+    <ItemSpec id="131" type="30000" lv="3" rank1="1-12" rank2="2-10" showreward="627431" reward="627731"/>
+    <ItemSpec id="132" type="30000" lv="3" rank1="1-12" rank2="11-20" showreward="627432" reward="627732"/>
+
+    <ItemSpec id="135" type="30000" lv="2" rank1="1-12" rank2="1" showreward="627435" reward="627735"/>
+    <ItemSpec id="136" type="30000" lv="2" rank1="1-12" rank2="2-10" showreward="627436" reward="627736"/>
+    <ItemSpec id="137" type="30000" lv="2" rank1="1-12" rank2="11-20" showreward="627437" reward="627737"/>
+
+    <ItemSpec id="140" type="30000" lv="1" rank1="1-12" rank2="1" showreward="627440" reward="627740"/>
+    <ItemSpec id="141" type="30000" lv="1" rank1="1-12" rank2="2-10" showreward="627441" reward="627741"/>
+    <ItemSpec id="142" type="30000" lv="1" rank1="1-12" rank2="11-20" showreward="627442" reward="627742"/>
+
+    <ItemSpec id="200" type="20000" lv="9" rank1="1-12" rank2="1" showreward="627500" reward="627800" medal="4600000"/>
+    <ItemSpec id="201" type="20000" lv="9" rank1="1-12" rank2="2-10" showreward="627501" reward="627801" medal="4600001"/>
+    <ItemSpec id="202" type="20000" lv="9" rank1="1-12" rank2="11-20" showreward="627502" reward="627802" medal="4600002"/>
+    <ItemSpec id="203" type="20000" lv="9" rank1="1-12" rank2="21-50" showreward="627503" reward="627803" medal="4600003"/>
+    <ItemSpec id="204" type="20000" lv="9" rank1="1-12" rank2="51-100" showreward="627504" reward="627804" medal="4600004"/>
+    <ItemSpec id="205" type="20000" lv="8" rank1="1-12" rank2="1" showreward="627505" reward="627805" medal="4600001"/>
+    <ItemSpec id="206" type="20000" lv="8" rank1="1-12" rank2="2-10" showreward="627506" reward="627806" medal="4600002"/>
+    <ItemSpec id="207" type="20000" lv="8" rank1="1-12" rank2="11-20" showreward="627507" reward="627807" medal="4600003"/>
+    <ItemSpec id="208" type="20000" lv="8" rank1="1-12" rank2="21-50" showreward="627508" reward="627808" medal="4600004"/>
+    <ItemSpec id="209" type="20000" lv="8" rank1="1-12" rank2="51-100" showreward="627509" reward="627809"/>
+    <ItemSpec id="210" type="20000" lv="7" rank1="1-12" rank2="1" showreward="627510" reward="627810" medal="4600010"/>
+    <ItemSpec id="211" type="20000" lv="7" rank1="1-12" rank2="2-10" showreward="627511" reward="627811" medal="4600011"/>
+    <ItemSpec id="212" type="20000" lv="7" rank1="1-12" rank2="11-20" showreward="627512" reward="627812" medal="4600012"/>
+    <ItemSpec id="213" type="20000" lv="7" rank1="1-12" rank2="21-50" showreward="627513" reward="627813" medal="4600013"/>
+    <ItemSpec id="214" type="20000" lv="7" rank1="1-12" rank2="51-100" showreward="627514" reward="627814"/>
+    <ItemSpec id="215" type="20000" lv="6" rank1="1-12" rank2="1" showreward="627515" reward="627815" medal="4600011"/>
+    <ItemSpec id="216" type="20000" lv="6" rank1="1-12" rank2="2-10" showreward="627516" reward="627816" medal="4600012"/>
+    <ItemSpec id="217" type="20000" lv="6" rank1="1-12" rank2="11-20" showreward="627517" reward="627817" medal="4600013"/>
+    <ItemSpec id="218" type="20000" lv="6" rank1="1-12" rank2="21-50" showreward="627518" reward="627818" medal="4600014"/>
+    <ItemSpec id="219" type="20000" lv="6" rank1="1-12" rank2="51-100" showreward="627519" reward="627819"/>
+    <ItemSpec id="220" type="20000" lv="5" rank1="1-12" rank2="1" showreward="627520" reward="627820" medal="4600020"/>
+    <ItemSpec id="221" type="20000" lv="5" rank1="1-12" rank2="2-10" showreward="627521" reward="627821" medal="4600021"/>
+    <ItemSpec id="222" type="20000" lv="5" rank1="1-12" rank2="11-20" showreward="627522" reward="627822" medal="4600022"/>
+    <ItemSpec id="223" type="20000" lv="5" rank1="1-12" rank2="21-50" showreward="627523" reward="627823" medal="4600023"/>
+    <ItemSpec id="224" type="20000" lv="5" rank1="1-12" rank2="51-100" showreward="627524" reward="627824"/>
+    <ItemSpec id="225" type="20000" lv="4" rank1="1-12" rank2="1" showreward="627525" reward="627825" medal="4600021"/>
+    <ItemSpec id="226" type="20000" lv="4" rank1="1-12" rank2="2-10" showreward="627526" reward="627826" medal="4600022"/>
+    <ItemSpec id="227" type="20000" lv="4" rank1="1-12" rank2="11-20" showreward="627527" reward="627827" medal="4600023"/>
+    <ItemSpec id="228" type="20000" lv="4" rank1="1-12" rank2="21-50" showreward="627528" reward="627828" medal="4600024"/>
+    <ItemSpec id="229" type="20000" lv="4" rank1="1-12" rank2="51-100" showreward="627529" reward="627829"/>
+    <ItemSpec id="230" type="20000" lv="3" rank1="1-12" rank2="1" showreward="627530" reward="627830"/>
+    <ItemSpec id="231" type="20000" lv="3" rank1="1-12" rank2="2-10" showreward="627531" reward="627831"/>
+    <ItemSpec id="232" type="20000" lv="3" rank1="1-12" rank2="11-20" showreward="627532" reward="627832"/>
+
+    <ItemSpec id="235" type="20000" lv="2" rank1="1-12" rank2="1" showreward="627535" reward="627835"/>
+    <ItemSpec id="236" type="20000" lv="2" rank1="1-12" rank2="2-10" showreward="627536" reward="627836"/>
+    <ItemSpec id="237" type="20000" lv="2" rank1="1-12" rank2="11-20" showreward="627537" reward="627837"/>
+
+    <ItemSpec id="240" type="20000" lv="1" rank1="1-12" rank2="1" showreward="627540" reward="627840"/>
+    <ItemSpec id="241" type="20000" lv="1" rank1="1-12" rank2="2-10" showreward="627541" reward="627841"/>
+    <ItemSpec id="242" type="20000" lv="1" rank1="1-12" rank2="11-20" showreward="627542" reward="627842"/>
+
+    <ItemSpec id="300" type="10000" lv="9" rank1="1-12" rank2="1" showreward="627600" reward="627900" medal="4600000"/>
+    <ItemSpec id="301" type="10000" lv="9" rank1="1-12" rank2="2-10" showreward="627601" reward="627901" medal="4600001"/>
+    <ItemSpec id="302" type="10000" lv="9" rank1="1-12" rank2="11-20" showreward="627602" reward="627902" medal="4600002"/>
+    <ItemSpec id="303" type="10000" lv="9" rank1="1-12" rank2="21-50" showreward="627603" reward="627903" medal="4600003"/>
+    <ItemSpec id="304" type="10000" lv="9" rank1="1-12" rank2="51-100" showreward="627604" reward="627904" medal="4600004"/>
+    <ItemSpec id="305" type="10000" lv="8" rank1="1-12" rank2="1" showreward="627605" reward="627905" medal="4600001"/>
+    <ItemSpec id="306" type="10000" lv="8" rank1="1-12" rank2="2-10" showreward="627606" reward="627906" medal="4600002"/>
+    <ItemSpec id="307" type="10000" lv="8" rank1="1-12" rank2="11-20" showreward="627607" reward="627907" medal="4600003"/>
+    <ItemSpec id="308" type="10000" lv="8" rank1="1-12" rank2="21-50" showreward="627608" reward="627908" medal="4600004"/>
+    <ItemSpec id="309" type="10000" lv="8" rank1="1-12" rank2="51-100" showreward="627609" reward="627909"/>
+    <ItemSpec id="310" type="10000" lv="7" rank1="1-12" rank2="1" showreward="627610" reward="627910" medal="4600010"/>
+    <ItemSpec id="311" type="10000" lv="7" rank1="1-12" rank2="2-10" showreward="627611" reward="627911" medal="4600011"/>
+    <ItemSpec id="312" type="10000" lv="7" rank1="1-12" rank2="11-20" showreward="627612" reward="627912" medal="4600012"/>
+    <ItemSpec id="313" type="10000" lv="7" rank1="1-12" rank2="21-50" showreward="627613" reward="627913" medal="4600013"/>
+    <ItemSpec id="314" type="10000" lv="7" rank1="1-12" rank2="51-100" showreward="627614" reward="627914"/>
+    <ItemSpec id="315" type="10000" lv="6" rank1="1-12" rank2="1" showreward="627615" reward="627915" medal="4600011"/>
+    <ItemSpec id="316" type="10000" lv="6" rank1="1-12" rank2="2-10" showreward="627616" reward="627916" medal="4600012"/>
+    <ItemSpec id="317" type="10000" lv="6" rank1="1-12" rank2="11-20" showreward="627617" reward="627917" medal="4600013"/>
+    <ItemSpec id="318" type="10000" lv="6" rank1="1-12" rank2="21-50" showreward="627618" reward="627918" medal="4600014"/>
+    <ItemSpec id="319" type="10000" lv="6" rank1="1-12" rank2="51-100" showreward="627619" reward="627919"/>
+    <ItemSpec id="320" type="10000" lv="5" rank1="1-12" rank2="1" showreward="627620" reward="627920" medal="4600020"/>
+    <ItemSpec id="321" type="10000" lv="5" rank1="1-12" rank2="2-10" showreward="627621" reward="627921" medal="4600021"/>
+    <ItemSpec id="322" type="10000" lv="5" rank1="1-12" rank2="11-20" showreward="627622" reward="627922" medal="4600022"/>
+    <ItemSpec id="323" type="10000" lv="5" rank1="1-12" rank2="21-50" showreward="627623" reward="627923" medal="4600023"/>
+    <ItemSpec id="324" type="10000" lv="5" rank1="1-12" rank2="51-100" showreward="627624" reward="627924"/>
+    <ItemSpec id="325" type="10000" lv="4" rank1="1-12" rank2="1" showreward="627625" reward="627925" medal="4600021"/>
+    <ItemSpec id="326" type="10000" lv="4" rank1="1-12" rank2="2-10" showreward="627626" reward="627926" medal="4600022"/>
+    <ItemSpec id="327" type="10000" lv="4" rank1="1-12" rank2="11-20" showreward="627627" reward="627927" medal="4600023"/>
+    <ItemSpec id="328" type="10000" lv="4" rank1="1-12" rank2="21-50" showreward="627628" reward="627928" medal="4600024"/>
+    <ItemSpec id="329" type="10000" lv="4" rank1="1-12" rank2="51-100" showreward="627629" reward="627929"/>
+    <ItemSpec id="330" type="10000" lv="3" rank1="1-12" rank2="1" showreward="627630" reward="627930"/>
+    <ItemSpec id="331" type="10000" lv="3" rank1="1-12" rank2="2-10" showreward="627631" reward="627931"/>
+    <ItemSpec id="332" type="10000" lv="3" rank1="1-12" rank2="11-20" showreward="627632" reward="627932"/>
+
+    <ItemSpec id="335" type="10000" lv="2" rank1="1-12" rank2="1" showreward="627635" reward="627935"/>
+    <ItemSpec id="336" type="10000" lv="2" rank1="1-12" rank2="2-10" showreward="627636" reward="627936"/>
+    <ItemSpec id="337" type="10000" lv="2" rank1="1-12" rank2="11-20" showreward="627637" reward="627937"/>
+
+    <ItemSpec id="340" type="10000" lv="1" rank1="1-12" rank2="1" showreward="627640" reward="627940"/>
+    <ItemSpec id="341" type="10000" lv="1" rank1="1-12" rank2="2-10" showreward="627641" reward="627941"/>
+    <ItemSpec id="342" type="10000" lv="1" rank1="1-12" rank2="11-20" showreward="627642" reward="627942"/>
+
+
+
+
+</Group>
+</tns:database>

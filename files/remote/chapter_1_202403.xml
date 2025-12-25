@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="chapter_1">
+    <ItemSpec id="1" chapter="1" base_lv="1" name="110010070" description="110010075" pic="u_TaskBg/u_TaskBg01" reward="420112" quest="2501101|2501102|2501103|2501104|2501105"/>
+    <ItemSpec id="2" chapter="2" base_lv="2" name="110010071" description="110010076" pic="u_TaskBg/u_TaskBg02" reward="590004" quest="2501201|2501202|2501204|2501203|2501205"/>
+    <ItemSpec id="3" chapter="3" base_lv="2" name="110010072" description="110010077" pic="u_TaskBg/u_TaskBg03" reward="590005" quest="2500202|2500208|2500109|2500201|2500210"/>
+    <ItemSpec id="4" chapter="4" base_lv="3" name="110010073" description="110010078" pic="u_TaskBg/u_TaskBg03" reward="420115" quest="2500305|2501606|2500403|2500301|2500308"/>
+    <ItemSpec id="5" chapter="5" base_lv="4" name="110010079" description="110010080" pic="u_TaskBg/u_TaskBg03" reward="590002" quest="2500401|2500500|2500405|2500406|2500407"/>
+    <ItemSpec id="6" chapter="6" base_lv="5" name="110010081" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="420116" quest="2500410|9999001|2500411|2500412|2500413"/>
+    <ItemSpec id="7" chapter="7" base_lv="25" name="110250084" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108019" quest="7000000|7000001|7000002|7000003" showChapter="7" newChapter="1" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_kaxier" heroTalk="110250088"/>
+        <ItemSpec id="8" chapter="8" base_lv="25" name="110250085" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108020" quest="7000004|7000005|7000006|7000007|7000008" showChapter="8" newChapter="2" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_xiubote" heroTalk="110250090"/>
+        <ItemSpec id="9" chapter="9" base_lv="25" name="110250086" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108021" quest="7000009|7000010|7000011|7000012|7000013" showChapter="9" newChapter="3" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_aida" heroTalk="110250092"/>
+        <ItemSpec id="10" chapter="10" base_lv="25" name="110250087" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108022" quest="7000014|7000015|7000016|7000017" showChapter="10" newChapter="4" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_zhihuiguan" heroTalk="110250094"/>
+<!--35级章节配置--> 
+		  <ItemSpec id="11" chapter="11" showChapter="11" name="111980002" chapterBanner="building35_chapter" quest="7000020|7000021|7000022|7000023" newChapter="99" heroIcon="hero_kaxier" heroTalk="111980003" chapterStartTrigger="84005195" chapterEndTrigger="84005400" />
+		  <ItemSpec id="12" chapter="12" showChapter="12" name="111980004" chapterBanner="building35_chapter" quest="7000024|7000025|7000026|7000027" newChapter="100" heroIcon="hero_xiubote" heroTalk="111980005" chapterEndTrigger="84005600"/>
+		  <ItemSpec id="13" chapter="13" showChapter="13" name="111980006" chapterBanner="building35_chapter" quest="7000028|7000029|7000030|7000031|7000032" newChapter="101" heroIcon="hero_aida" heroTalk="111980007" chapterEndTrigger="84005700"/>
+		  <ItemSpec id="14" chapter="14" showChapter="14" name="111980008" chapterBanner="building35_chapter" quest="7000033|7000034|7000035|7000036|7000037" newChapter="102" heroIcon="hero_zhihuiguan" heroTalk="111980009" chapterEndTrigger="84005800"/>
+		  <ItemSpec id="15" chapter="15" showChapter="15" name="111980010" chapterBanner="building35_chapter" quest="7000038|7000039|7000040|7000041" newChapter="103" heroIcon="hero_zhihuiguan" heroTalk="111980011" chapterEndTrigger="84005900"/>
+ 
+	</Group>
+	
+	<Group id="chapter_2">
+    <ItemSpec id="1" chapter="1" base_lv="1" name="111850020" description="110010074" pic="u_TaskBg/u_TaskBg01" reward="3005101" quest="4010101|4010102|4010103|4010104|4010105" chapterDes="110530039" chapterBanner="chapterQuestBanner_1"/>
+    <ItemSpec id="2" chapter="2" base_lv="1" name="111850021" description="110010075" pic="u_TaskBg/u_TaskBg02" reward="3005102" quest="4010201|4010202|4010203|4010204|4010205" chapterDes="110530040" chapterBanner="chapterQuestBanner_2"/>
+    <ItemSpec id="3" chapter="3" base_lv="2" name="111850022" description="110010076" pic="u_TaskBg/u_TaskBg03" reward="3005103" quest="4010301|4010302|4010303|4010304|4010305" chapterDes="110530041" chapterBanner="chapterQuestBanner_3"/>
+    <ItemSpec id="4" chapter="4" base_lv="3" name="111850023" description="110010077" pic="u_TaskBg/u_TaskBg03" reward="3005104" quest="4010401|4010402|4010403|4010404|4010405" chapterDes="110530042" chapterBanner="chapterQuestBanner_3"/>
+    <ItemSpec id="5" chapter="5" base_lv="3" name="111850024" description="11001078" pic="u_TaskBg/u_TaskBg03" reward="3005105" quest="4010501|4010502|4010503|4010504|4010505" chapterDes="110530043" chapterBanner="chapterQuestBanner_3"/>
+    <ItemSpec id="6" chapter="6" base_lv="3" name="111850025" description="83200553" pic="u_TaskBg/u_TaskBg04" reward="3005106" quest="4010601|4010602|4010603|4010604|4010605" chapterDes="110530044" chapterBanner="chapterQuestBanner_4"/>
+    <ItemSpec id="7" chapter="7" base_lv="4" name="111850026" description="83200553" pic="u_TaskBg/u_TaskBg04" reward="3005107" quest="4010701|4010702|4010703|4010704|4010705" chapterDes="110530044" chapterBanner="chapterQuestBanner_4"/>	
+    <ItemSpec id="8" chapter="8" base_lv="4" name="111850027" description="83200553" pic="u_TaskBg/u_TaskBg04" reward="3005108" quest="4010801|4010802|4010803|4010804|4010805" chapterDes="110530044" chapterBanner="chapterQuestBanner_4"/>	
+    <ItemSpec id="9" chapter="9" base_lv="5" name="111850028" description="83200553" pic="u_TaskBg/u_TaskBg04" reward="3005109" quest="4010901|4010902|4010903|4010904|4010905" chapterDes="110530044" chapterBanner="chapterQuestBanner_4"/>	
+    <ItemSpec id="10" chapter="10" base_lv="5" name="111850029" description="83200553" pic="u_TaskBg/u_TaskBg04" reward="3005110" quest="4011001|4011002|4011003|4011004|4011005" chapterDes="110530044" chapterBanner="chapterQuestBanner_4"/>	
+    <ItemSpec id="11" chapter="11" base_lv="6" name="111850030" description="83200553" pic="u_TaskBg/u_TaskBg04" reward="3005111" quest="4011101|4011102|4011103|4011104|4011105" chapterDes="110530044" chapterBanner="chapterQuestBanner_4"/>	
+    <ItemSpec id="12" chapter="12" base_lv="6" name="111850031" description="83200553" pic="u_TaskBg/u_TaskBg04" reward="3005112" quest="4011201|4011202|4011203|4011204|4011205" chapterDes="110530044" chapterBanner="chapterQuestBanner_4"/>		
+    <ItemSpec id="13" chapter="13" base_lv="25" name="110250084" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108019" quest="7000000|7000001|7000002|7000003" showChapter="13" newChapter="1" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_kaxier" heroTalk="110250088"/>
+        <ItemSpec id="14" chapter="14" base_lv="25" name="110250085" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108020" quest="7000004|7000005|7000006|7000007|7000008" showChapter="14" newChapter="2" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_xiubote" heroTalk="110250090"/>
+        <ItemSpec id="15" chapter="15" base_lv="25" name="110250086" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108021" quest="7000009|7000010|7000011|7000012|7000013" showChapter="15" newChapter="3" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_aida" heroTalk="110250092"/>
+        <ItemSpec id="16" chapter="16" base_lv="25" name="110250087" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108022" quest="7000014|7000015|7000016|7000017" showChapter="16" newChapter="4" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_zhihuiguan" heroTalk="110250094"/>
+<!--35级章节配置--> 
+		  <ItemSpec id="17" chapter="17" showChapter="17" name="111980002" chapterBanner="building35_chapter" quest="7000020|7000021|7000022|7000023" newChapter="99" heroIcon="hero_kaxier" heroTalk="111980003" chapterStartTrigger="84005195" chapterEndTrigger="84005400" />
+		  <ItemSpec id="18" chapter="18" showChapter="18" name="111980004" chapterBanner="building35_chapter" quest="7000024|7000025|7000026|7000027" newChapter="100" heroIcon="hero_xiubote" heroTalk="111980005" chapterEndTrigger="84005600"/>
+		  <ItemSpec id="19" chapter="19" showChapter="19" name="111980006" chapterBanner="building35_chapter" quest="7000028|7000029|7000030|7000031|7000032" newChapter="101" heroIcon="hero_aida" heroTalk="111980007" chapterEndTrigger="84005700"/>
+		  <ItemSpec id="20" chapter="20" showChapter="20" name="111980008" chapterBanner="building35_chapter" quest="7000033|7000034|7000035|7000036|7000037" newChapter="102" heroIcon="hero_zhihuiguan" heroTalk="111980009" chapterEndTrigger="84005800"/>
+		  <ItemSpec id="21" chapter="21" showChapter="21" name="111980010" chapterBanner="building35_chapter" quest="7000038|7000039|7000040|7000041" newChapter="103" heroIcon="hero_zhihuiguan" heroTalk="111980011" chapterEndTrigger="84005900"/>
+ 
+	</Group>
+
+	<Group id="chapter_3">
+    <ItemSpec id="1" chapter="1" base_lv="1" name="110010069" description="110010074" pic="u_TaskBg/u_TaskBg01" reward="420127" quest="2501101|2501102|2501103|2501104|2501105"/>
+    <ItemSpec id="2" chapter="2" base_lv="1" name="110010070" description="110010075" pic="u_TaskBg/u_TaskBg02" reward="420128" quest="2501201|2501202|2501203|2501204|2501205"/>
+    <ItemSpec id="3" chapter="3" base_lv="1" name="25090003" description="110010076" pic="u_TaskBg/u_TaskBg03" reward="420129" quest="2508031|2508032|2508033|2508034|2508035|2508036|2508037"/>
+    <ItemSpec id="4" chapter="4" base_lv="1" name="25090004" description="110010077" pic="u_TaskBg/u_TaskBg04" reward="420130" quest="2508041|2508042|2508043|2508044|2508045|2508046"/>
+    <ItemSpec id="5" chapter="5" base_lv="1" name="25090005" description="110010078" pic="u_TaskBg/u_TaskBg01" reward="420131" quest="2508051|2508052|2508053|2508054|2508055|2508056|2508057"/>
+    <ItemSpec id="6" chapter="6" base_lv="1" name="25090006" description="110010079" pic="u_TaskBg/u_TaskBg02" reward="420132" quest="2508061|2508062|2508063|2508064|2508065"/>
+	<ItemSpec id="7" chapter="7" base_lv="1" name="25090007" description="110010080" pic="u_TaskBg/u_TaskBg03" reward="420133" quest="2508071|2508072|2508073|2508074|2508075|2508076"/>
+	<ItemSpec id="8" chapter="8" base_lv="1" name="25090008" description="110010081" pic="u_TaskBg/u_TaskBg04" reward="420134" quest="2508081|2508082|2508083|2508084|2508085|2508086"/>
+	<ItemSpec id="9" chapter="9" base_lv="1" name="25090009" description="110010082" pic="u_TaskBg/u_TaskBg01" reward="420135" quest="2508091|2508092|2508093|2508094|2508095|2508096|2508097"/>
+	<ItemSpec id="10" chapter="10" base_lv="1" name="25090010" description="110010083" pic="u_TaskBg/u_TaskBg02" reward="420136" quest="2508101|2508102|2508103|2508104|2508105|2508106|2508107|2508108"/>
+	<ItemSpec id="11" chapter="11" base_lv="1" name="25090011" description="110010084" pic="u_TaskBg/u_TaskBg03" reward="420137" quest="2508111|2508112|2508113|2508114|2508115|2508116"/>
+	<ItemSpec id="12" chapter="12" base_lv="1" name="25090012" description="110010085" pic="u_TaskBg/u_TaskBg04" reward="420138" quest="2508121|2508122|2508123|2508124|2508125|2508126"/>
+    <ItemSpec id="13" chapter="13" base_lv="25" name="110250084" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108019" quest="7000000|7000001|7000002|7000003" showChapter="13" newChapter="1" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_kaxier" heroTalk="110250088"/>
+        <ItemSpec id="14" chapter="14" base_lv="25" name="110250085" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108020" quest="7000004|7000005|7000006|7000007|7000008" showChapter="14" newChapter="2" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_xiubote" heroTalk="110250090"/>
+        <ItemSpec id="15" chapter="15" base_lv="25" name="110250086" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108021" quest="7000009|7000010|7000011|7000012|7000013" showChapter="15" newChapter="3" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_aida" heroTalk="110250092"/>
+        <ItemSpec id="16" chapter="16" base_lv="25" name="110250087" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108022" quest="7000014|7000015|7000016|7000017" showChapter="16" newChapter="4" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_zhihuiguan" heroTalk="110250094"/>
+<!--35级章节配置--> 
+		  <ItemSpec id="17" chapter="17" showChapter="17" name="111980002" chapterBanner="building35_chapter" quest="7000020|7000021|7000022|7000023" newChapter="99" heroIcon="hero_kaxier" heroTalk="111980003" chapterStartTrigger="84005195" chapterEndTrigger="84005400" />
+		  <ItemSpec id="18" chapter="18" showChapter="18" name="111980004" chapterBanner="building35_chapter" quest="7000024|7000025|7000026|7000027" newChapter="100" heroIcon="hero_xiubote" heroTalk="111980005" chapterEndTrigger="84005600"/>
+		  <ItemSpec id="19" chapter="19" showChapter="19" name="111980006" chapterBanner="building35_chapter" quest="7000028|7000029|7000030|7000031|7000032" newChapter="101" heroIcon="hero_aida" heroTalk="111980007" chapterEndTrigger="84005700"/>
+		  <ItemSpec id="20" chapter="20" showChapter="20" name="111980008" chapterBanner="building35_chapter" quest="7000033|7000034|7000035|7000036|7000037" newChapter="102" heroIcon="hero_zhihuiguan" heroTalk="111980009" chapterEndTrigger="84005800"/>
+		  <ItemSpec id="21" chapter="21" showChapter="21" name="111980010" chapterBanner="building35_chapter" quest="7000038|7000039|7000040|7000041" newChapter="103" heroIcon="hero_zhihuiguan" heroTalk="111980011" chapterEndTrigger="84005900"/>
+ 
+	</Group>
+
+    <Group id="chapter_4">
+    <ItemSpec id="1" chapter="1" base_lv="1" name="110010069" description="110010074" pic="u_TaskBg/u_TaskBg01" reward="420112" quest="2507001|2507002|2507003|2507004|2507005"/>
+    <ItemSpec id="2" chapter="2" base_lv="1" name="110010070" description="110010075" pic="u_TaskBg/u_TaskBg02" reward="420113" quest="2507101|2507102|2507103|2507104|2507105"/>
+    <ItemSpec id="3" chapter="3" base_lv="2" name="110010072" description="110010076" pic="u_TaskBg/u_TaskBg01" reward="420113" quest="2507201|2507202|2507203|2507204|2507205"/>
+    <ItemSpec id="4" chapter="4" base_lv="3" name="110010073" description="110010077" pic="u_TaskBg/u_TaskBg02" reward="420114" quest="2507301|2507302|2507303|2507304|2507305"/>
+    <ItemSpec id="5" chapter="5" base_lv="3" name="110010079" description="110010078" pic="u_TaskBg/u_TaskBg03" reward="420114" quest="2502306|2502301|2500101|2502303|2502305"/>
+    <ItemSpec id="6" chapter="6" base_lv="4" name="25090005" description="110089020" pic="u_TaskBg/u_TaskBg03" reward="420115" quest="2502401|2502402|2502403|2502404|2502405"/>
+    <ItemSpec id="7" chapter="7" base_lv="5" name="25090010" description="110010080" pic="u_TaskBg/u_TaskBg03" reward="590002" quest="2502501|2502502|2502503|2502504|2502505"/>
+    <ItemSpec id="8" chapter="8" base_lv="7" name="110010071" description="110254142" pic="u_TaskBg/u_TaskBg04" reward="420116" quest="2502607|2502602|2502603|2502604|2502605"/>
+    <ItemSpec id="9" chapter="9" base_lv="25" name="110250084" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108019" quest="7000000|7000001|7000002|7000003" showChapter="9" newChapter="1" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_kaxier" heroTalk="110250088"/>
+        <ItemSpec id="10" chapter="10" base_lv="25" name="110250085" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108020" quest="7000004|7000005|7000006|7000007|7000008" showChapter="10" newChapter="2" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_xiubote" heroTalk="110250090"/>
+        <ItemSpec id="11" chapter="11" base_lv="25" name="110250086" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108021" quest="7000009|7000010|7000011|7000012|7000013" showChapter="11" newChapter="3" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_aida" heroTalk="110250092"/>
+        <ItemSpec id="12" chapter="12" base_lv="25" name="110250087" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108022" quest="7000014|7000015|7000016|7000017" showChapter="12" newChapter="4" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_zhihuiguan" heroTalk="110250094"/>
+<!--35级章节配置--> 
+		  <ItemSpec id="13" chapter="13" showChapter="13" name="111980002" chapterBanner="building35_chapter" quest="7000020|7000021|7000022|7000023" newChapter="99" heroIcon="hero_kaxier" heroTalk="111980003" chapterStartTrigger="84005195" chapterEndTrigger="84005400" />
+		  <ItemSpec id="14" chapter="14" showChapter="14" name="111980004" chapterBanner="building35_chapter" quest="7000024|7000025|7000026|7000027" newChapter="100" heroIcon="hero_xiubote" heroTalk="111980005" chapterEndTrigger="84005600"/>
+		  <ItemSpec id="15" chapter="15" showChapter="15" name="111980006" chapterBanner="building35_chapter" quest="7000028|7000029|7000030|7000031|7000032" newChapter="101" heroIcon="hero_aida" heroTalk="111980007" chapterEndTrigger="84005700"/>
+		  <ItemSpec id="16" chapter="16" showChapter="16" name="111980008" chapterBanner="building35_chapter" quest="7000033|7000034|7000035|7000036|7000037" newChapter="102" heroIcon="hero_zhihuiguan" heroTalk="111980009" chapterEndTrigger="84005800"/>
+		  <ItemSpec id="17" chapter="17" showChapter="17" name="111980010" chapterBanner="building35_chapter" quest="7000038|7000039|7000040|7000041" newChapter="103" heroIcon="hero_zhihuiguan" heroTalk="111980011" chapterEndTrigger="84005900"/>
+ 
+    	</Group>
+
+
+		<!--Cocos leaderstate=22，新章节任务，复制自chapter2（2023.3.29）-->  
+    <Group id="chapter_10">
+    <ItemSpec id="1" chapter="1" base_lv="1" name="110010069" description="110010074" pic="u_TaskBg/u_TaskBg01" reward="636240" quest="2501101|2501102|2501103|2501104|2501105"/>
+    <ItemSpec id="2" chapter="2" base_lv="2" name="110010070" description="110010075" pic="u_TaskBg/u_TaskBg02" reward="636241" quest="2501201|2501202|2501203|2501204|2501205"/>
+    <ItemSpec id="3" chapter="3" base_lv="2" name="110010071" description="110010076" pic="u_TaskBg/u_TaskBg03" reward="636242" quest="2502301|2502307|2502308|2502309|2502302|2502310|2502303|2502304|2502305"/>
+    <ItemSpec id="4" chapter="4" base_lv="3" name="110010072" description="110010077" pic="u_TaskBg/u_TaskBg03" reward="636243" quest="2502406|2502407|2502409|2502410|2502411|2502401|2502402|2502403|2502404|2502405"/>
+    <ItemSpec id="5" chapter="5" base_lv="4" name="110010073" description="11001078" pic="u_TaskBg/u_TaskBg03" reward="636244" quest="2502506|2502501|2502502|2502507|2502508|2502511|2502512|2502514|2502515|2502516|2502517|2502503|2502518|2502504|2502505"/>
+    <ItemSpec id="6" chapter="6" base_lv="5" name="83400050" description="83200553" pic="u_TaskBg/u_TaskBg04" reward="636245" quest="2502607|2502602|2502603|2502604|2502605"/>
+    <ItemSpec id="7" chapter="7" base_lv="25" name="110250084" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108019" quest="7000000|7000001|7000002|7000003" showChapter="7" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_kaxier" heroTalk="110250088"/>
+    <ItemSpec id="8" chapter="8" base_lv="25" name="110250085" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108020" quest="7000004|7000005|7000006|7000007|7000008" showChapter="8" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_xiubote" heroTalk="110250090"/>
+    <ItemSpec id="9" chapter="9" base_lv="25" name="110250086" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108021" quest="7000009|7000010|7000011|7000012|7000013" showChapter="9" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_aida" heroTalk="110250092"/>
+    <ItemSpec id="10" chapter="10" base_lv="25" name="110250087" description="110010082" pic="u_TaskBg/u_TaskBg04" reward="2108022" quest="7000014|7000015|7000016|7000017" showChapter="10" baseBuildingLV="25" functionKey="newChapter" heroIcon="hero_zhihuiguan" heroTalk="110250094"/>
+<!--35级章节配置--> 
+		  <ItemSpec id="11" chapter="11" showChapter="11" name="111980002" chapterBanner="building35_chapter" quest="7000020|7000021|7000022|7000023" newChapter="99" heroIcon="hero_kaxier" heroTalk="111980003" chapterStartTrigger="84005195" chapterEndTrigger="84005400" />
+		  <ItemSpec id="12" chapter="12" showChapter="12" name="111980004" chapterBanner="building35_chapter" quest="7000024|7000025|7000026|7000027" newChapter="100" heroIcon="hero_xiubote" heroTalk="111980005" chapterEndTrigger="84005600"/>
+		  <ItemSpec id="13" chapter="13" showChapter="13" name="111980006" chapterBanner="building35_chapter" quest="7000028|7000029|7000030|7000031|7000032" newChapter="101" heroIcon="hero_aida" heroTalk="111980007" chapterEndTrigger="84005700"/>
+		  <ItemSpec id="14" chapter="14" showChapter="14" name="111980008" chapterBanner="building35_chapter" quest="7000033|7000034|7000035|7000036|7000037" newChapter="102" heroIcon="hero_zhihuiguan" heroTalk="111980009" chapterEndTrigger="84005800"/>
+		  <ItemSpec id="15" chapter="15" showChapter="15" name="111980010" chapterBanner="building35_chapter" quest="7000038|7000039|7000040|7000041" newChapter="103" heroIcon="hero_zhihuiguan" heroTalk="111980011" chapterEndTrigger="84005900"/>
+
+	</Group>
+
+</tns:database>

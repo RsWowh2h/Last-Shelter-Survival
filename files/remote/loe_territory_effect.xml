@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="loe_territory_effect">
+    <ItemSpec id="1001" name="77110014" para1="65" para2="25" para2_type="2"/>
+    <ItemSpec id="1002" name="129053" para1="73" para2="10000" para2_type="1"/>
+    <ItemSpec id="1003" name="173407" para1="920" para2="200000" para2_type="1"/>
+    <ItemSpec id="1004" name="83002008" para1="23010" para2="10" para2_type="2"/>
+    <ItemSpec id="1005" name="83002009" para1="23030" para2="10" para2_type="2"/>
+
+  </Group>
+
+  <Group id="loe_territory_effect_type_2">
+    <ItemSpec id="1006" type="2" name="77110014" para1="65" para2="10" para2_type="2" />
+    <ItemSpec id="1007" type="2" name="83002008" para1="23010" para2="5" para2_type="2" />
+    <ItemSpec id="1008" type="2" name="83002009" para1="23030" para2="5" para2_type="2" />
+  </Group>
+  
+</tns:database>

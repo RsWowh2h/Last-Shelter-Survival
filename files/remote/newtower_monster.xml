@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="newtower_monster"> 
+   <!--Monster_Identity=   profile=怪物头像   Monster_Blood=怪物血量   Monster_Damage=造成伤害   Monster_Denfend=怪物防御（塔的攻击优先级） Monster_Res=怪物资源  Monster_Size怪物尺寸  Monster_Speed=怪物速度
+     Monster_Gold=击杀金币     -->
+
+   <!--第一关使用的丧尸 -->
+      <ItemSpec id="520001" Monster_Name="普通丧尸1" Monster_Blood="250" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_nv" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="4" />
+    <ItemSpec id="520002" Monster_Name="普通丧尸2" Monster_Blood="250" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_nan" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="5" />
+    <ItemSpec id="520003" Monster_Name="中型丧尸1" Monster_Blood="290" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_fat" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="8" />
+    <ItemSpec id="520004" Monster_Name="中型丧尸2" Monster_Blood="290" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_orange" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="4" />
+    <ItemSpec id="520005" Monster_Name="boss1" Monster_Blood="4082" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_power" Monster_Size="1.5" Monster_Speed="0.7" Monster_Gold="24" blood_color="1" />
+    <ItemSpec id="520006" Monster_Name="boss2" Monster_Blood="4082" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_saw" Monster_Size="1.5" Monster_Speed="0.7" Monster_Gold="55" blood_color="1" />
+    <ItemSpec id="520007" Monster_Name="boss3" Monster_Blood="4082" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_boss" Monster_Size="1.8" Monster_Speed="0.7" Monster_Gold="36" blood_color="1" />
+    <ItemSpec id="520008" Monster_Name="速度丧尸" Monster_Blood="564" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_fast" Monster_Size="1.5" Monster_Speed="1.8" Monster_Gold="24" blood_color="1" />
+    <ItemSpec id="520009" Monster_Name="动物boss" Monster_Blood="5304" Monster_Damage="8" Monster_Denfend="5" Monster_Res="zombie_bear" Monster_Size="1.5" Monster_Speed="0.7" Monster_Gold="48" blood_color="1" />
+
+    <ItemSpec id="530001" Monster_Name="普通丧尸1" Monster_Blood="627" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_nv" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="4" />
+    <ItemSpec id="530002" Monster_Name="普通丧尸2" Monster_Blood="627" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_nan" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="5" />
+    <ItemSpec id="530003" Monster_Name="中型丧尸1" Monster_Blood="627" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_fat" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="8" />
+    <ItemSpec id="530004" Monster_Name="中型丧尸2" Monster_Blood="627" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_orange" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="4" />
+    <ItemSpec id="530008" Monster_Name="速度丧尸" Monster_Blood="1364" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_fast" Monster_Size="1.5" Monster_Speed="1.8" Monster_Gold="24" blood_color="1" />
+
+    <ItemSpec id="540001" Monster_Name="普通丧尸1" Monster_Blood="806" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_nv" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="4" />
+    <ItemSpec id="540002" Monster_Name="普通丧尸2" Monster_Blood="806" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_nan" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="5" />
+    <ItemSpec id="540003" Monster_Name="中型丧尸1" Monster_Blood="1600" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_fat" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="8" />
+    <ItemSpec id="540004" Monster_Name="中型丧尸2" Monster_Blood="806" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_orange" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="4" />
+    <ItemSpec id="540008" Monster_Name="速度丧尸" Monster_Blood="2576" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_fast" Monster_Size="1.5" Monster_Speed="1.8" Monster_Gold="24" />
+
+
+
+
+    <ItemSpec id="530001" Monster_Name="普通丧尸1" Monster_Blood="873" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_nv" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="4" />
+    <ItemSpec id="530002" Monster_Name="普通丧尸2" Monster_Blood="873" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_nan" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="5" />
+    <ItemSpec id="530003" Monster_Name="中型丧尸1" Monster_Blood="873" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_fat" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="8" />
+    <ItemSpec id="530004" Monster_Name="中型丧尸2" Monster_Blood="873" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_orange" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="4" />
+    <ItemSpec id="530005" Monster_Name="boss1" Monster_Blood="7392" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_power" Monster_Size="1.2" Monster_Speed="0.7" Monster_Gold="24" blood_color="1" />
+    <ItemSpec id="530008" Monster_Name="速度丧尸" Monster_Blood="2912" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_fast" Monster_Size="1.5" Monster_Speed="1.8" Monster_Gold="24" blood_color="1" />
+    <ItemSpec id="530009" Monster_Name="动物boss" Monster_Blood="18400" Monster_Damage="8" Monster_Denfend="5" Monster_Res="zombie_bear" Monster_Size="1.5" Monster_Speed="0.7" Monster_Gold="48" blood_color="1" />
+
+
+    <ItemSpec id="550001" Monster_Name="普通丧尸1" Monster_Blood="874" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_nv" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="4" />
+    <ItemSpec id="550002" Monster_Name="普通丧尸2" Monster_Blood="874" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_nan" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="5" />
+    <ItemSpec id="550003" Monster_Name="中型丧尸1" Monster_Blood="1747" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_fat" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="8" />
+    <ItemSpec id="550004" Monster_Name="中型丧尸2" Monster_Blood="874" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_orange" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="4" />
+    <ItemSpec id="550005" Monster_Name="boss1" Monster_Blood="7392" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_power" Monster_Size="1.5" Monster_Speed="0.7" Monster_Gold="24" blood_color="1" />
+    <ItemSpec id="550006" Monster_Name="boss2" Monster_Blood="7392" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_saw" Monster_Size="1.5" Monster_Speed="0.7" Monster_Gold="55" blood_color="1" />
+    <ItemSpec id="550007" Monster_Name="boss3" Monster_Blood="7392" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_boss" Monster_Size="1.8" Monster_Speed="0.7" Monster_Gold="36" blood_color="1" />
+    <ItemSpec id="550008" Monster_Name="速度丧尸" Monster_Blood="2912" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_fast" Monster_Size="1.5" Monster_Speed="1.8" Monster_Gold="24" blood_color="1" />
+    <ItemSpec id="550009" Monster_Name="动物boss" Monster_Blood="22400" Monster_Damage="8" Monster_Denfend="5" Monster_Res="zombie_bear" Monster_Size="1.5" Monster_Speed="0.7" Monster_Gold="48" blood_color="1" />
+
+
+    <ItemSpec id="560001" Monster_Name="普通丧尸1" Monster_Blood="896" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_nv" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="4" />
+    <ItemSpec id="560002" Monster_Name="普通丧尸2" Monster_Blood="896" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_nan" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="5" />
+    <ItemSpec id="560003" Monster_Name="中型丧尸1" Monster_Blood="1770" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_fat" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="8" />
+    <ItemSpec id="560004" Monster_Name="中型丧尸2" Monster_Blood="896" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_orange" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="4" />
+    <ItemSpec id="560005" Monster_Name="boss1" Monster_Blood="12292" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_power" Monster_Size="1.5" Monster_Speed="0.7" Monster_Gold="24" blood_color="1" />
+    <ItemSpec id="560006" Monster_Name="boss2" Monster_Blood="12292" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_saw" Monster_Size="1.5" Monster_Speed="0.7" Monster_Gold="55" blood_color="1" />
+    <ItemSpec id="560007" Monster_Name="boss3" Monster_Blood="12292" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_boss" Monster_Size="1.8" Monster_Speed="0.7" Monster_Gold="36" blood_color="1" />
+    <ItemSpec id="560008" Monster_Name="速度丧尸" Monster_Blood="2912" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_fast" Monster_Size="1.5" Monster_Speed="1.8" Monster_Gold="24" blood_color="1" />
+    <ItemSpec id="560009" Monster_Name="动物boss" Monster_Blood="26400" Monster_Damage="8" Monster_Denfend="5" Monster_Res="zombie_bear" Monster_Size="1.5" Monster_Speed="0.7" Monster_Gold="48" blood_color="1" />
+
+    <ItemSpec id="570001" Monster_Name="普通丧尸1" Monster_Blood="1096" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_nv" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="4" />
+    <ItemSpec id="570002" Monster_Name="普通丧尸2" Monster_Blood="1096" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_nan" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="5" />
+    <ItemSpec id="570003" Monster_Name="中型丧尸1" Monster_Blood="2040" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_fat" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="8" />
+    <ItemSpec id="570004" Monster_Name="中型丧尸2" Monster_Blood="1096" Monster_Damage="1" Monster_Denfend="0" Monster_Res="zombie_orange" Monster_Size="1" Monster_Speed="0.7" Monster_Gold="4" />
+    <ItemSpec id="570005" Monster_Name="boss1" Monster_Blood="8829" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_power" Monster_Size="1.5" Monster_Speed="0.7" Monster_Gold="24" blood_color="1" />
+    <ItemSpec id="570006" Monster_Name="boss2" Monster_Blood="8829" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_saw" Monster_Size="1.5" Monster_Speed="0.7" Monster_Gold="55" blood_color="1" />
+    <ItemSpec id="570007" Monster_Name="boss3" Monster_Blood="8829" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_boss" Monster_Size="1.8" Monster_Speed="0.7" Monster_Gold="36" blood_color="1" />
+    <ItemSpec id="570008" Monster_Name="速度丧尸" Monster_Blood="5760" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_fast" Monster_Size="1.5" Monster_Speed="1.8" Monster_Gold="24" blood_color="1" />
+    <ItemSpec id="570009" Monster_Name="动物boss" Monster_Blood="38212" Monster_Damage="8" Monster_Denfend="5" Monster_Res="zombie_bear" Monster_Size="1.5" Monster_Speed="0.7" Monster_Gold="48" blood_color="1" />
+
+    <ItemSpec id="580005" Monster_Name="boss1" Monster_Blood="9996" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_power" Monster_Size="1.5" Monster_Speed="0.7" Monster_Gold="24" blood_color="1" />
+    <ItemSpec id="580006" Monster_Name="boss2" Monster_Blood="9996" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_saw" Monster_Size="1.5" Monster_Speed="0.7" Monster_Gold="55" blood_color="1" />
+    <ItemSpec id="580007" Monster_Name="boss3" Monster_Blood="11662" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_boss" Monster_Size="1.8" Monster_Speed="0.7" Monster_Gold="36" blood_color="1" />
+    <ItemSpec id="580008" Monster_Name="速度丧尸" Monster_Blood="4165" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_fast" Monster_Size="1.3" Monster_Speed="1.8" Monster_Gold="24" blood_color="1" />
+    <ItemSpec id="580009" Monster_Name="动物boss" Monster_Blood="27342" Monster_Damage="8" Monster_Denfend="5" Monster_Res="zombie_bear" Monster_Size="1.5" Monster_Speed="0.7" Monster_Gold="48" blood_color="1" />
+
+    <ItemSpec id="590005" Monster_Name="boss1" Monster_Blood="10829" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_power" Monster_Size="1.5" Monster_Speed="0.7" Monster_Gold="24" blood_color="1" />
+    <ItemSpec id="590006" Monster_Name="boss2" Monster_Blood="10829" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_saw" Monster_Size="1.5" Monster_Speed="0.7" Monster_Gold="55" blood_color="1" />
+    <ItemSpec id="590007" Monster_Name="boss3" Monster_Blood="16680" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_boss" Monster_Size="1.8" Monster_Speed="0.7" Monster_Gold="36" blood_color="1" />
+    <ItemSpec id="590008" Monster_Name="速度丧尸" Monster_Blood="4680" Monster_Damage="3" Monster_Denfend="5" Monster_Res="zombie_fast" Monster_Size="1.5" Monster_Speed="1.8" Monster_Gold="24" blood_color="1" />
+    <ItemSpec id="590009" Monster_Name="动物boss" Monster_Blood="43200" Monster_Damage="8" Monster_Denfend="5" Monster_Res="zombie_bear" Monster_Size="1.5" Monster_Speed="0.7" Monster_Gold="48" blood_color="1" />
+
+</Group>
+
+
+
+</tns:database>

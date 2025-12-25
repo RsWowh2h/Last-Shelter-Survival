@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="crossscore">
+    <ItemSpec id="599800" name="147046" description="103458" order="1" win_type="2" score="2"/>
+    <ItemSpec id="599801" name="147057" description="103458" order="2" win_type="1" score="2"/>
+
+</Group>
+</tns:database>

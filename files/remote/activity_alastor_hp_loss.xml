@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="activity_alastor_hp_loss">
+    <ItemSpec id="1" start_hour="0" end_hour="1" weight="49" />
+    <ItemSpec id="2" start_hour="1" end_hour="2" weight="47" />
+    <ItemSpec id="3" start_hour="2" end_hour="3" weight="45" />
+    <ItemSpec id="4" start_hour="3" end_hour="4" weight="43" />
+    <ItemSpec id="5" start_hour="4" end_hour="5" weight="43" />
+    <ItemSpec id="6" start_hour="5" end_hour="6" weight="41" />
+    <ItemSpec id="7" start_hour="6" end_hour="7" weight="42" />
+    <ItemSpec id="8" start_hour="7" end_hour="8" weight="43" />
+    <ItemSpec id="9" start_hour="8" end_hour="9" weight="44" />
+    <ItemSpec id="10" start_hour="9" end_hour="10" weight="46" />
+    <ItemSpec id="11" start_hour="10" end_hour="11" weight="49" />
+    <ItemSpec id="12" start_hour="11" end_hour="12" weight="51" />
+    <ItemSpec id="13" start_hour="12" end_hour="13" weight="52" />
+    <ItemSpec id="14" start_hour="13" end_hour="14" weight="50" />
+    <ItemSpec id="15" start_hour="14" end_hour="15" weight="46" />
+    <ItemSpec id="16" start_hour="15" end_hour="16" weight="44" />
+    <ItemSpec id="17" start_hour="16" end_hour="17" weight="41" />
+    <ItemSpec id="18" start_hour="17" end_hour="18" weight="39" />
+    <ItemSpec id="19" start_hour="18" end_hour="19" weight="39" />
+    <ItemSpec id="20" start_hour="19" end_hour="20" weight="39" />
+    <ItemSpec id="21" start_hour="20" end_hour="21" weight="39" />
+    <ItemSpec id="22" start_hour="21" end_hour="22" weight="39" />
+    <ItemSpec id="23" start_hour="22" end_hour="23" weight="41" />
+    <ItemSpec id="24" start_hour="23" end_hour="24" weight="47" />
+    
+	</Group> 
+</tns:database>

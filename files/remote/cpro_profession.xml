@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="cpro_profession">
+   	<ItemSpec id="8001" pro_kind="1" name="173518" pic="B_FB_IC_fangweizhe" image="UI_Occupation_Defender" />
+    <ItemSpec id="8002" pro_kind="2" name="173519" cpro_feature_pic="nongyezhuanjia_feature1;nongyezhuanjia_feature2" cpro_feature_des="174060;174061" pic="B_FB_IC_nongyezhuanjia" image="UI_Occupation_Agricultural" />
+    <ItemSpec id="8003" pro_kind="3" name="173520" cpro_feature_pic="gongjianshou_feature1;gongjianshou_feature2" cpro_feature_des="174058;174059" pic="B_FB_IC_gongjianshou" image="UI_Occupation_Difficulties" />
+    <ItemSpec id="8004" pro_kind="4" name="173521" pic="B_FB_IC_tezhandui" image="UI_Occupation_Special" />
+    <ItemSpec id="8005" pro_kind="5" name="173522" pic="B_FB_IC_jinrongjia" image="UI_Occupation_Financier" />
+    <ItemSpec id="8006" pro_kind="6" name="173523" cpro_feature_pic="mingyuan_feature1;mingyuan_feature2" cpro_feature_des="174062;174063" pic="B_FB_IC_mingyuan" image="UI_Occupation_Celebrities" />
+    <ItemSpec id="8007" pro_kind="7" name="173580" pic="B_FB_IC_kexuejia" image="UI_Occupation_Scientist" />
+    <ItemSpec id="8008" pro_kind="8" name="173581" cpro_feature_pic="jianzhushi_feature1;jianzhushi_feature2" cpro_feature_des="174044;174045" pic="B_FB_IC_jianzhushi" image="UI_Occupation_Architect" />
+</Group>
+</tns:database>

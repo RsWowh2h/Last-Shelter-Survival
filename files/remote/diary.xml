@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="diary">
+   
+    <ItemSpec id="10001" type="1" pic="guide_story_1.png" des="90800201" vde="4" vds="90800202" />
+    <ItemSpec id="10002" type="1" pic="guide_story_3.png" des="90800203" vde="5" vds="90800204" />
+    <ItemSpec id="10003" type="1" pic="guide_story_2.png" des="90800205" vde="6" vds="90800206" />
+    <ItemSpec id="10004" type="1" pic="guide_story_4.png" des="90800207" vde="7" vds="90500321" />
+    <ItemSpec id="10005" type="1" pic="guide_story_6.png" des="90800208" vde="9" vds="90800209" />
+    <ItemSpec id="10006" type="1" pic="guide_story_8.png" des="90800210" vde="11" vds="90800211" />
+    <ItemSpec id="10007" type="1" pic="guide_story_9.png" des="90800212" vde="12" vds="90800213" />
+    <ItemSpec id="10008" type="1" pic="guide_story_11.png" des="90800214" vde="13" vds="90400102" />
+
+
+</Group>
+</tns:database>

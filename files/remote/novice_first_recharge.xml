@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="novice_heap">
+    <ItemSpec id="60001" group="50014" name="83300105" desc="83300106" pic="image_framebeijingxiaotu_01.png" />
+    <ItemSpec id="60002" group="50014" name="110086009" desc="110086018" show="200390|210189" pic="image_framebeijingxiaotu_02.png" />
+    <ItemSpec id="60003" group="50014" name="110086009" desc="110086018" show="200390|210189" pic="image_framebeijingxiaotu_03.png" />
+    <ItemSpec id="60004" group="50014" name="110086009" desc="110086019" show="210345|200391" pic="image_framebeijingxiaotu_04.png" />
+    <ItemSpec id="60005" group="50014" name="110086009" desc="110086019" show="210345|200391" pic="image_framebeijingxiaotu_05.png" />
+    <ItemSpec id="60006" group="50014" name="110086009" desc="110086020" show="210345|210189" pic="image_framebeijingxiaotu_06.png" />
+
+ </Group >
+
+
+ <!-- <Group id="novice_rechargenew 线上开发测试"-->
+<Group id="novice_rechargenew">
+   <ItemSpec id="1" exchange_id="72003" desc1="112000014" desc2="112000015" desc3="112000001" pic="fdfp_aida2_bg1.png" pic1="fdfp_aida_bg1.png" show="211378|211258" sale="8000" />
+   <ItemSpec id="2" exchange_id="240711911"  desc1="110270010" desc3="112000004" pic="fdfp_aida2_bg1.png" pic1="fdfp_aida2_bg2.png" show="200391|210164" sale="1334" />
+   <ItemSpec id="3" exchange_id="240711912"  desc1="110270010" desc3="112000007" pic="fdfp_aida2_bg1.png" pic1="fdfp_aida2_bg2.png" show="200390|211258" sale="1381"/>
+   <ItemSpec id="4" exchange_id="240711913"  desc1="110270010" desc3="112000007" pic="fdfp_aida2_bg1.png" pic1="fdfp_aida2_bg2.png" show="200391|210164|202667" sale="1049" />
+   <ItemSpec id="5" exchange_id="240711921" desc1="112000014" desc2="90460135" desc3="112000003" pic="fdfp_aidadaheng_bg1.png" pic1="fdfp_aida2_bg2.png" show="200390|210164|211265" sale="1317"/>
+   <ItemSpec id="6" exchange_id="240711922" desc1="110270010" desc3="112000004" pic="fdfp_daheng_bg1.png" pic1="fdfp_aida2_bg2.png" show="200391|210164|202667" sale="1381" />
+</Group >
+
+
+
+ <Group id="novice_recharge">
+	<ItemSpec id="1" exchange_id="72002" desc="110086023" pic="image_framebeijing_03.png" sale="2018" level="3" />
+    <ItemSpec id="2" exchange_id="72000" desc="83300097" pic="image_framebeijing_033.png" show="210150|211255" sale="3018" level="3" />
+    <ItemSpec id="3" exchange_id="180312011" desc="83300098" pic="image_framebeijing_033.png" show="200061" sale="2018" level="3" />
+    <ItemSpec id="4" exchange_id="230307301" desc="102606" pic="image_framebeijing_033.png" show="211350" sale="1000" level="3" />
+    <ItemSpec id="5" exchange_id="180312012" desc="100336" pic="image_framebeijing_033.png" show="200062" sale="497" level="3" />
+    <ItemSpec id="6" exchange_id="221220014" desc="100527" pic="image_framebeijing_033.png" show="211251|210164" sale="1000" level="3" />
+
+
+
+ </Group >
+</tns:database>

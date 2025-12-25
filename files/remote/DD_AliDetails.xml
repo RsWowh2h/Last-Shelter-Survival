@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="DD_AliDetails">
+		<ItemSpec id="101" type="1" description="90603004" effect="693" symbol="2" percent="1" correct="1" priority="1" switch="1" />
+		<ItemSpec id="102" type="1" description="90603001" effect="690" symbol="2" percent="1" correct="1" priority="2" switch="1" />
+		<ItemSpec id="103" type="1" description="90603002" effect="691" symbol="2" percent="1" correct="1" priority="3" switch="1" />
+		<ItemSpec id="104" type="1" description="90603003" effect="692" symbol="2" percent="1" correct="1" priority="4" switch="1" />
+		<ItemSpec id="105" type="1" description="90603005" effect="694" symbol="2" percent="1" correct="1" priority="5" switch="1" />
+<!-- 		<ItemSpec id="201" type="2" description="90600841" effect="626" symbol="2" percent="1" correct="1" priority="6" switch="1" />
+		<ItemSpec id="202" type="2" description="90600842" effect="628" symbol="0" percent="1" correct="1" priority="7" switch="1" />
+		<ItemSpec id="203" type="2" description="90600779" effect="627" symbol="1" percent="1" correct="1" priority="8" switch="1" /> -->
+		<ItemSpec id="204" type="2" description="79032274" effect="751" symbol="2" percent="2" correct="1" priority="9" switch="1" />
+	<ItemSpec id="205" type="2" description="129055" effect="12007" symbol="2" percent="1" correct="1" priority="10" switch="1" />
+    <ItemSpec id="206" type="2" description="129058" effect="60" symbol="2" percent="1" correct="1" priority="11" switch="1" />
+    <ItemSpec id="207" type="2" description="110258212" effect="65" symbol="2" percent="1" correct="1" priority="12" switch="1" />
+    <ItemSpec id="208" type="2" description="83200325" effect="788" symbol="2" percent="1" correct="1" priority="13" switch="1" />
+    <ItemSpec id="209" type="2" description="88001241" effect="357" symbol="2" percent="1" correct="1" priority="14" switch="1" />
+    <ItemSpec id="210" type="2" description="103600" effect="2010" symbol="2" percent="1" correct="1" priority="15" switch="1" />
+    <ItemSpec id="301" type="2" description="88001463" effect="775" symbol="2" percent="1" correct="1" priority="16" switch="1" />
+    <ItemSpec id="302" type="2" description="88001464" effect="776" symbol="2" percent="1" correct="1" priority="17" switch="1" />
+    <ItemSpec id="303" type="2" description="110560588" effect="1810" symbol="2" percent="1" correct="1" priority="18" switch="1" />
+	</Group> 
+</tns:database>

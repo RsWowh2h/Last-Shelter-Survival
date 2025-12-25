@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="pvp_time">
+	
+<ItemSpec id="1" server="8998;900500" start_time="2022/09/26 00:00:00" end_time="2023/10/9 23:59:59" week="1;2;3;4;5;6;7" open_time="00-01;03-30|03-35;23-55" />
+<ItemSpec id="2" server="2901-2914;900501" start_time="2022/10/24 00:00:00" end_time="2022/10/28 23:59:59" week="1;3;5" open_time="01-00;01-30|09-00;09-30|11-30;12-00|15-30;16-00|21-30;22-00" />
+
+<ItemSpec id="3" server="2901-2914;900501" start_time="2022/11/07 00:00:00" end_time="2022/11/18 23:59:59" week="1;3;5" open_time="01-00;01-30|09-00;09-30|11-30;12-00|15-30;16-00|21-30;22-00" />
+
+
+</Group>
+</tns:database>

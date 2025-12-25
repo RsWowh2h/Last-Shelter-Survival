@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="signal_guide">
+    <!--type:问题类型 当前：男女，type=1；value:回答标记；当前：男：0 女：1!-->
+    
+    <ItemSpec id="1001" plot="110291066" next="1002" player="0" />
+    <ItemSpec id="1002" plot="110291067" next="1003" player="1" />
+    <ItemSpec id="1003" plot="110291068" next="1004" player="0" />
+    <ItemSpec id="1004" plot="110291069" next="1005" player="0" />
+    <ItemSpec id="1005" plot="110291070" next="1006|1007" player="0" />
+    <ItemSpec id="1006" plot="110291071" next="1008" player="1" type="1" value="1" />
+    <ItemSpec id="1007" plot="110291072" next="1008" player="1" type="1" value="0" />
+    <ItemSpec id="1008" plot="110291073" next="1009" player="0" />
+    <ItemSpec id="1009" plot="110291074" next="1010" player="1" />
+    <ItemSpec id="1010" plot="110291075" next="1011" player="0" />
+    <ItemSpec id="1011" plot="110291076" next="1012" player="1" />
+    <ItemSpec id="1012" plot="110291077" next="1013" player="0" />
+    <ItemSpec id="1013" plot="110291078" next="1014" player="1" />
+    <ItemSpec id="1014" plot="110291079" next="1015" player="0" />
+    <ItemSpec id="1015" plot="110291080" next="1016" player="1" />
+    <ItemSpec id="1016" plot="110291081" next="1017" player="0" />
+    <ItemSpec id="1017" plot="110291082" next="1018" player="0" />
+    <ItemSpec id="1018" plot="110291083" next="1019" player="0" />
+    <ItemSpec id="1019" plot="110291084" player="0" /> 
+
+
+</Group>
+</tns:database>

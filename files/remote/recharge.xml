@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="recharge">
+		<ItemSpec id="1110120" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_IC_2025zhounian.png" connect_ac="500290" special_board="2" reward_show="220290;1|220295;1|220293;1" special_board_order="4"/>
+		<ItemSpec id="1110121" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_IC_2025zhounian.png" connect_ac="500291" special_board="2" reward_show="220290;1|220295;1|220293;1" special_board_order="4"/>
+		<ItemSpec id="1110122" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_IC_2025zhounian.png" connect_ac="500292" special_board="2" reward_show="220290;1|220295;1|220293;1" special_board_order="4"/>
+    <ItemSpec id="1120000" type="1" order="500" hot="0" part="2" icon="u_MonthCardBrand01" name="100900" />
+    <ItemSpec id="1120001" type="2" order="600" hot="0" part="2" icon="FB_HeroRaise" name="83352001" desc_info="83352002" story="83352002" show_level="8" />
+    <ItemSpec id="1120002" type="3" order="200" hot="0" icon="allianceShop1" name="171800" desc_info="171802" story="171802" />
+    <ItemSpec id="1120003" type="4" order="300" hot="0" icon="activity_icon_57060" name="113307" desc_info="100327" story="100327" />
+    <ItemSpec id="1120004" type="5" order="400" hot="0" icon="FB_IC_zhanzhenghuodong" name="113339" desc_info="100339" story="100339" />
+    <ItemSpec id="1110103" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="FB_IC_2025zhounian.png" name="7000060" connect_ac="50000" special_board="2" reward_show="220290;1|220295;1|220293;1" special_board_order="4" />
+    <ItemSpec id="1110104" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="FB_IC_2025zhounian.png" name="7000060" connect_ac="50001" special_board="2" reward_show="220290;1|220295;1|220293;1" special_board_order="4" />
+    <ItemSpec id="1110105" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="FB_IC_2025zhounian.png" name="7000060" connect_ac="50002" special_board="2" reward_show="220290;1|220295;1|220293;1" special_board_order="4" />
+    <ItemSpec id="1110106" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="FB_IC_2025zhounian.png" name="7000060" connect_ac="50003" special_board="2" reward_show="220290;1|220295;1|220293;1" special_board_order="4" />
+    <ItemSpec id="1110108" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="FB_IC_2025zhounian.png" name="7000060" connect_ac="50004" special_board="2" reward_show="220290;1|220295;1|220293;1" special_board_order="4" />
+    <ItemSpec id="1110109" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="FB_IC_2024xiariLeiChong.png" name="7000060" connect_ac="50005" special_board="2" reward_show="220290;1|220295;1|220293;1" special_board_order="4" />
+	<ItemSpec id="1110119" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="FB_IC_2024xiariLeiChong.png" name="7000060" connect_ac="50006" special_board="2" reward_show="220290;1|220295;1|220293;1" special_board_order="4" />
+	
+    <ItemSpec id="1110110" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="FB_IC_2024xiariLeiChong.png" name="7000060" connect_ac="500203" />
+    <ItemSpec id="1110111" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="FB_IC_2024xiariLeiChong.png" name="7000060" connect_ac="500204" />
+    <ItemSpec id="1110112" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="FB_IC_2024xiariLeiChong.png" name="7000060" connect_ac="500205" />
+    <ItemSpec id="1110113" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="FB_IC_2024xiariLeiChong.png" name="7000060" connect_ac="500206" />
+    <ItemSpec id="1110114" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="FB_IC_2024xiariLeiChong.png" name="7000060" connect_ac="500207" />
+    <ItemSpec id="1110115" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="FB_IC_2024xiariLeiChong.png" name="7000060" connect_ac="500208" />
+    <ItemSpec id="1110116" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="FB_IC_2024xiariLeiChong.png" name="7000060" connect_ac="500209" />
+    <ItemSpec id="1110117" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="FB_IC_2024xiariLeiChong.png" name="7000060" connect_ac="500210" />
+
+		<ItemSpec id="1120140" type="40" order="20" hot="1" part="1" icon="activity_icon_twdDaiB" name="5601850" desc_info="5601851" image="FB_TWDshop_BG" tips="5601851" connect_ac1="10040"/>
+		<ItemSpec id="1120141" type="40" order="20" hot="1" part="1" icon="activity_icon_twdDaiB" name="5601850" desc_info="5601851" image="FB_TWDshop_BG" tips="5601851" connect_ac1="10041"/>
+		<ItemSpec id="1120172" type="108" order="19" hot="1" part="1" icon="activity_icon_Piggybank" name="110661111" desc_info="110661112" image="FB_PiggybankBase_BG" tips="110661112"/>
+		<ItemSpec id="1120202" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110270559" desc_info="90823192" image="Picture_chunjieliwu_1" tips="90823200" connect_ac1="10051"/>
+		<ItemSpec id="1120203" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110270559" desc_info="90823192" image="Picture_chunjieliwu_1" tips="90823200" connect_ac1="10052"/>
+		<ItemSpec id="1120204" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110270559" desc_info="90823192" image="Picture_chunjieliwu_1" tips="90823200" connect_ac1="10053"/>
+		
+		<ItemSpec id="1120266" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="79001024" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10156"/>
+		<ItemSpec id="1120267" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="79001024" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10157"/>
+		<ItemSpec id="1120268" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="79001024" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10158"/>
+		<ItemSpec id="1120269" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="FB_2025halloween_BG" desc_info="5602213" tips="90823200" connect_ac1="10159"/>
+		<ItemSpec id="1120270" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="FB_2025halloween_BG" desc_info="5602213" tips="90823200" connect_ac1="10160"/>
+		<ItemSpec id="1120271" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="FB_2025halloween_BG" desc_info="5602213" tips="90823200" connect_ac1="10161"/>
+		<ItemSpec id="1120272" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="FB_2025halloween_BG" desc_info="5602213" tips="90823200" connect_ac1="10162"/>
+		<ItemSpec id="1120273" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10163"/>
+		<ItemSpec id="1120274" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10164"/>
+		<ItemSpec id="1120275" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10165"/>
+		
+		<ItemSpec id="1120280" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="5600037" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10166"/>
+		<ItemSpec id="1120281" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="5600037" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10167"/>
+		<ItemSpec id="1120282" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="5600037" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10168"/>
+		<ItemSpec id="1120283" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="Picture_wuyihuodong2" desc_info="5602213" tips="90823200" connect_ac1="10169"/>
+		<ItemSpec id="1120284" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="Picture_wuyihuodong2" desc_info="5602213" tips="90823200" connect_ac1="10170"/>
+		<ItemSpec id="1120285" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="Picture_wuyihuodong2" desc_info="5602213" tips="90823200" connect_ac1="10171"/>
+		<ItemSpec id="1120286" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="Picture_wuyihuodong2" desc_info="5602213" tips="90823200" connect_ac1="10172"/>
+		<ItemSpec id="1120287" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="Picture_wuyihuodong2" desc_info="5602213" tips="90823200" connect_ac1="10173"/>
+		<ItemSpec id="1120288" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="5600037" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10174"/>
+		<ItemSpec id="1120289" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="5600037" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10175"/>
+		<ItemSpec id="1120290" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="5600037" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10176"/>
+		<ItemSpec id="1120291" type="40" order="10" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="Picture_wuyihuodong2" desc_info="5602213" tips="90823200" connect_ac1="10177"/>
+		<ItemSpec id="1120292" type="40" order="10" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="Picture_wuyihuodong2" desc_info="5602213" tips="90823200" connect_ac1="10178"/>
+		<ItemSpec id="1120293" type="40" order="10" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="Picture_wuyihuodong2" desc_info="5602213" tips="90823200" connect_ac1="10179"/>
+		<ItemSpec id="1120294" type="40" order="10" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="Picture_wuyihuodong2" desc_info="5602213" tips="90823200" connect_ac1="10180"/>
+		<ItemSpec id="1120295" type="40" order="10" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="Picture_wuyihuodong2" desc_info="5602213" tips="90823200" connect_ac1="10181"/>
+		<ItemSpec id="1120296" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="5600037" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10182"/>
+		<ItemSpec id="1120297" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="5600037" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10183"/>
+		<ItemSpec id="1120298" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="5600037" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10184"/>
+		<ItemSpec id="1120299" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="5600037" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10185"/>
+		<ItemSpec id="1120300" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="5600037" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10186"/>
+		<ItemSpec id="1120301" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="5600037" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10187"/>
+		<ItemSpec id="1120302" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="FB_2025xmas_exchange_BG" desc_info="5602213" tips="90823200" connect_ac1="10188"/>
+		<ItemSpec id="1120303" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="FB_2025xmas_exchange_BG" desc_info="5602213" tips="90823200" connect_ac1="10189"/>
+		<ItemSpec id="1120304" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="FB_2025xmas_exchange_BG" desc_info="5602213" tips="90823200" connect_ac1="10190"/>
+		<ItemSpec id="1120305" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="FB_2025xmas_exchange_BG" desc_info="5602213" tips="90823200" connect_ac1="10191"/>
+		<ItemSpec id="1120306" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="110810193" image="FB_2025xmas_exchange_BG" desc_info="5602213" tips="90823200" connect_ac1="10192"/>
+		<ItemSpec id="1170001" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_T_yongchileichong_dy.png" connect_ac="70001"/>
+		<ItemSpec id="1170002" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_T_yongchileichong_dy.png" connect_ac="70002"/>
+		<ItemSpec id="1170003" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_T_yongchileichong_dy.png" connect_ac="70003"/>
+		<ItemSpec id="1170004" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_T_yongchileichong_dy.png" connect_ac="70004"/>
+		<ItemSpec id="1170005" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_T_yongchileichong_dy.png" connect_ac="70005"/>
+		<ItemSpec id="1170006" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_T_yongchileichong_dy.png" connect_ac="70006"/>
+		<ItemSpec id="1170007" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_T_yongchileichong_dy.png" connect_ac="70000"/>
+		<ItemSpec id="1170008" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70007"/>
+		<ItemSpec id="1170009" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70008"/>
+		<ItemSpec id="1170010" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70009"/>
+		<ItemSpec id="1170011" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70010"/>
+		<ItemSpec id="1170012" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70011"/>
+		<ItemSpec id="1170013" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70012"/>
+		<ItemSpec id="1170014" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70013"/>
+		<ItemSpec id="1170015" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70021"/>
+		<ItemSpec id="1170016" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70016"/>
+		<ItemSpec id="1170017" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70017"/>
+		<ItemSpec id="1170018" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70018"/>
+		<ItemSpec id="1170019" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70019"/>
+		<ItemSpec id="1170020" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="79001024" image="Picture_wuyihuodong2" desc_info="5602213" tips="90823200" connect_ac1="10047"/>
+		<ItemSpec id="1171001" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70022"/>
+		<ItemSpec id="1171002" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70023"/>
+		<ItemSpec id="1171003" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70024"/>
+		<ItemSpec id="1171004" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70025"/>
+		<ItemSpec id="1171005" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70026"/>
+		<ItemSpec id="1171006" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70027"/>
+		<ItemSpec id="1171007" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="79001024" desc_info="5602213" image="Picture_xunlu_1" tips="90823200" connect_ac1="10048"/>
+		<ItemSpec id="1171008" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70028"/>
+		<ItemSpec id="1171009" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70029"/>
+		<ItemSpec id="1171010" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70030"/>
+		<ItemSpec id="1171011" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70031"/>
+		<ItemSpec id="1171012" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70032"/>
+		<ItemSpec id="1171013" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="Picture_xunlu_2" connect_ac="70033"/>
+		<ItemSpec id="1171014" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_IC_yuemo" connect_ac="70034"/>
+		<ItemSpec id="1171015" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_IC_yuemo" connect_ac="70035"/>
+		<ItemSpec id="1171016" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_IC_yuemo" connect_ac="70036"/>
+		<ItemSpec id="1171017" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_IC_yuemo" connect_ac="70037"/>
+		<ItemSpec id="1171018" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_IC_yuemo" connect_ac="70038"/>
+		<ItemSpec id="1171019" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_IC_yuemo" connect_ac="70039"/>
+		<ItemSpec id="1171020" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_IC_yuemo" connect_ac="70040"/>
+		<ItemSpec id="1171021" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="79001024" desc_info="5602213" image="Picture_xunlu_1" tips="90823200" connect_ac1="10049"/>
+
+		<ItemSpec id="1171023" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_IC_yuemo" connect_ac="70048"/>
+		<ItemSpec id="1171024" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_IC_yuemo" connect_ac="70049"/>
+		<ItemSpec id="1171025" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_IC_yuemo" connect_ac="70050"/>
+		<ItemSpec id="1171026" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_IC_yuemo" connect_ac="70051"/>
+		<ItemSpec id="1171027" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_IC_yuemo" connect_ac="70052"/>
+		<ItemSpec id="1171028" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_IC_yuemo" connect_ac="70053"/>
+		<ItemSpec id="1171029" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" name="7000060" image="FB_IC_yuemo" connect_ac="70054"/>
+
+	<ItemSpec id="2000000" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="Leichong_NewAda.png" name="7000060" connect_ac="60000"/>
+	<ItemSpec id="2000001" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="Leichong_NewAda.png" name="7000060" connect_ac="60001"/>
+    <ItemSpec id="2000002" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="Leichong_NewAda.png" name="7000060" connect_ac="60002"/>
+    <ItemSpec id="2000003" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="Leichong_NewAda.png" name="7000060" connect_ac="60003"/>
+    <ItemSpec id="2000004" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="Leichong_NewAda.png" name="7000060" connect_ac="60004"/>
+    <ItemSpec id="2000005" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="Leichong_NewAda.png" name="7000060" connect_ac="60005"/>
+ 
+   <ItemSpec id="1110107" type="26" order="1" hot="1" part="1" icon="FB_IC_yuandanleichong" image="Leichong_NewAda.png" name="7000060" connect_ac="50009"/>
+
+
+
+    <ItemSpec id="1120005" type="27" order="15" part="1" icon="IC_xianshichouka" name="83320001" show_level="8" panel_type="52" />
+    <ItemSpec id="1120006" type="28" order="700" part="2" icon="FB_huodongjinxiang" name="190907" show_level="6" />
+    <ItemSpec id="1120007" type="29" order="80" hot="1" part="3" icon="IC_xianshichouka2" name="800002" show_level="1" />
+    <ItemSpec id="1120008" type="30" order="90" hot="1" part="3" icon="FB_huodongjinxiang" name="800002" show_level="1" />
+    <ItemSpec id="1120009" type="13" order="50" hot="1" part="2" icon="FB_IC_moritequan" name="90550036" show_level="10" />
+
+    <ItemSpec id="1120011" type="15" order="103" hot="1" part="1" icon="Dynamic_welfare_festival_icon" image="FB_thanksgiving_BG" name="90821070" show_level="1" />
+    <ItemSpec id="1120012" type="31" order="16" part="1" icon="IC_xianshichouka" name="83320001" show_level="8" panel_type="62" />
+    <ItemSpec id="1120013" type="12" order="19" hot="1" part="1" icon="FB_IC_yingxiongjinbi" image="jinbi" name="90550094" desc_info="90550092" story="90550095" show_level="6" connect_ac="46704" tips="90550104" goods="212108" />
+    <ItemSpec id="1120014" type="12" order="19" hot="1" part="1" icon="Icon_chaopiaohuodong" image="Picture_chaopiaodatu" name="83401413" desc_info="90551006" story="90551008" show_level="6" connect_ac="46705" tips="90551011" goods="212110" />
+    <ItemSpec id="1120015" type="32" order="21" hot="1" part="1" icon="icon_xiangqing_entrance" name="90821085" show_level="1" />
+
+    <ItemSpec id="1120017" type="17" order="1" hot="1" part="1" icon="FB_IC_lianxuchongzhi" name="90551014" desc_info="90551015" tips="90551015" />
+    <ItemSpec id="1120018" type="50" order="1" hot="1" part="3" icon="XXX" name="11111111" show_level="1" />
+    <ItemSpec id="1120019" type="33" order="1" hot="1" part="3" icon="activity_icon_mech" name="110110383" around_id="5260031" show_level="4" />
+    <!-- 30级预热 -->
+    <ItemSpec id="1110118" type="33" order="1" hot="1" part="3" icon="activity_icon_Nationalday" name="110250081" around_id="5260054" show_level="4" />
+    <ItemSpec id="1120020" type="33" order="1" hot="1" icon="FB_huodongjinxiang" name="800002" around_id="5260000" show_level="4" />
+    <ItemSpec id="1120021" type="14" order="300" hot="1" part="2" icon="FB_IC_challenge" name="90552000" tips="90552016" />
+    <ItemSpec id="1120024" type="33" order="1" hot="1" part="3" icon="dy_activity_icon_carnical1" name="90823023" around_id="5260002" show_level="4" />
+    <ItemSpec id="1120025" type="52" order="1" icon="ROE_ICON_GoldShop" name="88000484" show_level="1" />
+<!-- 连续充值 -->
+    <ItemSpec id="1120010" type="9" order="35" hot="1" part="1" icon="FB_IC_lianxuchongzhi" image="dy_UI_Recharge_bg" ad_image="dy_UI_Recharge_bg0" name="90550200" desc_info="90550200" story="90550201" connect_ac="46702" tips="87004001" />
+    <ItemSpec id="1120026" type="9" order="35" hot="1" part="1" icon="FB_IC_lianxuchongzhi" image="dy_UI_Recharge_bg" ad_image="dy_UI_Recharge_bg0" name="90550200" desc_info="90550200" story="90550201" connect_ac="41702" tips="87004001" />
+    <ItemSpec id="1120016" type="18" order="25" hot="1" part="1" icon="FB_IC_lianxuchongzhi" image="dy_UI_Recharge_bg" ad_image="dy_UI_Recharge_bg0" name="90551018" desc_info="90551018" story="90551025" connect_ac="46708" tips="90551017" />
+    <ItemSpec id="1120030" type="18" order="25" hot="1" part="1" icon="FB_IC_lianxuchongzhi" image="dy_UI_Recharge_bg" ad_image="dy_UI_Recharge_bg0" name="193437" desc_info="193437" story="193436" connect_ac="500116" tips="90551017" />
+    <ItemSpec id="1120144" type="18" order="25" hot="1" part="1" icon="FB_IC_lianxuchongzhi" image="dy_UI_Recharge_bg" ad_image="dy_UI_Recharge_bg0" name="8000001" desc_info="8000001" story="100402" connect_ac="49002" tips="90551017" />
+    <ItemSpec id="1120147" type="18" order="25" hot="1" part="1" icon="FB_IC_lianxuchongzhi" image="dy_UI_Recharge_bg" ad_image="dy_UI_Recharge_bg0" name="8000001" desc_info="8000001" story="100402" connect_ac="49004" tips="90551017" />
+
+<!-- 周宇直连续充值 -->
+    <ItemSpec id="1120145" type="18" order="25" hot="1" part="1" icon="FB_IC_lianxuchongzhi" image="dy_UI_Recharge_bg" ad_image="dy_UI_Recharge_bg0" name="8000001" desc_info="8000001" story="100402" connect_ac="49003" tips="90551017" />
+    
+	<ItemSpec id="1140000" type="101" order="25" hot="1" part="1" icon="FB_IC_lianxuchongzhi" image="dy_UI_Recharge_bg" ad_image="dy_UI_Recharge_bg0" name="101254"  connect_ac="10001" tips="90551017" />
+
+
+    <ItemSpec id="1120032" type="35" order="20" hot="1" part="1" icon="activity_icon_leixiao" name="90551029" desc_info="90551032" connect_ac="500102" tips="90551033" />
+<!-- 14天bp -->
+   <ItemSpec id="1120033" type="36" order="300" hot="1" part="1" icon="activity_icon_quanminqingdian" name="110221151" desc_info="110221155" story="110221153" connect_ac="600001" tips="110221154" para1="15" />
+   <ItemSpec id="1121001" type="36" order="300" hot="1" part="1" icon="activity_icon_quanminqingdian" name="110221151" desc_info="110221155" story="110221153" connect_ac="600002" tips="110221154" para1="15" />
+   <ItemSpec id="1121002" type="36" order="300" hot="1" part="1" icon="activity_icon_quanminqingdian" name="110221151" desc_info="110221155" story="110221153" connect_ac="600003" tips="110221154" para1="15" />
+
+   <ItemSpec id="1130033" type="36" order="300" hot="1" part="1" icon="activity_icon_quanminqingdian" name="110221262" desc_info="110221263" story="110221265" connect_ac="500103" tips="110221266" other_image1="BG_quanminqingdian" para1="30" />
+   <ItemSpec id="1120152" type="36" order="300" hot="1" part="1" icon="activity_icon_quanminqingdian" name="110221262" desc_info="110221263" story="110221265" connect_ac="700000" tips="110221266" other_image1="BG_quanminqingdian" para1="30" />
+ 
+
+    <ItemSpec id="1120034" type="20" order="2" hot="1" part="1" icon="Icon_lianmengleichong" image="Picture_lianmengleichong" name="90553000" desc_info="90553001" story="90553002" connect_ac="500104" tips="90553006" />
+    <ItemSpec id="1120035" type="35" order="20" hot="1" part="3" icon="FB_IC_ertongjie" image="Picture_liuyiertongjie" name="90823023" desc_info="90551032" connect_ac="500105" tips="90551033" />
+    <ItemSpec id="1120036" type="37" order="302" hot="1" part="2" icon="activity_icon_saijitiaozhan" name="193277" desc_info="90600651" story="90600650" tips="90600652" />
+    <ItemSpec id="1120037" type="35" order="5" hot="1" part="1" icon="activity_icon_leixiao" image="FB_leixiao_BG" name="90551030" desc_info="90551032" connect_ac="500106" tips="90551033" />
+    <ItemSpec id="1120038" type="35" order="5" hot="1" part="1" icon="activity_icon_leixiao" image="FB_leixiao_BG" name="90821080" desc_info="90551032" connect_ac="500199" tips="90551033" />
+    <ItemSpec id="1120039" type="38" subType="1" order="100" hot="1" part="3" icon="activity_icon_morishuguang" image="FB_morishuguang_BG" name="110025002" desc_info="110025003" connect_ac1="100000|100021" tips="110025029" />
+    <ItemSpec id="1120040" type="33" order="1" hot="1" part="3" icon="activity_icon_zhongqiuqingdian" name="90823061" around_id="5260003" show_level="4" />
+    <ItemSpec id="1120041" type="39" order="101" hot="1" part="3" icon="activity_icon_huangyeyouqibing" image="shouyue__huangyeyouqibing" name="110025014" desc_info="110025033" extra_info="110025015" connect_ac1="100007|100034|100046|100058|100070|110007|100082|100094|100106|100204|100304|110028" tips="110025035" />
+    <!--<ItemSpec id="1120042" type="39" order="102" hot="1" part="3" icon="activity_icon_luxiyadeshilian" image="FB_luxiyadeshilian_BG" name="110025041" desc_info="110025036" extra_info="110025056" connect_ac1="100004|110027" tips="110025034" />-->
+    <ItemSpec id="1120043" type="38" subType="1" order="103" hot="1" part="3" icon="activity_icon_gangtieconglin" image="FB_gangtieconglin_BG" name="110025006" desc_info="110025007" extra_info="110025001" connect_ac1="100001|100008|100032|100044|110000|110010|110014|110021" tips="110025032" />
+    <ItemSpec id="1120044" type="38" subType="3" order="104" hot="1" part="3" icon="activity_icon_lingdianxingdong" image="FB_lingdianxingdong_BG" name="110025010" desc_info="110025011" extra_info="110025023" connect_ac1="100005|100012|110004|110008|110013|110018|110024|110025" tips="110025030" />
+    <ItemSpec id="1120045" type="38" subType="2" order="105" hot="1" part="3" icon="activity_icon_wenminghuozhong" image="FB_wenminghuozhong_BG" name="110025018" desc_info="110025019" extra_info="110025001" connect_ac1="100015|100056|100104|110006|110020" tips="110025032" score_tips1="110025037" score_tips2="110025038" />
+    <ItemSpec id="1120046" type="33" order="1" hot="1" part="3" icon="activity_icon_Nationalday" name="90823086" around_id="5260004" show_level="4" />
+    <ItemSpec id="1120047" type="38" subType="1" order="106" hot="1" part="3" icon="activity_icon_dongyuanling" image="FB_dongyuanling_BG" name="110025004" desc_info="110025005" extra_info="110025001" connect_ac1="100002|100011|100013|100031|100043|100055|100067|110005|100079|100091|100103|100201|100301|110011|110017|110019|110026|100401" tips="110025032" />
+    <ItemSpec id="1120048" type="38" subType="1" order="107" hot="1" part="3" icon="activity_icon_lingganyufaming" image="FB_lingganyufaming_BG" name="110025008" desc_info="110025009" extra_info="110025001" connect_ac1="100003|100033|100045|110001|110012|110016|110022" tips="110025032" />
+    <ItemSpec id="1120049" type="38" subType="2" order="108" hot="1" part="3" icon="activity_icon_rencaijihua" image="FB_rencaijihua_BG" name="110025012" desc_info="110025013" extra_info="110025001" connect_ac1="100006|100014|100057|100069|110002|100081|100093|100105|100202|100302|100403" tips="110025032" score_tips1="110025039" score_tips2="110025040" />
+    <ItemSpec id="1120050" type="38" subType="1" order="108" hot="1" part="3" icon="activity_icon_jinjijiuyuan" image="FB_jinjijiuyuan_BG" name="110025062" desc_info="110025063" connect_ac1="100016|100017|100037|100049|100061|100073|100085|100097|100109|100207|100307|100406" tips="110025064" />
+    <ItemSpec id="1120051" type="38" subType="1" order="108" hot="1" part="3" icon="activity_icon_gongyeyishu" image="FB_gongyeyishu_BG" name="110025016" desc_info="110025017" connect_ac1="100022" tips="110025064" />
+    <ItemSpec id="1120052" type="38" subType="1" order="108" hot="1" part="3" icon="activity_icon_shengcunzhidao" image="FB_shengcunzhidao_BG" name="110025060" desc_info="110025061" extra_info="110025001" connect_ac1="100009|100030|100042|100054|100066|110003|100078|100090|100102|100200|100300|110015|110023|100400" tips="110025032" />
+    <ItemSpec id="1120053" type="38" subType="1" order="107" hot="1" part="3" icon="activity_icon_lingganyufaming" image="FB_lingganyufaming_BG" name="110025008" desc_info="110025009" extra_info="110025001" connect_ac1="100010" tips="110025032" />
+    <ItemSpec id="1120054" type="38" subType="1" order="109" hot="1" part="3" icon="activity_icon_kaijiangtuotu" image="FB_kaijiangtuotu_BG" name="90602144" desc_info="110025096" extra_info="110025001" connect_ac1="100018|100019" tips="110025032" />
+    <ItemSpec id="1120055" type="38" subType="1" order="108" hot="1" part="3" icon="activity_icon_lianmengjingying" image="FB_lianmengjingying_BG" name="110025097" desc_info="110025098" extra_info="110025001" connect_ac1="100095|100071|100404" tips="110025032" />
+    <ItemSpec id="1120056" type="38" subType="1" order="108" hot="1" part="3" icon="activity_icon_lingdianxingdong" image="FB_qinglisangshi_BG" name="173914" desc_info="110025094" extra_info="110025001" connect_ac1="100068|100080|100092|100203|100303|100402" tips="110025032" />
+    <ItemSpec id="1120057" type="35" order="5" hot="1" part="3" icon="activity_icon_leixiao" image="FB_wanshengjie_BG" name="90821006" desc_info="90551032" connect_ac="500115" tips="90551032" />
+    <ItemSpec id="1120058" type="20" order="2" hot="1" part="1" icon="Icon_lianmengleichong" image="Picture_lianmengleichong" name="90553000" desc_info="90553001" story="90553002" connect_ac="500114" tips="90553006" />
+    <ItemSpec id="1120059" type="33" order="1" hot="1" part="3" icon="activity_icon_thanksgiving" name="90823096" around_id="5260005" show_level="4" />
+    <ItemSpec id="1120060" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_gongyeyishu_BG_new" name="90823160" desc_info="193701" connect_ac1="10003" tips="90823200" />
+    <ItemSpec id="1120061" type="41" order="19" hot="1" part="2" icon="UI_zhouka" name="193718" />
+	<ItemSpec id="1120099" type="113" order="19" hot="1" part="2" icon="UI_zhouka" name="193718" />
+    <ItemSpec id="1120062" type="33" order="1" hot="1" part="3" icon="activity_icon_Dragonboat" name="90823258" around_id="5260007" show_level="4" />
+    <ItemSpec id="1120063" type="38" subType="1" order="107" hot="1" part="3" icon="activity_icon_lianmengjingying" image="FB_lianmengjingying_BG" name="110025066" desc_info="110025067" extra_info="110025001" connect_ac1="100041|100053|100065|100113|100089|100077|100311|100211" tips="110025032" />
+    <ItemSpec id="1120064" type="38" subType="1" order="107" hot="1" part="3" icon="activity_icon_kaijiangtuotu" image="FB_kaijiangtuotu_BG" name="110025071" desc_info="110025072" extra_info="110025001" connect_ac1="100035|100047|100059|100107|100083|100205|100305|100074|100098|100407" tips="110025032" />
+    <ItemSpec id="1120065" type="38" subType="1" order="107" hot="1" part="3" icon="activity_icon_bingduyanjiu" image="FB_bingduyanjiu_BG" name="110025073" desc_info="110025074" extra_info="110025001" connect_ac1="100036|100048|100060|100072|100084|100096|100108|100206|100306|100405" tips="110025032" />
+    <ItemSpec id="1120066" type="38" subType="1" order="107" hot="1" part="3" icon="activity_icon_baojiaweiguo" image="FB_baojiaweiguo_BG" name="110025075" desc_info="110025076" extra_info="110025001" connect_ac1="100038|100050|100062|100086|100110|100208|100308" tips="110025032" />
+    <ItemSpec id="1120067" type="38" subType="1" order="107" hot="1" part="3" icon="activity_icon_xiufugongcheng" image="FB_xiufugongcheng_BG" name="110025077" desc_info="110025078" extra_info="110025001" connect_ac1="100039|100051|100063|100075|100087|100099|100111|100209|100309|100408" tips="110025032" />
+    <ItemSpec id="1120068" type="38" subType="1" order="107" hot="1" part="3" icon="activity_icon_yingxiongyuanzheng" image="FB_yingxiongyuanzheng_BG" name="110025079" desc_info="110025080" extra_info="110025001" connect_ac1="100040|100052|100064|100076|100088|100100|100112|100210|100310" tips="110025032" />
+    <ItemSpec id="1120069" type="42" order="100" part="2" icon="FB_huodongjinxiang" name="110028013" show_level="4" />
+    <ItemSpec id="1120070" type="43" order="25" hot="1" part="1" icon="FB_IC_lianxuchongzhi" image="dy_UI_Recharge_bg" ad_image="dy_UI_Recharge_bg0" name="90550200" desc_info="90550200" story="90550201" connect_ac="46702" tips="87004001" />
+    <ItemSpec id="1120071" type="18" order="25" hot="1" part="1" icon="FB_IC_lianxuchongzhi" image="dy_UI_Recharge_bg" ad_image="dy_UI_Recharge_bg0" name="100443" desc_info="100443" story="110028019" show_level="18" connect_ac="46709" tips="90551017" />
+<!-- 转盘
+     <ItemSpec id="1120072" type="44" order="20" hot="1" part="1" icon="Icon_zhuangban" image="Summer" name="90552033" desc_info="90552042" show_level="6" connect_ac="500101" tips="110270127 " goods="201026003" />
+ -->
+    <!-- 转盘-->
+    <ItemSpec id="1130002" type="44" order="20" hot="1" part="1" icon="Icon_zhuangban" image="Wheel" name="90552033" desc_info="90552042" show_level="1" connect_ac="500101" tips="90552047" goods="201026003" />
+
+    <ItemSpec id="1120073" type="18" order="25" hot="1" part="1" icon="FB_IC_lianxuchongzhi" image="dy_UI_Recharge_bg" ad_image="dy_UI_Recharge_bg0" name="110028052" desc_info="110028052" story="110028029" show_level="18" connect_ac="46710" tips="90551017" />
+    <ItemSpec id="1120074" type="18" order="25" hot="1" part="1" icon="FB_IC_lianxuchongzhi" image="dy_UI_Recharge_bg" ad_image="dy_UI_Recharge_bg0" name="110028053" desc_info="110028053" story="110028030" show_level="18" connect_ac="46711" tips="90551017" />
+    <ItemSpec id="1120076" type="18" order="25" hot="1" part="1" icon="FB_IC_lianxuchongzhi" image="dy_UI_Recharge_bg" ad_image="dy_UI_Recharge_bg0" name="193631" desc_info="193631" story="193756" show_level="25" connect_ac="49000" tips="90551017" />
+    <ItemSpec id="1120077" type="20" order="2" hot="1" part="1" icon="Icon_lianmengleichong" image="Picture_lianmengleichong" name="90553000" desc_info="90553001" story="90553002" connect_ac="500125" tips="90553006" />
+    <ItemSpec id="1120078" type="18" order="25" hot="1" part="1" icon="FB_IC_lianxuchongzhi" image="dy_UI_Recharge_bg" ad_image="dy_UI_Recharge_bg0" name="110028071" desc_info="110028071" story="110028000" show_level="25" connect_ac="49001" tips="90551017" />
+    <ItemSpec id="1120079" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_lingganyufaming_BG_new" name="90823160" desc_info="110022250" connect_ac1="10004" tips="90823200" />
+    <ItemSpec id="1120081" type="40" order="20" part="1" icon="activity_icon_tongyongduihuan" image="FB_kejibolanhui_BG" name="90823160" connect_ac1="10005" tips="90823200" />
+    <ItemSpec id="1120082" type="40" order="20" part="1" icon="activity_icon_tongyongduihuan" image="FB_kejibolanhui_BG" name="90823160" connect_ac1="10006" tips="90823200" />
+    <ItemSpec id="1120083" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_lingganyufaming_BG_new" name="90823160" desc_info="83310431" connect_ac1="10007" tips="90823200" />
+    <ItemSpec id="1120084" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_laborduihuan_BG" name="90823160" desc_info="90823023" connect_ac1="10008" tips="90823200" />
+    <ItemSpec id="1120085" type="55" subType="4" order="303" hot="1" part="3" icon="activity_icon_saijixianli" image="FB_saijixianli_BG_new" name="110050033" desc_info="110050035" show_level="25" connect_ac1="200000" tips="110050036" season_type="5" />
+    <ItemSpec id="1120086" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_laborduihuan_BG" name="90823160" desc_info="90823023" connect_ac1="10009" tips="90823200" />
+    <ItemSpec id="1120087" type="33" order="1" hot="1" part="3" icon="activity_icon_Nationalday" name="90823023" around_id="5260011" show_level="4" />
+    <ItemSpec id="1120088" type="56" order="1" hot="1" part="1" icon="activity_icon_choujiangji" name="90823467" show_level="6" tips="90823486" />
+   
+    <ItemSpec id="1120090" type="18" order="25" hot="1" part="1" icon="FB_IC_lianxuchongzhi" image="dy_UI_Recharge_bg" ad_image="dy_UI_Recharge_bg0" name="193341" desc_info="193341" story="110028085" show_level="18" connect_ac="46712" tips="90551017" />
+    <ItemSpec id="1120091" type="18" order="25" hot="1" part="1" icon="FB_IC_lianxuchongzhi" image="dy_UI_Recharge_bg" ad_image="dy_UI_Recharge_bg0" name="193340" desc_info="193340" story="110028086" show_level="18" connect_ac="46713" tips="90551017" />
+    <ItemSpec id="1120092" type="18" order="25" hot="1" part="1" icon="FB_IC_lianxuchongzhi" image="dy_UI_Recharge_bg" ad_image="dy_UI_Recharge_bg0" name="193339" desc_info="193339" story="110028087" show_level="18" connect_ac="46714" tips="90551017" />
+    <ItemSpec id="1120093" type="55" subType="4" order="303" hot="1" part="3" icon="activity_icon_saijixianli" image="FB_saijixianli_BG_new" name="110050033" desc_info="110022423" show_level="25" connect_ac1="200002" tips="110022424" />
+<!-- 皮肤商店 -->
+    <ItemSpec id="1120094" type="58" order="21" part="1" icon="activity_icon_decoration_ad" image="FB_decoration_ad_chunjie24_BG" ad_image="10061_image" name="110040724" desc_info="110040722" show_level="4" connect_ac1="500152"/>
+
+
+    <ItemSpec id="1120095" type="20" order="2" hot="1" part="1" icon="Icon_lianmengleichong" image="Picture_lianmengleichong" name="90553000" desc_info="90553001" story="90553002" connect_ac="500133" tips="90553006" />
+
+    <ItemSpec id="1120096" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_laborduihuan_BG" name="90823160" desc_info="90823023" connect_ac1="10016" tips="90823200" />
+    <ItemSpec id="1140101" type="20" order="2" hot="1" part="1" icon="Icon_lianmengleichong" image="Picture_lianmengleichong" name="90553000" desc_info="90553001" story="90553002" connect_ac="500113" tips="90553006" />
+    <ItemSpec id="1140102" type="20" order="2" hot="1" part="1" icon="Icon_lianmengleichong" image="Picture_lianmengleichong" name="90553000" desc_info="90553001" story="90553002" connect_ac="500112" tips="90553006" />
+    <ItemSpec id="1140103" type="20" order="2" hot="1" part="1" icon="Icon_lianmengleichong" image="Picture_lianmengleichong" name="90553000" desc_info="90553001" story="90553002" connect_ac="500111" tips="90553006" />
+    <ItemSpec id="1140104" type="20" order="2" hot="1" part="1" icon="Icon_lianmengleichong" image="Picture_lianmengleichong" name="90553000" desc_info="90553001" story="90553002" connect_ac="500110" tips="90553006" />	
+    <ItemSpec id="1140105" type="20" order="2" hot="1" part="1" icon="Icon_lianmengleichong" image="Picture_lianmengleichong" name="90553000" desc_info="90553001" story="90553002" connect_ac="500119" tips="90553006" />
+    <ItemSpec id="1140106" type="20" order="2" hot="1" part="1" icon="Icon_lianmengleichong" image="Picture_lianmengleichong" name="90553000" desc_info="90553001" story="90553002" connect_ac="500120" tips="90553006" />
+    <ItemSpec id="1140107" type="20" order="2" hot="1" part="1" icon="Icon_lianmengleichong" image="Picture_lianmengleichong" name="90553000" desc_info="90553001" story="90553002" connect_ac="500121" tips="90553006" />
+    
+<!-- 高效利用 -->
+    <ItemSpec id="1120102" type="38" subType="2" order="20" hot="1" part="1" icon="activity_icon_gaoxiaoliyong" image="FB_gaoxiaoliyong_BG" name="110221072" desc_info="110221073" connect_ac1="120003|120004" tips="110025064" goods_score="219505;5000" />
+    <ItemSpec id="1120097" type="38" subType="2" order="20" hot="1" part="3" icon="activity_icon_gaoxiaoliyong" image="FB_gaoxiaoliyong_BG" name="110221072" desc_info="110221073" connect_ac1="120001|120002" tips="110025064" goods_score="200119;2000" />
+    <ItemSpec id="1120143" type="38" subType="2" order="20" hot="1" part="1" icon="activity_icon_gaoxiaoliyong" image="FB_gaoxiaoliyong_BG_nonexist" name="90551028" desc_info="110221073" connect_ac1="120005|120006" tips="110025064" goods_score="200060;10000" />
+    <ItemSpec id="1120146" type="38" subType="2" order="20" hot="1" part="1" icon="activity_icon_gaoxiaoliyong" image="FB_gaoxiaoliyong_BG_nonexist" name="110022347" desc_info="110221073" connect_ac1="120007|120008" tips="110025064" goods_score="200121;300|200122;300|200123;300" />
+	<!-- 火线增援_导弹消耗 -->
+    <!-- <ItemSpec id="1120149" type="38" subType="2" order="20" hot="1" part="1" icon="activity_icon_gaoxiaoliyong" image="FB_gaoxiaoliyong_BG_nonexist" name="91023078" desc_info="110320429" connect_ac1="120012|120013|120014|120015|120016|120017|120018|120019|120020" tips="110025064" goods_score="219194;500" /> -->
+	<!-- 情定守望_礼盒消耗 -->
+    <!-- <ItemSpec id="1120149" type="38" subType="2" order="20" hot="1" part="1" icon="activity_icon_gaoxiaoliyong" image="FB_gaoxiaoliyong_BG_nonexist" name="110320650" desc_info="110320429" connect_ac1="120012|120013|120014|120015|120016|120017|120018|120019|120020" tips="110025064" goods_score="312013;500" /> -->
+	<!-- 假面舞会_面具消耗 -->
+    <ItemSpec id="1120149" type="38" subType="2" order="20" hot="1" part="1" icon="activity_icon_gaoxiaoliyong" image="FB_gaoxiaoliyong_BG_nonexist" name="110320798" desc_info="110320799" connect_ac1="120012|120013|120014|120015|120016|120017|120018|120019|120020" tips="110025064" goods_score="310159;500" />
+	<!-- 情定守望_礼盒消耗 -->
+    <ItemSpec id="1120154" type="38" subType="2" order="20" hot="1" part="1" icon="activity_icon_gaoxiaoliyong" image="FB_gaoxiaoliyong_BG_nonexist" name="110320650" desc_info="110320683" connect_ac1="120021" tips="110025064" goods_score="312013;500" />
+  <!-- 景观万能碎片主题_消耗 -->
+  <ItemSpec id="1120150" type="38" subType="2" order="20" hot="1" part="1" icon="activity_icon_gaoxiaoliyong" image="FB_gaoxiaoliyong_BG_nonexist" name="110221072" desc_info="110221073" connect_ac1="120022" tips="110025064" goods_score="310056;40|310057;12|310058;1" />
+
+<!-- 圣诞送花 -->
+  <ItemSpec id="1120155" type="38" subType="2" order="20" hot="1" part="1" icon="activity_icon_gaoxiaoliyong" image="FB_consume_event" name="110221072" desc_info="110320683" connect_ac1="120023" tips="110025064" goods_score="650179;1" />
+
+
+
+
+
+    <!--新手战令-->
+    <ItemSpec id="1120111" type="57" order="1" hot="1" part="1" icon="activity_icon_wanjinfu" image="FB_wanjinfu_BG" name="110040716" show_level="4" />
+    <!--新手战令结束-->
+
+<!-- 加密货币_福利中心售卖 -->
+    <ItemSpec id="1120152" type="81" order="1" part="3" icon="singleRecharge2_icon" name="110221396" tips="110221397" />
+
+    
+<!-- 特惠礼包日_周_月 -->
+    <ItemSpec id="1160006" type="62" order="1" part="2" icon="FB_huodongjinxiang2" name="5600173" show_level="4" tips="110088008" />
+
+
+
+
+<!-- 稀土兑换商店 801-1020-->	
+
+<!-- 稀土兑换商店 1-800-->
+
+<!-- 稀土兑换商店 1021-1059-->
+ 
+<!--ROE累消-->
+    <ItemSpec id="8800001" type="35" order="1" hot="1" icon="activity_icon_leixiao" image="FB_leixiao_BG" name="91015082" desc_info="90551032" connect_ac="800001" tips="90902219" />
+    <ItemSpec id="8800002" type="35" order="1" hot="1" icon="activity_icon_leixiao" image="FB_leixiao_BG" name="91015082" desc_info="90551032" connect_ac="800002" tips="90902219" />
+    <ItemSpec id="8800003" type="35" order="1" hot="1" icon="activity_icon_leixiao" image="FB_leixiao_BG" name="91015082" desc_info="90551032" connect_ac="800003" tips="90902219" />
+    <ItemSpec id="1120089" type="55" subType="4" order="303" hot="1" part="3" icon="activity_icon_saijixianli" image="FB_saijixianli_BG_new" name="110050033" desc_info="110030804" show_level="25" connect_ac1="200001" tips="110030805" season_type="5" />
+    
+    <ItemSpec id="1120101" type="55" subType="4" order="303" hot="1" part="3" icon="activity_icon_saijixianli" image="FB_saijixianli_BG_new" name="110050033" desc_info="110033045" show_level="25" connect_ac1="200003" tips="110033023" />
+    <ItemSpec id="1120110" type="55" subType="4" order="303" hot="1" part="3" icon="activity_icon_saijixianli" image="FB_saijixianli_BG_new" name="110050033" desc_info="110022423" show_level="25" connect_ac1="200004" tips="110022424" />
+
+
+    <!-- 铁片版赛季献礼-->
+    <ItemSpec id="1120105" type="55" subType="4" order="303" hot="1" part="3" icon="activity_icon_saijixianli" image="FB_saijixianli_BG_new" name="110050033" desc_info="110050035" show_level="25" connect_ac1="200005" tips="110050036" season_type="5" />
+    <ItemSpec id="1120106" type="55" subType="4" order="303" hot="1" part="3" icon="activity_icon_saijixianli" image="FB_saijixianli_BG_new" name="110050033" desc_info="110030804" show_level="25" connect_ac1="200006" tips="110030805" season_type="5" />
+    <ItemSpec id="1120107" type="55" subType="4" order="303" hot="1" part="3" icon="activity_icon_saijixianli" image="FB_saijixianli_BG_new" name="110050033" desc_info="110022423" show_level="25" connect_ac1="200007" tips="110022424" />
+    <ItemSpec id="1120108" type="55" subType="4" order="303" hot="1" part="3" icon="activity_icon_saijixianli" image="FB_saijixianli_BG_new" name="110050033" desc_info="110033045" show_level="25" connect_ac1="200008" tips="110033023" />
+    <ItemSpec id="1120109" type="55" subType="4" order="303" hot="1" part="3" icon="activity_icon_saijixianli" image="FB_saijixianli_BG_new" name="110050033" desc_info="110022423" show_level="25" connect_ac1="200009" tips="110022424" />
+	
+<!--赛季献礼 荣誉建筑版-->
+    <ItemSpec id="1120113" type="55" subType="4" order="303" hot="1" part="3" icon="activity_icon_saijixianli" image="FB_saijixianli_BG_new" name="110050033" desc_info="110050035" show_level="25" connect_ac1="200010" tips="110050036" season_type="5" />
+    <ItemSpec id="1120114" type="55" subType="4" order="303" hot="1" part="3" icon="activity_icon_saijixianli" image="FB_saijixianli_BG_new" name="110050033" desc_info="110030804" show_level="25" connect_ac1="200011" tips="110030805" season_type="5" />
+    <ItemSpec id="1120115" type="55" subType="4" order="303" hot="1" part="3" icon="activity_icon_saijixianli" image="FB_saijixianli_BG_new" name="110050033" desc_info="110022423" show_level="25" connect_ac1="200012" tips="110022424" />
+    <ItemSpec id="1120116" type="55" subType="4" order="303" hot="1" part="3" icon="activity_icon_saijixianli" image="FB_saijixianli_BG_new" name="110050033" desc_info="110033045" show_level="25" connect_ac1="200013" tips="110033023" />
+    <ItemSpec id="1120117" type="55" subType="4" order="303" hot="1" part="3" icon="activity_icon_saijixianli" image="FB_saijixianli_BG_new" name="110050033" desc_info="110022423" show_level="25" connect_ac1="200014" tips="110022424" />
+
+    <!--秘境庆典-赛季开启--> 
+    <ItemSpec id="1120104" type="99" order="1" hot="1" part="3" icon="activity_icon_Camp7Days" name="110258298" show_level="1" />
+    
+	<!--2022新手-战力冲刺-->
+     <ItemSpec id="1120121" type="66" subType="1" order="100" hot="1" part="1" icon="activity_icon_wenminghuozhong" name="110240555" desc_info="110240557" connect_ac1="130001" tips="110240565" />
+    
+	
+<!--成长基金-->
+    <ItemSpec id="1160000" type="60" order="1" part="2" icon="activity_icon_growthfund" image="FB_growthfund_BG" name="110088003" show_level="1" tips="110088008" />
+<!--超级成长基金-->
+	<ItemSpec id="1160001" type="61" order="1" part="2" icon="activity_icon_supergrowthfund" image="FB_supergrowthfund_BG" name="110088004" show_level="1" tips="110088008" />
+<!-- 夺宝 -->
+    <ItemSpec id="1160008" type="64" order="1" part="1" icon="activity_icon_superTreasure" image="FB_growthfund_BG" name="120000007" tips="120000001" />
+<!-- 琳琅满目 -->
+    <ItemSpec id="1160020" type="65" order="3" hot="1" part="1" icon="activity_icon_dazzling_treasure" name="110221219" connect_ac="1001" tips="110221222" payment="220320001;1|220320002;10|220320003;50|220320004;100" />
+    <ItemSpec id="1160021" type="65" order="3" hot="1" part="1" icon="activity_icon_dazzling_treasure" name="110221219" connect_ac="1002" tips="110221222" payment="220320001;1|220320002;10|220320003;50|220320004;100" />
+    <ItemSpec id="1160022" type="65" order="3" hot="1" part="1" icon="activity_icon_dazzling_treasure" name="110221219" connect_ac="1003" tips="110221222" payment="220320001;1|220320002;10|220320003;50|220320004;100" />
+    <ItemSpec id="1160023" type="65" order="3" hot="1" part="1" icon="activity_icon_dazzling_treasure" name="110221219" connect_ac="1004" tips="110221222" payment="220320001;1|220320002;10|220320003;50|220320004;100" />
+    <ItemSpec id="1160024" type="65" order="3" hot="1" part="1" icon="activity_icon_dazzling_treasure" name="110221219" connect_ac="1005" tips="110221222" payment="220320001;1|220320002;10|220320003;50|220320004;100" />
+    <ItemSpec id="1160025" type="65" order="3" hot="1" part="1" icon="activity_icon_dazzling_treasure" name="110221219" connect_ac="1006" tips="110221222" payment="220320001;1|220320002;10|220320003;50|220320004;100" />
+    <ItemSpec id="1160026" type="65" order="3" hot="1" part="1" icon="activity_icon_dazzling_treasure" name="110221219" connect_ac="1007" tips="110221222" payment="220320001;1|220320002;10|220320003;50|220320004;100" />
+    <ItemSpec id="1160027" type="65" order="3" hot="1" part="1" icon="activity_icon_dazzling_treasure" name="110221219" connect_ac="1008" tips="110221222" payment="220320001;1|220320002;10|220320003;50|220320004;100" />
+    <ItemSpec id="1160028" type="65" order="3" hot="1" part="1" icon="activity_icon_dazzling_treasure" name="110221219" connect_ac="1009" tips="110221222" payment="220320001;1|220320002;10|220320003;50|220320004;100" />
+    <ItemSpec id="1160029" type="65" order="3" hot="1" part="1" icon="activity_icon_dazzling_treasure" name="110221219" connect_ac="1010" tips="110221222" payment="220320001;1|220320002;10|220320003;50|220320004;100" />
+
+<!-- 连续充值 -->
+    <ItemSpec id="1160007" type="63" order="10" part="1" icon="icon_lianxichongzhibiao" name="121000006" show_level="6" tips="110088008"/>
+
+<!-- 单笔充值 -->
+    <ItemSpec id="1120125" type="68" order="9" hot="1" part="1" icon="activity_icon_single_recharge" name="110221307" tips="110221313"/>
+
+<!-- 菠萝包 -->
+<!-- 战友征召 -->
+    <ItemSpec id="1120123" type="49" subType="1" order="30" hot="1" part="1" icon="activity_icon_57742" name="110283001" desc_info="110283006" show_level="10" tips="110283005" />
+<!-- 战友召回 -->
+    <ItemSpec id="1120124" type="51" subType="2" order="30" hot="1" part="1" icon="activity_icon_57742" name="110283002" desc_info="110283007" show_level="10" tips="110283008" />
+<!-- 新好友邀请 -->
+    <ItemSpec id="1120179" type="82" subType="1" order="30" hot="1" part="1" icon="activity_icon_57742" name="110283001" desc_info="110283006" show_level="10" tips="110283093" />
+<!-- 商业化常驻-兑换商店01 -->
+  <!--  <ItemSpec id="1120127" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_chunjieduihuan_BG" name="79001024" desc_info="5602213" connect_ac1="10055" tips="90823200"/> -->
+<!-- 商业化常驻-兑换商店02 -->
+   <!-- <ItemSpec id="1120139" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_chunjieduihuan_BG" name="79001024" desc_info="5602213" connect_ac1="10054" tips="90823200"/> -->
+
+<!-- 商业化兑换商店-复活节兑换商店3月22日-3月31日 -->
+    <ItemSpec id="1120205" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_fuhuojieriDuiHuan_BG" name="110810034" desc_info="5602213" connect_ac1="10056" tips="90823200"/><!-- 兑换商店3-复活节兑换商店S7及以上 -->
+    <ItemSpec id="1120206" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_fuhuojieriDuiHuan_BG" name="110810034" desc_info="5602213" connect_ac1="10057" tips="90823200"/><!-- 兑换商店3-复活节兑换商店S4~S6 -->
+    <ItemSpec id="1120207" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_fuhuojieriDuiHuan_BG" name="110810034" desc_info="5602213" connect_ac1="10058" tips="90823200"/><!-- 兑换商店3-复活节兑换商店S2~S3 -->
+    <ItemSpec id="1120208" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_fuhuojieriDuiHuan_BG" name="110810034" desc_info="5602213" connect_ac1="10059" tips="90823200"/><!-- 兑换商店3-复活节兑换商S1~1421 -->
+
+<!-- 商业化常驻-兑换商店S7赛季及以上1-1380服务器   -->
+    <ItemSpec id="1120209" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_fuhuojieriDuiHuan_BG" name="79001024" desc_info="5602213" connect_ac1="10097" tips="90823200"/>
+<!-- 商业化常驻-兑换商店S3赛季-S6赛季-1381-1430服务器 -->
+    <ItemSpec id="1120210" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_fuhuojieriDuiHuan_BG" name="79001024" desc_info="5602213" connect_ac1="10098" tips="90823200"/>
+<!-- 商业化常驻-兑换商店S1赛季-S2赛季-1431-1448服务器 -->
+    <ItemSpec id="1120215" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_fuhuojieriDuiHuan_BG" name="79001024" desc_info="5602213" connect_ac1="10099" tips="90823200"/>
+
+<!-- 10月18日-11月1日万圣节兑换商店-S7赛季及以上-1-1370  -->
+    <ItemSpec id="1120211" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_WSJDuiHuan_BG" name="87004032" desc_info="5602213" connect_ac1="10090" tips="90823200"/>
+<!-- 10月18日-11月1日万圣节兑换商店-S4-S6赛季-1371-1420 -->
+    <ItemSpec id="1120212" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_WSJDuiHuan_BG" name="87004032" desc_info="5602213" connect_ac1="10091" tips="90823200"/>
+<!-- 10月18日-11月1日万圣节兑换商店-S2-S3赛季-1421-1430 -->
+    <ItemSpec id="1120213" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_WSJDuiHuan_BG" name="87004032" desc_info="5602213" connect_ac1="10092" tips="90823200"/>
+<!-- 10月18日-11月1日万圣节兑换商店-S1赛季及以上1431-1447 -->
+    <ItemSpec id="1120214" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_WSJDuiHuan_BG" name="87004032" desc_info="5602213" connect_ac1="10093" tips="90823200"/>
+
+
+<!-- 12月09日-12月22日 圣诞节兑换商店S7赛季及以上1-1380服务器  -->
+    <ItemSpec id="1120219" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2024shengdan_BG" name="110706004" desc_info="5602213" connect_ac1="10100" tips="90823200"/>
+<!-- 12月09日-12月22日 圣诞节兑换商店S3赛季-S6赛季-1381-1430服务器  -->
+    <ItemSpec id="1120216" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2024shengdan_BG" name="110706004" desc_info="5602213" connect_ac1="10101" tips="90823200"/>
+<!-- 12月09日-12月22日 圣诞节兑换商店S1赛季-S2赛季-1431-1440服务器  -->
+    <ItemSpec id="1120217" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2024shengdan_BG" name="110706004" desc_info="5602213" connect_ac1="10102" tips="90823200"/>
+<!-- 12月09日-12月22日 圣诞节兑换商店S1赛季-S2赛季-1441-1458服务器  -->
+    <ItemSpec id="1120218" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2024shengdan_BG" name="110706004" desc_info="5602213" connect_ac1="10103" tips="90823200"/> 
+
+<!-- 1月20日-2月5日 春节兑换商店S7赛季及以上1-1380服务器  -->
+    <ItemSpec id="1120220" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025chunjie_BG" name="111880074" desc_info="5602213" connect_ac1="10104" tips="90823200"/>
+<!-- 1月20日-2月5日 春节兑换商店S3赛季-S6赛季-1381-1430服务器  -->
+    <ItemSpec id="1120221" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025chunjie_BG" name="111880074" desc_info="5602213" connect_ac1="10105" tips="90823200"/>
+<!-- 1月20日-2月5日 春节兑换商店S1赛季-S2赛季-1431-1440服务器  -->
+    <ItemSpec id="1120222" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025chunjie_BG" name="111880074" desc_info="5602213" connect_ac1="10106" tips="90823200"/>
+<!-- 1月20日-2月5日 春节兑换商店S1赛季-S2赛季-1441-1464服务器  -->
+    <ItemSpec id="1120223" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025chunjie_BG" name="111880074" desc_info="5602213" connect_ac1="10107" tips="90823200"/> 
+
+<!-- 2月14日-2月27日 情人节兑换商店S7赛季及以上1-1390服务器  -->
+    <ItemSpec id="1120224" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025qingrenjie_BG" name="5601200" desc_info="5602213" connect_ac1="10108" tips="90823200"/>
+<!-- 2月14日-2月27日  情人节兑换商店S3赛季-S6赛季-1391-1430服务器  -->
+    <ItemSpec id="1120225" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025qingrenjie_BG" name="5601200" desc_info="5602213" connect_ac1="10109" tips="90823200"/>
+<!-- 2月14日-2月27日  情人节兑换商店S1赛季-S2赛季-1431-1448服务器  -->
+    <ItemSpec id="1120226" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025qingrenjie_BG" name="5601200" desc_info="5602213" connect_ac1="10110" tips="90823200"/>
+<!-- 2月14日-2月27日  情人节兑换商店S1赛季-S2赛季-1449-1467服务器  -->
+    <ItemSpec id="1120227" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025qingrenjie_BG" name="5601200" desc_info="5602213" connect_ac1="10111" tips="90823200"/> 
+
+<!-- 商业化常驻-兑换商店S7赛季及以上1-1380服务器   -->
+    <ItemSpec id="1120228" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025common_BG" name="79001024" desc_info="5602213" connect_ac1="10119" tips="90823200"/>
+<!-- 商业化常驻-兑换商店S3赛季-S6赛季-1381-1430服务器 -->
+    <ItemSpec id="1120229" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025common_BG" name="79001024" desc_info="5602213" connect_ac1="10120" tips="90823200"/>
+<!-- 商业化常驻-兑换商店S1赛季-S2赛季-1431-1448服务器 -->
+    <ItemSpec id="1120230" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025common_BG" name="79001024" desc_info="5602213" connect_ac1="10121" tips="90823200"/>
+
+<!-- 3月17-3月31-兑换商店S7赛季及以上1-1380服务器   -->
+    <ItemSpec id="1120231" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025chunri_BG" name="111880085" desc_info="5602213" connect_ac1="10115" tips="90823200"/>
+<!-- 3月17-3月31-兑换商店S3赛季-S6赛季-1381-1430服务器 -->
+    <ItemSpec id="1120232" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025chunri_BG" name="111880085" desc_info="5602213" connect_ac1="10116" tips="90823200"/>
+<!-- 3月17-3月31-兑换商店S1赛季-S2赛季-1431-1448服务器 -->
+    <ItemSpec id="1120233" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025chunri_BG" name="111880085" desc_info="5602213" connect_ac1="10117" tips="90823200"/>
+<!-- 3月17-3月31-兑换商店S1赛季-S2赛季-1431-1448服务器 -->
+    <ItemSpec id="1120234" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025chunri_BG" name="111880085" desc_info="5602213" connect_ac1="10118" tips="90823200"/>
+
+<!-- 4月14-4月28-兑换商店S7赛季及以上1-1380服务器   -->
+    <ItemSpec id="1120235" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025fuhuo_BG" name="110810032" desc_info="5602213" connect_ac1="10122" tips="90823200"/>
+<!-- 3月17-3月31-兑换商店S3赛季-S6赛季-1381-1430服务器 -->
+    <ItemSpec id="1120236" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025fuhuo_BG" name="110810032" desc_info="5602213" connect_ac1="10123" tips="90823200"/>
+<!-- 3月17-3月31-兑换商店S1赛季-S2赛季-1431-1448服务器 -->
+    <ItemSpec id="1120237" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025fuhuo_BG" name="110810032" desc_info="5602213" connect_ac1="10124" tips="90823200"/>
+<!-- 3月17-3月31-兑换商店S1赛季-S2赛季-1431-1448服务器 -->
+    <ItemSpec id="1120238" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025fuhuo_BG" name="110810032" desc_info="5602213" connect_ac1="10125" tips="90823200"/>
+<!-- 3月17-3月31-兑换商店S1赛季-S2赛季-1431-1448服务器 -->
+    <ItemSpec id="1120239" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025fuhuo_BG" name="110810032" desc_info="5602213" connect_ac1="10126" tips="90823200"/>
+
+<!-- 商业化常驻-常驻兑换商店S7赛季及以上1-1380服务器   -->
+    <ItemSpec id="1120240" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025common_BG" name="79001024" desc_info="5602213" connect_ac1="10130" tips="90823200"/>
+<!-- 商业化常驻-常驻兑换商店S3赛季-S6赛季-1381-1430服务器 -->
+    <ItemSpec id="1120241" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025common_BG" name="79001024" desc_info="5602213" connect_ac1="10131" tips="90823200"/>
+<!-- 商业化常驻-常驻兑换商店S1赛季-S2赛季-1431-1448服务器 -->
+    <ItemSpec id="1120242" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025common_BG" name="79001024" desc_info="5602213" connect_ac1="10132" tips="90823200"/>
+
+
+<!-- 商业化常驻-常驻兑换商店S7赛季及以上1-1380服务器   -->
+    <ItemSpec id="1120243" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025common_BG" name="79001024" desc_info="5602213" connect_ac1="10133" tips="90823200"/>
+<!-- 商业化常驻-常驻兑换商店S3赛季-S6赛季-1381-1430服务器 -->
+    <ItemSpec id="1120244" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025common_BG" name="79001024" desc_info="5602213" connect_ac1="10134" tips="90823200"/>
+<!-- 商业化常驻-常驻兑换商店S1赛季-S2赛季-1431-1448服务器 -->
+    <ItemSpec id="1120245" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025common_BG" name="79001024" desc_info="5602213" connect_ac1="10135" tips="90823200"/>
+
+
+<!-- 商业化常驻-常驻兑换商店S28赛季及以上   -->
+    <ItemSpec id="1120246" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025zhounian_BG" name="110810193" desc_info="5602213" connect_ac1="10136" tips="90823200"/>
+<!-- 商业化常驻-常驻兑换商店S7赛季-S12赛季 -->
+    <ItemSpec id="1120247" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025zhounian_BG" name="110810193" desc_info="5602213" connect_ac1="10137" tips="90823200"/>
+<!-- 商业化常驻-常驻兑换商店S4赛季-S6赛季 -->
+    <ItemSpec id="1120248" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025zhounian_BG" name="110810193" desc_info="5602213" connect_ac1="10138" tips="90823200"/>
+<!-- 商业化常驻-常驻兑换商店S2赛季及以上   -->
+    <ItemSpec id="1120249" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025zhounian_BG" name="110810193" desc_info="5602213" connect_ac1="10139" tips="90823200"/>
+<!-- 商业化常驻-常驻兑换商店S1赛季-S0赛季 -->
+    <ItemSpec id="1120250" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025zhounian_BG" name="110810193" desc_info="5602213" connect_ac1="10140" tips="90823200"/>
+
+<!-- 商业化常驻-兑换商店S8赛季及以上1-1420服务器  -->
+    <ItemSpec id="1120251" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025common_BG" name="79001024" desc_info="5602213" connect_ac1="10141" tips="90823200"/>
+<!-- 商业化常驻-兑换商店S3赛季-S7赛季-1421-1464服务器 -->
+    <ItemSpec id="1120252" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025common_BG" name="79001024" desc_info="5602213" connect_ac1="10142" tips="90823200"/>
+<!-- 商业化常驻-兑换商店S0之30天-S2赛季-1465-1493服务器 -->
+    <ItemSpec id="1120253" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025common_BG" name="79001024" desc_info="5602213" connect_ac1="10143" tips="90823200"/>
+<!-- 商业化常驻-兑换商店S8赛季及以上1-1420服务器  -->
+    <ItemSpec id="1120254" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025common_BG" name="79001024" desc_info="5602213" connect_ac1="10144" tips="90823200"/>
+<!-- 商业化常驻-兑换商店S3赛季-S7赛季-1421-1464服务器 -->
+    <ItemSpec id="1120255" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025common_BG" name="79001024" desc_info="5602213" connect_ac1="10145" tips="90823200"/>
+<!-- 商业化常驻-兑换商店S0之30天-S2赛季-1465-1493服务器 -->
+    <ItemSpec id="1120256" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025common_BG" name="79001024" desc_info="5602213" connect_ac1="10146" tips="90823200"/>
+    <!-- 商业化常驻-兑换商店S8赛季及以上1-1420服务器  -->
+    <ItemSpec id="1120257" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025common_BG" name="79001024" desc_info="5602213" connect_ac1="10147" tips="90823200"/>
+<!-- 商业化常驻-兑换商店S3赛季-S7赛季-1421-1464服务器 -->
+    <ItemSpec id="1120258" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025common_BG" name="79001024" desc_info="5602213" connect_ac1="10148" tips="90823200"/>
+<!-- 商业化常驻-兑换商店S0之30天-S2赛季-1465-1493服务器 -->
+    <ItemSpec id="1120259" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" image="FB_2025common_BG" name="79001024" desc_info="5602213" connect_ac1="10149" tips="90823200"/>
+	<ItemSpec id="1120260" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="79001024" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10150"/>
+	<ItemSpec id="1120261" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="79001024" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10151"/>
+	<ItemSpec id="1120262" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="79001024" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10152"/>
+	<ItemSpec id="1120263" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="79001024" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10153"/>
+	<ItemSpec id="1120264" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="79001024" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10154"/>
+	<ItemSpec id="1120265" type="40" order="20" hot="1" part="1" icon="activity_icon_tongyongduihuan" name="79001024" image="FB_2025common_BG" desc_info="5602213" tips="90823200" connect_ac1="10155"/>
+
+
+<!-- 周年转盘 -->
+    <ItemSpec id="1120122" type="67" order="2" hot="1" part="1" icon="activity_icon_zhounianzhuanpan" name="110281048" show_level="8" tips="110705018" activityid="4" spine_pos="100;-450" special_board="2" reward_show="227096;1" special_board_order="2"/>
+<!-- 老虎机 -->
+    <ItemSpec id="1120126" type="59" order="30" hot="1" part="1" icon="activity_icon_choujiangji" name="90823467" desc_info="90823505" tips="90823512" />
+<!-- 商会投资 -->
+    <ItemSpec id="1120128" type="69" order="1" hot="1" part="3" icon="activity_icon_commerce_investment" name="110221402" tips="110221404" />
+
+<!-- 世界杯付费活动 -->
+    <ItemSpec id="1120131" type="74" order="20" hot="1" part="1" icon="activity_icon_worldcup" name="110281137" show_level="8" tips="110281160" />
+ <!--二合一 活动-->
+    <ItemSpec id="1160031" type="70" order="20" hot="1" part="1" icon="FB_IC_WS_dashu" image="FB_IC_WS_fengyeyeqian" name="5601784" desc_info="5601787" tips="5601787" show_level="8" connect_ac1="72000156|72000157|72000158|72000159" />
+
+<!-- 插旗赛季第五周拉活任务 -->
+    <ItemSpec id="1120133" type="38" subType="4" order="20" hot="1" part="3" icon="activity_icon_yingxiongyuanzheng" image="FB_yingxiongyuanzheng_BG" name="110025079" desc_info="110025080" extra_info="110025001" connect_ac1="200021" tips="110025032" />
+<!-- 插旗赛季第六周拉活任务--> 
+    <ItemSpec id="1120134" type="38" subType="4" order="20" hot="1" part="3" icon="activity_icon_xiufugongcheng" image="FB_xiufugongcheng_BG" name="110025077" desc_info="110025078" extra_info="110025001" connect_ac1="200016" tips="110025032" />
+<!-- 插旗赛季第七周拉活任务-->  
+    <ItemSpec id="1120135" type="38" subType="4" order="20" hot="1" part="3" icon="activity_icon_kaijiangtuotu" image="FB_kaijiangtuotu_BG" name="110025071" desc_info="110025072" extra_info="110025001" connect_ac1="200017" tips="110025032" />
+<!-- 南北赛季第五周拉活任务-->  
+    <ItemSpec id="1120136" type="38" subType="4" order="20" hot="1" part="3" icon="activity_icon_yingxiongyuanzheng" image="FB_yingxiongyuanzheng_BG" name="110025079" desc_info="110025080" extra_info="110025001" connect_ac1="200018" tips="110025032" />
+<!-- 南北赛季第六周拉活任务-->  
+    <ItemSpec id="1120137" type="38" subType="4" order="20" hot="1" part="3" icon="activity_icon_xiufugongcheng" image="FB_xiufugongcheng_BG" name="110025077" desc_info="110025078" extra_info="110025001" connect_ac1="200019" tips="110025032" />
+<!-- 南北赛季第七周拉活任务-->  
+    <ItemSpec id="1120138" type="38" subType="4" order="20" hot="1" part="3" icon="activity_icon_kaijiangtuotu" image="FB_kaijiangtuotu_BG" name="110025071" desc_info="110025072" extra_info="110025001" connect_ac1="200020" tips="110025032" />
+
+<!-- 盲盒活动 -->
+    <ItemSpec id="1120200" type="73" order="1" hot="1" part="1" icon="FB_IC_blindBox" image="FB_manghe_BG_new" name="110270084" show_level="8" tips="110270082" activityid="1"/>
+
+ <!-- 赛季英雄招募计划 颜回-->
+  <!--   <ItemSpec id="1120150" type="71" subType="4" order="304" hot="1" part="3" icon="icon_sj_yx_zhaomu1" image="sj_yx_banner2" name="110292005" desc_info="110292006" show_level="1" connect_ac1="57800" tips="110292007" />-->
+
+<!-- 大富翁_宝藏寻踪 -->
+    <ItemSpec id="1120201" type="75" order="20" hot="1" part="1" icon="activity_icon_dafuweng" name="5602145" desc_info="5602146" />
+
+ 
+<!-- 新版本BattlePass -->
+	<ItemSpec id="1120151" type="77" order="300" hot="1" part="1" icon="activity_icon_saijixianli" name="110293001" desc_info="110221263" story="110221265" connect_ac="101" tips="110221266" other_image1="BG_quanminqingdian"  />
+    <ItemSpec id="1120153" type="78" order="300" hot="1" part="1" icon="activity_icon_saijixianli" name="110293001" desc_info="110221263" story="110221265" connect_ac="100" tips="110221266" other_image1="BG_quanminqingdian"  />
+
+	
+    <!-- 新版露西亚试炼-阿切 -->
+    <ItemSpec id="1120042" type="100" order="102" hot="1" part="3" icon="activity_icon_luxiyadeshilian" image="FB_luxiyadeshilian_BG" name="110025041" desc_info="110025036" extra_info="110025056" connect_ac1="1|2" tips="110025034" />
+
+    <!-- 战地手册七周 -->
+    <ItemSpec id="1120156" type="38" subType="1" order="31" hot="1" part="3" icon="activity_field_manual" image="FB_zhandishouce1_BG" name="110451031" desc_info="110451038" extra_info="110451039" connect_ac1="200022" tips="110451040" />
+    <ItemSpec id="1120157" type="38" subType="1" order="31" hot="1" part="3" icon="activity_field_manual" image="FB_zhandishouce2_BG" name="110451032" desc_info="110451038" extra_info="110451039" connect_ac1="200023" tips="110451040" />
+    <ItemSpec id="1120158" type="38" subType="1" order="31" hot="1" part="3" icon="activity_field_manual" image="FB_zhandishouce3_BG" name="110451033" desc_info="110451038" extra_info="110451039" connect_ac1="200024" tips="110451040" />
+    <ItemSpec id="1120159" type="38" subType="1" order="31" hot="1" part="3" icon="activity_field_manual" image="FB_zhandishouce4_BG" name="110451034" desc_info="110451038" extra_info="110451039" connect_ac1="200025" tips="110451040" />
+    <ItemSpec id="1120160" type="38" subType="1" order="31" hot="1" part="3" icon="activity_field_manual" image="FB_zhandishouce5_BG" name="110451035" desc_info="110451038" extra_info="110451039" connect_ac1="200026" tips="110451040" />
+    <ItemSpec id="1120161" type="38" subType="1" order="31" hot="1" part="3" icon="activity_field_manual" image="FB_zhandishouce6_BG" name="110451036" desc_info="110451038" extra_info="110451039" connect_ac1="200027" tips="110451040" />
+    <ItemSpec id="1120162" type="38" subType="1" order="31" hot="1" part="3" icon="activity_field_manual" image="FB_zhandishouce7_BG" name="110451037" desc_info="110451038" extra_info="110451039" connect_ac1="200028" tips="110451040" />
+
+    <ItemSpec id="1120164" type="38" subType="1" order="31" hot="1" part="3" icon="activity_icon_shengcunzhidao" image="FB_zhandishouce4_BG" name="88004085" extra_info="110451039" connect_ac1="200031" tips="110451040" />
+    <ItemSpec id="1120165" type="38" subType="1" order="31" hot="1" part="3" icon="activity_icon_shengcunzhidao" image="FB_zhandishouce5_BG" name="88004085" extra_info="110451039" connect_ac1="200032" tips="110451040" />
+    <ItemSpec id="1120166" type="38" subType="1" order="31" hot="1" part="3" icon="activity_icon_shengcunzhidao" image="FB_zhandishouce6_BG" name="88004085" extra_info="110451039" connect_ac1="200033" tips="110451040" />
+    <ItemSpec id="1120167" type="38" subType="1" order="31" hot="1" part="3" icon="activity_icon_shengcunzhidao" image="FB_zhandishouce4_BG" name="88004085" extra_info="110451039" connect_ac1="200034" tips="110451040" />
+    <ItemSpec id="1120168" type="38" subType="1" order="31" hot="1" part="3" icon="activity_icon_shengcunzhidao" image="FB_zhandishouce5_BG" name="88004085" extra_info="110451039" connect_ac1="200035" tips="110451040" />
+    <ItemSpec id="1120169" type="38" subType="1" order="31" hot="1" part="3" icon="activity_icon_shengcunzhidao" image="FB_zhandishouce6_BG" name="88004085" extra_info="110451039" connect_ac1="200036" tips="110451040" />
+<!-- 定制周卡 -->
+    <ItemSpec id="1120148" type="79" order="2" hot="1" part="2" icon="icon_dzzk" image="dy_UI_Recharge_bg" ad_image="dy_UI_Recharge_bg0" name="110320483" desc_info="8000001" story="100402" connect_ac="10001" tips="90551017" />
+
+
+    <!--新版两个月卡-->
+	<ItemSpec id="1130001" type="103" order="1" part="1" icon="activity_icon_supergrowthfund" image="FB_supergrowthfund_BG" name="110279701" show_level="1" tips="110279700" />
+
+    
+    <!-- 终身抽卡特权测试配置 呆呆鸟 -->
+    <ItemSpec id="1142001" type="104" order="400" hot="1" part="2" icon="activity_icon_tequan" name="110541006" desc_info="110541007" tips="110541008" story="83352002" extra_info="83352002"/>
+
+
+	<!-- 扭蛋付费活动 -->
+    <ItemSpec id="1140001" type="105" order="20" hot="1" part="1" icon="activity_icon_capsule" name="110492001" show_level="8" tips="110281160" />
+
+
+    <ItemSpec id="1120170" type="38" subType="1" order="31" hot="1" part="3" icon="activity_icon_shengcunzhidao" image="FB_zhandishouce4_BG" name="1104550258" extra_info="110451039" connect_ac1="200037" tips="110451040" />
+    <ItemSpec id="1120171" type="38" subType="1" order="31" hot="1" part="3" icon="activity_icon_shengcunzhidao" image="FB_zhandishouce4_BG" name="1104550258" extra_info="110451039" connect_ac1="200038" tips="110451040" />
+    <ItemSpec id="1120174" type="38" subType="1" order="31" hot="1" part="3" icon="activity_icon_shengcunzhidao" image="FB_zhandishouce4_BG" name="1104550258" extra_info="110451039" connect_ac1="200039" tips="110451040" />
+    <ItemSpec id="1120173" type="38" subType="1" order="31" hot="1" part="3" icon="activity_icon_shengcunzhidao" image="FB_zhandishouce4_BG" name="1104550258" extra_info="110451039" connect_ac1="200040" tips="110451040" />
+	
+	<!-- 前期 管理站冲榜活动 -->
+	<ItemSpec id="1120176" type="109" order="101" hot="1" part="1" icon="activity_icon_guanlizhanchongci" name="111850601" tips="111850606" subType="1" connect_ac1="57339"/>
+
+<!-- 崛起之日 -->
+    <ItemSpec id="1120177" type="110" order="9" hot="1" part="1" icon="activity_icon_rise_day" image="FB_jueqizhiri_BG" name="110810151" tips="110810157"/>
+
+	<!-- 前期 避难所扩张活动 -->
+	<ItemSpec id="1120178" type="111" order="101" hot="1" part="1" icon="activity_icon_guanlizhanchongci" name="111850764" tips="111850765" subType="1" connect_ac1="57341"/>
+	<!-- 帝王将招募 -->
+	<ItemSpec id="1120179" type="112" order="1" hot="1" part="1" icon="icon_inlet_ur_satelite" name="110403110" tips="110403111" officer_recruit="300100" para1="10501" />
+
+    <!-- 绝密银行活动 -->
+    <ItemSpec id="1120181" type="115" order="105" hot="1" part="1" icon="activity_icon_juemiyinhang" name="112192001" image="FB_hero_01" show_level="1" tips="112192002"/>
+
+
+
+</Group>
+</tns:database>

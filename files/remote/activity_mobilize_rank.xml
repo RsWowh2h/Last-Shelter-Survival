@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="activity_mobilize_rank">
+	<ItemSpec id="1" rank="1" name="110272006" icon="FB_IC_heitie_duanwei" promotion_dialog="110272018" promotion_rank="3" promotion_integral="5400" />
+    <ItemSpec id="2" rank="2" name="110272007" icon="FB_IC_qingtong_duanwei" promotion_dialog="110272019" promotion_rank="3" promotion_integral="7200" demotion_rank="2" />
+    <ItemSpec id="3" rank="3" name="110272008" icon="FB_IC_bojin_duanwei" promotion_dialog="110272019" promotion_rank="2" promotion_integral="10000" demotion_rank="2" />
+    <ItemSpec id="4" rank="4" name="110272009" icon="FB_IC_zuanshi_duanwei" promotion_dialog="110272019" promotion_rank="2" promotion_integral="14000" demotion_rank="2" />
+    <ItemSpec id="5" rank="5" name="110272010" icon="FB_IC_wangzhe_duanwei" promotion_dialog="110272020" demotion_rank="2" />
+</Group>
+</tns:database>

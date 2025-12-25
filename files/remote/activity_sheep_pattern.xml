@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="activity_sheep_pattern">
+    <ItemSpec id="101" type="1" icon="FB_IC_WS_xiari1" color="0" />
+    <ItemSpec id="102" type="1" icon="FB_IC_WS_xiari2" color="0" />
+    <ItemSpec id="103" type="1" icon="FB_IC_WS_xiari3" color="0" />
+    <ItemSpec id="104" type="1" icon="FB_IC_WS_xiari4" color="0" />
+    <ItemSpec id="105" type="1" icon="FB_IC_WS_xiari5" color="0" />
+    <ItemSpec id="106" type="1" icon="FB_IC_WS_xiari6" color="0" />
+    <ItemSpec id="107" type="1" icon="FB_IC_WS_xiari7" color="0" />
+    <ItemSpec id="108" type="1" icon="FB_IC_WS_xiari8" color="0" />
+    <ItemSpec id="109" type="1" icon="FB_IC_WS_xiari9" color="0" />
+    <ItemSpec id="110" type="1" icon="FB_IC_WS_xiari10" color="0" />
+    <ItemSpec id="111" type="1" icon="FB_IC_WS_xiari11" color="0" />
+    <ItemSpec id="112" type="1" icon="FB_IC_WS_xiari12" color="0" />
+    <ItemSpec id="113" type="1" icon="FB_IC_WS_xiari13" color="0" />
+    <ItemSpec id="114" type="1" icon="FB_IC_WS_xiari14" color="0" />
+    <ItemSpec id="115" type="2" icon="item200128" color="0"/>
+    <ItemSpec id="116" type="2" icon="item201000" color="0"/>
+    <ItemSpec id="117" type="2" icon="item200060" color="0"/>
+    <ItemSpec id="118" type="2" icon="FB_IC_yongqixunzhang_1_SKILL" color="0"/>
+    <ItemSpec id="119" type="2" icon="item405" color="0"/>
+		<ItemSpec id="120" type="2" icon="item310083" color="0"/>
+
+
+
+    </Group> 
+
+</tns:database>

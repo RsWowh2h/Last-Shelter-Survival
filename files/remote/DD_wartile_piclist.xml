@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="DD_wartile_piclist">
+
+    <!--伊甸园-->
+    <ItemSpec id="1" type="170" pic="tile9_201_1.png" pic_order="0"/>
+    <ItemSpec id="2" type="171" pic="tile9_201_2.png" pic_order="0"/>
+    <ItemSpec id="3" type="172" pic="tile9_201_3.png" pic_order="0"/>
+    <ItemSpec id="4" type="188" pic="tile9_203_1.png" pic_order="0"/>
+    <ItemSpec id="5" type="189" pic="tile9_203_2.png" pic_order="0"/>
+    <ItemSpec id="6" type="190" pic="tile9_203_3.png" pic_order="0"/>
+    <ItemSpec id="7" type="179" pic="tile9_202_1.png" pic_order="0"/>
+    <ItemSpec id="8" type="180" pic="tile9_202_2.png" pic_order="0"/>
+    <ItemSpec id="9" type="181" pic="tile9_202_3.png" pic_order="0"/>
+    <ItemSpec id="10" type="197" pic="tile9_204_1.png" pic_order="0"/>
+    <ItemSpec id="11" type="198" pic="tile9_204_2.png" pic_order="0"/>
+    <ItemSpec id="12" type="199" pic="tile9_204_3.png" pic_order="0"/>
+    <ItemSpec id="13" type="153" pic="tile1_202_2.png" pic_order="0"/>
+    <ItemSpec id="14" type="152" pic="tile1_201_1.png" pic_order="0"/>
+    <ItemSpec id="15" type="166" pic="tile4_204_1.png" pic_order="0"/>
+    <ItemSpec id="16" type="167" pic="tile4_204_2.png" pic_order="0"/>
+    <ItemSpec id="17" type="154" pic="tile4_201_1.png" pic_order="0"/>
+    <ItemSpec id="18" type="155" pic="tile4_201_2.png" pic_order="0"/>
+    <ItemSpec id="19" type="158" pic="tile4_202_1.png" pic_order="0"/>
+    <ItemSpec id="20" type="159" pic="tile4_202_2.png" pic_order="0"/>
+    <ItemSpec id="21" type="173" pic="tile9_201_4.png" pic_order="0"/>
+    <ItemSpec id="22" type="174" pic="tile9_201_5.png" pic_order="0"/>
+    <ItemSpec id="23" type="175" pic="tile9_201_6.png" pic_order="0"/>
+    <ItemSpec id="24" type="191" pic="tile9_203_4.png" pic_order="0"/>
+    <ItemSpec id="25" type="192" pic="tile9_203_5.png" pic_order="0"/>
+    <ItemSpec id="26" type="193" pic="tile9_203_6.png" pic_order="0"/>
+    <ItemSpec id="27" type="182" pic="tile9_202_4.png" pic_order="0"/>
+    <ItemSpec id="28" type="183" pic="tile9_202_5.png" pic_order="0"/>
+    <ItemSpec id="29" type="184" pic="tile9_202_6.png" pic_order="0"/>
+    <ItemSpec id="30" type="200" pic="tile9_204_4.png" pic_order="0"/>
+    <ItemSpec id="31" type="201" pic="tile9_204_5.png" pic_order="0"/>
+    <ItemSpec id="32" type="202" pic="tile9_204_6.png" pic_order="0"/>
+    <ItemSpec id="33" type="168" pic="tile4_204_3.png" pic_order="0"/>
+    <ItemSpec id="34" type="169" pic="tile4_204_4.png" pic_order="0"/>
+    <ItemSpec id="35" type="156" pic="tile4_201_3.png" pic_order="0"/>
+    <ItemSpec id="36" type="157" pic="tile4_201_4.png" pic_order="0"/>
+    <ItemSpec id="37" type="160" pic="tile4_202_3.png" pic_order="0"/>
+    <ItemSpec id="38" type="161" pic="tile4_202_4.png" pic_order="0"/>
+    <ItemSpec id="39" type="176" pic="tile9_201_7.png" pic_order="0"/>
+    <ItemSpec id="40" type="177" pic="tile9_201_8.png" pic_order="0"/>
+    <ItemSpec id="41" type="178" pic="tile9_201_9.png" pic_order="0"/>
+    <ItemSpec id="42" type="194" pic="tile9_203_7.png" pic_order="0"/>
+    <ItemSpec id="43" type="195" pic="tile9_203_8.png" pic_order="0"/>
+    <ItemSpec id="44" type="196" pic="tile9_203_9.png" pic_order="0"/>
+    <ItemSpec id="45" type="185" pic="tile9_202_7.png" pic_order="0"/>
+    <ItemSpec id="46" type="186" pic="tile9_202_8.png" pic_order="0"/>
+    <ItemSpec id="47" type="187" pic="tile9_202_9.png" pic_order="0"/>
+    <ItemSpec id="48" type="203" pic="tile9_204_7.png" pic_order="0"/>
+    <ItemSpec id="49" type="204" pic="tile9_204_8.png" pic_order="0"/>
+    <ItemSpec id="50" type="205" pic="tile9_204_9.png" pic_order="0"/>
+    <ItemSpec id="51" type="131" pic="tile9999_4_28" pic_order="0"/>
+    <ItemSpec id="52" type="130" pic="tile9999_4_27" pic_order="0"/>
+    <ItemSpec id="53" type="116" pic="tile9999_4_13" pic_order="0"/>
+    <ItemSpec id="54" type="150" pic="tile9999_4_47" pic_order="0"/>
+    <ItemSpec id="55" type="127" pic="tile9999_4_24" pic_order="0"/>
+    <ItemSpec id="56" type="126" pic="tile9999_4_23" pic_order="0"/>
+    <ItemSpec id="57" type="133" pic="tile9999_4_30" pic_order="0"/>
+    <ItemSpec id="58" type="110" pic="tile9999_4_7" pic_order="0"/>
+    <ItemSpec id="59" type="119" pic="tile9999_4_16" pic_order="0"/>
+    <ItemSpec id="60" type="138" pic="tile9999_4_35" pic_order="0"/>
+    <ItemSpec id="61" type="137" pic="tile9999_4_34" pic_order="0"/>
+    <ItemSpec id="62" type="148" pic="tile9999_4_45" pic_order="0"/>
+    <ItemSpec id="63" type="149" pic="tile9999_4_46" pic_order="0"/>
+    <ItemSpec id="64" type="135" pic="tile9999_4_32" pic_order="0"/>
+    <ItemSpec id="65" type="134" pic="tile9999_4_31" pic_order="0"/>
+    <ItemSpec id="66" type="145" pic="tile9999_4_42" pic_order="0"/>
+    <ItemSpec id="67" type="146" pic="tile9999_4_43" pic_order="0"/>
+    <ItemSpec id="68" type="147" pic="tile9999_4_44" pic_order="0"/>
+    <ItemSpec id="69" type="290" pic="tile9999_1_1.png" pic_order="0"/>
+    <ItemSpec id="70" type="291" pic="tile9999_1_2.png" pic_order="0"/>
+    <ItemSpec id="71" type="292" pic="tile9999_1_3.png" pic_order="0"/>
+    <ItemSpec id="72" type="125" pic="tile9999_4_22" pic_order="0"/>
+    <ItemSpec id="73" type="124" pic="tile9999_4_21" pic_order="0"/>
+    <ItemSpec id="74" type="123" pic="tile9999_4_20" pic_order="0"/>
+    <ItemSpec id="75" type="129" pic="tile9999_4_26" pic_order="0"/>
+    <ItemSpec id="76" type="128" pic="tile9999_4_25" pic_order="0"/>
+    <ItemSpec id="77" type="114" pic="tile9999_4_11" pic_order="0"/>
+    <ItemSpec id="78" type="136" pic="tile9999_4_33" pic_order="0"/>
+    <ItemSpec id="79" type="113" pic="tile9999_4_10" pic_order="0"/>
+    <ItemSpec id="80" type="122" pic="tile9999_4_19" pic_order="0"/>
+    <ItemSpec id="81" type="112" pic="tile9999_4_9" pic_order="0"/>
+    <ItemSpec id="82" type="121" pic="tile9999_4_18" pic_order="0"/>
+    <ItemSpec id="83" type="115" pic="tile9999_4_12" pic_order="0"/>
+    <ItemSpec id="84" type="142" pic="tile9999_4_39" pic_order="0"/>
+    <ItemSpec id="85" type="139" pic="tile9999_4_36" pic_order="0"/>
+    <ItemSpec id="86" type="51" pic="tile9999_2_1.png" pic_order="0"/>
+    <ItemSpec id="87" type="106" pic="tile9999_4_3" pic_order="0"/>
+    <ItemSpec id="88" type="111" pic="tile9999_4_8" pic_order="0"/>
+    <ItemSpec id="89" type="144" pic="tile9999_4_41" pic_order="0"/>
+    <ItemSpec id="90" type="140" pic="tile9999_4_37" pic_order="0"/>
+    <ItemSpec id="91" type="52" pic="tile9999_2_2.png" pic_order="0"/>
+    <ItemSpec id="92" type="105" pic="tile9999_4_2" pic_order="0"/>
+    <ItemSpec id="93" type="120" pic="tile9999_4_17" pic_order="0"/>
+    <ItemSpec id="94" type="143" pic="tile9999_4_40" pic_order="0"/>
+    <ItemSpec id="95" type="141" pic="tile9999_4_38" pic_order="0"/>
+    <ItemSpec id="96" type="53" pic="tile9999_2_3.png" pic_order="0"/>
+    <ItemSpec id="97" type="104" pic="tile9999_4_1" pic_order="0"/>
+    <ItemSpec id="98" type="109" pic="tile9999_4_6" pic_order="0"/>
+    <ItemSpec id="99" type="108" pic="tile9999_4_5" pic_order="0"/>
+    <ItemSpec id="100" type="118" pic="tile9999_4_15" pic_order="0"/>
+    <ItemSpec id="101" type="107" pic="tile9999_4_4" pic_order="0"/>
+    <ItemSpec id="102" type="117" pic="tile9999_4_14" pic_order="0"/>
+    <ItemSpec id="103" type="401" pic="tile_bridge_A1" pic_order="0"/>
+    <ItemSpec id="104" type="402" pic="tile_bridge_A2" pic_order="0"/>
+    <ItemSpec id="105" type="403" pic="tile_bridge_A3" pic_order="0"/>
+    <ItemSpec id="106" type="404" pic="tile_bridge_A4" pic_order="0"/>
+    <ItemSpec id="107" type="405" pic="tile_bridge_A5" pic_order="0"/>
+    <ItemSpec id="108" type="406" pic="tile_bridge_A6" pic_order="0"/>
+    <ItemSpec id="109" type="407" pic="tile_bridge_B1" pic_order="0"/>
+    <ItemSpec id="110" type="408" pic="tile_bridge_B2" pic_order="0"/>
+    <ItemSpec id="111" type="409" pic="tile_bridge_B3" pic_order="0"/>
+    <ItemSpec id="112" type="410" pic="tile_bridge_B4" pic_order="0"/>
+    <ItemSpec id="113" type="411" pic="tile_bridge_B5" pic_order="0"/>
+    <ItemSpec id="114" type="412" pic="tile_bridge_B6" pic_order="0"/>
+    <ItemSpec id="115" type="413" pic="tile_river_A1" pic_order="0"/>
+    <ItemSpec id="116" type="414" pic="tile_river_A2" pic_order="0"/>
+    <ItemSpec id="117" type="415" pic="tile_river_A3" pic_order="0"/>
+    <ItemSpec id="118" type="416" pic="tile_river_A4" pic_order="0"/>
+    <ItemSpec id="119" type="417" pic="tile_river_A5" pic_order="0"/>
+    <ItemSpec id="120" type="418" pic="tile_river_A6" pic_order="0"/>
+    <ItemSpec id="121" type="419" pic="tile_river_A7" pic_order="0"/>
+    <ItemSpec id="122" type="420" pic="tile_river_A8" pic_order="0"/>
+    <ItemSpec id="123" type="421" pic="tile_river_A9" pic_order="0"/>
+    <ItemSpec id="124" type="422" pic="tile_river_A10" pic_order="0"/>
+    <ItemSpec id="125" type="423" pic="tile_river_A11" pic_order="0"/>
+    <ItemSpec id="126" type="424" pic="tile_river_A12" pic_order="0"/>
+    <ItemSpec id="127" type="425" pic="tile_river_A13" pic_order="0"/>
+    <ItemSpec id="128" type="426" pic="tile_river_A14" pic_order="0"/>
+    <ItemSpec id="129" type="427" pic="tile_river_A15" pic_order="0"/>
+    <ItemSpec id="130" type="428" pic="tile_river_A16" pic_order="0"/>
+    <ItemSpec id="131" type="429" pic="tile_river_A17" pic_order="0"/>
+    <ItemSpec id="132" type="430" pic="tile_river_A18" pic_order="0"/>
+    <ItemSpec id="133" type="431" pic="tile_river_A19" pic_order="0"/>
+    <ItemSpec id="134" type="432" pic="tile_river_B1" pic_order="0"/>
+    <ItemSpec id="135" type="433" pic="tile_river_B2" pic_order="0"/>
+    <ItemSpec id="136" type="434" pic="tile_river_B3" pic_order="0"/>
+    <ItemSpec id="137" type="435" pic="tile_river_B4" pic_order="0"/>
+    <ItemSpec id="138" type="436" pic="tile_river_B5" pic_order="0"/>
+    <ItemSpec id="139" type="437" pic="tile_river_B6" pic_order="0"/>
+    <ItemSpec id="140" type="438" pic="tile_river_B7" pic_order="0"/>
+    <ItemSpec id="141" type="439" pic="tile_river_B8" pic_order="0"/>
+    <ItemSpec id="142" type="440" pic="tile_river_B9" pic_order="0"/>
+    <ItemSpec id="143" type="441" pic="tile_river_B10" pic_order="0"/>
+    <ItemSpec id="144" type="442" pic="tile_river_B11" pic_order="0"/>
+    <ItemSpec id="145" type="443" pic="tile_river_B12" pic_order="0"/>
+    <ItemSpec id="146" type="444" pic="tile_river_B13" pic_order="0"/>
+    <ItemSpec id="147" type="445" pic="tile_river_B14" pic_order="0"/>
+    <ItemSpec id="148" type="446" pic="tile_river_B15" pic_order="0"/>
+    <ItemSpec id="149" type="447" pic="tile_river_B16" pic_order="0"/>
+    <ItemSpec id="150" type="448" pic="tile_river_B17" pic_order="0"/>
+    <ItemSpec id="151" type="449" pic="tile_river_B18" pic_order="0"/>
+    <ItemSpec id="152" type="450" pic="tile_river_B19" pic_order="0"/>
+	<ItemSpec id="153" type="451" pic="tile_river_CA1.png" pic_order="0"/>
+    <ItemSpec id="154" type="452" pic="tile_river_CA2.png" pic_order="0"/>
+    <ItemSpec id="155" type="453" pic="tile_river_CA3.png" pic_order="0"/>
+    <ItemSpec id="156" type="454" pic="tile_river_CA4.png" pic_order="0"/>
+    <ItemSpec id="157" type="455" pic="tile_river_CA5.png" pic_order="0"/>
+    <ItemSpec id="158" type="456" pic="tile_river_CA6.png" pic_order="0"/>
+    <ItemSpec id="159" type="457" pic="tile_river_CA7.png" pic_order="0"/>
+    <ItemSpec id="160" type="458" pic="tile_river_CA7_001.png" pic_order="0"/>
+    <ItemSpec id="161" type="459" pic="tile_river_CA7_01.png" pic_order="0"/>
+    <ItemSpec id="162" type="460" pic="tile_river_CA7_002.png" pic_order="0"/>
+    <ItemSpec id="163" type="461" pic="tile_river_CA8.png" pic_order="0"/>
+    <ItemSpec id="164" type="462" pic="tile_river_CA8_01.png" pic_order="0"/>
+    <ItemSpec id="165" type="463" pic="tile_river_CA9.png" pic_order="0"/>
+    <ItemSpec id="166" type="464" pic="tile_river_CA10.png" pic_order="0"/>
+    <ItemSpec id="167" type="465" pic="tile_river_CA11.png" pic_order="0"/>
+    <ItemSpec id="168" type="466" pic="tile_river_CA12.png" pic_order="0"/>
+    <ItemSpec id="169" type="467" pic="tile_river_CA13.png" pic_order="0"/>
+    <ItemSpec id="170" type="468" pic="tile_river_CA14.png" pic_order="0"/>
+    <ItemSpec id="171" type="469" pic="tile_river_CA15.png" pic_order="0"/>
+    <ItemSpec id="172" type="470" pic="tile_river_CA16.png" pic_order="0"/>
+    <ItemSpec id="173" type="471" pic="tile_river_CA17.png" pic_order="0"/>
+    <ItemSpec id="174" type="472" pic="tile_river_CA18.png" pic_order="0"/>
+    <ItemSpec id="175" type="473" pic="tile_river_CA19.png" pic_order="0"/>
+    <ItemSpec id="176" type="475" pic="tile_river_D1.png" pic_order="0"/>
+    <ItemSpec id="177" type="476" pic="tile_river_D2.png" pic_order="0"/>
+    <ItemSpec id="178" type="477" pic="tile_river_D3.png" pic_order="0"/>
+    <ItemSpec id="179" type="478" pic="tile_river_D4.png" pic_order="0"/>
+    <ItemSpec id="180" type="479" pic="tile_river_D5.png" pic_order="0"/>
+    <ItemSpec id="181" type="480" pic="tile_river_D6.png" pic_order="0"/>
+    <ItemSpec id="182" type="481" pic="tile_river_D7.png" pic_order="0"/>
+    <ItemSpec id="183" type="482" pic="tile_river_D7_001.png" pic_order="0"/>
+    <ItemSpec id="184" type="483" pic="tile_river_D7_01.png" pic_order="0"/>
+    <ItemSpec id="185" type="484" pic="tile_river_D7_002.png" pic_order="0"/>
+    <ItemSpec id="186" type="485" pic="tile_river_D8.png" pic_order="0"/>
+    <ItemSpec id="187" type="486" pic="tile_river_D8_01.png" pic_order="0"/>
+    <ItemSpec id="188" type="487" pic="tile_river_D9.png" pic_order="0"/>
+    <ItemSpec id="189" type="488" pic="tile_river_D10.png" pic_order="0"/>
+    <ItemSpec id="190" type="489" pic="tile_river_D11.png" pic_order="0"/>
+    <ItemSpec id="191" type="490" pic="tile_river_D12.png" pic_order="0"/>
+    <ItemSpec id="192" type="491" pic="tile_river_D13.png" pic_order="0"/>
+    <ItemSpec id="193" type="492" pic="tile_river_D14.png" pic_order="0"/>
+    <ItemSpec id="194" type="493" pic="tile_river_D15.png" pic_order="0"/>
+    <ItemSpec id="195" type="494" pic="tile_river_D16.png" pic_order="0"/>
+    <ItemSpec id="196" type="495" pic="tile_river_D17.png" pic_order="0"/>
+    <ItemSpec id="197" type="496" pic="tile_river_D18.png" pic_order="0"/>
+    <ItemSpec id="198" type="497" pic="tile_river_D19.png" pic_order="0"/>
+	<ItemSpec id="199" type="498" pic="lupai_zuo.png" pic_order="0"/>
+    <ItemSpec id="200" type="499" pic="lupai_you.png" pic_order="0"/>
+    <ItemSpec id="201" type="500" pic="lupai_xia.png" pic_order="0"/>
+    <ItemSpec id="202" type="501" pic="lupai_shang.png" pic_order="0"/>
+
+
+    
+
+
+
+
+    <!--极地战场_新增-->
+    <ItemSpec id="1001" type="1001" pic="dragon_tile_201" pic_order="0"/>
+    <ItemSpec id="1002" type="1002" pic="dragon_tile_202" pic_order="0"/>
+    <ItemSpec id="1003" type="1003" pic="dragon_tile_203" pic_order="0"/>
+    <ItemSpec id="1004" type="1004" pic="dragon_tile_204" pic_order="0"/>
+    <ItemSpec id="1005" type="1005" pic="dragonBattle205" pic_order="0"/>
+    <ItemSpec id="1006" type="1006" pic="dragonBattle206" pic_order="0"/>
+    <ItemSpec id="1021" type="1021" pic="dragonBattle221" pic_order="0"/>
+    <ItemSpec id="1022" type="1022" pic="dragonBattle222" pic_order="0"/>
+    <ItemSpec id="1023" type="1023" pic="dragonBattle223" pic_order="0"/>
+    <ItemSpec id="1024" type="1024" pic="dragonBattle224" pic_order="0"/>
+    <ItemSpec id="1025" type="1025" pic="dragonBattle225" pic_order="0"/>
+    <ItemSpec id="1026" type="1026" pic="dragonBattle226" pic_order="0"/>
+    <ItemSpec id="1027" type="1027" pic="dragonBattle227" pic_order="0"/>
+    <ItemSpec id="1028" type="1028" pic="dragonBattle228" pic_order="0"/>
+    <ItemSpec id="1029" type="1029" pic="dragonBattle229" pic_order="0"/>
+    <ItemSpec id="1030" type="1030" pic="dragonBattle230" pic_order="0"/>
+    <ItemSpec id="1031" type="1031" pic="dragonBattle231" pic_order="0"/>
+    <ItemSpec id="1032" type="1032" pic="dragonBattle232" pic_order="0"/>
+    <ItemSpec id="1033" type="1033" pic="dragonBattle233" pic_order="0"/>
+    <ItemSpec id="1034" type="1034" pic="dragonBattle234" pic_order="0"/>
+    <ItemSpec id="1035" type="1035" pic="dragonBattle235" pic_order="0"/>
+    <ItemSpec id="1036" type="1036" pic="dragonBattle236" pic_order="0"/>
+    <ItemSpec id="1037" type="1037" pic="dragonBattle237" pic_order="0"/>
+    <ItemSpec id="1038" type="1038" pic="dragonBattle238" pic_order="0"/>
+    <ItemSpec id="1039" type="1039" pic="dragonBattle239" pic_order="0"/>
+    <ItemSpec id="1040" type="1040" pic="dragonBattle240" pic_order="0"/>
+    <ItemSpec id="1041" type="1041" pic="dragonBattle241" pic_order="0"/>
+    <ItemSpec id="1042" type="1042" pic="dragonBattle242" pic_order="0"/>
+    <ItemSpec id="1043" type="1043" pic="dragonBattle243" pic_order="0"/>
+    <ItemSpec id="1044" type="1044" pic="dragonBattle244" pic_order="0"/>
+    <ItemSpec id="1045" type="1045" pic="dragonBattle245" pic_order="0"/>
+    <ItemSpec id="1046" type="1046" pic="dragonBattle246" pic_order="0"/>
+    <ItemSpec id="1051" type="1051" pic="dragonBattle251" pic_order="1"/>
+    <ItemSpec id="1052" type="1052" pic="dragonBattle252" pic_order="1"/>
+    <ItemSpec id="1053" type="1053" pic="dragonBattle253" pic_order="1"/>
+    <ItemSpec id="1054" type="1054" pic="dragonBattle254" pic_order="1"/>
+    <ItemSpec id="1055" type="1055" pic="dragonBattle255" pic_order="1"/>
+    <ItemSpec id="1056" type="1056" pic="dragonBattle256" pic_order="1"/>
+    <ItemSpec id="1057" type="1057" pic="dragonBattle257" pic_order="1"/>
+    <ItemSpec id="1058" type="1058" pic="dragonBattle258" pic_order="1"/>
+    <ItemSpec id="1059" type="1059" pic="dragonBattle259" pic_order="1"/>
+    <ItemSpec id="1101" type="1101" pic="dragonBattle301" pic_order="0"/>
+    <ItemSpec id="1102" type="1102" pic="dragonBattle302" pic_order="0"/>
+    <ItemSpec id="1103" type="1103" pic="dragonBattle303" pic_order="0"/>
+    <ItemSpec id="1104" type="1104" pic="dragonBattle304" pic_order="0"/>
+    <ItemSpec id="1105" type="1105" pic="dragonBattle305" pic_order="0"/>
+    <ItemSpec id="1106" type="1106" pic="dragonBattle306" pic_order="0"/>
+    <ItemSpec id="1107" type="1107" pic="dragonBattle307" pic_order="0"/>
+    <ItemSpec id="1108" type="1108" pic="dragonBattle308" pic_order="0"/>
+    <ItemSpec id="1109" type="1109" pic="dragonBattle309" pic_order="0"/>
+    <ItemSpec id="1110" type="1110" pic="dragonBattle310" pic_order="0"/>
+    <ItemSpec id="1111" type="1111" pic="dragonBattle311" pic_order="0"/>
+	<ItemSpec id="1112" type="1112" pic="dragonBattle312" pic_order="1"/><!--全明星赛场景装饰-->
+	<ItemSpec id="1113" type="1113" pic="dragonBattle313" pic_order="1"/>
+	<ItemSpec id="1114" type="1114" pic="dragonBattle314" pic_order="1"/>
+	<ItemSpec id="1115" type="1115" pic="dragonBattle315" pic_order="1"/>
+	<ItemSpec id="1116" type="1116" pic="dragonBattle316" pic_order="1"/>
+	<ItemSpec id="1117" type="1117" pic="dragonBattle317" pic_order="1"/>
+	<ItemSpec id="1118" type="1118" pic="dragonBattle318" pic_order="1"/>
+	<ItemSpec id="1119" type="1119" pic="dragonBattle319" pic_order="1"/>
+	<ItemSpec id="1120" type="1120" pic="dragonBattle320" pic_order="1"/>
+	<ItemSpec id="1121" type="1121" pic="dragonBattle321" pic_order="1"/>
+	<ItemSpec id="1122" type="1122" pic="dragonBattle322" pic_order="1"/>
+	<ItemSpec id="1123" type="1123" pic="dragonBattle323" pic_order="1"/>
+	<ItemSpec id="1124" type="1124" pic="dragonBattle324" pic_order="1"/>
+	<ItemSpec id="1125" type="1125" pic="dragonBattle325" pic_order="1"/>
+	<ItemSpec id="1126" type="1126" pic="dragonBattle326" pic_order="1"/>
+	<ItemSpec id="1127" type="1127" pic="dragonBattle327" pic_order="1"/>
+	<ItemSpec id="1128" type="1128" pic="dragonBattle328" pic_order="1"/>
+	<ItemSpec id="1129" type="1129" pic="dragonBattle329" pic_order="0"/><!--地面log优先级应低于地面-->
+	<ItemSpec id="1130" type="1130" pic="dragonBattle330" pic_order="0"/><!--地面log优先级应低于地面-->
+	<ItemSpec id="1131" type="1131" pic="dragonBattle331" pic_order="1"/>
+	<ItemSpec id="1132" type="1132" pic="dragonBattle332" pic_order="1"/>
+
+    <!--3v3小队战场_新增2001铁皮，2002复活点-->
+    <ItemSpec id="2001" type="2001" pic="chushengdian2001" pic_order="0"/>
+    <ItemSpec id="2002" type="2002" pic="tiepi2002" pic_order="0"/>
+ <!--高地赛季-->
+<ItemSpec id="502" type="502" pic="poshang03_01.png" pic_order="0"/>
+<ItemSpec id="503" type="503" pic="poshang03_02.png" pic_order="0"/>
+<ItemSpec id="504" type="504" pic="poshang03_03.png" pic_order="0"/>
+<ItemSpec id="505" type="505" pic="poshang03_04.png" pic_order="0"/>
+<ItemSpec id="506" type="506" pic="poshang01_01.png" pic_order="0"/>
+<ItemSpec id="507" type="507" pic="poshang01_02.png" pic_order="0"/>
+<ItemSpec id="508" type="508" pic="poshang01_03.png" pic_order="0"/>
+<ItemSpec id="509" type="509" pic="poshang01_04.png" pic_order="0"/>
+<ItemSpec id="510" type="510" pic="poshang02_01.png" pic_order="0"/>
+<ItemSpec id="511" type="511" pic="poshang02_02.png" pic_order="0"/>
+<ItemSpec id="512" type="512" pic="poxia01_02.png" pic_order="0"/>
+<ItemSpec id="513" type="513" pic="poxia01_03.png" pic_order="0"/>
+<ItemSpec id="514" type="514" pic="poxia01_04.png" pic_order="0"/>
+<ItemSpec id="515" type="515" pic="poxia02_01.png" pic_order="0"/>
+<ItemSpec id="516" type="516" pic="poxia02_02.png" pic_order="0"/>
+<ItemSpec id="517" type="517" pic="poxia03_01.png" pic_order="0"/>
+<ItemSpec id="518" type="518" pic="poxia03_02.png" pic_order="0"/>
+<ItemSpec id="519" type="519" pic="poxia03_03.png" pic_order="0"/>
+<ItemSpec id="520" type="520" pic="poxia03_04.png" pic_order="0"/>
+<ItemSpec id="521" type="521" pic="poxia01_01.png" pic_order="0"/>
+<ItemSpec id="522" type="522" pic="poyou03_01.png" pic_order="0"/>
+<ItemSpec id="523" type="523" pic="poyou03_02.png" pic_order="0"/>
+<ItemSpec id="524" type="524" pic="poyou03_03.png" pic_order="0"/>
+<ItemSpec id="525" type="525" pic="poyou03_04.png" pic_order="0"/>
+<ItemSpec id="526" type="526" pic="poyou03_05.png" pic_order="0"/>
+<ItemSpec id="527" type="527" pic="poyou03_06.png" pic_order="0"/>
+<ItemSpec id="528" type="528" pic="poyou01_01.png" pic_order="0"/>
+<ItemSpec id="529" type="529" pic="poyou01_02.png" pic_order="0"/>
+<ItemSpec id="530" type="530" pic="poyou01_03.png" pic_order="0"/>
+<ItemSpec id="531" type="531" pic="poyou01_04.png" pic_order="0"/>
+<ItemSpec id="532" type="532" pic="poyou01_05.png" pic_order="0"/>
+<ItemSpec id="533" type="533" pic="poyou01_06.png" pic_order="0"/>
+<ItemSpec id="534" type="534" pic="poyou02_01.png" pic_order="0"/>
+<ItemSpec id="535" type="535" pic="poyou02_02.png" pic_order="0"/>
+<ItemSpec id="536" type="536" pic="poyou02_03.png" pic_order="0"/>
+<ItemSpec id="537" type="537" pic="poyoushang03_01.png" pic_order="0"/>
+<ItemSpec id="538" type="538" pic="poyoushang03_02.png" pic_order="0"/>
+<ItemSpec id="539" type="539" pic="poyoushang03_03.png" pic_order="0"/>
+<ItemSpec id="540" type="540" pic="poyoushang01_01.png" pic_order="0"/>
+<ItemSpec id="541" type="541" pic="poyoushang01_02.png" pic_order="0"/>
+<ItemSpec id="542" type="542" pic="poyoushang01_03.png" pic_order="0"/>
+<ItemSpec id="543" type="543" pic="poyoushang02_01.png" pic_order="0"/>
+<ItemSpec id="544" type="544" pic="poyoushang02_02.png" pic_order="0"/>
+<ItemSpec id="545" type="545" pic="poyoushang02_03.png" pic_order="0"/>
+<ItemSpec id="546" type="546" pic="poyoushang02_04.png" pic_order="0"/>
+<ItemSpec id="547" type="547" pic="poyouxia01_01.png" pic_order="0"/>
+<ItemSpec id="548" type="548" pic="poyouxia01_02.png" pic_order="0"/>
+<ItemSpec id="549" type="549" pic="poyouxia01_03.png" pic_order="0"/>
+<ItemSpec id="550" type="550" pic="poyouxia01_04.png" pic_order="0"/>
+<ItemSpec id="551" type="551" pic="poyouxia01_05.png" pic_order="0"/>
+<ItemSpec id="552" type="552" pic="poyouxia01_06.png" pic_order="0"/>
+<ItemSpec id="553" type="553" pic="poyouxia01_07.png" pic_order="0"/>
+<ItemSpec id="554" type="554" pic="poyouxia02_01.png" pic_order="0"/>
+<ItemSpec id="555" type="555" pic="poyouxia02_02.png" pic_order="0"/>
+<ItemSpec id="556" type="556" pic="poyouxia02_03.png" pic_order="0"/>
+<ItemSpec id="557" type="557" pic="poyouxia02_04.png" pic_order="0"/>
+<ItemSpec id="558" type="558" pic="poyouxia02_05.png" pic_order="0"/>
+<ItemSpec id="559" type="559" pic="poyouxia03_01.png" pic_order="0"/>
+<ItemSpec id="560" type="560" pic="poyouxia03_02.png" pic_order="0"/>
+<ItemSpec id="561" type="561" pic="poyouxia03_03.png" pic_order="0"/>
+<ItemSpec id="562" type="562" pic="poyouxia03_04.png" pic_order="0"/>
+<ItemSpec id="563" type="563" pic="poyouxia03_05.png" pic_order="0"/>
+<ItemSpec id="564" type="564" pic="poyouxia03_06.png" pic_order="0"/>
+<ItemSpec id="565" type="565" pic="pozuo03_06.png" pic_order="0"/>
+<ItemSpec id="566" type="566" pic="pozuo01_01.png" pic_order="0"/>
+<ItemSpec id="567" type="567" pic="pozuo01_02.png" pic_order="0"/>
+<ItemSpec id="568" type="568" pic="pozuo01_03.png" pic_order="0"/>
+<ItemSpec id="569" type="569" pic="pozuo01_04.png" pic_order="0"/>
+<ItemSpec id="570" type="570" pic="pozuo01_05.png" pic_order="0"/>
+<ItemSpec id="571" type="571" pic="pozuo01_06.png" pic_order="0"/>
+<ItemSpec id="572" type="572" pic="pozuo02_01.png" pic_order="0"/>
+<ItemSpec id="573" type="573" pic="pozuo02_02.png" pic_order="0"/>
+<ItemSpec id="574" type="574" pic="pozuo02_03.png" pic_order="0"/>
+<ItemSpec id="575" type="575" pic="pozuo03_01.png" pic_order="0"/>
+<ItemSpec id="576" type="576" pic="pozuo03_02.png" pic_order="0"/>
+<ItemSpec id="577" type="577" pic="pozuo03_03.png" pic_order="0"/>
+<ItemSpec id="578" type="578" pic="pozuo03_04.png" pic_order="0"/>
+<ItemSpec id="579" type="579" pic="pozuo03_05.png" pic_order="0"/>
+<ItemSpec id="580" type="580" pic="pozuoshang01_02.png" pic_order="0"/>
+<ItemSpec id="581" type="581" pic="pozuoshang01_03.png" pic_order="0"/>
+<ItemSpec id="582" type="582" pic="pozuoshang01_04.png" pic_order="0"/>
+<ItemSpec id="583" type="583" pic="pozuoshang01_05.png" pic_order="0"/>
+<ItemSpec id="584" type="584" pic="pozuoshang01_06.png" pic_order="0"/>
+<ItemSpec id="585" type="585" pic="pozuoshang01_07.png" pic_order="0"/>
+<ItemSpec id="586" type="586" pic="pozuoshang02_01.png" pic_order="0"/>
+<ItemSpec id="587" type="587" pic="pozuoshang02_02.png" pic_order="0"/>
+<ItemSpec id="588" type="588" pic="pozuoshang02_03.png" pic_order="0"/>
+<ItemSpec id="589" type="589" pic="pozuoshang02_04.png" pic_order="0"/>
+<ItemSpec id="590" type="590" pic="pozuoshang02_05.png" pic_order="0"/>
+<ItemSpec id="591" type="591" pic="pozuoshang03_01.png" pic_order="0"/>
+<ItemSpec id="592" type="592" pic="pozuoshang03_02.png" pic_order="0"/>
+<ItemSpec id="593" type="593" pic="pozuoshang03_03.png" pic_order="0"/>
+<ItemSpec id="594" type="594" pic="pozuoshang03_04.png" pic_order="0"/>
+<ItemSpec id="595" type="595" pic="pozuoshang03_05.png" pic_order="0"/>
+<ItemSpec id="596" type="596" pic="pozuoshang03_06.png" pic_order="0"/>
+<ItemSpec id="597" type="597" pic="pozuoshang01_01.png" pic_order="0"/>
+<ItemSpec id="598" type="598" pic="pozuoxia01_07.png" pic_order="0"/>
+<ItemSpec id="599" type="599" pic="pozuoxia02_01.png" pic_order="0"/>
+<ItemSpec id="600" type="600" pic="pozuoxia02_02.png" pic_order="0"/>
+<ItemSpec id="601" type="601" pic="pozuoxia02_03.png" pic_order="0"/>
+<ItemSpec id="602" type="602" pic="pozuoxia02_04.png" pic_order="0"/>
+<ItemSpec id="603" type="603" pic="pozuoxia02_05.png" pic_order="0"/>
+<ItemSpec id="604" type="604" pic="pozuoxia02_06.png" pic_order="0"/>
+<ItemSpec id="605" type="605" pic="pozuoxia02_07.png" pic_order="0"/>
+<ItemSpec id="606" type="606" pic="pozuoxia03_01.png" pic_order="0"/>
+<ItemSpec id="607" type="607" pic="pozuoxia03_02.png" pic_order="0"/>
+<ItemSpec id="608" type="608" pic="pozuoxia03_03.png" pic_order="0"/>
+<ItemSpec id="609" type="609" pic="pozuoxia03_04.png" pic_order="0"/>
+<ItemSpec id="610" type="610" pic="pozuoxia03_05.png" pic_order="0"/>
+<ItemSpec id="611" type="611" pic="pozuoxia01_01.png" pic_order="0"/>
+<ItemSpec id="612" type="612" pic="pozuoxia01_02.png" pic_order="0"/>
+<ItemSpec id="613" type="613" pic="pozuoxia01_03.png" pic_order="0"/>
+<ItemSpec id="614" type="614" pic="pozuoxia01_04.png" pic_order="0"/>
+<ItemSpec id="615" type="615" pic="pozuoxia01_05.png" pic_order="0"/>
+<ItemSpec id="616" type="616" pic="pozuoxia01_06.png" pic_order="0"/>
+<ItemSpec id="617" type="617" pic="gaotaishan_shang_04.png" pic_order="0"/>
+<ItemSpec id="618" type="618" pic="gaotaishan_shang_01.png" pic_order="0"/>
+<ItemSpec id="619" type="619" pic="gaotaishan_shang_02.png" pic_order="0"/>
+<ItemSpec id="620" type="620" pic="gaotaishan_shang_03.png" pic_order="0"/>
+<ItemSpec id="621" type="621" pic="gaotaishan_xia_05.png" pic_order="0"/>
+<ItemSpec id="622" type="622" pic="gaotaishan_xia_01.png" pic_order="0"/>
+<ItemSpec id="623" type="623" pic="gaotaishan_xia_02.png" pic_order="0"/>
+<ItemSpec id="624" type="624" pic="gaotaishan_xia_03.png" pic_order="0"/>
+<ItemSpec id="625" type="625" pic="gaotaishan_xia_04.png" pic_order="0"/>
+<ItemSpec id="626" type="626" pic="gaotaishan_you_04.png" pic_order="0"/>
+<ItemSpec id="627" type="627" pic="gaotaishan_you_05.png" pic_order="0"/>
+<ItemSpec id="628" type="628" pic="gaotaishan_you_06.png" pic_order="0"/>
+<ItemSpec id="629" type="629" pic="gaotaishan_you_07.png" pic_order="0"/>
+<ItemSpec id="630" type="630" pic="gaotaishan_you_08.png" pic_order="0"/>
+<ItemSpec id="631" type="631" pic="gaotaishan_you_01.png" pic_order="0"/>
+<ItemSpec id="632" type="632" pic="gaotaishan_you_02.png" pic_order="0"/>
+<ItemSpec id="633" type="633" pic="gaotaishan_you_03.png" pic_order="0"/>
+<ItemSpec id="634" type="634" pic="gaotaishan_youshang_03.png" pic_order="0"/>
+<ItemSpec id="635" type="635" pic="gaotaishan_youshang_01.png" pic_order="0"/>
+<ItemSpec id="636" type="636" pic="gaotaishan_youshang_02.png" pic_order="0"/>
+<ItemSpec id="637" type="637" pic="gaotaishan_youxia_04.png" pic_order="0"/>
+<ItemSpec id="638" type="638" pic="gaotaishan_youxia_01.png" pic_order="0"/>
+<ItemSpec id="639" type="639" pic="gaotaishan_youxia_02.png" pic_order="0"/>
+<ItemSpec id="640" type="640" pic="gaotaishan_youxia_03.png" pic_order="0"/>
+<ItemSpec id="641" type="641" pic="gaotaishan_zuo_05.png" pic_order="0"/>
+<ItemSpec id="642" type="642" pic="gaotaishan_zuo_06.png" pic_order="0"/>
+<ItemSpec id="643" type="643" pic="gaotaishan_zuo_07.png" pic_order="0"/>
+<ItemSpec id="644" type="644" pic="gaotaishan_zuo_01.png" pic_order="0"/>
+<ItemSpec id="645" type="645" pic="gaotaishan_zuo_02.png" pic_order="0"/>
+<ItemSpec id="646" type="646" pic="gaotaishan_zuo_03.png" pic_order="0"/>
+<ItemSpec id="647" type="647" pic="gaotaishan_zuo_04.png" pic_order="0"/>
+<ItemSpec id="648" type="648" pic="gaotaishan_zuoshang_01.png" pic_order="0"/>
+<ItemSpec id="649" type="649" pic="gaotaishan_zuoshang_02.png" pic_order="0"/>
+<ItemSpec id="650" type="650" pic="gaotaishan_zuoshang_03.png" pic_order="0"/>
+<ItemSpec id="651" type="651" pic="gaotaishan_zuoshang_04.png" pic_order="0"/>
+<ItemSpec id="652" type="652" pic="gaotaishan_zuoshang_05.png" pic_order="0"/>
+<ItemSpec id="653" type="653" pic="gaotaishan_zuoshang_06.png" pic_order="0"/>
+<ItemSpec id="654" type="654" pic="gaotaishan_zuoxia_04.png" pic_order="0"/>
+<ItemSpec id="655" type="655" pic="gaotaishan_zuoxia_01.png" pic_order="0"/>
+<ItemSpec id="656" type="656" pic="gaotaishan_zuoxia_02.png" pic_order="0"/>
+<ItemSpec id="657" type="657" pic="gaotaishan_zuoxia_03.png" pic_order="0"/>
+<ItemSpec id="658" type="658" pic="zuoshangguanqia.png" pic_order="0"/>
+<ItemSpec id="659" type="659" pic="zuoxiaguanqia.png" pic_order="0"/>
+<ItemSpec id="660" type="660" pic="youshangguanqia.png" pic_order="0"/>
+<ItemSpec id="661" type="661" pic="youxiaguanqia.png" pic_order="0"/>
+<ItemSpec id="700" type="700" pic="tile_river_E15.png" pic_order="0"/>
+<ItemSpec id="701" type="701" pic="deepSeaBorder1.png" pic_order="0"/>
+<ItemSpec id="702" type="702" pic="deepSeaBorder10.png" pic_order="0"/>
+<ItemSpec id="703" type="703" pic="deepSeaBorder11.png" pic_order="0"/>
+<ItemSpec id="704" type="704" pic="deepSeaBorder12.png" pic_order="0"/>
+<ItemSpec id="705" type="705" pic="deepSeaBorder2.png" pic_order="0"/>
+<ItemSpec id="706" type="706" pic="deepSeaBorder3.png" pic_order="0"/>
+<ItemSpec id="707" type="707" pic="deepSeaBorder4.png" pic_order="0"/>
+<ItemSpec id="708" type="708" pic="deepSeaBorder5.png" pic_order="0"/>
+<ItemSpec id="709" type="709" pic="deepSeaBorder6.png" pic_order="0"/>
+<ItemSpec id="710" type="710" pic="deepSeaBorder7.png" pic_order="0"/>
+<ItemSpec id="711" type="711" pic="deepSeaBorder8.png" pic_order="0"/>
+<ItemSpec id="712" type="712" pic="deepSeaBorder9.png" pic_order="0"/>
+
+    <ItemSpec id="730" type="730" pic="chengqiang_updownleftright.png" pic_order="1"/>
+    <ItemSpec id="731" type="731" pic="chengqiang_upleft.png" pic_order="1"/>
+    <ItemSpec id="732" type="732" pic="chengqiang_downleft.png" pic_order="1"/>
+    <ItemSpec id="733" type="733" pic="chengqiang_upright.png" pic_order="1"/>
+    <ItemSpec id="734" type="734" pic="chengqiang_leftright2.png" pic_order="1"/>
+    <ItemSpec id="735" type="735" pic="chengqiang_left.png" pic_order="1"/>
+    <ItemSpec id="736" type="736" pic="chengqiang_right.png" pic_order="1"/>
+
+    <ItemSpec id="738" type="738" pic="chengqiang_upleftright.png" pic_order="1"/>
+    <ItemSpec id="739" type="739" pic="chengqiang_updownright.png" pic_order="1"/>
+    <ItemSpec id="740" type="740" pic="chengqiang_downleftright.png" pic_order="1"/>
+    <ItemSpec id="741" type="741" pic="chengqiang_updownleft.png" pic_order="1"/>
+    <ItemSpec id="742" type="742" pic="chengqiang_updown2.png" pic_order="1"/>
+    <ItemSpec id="743" type="743" pic="chengqiang_up.png" pic_order="1"/>
+    <ItemSpec id="744" type="744" pic="chengqiang_down.png" pic_order="1"/>
+
+    <ItemSpec id="746" type="746" pic="chengqiang_downright.png" pic_order="1"/>
+
+
+  
+  </Group>
+
+</tns:database>

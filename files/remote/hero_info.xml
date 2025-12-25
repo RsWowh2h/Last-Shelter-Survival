@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="hero_info">
+ 
+    <ItemSpec id="10097" place="110095034" birthday="110095100" height="185" camp="110095000" faction="1" favour="110095500" words="110096000" story="110097001" diamond="500" new="1" />
+    <ItemSpec id="10059" place="110095032" birthday="110095101" height="183" camp="110095003" faction="4" favour="110095501" words="110096001" story="110097002" diamond="500" new="1" />
+    <ItemSpec id="10060" place="110095032" birthday="110095102" height="182" camp="110095003" faction="4" favour="110095502" words="110096002" story="110097003" diamond="500" new="1" />
+    <ItemSpec id="10054" place="110095032" birthday="110095103" height="182" camp="110095001" faction="2" favour="110095503" words="110096003" story="110097004" diamond="500" new="1" />
+    <ItemSpec id="10057" place="110095033" birthday="110095104" height="178" camp="110095003" faction="4" favour="110095504" words="110096004" story="110097005" diamond="500" new="1" />
+    <ItemSpec id="10051" place="110095030" birthday="110095105" height="185" camp="110095001" faction="2" favour="110095505" words="110096005" story="110097006" diamond="500" new="1" />
+    <ItemSpec id="10096" place="110095030" birthday="110095106" height="177" camp="110095000" faction="1" favour="110095506" words="110096006" story="110097007" diamond="500" new="1" />
+    <ItemSpec id="10098" place="110095033" birthday="110095107" height="184" camp="110095003" faction="4" favour="110095507" words="110096007" story="110097008" diamond="500" new="1" />
+    <ItemSpec id="10053" place="110095030" birthday="110095108" height="175" camp="110095002" faction="3" favour="110095508" words="110096008" story="110097009" diamond="500" new="1" />
+    <ItemSpec id="10056" place="110095034" birthday="110095109" height="180" camp="110095001" faction="2" favour="110095509" words="110096009" story="110097010" diamond="500" new="1" />
+    <ItemSpec id="10046" place="110095032" birthday="110095110" height="175" camp="110095001" faction="2" favour="110095510" words="110096010" story="110097011" diamond="500" new="1" />
+    <ItemSpec id="10017" place="110095032" birthday="110095111" height="185" camp="110095000" faction="1" favour="110095511" words="110096011" story="110097012" diamond="500" new="1" />
+    <ItemSpec id="10014" place="110095032" birthday="110095112" height="168" camp="110095000" faction="1" favour="110095512" words="110096012" story="110097013" diamond="500" new="1" />
+    <ItemSpec id="10048" place="110095030" birthday="110095113" height="172" camp="110095001" faction="2" favour="110095513" words="110096013" story="110097014" diamond="500" new="1" />
+    <ItemSpec id="10016" place="110095032" birthday="110095114" height="163" camp="110095000" faction="1" favour="110095514" words="110096014" story="110097015" diamond="500" new="1" />
+    <ItemSpec id="10015" place="110095032" birthday="110095115" height="170" camp="110095000" faction="1" favour="110095515" words="110096015" story="110097016" diamond="500" new="1" />
+    <ItemSpec id="10135" place="110095030" birthday="110095116" height="166" camp="110095002" faction="3" favour="110095516" words="110096016" story="110097017" diamond="500" new="1" />
+    <ItemSpec id="10061" place="110095034" birthday="110095129" height="180" camp="110095003" faction="4" favour="110095529" words="110096029" story="110097018" diamond="300" new="1" />
+    <ItemSpec id="10068" place="110095031" birthday="110095130" height="187" camp="110095003" faction="4" favour="110095531" words="110096031" story="110097020" diamond="300" new="1" />
+    <ItemSpec id="10033" place="110095032" birthday="110095132" height="179" camp="110095002" faction="3" favour="110095532" words="110096032" story="110097021" diamond="300" new="1" />
+    <ItemSpec id="10027" place="110095033" birthday="110095133" height="160" camp="110095003" faction="4" favour="110095533" words="110096033" story="110097022" diamond="300" new="1" />
+    <ItemSpec id="10029" place="110095032" birthday="110095134" height="185" camp="110095002" faction="3" favour="110095534" words="110096034" story="110097023" diamond="300" new="1" />
+    <ItemSpec id="10026" place="110095033" birthday="110095135" height="164" camp="110095003" faction="4" favour="110095535" words="110096035" story="110097024" diamond="300" new="1" />
+    <ItemSpec id="10030" place="110095030" birthday="110095136" height="165" camp="110095001" faction="2" favour="110095536" words="110096036" story="110097025" diamond="300" new="1" />
+    <ItemSpec id="10058" place="110095033" birthday="110095137" height="175" camp="110095000" faction="1" favour="110095537" words="110096037" story="110097026" diamond="300" new="1" />
+    <ItemSpec id="10066" place="110095032" birthday="110095138" height="166" camp="110095002" faction="3" favour="110095538" words="110096038" story="110097027" diamond="300" new="1" />
+    <ItemSpec id="10052" place="110095034" birthday="110095139" height="173" camp="110095002" faction="3" favour="110095539" words="110096039" story="110097028" diamond="300" new="1" />
+    <ItemSpec id="10055" place="110095032" birthday="110095140" height="177" camp="110095000" faction="1" favour="110095540" words="110096040" story="110097029" diamond="300" new="1" />
+    <ItemSpec id="10065" place="110095032" birthday="110095141" height="177" camp="110095002" faction="3" favour="110095541" words="110096041" story="110097030" diamond="300" new="1" />
+    <ItemSpec id="10032" place="110095032" birthday="110095142" height="163" camp="110095002" faction="3" favour="110095542" words="110096042" story="110097031" diamond="300" new="1" />
+    <ItemSpec id="10067" place="110095032" birthday="110095143" height="166" camp="110095003" faction="4" favour="110095543" words="110096043" story="110097032" diamond="300" new="1" />
+    <ItemSpec id="10062" place="110095032" birthday="110095144" height="173" camp="110095003" faction="4" favour="110095544" words="110096044" story="110097033" diamond="300" new="1" />
+    <ItemSpec id="10064" place="110095032" birthday="110095145" height="178" camp="110095003" faction="4" favour="110095545" words="110096045" story="110097034" diamond="300" new="1" />
+    <ItemSpec id="10140" place="110095032" birthday="110095146" height="182" camp="110095000" faction="1" favour="110095546" words="110096046" story="110097035" diamond="300" new="1" />
+    <ItemSpec id="10013" place="110095033" birthday="110095148" height="175" camp="110095002" faction="3" favour="110095548" words="110096048" story="110097037" diamond="300" new="1" />
+    <ItemSpec id="10047" place="110095032" birthday="110095149" height="175" camp="110095001" faction="2" favour="110095549" words="110096049" story="110097038" diamond="300" new="1" />
+    <ItemSpec id="10049" place="110095030" birthday="110095150" height="178" camp="110095001" faction="2" favour="110095550" words="110096050" story="110097039" diamond="300" new="1" />
+    <ItemSpec id="10077" place="110095034" birthday="110095151" height="177" camp="110095001" faction="2" favour="110095551" words="110096051" story="110097040" diamond="300" new="1" />
+    <ItemSpec id="10010" place="110095032" birthday="110095152" height="165" camp="110095002" faction="3" favour="110095552" words="110096052" story="110097041" diamond="300" new="1" />
+    <ItemSpec id="10041" place="110095032" birthday="110095153" height="173" camp="110095000" faction="1" favour="110095553" words="110096053" story="110097042" diamond="200" new="1" />
+    <ItemSpec id="10040" place="110095030" birthday="110095154" height="158" camp="110095001" faction="2" favour="110095554" words="110096054" story="110097043" diamond="200" new="1" />
+    <ItemSpec id="10042" place="110095030" birthday="110095155" height="175" camp="110095003" faction="4" favour="110095555" words="110096055" story="110097044" diamond="200" new="1" />
+    <ItemSpec id="10038" place="110095030" birthday="110095156" height="177" camp="110095003" faction="4" favour="110095556" words="110096056" story="110097045" diamond="200" new="1" />
+    <ItemSpec id="10039" place="110095030" birthday="110095157" height="176" camp="110095000" faction="1" favour="110095557" words="110096057" story="110097046" diamond="200" new="1" />
+    <ItemSpec id="10009" place="110095032" birthday="110095158" height="177" camp="110095000" faction="1" favour="110095558" words="110096058" story="110097047" diamond="200" new="1" />
+    <ItemSpec id="10130" place="110095032" birthday="110095159" height="180" camp="110095000" faction="1" favour="110095559" words="110096059" story="110097048" diamond="200" new="1" />
+    <ItemSpec id="10036" place="110095034" birthday="110095160" height="175" camp="110095000" faction="1" favour="110095560" words="110096060" story="110097049" diamond="200" new="1" />
+    <ItemSpec id="10035" place="110095030" birthday="110095161" height="176" camp="110095001" faction="2" favour="110095561" words="110096061" story="110097050" diamond="200" new="1" />
+    <ItemSpec id="10069" place="110095030" birthday="110095162" height="182" camp="110095004" faction="0" favour="110095562" words="110096062" story="110097051" diamond="200" new="1" />
+    <ItemSpec id="10021" place="110095030" birthday="110095163" height="177" camp="110095004" faction="0" favour="110095563" words="110096063" story="110097052" diamond="200" new="1" />
+    <ItemSpec id="10071" place="110095030" birthday="110095164" height="155" camp="110095002" faction="3" favour="110095564" words="110096064" story="110097053" diamond="200" new="1" />
+    <ItemSpec id="10019" place="110095030" birthday="110095165" height="178" camp="110095001" faction="2" favour="110095565" words="110096065" story="110097054" diamond="200" new="1" />
+    <ItemSpec id="10050" place="110095030" birthday="110095166" height="182" camp="110095003" faction="4" favour="110095566" words="110096128" story="110097055" diamond="200" new="1" />
+    <ItemSpec id="10018" place="110095030" birthday="110095167" height="178" camp="110095002" faction="3" favour="110095567" words="110096067" story="110097056" diamond="200" new="1" />
+    <ItemSpec id="10070" place="110095030" birthday="110095168" height="180" camp="110095004" faction="0" favour="110095568" words="110096068" story="110097057" diamond="200" new="1" />
+    <ItemSpec id="10020" place="110095030" birthday="110095169" height="177" camp="110095000" faction="1" favour="110095569" words="110096069" story="110097058" diamond="200" new="1" />
+    <ItemSpec id="10022" place="110095033" birthday="110095170" height="175" camp="110095000" faction="1" favour="110095570" words="110096070" story="110097059" diamond="200" new="1" />
+    <ItemSpec id="10044" place="110095030" birthday="110095171" height="141" camp="110095004" faction="0" favour="110095571" words="110096071" story="110097060" diamond="100" new="1" />
+    <ItemSpec id="10075" place="110095030" birthday="110095172" height="157" camp="110095004" faction="0" favour="110095572" words="110096072" story="110097061" diamond="100" new="1" />
+    <ItemSpec id="10076" place="110095034" birthday="110095173" height="163" camp="110095000" faction="1" favour="110095573" words="110096073" story="110097062" diamond="100" new="1" />
+    <ItemSpec id="10074" place="110095030" birthday="110095174" height="173" camp="110095004" faction="0" favour="110095574" words="110096074" story="110097063" diamond="100" new="1" />
+    <ItemSpec id="10045" place="110095030" birthday="110095175" height="168" camp="110095000" faction="1" favour="110095575" words="110096075" story="110097064" diamond="100" new="1" />
+    <ItemSpec id="10023" place="110095030" birthday="110095176" height="175" camp="110095004" faction="0" favour="110095576" words="110096076" story="110097065" diamond="100" new="1" />
+    <ItemSpec id="10043" place="110095030" birthday="110095177" height="174" camp="110095000" faction="1" favour="110095577" words="110096077" story="110097066" diamond="100" new="1" />
+    <ItemSpec id="10073" place="110095030" birthday="110095178" height="172" camp="110095004" faction="0" favour="110095578" words="110096078" story="110097067" diamond="100" new="1" />
+    <ItemSpec id="10024" place="110095030" birthday="110095179" height="170" camp="110095004" faction="0" favour="110095579" words="110096079" story="110097068" diamond="100" new="1" />
+    <ItemSpec id="10072" place="110095030" birthday="110095180" height="165" camp="110095004" faction="0" favour="110095580" words="110096080" story="110097069" diamond="100" new="1" />
+    <ItemSpec id="10080" place="110095032" birthday="110095181" height="181" camp="110095001" faction="2" favour="110095581" words="110096081" story="110097070" diamond="500" new="1" />
+    <ItemSpec id="10028" place="110095033" birthday="110095182" height="182" camp="110095003" faction="4" favour="110095582" words="110096082" story="110097071" diamond="500" new="1" />
+    <ItemSpec id="10079" place="110095032" birthday="110095183" height="182" camp="110095001" faction="2" favour="110095583" words="110096083" story="110097072" diamond="500" new="1" />
+    <ItemSpec id="10034" place="110095032" birthday="110095184" height="185" camp="110095002" faction="3" favour="110095584" words="110096084" story="110097073" diamond="500" new="1" />
+    <ItemSpec id="10083" place="110095031" birthday="110095185" height="188" camp="110095000" faction="1" favour="110095585" words="110096085" story="110097074" diamond="500" new="1" />
+    <ItemSpec id="10082" place="110095032" birthday="110095186" height="184" camp="110095002" faction="3" favour="110095586" words="110096086" story="110097075" diamond="500" new="1" />
+    <ItemSpec id="10031" place="110095030" birthday="110095187" height="185" camp="110095002" faction="3" favour="110095587" words="110096087" story="110097076" diamond="500" new="1" />
+    <ItemSpec id="10078" place="110095032" birthday="110095188" height="180" camp="110095001" faction="2" favour="110095588" words="110096088" story="110097077" diamond="500" new="1" />
+    <ItemSpec id="10081" place="110095034" birthday="110095189" height="186" camp="110095001" faction="2" favour="110095589" words="110096089" story="110097078" diamond="500" new="1" />
+    <ItemSpec id="10089" place="110095033" birthday="110095190" height="185" camp="110095003" faction="4" favour="110095590" words="110096090" story="110097079" diamond="500" new="1" />
+    <ItemSpec id="10084" place="110095030" birthday="110095191" height="166" camp="110095001" faction="2" favour="110095591" words="110096091" story="110097080" diamond="500" new="1" />
+    <ItemSpec id="10088" place="110095030" birthday="110095192" height="178" camp="110095002" faction="3" favour="110095592" words="110096092" story="110097081" diamond="500" new="1" />
+    <ItemSpec id="10086" place="110095034" birthday="110095193" height="184" camp="110095003" faction="4" favour="110095593" words="110096093" story="110097082" diamond="500" new="1" />
+    <ItemSpec id="10085" place="110095030" birthday="110095194" height="170" camp="110095002" faction="3" favour="110095594" words="110096094" story="110097083" diamond="500" new="1" />
+    <ItemSpec id="10087" place="110095030" birthday="110095195" height="187" camp="110095001" faction="2" favour="110095595" words="110096095" story="110097084" diamond="500" new="1" />
+    <ItemSpec id="10090" place="110095030" birthday="110095196" height="170" camp="110095000" faction="1" favour="110095596" words="110096096" story="110097085" diamond="500" new="1" />
+    <ItemSpec id="10091" place="110095034" birthday="110095197" height="172" camp="110095003" faction="4" favour="110095597" words="110096097" story="110097086" diamond="500" new="1" />
+    <ItemSpec id="10095" place="110095033" birthday="110095198" height="164" camp="110095003" faction="4" favour="110095598" words="110096098" story="110097087" diamond="500" new="1" />
+    <ItemSpec id="10093" place="110095032" birthday="110095199" height="166" camp="110095002" faction="3" favour="110095599" words="110096099" story="110097088" diamond="500" new="1" />
+    <ItemSpec id="10094" place="110095032" birthday="110095200" height="167" camp="110095001" faction="2" favour="110095600" words="110096100" story="110097089" diamond="500" new="1" />
+    <ItemSpec id="10092" place="110095032" birthday="110095201" height="180" camp="110095002" faction="3" favour="110095601" words="110096101" story="110097090" diamond="500" new="1" />
+    <ItemSpec id="10104" place="110095034" birthday="110095202" height="181" camp="110095000" faction="1" favour="110095602" words="110096102" story="110097093" diamond="500" new="1" />
+    <ItemSpec id="10099" place="110095030" birthday="110095203" height="177" camp="110095003" faction="4" favour="110095603" words="110096103" story="110097094" diamond="500" new="1" />
+    <ItemSpec id="10102" place="110095034" birthday="110095204" height="160" camp="110095000" faction="1" favour="110095604" words="110096104" story="110097095" diamond="500" new="1" />
+    <ItemSpec id="10101" place="110095031" birthday="110095205" height="182" camp="110095003" faction="4" favour="110095605" words="110096105" story="110097096" diamond="500" new="1" />
+    <ItemSpec id="10103" place="110095032" birthday="110095206" height="183" camp="110095000" faction="1" favour="110095606" words="110096106" story="110097097" diamond="500" new="1" />
+    <ItemSpec id="10100" place="110095034" birthday="110095207" height="178" camp="110095001" faction="2" favour="110095607" words="110096107" story="110097098" diamond="500" new="1" />
+    <ItemSpec id="10132" place="110095030" birthday="110095208" height="182" camp="110095002" faction="3" favour="110095608" words="110096108" story="110097108" diamond="500" new="1" />
+    <ItemSpec id="10123" place="110095033" birthday="110095209" height="168" camp="110095002" faction="3" favour="110095609" words="110096109" story="110097105" diamond="500" new="1" />
+    <ItemSpec id="10129" place="110095031" birthday="110095210" height="180" camp="110095000" faction="1" favour="110095610" words="110096110" story="110097091" diamond="500" new="1" />
+    <ItemSpec id="10128" place="110095031" birthday="110095211" height="185" camp="110095001" faction="2" favour="110095611" words="110096111" story="110097104" diamond="500" new="1" />
+    <ItemSpec id="10122" place="110095030" birthday="110095212" height="180" camp="110095001" faction="2" favour="110095612" words="110096112" story="110097107" diamond="500" new="1" />
+    <ItemSpec id="10133" place="110095032" birthday="110095213" height="177" camp="110095000" faction="1" favour="110095613" words="110096113" story="110097103" diamond="500" new="1" />
+    <ItemSpec id="10136" place="110095032" birthday="110095214" height="178" camp="110095002" faction="3" favour="110095614" words="110096114" story="110097106" diamond="500" new="1" />
+    <ItemSpec id="10125" place="110095033" birthday="110095215" height="174" camp="110095003" faction="4" favour="110095615" words="110096115" story="110097109" diamond="500" new="1" />
+    <ItemSpec id="10124" place="110095034" birthday="110095216" height="181" camp="110095001" faction="2" favour="110095616" words="110096116" story="110097110" diamond="500" new="1" />
+    <ItemSpec id="10120" place="110095030" birthday="110095217" height="173" camp="110095000" faction="1" favour="110095617" words="110096117" story="110097111" diamond="500" new="1" />
+    <ItemSpec id="10127" place="110095031" birthday="110095218" height="196" camp="110095003" faction="4" favour="110095618" words="110096118" story="110097112" diamond="500" new="1" />
+    <ItemSpec id="10134" place="110095030" birthday="110095219" height="167" camp="110095002" faction="3" favour="110095619" words="110096119" story="110097113" diamond="500" new="1" />
+    <ItemSpec id="10137" place="110095030" birthday="110095220" height="173" camp="110095001" faction="2" favour="110095620" words="110096120" story="110097092" diamond="500" new="1" />
+    <ItemSpec id="10131" place="110095031" birthday="110095221" height="177" camp="110095000" faction="1" favour="110095621" words="110096121" story="110097114" diamond="500" new="1" />
+    <ItemSpec id="10126" place="110095032" birthday="110095222" height="178" camp="110095000" faction="1" favour="110095622" words="110096122" story="110097115" diamond="500" new="1" />
+    <ItemSpec id="10121" place="110095032" birthday="110095223" height="180" camp="110095000" faction="1" favour="110095623" words="110096123" story="110097116" diamond="500" new="1" />
+    <ItemSpec id="10139" place="110095034" birthday="110095117" height="168" camp="110095001" faction="2" favour="110095517" words="110096017" story="88002025" diamond="500" new="1" />
+    <ItemSpec id="10138" place="110095030" birthday="110095118" height="188" camp="110095003" faction="4" favour="110095518" words="110096018" story="88002026" diamond="500" new="1" />
+    <ItemSpec id="10142" place="110095033" birthday="110095119" height="167" camp="110095003" faction="4" favour="110095519" words="110096019" story="88003079" diamond="500" new="1" />
+    <ItemSpec id="10143" place="110095032" birthday="110095120" height="187" camp="110095003" faction="4" favour="110095520" words="110096020" story="88003080" diamond="500" new="1" />
+    <ItemSpec id="10144" place="110095035" birthday="110095121" height="162" camp="110095002" faction="3" favour="110095521" words="110096021" story="88003110" diamond="500" new="1" />
+    <ItemSpec id="10145" place="110095033" birthday="110095122" height="174" camp="110095003" faction="4" favour="110095522" words="110096022" story="88003109" diamond="500" new="1" />
+    <ItemSpec id="10146" place="110095036" birthday="110095123" height="165" camp="110095002" faction="3" favour="110095523" words="110096023" story="88003133" diamond="500" new="1" />
+    <ItemSpec id="10147" place="110095033" birthday="110095124" height="163" camp="110095001" faction="2" favour="110095524" words="110096024" story="88003134" diamond="500" new="1" />
+    <ItemSpec id="10148" place="110095034" birthday="110095125" height="186" camp="110095001" faction="2" favour="110095525" words="110096025" story="88003157" diamond="500" new="1" />
+    <ItemSpec id="10149" place="110095032" birthday="110095126" height="175" camp="110095003" faction="4" favour="110095526" words="110096026" story="88003156" diamond="500" new="1" />
+    <ItemSpec id="10152" place="110095032" birthday="110095127" height="180" camp="110095000" faction="1" favour="110095527" words="110096027" story="88003188" diamond="500" new="1" />
+    <ItemSpec id="10151" place="110095038" birthday="110095128" height="167" camp="110095000" faction="1" favour="110095528" words="110096028" story="88003187" diamond="500" new="1" />
+    <ItemSpec id="10063" place="110095030" birthday="110095130" height="176" camp="110095002" faction="3" favour="110095530" words="110096030" story="110097019" diamond="300" new="1" />
+    <ItemSpec id="10141" place="110095033" birthday="110095147" height="165" camp="110095002" faction="3" favour="110095547" words="110096047" story="110097036" diamond="300" new="1" />
+    <ItemSpec id="10153" place="110095030" birthday="110095224" height="163" camp="110095002" faction="3" favour="110095624" words="110096124" story="88003225" diamond="500" new="1" />
+    <ItemSpec id="10154" place="110095034" birthday="110095225" height="177" camp="110095003" faction="4" favour="110095625" words="110096125" story="88003226" diamond="500" new="1" />
+    <ItemSpec id="10155" place="110095032" birthday="110095226" height="182" camp="110095001" faction="2" favour="110095626" words="110096126" story="88003234" diamond="500" new="1" />
+    <ItemSpec id="10156" place="110095032" birthday="110095227" height="170" camp="110095000" faction="1" favour="110095627" words="110096127" story="88003233" diamond="500" new="1" />
+    <ItemSpec id="10157" place="110095030" birthday="110095228" height="155" camp="110095000" faction="1" favour="110095566" words="110096066" story="110097099" diamond="300" new="1" />
+    <ItemSpec id="10158" place="110095035" birthday="110095229" height="170" camp="110095000" faction="1" favour="110095628" words="110096129" story="88003263" diamond="500" new="1" />
+    <ItemSpec id="10159" place="110095032" birthday="110095230" height="182" camp="110095002" faction="3" favour="110095629" words="110096130" story="88003264" diamond="500" new="1" />
+    <ItemSpec id="10160" place="110095034" birthday="110095231" height="166" camp="110095001" faction="2" favour="110095630" words="110096131" story="88003265" diamond="500" new="1" />
+    <ItemSpec id="10161" place="110095033" birthday="110095232" height="198" camp="110095003" faction="4" favour="110095631" words="110096132" story="88003294" diamond="500" new="1" />
+    <ItemSpec id="10162" place="110095032" birthday="110095233" height="163" camp="110095002" faction="3" favour="110095632" words="110096133" story="88003295" diamond="500" new="1" />
+    <ItemSpec id="10163" place="110095032" birthday="110095234" height="175" camp="110095000" faction="1" favour="110095633" words="110096134" story="88003314" diamond="200" new="1" />
+    <ItemSpec id="10164" place="110095032" birthday="110095235" height="184" camp="110095000" faction="1" favour="110095634" words="110096135" story="88003326" diamond="300" new="1" />
+    <ItemSpec id="10165" place="110095032" birthday="110095237" height="186" camp="110095000" faction="1" favour="110095636" words="110096137" story="88003355" diamond="500" new="1" />
+    <ItemSpec id="10166" place="110095034" birthday="110095236" height="180" camp="110095001" faction="2" favour="110095635" words="110096136" story="88003354" diamond="500" new="1" />
+		<ItemSpec id="10167" place="110095033" birthday="110095238" height="178" camp="110095003" faction="4" favour="110095637" words="110096138" story="88003374" diamond="500" new="1"/>
+		<ItemSpec id="10168" place="110095032" birthday="110095239" height="172" camp="110095002" faction="3" favour="110095638" words="110096139" story="88003375" diamond="500" new="1"/>
+		<ItemSpec id="10169" place="110095034" birthday="110095240" height="170" camp="110095002" faction="3" favour="110095639" words="110096140" story="88003392" diamond="500" new="1"/>
+		<ItemSpec id="10170" place="110095034" birthday="110095243" height="182" camp="110095001" faction="2" favour="110095642" words="110096143" story="88003444" diamond="500" new="1"/>
+		<ItemSpec id="10172" place="110095033" birthday="110095244" height="185" camp="110095003" faction="4" favour="110095643" words="110096144" story="88003445" diamond="500" new="1"/>
+		<ItemSpec id="10171" place="110095032" birthday="110095245" height="179" camp="110095002" faction="3" favour="110095644" words="110096145" story="88003446" diamond="500" new="1"/>
+		<ItemSpec id="10173" place="110095033" birthday="110095241" height="181" camp="110095002" faction="3" favour="110095640" words="110096141" story="88003393" diamond="500" new="1"/>
+		<ItemSpec id="10174" place="110095034" birthday="110095242" height="178" camp="110095001" faction="2" favour="110095641" words="110096142" story="88003394" diamond="500" new="1"/>
+		<ItemSpec id="10175" place="110095032" birthday="110095246" height="156" camp="110095001" faction="2" favour="110095645" words="110096146" story="88003455" diamond="500" new="1"/>
+		<ItemSpec id="10176" place="110095033" birthday="110095248" height="187" camp="110095003" faction="4" favour="110095647" words="110096148" story="88003468" diamond="500" new="1"/>
+		<ItemSpec id="10177" place="110095031" birthday="110095247" height="176" camp="110095000" faction="1" favour="110095646" words="110096147" story="88003467" diamond="500" new="1"/>
+		<ItemSpec id="10178" place="110095030" birthday="110095249" height="173" camp="110095001" faction="2" favour="110095648" words="110096149" story="88003491" diamond="500" new="1"/>
+		<ItemSpec id="10179" place="110095034" birthday="110095250" height="175" camp="110095003" faction="4" favour="110095649" words="110096150" story="88003492" diamond="500" new="1"/>
+		<ItemSpec id="10180" place="110095030" birthday="110095030" height="170" camp="110095005" faction="5" favour="110095651" words="110096151" story="88003499" diamond="500" new="1"/>
+		<ItemSpec id="10181" place="110095030" birthday="110095030" height="170" camp="110095005" faction="5" favour="110095651" words="110096151" story="88003499" diamond="500" new="1"/>
+		<ItemSpec id="10182" place="110095030" birthday="110095030" height="178" camp="110095005" faction="5" favour="110095650" words="110096152" story="88003500" diamond="500" new="1"/>
+		<ItemSpec id="10183" place="110095034" birthday="110095251" height="165" camp="110095001" faction="2" favour="110095652" words="110311014" story="110096153" diamond="500" new="1"/>
+		<ItemSpec id="10184" place="110095034" birthday="110095251" height="165" camp="110095001" faction="2" favour="110095653" words="110311013" story="110096154" diamond="500" new="1"/>
+		<ItemSpec id="10185" place="110095032" birthday="110095252" height="171" camp="110095000" faction="1" favour="110095654" words="110096155" story="88003521" diamond="300" new="1"/>
+		<ItemSpec id="10186" place="110095030" birthday="110095253" height="173" camp="110095004" faction="0" favour="110095655" words="110096156" story="88003522" diamond="500" new="1"/>
+		<ItemSpec id="10187" place="110095033" birthday="110095254" height="160" camp="110095002" faction="3" favour="110095656" words="110096157" story="88003523" diamond="500" new="1"/>
+		<ItemSpec id="10188" place="110095036" birthday="110095255" height="184" camp="110095001" faction="2" favour="110095657" words="110096158" story="88003556" diamond="500" new="1"/>
+		<ItemSpec id="10189" place="110095032" birthday="110095256" height="176" camp="110095003" faction="4" favour="110095658" words="110096159" story="88003557" diamond="500" new="1"/>
+		<ItemSpec id="10190" place="110095033" birthday="110095257" height="179" camp="110095000" faction="1" favour="110095661" words="110096162" story="88003566" diamond="500" new="1"/>
+		<ItemSpec id="10191" place="110095030" birthday="110095258" height="174" camp="110095002" faction="3" favour="110095663" words="110095665" story="88003580" diamond="500" new="1"/>
+		<ItemSpec id="10192" place="110095032" birthday="110095259" height="180" camp="110095003" faction="4" favour="110095664" words="110095666" story="88003581" diamond="500" new="1"/>
+		<ItemSpec id="10193" place="110095030" birthday="110095030" height="178" camp="110095005" faction="5" favour="110095659" words="110096160" story="88003562" diamond="500" new="1"/>
+		<ItemSpec id="10194" place="110095030" birthday="110095030" height="188" camp="110095005" faction="5" favour="110095660" words="110096161" story="88003563" diamond="500" new="1"/>
+		<ItemSpec id="10195" place="110095033" birthday="110095260" height="177" camp="110095001" faction="2" favour="110095667" words="110095669" story="88003622" diamond="500" new="1"/>
+		<ItemSpec id="10196" place="110095031" birthday="110095261" height="181" camp="110095000" faction="1" favour="110095668" words="110095670" story="88003623" diamond="500" new="1"/>
+		<ItemSpec id="10197" place="110095034" birthday="110095262" height="175" camp="110095002" faction="3" favour="110095671" words="110095674" story="88003644" diamond="500" new="1"/>
+		<ItemSpec id="10198" place="110095033" birthday="110095263" height="157" camp="110095002" faction="3" favour="110095672" words="110095675" story="88003645" diamond="500" new="1"/>
+		<ItemSpec id="10199" place="110095032" birthday="110095264" height="172" camp="110095003" faction="4" favour="110095673" words="110095676" story="88003646" diamond="500" new="1"/>
+		<ItemSpec id="10200" place="110095030" birthday="110095265" height="185" camp="110095003" faction="4" favour="110095677" words="110095678" story="88003669" diamond="500" new="1"/>
+		<ItemSpec id="10201" place="110095034" birthday="110095266" height="151" camp="110095001" faction="2" favour="110095679" words="110095681" story="88003672" diamond="500" new="1"/>
+		<ItemSpec id="10202" place="110095032" birthday="110095267" height="174" camp="110095002" faction="3" favour="110095680" words="110095682" story="88003673" diamond="500" new="1"/>
+		<ItemSpec id="10203" place="110095033" birthday="110095268" height="175" camp="110095003" faction="4" favour="110095683" words="110095684" story="88003699" diamond="500" new="1"/>
+		<ItemSpec id="10204" place="110095032" birthday="110095270" height="162" camp="110095003" faction="4" favour="110095687" words="110095689" story="88003707" diamond="500" new="1"/>
+		<ItemSpec id="10205" place="110095034" birthday="110095271" height="198" camp="110095000" faction="1" favour="110095688" words="110095690" story="88003710" diamond="500" new="1"/>
+		<ItemSpec id="10206" place="110095034" birthday="110095691" height="183" camp="110095000" faction="1" favour="110095692" words="110095693" story="88003727" diamond="500" new="1"/>
+		<ItemSpec id="10207" place="110095033" birthday="110095694" height="176" camp="110095003" faction="4" favour="110095695" words="110095696" story="88003730" diamond="500" new="1"/>
+		<ItemSpec id="10208" place="110095031" birthday="110095269" height="180" camp="110095000" faction="1" favour="110095685" words="110095686" story="88003704" diamond="500" new="1"/>
+		<ItemSpec id="10209" place="110095032" birthday="110095233" height="177" camp="110095000" faction="1" favour="110490021" words="236111" story="88003759" diamond="500" new="1"/>
+		<ItemSpec id="10210" place="110095036" birthday="110095155" height="167" camp="110095000" faction="1" favour="110490072" words="110490074" story="110490076" diamond="500" new="1"/>
+		<ItemSpec id="10211" place="110095034" birthday="110095112" height="193" camp="110095002" faction="3" favour="110490073" words="110490075" story="110490077" diamond="500" new="1"/>
+		<ItemSpec id="10212" place="110095032" birthday="110095262" height="178" camp="110095001" faction="2" favour="88003793" words="88003795" story="110490078" diamond="500" new="1"/>
+		<ItemSpec id="10213" place="110095034" birthday="110095258" height="163" camp="110095002" faction="3" favour="88003794" words="88003796" story="110490079" diamond="500" new="1"/>
+		<ItemSpec id="10214" place="110095032" birthday="110095249" height="171" camp="110095001" faction="2" favour="88003797" words="88003798" story="88003799" diamond="500" new="1"/>
+		<ItemSpec id="10215" place="110095039" birthday="110095700" height="173" camp="110095002" faction="3" favour="110095701" words="110095702" story="88003811" diamond="500" new="1"/>
+		<ItemSpec id="10216" place="110095034" birthday="110095709" height="188" camp="110095003" faction="4" favour="110095710" words="110095711" story="110095712" diamond="500" new="1"/>
+		<ItemSpec id="10218" place="110095041" birthday="110095737" height="170" camp="110095002" faction="3" favour="110095738" words="110095739" story="110095740" diamond="500" new="1"/>
+		<ItemSpec id="10217" place="110095041" birthday="110095743" height="177" camp="110095001" faction="2" favour="110095744" words="110095745" story="110095746" diamond="500" new="1"/>
+		<ItemSpec id="10219" place="110095035" birthday="110095747" height="189" camp="110095000" faction="1" favour="110095748" words="110095749" story="110095750" diamond="500" new="1"/>
+		<ItemSpec id="10220" place="110095032" birthday="110095030" height="162" camp="110095001" faction="2" favour="110095753" words="110095754" story="110095755" diamond="500" new="1"/>
+		<ItemSpec id="10221" place="110095031" birthday="110095758" height="187" camp="110095003" faction="4" favour="110095759" words="110095760" story="110095761" diamond="500" new="1"/>
+		<ItemSpec id="10501" place="110095033" birthday="110095697" height="182" camp="110095000" faction="1" favour="110095698" words="110095699" story="88003808" diamond="500" new="1"/>
+
+
+
+
+
+
+
+
+
+
+
+
+ </Group >
+
+</tns:database>
+

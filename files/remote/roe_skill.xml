@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="skill">
+    <ItemSpec id="102000" name="90900035" icon="ROE_hs_yingxiongyiji_zhandou" />
+    <ItemSpec id="102001" name="90900036" icon="ROE_hs_yingxiongyiji_zhandou" />
+    <ItemSpec id="102002" name="90900037" icon="ROE_hs_yingxiongyiji_zhandou" />
+    <ItemSpec id="102006" name="88000530" icon="ROE_hs_zhanhou_zhandou" />
+    <ItemSpec id="102007" name="88000582" icon="ROE_hs_tiexueshixin_zhandou" />
+    <ItemSpec id="102008" name="88000528" icon="ROE_hs_zhisichanrao_zhandou" />
+    <ItemSpec id="102010" name="88000555" icon="ROE_hs_kuangfengsaoyue_zhandou" />
+    <ItemSpec id="102011" name="88000529" icon="ROE_hs_wuqingjiaosha_zhandou" />
+    <ItemSpec id="102012" name="88000556" icon="ROE_hs_tiexuezhansha_zhandou" />
+    <ItemSpec id="102013" name="88000583" icon="ROE_hs_minmie_zhandou" />
+    <ItemSpec id="102014" name="88000533" icon="ROE_hs_jiefang_zhandou" />
+    <ItemSpec id="102015" name="88000531" icon="ROE_hs_zhanfu_zhandou" />
+    <ItemSpec id="102016" name="88000532" icon="ROE_hs_kuaiqiang_zhandou" />
+    <ItemSpec id="102017" name="88000558" icon="ROE_hs_bopi_zhandou" />
+    <ItemSpec id="102020" name="88000584" icon="ROE_hs_tieshouwuqing_zhandou" />
+    <ItemSpec id="102021" name="88000536" icon="ROE_hs_tiemenbishan_zhandou" />
+    <ItemSpec id="102022" name="88000562" icon="ROE_hs_shibacengdiyu_zhandou" />
+    <ItemSpec id="102023" name="88000535" icon="ROE_hs_duopo_zhandou" />
+    <ItemSpec id="102024" name="88000561" icon="ROE_hs_shihun_zhandou" />
+    <ItemSpec id="102025" name="88000534" icon="ROE_hs_zhuiji_zhandou" />
+    <ItemSpec id="102026" name="83420013" icon="ROE_hs_zhanmo_zhandou" />
+    <ItemSpec id="102031" name="88000539" icon="ROE_hs_youji_zhandou" />
+    <ItemSpec id="102032" name="88000586" icon="ROE_hs_wuweichongfeng_zhandou" />
+    <ItemSpec id="102033" name="88000540" icon="ROE_hs_tiangang_zhandou" />
+    <ItemSpec id="102034" name="88000587" icon="ROE_hs_renwang_zhandou" />
+    <ItemSpec id="102035" name="88000542" icon="ROE_hs_juhe_zhandou" />
+    <ItemSpec id="102040" name="88000588" icon="ROE_hs_sixing_zhandou" />
+    <ItemSpec id="102041" name="88000543" icon="ROE_hs_taifeng_zhandou" />
+    <ItemSpec id="102042" name="88000589" icon="ROE_hs_dajiahuo_zhandou" />
+    <ItemSpec id="102043" name="88000545" icon="ROE_hs_baonu_zhandou" />
+    <ItemSpec id="102044" name="88000590" icon="ROE_hs_weilebeifang_zhandou" />
+    <ItemSpec id="102045" name="88000546" icon="ROE_hs_jianrenluanwu_zhandou" />
+    <ItemSpec id="102050" name="88000591" icon="ROE_hs_dashasifang_zhandou" />
+    <ItemSpec id="102051" name="88000541" icon="ROE_hs_kuaidaozhanma_zhandou" />
+    <ItemSpec id="102052" name="88000568" icon="ROE_hs_zhuixingganyue_zhandou" />
+    <ItemSpec id="102053" name="88000544" icon="ROE_hs_hanwei_zhandou" />
+    <ItemSpec id="102054" name="88000571" icon="ROE_hs_zhizhong_zhandou" />
+    <ItemSpec id="102055" name="88000547" icon="ROE_hs_kuangyezhixi_zhandou" />
+    <ItemSpec id="102060" name="88000574" icon="ROE_hs_wusuoweiju_zhandou" />
+    <ItemSpec id="102061" name="88000537" icon="ROE_hs_siwangxuanpan_zhandou" />
+    <ItemSpec id="102062" name="88000564" icon="ROE_hs_liguixingxing_zhandou" />
+    <ItemSpec id="102063" name="88000565" icon="ROE_hs_guruojintang_zhandou" />
+    <ItemSpec id="102064" name="88000548" icon="ROE_hs_wujinzhihai_zhandou" />
+    <ItemSpec id="102065" name="88000575" icon="ROE_hs_weilehewala_zhandou" />
+    <ItemSpec id="102066" name="88000549" icon="ROE_hs_zhancha_zhandou" />
+    <ItemSpec id="102067" name="88000576" icon="ROE_hs_kuangben_zhandou" />
+    <ItemSpec id="102068" name="88000550" icon="ROE_hs_qibingtuxi_zhandou" />
+    <ItemSpec id="102069" name="88000577" icon="ROE_hs_zhanshoushizhong_zhandou" />
+    <ItemSpec id="102070" name="88000551" icon="ROE_hs_aoxiang_zhandou" />
+    <ItemSpec id="102071" name="88000578" icon="ROE_hs_lizhua_zhandou" />
+    <ItemSpec id="102072" name="88000552" icon="ROE_hs_jingzhunsheji_zhandou" />
+    <ItemSpec id="102074" name="88000553" icon="ROE_hs_handizhe_zhandou" />
+    <ItemSpec id="102076" name="88000563" icon="ROE_hs_tiexiufufeng_zhandou" />
+    <ItemSpec id="102077" name="88000560" icon="ROE_hs_xuegao_zhandou" />
+    <ItemSpec id="102078" name="88000557" icon="ROE_hs_shiquntuxi_zhandou" />
+    <ItemSpec id="102079" name="88000585" icon="ROE_hs_huangquanzhilu_zhandou" />
+    <ItemSpec id="102080" name="88000567" icon="ROE_hs_disha_zhandou" />
+    <ItemSpec id="102081" name="88000566" icon="ROE_hs_chelunzhan_zhandou" />
+    <ItemSpec id="102082" name="88000569" icon="ROE_hs_jijing_zhandou" />
+    <ItemSpec id="102083" name="88000570" icon="ROE_hs_baoyu_zhandou" />
+    <ItemSpec id="102084" name="88000572" icon="ROE_hs_weilediguo_zhandou" />
+    <ItemSpec id="102085" name="88000573" icon="ROE_hs_daojianwuying_zhandou" />
+    <ItemSpec id="102086" name="88000490" icon="ROE_hs_zhengfuzhe_zhandou" />
+    <ItemSpec id="102087" name="88000493" icon="ROE_hs_zuizhongfuchou_zhandou" />
+    <ItemSpec id="102088" name="88000496" icon="ROE_hs_ziyouxuangao_zhandou" />
+    <ItemSpec id="102089" name="88000491" icon="ROE_hs_zhengtu_zhandou" />
+    <ItemSpec id="102090" name="88000494" icon="ROE_hs_chouhenzhihuo_zhandou" />
+    <ItemSpec id="102091" name="88000497" icon="ROE_hs_ziyouzhixing_zhandou" />
+    <ItemSpec id="102092" name="88000492" />
+    <ItemSpec id="102093" name="88000495" />
+    <ItemSpec id="102094" name="88000498" />
+    <ItemSpec id="102101" name="88000554" icon="ROE_hs_xuebeng_zhandou" />
+    <ItemSpec id="102102" name="88000580" icon="ROE_hs_dizhen_zhandou" />
+    <ItemSpec id="102103" name="88000579" icon="ROE_hs_jihuo_zhandou" />
+    <ItemSpec id="102104" name="88000581" icon="ROE_hs_baoxue_zhandou" />
+    <ItemSpec id="102105" name="88000559" icon="ROE_hs_weihezhe_zhandou" />
+    <ItemSpec id="102106" name="88000492" icon="ROE_hs_gebifengbao_junshi" />
+    <ItemSpec id="102107" name="88000495" icon="ROE_hs_tieqijianta_junshi" />
+    <ItemSpec id="102108" name="88000498" icon="ROE_hs_buluozhanqi_junshi" />
+    <ItemSpec id="102109" name="88000722" icon="ROE_hs_wuweizhishi_zhandou" />
+    <ItemSpec id="102110" name="88000728" icon="ROE_hs_gansidui_zhandou" />
+    <ItemSpec id="102111" name="88000725" icon="ROE_hs_buziyouwuningsi_zhandou" />
+    <ItemSpec id="102112" name="88000720" icon="ROE_hs_guli_zhandou" />
+    <ItemSpec id="102113" name="88000723" icon="ROE_hs_xuanyan_zhandou" />
+    <ItemSpec id="102114" name="88000726" icon="ROE_hs_kuaigong_zhandou" />
+    <ItemSpec id="102115" name="88000729" icon="ROE_hs_luoye_zhandou" />
+    <ItemSpec id="102116" name="88000730" icon="ROE_hs_qiufeng_zhandou" />
+    <ItemSpec id="102117" name="88000731" icon="ROE_hs_yulian_zhandou" />
+    <ItemSpec id="102118" name="88000732" icon="ROE_hs_xilizhihuo_zhandou" />
+    <ItemSpec id="102119" name="88000733" icon="ROE_hs_weiya_zhandou" />
+    <ItemSpec id="102120" name="88000734" icon="ROE_hs_tianjiangzhengyi_zhandou" />
+    <ItemSpec id="102121" name="88000735" icon="ROE_hs_buxiushenjiang_zhandou" />
+    <ItemSpec id="102122" name="88000736" icon="ROE_hs_suijia_zhandou" />
+    <ItemSpec id="102123" name="88000737" icon="ROE_hs_changqiangtuxi_zhandou" />
+    <ItemSpec id="102124" name="88000741" icon="ROE_hs_zhengyishenpan_zhandou" />
+    <ItemSpec id="102125" name="88000742" icon="ROE_hs_shuzui_zhandou" />
+    <ItemSpec id="102126" name="88000743" icon="ROE_hs_renxingbene_zhandou" />
+    <ItemSpec id="102127" name="88000744" icon="ROE_hs_mengshouchulong_zhandou" />
+    <ItemSpec id="102128" name="88000745" icon="ROE_hs_baishoubenteng_zhandou" />
+    <ItemSpec id="102129" name="88000746" icon="ROE_hs_kunshouzhidou_zhandou" />
+    <ItemSpec id="102130" name="88000739" icon="ROE_hs_huguoshenyin_zhandou" />
+    <ItemSpec id="102131" name="88000740" icon="ROE_hs_pingluanzhe_zhandou" />
+    <ItemSpec id="102132" name="88000738" icon="ROE_hs_buquzhizhi_zhandou" />
+    <ItemSpec id="102133" name="88000721" icon="ROE_hs_jianshou_zhandou" />
+    <ItemSpec id="102134" name="88000727" icon="ROE_hs_yiqidangqian_zhandou" />
+    <ItemSpec id="102135" name="88000724" icon="ROE_hs_yiwufangu_zhandou" />
+    <ItemSpec id="102136" name="88000916" icon="ROE_hs_wusuzhiren_zhandou" />
+    <ItemSpec id="102137" name="88000917" icon="ROE_hs_weishe_zhandou" />
+    <ItemSpec id="102138" name="88000918" icon="ROE_hs_qinjinqichu_zhandou" />
+    <ItemSpec id="102139" name="88000919" icon="ROE_hs_suoming_zhandou" />
+    <ItemSpec id="102140" name="88000920" icon="ROE_hs_eguipushi_zhandou" />
+    <ItemSpec id="102141" name="88000921" icon="ROE_hs_hunshou_zhandou" />
+    <ItemSpec id="102142" name="88000922" icon="ROE_hs_wuqingliesha_zhandou" />
+    <ItemSpec id="102143" name="88000923" icon="ROE_hs_hujiahuwei_zhandou" />
+    <ItemSpec id="102144" name="88000924" icon="ROE_hs_suohouduanjing_zhandou" />
+    <ItemSpec id="102145" icon="ROE_hs_wanmabengteng_zhandou" />
+    <ItemSpec id="102146" icon="ROE_hs_youmuliangfang_zhandou" />
+    <ItemSpec id="102147" icon="ROE_hs_yuhuizhanshu_zhandou" />
+    <ItemSpec id="102148" icon="ROE_hs_dianguanghuoshi_zhandou" />
+    <ItemSpec id="102149" icon="ROE_hs_qingchaoerchu_zhandou" />
+    <ItemSpec id="102150" icon="ROE_hs_weicheng_zhandou" />
+    <ItemSpec id="102151" icon="ROE_hs_huangyezhinu_zhandou" />
+    <ItemSpec id="102153" icon="ROE_hs_dashanzhihun_zhandou" />
+    <ItemSpec id="102154" icon="ROE_hs_shenlinzhixi_zhandou" />
+    <ItemSpec id="102156" icon="ROE_hs_yezhang_zhandou" />
+    <ItemSpec id="102158" icon="ROE_hs_jilejingtu_zhandou" />
+    <ItemSpec id="102159" icon="ROE_hs_tehuazizaitian_zhandou" />
+    <ItemSpec id="102160" icon="ROE_hs_shengguangshenpan_zhandou" />
+    <ItemSpec id="102161" icon="ROE_hs_tieqiyuanzheng_zhandou" />
+    <ItemSpec id="102163" icon="ROE_hs_shenweijianglin_zhandou" />
+    <ItemSpec id="102164" icon="ROE_hs_tuodaoji_zhandou" />
+    <ItemSpec id="102165" icon="ROE_hs_chixuebaoma_zhandou" />
+    <ItemSpec id="102166" icon="ROE_hs_zhanshenjianglin_zhandou" />
+    <ItemSpec id="102167" icon="ROE_hs_kuaisulianji_zhandou" />
+    <ItemSpec id="102168" icon="ROE_hs_zhanzhengnuhou_zhandou" />
+    <ItemSpec id="102169" icon="ROE_hs_shengdunshenpan_zhandou" />
+    <ItemSpec id="102170" icon="ROE_hs_paibingbuzhen_zhandou" />
+    <ItemSpec id="102171" icon="ROE_hs_wanjianqifa_zhandou" />
+    <ItemSpec id="102172" icon="ROE_hs_shensheshou_zhandou" />
+    <ItemSpec id="102173" icon="ROE_hs_hengchongzhizhuang_zhandou" />
+    <ItemSpec id="102175" icon="ROE_hs_wuyingwuzong_zhandou" />
+    <ItemSpec id="102176" icon="ROE_hs_ziyouwujian_zhandou" />
+    <ItemSpec id="102177" name="88001047" icon="ROE_hs_wujinjiaotu_zhandou" />
+    <ItemSpec id="102178" name="88001048" icon="ROE_hs_jixingjun_zhandou" />
+    <ItemSpec id="102179" name="88001049" icon="ROE_hs_shabao_zhandou" />
+    <ItemSpec id="102180" name="88001050" icon="ROE_hs_damotiewei_zhandou" />
+    <ItemSpec id="102181" name="88001051" icon="ROE_hs_tieqituxi_zhandou" />
+    <ItemSpec id="102182" name="88001052" icon="ROE_hs_miaoshi_zhandou" />
+    <ItemSpec id="102183" name="88001053" icon="ROE_hs_dongtutiehun_zhandou" />
+    <ItemSpec id="102184" name="88001054" icon="ROE_hs_buzaihuitou_zhandou" />
+    <ItemSpec id="102185" name="88001055" icon="ROE_hs_dongxuezhishi_zhandou" />
+    <ItemSpec id="102186" name="88001056" icon="ROE_hs_lianhuntouzhi_zhandou" />
+    <ItemSpec id="102187" name="88001057" icon="ROE_hs_chuanxinzhiji_zhandou" />
+    <ItemSpec id="102188" name="88001058" icon="ROE_hs_yuyingzhuoshi_zhandou" />
+    <ItemSpec id="102189" name="88001060" icon="ROE_hs_buxiuzhanhun_zhandou" />
+    <ItemSpec id="102190" name="88001061" icon="ROE_hs_shaomozhinv_zhandou" />
+    <ItemSpec id="102191" name="88001062" icon="ROE_hs_youquwuhui_zhandou" />
+    <ItemSpec id="102192" name="88001063" icon="ROE_hs_weitian_zhandou" />
+    <ItemSpec id="102193" name="88001064" icon="ROE_hs_weidi_zhandou" />
+    <ItemSpec id="102194" name="88001065" icon="ROE_hs_weimin_zhandou" />
+    <ItemSpec id="102195" name="88001409" icon="ROE_hs_zhongzhang_zhandou" />
+    <ItemSpec id="102196" name="88001410" icon="ROE_hs_xiemu_zhandou" />
+    <ItemSpec id="102197" name="88001408" icon="ROE_hs_kaichang_zhandou" />
+    <ItemSpec id="102198" name="88001413" icon="ROE_hs_shangcidao_zhandou" />
+    <ItemSpec id="102199" name="88001412" icon="ROE_hs_jitikaihuo_zhandou" />
+    <ItemSpec id="102200" name="88001411" icon="ROE_hs_daqijingshen_zhandou" />
+    <ItemSpec id="102201" name="88001414" icon="ROE_hs_yujiaqinzheng_zhandou" />
+    <ItemSpec id="102202" name="88001415" icon="ROE_hs_zhenlongtianjiang_zhandou" />
+    <ItemSpec id="102203" name="88001416" icon="ROE_hs_bumielongwei_zhandou" />
+    <ItemSpec id="102205" name="88001418" icon="ROE_hs_sanliancanghuo_zhandou" />
+    <ItemSpec id="102206" name="88001419" icon="ROE_hs_wanqianliehuo_zhandou" />
+    <ItemSpec id="102207" name="88001422" icon="ROE_hs_dashsifang_zhandou" />
+    <ItemSpec id="102208" name="88001421" icon="ROE_hs_zouni_zhandou" />
+    <ItemSpec id="102209" name="88001420" icon="ROE_hs_shenxianshizu_zhandou" />
+    <ItemSpec id="102210" name="88001423" icon="ROE_hs_shunshouqianyang_zhandou" />
+    <ItemSpec id="102211" name="88001425" icon="ROE_hs_gentamenpinle_zhandou" />
+    <ItemSpec id="102212" name="88001424" icon="ROE_hs_laizhuawoa_zhandou" />
+    <ItemSpec id="102213" name="88001417" icon="ROE_hs_qianbenying_zhandou" />
+    <ItemSpec id="102209" name="88001420" icon="ROE_hs_shenxianshizu_zhandou" />
+
+
+ </Group >
+
+</tns:database>

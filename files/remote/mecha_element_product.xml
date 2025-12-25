@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="mecha_element_product">
+
+    <ItemSpec id="1001" goods_id="217055" consume="2;432|3;887|1;578|0;888" electric="7.5" speed="0.03" ceiling="648" speed_effect="20002" speed_up="1" />
+    <ItemSpec id="1002" goods_id="217056" consume="2;864|3;1774|1;1157|0;1776" electric="7.5" speed="0.015" ceiling="324" speed_effect="20003" speed_up="1" />
+    <ItemSpec id="1003" goods_id="217057" consume="2;1729|3;3550|1;2315|0;3552" electric="7.5" speed="0.0075" ceiling="162" speed_effect="20004"/>
+    <ItemSpec id="1004" goods_id="217058" consume="2;8644|3;17749|1;11575|0;17763" electric="7.5" speed="0.0015" ceiling="33" speed_effect="20005"/>
+    
+
+
+
+
+
+</Group>
+</tns:database>

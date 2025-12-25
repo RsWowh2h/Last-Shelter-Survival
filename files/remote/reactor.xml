@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<Group id="reactor">
+  <ItemSpec id="1010" type="1" cost_lv="1" success="1" result_type="2" result_goods_id="204002"/>
+  <ItemSpec id="1020" type="1" cost_lv="2" success="1" result_type="2" result_goods_id="204003"/>
+  <ItemSpec id="1030" type="1" cost_lv="3" success="1" result_type="2" result_goods_id="204004"/>
+  <ItemSpec id="1040" type="1" cost_lv="4" success="1" result_type="2" result_goods_id="204005"/>
+  <ItemSpec id="1050" type="1" cost_lv="5" success="1" result_type="2" result_goods_id="204006"/>
+  <ItemSpec id="1060" type="1" cost_lv="6" success="1" result_type="2" result_goods_id="204007"/>
+  <ItemSpec id="1070" type="1" cost_lv="7" success="1" result_type="2" result_goods_id="204008"/>
+  <ItemSpec id="1080" type="1" cost_lv="8" success="1" result_type="2" result_goods_id="204009"/>
+  <ItemSpec id="1090" type="1" cost_lv="9" success="1" result_type="2" result_goods_id="204010"/>
+  <ItemSpec id="1100" type="1" cost_lv="10" success="1" result_type="2" result_goods_id="204011"/>
+  <ItemSpec id="1110" type="1" cost_lv="11" success="1" result_type="2" result_goods_id="204012"/>
+  <ItemSpec id="1120" type="1" cost_lv="12" success="1" result_type="2" result_goods_id="204013"/>
+  <ItemSpec id="1130" type="1" cost_lv="13" success="1" result_type="2" result_goods_id="204014"/>
+  <ItemSpec id="1140" type="1" cost_lv="14" success="1" result_type="2" result_goods_id="204015"/>
+  <ItemSpec id="1150" type="1" cost_lv="15" success="1" result_type="2" result_goods_id="204016"/>
+  <ItemSpec id="1160" type="1" cost_lv="16" success="1" result_type="2" result_goods_id="204017"/>
+  <ItemSpec id="1170" type="1" cost_lv="17" success="1" result_type="2" result_goods_id="204018"/>
+  <ItemSpec id="2019" type="2" cost_lv="1" success="0" result_type="5" additional_reward_id="1100501"/>
+  <ItemSpec id="2020" type="2" cost_lv="1" success="0" result_type="3" result_goods_id="204002"/>
+  <ItemSpec id="2021" type="2" cost_lv="1" success="1" result_type="2" result_goods_id="204003"/>
+  <ItemSpec id="2022" type="2" cost_lv="1" success="1" result_type="1" result_goods_id="204003"/>
+  <ItemSpec id="2023" type="2" cost_lv="1" success="1" result_type="1" result_goods_id="204005"/>
+  <ItemSpec id="2024" type="2" cost_lv="1" success="1" result_type="1" result_goods_id="204007"/>
+  <ItemSpec id="2025" type="2" cost_lv="2" success="0" result_type="5" additional_reward_id="1100502"/>
+  <ItemSpec id="2026" type="2" cost_lv="2" success="0" result_type="3" result_goods_id="204003"/>
+  <ItemSpec id="2027" type="2" cost_lv="2" success="1" result_type="2" result_goods_id="204003"/>
+  <ItemSpec id="2028" type="2" cost_lv="2" success="1" result_type="1" result_goods_id="204004"/>
+  <ItemSpec id="2029" type="2" cost_lv="2" success="1" result_type="1" result_goods_id="204006"/>
+  <ItemSpec id="2030" type="2" cost_lv="2" success="1" result_type="1" result_goods_id="204008"/>
+  <ItemSpec id="2031" type="2" cost_lv="3" success="0" result_type="5" additional_reward_id="1100503"/>
+  <ItemSpec id="2032" type="2" cost_lv="3" success="0" result_type="3" result_goods_id="204003"/>
+  <ItemSpec id="2033" type="2" cost_lv="3" success="1" result_type="2" result_goods_id="204004"/>
+  <ItemSpec id="2034" type="2" cost_lv="3" success="1" result_type="1" result_goods_id="204005"/>
+  <ItemSpec id="2035" type="2" cost_lv="3" success="1" result_type="1" result_goods_id="204007"/>
+  <ItemSpec id="2036" type="2" cost_lv="3" success="1" result_type="1" result_goods_id="204009"/>
+  <ItemSpec id="2041" type="2" cost_lv="4" success="0" result_type="5" additional_reward_id="1100504"/>
+  <ItemSpec id="2042" type="2" cost_lv="4" success="0" result_type="3" result_goods_id="204004"/>
+  <ItemSpec id="2043" type="2" cost_lv="4" success="1" result_type="2" result_goods_id="204005"/>
+  <ItemSpec id="2044" type="2" cost_lv="4" success="1" result_type="1" result_goods_id="204006"/>
+  <ItemSpec id="2045" type="2" cost_lv="4" success="1" result_type="1" result_goods_id="204008"/>
+  <ItemSpec id="2046" type="2" cost_lv="4" success="1" result_type="1" result_goods_id="204010"/>
+  <ItemSpec id="2051" type="2" cost_lv="5" success="0" result_type="5" additional_reward_id="1100505"/>
+  <ItemSpec id="2052" type="2" cost_lv="5" success="0" result_type="3" result_goods_id="204005"/>
+  <ItemSpec id="2053" type="2" cost_lv="5" success="1" result_type="2" result_goods_id="204006"/>
+  <ItemSpec id="2054" type="2" cost_lv="5" success="1" result_type="1" result_goods_id="204007"/>
+  <ItemSpec id="2055" type="2" cost_lv="5" success="1" result_type="1" result_goods_id="204009"/>
+  <ItemSpec id="2056" type="2" cost_lv="5" success="1" result_type="1" result_goods_id="204011"/>
+  <ItemSpec id="2061" type="2" cost_lv="6" success="0" result_type="5" additional_reward_id="1100506"/>
+  <ItemSpec id="2062" type="2" cost_lv="6" success="0" result_type="3" result_goods_id="204006"/>
+  <ItemSpec id="2063" type="2" cost_lv="6" success="1" result_type="2" result_goods_id="204007"/>
+  <ItemSpec id="2064" type="2" cost_lv="6" success="1" result_type="1" result_goods_id="204008"/>
+  <ItemSpec id="2065" type="2" cost_lv="6" success="1" result_type="1" result_goods_id="204010"/>
+  <ItemSpec id="2066" type="2" cost_lv="6" success="1" result_type="1" result_goods_id="204012"/>
+  <ItemSpec id="2071" type="2" cost_lv="7" success="0" result_type="5" additional_reward_id="1100507"/>
+  <ItemSpec id="2072" type="2" cost_lv="7" success="0" result_type="3" result_goods_id="204007"/>
+  <ItemSpec id="2073" type="2" cost_lv="7" success="1" result_type="2" result_goods_id="204008"/>
+  <ItemSpec id="2074" type="2" cost_lv="7" success="1" result_type="1" result_goods_id="204009"/>
+  <ItemSpec id="2075" type="2" cost_lv="7" success="1" result_type="1" result_goods_id="204011"/>
+  <ItemSpec id="2076" type="2" cost_lv="7" success="1" result_type="1" result_goods_id="204013"/>
+  <ItemSpec id="2081" type="2" cost_lv="8" success="0" result_type="5" additional_reward_id="1100508"/>
+  <ItemSpec id="2082" type="2" cost_lv="8" success="0" result_type="3" result_goods_id="204008"/>
+  <ItemSpec id="2083" type="2" cost_lv="8" success="1" result_type="2" result_goods_id="204009"/>
+  <ItemSpec id="2084" type="2" cost_lv="8" success="1" result_type="1" result_goods_id="204010"/>
+  <ItemSpec id="2085" type="2" cost_lv="8" success="1" result_type="1" result_goods_id="204012"/>
+  <ItemSpec id="2086" type="2" cost_lv="8" success="1" result_type="1" result_goods_id="204014"/>
+  <ItemSpec id="2091" type="2" cost_lv="9" success="0" result_type="5" additional_reward_id="1100509"/>
+  <ItemSpec id="2092" type="2" cost_lv="9" success="0" result_type="3" result_goods_id="204009"/>
+  <ItemSpec id="2093" type="2" cost_lv="9" success="1" result_type="2" result_goods_id="204010"/>
+  <ItemSpec id="2094" type="2" cost_lv="9" success="1" result_type="1" result_goods_id="204011"/>
+  <ItemSpec id="2095" type="2" cost_lv="9" success="1" result_type="1" result_goods_id="204013"/>
+  <ItemSpec id="2096" type="2" cost_lv="9" success="1" result_type="1" result_goods_id="204015"/>
+  <ItemSpec id="2101" type="2" cost_lv="10" success="0" result_type="5" additional_reward_id="1100510"/>
+  <ItemSpec id="2102" type="2" cost_lv="10" success="0" result_type="3" result_goods_id="204010"/>
+  <ItemSpec id="2103" type="2" cost_lv="10" success="1" result_type="2" result_goods_id="204011"/>
+  <ItemSpec id="2104" type="2" cost_lv="10" success="1" result_type="1" result_goods_id="204012"/>
+  <ItemSpec id="2105" type="2" cost_lv="10" success="1" result_type="1" result_goods_id="204014"/>
+  <ItemSpec id="2106" type="2" cost_lv="10" success="1" result_type="1" result_goods_id="204016"/>
+  <ItemSpec id="2111" type="2" cost_lv="11" success="0" result_type="5" additional_reward_id="1100511"/>
+  <ItemSpec id="2112" type="2" cost_lv="11" success="0" result_type="3" result_goods_id="204011"/>
+  <ItemSpec id="2113" type="2" cost_lv="11" success="1" result_type="2" result_goods_id="204012"/>
+  <ItemSpec id="2114" type="2" cost_lv="11" success="1" result_type="1" result_goods_id="204013"/>
+  <ItemSpec id="2115" type="2" cost_lv="11" success="1" result_type="1" result_goods_id="204015"/>
+  <ItemSpec id="2116" type="2" cost_lv="11" success="1" result_type="1" result_goods_id="204017"/>
+  <ItemSpec id="2121" type="2" cost_lv="12" success="0" result_type="5" additional_reward_id="1100512"/>
+  <ItemSpec id="2122" type="2" cost_lv="12" success="0" result_type="3" result_goods_id="204012"/>
+  <ItemSpec id="2123" type="2" cost_lv="12" success="1" result_type="2" result_goods_id="204013"/>
+  <ItemSpec id="2124" type="2" cost_lv="12" success="1" result_type="1" result_goods_id="204014"/>
+  <ItemSpec id="2126" type="2" cost_lv="12" success="1" result_type="1" result_goods_id="204016"/>
+  <ItemSpec id="2125" type="2" cost_lv="12" success="1" result_type="1" result_goods_id="204018"/>
+  <ItemSpec id="2130" type="2" cost_lv="13" success="1" result_type="2" result_goods_id="204014"/>
+  <ItemSpec id="2140" type="2" cost_lv="14" success="1" result_type="2" result_goods_id="204015"/>
+  <ItemSpec id="2150" type="2" cost_lv="15" success="1" result_type="2" result_goods_id="204016"/>
+  <ItemSpec id="2160" type="2" cost_lv="16" success="1" result_type="2" result_goods_id="204017"/>
+  <ItemSpec id="2170" type="2" cost_lv="17" success="1" result_type="2" result_goods_id="204018"/>
+  <ItemSpec id="3031" type="3" cost_lv="3" success="0" result_type="4" result_goods_id="204002" additional_reward_id="1100603"/>
+  <ItemSpec id="3032" type="3" cost_lv="3" success="1" result_type="3" result_goods_id="204003" additional_goods_id="204002"/>
+  <ItemSpec id="3033" type="3" cost_lv="3" success="1" result_type="2" result_goods_id="204004"/>
+  <ItemSpec id="3034" type="3" cost_lv="3" success="1" result_type="1" result_goods_id="204006"/>
+  <ItemSpec id="3041" type="3" cost_lv="4" success="0" result_type="4" result_goods_id="204002" additional_reward_id="1100604"/>
+  <ItemSpec id="3042" type="3" cost_lv="4" success="1" result_type="3" result_goods_id="204004" additional_goods_id="204003"/>
+  <ItemSpec id="3043" type="3" cost_lv="4" success="1" result_type="2" result_goods_id="204005"/>
+  <ItemSpec id="3044" type="3" cost_lv="4" success="1" result_type="1" result_goods_id="204007"/>
+  <ItemSpec id="3051" type="3" cost_lv="5" success="0" result_type="4" result_goods_id="204002" additional_reward_id="1100605"/>
+  <ItemSpec id="3052" type="3" cost_lv="5" success="1" result_type="3" result_goods_id="204005" additional_goods_id="204003"/>
+  <ItemSpec id="3053" type="3" cost_lv="5" success="1" result_type="2" result_goods_id="204006"/>
+  <ItemSpec id="3054" type="3" cost_lv="5" success="1" result_type="1" result_goods_id="204008"/>
+  <ItemSpec id="3061" type="3" cost_lv="6" success="0" result_type="4" result_goods_id="204002" additional_reward_id="1100606"/>
+  <ItemSpec id="3062" type="3" cost_lv="6" success="1" result_type="3" result_goods_id="204006" additional_goods_id="204004"/>
+  <ItemSpec id="3063" type="3" cost_lv="6" success="1" result_type="2" result_goods_id="204007"/>
+  <ItemSpec id="3064" type="3" cost_lv="6" success="1" result_type="1" result_goods_id="204009"/>
+  <ItemSpec id="3071" type="3" cost_lv="7" success="0" result_type="4" result_goods_id="204003" additional_reward_id="1100607"/>
+  <ItemSpec id="3072" type="3" cost_lv="7" success="1" result_type="3" result_goods_id="204007" additional_goods_id="204005"/>
+  <ItemSpec id="3073" type="3" cost_lv="7" success="1" result_type="2" result_goods_id="204008"/>
+  <ItemSpec id="3074" type="3" cost_lv="7" success="1" result_type="1" result_goods_id="204010"/>
+  <ItemSpec id="3081" type="3" cost_lv="8" success="0" result_type="4" result_goods_id="204003" additional_reward_id="1100608"/>
+  <ItemSpec id="3082" type="3" cost_lv="8" success="1" result_type="3" result_goods_id="204008" additional_goods_id="204006"/>
+  <ItemSpec id="3083" type="3" cost_lv="8" success="1" result_type="2" result_goods_id="204009"/>
+  <ItemSpec id="3084" type="3" cost_lv="8" success="1" result_type="1" result_goods_id="204011"/>
+  <ItemSpec id="3091" type="3" cost_lv="9" success="0" result_type="4" result_goods_id="204003" additional_reward_id="1100609"/>
+  <ItemSpec id="3092" type="3" cost_lv="9" success="1" result_type="3" result_goods_id="204009" additional_goods_id="204007"/>
+  <ItemSpec id="3093" type="3" cost_lv="9" success="1" result_type="2" result_goods_id="204010"/>
+  <ItemSpec id="3094" type="3" cost_lv="9" success="1" result_type="1" result_goods_id="204012"/>
+  <ItemSpec id="3101" type="3" cost_lv="10" success="0" result_type="4" result_goods_id="204004" additional_reward_id="1100610"/>
+  <ItemSpec id="3102" type="3" cost_lv="10" success="1" result_type="3" result_goods_id="204010" additional_goods_id="204008"/>
+  <ItemSpec id="3103" type="3" cost_lv="10" success="1" result_type="2" result_goods_id="204011"/>
+  <ItemSpec id="3104" type="3" cost_lv="10" success="1" result_type="1" result_goods_id="204013"/>
+  <ItemSpec id="3111" type="3" cost_lv="11" success="0" result_type="4" result_goods_id="204005" additional_reward_id="1100611"/>
+  <ItemSpec id="3112" type="3" cost_lv="11" success="1" result_type="3" result_goods_id="204011" additional_goods_id="204009"/>
+  <ItemSpec id="3113" type="3" cost_lv="11" success="1" result_type="2" result_goods_id="204012"/>
+  <ItemSpec id="3114" type="3" cost_lv="11" success="1" result_type="1" result_goods_id="204014"/>
+  <ItemSpec id="3121" type="3" cost_lv="12" success="0" result_type="4" result_goods_id="204006" additional_reward_id="1100612"/>
+  <ItemSpec id="3122" type="3" cost_lv="12" success="1" result_type="3" result_goods_id="204012" additional_goods_id="204010"/>
+  <ItemSpec id="3123" type="3" cost_lv="12" success="1" result_type="2" result_goods_id="204013"/>
+  <ItemSpec id="3124" type="3" cost_lv="12" success="1" result_type="1" result_goods_id="204015"/>
+  <ItemSpec id="3131" type="3" cost_lv="13" success="0" result_type="4" result_goods_id="204007" additional_reward_id="1100613"/>
+  <ItemSpec id="3132" type="3" cost_lv="13" success="1" result_type="3" result_goods_id="204013" additional_goods_id="204011"/>
+  <ItemSpec id="3133" type="3" cost_lv="13" success="1" result_type="2" result_goods_id="204014"/>
+  <ItemSpec id="3134" type="3" cost_lv="13" success="1" result_type="1" result_goods_id="204016"/>
+  <ItemSpec id="3141" type="3" cost_lv="14" success="0" result_type="4" result_goods_id="204008" additional_reward_id="1100614"/>
+  <ItemSpec id="3142" type="3" cost_lv="14" success="1" result_type="3" result_goods_id="204014" additional_goods_id="204012"/>
+  <ItemSpec id="3143" type="3" cost_lv="14" success="1" result_type="2" result_goods_id="204015"/>
+  <ItemSpec id="3144" type="3" cost_lv="14" success="1" result_type="1" result_goods_id="204017"/>
+  <ItemSpec id="3151" type="3" cost_lv="15" success="0" result_type="4" result_goods_id="204009" additional_reward_id="1100615"/>
+  <ItemSpec id="3152" type="3" cost_lv="15" success="1" result_type="3" result_goods_id="204015" additional_goods_id="204013"/>
+  <ItemSpec id="3153" type="3" cost_lv="15" success="1" result_type="2" result_goods_id="204016"/>
+  <ItemSpec id="3154" type="3" cost_lv="15" success="1" result_type="1" result_goods_id="204018"/>
+  <ItemSpec id="3161" type="3" cost_lv="16" success="0" result_type="4" result_goods_id="204010" additional_reward_id="1100616"/>
+  <ItemSpec id="3162" type="3" cost_lv="16" success="1" result_type="3" result_goods_id="204016" additional_goods_id="204014"/>
+  <ItemSpec id="3163" type="3" cost_lv="16" success="1" result_type="2" result_goods_id="204017"/>
+  <ItemSpec id="3164" type="3" cost_lv="16" success="1" result_type="1" result_goods_id="204018"/>
+  <ItemSpec id="3171" type="3" cost_lv="17" success="0" result_type="4" result_goods_id="204011" additional_reward_id="1100617"/>
+  <ItemSpec id="3172" type="3" cost_lv="17" success="1" result_type="3" result_goods_id="204017" additional_goods_id="204015"/>
+  <ItemSpec id="3173" type="3" cost_lv="17" success="1" result_type="2" result_goods_id="204018"/>
+  <ItemSpec id="4020" type="4" cost_lv="2" success="1" result_type="4" result_goods_id="204001"/>
+  <ItemSpec id="4030" type="4" cost_lv="3" success="1" result_type="4" result_goods_id="204002"/>
+  <ItemSpec id="4040" type="4" cost_lv="4" success="1" result_type="4" result_goods_id="204003"/>
+  <ItemSpec id="4050" type="4" cost_lv="5" success="1" result_type="4" result_goods_id="204004"/>
+  <ItemSpec id="4060" type="4" cost_lv="6" success="1" result_type="4" result_goods_id="204005"/>
+  <ItemSpec id="4070" type="4" cost_lv="7" success="1" result_type="4" result_goods_id="204006"/>
+  <ItemSpec id="4080" type="4" cost_lv="8" success="1" result_type="4" result_goods_id="204007"/>
+  <ItemSpec id="4090" type="4" cost_lv="9" success="1" result_type="4" result_goods_id="204008"/>
+  <ItemSpec id="4100" type="4" cost_lv="10" success="1" result_type="4" result_goods_id="204009"/>
+  <ItemSpec id="4110" type="4" cost_lv="11" success="1" result_type="4" result_goods_id="204010"/>
+  <ItemSpec id="4120" type="4" cost_lv="12" success="1" result_type="4" result_goods_id="204011"/>
+  <ItemSpec id="4130" type="4" cost_lv="13" success="1" result_type="4" result_goods_id="204012"/>
+  <ItemSpec id="4140" type="4" cost_lv="14" success="1" result_type="4" result_goods_id="204013"/>
+  <ItemSpec id="4150" type="4" cost_lv="15" success="1" result_type="4" result_goods_id="204014"/>
+  <ItemSpec id="4160" type="4" cost_lv="16" success="1" result_type="4" result_goods_id="204015"/>
+  <ItemSpec id="4170" type="4" cost_lv="17" success="1" result_type="4" result_goods_id="204016"/>
+  <ItemSpec id="4180" type="4" cost_lv="18" success="1" result_type="4" result_goods_id="204017"/>
+  <ItemSpec id="5030" type="5" cost_lv="3" success="0" result_type="4" result_goods_id="204002" additional_reward_id="1100703"/>
+  <ItemSpec id="5032" type="5" cost_lv="3" success="1" result_type="3" result_goods_id="204003" additional_goods_id="204002"/>
+  <ItemSpec id="5033" type="5" cost_lv="3" success="1" result_type="2" result_goods_id="204004"/>
+  <ItemSpec id="5034" type="5" cost_lv="3" success="1" result_type="1" result_goods_id="204006"/>
+  <ItemSpec id="5035" type="5" cost_lv="3" success="1" result_type="1" result_goods_id="204008"/>
+  <ItemSpec id="5040" type="5" cost_lv="4" success="0" result_type="4" result_goods_id="204002" additional_reward_id="1100704"/>
+  <ItemSpec id="5042" type="5" cost_lv="4" success="1" result_type="3" result_goods_id="204004" additional_goods_id="204003"/>
+  <ItemSpec id="5043" type="5" cost_lv="4" success="1" result_type="2" result_goods_id="204005"/>
+  <ItemSpec id="5044" type="5" cost_lv="4" success="1" result_type="1" result_goods_id="204007"/>
+  <ItemSpec id="5045" type="5" cost_lv="4" success="1" result_type="1" result_goods_id="204009"/>
+  <ItemSpec id="5050" type="5" cost_lv="5" success="0" result_type="4" result_goods_id="204002" additional_reward_id="1100705"/>
+  <ItemSpec id="5052" type="5" cost_lv="5" success="1" result_type="3" result_goods_id="204005" additional_goods_id="204004"/>
+  <ItemSpec id="5053" type="5" cost_lv="5" success="1" result_type="2" result_goods_id="204006"/>
+  <ItemSpec id="5054" type="5" cost_lv="5" success="1" result_type="1" result_goods_id="204008"/>
+  <ItemSpec id="5055" type="5" cost_lv="5" success="1" result_type="1" result_goods_id="204010"/>
+  <ItemSpec id="5060" type="5" cost_lv="6" success="0" result_type="4" result_goods_id="204003" additional_reward_id="1100706"/>
+  <ItemSpec id="5062" type="5" cost_lv="6" success="1" result_type="3" result_goods_id="204006" additional_goods_id="204005"/>
+  <ItemSpec id="5063" type="5" cost_lv="6" success="1" result_type="2" result_goods_id="204007"/>
+  <ItemSpec id="5064" type="5" cost_lv="6" success="1" result_type="1" result_goods_id="204009"/>
+  <ItemSpec id="5065" type="5" cost_lv="6" success="1" result_type="1" result_goods_id="204011"/>
+  <ItemSpec id="5070" type="5" cost_lv="7" success="0" result_type="4" result_goods_id="204003" additional_reward_id="1100707"/>
+  <ItemSpec id="5072" type="5" cost_lv="7" success="1" result_type="3" result_goods_id="204007" additional_goods_id="204006"/>
+  <ItemSpec id="5073" type="5" cost_lv="7" success="1" result_type="2" result_goods_id="204008"/>
+  <ItemSpec id="5074" type="5" cost_lv="7" success="1" result_type="1" result_goods_id="204010"/>
+  <ItemSpec id="5075" type="5" cost_lv="7" success="1" result_type="1" result_goods_id="204012"/>
+  <ItemSpec id="5080" type="5" cost_lv="8" success="0" result_type="4" result_goods_id="204004" additional_reward_id="1100708"/>
+  <ItemSpec id="5082" type="5" cost_lv="8" success="1" result_type="3" result_goods_id="204008" additional_goods_id="204007"/>
+  <ItemSpec id="5083" type="5" cost_lv="8" success="1" result_type="2" result_goods_id="204009"/>
+  <ItemSpec id="5084" type="5" cost_lv="8" success="1" result_type="1" result_goods_id="204011"/>
+  <ItemSpec id="5085" type="5" cost_lv="8" success="1" result_type="1" result_goods_id="204013"/>
+  <ItemSpec id="5090" type="5" cost_lv="9" success="0" result_type="4" result_goods_id="204005" additional_reward_id="1100709"/>
+  <ItemSpec id="5092" type="5" cost_lv="9" success="1" result_type="3" result_goods_id="204009" additional_goods_id="204008"/>
+  <ItemSpec id="5093" type="5" cost_lv="9" success="1" result_type="2" result_goods_id="204010"/>
+  <ItemSpec id="5094" type="5" cost_lv="9" success="1" result_type="1" result_goods_id="204012"/>
+  <ItemSpec id="5095" type="5" cost_lv="9" success="1" result_type="1" result_goods_id="204014"/>
+  <ItemSpec id="5100" type="5" cost_lv="10" success="0" result_type="4" result_goods_id="204006" additional_reward_id="1100710"/>
+  <ItemSpec id="5102" type="5" cost_lv="10" success="1" result_type="3" result_goods_id="204010" additional_goods_id="204009"/>
+  <ItemSpec id="5103" type="5" cost_lv="10" success="1" result_type="2" result_goods_id="204011"/>
+  <ItemSpec id="5104" type="5" cost_lv="10" success="1" result_type="1" result_goods_id="204013"/>
+  <ItemSpec id="5105" type="5" cost_lv="10" success="1" result_type="1" result_goods_id="204015"/>
+  <ItemSpec id="5110" type="5" cost_lv="11" success="0" result_type="4" result_goods_id="204007" additional_reward_id="1100711"/>
+  <ItemSpec id="5112" type="5" cost_lv="11" success="1" result_type="3" result_goods_id="204011" additional_goods_id="204010"/>
+  <ItemSpec id="5113" type="5" cost_lv="11" success="1" result_type="2" result_goods_id="204012"/>
+  <ItemSpec id="5114" type="5" cost_lv="11" success="1" result_type="1" result_goods_id="204014"/>
+  <ItemSpec id="5115" type="5" cost_lv="11" success="1" result_type="1" result_goods_id="204016"/>
+  <ItemSpec id="5120" type="5" cost_lv="12" success="0" result_type="4" result_goods_id="204008" additional_reward_id="1100712"/>
+  <ItemSpec id="5122" type="5" cost_lv="12" success="1" result_type="3" result_goods_id="204012" additional_goods_id="204011"/>
+  <ItemSpec id="5123" type="5" cost_lv="12" success="1" result_type="2" result_goods_id="204013"/>
+  <ItemSpec id="5124" type="5" cost_lv="12" success="1" result_type="1" result_goods_id="204015"/>
+  <ItemSpec id="5125" type="5" cost_lv="12" success="1" result_type="1" result_goods_id="204017"/>
+</Group>
+
+</tns:database>

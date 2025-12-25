@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="trailer_content">
+    <!--大师科技-->
+    <ItemSpec id="1001" content="110556020" title="181009|193077" key="110556067|110556068" pic="Icon_ResearchCenter_Dashijijunshi|Icon_ResearchCenter_Dashijichengfang" />
+    <!--粒子重构-->
+    <ItemSpec id="1002" content="110556022" title="110040276|110556023|113377|88004164|88003262" key="110253039|110556024|113377|88004165|110556025" pic="yugao_huopunisi|yugao_yingxiongnengli|juhejingti|baxiangjingti|xingmang" />
+    <!--毒刃号-->
+    <ItemSpec id="1003" content="88001561" title="111002041|88001562" key="110556026|88001568" pic="durenhao|chaojinengyuanhexin" />
+    <!--战略尖兵-->
+    <ItemSpec id="1004" content="110022250" title="110556027|110556031|110022146" key="110556028|110556032|110556033" pic="zhanluejianbing|yugao_kejizhuanjing|zhanzhengxunzhang" />
+    <!--T10级兵-->
+    <ItemSpec id="1005" content="110556034" title="110556035|110556037" key="110556036|110556038" pic="shengjishibing|shuxingtisheng" />
+    <!--英雄装备升星-->
+    <ItemSpec id="1006" content="110556041" title="110556039" key="110556040" pic="zhuangbeixingji" />
+    <!--兵种专精-->
+    <ItemSpec id="1007" content="111001001" title="110556042|111001476" key="110556043|111001477" pic="bingzhongzhuanjing|zhuanjingchengxu" />
+    <!--毒刃号强化-->
+    <ItemSpec id="1008" content="110022431" title="110556027" key="110556044" pic="durenhaoqianghua" />
+    <!--X赛季新英雄-->
+    <ItemSpec id="1009" content="110556045" title="88000933" key="110556046" pic="xyingxiong" />
+    <!--机甲-->
+    <ItemSpec id="1010" content="209749" title="110240016|110240019|110240021|209008" key="110240017|110556047|110556048|110556049" pic="jijiajianzhu|yugao_jijia|yugao_haimudaer|yuanjian" />
+    <!--新科技·现代战争-->
+    <ItemSpec id="1011" content="110556050" title="201367|201368" key="110556051|110556052" pic="xiandaijunshi|xiandaichengfang" />
+    <!--30级开放-->
+    <ItemSpec id="1012" content="110556053" title="110556054|212068" key="110556055|212071" pic="yugao_30jijidi|taikuang" />
+    <!--T11-->
+    <ItemSpec id="1013" content="110556056" title="110556037|110400006" key="110556057|110400007" pic="shuxingtisheng|taikuang" />
+    <!--昨日科技-->
+    <ItemSpec id="1014" content="110250085" title="110010487|212079" key="110010625|110556058" pic="zuorikejiyanjiusuo|shoubeifangan" />
+    <!--毒刃号改造-->
+    <ItemSpec id="1015" content="110556059" title="110550001|110550002|110556062" key="110556060|110556061|110556063" pic="yugao_taihejinqianghua|yugao_dongliwuzhuang|yugao_30jixiaochou" />
+    <!--新科技·军事指挥-->
+    <ItemSpec id="1016" content="110345001" title="110556027" key="110556064" pic="shengcungailiang" />
+    <ItemSpec id="1017" content="110345039" title="110556027" key="110556064" pic="xiandaijunshi" />
+
+
+  </Group>
+  
+  <Group id="trailer">
+    <!--功能预告-->
+      <!--S4赛季预告-->  
+  <ItemSpec id="57806" type="176" season_story="110556103" content_id="1007"/>
+
+
+  </Group>
+</tns:database>

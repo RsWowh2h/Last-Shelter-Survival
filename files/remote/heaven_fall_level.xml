@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<Group id="heaven_fall_level">
+
+		<!--苍穹之陨-->
+
+		<ItemSpec id="1001" num="4" goal="goal_1" source_id="12;2|21;1|22;1" name="110810218"/>
+		<ItemSpec id="1002" num="5" goal="goal_2" source_id="13;2|21;2|23;1" name="110810219"/>
+		<ItemSpec id="1003" num="6" goal="goal_3" source_id="21;1|22;1|23;2|31;2" name="110810220"/>
+		<ItemSpec id="1004" num="7" goal="goal_4" source_id="12;1|14;2|22;2|32;1|33;1" name="110810221"/>
+		<ItemSpec id="1005" num="8" goal="goal_5" source_id="14;2|21;2|23;1|13;2|33;1" name="110810222"/>
+
+ 
+    </Group>
+
+	<Group id="heaven_fall_source">
+		<ItemSpec id="12" horizontal="1" vertical="2" icon="12_icon" decoration="12_decoration"/>
+		<ItemSpec id="13" horizontal="1" vertical="3" icon="13_icon" decoration="13_decoration"/>
+		<ItemSpec id="14" horizontal="1" vertical="4" icon="14_icon" decoration="14_decoration"/>
+		<ItemSpec id="21" horizontal="2" vertical="1" icon="21_icon" decoration="21_decoration"/>
+		<ItemSpec id="22" horizontal="2" vertical="2" icon="22_icon" decoration="22_decoration"/>
+		<ItemSpec id="23" horizontal="2" vertical="3" icon="23_icon" decoration="23_decoration"/>
+		<ItemSpec id="31" horizontal="3" vertical="1" icon="31_icon" decoration="31_decoration"/>
+		<ItemSpec id="32" horizontal="3" vertical="2" icon="32_icon" decoration="32_decoration"/>
+		<ItemSpec id="33" horizontal="3" vertical="3" icon="33_icon" decoration="33_decoration"/>
+	</Group>
+</tns:database>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="activityZone">
+
+    <ItemSpec id="3" zoneType="2" activityType="4" activityPara1="28" pic="spineFuLiZhongXin" name="87005000" order="1" isCity="1" unlockType="1" unlockPara1="3"/>
+    <ItemSpec id="2" zoneType="2" activityType="4" activityPara1="15" name="133000" order="2" isCity="1" unlockType="1" unlockPara1="6"/>
+    <ItemSpec id="1002" zoneType="2" activityType="4" activityPara1="66" pic="ui_Signin_icon03" name="110490001" order="5" isCity="1" unlockType="1" unlockPara1="5"/>
+    <ItemSpec id="50036" zoneType="2" activityType="4" activityPara1="43" pic="spineFirstDayAct" name="110028101" order="1" isCity="3" unlockType="1" unlockPara1="3" offset="0;20" scale="1"/>
+    <ItemSpec id="1" zoneType="1" activityType="4" activityPara1="101" pic="activity_icon_tequan" name="110541006" order="5" isCircle="2" isCity="1" unlockType="1" unlockPara1="4"/>
+    <ItemSpec id="4" zoneType="1" activityType="4" activityPara1="103" activityPara2="3" pic="spineActPaymentChainsIcon" name="110492038" order="6" isCity="3" unlockType="1" unlockPara1="4" offset="0;20"/>
+    <ItemSpec id="5" zoneType="1" activityType="1" activityPara1="230721201" name="110223342" order="1" isCity="3"/>
+    <ItemSpec id="6" zoneType="1" activityType="1" activityPara1="230523085" name="110270355" order="2" isCity="3"/>
+    <ItemSpec id="1001" zoneType="1" activityType="4" activityPara1="102" activityPara2="2" pic="spineChoose3Of1Icon" name="110490001" order="7" isCity="3" unlockType="1" unlockPara1="4" offset="3;0" scale="0.8"/>
+    <ItemSpec id="1003" zoneType="1" activityType="4" activityPara1="64" pic="ui_Signin_icon02" name="110481508" order="8" isCity="3" unlockType="1" unlockPara1="4"/>
+    <ItemSpec id="3001" zoneType="1" activityType="1" activityPara1="221220014" pic="ui_qingdian_icon01|ui_qingdian_icon02" name="90460129" group="2" order="3" isCity="3"/>
+    <ItemSpec id="3002" zoneType="1" activityType="1" activityPara1="230227301" pic="ui_qingdian_icon02" name="90460129" group="2" order="3" isCity="3" unlockType="1" unlockPara1="4"/>
+    <ItemSpec id="3003" zoneType="1" activityType="2" activityPara1="77" pic="top_bp_icon02" name="110293001" order="3" isCity="3" unlockType="1" unlockPara1="4"/>
+    <ItemSpec id="3004" zoneType="1" activityType="1" activityPara1="220719001" pic="FBnewBuilding22" name="110270001" order="4" isCircle="2" isCity="3" unlockType="1" unlockPara1="3" offset="0;25" scale="1"/>
+
+
+    </Group>
+
+</tns:database>

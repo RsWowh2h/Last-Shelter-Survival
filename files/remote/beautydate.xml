@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="beautydate">
+    <ItemSpec id="1" beautyid="1000100" question="236115" answer="236116;236123|236117;236124|236118;236125" answernumber="3"/>
+    <ItemSpec id="2" beautyid="1000100" question="236119" answer="236120;236126|236121;236127|236122;236128" answernumber="1"/>
+
+
+
+    </Group> 
+
+</tns:database>

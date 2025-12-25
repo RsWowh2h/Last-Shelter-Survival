@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	    <Group id="help_link">
+
+		<ItemSpec id="45200" help_id="464" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45201" group="1" el_id="8003" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45202" help_id="467" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45203" help_id="468" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45204" help_id="336" el_id="2741" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45205" help_id="144" group="1" el_id="2740" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45206" help_id="269" el_id="1848" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45207" help_id="269" el_id="1848" column_id="146" column_cn_id="147"/>
+
+		<ItemSpec id="45208" help_id="289" el_id="1838" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45209" help_id="330" el_id="1849" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45210" help_id="331" el_id="2347" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45211" help_id="332" el_id="2437" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45212" help_id="333" group="1" el_id="9082" entranceId="E051" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45213" help_id="334" el_id="2739" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45214" help_id="291" el_id="1847" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45216" help_id="337" el_id="2744" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45217" el_id="4238" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45218" el_id="5584" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45219" el_id="5840" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45220" el_id="10792" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45221" el_id="10450" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45223" el_id="9828" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45224" el_id="14248" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45226" help_id="15159" el_id="15159" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45288" el_id="65619" column_id="146" column_cn_id="147"/>
+
+
+		<ItemSpec id="45227" el_id="15186" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45228" el_id="15187" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45229" el_id="15186" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45230" el_id="15656" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45231" el_id="15707" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45232" el_id="15196" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45233" el_id="16988" column_id="146" column_cn_id="147"/>
+
+        <ItemSpec id="45234" el_id="18259" column_id="146" column_cn_id="147"/>
+ 	    <ItemSpec id="45235" el_id="18915" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45236" el_id="19641" column_id="146" column_cn_id="147"/>
+	    <ItemSpec id="45237" el_id="20216" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45238" el_id="37546" entranceId="E010" artical_cn_id="377606"/>
+        <ItemSpec id="45239" el_id="21496" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45240" el_id="20720" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45241" el_id="20843" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45242" group="1" el_id="7468" entranceId="E011" column_id="146" column_cn_id="147"/>
+	    <ItemSpec id="45243" el_id="23488" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45244" el_id="24940" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45245" el_id="25164" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45251" group="1" el_id="6429" entranceId="E012" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45253" group="1" el_id="6389" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45252" el_id="34112" entranceId="E013" artical_id="374223" artical_cn_id="377485"/>
+		<ItemSpec id="45254" el_id="35316" entranceId="E014" artical_id="374237" artical_cn_id="377489"/>
+		<ItemSpec id="45255" el_id="34983" entranceId="E015" artical_id="374175" artical_cn_id="377469"/>
+		<ItemSpec id="45256" el_id="35294" entranceId="E016" artical_id="374115" artical_cn_id="377447"/>
+		<ItemSpec id="45257" el_id="35293" entranceId="E017" artical_id="374123" artical_cn_id="377448"/>
+		<ItemSpec id="45258" el_id="35292" entranceId="E018" artical_id="374137" artical_cn_id="377449"/>
+		<ItemSpec id="45259" el_id="35291" entranceId="E019" artical_id="374154" artical_cn_id="377450"/>
+		<ItemSpec id="45260" el_id="35290" entranceId="E020" artical_id="374159" artical_cn_id="377452"/>
+		<ItemSpec id="45261" el_id="35289" entranceId="E021" artical_id="374162" artical_cn_id="377468"/>
+		<ItemSpec id="45262" el_id="32013" entranceId="E022" artical_id="374186" artical_cn_id="377470"/>
+		<ItemSpec id="45263" group="1" el_id="7498" entranceId="E023" artical_id="365154" artical_cn_id="366602"/>
+		<ItemSpec id="45264" group="1" el_id="7501" entranceId="E024" artical_id="364839" artical_cn_id="366645"/>
+		<ItemSpec id="45265" el_id="36651" entranceId="E025" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45269" el_id="8003" entranceId="E009" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45270" group="1" el_id="6430" entranceId="E026" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45271" group="1" el_id="12220" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45272" el_id="43269" entranceId="E027" artical_id="364430" artical_cn_id="366434"/>
+		<ItemSpec id="45273" el_id="43270" entranceId="E028" artical_id="364463" artical_cn_id="366428"/>
+        
+        <ItemSpec id="45274" el_id="44526" entranceId="E029" artical_id="374559" artical_cn_id="377550"/>
+        <ItemSpec id="45275" el_id="45497" entranceId="E030" artical_id="365008" artical_cn_id="366492"/>
+        <ItemSpec id="45276" group="1" el_id="8766" entranceId="E031" column_id="146" column_cn_id="147"/>
+
+        <ItemSpec id="45277" el_id="45044" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45278" el_id="45755" entranceId="E032" artical_id="374539" artical_cn_id="377541"/>
+        <ItemSpec id="45279" group="1" el_id="14174" entranceId="E033" artical_id="374500" artical_cn_id="377529"/>
+        <ItemSpec id="45280" group="1" el_id="14914" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45281" el_id="49152" entranceId="E034" column_id="146" column_cn_id="147"/>
+
+		<ItemSpec id="45283" el_id="34239" entranceId="E035" artical_id="374268" artical_cn_id="377494"/>
+		<ItemSpec id="45284" el_id="60923" entranceId="E036" artical_id="364962" artical_cn_id="366490"/>
+
+
+        <ItemSpec id="45289" el_id="65620" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45294" group="1" el_id="28467" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45295" el_id="1293" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45298" group="1" el_id="1293" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45296" el_id="1312" entranceId="E040" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45299" el_id="1312" entranceId="E040" column_id="146" column_cn_id="147"/>
+		
+		<ItemSpec id="45300" el_id="1324" entranceId="E041" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45301" el_id="1325" entranceId="E042" artical_cn_id="377614"/>
+		<ItemSpec id="45302" el_id="1365" entranceId="E043" artical_id="364470" artical_cn_id="366496"/>
+		<ItemSpec id="45303" group="1" el_id="1417" column_id="146" column_cn_id="147"/>
+		
+		<ItemSpec id="45304" el_id="652" entranceId="E044" artical_cn_id="377612"/>
+		
+
+<ItemSpec id="45305" el_id="1470" entranceId="E044" artical_cn_id="377612"/>
+<ItemSpec id="45306" group="1" el_id="1470" entranceId="E044" artical_cn_id="377612"/>
+<ItemSpec id="45307" group="1" el_id="1470" entranceId="E044" artical_cn_id="377612"/>
+<ItemSpec id="45308" el_id="250209" entranceId="E045" artical_id="377599" artical_cn_id="377590"/>
+    <!-- 绝命悬赏FAQ -->
+        <ItemSpec id="45309" group="1" el_id="66345" entranceId="E046" artical_id="364814" artical_cn_id="366412"/>
+    <!-- 伊甸园基地防护罩 规则说明 -->
+        <ItemSpec id="45311" el_id="263067" entranceId="E047" artical_id="374081" artical_cn_id="377444"/>
+	<!-- 英雄皮肤升级 规则说明 -->	
+		<ItemSpec id="45312" el_id="110340001" column_id="146" column_cn_id="147"/>
+    <!-- 中立势力（凛冬赛季）FAQ -->
+        <ItemSpec id="45313" group="1" el_id="325829" entranceId="E048" column_id="146" column_cn_id="147"/>
+
+		<ItemSpec id="45291" el_id="64621" entranceId="E049" column_id="146" column_cn_id="147"/>
+		<ItemSpec id="45314" entranceId="E004"/>
+		<ItemSpec id="45315" entranceId="E005"/>
+		<ItemSpec id="45316" entranceId="E006"/>
+		<ItemSpec id="45317" entranceId="E007"/>
+		<ItemSpec id="45318" entranceId="E008"/>
+		<ItemSpec id="45319" entranceId="E050"/>
+		<ItemSpec id="45320" entranceId="E053"/>
+		<ItemSpec id="45321" entranceId="E054"/>
+		<ItemSpec id="45322" entranceId="E055"/>
+		<ItemSpec id="45323" entranceId="E056"/>
+        <ItemSpec id="45324" el_id="9082" entranceId="E051" column_id="146" column_cn_id="147"/>
+        <ItemSpec id="45325" el_id="652" entranceId="E052" artical_cn_id="377606"/>
+		<ItemSpec id="45326" el_id="60923" entranceId="E036" artical_id="364962" artical_cn_id="366490"/>
+        <ItemSpec id="45327"  entranceId="E057"/>
+		<ItemSpec id="45328"  entranceId="E058"/>
+		 <!-- 韩国渠道包专用跳转链接FAQ -->
+		<ItemSpec id="45329" entranceId="E060" artical_id="374401" artical_cn_id="377416"/>
+
+
+
+    </Group>
+</tns:database>

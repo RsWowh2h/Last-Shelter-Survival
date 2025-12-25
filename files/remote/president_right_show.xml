@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="president_right_show">
+    <ItemSpec id="10001" type="1" name="81000083" des="173481" picture="FB_IC_ztyoujian1" picture2="FB_IC_ztyoujian2" order="2" />
+    <ItemSpec id="10002" type="2" name="173353" des="173482" picture="FB_IC_ztshezhi1" picture2="FB_IC_ztshezhi2" order="3" />
+    <ItemSpec id="10003" type="3" name="173515" picture="FB_IC_gushi1" picture2="FB_IC_gushi2" order="1" />
+  </Group>
+</tns:database>

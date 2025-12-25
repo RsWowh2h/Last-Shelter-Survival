@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <ItemSpec id="s1" name="905105" icon="ui_zhanghaoanquan_icon_06"/>
+    <ItemSpec id="s2" name="905106" icon="ui_zhanghaoanquan_icon_06"/>
+
+</tns:database>

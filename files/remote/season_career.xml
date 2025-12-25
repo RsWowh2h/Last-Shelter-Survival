@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="season_career">
+		<ItemSpec id="1" lv="1" exp="0" unlock_skills="100;200;300" unlock_skills_a="100;200;300" unlock_skills_b="100;200;300" unlock_skills_c="100;200;300"/>
+		<ItemSpec id="2" lv="2" exp="81240"/>
+		<ItemSpec id="3" lv="3" exp="162480"/>
+		<ItemSpec id="4" lv="4" exp="243719"/>
+		<ItemSpec id="5" lv="5" exp="324959" unlock_skills="400;500;600" unlock_skills_a="2400;3800" unlock_skills_b="2400;3800" unlock_skills_c="2400;3800"/>
+		<ItemSpec id="6" lv="6" exp="406199"/>
+		<ItemSpec id="7" lv="7" exp="487439"/>
+		<ItemSpec id="8" lv="8" exp="568678"/>
+		<ItemSpec id="9" lv="9" exp="649918"/>
+		<ItemSpec id="10" lv="10" exp="731158" unlock_skills="700;800;900" unlock_skills_a="400;500;600" unlock_skills_b="400;500;600" unlock_skills_c="400;500;600"/>
+		<ItemSpec id="11" lv="11" exp="812398"/>
+		<ItemSpec id="12" lv="12" exp="1056117"/>
+		<ItemSpec id="13" lv="13" exp="1299836"/>
+		<ItemSpec id="14" lv="14" exp="1543556"/>
+		<ItemSpec id="15" lv="15" exp="1787275" unlock_skills="1000;1100;1200" unlock_skills_a="2500;3900" unlock_skills_b="2900;4300" unlock_skills_c="3400;4800"/>
+		<ItemSpec id="16" lv="16" exp="2030994"/>
+		<ItemSpec id="17" lv="17" exp="2274714"/>
+		<ItemSpec id="18" lv="18" exp="2518433"/>
+		<ItemSpec id="19" lv="19" exp="2762152"/>
+		<ItemSpec id="20" lv="20" exp="3005872" unlock_skills="1300;1400;1500" unlock_skills_a="700;800;900" unlock_skills_b="700;800;900" unlock_skills_c="700;800;900"/>
+		<ItemSpec id="21" lv="21" exp="3249591"/>
+		<ItemSpec id="22" lv="22" exp="3655790"/>
+		<ItemSpec id="23" lv="23" exp="4061989"/>
+		<ItemSpec id="24" lv="24" exp="4468188"/>
+		<ItemSpec id="25" lv="25" exp="4874386" unlock_skills="1600;1700;1800" unlock_skills_a="2600;4000" unlock_skills_b="3000;4400" unlock_skills_c="3500;4900"/>
+		<ItemSpec id="26" lv="26" exp="5280585"/>
+		<ItemSpec id="27" lv="27" exp="5686784"/>
+		<ItemSpec id="28" lv="28" exp="6092983"/>
+		<ItemSpec id="29" lv="29" exp="6499182"/>
+		<ItemSpec id="30" lv="30" exp="6905381" unlock_skills="1900;2000;2100" unlock_skills_a="1000;1100;1200" unlock_skills_b="1000;1100;1200" unlock_skills_c="1000;1100;1200"/>
+		<ItemSpec id="31" lv="31" exp="7311580"/>
+		<ItemSpec id="32" lv="32" exp="7880258"/>
+		<ItemSpec id="33" lv="33" exp="8448937"/>
+		<ItemSpec id="34" lv="34" exp="9017615"/>
+		<ItemSpec id="35" lv="35" exp="9586293" unlock_skills_a="2700;4100" unlock_skills_b="3200;4600" unlock_skills_c="3600;5000"/>
+		<ItemSpec id="36" lv="36" exp="10154972"/>
+		<ItemSpec id="37" lv="37" exp="10723650"/>
+		<ItemSpec id="38" lv="38" exp="11292329"/>
+		<ItemSpec id="39" lv="39" exp="11861007"/>
+		<ItemSpec id="40" lv="40" exp="12429686" unlock_skills_a="2800;4200" unlock_skills_b="3300;4700" unlock_skills_c="3100;4500"/>
+		<ItemSpec id="41" lv="41" exp="13242083"/>
+		<ItemSpec id="42" lv="42" exp="14054481"/>
+		<ItemSpec id="43" lv="43" exp="14866879"/>
+		<ItemSpec id="44" lv="44" exp="15679277"/>
+		<ItemSpec id="45" lv="45" exp="16491674" unlock_skills_a="1300;1400" unlock_skills_b="1300;1400" unlock_skills_c="1300;1400"/>
+		<ItemSpec id="46" lv="46" exp="17304072"/>
+		<ItemSpec id="47" lv="47" exp="18116470"/>
+		<ItemSpec id="48" lv="48" exp="18928868"/>
+		<ItemSpec id="49" lv="49" exp="19741265"/>
+		<ItemSpec id="50" lv="50" exp="20553663" unlock_skills_a="1700;1800" unlock_skills_b="1700;1800" unlock_skills_c="1700;1800"/>
+		<ItemSpec id="51" lv="51" exp="21528540"/>
+		<ItemSpec id="52" lv="52" exp="22503418"/>
+		<ItemSpec id="53" lv="53" exp="23478295"/>
+		<ItemSpec id="54" lv="54" exp="24453172"/>
+		<ItemSpec id="55" lv="55" exp="25428050" unlock_skills_a="1500;1900" unlock_skills_b="1500;1900" unlock_skills_c="1500;1900"/>
+		<ItemSpec id="56" lv="56" exp="26402927"/>
+		<ItemSpec id="57" lv="57" exp="27377804"/>
+		<ItemSpec id="58" lv="58" exp="28352681"/>
+		<ItemSpec id="59" lv="59" exp="29327559"/>
+		<ItemSpec id="60" lv="60" exp="30302436" unlock_skills_a="5100;5200" unlock_skills_b="5100;5200" unlock_skills_c="5100;5200"/>
+		<ItemSpec id="61" lv="61" exp="31602272"/>
+		<ItemSpec id="62" lv="62" exp="32902109"/>
+		<ItemSpec id="63" lv="63" exp="34201945"/>
+		<ItemSpec id="64" lv="64" exp="35501782"/>
+		<ItemSpec id="65" lv="65" exp="36801618"/>
+		<ItemSpec id="66" lv="66" exp="38101454"/>
+		<ItemSpec id="67" lv="67" exp="39401291"/>
+		<ItemSpec id="68" lv="68" exp="40701127"/>
+		<ItemSpec id="69" lv="69" exp="42000964"/>
+		<ItemSpec id="70" lv="70" exp="43300800" unlock_skills_a="2300" unlock_skills_b="2300" unlock_skills_c="2300"/>
+	</Group>
+</tns:database>

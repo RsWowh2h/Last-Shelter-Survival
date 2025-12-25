@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="quest_a_f">
+
+
+
+    <ItemSpec id="3100000" name="90604033" dec="90604037" type="4" type2="1001" level="1" para1="9" para2="500" Order="1" icon1="world_build_farm5" gotype="22" reward="605020" starting_time="1" time="10080" duration="5;5" />
+    <ItemSpec id="3100001" name="90604033" dec="90604037" type="4" type2="1001" level="2" para1="9" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605021" starting_time="1" time="10080" duration="5;5" />
+    <ItemSpec id="3100002" name="90604033" dec="90604037" type="4" type2="1001" level="3" para1="9" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605022" starting_time="1" time="10080" duration="5;5" />
+    <ItemSpec id="3100003" name="90604030" dec="90604034" type="1" type2="1002" level="1" para2="10" Order="1" icon1="world_build_farm5" gotype="29" reward="605023" starting_time="8" time="10080" duration="5;5" />
+    <ItemSpec id="3100004" name="90604030" dec="90604034" type="1" type2="1002" level="2" para2="15" Order="1" icon1="world_build_farm5" gotype="29" reward="605024" starting_time="8" time="10080" duration="5;5" />
+    <ItemSpec id="3100005" name="90604030" dec="90604034" type="1" type2="1002" level="3" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605025" starting_time="8" time="10080" duration="5;5" />
+    <ItemSpec id="3100006" name="90604031" dec="90604035" type="2" type2="1003" level="1" para2="60" Order="1" icon1="world_build_farm5" gotype="29" reward="605026" starting_time="15" time="10080" duration="5;5" />
+    <ItemSpec id="3100007" name="90604031" dec="90604035" type="2" type2="1003" level="2" para2="80" Order="1" icon1="world_build_farm5" gotype="29" reward="605027" starting_time="15" time="10080" duration="5;5" />
+    <ItemSpec id="3100008" name="90604031" dec="90604035" type="2" type2="1003" level="3" para2="100" Order="1" icon1="world_build_farm5" gotype="29" reward="605028" starting_time="15" time="10080" duration="5;5" />
+    <ItemSpec id="3100009" name="90604033" dec="90604037" type="4" type2="1004" level="1" para1="12" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605029" starting_time="22" time="10080" duration="5;5" />
+    <ItemSpec id="3100010" name="90604033" dec="90604037" type="4" type2="1004" level="2" para1="12" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605030" starting_time="22" time="10080" duration="5;5" />
+    <ItemSpec id="3100011" name="90604033" dec="90604037" type="4" type2="1004" level="3" para1="12" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605031" starting_time="22" time="10080" duration="5;5" />
+    <ItemSpec id="3100012" name="90604032" dec="90604036" type="3" type2="1005" level="1" para2="30" Order="1" icon1="world_build_farm5" gotype="22" reward="605032" starting_time="29" time="10080" duration="5;5" />
+    <ItemSpec id="3100013" name="90604032" dec="90604036" type="3" type2="1005" level="2" para2="150" Order="1" icon1="world_build_farm5" gotype="22" reward="605033" starting_time="29" time="10080" duration="5;5" />
+    <ItemSpec id="3100014" name="90604032" dec="90604036" type="3" type2="1005" level="3" para2="300" Order="1" icon1="world_build_farm5" gotype="22" reward="605034" starting_time="29" time="10080" duration="5;5" />
+    <ItemSpec id="3100015" name="90604033" dec="90604037" type="4" type2="1006" level="1" para1="14" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605035" starting_time="36" time="10080" duration="5;5" />
+    <ItemSpec id="3100016" name="90604033" dec="90604037" type="4" type2="1006" level="2" para1="14" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605036" starting_time="36" time="10080" duration="5;5" />
+    <ItemSpec id="3100017" name="90604033" dec="90604037" type="4" type2="1006" level="3" para1="14" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605037" starting_time="36" time="10080" duration="5;5" />
+    <ItemSpec id="3100018" name="90604030" dec="90604034" type="1" type2="1007" level="1" para2="25" Order="1" icon1="world_build_farm5" gotype="29" reward="605038" starting_time="43" time="7200" duration="5;5" />
+    <ItemSpec id="3100019" name="90604030" dec="90604034" type="1" type2="1007" level="2" para2="35" Order="1" icon1="world_build_farm5" gotype="29" reward="605039" starting_time="43" time="7200" duration="5;5" />
+    <ItemSpec id="3100020" name="90604030" dec="90604034" type="1" type2="1007" level="3" para2="45" Order="1" icon1="world_build_farm5" gotype="29" reward="605040" starting_time="43" time="7200" duration="5;5" />
+
+
+    <ItemSpec id="3101000" name="90604033" dec="90604037" type="4" type2="1001" level="1" para1="9" para2="500" Order="1" icon1="world_build_farm5" gotype="22" reward="605050" starting_time="1" time="10080" duration="6;6" />
+    <ItemSpec id="3101001" name="90604033" dec="90604037" type="4" type2="1001" level="2" para1="9" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605051" starting_time="1" time="10080" duration="6;6" />
+    <ItemSpec id="3101002" name="90604033" dec="90604037" type="4" type2="1001" level="3" para1="9" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605052" starting_time="1" time="10080" duration="6;6" />
+    <ItemSpec id="3101003" name="90604030" dec="90604034" type="1" type2="1002" level="1" para2="10" Order="1" icon1="world_build_farm5" gotype="29" reward="605053" starting_time="8" time="10080" duration="6;6" />
+    <ItemSpec id="3101004" name="90604030" dec="90604034" type="1" type2="1002" level="2" para2="15" Order="1" icon1="world_build_farm5" gotype="29" reward="605054" starting_time="8" time="10080" duration="6;6" />
+    <ItemSpec id="3101005" name="90604030" dec="90604034" type="1" type2="1002" level="3" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605055" starting_time="8" time="10080" duration="6;6" />
+    <ItemSpec id="3101006" name="90604031" dec="90604035" type="2" type2="1003" level="1" para2="50" Order="1" icon1="world_build_farm5" gotype="29" reward="605056" starting_time="15" time="10080" duration="6;6" />
+    <ItemSpec id="3101007" name="90604031" dec="90604035" type="2" type2="1003" level="2" para2="80" Order="1" icon1="world_build_farm5" gotype="29" reward="605057" starting_time="15" time="10080" duration="6;6" />
+    <ItemSpec id="3101008" name="90604031" dec="90604035" type="2" type2="1003" level="3" para2="100" Order="1" icon1="world_build_farm5" gotype="29" reward="605058" starting_time="15" time="10080" duration="6;6" />
+    <ItemSpec id="3101009" name="90604033" dec="90604037" type="4" type2="1004" level="1" para1="12" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605059" starting_time="22" time="10080" duration="6;6" />
+    <ItemSpec id="3101010" name="90604033" dec="90604037" type="4" type2="1004" level="2" para1="12" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605060" starting_time="22" time="10080" duration="6;6" />
+    <ItemSpec id="3101011" name="90604033" dec="90604037" type="4" type2="1004" level="3" para1="12" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605061" starting_time="22" time="10080" duration="6;6" />
+    <ItemSpec id="3101012" name="90604030" dec="90604034" type="1" type2="1007" level="1" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605062" starting_time="29" time="10080" duration="6;6" />
+    <ItemSpec id="3101013" name="90604030" dec="90604034" type="1" type2="1007" level="2" para2="30" Order="1" icon1="world_build_farm5" gotype="29" reward="605063" starting_time="29" time="10080" duration="6;6" />
+    <ItemSpec id="3101014" name="90604030" dec="90604034" type="1" type2="1007" level="3" para2="40" Order="1" icon1="world_build_farm5" gotype="29" reward="605064" starting_time="29" time="10080" duration="6;6" />
+    <ItemSpec id="3101015" name="90604033" dec="90604037" type="4" type2="1006" level="1" para1="14" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605065" starting_time="36" time="10080" duration="6;6" />
+    <ItemSpec id="3101016" name="90604033" dec="90604037" type="4" type2="1006" level="2" para1="14" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605066" starting_time="36" time="10080" duration="6;6" />
+    <ItemSpec id="3101017" name="90604033" dec="90604037" type="4" type2="1006" level="3" para1="14" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605067" starting_time="36" time="10080" duration="6;6" />
+    <ItemSpec id="3101018" name="90604032" dec="90604036" type="3" type2="1005" level="1" para2="100" Order="1" icon1="world_build_farm5" gotype="22" reward="605068" starting_time="43" time="7200" duration="6;6" />
+    <ItemSpec id="3101019" name="90604032" dec="90604036" type="3" type2="1005" level="2" para2="300" Order="1" icon1="world_build_farm5" gotype="22" reward="605069" starting_time="43" time="7200" duration="6;6" />
+    <ItemSpec id="3101020" name="90604032" dec="90604036" type="3" type2="1005" level="3" para2="600" Order="1" icon1="world_build_farm5" gotype="22" reward="605070" starting_time="43" time="7200" duration="6;6" />
+
+
+    <ItemSpec id="3102000" name="90604033" dec="90604037" type="4" type2="1001" level="1" para1="9" para2="500" Order="1" icon1="world_build_farm5" gotype="22" reward="605050" starting_time="1" time="10080" duration="7;7" />
+    <ItemSpec id="3102001" name="90604033" dec="90604037" type="4" type2="1001" level="2" para1="9" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605051" starting_time="1" time="10080" duration="7;7" />
+    <ItemSpec id="3102002" name="90604033" dec="90604037" type="4" type2="1001" level="3" para1="9" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605052" starting_time="1" time="10080" duration="7;7" />
+    <ItemSpec id="3102003" name="90604030" dec="90604034" type="1" type2="1002" level="1" para2="10" Order="1" icon1="world_build_farm5" gotype="29" reward="605053" starting_time="8" time="10080" duration="7;7" />
+    <ItemSpec id="3102004" name="90604030" dec="90604034" type="1" type2="1002" level="2" para2="15" Order="1" icon1="world_build_farm5" gotype="29" reward="605054" starting_time="8" time="10080" duration="7;7" />
+    <ItemSpec id="3102005" name="90604030" dec="90604034" type="1" type2="1002" level="3" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605055" starting_time="8" time="10080" duration="7;7" />
+    <ItemSpec id="3102006" name="90604031" dec="90604035" type="2" type2="1003" level="1" para2="50" Order="1" icon1="world_build_farm5" gotype="29" reward="605056" starting_time="15" time="10080" duration="7;7" />
+    <ItemSpec id="3102007" name="90604031" dec="90604035" type="2" type2="1003" level="2" para2="80" Order="1" icon1="world_build_farm5" gotype="29" reward="605057" starting_time="15" time="10080" duration="7;7" />
+    <ItemSpec id="3102008" name="90604031" dec="90604035" type="2" type2="1003" level="3" para2="100" Order="1" icon1="world_build_farm5" gotype="29" reward="605058" starting_time="15" time="10080" duration="7;7" />
+    <ItemSpec id="3102009" name="90604033" dec="90604037" type="4" type2="1004" level="1" para1="12" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605059" starting_time="22" time="10080" duration="7;7" />
+    <ItemSpec id="3102010" name="90604033" dec="90604037" type="4" type2="1004" level="2" para1="12" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605060" starting_time="22" time="10080" duration="7;7" />
+    <ItemSpec id="3102011" name="90604033" dec="90604037" type="4" type2="1004" level="3" para1="12" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605061" starting_time="22" time="10080" duration="7;7" />
+    <ItemSpec id="3102012" name="90604030" dec="90604034" type="1" type2="1007" level="1" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605062" starting_time="29" time="10080" duration="7;7" />
+    <ItemSpec id="3102013" name="90604030" dec="90604034" type="1" type2="1007" level="2" para2="30" Order="1" icon1="world_build_farm5" gotype="29" reward="605063" starting_time="29" time="10080" duration="7;7" />
+    <ItemSpec id="3102014" name="90604030" dec="90604034" type="1" type2="1007" level="3" para2="40" Order="1" icon1="world_build_farm5" gotype="29" reward="605064" starting_time="29" time="10080" duration="7;7" />
+    <ItemSpec id="3102015" name="90604033" dec="90604037" type="4" type2="1006" level="1" para1="14" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605065" starting_time="36" time="10080" duration="7;7" />
+    <ItemSpec id="3102016" name="90604033" dec="90604037" type="4" type2="1006" level="2" para1="14" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605066" starting_time="36" time="10080" duration="7;7" />
+    <ItemSpec id="3102017" name="90604033" dec="90604037" type="4" type2="1006" level="3" para1="14" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605067" starting_time="36" time="10080" duration="7;7" />
+    <ItemSpec id="3102018" name="90604032" dec="90604036" type="3" type2="1005" level="1" para2="100" Order="1" icon1="world_build_farm5" gotype="22" reward="605068" starting_time="43" time="7200" duration="7;7" />
+    <ItemSpec id="3102019" name="90604032" dec="90604036" type="3" type2="1005" level="2" para2="300" Order="1" icon1="world_build_farm5" gotype="22" reward="605069" starting_time="43" time="7200" duration="7;7" />
+    <ItemSpec id="3102020" name="90604032" dec="90604036" type="3" type2="1005" level="3" para2="600" Order="1" icon1="world_build_farm5" gotype="22" reward="605070" starting_time="43" time="7200" duration="7;7" />
+
+
+    <ItemSpec id="3103000" name="90604033" dec="90604037" type="4" type2="1001" level="1" para1="9" para2="500" Order="1" icon1="world_build_farm5" gotype="22" reward="605050" starting_time="1" time="10080" duration="8;8" />
+    <ItemSpec id="3103001" name="90604033" dec="90604037" type="4" type2="1001" level="2" para1="9" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605051" starting_time="1" time="10080" duration="8;8" />
+    <ItemSpec id="3103002" name="90604033" dec="90604037" type="4" type2="1001" level="3" para1="9" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605052" starting_time="1" time="10080" duration="8;8" />
+    <ItemSpec id="3103003" name="90604030" dec="90604034" type="1" type2="1002" level="1" para2="10" Order="1" icon1="world_build_farm5" gotype="29" reward="605053" starting_time="8" time="10080" duration="8;8" />
+    <ItemSpec id="3103004" name="90604030" dec="90604034" type="1" type2="1002" level="2" para2="15" Order="1" icon1="world_build_farm5" gotype="29" reward="605054" starting_time="8" time="10080" duration="8;8" />
+    <ItemSpec id="3103005" name="90604030" dec="90604034" type="1" type2="1002" level="3" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605055" starting_time="8" time="10080" duration="8;8" />
+    <ItemSpec id="3103006" name="90604031" dec="90604035" type="2" type2="1003" level="1" para2="50" Order="1" icon1="world_build_farm5" gotype="29" reward="605056" starting_time="15" time="10080" duration="8;8" />
+    <ItemSpec id="3103007" name="90604031" dec="90604035" type="2" type2="1003" level="2" para2="80" Order="1" icon1="world_build_farm5" gotype="29" reward="605057" starting_time="15" time="10080" duration="8;8" />
+    <ItemSpec id="3103008" name="90604031" dec="90604035" type="2" type2="1003" level="3" para2="100" Order="1" icon1="world_build_farm5" gotype="29" reward="605058" starting_time="15" time="10080" duration="8;8" />
+    <ItemSpec id="3103009" name="90604033" dec="90604037" type="4" type2="1004" level="1" para1="12" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605059" starting_time="22" time="10080" duration="8;8" />
+    <ItemSpec id="3103010" name="90604033" dec="90604037" type="4" type2="1004" level="2" para1="12" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605060" starting_time="22" time="10080" duration="8;8" />
+    <ItemSpec id="3103011" name="90604033" dec="90604037" type="4" type2="1004" level="3" para1="12" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605061" starting_time="22" time="10080" duration="8;8" />
+    <ItemSpec id="3103012" name="90604030" dec="90604034" type="1" type2="1007" level="1" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605062" starting_time="29" time="10080" duration="8;8" />
+    <ItemSpec id="3103013" name="90604030" dec="90604034" type="1" type2="1007" level="2" para2="30" Order="1" icon1="world_build_farm5" gotype="29" reward="605063" starting_time="29" time="10080" duration="8;8" />
+    <ItemSpec id="3103014" name="90604030" dec="90604034" type="1" type2="1007" level="3" para2="40" Order="1" icon1="world_build_farm5" gotype="29" reward="605064" starting_time="29" time="10080" duration="8;8" />
+    <ItemSpec id="3103015" name="90604033" dec="90604037" type="4" type2="1006" level="1" para1="14" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605065" starting_time="36" time="10080" duration="8;8" />
+    <ItemSpec id="3103016" name="90604033" dec="90604037" type="4" type2="1006" level="2" para1="14" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605066" starting_time="36" time="10080" duration="8;8" />
+    <ItemSpec id="3103017" name="90604033" dec="90604037" type="4" type2="1006" level="3" para1="14" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605067" starting_time="36" time="10080" duration="8;8" />
+    <ItemSpec id="3103018" name="90604032" dec="90604036" type="3" type2="1005" level="1" para2="100" Order="1" icon1="world_build_farm5" gotype="22" reward="605068" starting_time="43" time="7200" duration="8;8" />
+    <ItemSpec id="3103019" name="90604032" dec="90604036" type="3" type2="1005" level="2" para2="300" Order="1" icon1="world_build_farm5" gotype="22" reward="605069" starting_time="43" time="7200" duration="8;8" />
+    <ItemSpec id="3103020" name="90604032" dec="90604036" type="3" type2="1005" level="3" para2="600" Order="1" icon1="world_build_farm5" gotype="22" reward="605070" starting_time="43" time="7200" duration="8;8" />
+
+
+    <ItemSpec id="3104000" name="90604033" dec="90604037" type="4" type2="1001" level="1" para1="9" para2="500" Order="1" icon1="world_build_farm5" gotype="22" reward="605050" starting_time="1" time="10080" duration="9;9" />
+    <ItemSpec id="3104001" name="90604033" dec="90604037" type="4" type2="1001" level="2" para1="9" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605051" starting_time="1" time="10080" duration="9;9" />
+    <ItemSpec id="3104002" name="90604033" dec="90604037" type="4" type2="1001" level="3" para1="9" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605052" starting_time="1" time="10080" duration="9;9" />
+    <ItemSpec id="3104003" name="90604030" dec="90604034" type="1" type2="1002" level="1" para2="10" Order="1" icon1="world_build_farm5" gotype="29" reward="605053" starting_time="8" time="10080" duration="9;9" />
+    <ItemSpec id="3104004" name="90604030" dec="90604034" type="1" type2="1002" level="2" para2="15" Order="1" icon1="world_build_farm5" gotype="29" reward="605054" starting_time="8" time="10080" duration="9;9" />
+    <ItemSpec id="3104005" name="90604030" dec="90604034" type="1" type2="1002" level="3" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605055" starting_time="8" time="10080" duration="9;9" />
+    <ItemSpec id="3104006" name="90604031" dec="90604035" type="2" type2="1003" level="1" para2="50" Order="1" icon1="world_build_farm5" gotype="29" reward="605056" starting_time="15" time="10080" duration="9;9" />
+    <ItemSpec id="3104007" name="90604031" dec="90604035" type="2" type2="1003" level="2" para2="80" Order="1" icon1="world_build_farm5" gotype="29" reward="605057" starting_time="15" time="10080" duration="9;9" />
+    <ItemSpec id="3104008" name="90604031" dec="90604035" type="2" type2="1003" level="3" para2="100" Order="1" icon1="world_build_farm5" gotype="29" reward="605058" starting_time="15" time="10080" duration="9;9" />
+    <ItemSpec id="3104009" name="90604033" dec="90604037" type="4" type2="1004" level="1" para1="12" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605059" starting_time="22" time="10080" duration="9;9" />
+    <ItemSpec id="3104010" name="90604033" dec="90604037" type="4" type2="1004" level="2" para1="12" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605060" starting_time="22" time="10080" duration="9;9" />
+    <ItemSpec id="3104011" name="90604033" dec="90604037" type="4" type2="1004" level="3" para1="12" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605061" starting_time="22" time="10080" duration="9;9" />
+    <ItemSpec id="3104012" name="90604030" dec="90604034" type="1" type2="1007" level="1" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605062" starting_time="29" time="10080" duration="9;9" />
+    <ItemSpec id="3104013" name="90604030" dec="90604034" type="1" type2="1007" level="2" para2="30" Order="1" icon1="world_build_farm5" gotype="29" reward="605063" starting_time="29" time="10080" duration="9;9" />
+    <ItemSpec id="3104014" name="90604030" dec="90604034" type="1" type2="1007" level="3" para2="40" Order="1" icon1="world_build_farm5" gotype="29" reward="605064" starting_time="29" time="10080" duration="9;9" />
+    <ItemSpec id="3104015" name="90604033" dec="90604037" type="4" type2="1006" level="1" para1="14" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605065" starting_time="36" time="10080" duration="9;9" />
+    <ItemSpec id="3104016" name="90604033" dec="90604037" type="4" type2="1006" level="2" para1="14" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605066" starting_time="36" time="10080" duration="9;9" />
+    <ItemSpec id="3104017" name="90604033" dec="90604037" type="4" type2="1006" level="3" para1="14" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605067" starting_time="36" time="10080" duration="9;9" />
+    <ItemSpec id="3104018" name="90604032" dec="90604036" type="3" type2="1005" level="1" para2="100" Order="1" icon1="world_build_farm5" gotype="22" reward="605068" starting_time="43" time="7200" duration="9;9" />
+    <ItemSpec id="3104019" name="90604032" dec="90604036" type="3" type2="1005" level="2" para2="300" Order="1" icon1="world_build_farm5" gotype="22" reward="605069" starting_time="43" time="7200" duration="9;9" />
+    <ItemSpec id="3104020" name="90604032" dec="90604036" type="3" type2="1005" level="3" para2="600" Order="1" icon1="world_build_farm5" gotype="22" reward="605070" starting_time="43" time="7200" duration="9;9" />
+
+
+    <ItemSpec id="3105000" name="90604033" dec="90604037" type="4" type2="1001" level="1" para1="9" para2="500" Order="1" icon1="world_build_farm5" gotype="22" reward="605050" starting_time="1" time="10080" duration="10;10" />
+    <ItemSpec id="3105001" name="90604033" dec="90604037" type="4" type2="1001" level="2" para1="9" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605051" starting_time="1" time="10080" duration="10;10" />
+    <ItemSpec id="3105002" name="90604033" dec="90604037" type="4" type2="1001" level="3" para1="9" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605052" starting_time="1" time="10080" duration="10;10" />
+    <ItemSpec id="3105003" name="90604030" dec="90604034" type="1" type2="1002" level="1" para2="10" Order="1" icon1="world_build_farm5" gotype="29" reward="605053" starting_time="8" time="10080" duration="10;10" />
+    <ItemSpec id="3105004" name="90604030" dec="90604034" type="1" type2="1002" level="2" para2="15" Order="1" icon1="world_build_farm5" gotype="29" reward="605054" starting_time="8" time="10080" duration="10;10" />
+    <ItemSpec id="3105005" name="90604030" dec="90604034" type="1" type2="1002" level="3" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605055" starting_time="8" time="10080" duration="10;10" />
+    <ItemSpec id="3105006" name="90604031" dec="90604035" type="2" type2="1003" level="1" para2="50" Order="1" icon1="world_build_farm5" gotype="29" reward="605056" starting_time="15" time="10080" duration="10;10" />
+    <ItemSpec id="3105007" name="90604031" dec="90604035" type="2" type2="1003" level="2" para2="80" Order="1" icon1="world_build_farm5" gotype="29" reward="605057" starting_time="15" time="10080" duration="10;10" />
+    <ItemSpec id="3105008" name="90604031" dec="90604035" type="2" type2="1003" level="3" para2="100" Order="1" icon1="world_build_farm5" gotype="29" reward="605058" starting_time="15" time="10080" duration="10;10" />
+    <ItemSpec id="3105009" name="90604033" dec="90604037" type="4" type2="1004" level="1" para1="12" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605059" starting_time="22" time="10080" duration="10;10" />
+    <ItemSpec id="3105010" name="90604033" dec="90604037" type="4" type2="1004" level="2" para1="12" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605060" starting_time="22" time="10080" duration="10;10" />
+    <ItemSpec id="3105011" name="90604033" dec="90604037" type="4" type2="1004" level="3" para1="12" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605061" starting_time="22" time="10080" duration="10;10" />
+    <ItemSpec id="3105012" name="90604030" dec="90604034" type="1" type2="1007" level="1" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605062" starting_time="29" time="10080" duration="10;10" />
+    <ItemSpec id="3105013" name="90604030" dec="90604034" type="1" type2="1007" level="2" para2="30" Order="1" icon1="world_build_farm5" gotype="29" reward="605063" starting_time="29" time="10080" duration="10;10" />
+    <ItemSpec id="3105014" name="90604030" dec="90604034" type="1" type2="1007" level="3" para2="40" Order="1" icon1="world_build_farm5" gotype="29" reward="605064" starting_time="29" time="10080" duration="10;10" />
+    <ItemSpec id="3105015" name="90604033" dec="90604037" type="4" type2="1006" level="1" para1="14" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605065" starting_time="36" time="10080" duration="10;10" />
+    <ItemSpec id="3105016" name="90604033" dec="90604037" type="4" type2="1006" level="2" para1="14" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605066" starting_time="36" time="10080" duration="10;10" />
+    <ItemSpec id="3105017" name="90604033" dec="90604037" type="4" type2="1006" level="3" para1="14" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605067" starting_time="36" time="10080" duration="10;10" />
+    <ItemSpec id="3105018" name="90604032" dec="90604036" type="3" type2="1005" level="1" para2="100" Order="1" icon1="world_build_farm5" gotype="22" reward="605068" starting_time="43" time="7200" duration="10;10" />
+    <ItemSpec id="3105019" name="90604032" dec="90604036" type="3" type2="1005" level="2" para2="300" Order="1" icon1="world_build_farm5" gotype="22" reward="605069" starting_time="43" time="7200" duration="10;10" />
+    <ItemSpec id="3105020" name="90604032" dec="90604036" type="3" type2="1005" level="3" para2="600" Order="1" icon1="world_build_farm5" gotype="22" reward="605070" starting_time="43" time="7200" duration="10;10" />
+
+
+    <ItemSpec id="3106000" name="90604033" dec="90604037" type="4" type2="1001" level="1" para1="9" para2="500" Order="1" icon1="world_build_farm5" gotype="22" reward="605050" starting_time="1" time="10080" duration="11;11" />
+    <ItemSpec id="3106001" name="90604033" dec="90604037" type="4" type2="1001" level="2" para1="9" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605051" starting_time="1" time="10080" duration="11;11" />
+    <ItemSpec id="3106002" name="90604033" dec="90604037" type="4" type2="1001" level="3" para1="9" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605052" starting_time="1" time="10080" duration="11;11" />
+    <ItemSpec id="3106003" name="90604030" dec="90604034" type="1" type2="1002" level="1" para2="10" Order="1" icon1="world_build_farm5" gotype="29" reward="605053" starting_time="8" time="10080" duration="11;11" />
+    <ItemSpec id="3106004" name="90604030" dec="90604034" type="1" type2="1002" level="2" para2="15" Order="1" icon1="world_build_farm5" gotype="29" reward="605054" starting_time="8" time="10080" duration="11;11" />
+    <ItemSpec id="3106005" name="90604030" dec="90604034" type="1" type2="1002" level="3" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605055" starting_time="8" time="10080" duration="11;11" />
+    <ItemSpec id="3106006" name="90604031" dec="90604035" type="2" type2="1003" level="1" para2="50" Order="1" icon1="world_build_farm5" gotype="29" reward="605056" starting_time="15" time="10080" duration="11;11" />
+    <ItemSpec id="3106007" name="90604031" dec="90604035" type="2" type2="1003" level="2" para2="80" Order="1" icon1="world_build_farm5" gotype="29" reward="605057" starting_time="15" time="10080" duration="11;11" />
+    <ItemSpec id="3106008" name="90604031" dec="90604035" type="2" type2="1003" level="3" para2="100" Order="1" icon1="world_build_farm5" gotype="29" reward="605058" starting_time="15" time="10080" duration="11;11" />
+    <ItemSpec id="3106009" name="90604033" dec="90604037" type="4" type2="1004" level="1" para1="12" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605059" starting_time="22" time="10080" duration="11;11" />
+    <ItemSpec id="3106010" name="90604033" dec="90604037" type="4" type2="1004" level="2" para1="12" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605060" starting_time="22" time="10080" duration="11;11" />
+    <ItemSpec id="3106011" name="90604033" dec="90604037" type="4" type2="1004" level="3" para1="12" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605061" starting_time="22" time="10080" duration="11;11" />
+    <ItemSpec id="3106012" name="90604030" dec="90604034" type="1" type2="1007" level="1" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605062" starting_time="29" time="10080" duration="11;11" />
+    <ItemSpec id="3106013" name="90604030" dec="90604034" type="1" type2="1007" level="2" para2="30" Order="1" icon1="world_build_farm5" gotype="29" reward="605063" starting_time="29" time="10080" duration="11;11" />
+    <ItemSpec id="3106014" name="90604030" dec="90604034" type="1" type2="1007" level="3" para2="40" Order="1" icon1="world_build_farm5" gotype="29" reward="605064" starting_time="29" time="10080" duration="11;11" />
+    <ItemSpec id="3106015" name="90604033" dec="90604037" type="4" type2="1006" level="1" para1="14" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605065" starting_time="36" time="10080" duration="11;11" />
+    <ItemSpec id="3106016" name="90604033" dec="90604037" type="4" type2="1006" level="2" para1="14" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605066" starting_time="36" time="10080" duration="11;11" />
+    <ItemSpec id="3106017" name="90604033" dec="90604037" type="4" type2="1006" level="3" para1="14" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605067" starting_time="36" time="10080" duration="11;11" />
+    <ItemSpec id="3106018" name="90604032" dec="90604036" type="3" type2="1005" level="1" para2="100" Order="1" icon1="world_build_farm5" gotype="22" reward="605068" starting_time="43" time="7200" duration="11;11" />
+    <ItemSpec id="3106019" name="90604032" dec="90604036" type="3" type2="1005" level="2" para2="300" Order="1" icon1="world_build_farm5" gotype="22" reward="605069" starting_time="43" time="7200" duration="11;11" />
+    <ItemSpec id="3106020" name="90604032" dec="90604036" type="3" type2="1005" level="3" para2="600" Order="1" icon1="world_build_farm5" gotype="22" reward="605070" starting_time="43" time="7200" duration="11;11" />
+
+    <ItemSpec id="3107000" name="90604033" dec="90604037" type="4" type2="1001" level="1" para1="9" para2="500" Order="1" icon1="world_build_farm5" gotype="22" reward="605050" starting_time="1" time="10080" duration="12;12" />
+    <ItemSpec id="3107001" name="90604033" dec="90604037" type="4" type2="1001" level="2" para1="9" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605051" starting_time="1" time="10080" duration="12;12" />
+    <ItemSpec id="3107002" name="90604033" dec="90604037" type="4" type2="1001" level="3" para1="9" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605052" starting_time="1" time="10080" duration="12;12" />
+    <ItemSpec id="3107003" name="90604030" dec="90604034" type="1" type2="1002" level="1" para2="10" Order="1" icon1="world_build_farm5" gotype="29" reward="605053" starting_time="8" time="10080" duration="12;12" />
+    <ItemSpec id="3107004" name="90604030" dec="90604034" type="1" type2="1002" level="2" para2="15" Order="1" icon1="world_build_farm5" gotype="29" reward="605054" starting_time="8" time="10080" duration="12;12" />
+    <ItemSpec id="3107005" name="90604030" dec="90604034" type="1" type2="1002" level="3" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605055" starting_time="8" time="10080" duration="12;12" />
+    <ItemSpec id="3107006" name="90604031" dec="90604035" type="2" type2="1003" level="1" para2="50" Order="1" icon1="world_build_farm5" gotype="29" reward="605056" starting_time="15" time="10080" duration="12;12" />
+    <ItemSpec id="3107007" name="90604031" dec="90604035" type="2" type2="1003" level="2" para2="80" Order="1" icon1="world_build_farm5" gotype="29" reward="605057" starting_time="15" time="10080" duration="12;12" />
+    <ItemSpec id="3107008" name="90604031" dec="90604035" type="2" type2="1003" level="3" para2="100" Order="1" icon1="world_build_farm5" gotype="29" reward="605058" starting_time="15" time="10080" duration="12;12" />
+    <ItemSpec id="3107009" name="90604033" dec="90604037" type="4" type2="1004" level="1" para1="12" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605059" starting_time="22" time="10080" duration="12;12" />
+    <ItemSpec id="3107010" name="90604033" dec="90604037" type="4" type2="1004" level="2" para1="12" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605060" starting_time="22" time="10080" duration="12;12" />
+    <ItemSpec id="3107011" name="90604033" dec="90604037" type="4" type2="1004" level="3" para1="12" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605061" starting_time="22" time="10080" duration="12;12" />
+    <ItemSpec id="3107012" name="90604030" dec="90604034" type="1" type2="1007" level="1" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605062" starting_time="29" time="10080" duration="12;12" />
+    <ItemSpec id="3107013" name="90604030" dec="90604034" type="1" type2="1007" level="2" para2="30" Order="1" icon1="world_build_farm5" gotype="29" reward="605063" starting_time="29" time="10080" duration="12;12" />
+    <ItemSpec id="3107014" name="90604030" dec="90604034" type="1" type2="1007" level="3" para2="40" Order="1" icon1="world_build_farm5" gotype="29" reward="605064" starting_time="29" time="10080" duration="12;12" />
+    <ItemSpec id="3107015" name="90604033" dec="90604037" type="4" type2="1006" level="1" para1="14" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605065" starting_time="36" time="10080" duration="12;12" />
+    <ItemSpec id="3107016" name="90604033" dec="90604037" type="4" type2="1006" level="2" para1="14" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605066" starting_time="36" time="10080" duration="12;12" />
+    <ItemSpec id="3107017" name="90604033" dec="90604037" type="4" type2="1006" level="3" para1="14" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605067" starting_time="36" time="10080" duration="12;12" />
+    <ItemSpec id="3107018" name="90604032" dec="90604036" type="3" type2="1005" level="1" para2="100" Order="1" icon1="world_build_farm5" gotype="22" reward="605068" starting_time="43" time="7200" duration="12;12" />
+    <ItemSpec id="3107019" name="90604032" dec="90604036" type="3" type2="1005" level="2" para2="300" Order="1" icon1="world_build_farm5" gotype="22" reward="605069" starting_time="43" time="7200" duration="12;12" />
+    <ItemSpec id="3107020" name="90604032" dec="90604036" type="3" type2="1005" level="3" para2="600" Order="1" icon1="world_build_farm5" gotype="22" reward="605070" starting_time="43" time="7200" duration="12;12" />
+
+    <ItemSpec id="3108000" name="90604033" dec="90604037" type="4" type2="1001" level="1" para1="9" para2="500" Order="1" icon1="world_build_farm5" gotype="22" reward="605071" starting_time="1" time="10080" duration="4;4" />
+    <ItemSpec id="3108001" name="90604033" dec="90604037" type="4" type2="1001" level="2" para1="9" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605072" starting_time="1" time="10080" duration="4;4" />
+    <ItemSpec id="3108002" name="90604033" dec="90604037" type="4" type2="1001" level="3" para1="9" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605073" starting_time="1" time="10080" duration="4;4" />
+    <ItemSpec id="3108003" name="90604030" dec="90604034" type="1" type2="1002" level="1" para2="10" Order="1" icon1="world_build_farm5" gotype="29" reward="605074" starting_time="8" time="10080" duration="4;4" />
+    <ItemSpec id="3108004" name="90604030" dec="90604034" type="1" type2="1002" level="2" para2="15" Order="1" icon1="world_build_farm5" gotype="29" reward="605075" starting_time="8" time="10080" duration="4;4" />
+    <ItemSpec id="3108005" name="90604030" dec="90604034" type="1" type2="1002" level="3" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605076" starting_time="8" time="10080" duration="4;4" />
+    <ItemSpec id="3108006" name="90604031" dec="90604035" type="2" type2="1003" level="1" para2="50" Order="1" icon1="world_build_farm5" gotype="29" reward="605077" starting_time="15" time="10080" duration="4;4" />
+    <ItemSpec id="3108007" name="90604031" dec="90604035" type="2" type2="1003" level="2" para2="80" Order="1" icon1="world_build_farm5" gotype="29" reward="605078" starting_time="15" time="10080" duration="4;4" />
+    <ItemSpec id="3108008" name="90604031" dec="90604035" type="2" type2="1003" level="3" para2="100" Order="1" icon1="world_build_farm5" gotype="29" reward="605079" starting_time="15" time="10080" duration="4;4" />
+    <ItemSpec id="3108009" name="90604033" dec="90604037" type="4" type2="1004" level="1" para1="12" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605080" starting_time="22" time="10080" duration="4;4" />
+    <ItemSpec id="3108010" name="90604033" dec="90604037" type="4" type2="1004" level="2" para1="12" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605081" starting_time="22" time="10080" duration="4;4" />
+    <ItemSpec id="3108011" name="90604033" dec="90604037" type="4" type2="1004" level="3" para1="12" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605082" starting_time="22" time="10080" duration="4;4" />
+    <ItemSpec id="3108012" name="90604030" dec="90604034" type="1" type2="1007" level="1" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605083" starting_time="29" time="10080" duration="4;4" />
+    <ItemSpec id="3108013" name="90604030" dec="90604034" type="1" type2="1007" level="2" para2="30" Order="1" icon1="world_build_farm5" gotype="29" reward="605084" starting_time="29" time="10080" duration="4;4" />
+    <ItemSpec id="3108014" name="90604030" dec="90604034" type="1" type2="1007" level="3" para2="40" Order="1" icon1="world_build_farm5" gotype="29" reward="605085" starting_time="29" time="10080" duration="4;4" />
+    <ItemSpec id="3108015" name="90604033" dec="90604037" type="4" type2="1006" level="1" para1="14" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605086" starting_time="36" time="10080" duration="4;4" />
+    <ItemSpec id="3108016" name="90604033" dec="90604037" type="4" type2="1006" level="2" para1="14" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605087" starting_time="36" time="10080" duration="4;4" />
+    <ItemSpec id="3108017" name="90604033" dec="90604037" type="4" type2="1006" level="3" para1="14" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605088" starting_time="36" time="10080" duration="4;4" />
+    <ItemSpec id="3108018" name="90604032" dec="90604036" type="3" type2="1005" level="1" para2="100" Order="1" icon1="world_build_farm5" gotype="22" reward="605089" starting_time="43" time="7200" duration="4;4" />
+    <ItemSpec id="3108019" name="90604032" dec="90604036" type="3" type2="1005" level="2" para2="300" Order="1" icon1="world_build_farm5" gotype="22" reward="605090" starting_time="43" time="7200" duration="4;4" />
+    <ItemSpec id="3108020" name="90604032" dec="90604036" type="3" type2="1005" level="3" para2="600" Order="1" icon1="world_build_farm5" gotype="22" reward="605091" starting_time="43" time="7200" duration="4;4" />
+
+    <ItemSpec id="3109000" name="90604033" dec="90604037" type="4" type2="1001" level="1" para1="9" para2="500" Order="1" icon1="world_build_farm5" gotype="22" reward="605050" starting_time="1" time="10080" duration="13;13" />
+    <ItemSpec id="3109001" name="90604033" dec="90604037" type="4" type2="1001" level="2" para1="9" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605051" starting_time="1" time="10080" duration="13;13" />
+    <ItemSpec id="3109002" name="90604033" dec="90604037" type="4" type2="1001" level="3" para1="9" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605052" starting_time="1" time="10080" duration="13;13" />
+    <ItemSpec id="3109003" name="90604030" dec="90604034" type="1" type2="1002" level="1" para2="10" Order="1" icon1="world_build_farm5" gotype="29" reward="605053" starting_time="8" time="10080" duration="13;13" />
+    <ItemSpec id="3109004" name="90604030" dec="90604034" type="1" type2="1002" level="2" para2="15" Order="1" icon1="world_build_farm5" gotype="29" reward="605054" starting_time="8" time="10080" duration="13;13" />
+    <ItemSpec id="3109005" name="90604030" dec="90604034" type="1" type2="1002" level="3" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605055" starting_time="8" time="10080" duration="13;13" />
+    <ItemSpec id="3109006" name="90604031" dec="90604035" type="2" type2="1003" level="1" para2="50" Order="1" icon1="world_build_farm5" gotype="29" reward="605056" starting_time="15" time="10080" duration="13;13" />
+    <ItemSpec id="3109007" name="90604031" dec="90604035" type="2" type2="1003" level="2" para2="80" Order="1" icon1="world_build_farm5" gotype="29" reward="605057" starting_time="15" time="10080" duration="13;13" />
+    <ItemSpec id="3109008" name="90604031" dec="90604035" type="2" type2="1003" level="3" para2="100" Order="1" icon1="world_build_farm5" gotype="29" reward="605058" starting_time="15" time="10080" duration="13;13" />
+    <ItemSpec id="3109009" name="90604033" dec="90604037" type="4" type2="1004" level="1" para1="12" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605059" starting_time="22" time="10080" duration="13;13" />
+    <ItemSpec id="3109010" name="90604033" dec="90604037" type="4" type2="1004" level="2" para1="12" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605060" starting_time="22" time="10080" duration="13;13" />
+    <ItemSpec id="3109011" name="90604033" dec="90604037" type="4" type2="1004" level="3" para1="12" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605061" starting_time="22" time="10080" duration="13;13" />
+    <ItemSpec id="3109012" name="90604030" dec="90604034" type="1" type2="1007" level="1" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605062" starting_time="29" time="10080" duration="13;13" />
+    <ItemSpec id="3109013" name="90604030" dec="90604034" type="1" type2="1007" level="2" para2="30" Order="1" icon1="world_build_farm5" gotype="29" reward="605063" starting_time="29" time="10080" duration="13;13" />
+    <ItemSpec id="3109014" name="90604030" dec="90604034" type="1" type2="1007" level="3" para2="40" Order="1" icon1="world_build_farm5" gotype="29" reward="605064" starting_time="29" time="10080" duration="13;13" />
+    <ItemSpec id="3109015" name="90604033" dec="90604037" type="4" type2="1006" level="1" para1="14" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605065" starting_time="36" time="10080" duration="13;13" />
+    <ItemSpec id="3109016" name="90604033" dec="90604037" type="4" type2="1006" level="2" para1="14" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605066" starting_time="36" time="10080" duration="13;13" />
+    <ItemSpec id="3109017" name="90604033" dec="90604037" type="4" type2="1006" level="3" para1="14" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605067" starting_time="36" time="10080" duration="13;13" />
+    <ItemSpec id="3109018" name="90604032" dec="90604036" type="3" type2="1005" level="1" para2="100" Order="1" icon1="world_build_farm5" gotype="22" reward="605068" starting_time="43" time="7200" duration="13;13" />
+    <ItemSpec id="3109019" name="90604032" dec="90604036" type="3" type2="1005" level="2" para2="300" Order="1" icon1="world_build_farm5" gotype="22" reward="605069" starting_time="43" time="7200" duration="13;13" />
+    <ItemSpec id="3109020" name="90604032" dec="90604036" type="3" type2="1005" level="3" para2="600" Order="1" icon1="world_build_farm5" gotype="22" reward="605070" starting_time="43" time="7200" duration="13;13" />
+
+
+    <ItemSpec id="3110000" name="90604033" dec="90604037" type="4" type2="1001" level="1" para1="9" para2="500" Order="1" icon1="world_build_farm5" gotype="22" reward="605050" starting_time="1" time="10080" duration="14;99" />
+    <ItemSpec id="3110001" name="90604033" dec="90604037" type="4" type2="1001" level="2" para1="9" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605051" starting_time="1" time="10080" duration="14;99" />
+    <ItemSpec id="3110002" name="90604033" dec="90604037" type="4" type2="1001" level="3" para1="9" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605052" starting_time="1" time="10080" duration="14;99" />
+    <ItemSpec id="3110003" name="90604030" dec="90604034" type="1" type2="1002" level="1" para2="10" Order="1" icon1="world_build_farm5" gotype="29" reward="605053" starting_time="8" time="10080" duration="14;99" />
+    <ItemSpec id="3110004" name="90604030" dec="90604034" type="1" type2="1002" level="2" para2="15" Order="1" icon1="world_build_farm5" gotype="29" reward="605054" starting_time="8" time="10080" duration="14;99" />
+    <ItemSpec id="3110005" name="90604030" dec="90604034" type="1" type2="1002" level="3" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605055" starting_time="8" time="10080" duration="14;99" />
+    <ItemSpec id="3110006" name="90604031" dec="90604035" type="2" type2="1003" level="1" para2="50" Order="1" icon1="world_build_farm5" gotype="29" reward="605056" starting_time="15" time="10080" duration="14;99" />
+    <ItemSpec id="3110007" name="90604031" dec="90604035" type="2" type2="1003" level="2" para2="80" Order="1" icon1="world_build_farm5" gotype="29" reward="605057" starting_time="15" time="10080" duration="14;99" />
+    <ItemSpec id="3110008" name="90604031" dec="90604035" type="2" type2="1003" level="3" para2="100" Order="1" icon1="world_build_farm5" gotype="29" reward="605058" starting_time="15" time="10080" duration="14;99" />
+    <ItemSpec id="3110009" name="90604033" dec="90604037" type="4" type2="1004" level="1" para1="12" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605059" starting_time="22" time="10080" duration="14;99" />
+    <ItemSpec id="3110010" name="90604033" dec="90604037" type="4" type2="1004" level="2" para1="12" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605060" starting_time="22" time="10080" duration="14;99" />
+    <ItemSpec id="3110011" name="90604033" dec="90604037" type="4" type2="1004" level="3" para1="12" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605061" starting_time="22" time="10080" duration="14;99" />
+    <ItemSpec id="3110012" name="90604030" dec="90604034" type="1" type2="1007" level="1" para2="20" Order="1" icon1="world_build_farm5" gotype="29" reward="605062" starting_time="29" time="10080" duration="14;99" />
+    <ItemSpec id="3110013" name="90604030" dec="90604034" type="1" type2="1007" level="2" para2="30" Order="1" icon1="world_build_farm5" gotype="29" reward="605063" starting_time="29" time="10080" duration="14;99" />
+    <ItemSpec id="3110014" name="90604030" dec="90604034" type="1" type2="1007" level="3" para2="40" Order="1" icon1="world_build_farm5" gotype="29" reward="605064" starting_time="29" time="10080" duration="14;99" />
+    <ItemSpec id="3110015" name="90604033" dec="90604037" type="4" type2="1006" level="1" para1="14" para2="1000" Order="1" icon1="world_build_farm5" gotype="22" reward="605065" starting_time="36" time="10080" duration="14;99" />
+    <ItemSpec id="3110016" name="90604033" dec="90604037" type="4" type2="1006" level="2" para1="14" para2="2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605066" starting_time="36" time="10080" duration="14;99" />
+    <ItemSpec id="3110017" name="90604033" dec="90604037" type="4" type2="1006" level="3" para1="14" para2="3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605067" starting_time="36" time="10080" duration="14;99" />
+    <ItemSpec id="3110018" name="90604032" dec="90604036" type="3" type2="1005" level="1" para2="100" Order="1" icon1="world_build_farm5" gotype="22" reward="605068" starting_time="43" time="7200" duration="14;99" />
+    <ItemSpec id="3110019" name="90604032" dec="90604036" type="3" type2="1005" level="2" para2="300" Order="1" icon1="world_build_farm5" gotype="22" reward="605069" starting_time="43" time="7200" duration="14;99" />
+    <ItemSpec id="3110020" name="90604032" dec="90604036" type="3" type2="1005" level="3" para2="600" Order="1" icon1="world_build_farm5" gotype="22" reward="605070" starting_time="43" time="7200" duration="14;99" />
+
+
+    <ItemSpec id="3111000" name="110033020" dec="110033021" type="4" type2="1001" level="1" para1="9" para2="1200" dialog_para="9;1200" Order="1" icon1="world_build_farm5" gotype="22" reward="605050" starting_time="1" time="10080" duration="1;99" />
+    <ItemSpec id="3111001" name="110033020" dec="110033021" type="4" type2="1001" level="2" para1="9" para2="1440" dialog_para="9;1400" Order="1" icon1="world_build_farm5" gotype="22" reward="605051" starting_time="1" time="10080" duration="1;99" />
+    <ItemSpec id="3111002" name="110033020" dec="110033021" type="4" type2="1001" level="3" para1="9" para2="1728" dialog_para="9;1600" Order="1" icon1="world_build_farm5" gotype="22" reward="605052" starting_time="1" time="10080" duration="1;99" />
+    <ItemSpec id="3111003" name="110033020" dec="110033021" type="4" type2="1002" level="1" para1="10" para2="1300" dialog_para="10;1800" Order="1" icon1="world_build_farm5" gotype="22" reward="605053" starting_time="8" time="10080" duration="1;99" />
+    <ItemSpec id="3111004" name="110033020" dec="110033021" type="4" type2="1002" level="2" para1="10" para2="1540" dialog_para="10;2000" Order="1" icon1="world_build_farm5" gotype="22" reward="605054" starting_time="8" time="10080" duration="1;99" />
+    <ItemSpec id="3111005" name="110033020" dec="110033021" type="4" type2="1002" level="3" para1="10" para2="1828" dialog_para="10;2200" Order="1" icon1="world_build_farm5" gotype="22" reward="605055" starting_time="8" time="10080" duration="1;99" />
+    <ItemSpec id="3111006" name="110033020" dec="110033021" type="4" type2="1003" level="1" para1="11" para2="1400" dialog_para="11;2400" Order="1" icon1="world_build_farm5" gotype="22" reward="605056" starting_time="15" time="10080" duration="1;99" />
+    <ItemSpec id="3111007" name="110033020" dec="110033021" type="4" type2="1003" level="2" para1="11" para2="1640" dialog_para="11;2600" Order="1" icon1="world_build_farm5" gotype="22" reward="605057" starting_time="15" time="10080" duration="1;99" />
+    <ItemSpec id="3111008" name="110033020" dec="110033021" type="4" type2="1003" level="3" para1="11" para2="1928" dialog_para="11;2800" Order="1" icon1="world_build_farm5" gotype="22" reward="605058" starting_time="15" time="10080" duration="1;99" />
+    <ItemSpec id="3111009" name="110033020" dec="110033021" type="4" type2="1004" level="1" para1="12" para2="1500" dialog_para="12;3000" Order="1" icon1="world_build_farm5" gotype="22" reward="605059" starting_time="22" time="10080" duration="1;99" />
+    <ItemSpec id="3111010" name="110033020" dec="110033021" type="4" type2="1004" level="2" para1="12" para2="1740" dialog_para="12;3200" Order="1" icon1="world_build_farm5" gotype="22" reward="605060" starting_time="22" time="10080" duration="1;99" />
+    <ItemSpec id="3111011" name="110033020" dec="110033021" type="4" type2="1004" level="3" para1="12" para2="2028" dialog_para="12;3400" Order="1" icon1="world_build_farm5" gotype="22" reward="605061" starting_time="22" time="10080" duration="1;99" />
+    <ItemSpec id="3111012" name="110033020" dec="110033021" type="4" type2="1005" level="1" para1="13" para2="1200" dialog_para="13;3600" Order="1" icon1="world_build_farm5" gotype="22" reward="605062" starting_time="29" time="10080" duration="1;99" />
+    <ItemSpec id="3111013" name="110033020" dec="110033021" type="4" type2="1005" level="2" para1="13" para2="1440" dialog_para="13;3800" Order="1" icon1="world_build_farm5" gotype="22" reward="605063" starting_time="29" time="10080" duration="1;99" />
+    <ItemSpec id="3111014" name="110033020" dec="110033021" type="4" type2="1005" level="3" para1="13" para2="1728" dialog_para="13;4000" Order="1" icon1="world_build_farm5" gotype="22" reward="605064" starting_time="29" time="10080" duration="1;99" />
+    <ItemSpec id="3111015" name="110033020" dec="110033021" type="4" type2="1006" level="1" para1="14" para2="1000" dialog_para="14;4200" Order="1" icon1="world_build_farm5" gotype="22" reward="605065" starting_time="36" time="10080" duration="1;99" />
+    <ItemSpec id="3111016" name="110033020" dec="110033021" type="4" type2="1006" level="2" para1="14" para2="1200" dialog_para="14;4400" Order="1" icon1="world_build_farm5" gotype="22" reward="605066" starting_time="36" time="10080" duration="1;99" />
+    <ItemSpec id="3111017" name="110033020" dec="110033021" type="4" type2="1006" level="3" para1="14" para2="1440" dialog_para="14;4600" Order="1" icon1="world_build_farm5" gotype="22" reward="605067" starting_time="36" time="10080" duration="1;99" />
+    <ItemSpec id="3111018" name="110033020" dec="110033021" type="4" type2="1007" level="1" para1="15" para2="800" dialog_para="15;4800" Order="1" icon1="world_build_farm5" gotype="22" reward="605068" starting_time="43" time="7200" duration="1;99" />
+    <ItemSpec id="3111019" name="110033020" dec="110033021" type="4" type2="1007" level="2" para1="15" para2="960" dialog_para="15;5000" Order="1" icon1="world_build_farm5" gotype="22" reward="605069" starting_time="43" time="7200" duration="1;99" />
+    <ItemSpec id="3111020" name="110033020" dec="110033021" type="4" type2="1007" level="3" para1="15" para2="1152" dialog_para="15;5200" Order="1" icon1="world_build_farm5" gotype="22" reward="605070" starting_time="43" time="7200" duration="1;99" />
+
+
+
+ <!--公会成就系统  繁华-->
+    <ItemSpec id="3260000" name="110258063" type="9" para2="1134000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260001" name="110258063" type="9" para2="5138000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260002" name="110258063" type="9" para2="9632000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260003" name="110258063" type="9" para2="12481000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260004" name="110258063" type="9" para2="15246000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260005" name="110258063" type="9" para2="18095000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260006" name="110258063" type="9" para2="22981000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260007" name="110258063" type="9" para2="26236000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260008" name="110258063" type="9" para2="31934000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260009" name="110258063" type="9" para2="34426000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260010" name="110258063" type="9" para2="35189000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260011" name="110258063" type="9" para2="35945000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260012" name="110258063" type="9" para2="36708000" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260013" name="110258064" type="9" para2="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260014" name="110258065" type="9" para2="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260015" name="110258066" type="9" para2="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260016" name="110258069" type="9" para2="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260017" name="110258070" type="9" para2="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260018" name="110258073" type="9" para2="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260019" name="110258074" type="9" para2="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260020" name="110258075" type="9" para2="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260021" name="110258301" type="9" para2="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260022" name="110258080" type="9" para2="2" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260023" name="110258081" type="9" para2="4" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260024" name="110258082" type="9" para2="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260025" name="110258077" type="9" para2="6" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3260026" name="110258076" type="9" para2="2" starting_time="1" time="70560" duration="1;99" />
+
+ <!--公会成就系统 2.0-->
+    <ItemSpec id="3260027" name="110258063" type="9" para2="15000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260028" name="110258063" type="9" para2="20000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260029" name="110258063" type="9" para2="40000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260030" name="110258063" type="9" para2="60000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260031" name="110258063" type="9" para2="80000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260032" name="110258063" type="9" para2="100000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260033" name="110258063" type="9" para2="130000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260034" name="110258063" type="9" para2="160000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260035" name="110258063" type="9" para2="210000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260036" name="110258063" type="9" para2="280000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260037" name="110258063" type="9" para2="300000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260038" name="110258063" type="9" para2="360000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260039" name="110258063" type="9" para2="450000000" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260040" name="110258065" type="9" para2="1" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260041" name="110258067" type="9" para2="1" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260042" name="110258068" type="9" para2="1" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260043" name="110258390" type="9" para2="1" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260044" name="110258391" type="9" para2="1" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260045" name="110258372" type="9" para2="1" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260046" name="110258373" type="9" para2="1" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260047" name="110258374" type="9" para2="1" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260048" name="110258440" type="9" para2="1" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260049" name="110258375" type="9" para2="2" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260050" name="110258376" type="9" para2="5" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260051" name="110258377" type="9" para2="1" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260052" name="110258393" type="9" para2="8" starting_time="1" time="70560" duration="1;99"/>
+    <ItemSpec id="3260053" name="110258394" type="9" para2="2" starting_time="1" time="70560" duration="1;99"/>
+
+
+
+
+
+<!--1-800插旗用-->
+
+    <ItemSpec id="3260081" name="110258063" type="9" para2="15000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260082" name="110258063" type="9" para2="20000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260083" name="110258063" type="9" para2="40000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260084" name="110258063" type="9" para2="60000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260085" name="110258063" type="9" para2="80000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260086" name="110258063" type="9" para2="100000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260087" name="110258063" type="9" para2="130000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260088" name="110258063" type="9" para2="160000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260089" name="110258063" type="9" para2="210000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260090" name="110258063" type="9" para2="280000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260091" name="110258063" type="9" para2="300000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260092" name="110258063" type="9" para2="360000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260093" name="110258063" type="9" para2="450000000" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260094" name="110258065" type="9" para2="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260095" name="110258067" type="9" para2="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260096" name="110258068" type="9" para2="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260097" name="110258390" type="9" para2="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260098" name="110258391" type="9" para2="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260099" name="110258372" type="9" para2="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260100" name="110258373" type="9" para2="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260101" name="110258374" type="9" para2="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260102" name="110258440" type="9" para2="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260103" name="110258375" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260104" name="110258376" type="9" para2="5" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260105" name="110258377" type="9" para2="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260106" name="110258393" type="9" para2="8" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3260107" name="110258394" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+
+
+
+  <!--四阵营成就任务-先遣-10005-->
+
+    <ItemSpec id="3290201" name="90604030" dec="90604034" type="1" level="2" para2="30" Order="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3290202" name="90604030" dec="90604034" type="1" level="3" para2="40" Order="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3290203" name="90604030" dec="90604034" type="1" level="3" para2="50" Order="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3290204" name="90604033" dec="90604037" type="4" level="1" para1="9" para2="1000" dialog_para="9;1000" Order="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3290205" name="90604033" dec="90604037" type="4" level="1" para1="12" para2="2000" dialog_para="12;2000" Order="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3290206" name="90604033" dec="90604037" type="4" level="1" para1="14" para2="3000" dialog_para="14;3000" Order="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3290207" name="110255122" dec="110255123" type="5" level="1" para2="50000000" Order="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3290208" name="110255122" dec="110255123" type="5" level="2" para2="100000000" Order="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3290209" name="110255122" dec="110255123" type="5" level="1" para2="250000000" Order="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3290210" name="110255122" dec="110255123" type="5" level="2" para2="500000000" Order="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3290211" name="110255122" dec="110255123" type="5" level="3" para2="1000000000" Order="1" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3290212" name="110258069" type="9" para2="5" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3290213" name="110258065" type="9" para2="2" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3290214" name="110258066" type="9" para2="2" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3290215" name="110258067" type="9" para2="2" starting_time="1" time="70560" duration="1;99" />
+    <ItemSpec id="3290216" name="110258075" type="9" para2="1" starting_time="1" time="70560" duration="1;99" />
+
+  <!--四阵营成就任务-正式-10006-->
+  
+    <ItemSpec id="3290301" name="90604030" dec="90604034" type="1" level="2" para2="30" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290302" name="90604030" dec="90604034" type="1" level="3" para2="40" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290303" name="90604030" dec="90604034" type="1" level="3" para2="50" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290304" name="90604033" dec="90604037" type="4" level="1" para1="9" para2="1000" dialog_para="9;1000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290305" name="90604033" dec="90604037" type="4" level="1" para1="12" para2="2000" dialog_para="12;2000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290306" name="90604033" dec="90604037" type="4" level="1" para1="14" para2="3000" dialog_para="14;3000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290307" name="110255122" dec="110255123" type="5" level="1" para2="50000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290308" name="110255122" dec="110255123" type="5" level="2" para2="100000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290309" name="110255122" dec="110255123" type="5" level="1" para2="250000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290310" name="110255122" dec="110255123" type="5" level="2" para2="500000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290311" name="110255122" dec="110255123" type="5" level="3" para2="1000000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290312" name="110258069" type="9" para2="5" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290313" name="110258064" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290314" name="110258065" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290315" name="110258066" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290316" name="110258067" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290317" name="110258075" type="9" para2="1" starting_time="1" time="73440" duration="1;99" />
+
+
+ <!--军功南北成就任务-颜回-10007-->
+
+    <ItemSpec id="3290401" name="90604030" dec="90604034" type="1" level="2" para2="30" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290402" name="90604030" dec="90604034" type="1" level="3" para2="40" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290403" name="90604030" dec="90604034" type="1" level="3" para2="50" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290404" name="90604033" dec="90604037" type="4" level="1" para1="9" para2="1000" dialog_para="9;1000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290405" name="90604033" dec="90604037" type="4" level="1" para1="12" para2="2000" dialog_para="12;2000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290406" name="90604033" dec="90604037" type="4" level="1" para1="14" para2="3000" dialog_para="14;3000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290407" name="110255122" dec="110255123" type="5" level="1" para2="50000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290408" name="110255122" dec="110255123" type="5" level="2" para2="100000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290409" name="110255122" dec="110255123" type="5" level="1" para2="250000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290410" name="110255122" dec="110255123" type="5" level="2" para2="500000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290411" name="110255122" dec="110255123" type="5" level="3" para2="1000000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290412" name="110258069" type="9" para2="5" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290413" name="110258064" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290414" name="110258065" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290415" name="110258066" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290416" name="110258067" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290417" name="110258075" type="9" para2="1" starting_time="1" time="73440" duration="1;99"/>
+
+<!-- 凛冬成就任务-先遣-10010 -->
+
+    <ItemSpec id="3290501" name="90604030" dec="90604034" type="1" level="2" para2="30" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290502" name="90604030" dec="90604034" type="1" level="3" para2="40" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290503" name="90604030" dec="90604034" type="1" level="3" para2="50" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290504" name="90604033" dec="90604037" type="4" level="1" para1="9" para2="1000" dialog_para="9;1000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290505" name="90604033" dec="90604037" type="4" level="1" para1="12" para2="2000" dialog_para="12;2000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290506" name="90604033" dec="90604037" type="4" level="1" para1="14" para2="3000" dialog_para="14;3000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290507" name="110255122" dec="110255123" type="5" level="1" para2="50000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290508" name="110255122" dec="110255123" type="5" level="2" para2="100000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290509" name="110255122" dec="110255123" type="5" level="1" para2="250000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290510" name="110255122" dec="110255123" type="5" level="2" para2="500000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290511" name="110255122" dec="110255123" type="5" level="3" para2="1000000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290512" name="110258069" type="9" para2="5" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290513" name="110258064" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290514" name="110258065" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290515" name="110258066" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290516" name="110258067" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3290517" name="110258075" type="9" para2="1" starting_time="1" time="73440" duration="1;99" />
+
+
+ <!--赛季英雄南北成就任务-繁华-10011-->
+
+    <ItemSpec id="3290601" name="90604030" dec="90604034" type="1" level="2" para2="30" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290602" name="90604030" dec="90604034" type="1" level="3" para2="40" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290603" name="90604030" dec="90604034" type="1" level="3" para2="50" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290604" name="90604033" dec="90604037" type="4" level="1" para1="9" para2="1000" dialog_para="9;1000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290605" name="90604033" dec="90604037" type="4" level="1" para1="12" para2="2000" dialog_para="12;2000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290606" name="90604033" dec="90604037" type="4" level="1" para1="14" para2="3000" dialog_para="14;3000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290607" name="110255122" dec="110255123" type="5" level="1" para2="50000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290608" name="110255122" dec="110255123" type="5" level="2" para2="100000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290609" name="110255122" dec="110255123" type="5" level="1" para2="250000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290610" name="110255122" dec="110255123" type="5" level="2" para2="500000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290611" name="110255122" dec="110255123" type="5" level="3" para2="1000000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290612" name="110258069" type="9" para2="5" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290613" name="110258064" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290614" name="110258065" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290615" name="110258066" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290616" name="110258067" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290617" name="110258075" type="9" para2="1" starting_time="1" time="73440" duration="1;99"/>
+
+
+
+    <ItemSpec id="3290701" name="90604030" dec="90604034" type="1" level="2" para2="30" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290702" name="90604030" dec="90604034" type="1" level="3" para2="40" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290703" name="90604030" dec="90604034" type="1" level="3" para2="50" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290704" name="90604033" dec="90604037" type="4" level="1" para1="9" para2="1000" dialog_para="9;1000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290705" name="90604033" dec="90604037" type="4" level="1" para1="12" para2="2000" dialog_para="12;2000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290706" name="90604033" dec="90604037" type="4" level="1" para1="14" para2="3000" dialog_para="14;3000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290707" name="110255122" dec="110255123" type="5" level="1" para2="50000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290708" name="110255122" dec="110255123" type="5" level="2" para2="100000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290709" name="110255122" dec="110255123" type="5" level="1" para2="250000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290710" name="110255122" dec="110255123" type="5" level="2" para2="500000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290711" name="110255122" dec="110255123" type="5" level="3" para2="1000000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290712" name="110258069" type="9" para2="5" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290713" name="110258064" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290714" name="110258065" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290715" name="110258066" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290716" name="110258067" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290717" name="110258075" type="9" para2="1" starting_time="1" time="73440" duration="1;99"/>
+
+    <ItemSpec id="3290801" name="90604030" dec="90604034" type="1" level="2" para2="30" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290802" name="90604030" dec="90604034" type="1" level="3" para2="40" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290803" name="90604030" dec="90604034" type="1" level="3" para2="50" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290804" name="90604033" dec="90604037" type="4" level="1" para1="9" para2="1000" dialog_para="9;1000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290805" name="90604033" dec="90604037" type="4" level="1" para1="12" para2="2000" dialog_para="12;2000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290806" name="90604033" dec="90604037" type="4" level="1" para1="14" para2="3000" dialog_para="14;3000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290807" name="110255122" dec="110255123" type="5" level="1" para2="50000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290808" name="110255122" dec="110255123" type="5" level="2" para2="100000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290809" name="110255122" dec="110255123" type="5" level="1" para2="250000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290810" name="110255122" dec="110255123" type="5" level="2" para2="500000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290811" name="110255122" dec="110255123" type="5" level="3" para2="1000000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290812" name="110258069" type="9" para2="5" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290813" name="110258064" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290814" name="110258065" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290815" name="110258066" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290816" name="110258067" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3290817" name="110258075" type="9" para2="1" starting_time="1" time="73440" duration="1;99"/>
+	
+	
+  <!--南北阵营建筑公会成就  10018-->
+    <ItemSpec id="3300701" name="90604030" dec="90604034" type="1" level="2" para2="30" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3300702" name="90604030" dec="90604034" type="1" level="3" para2="40" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3300703" name="90604030" dec="90604034" type="1" level="3" para2="50" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3300704" name="90604033" dec="90604037" type="4" level="1" para1="9" para2="1000" dialog_para="9;1000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3300705" name="90604033" dec="90604037" type="4" level="1" para1="12" para2="2000" dialog_para="12;2000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3300706" name="90604033" dec="90604037" type="4" level="1" para1="14" para2="3000" dialog_para="14;3000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3300707" name="110255122" dec="110255123" type="5" level="1" para2="50000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3300708" name="110255122" dec="110255123" type="5" level="2" para2="100000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3300709" name="110255122" dec="110255123" type="5" level="1" para2="250000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3300710" name="110255122" dec="110255123" type="5" level="2" para2="500000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3300711" name="110255122" dec="110255123" type="5" level="3" para2="1000000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3300712" name="110258069" type="9" para2="5" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3300713" name="110258064" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3300714" name="110258065" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3300715" name="110258066" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3300716" name="110258067" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3300717" name="110258075" type="9" para2="1" starting_time="1" time="73440" duration="1;99"/>	
+
+    <ItemSpec id="3100022" name="110467008" dec="110467001" type="14" para1="3" para2="1000" dialog_para="1000" icon1="quest_Output_icon2" gotype="4" go="0"/>
+    <ItemSpec id="3100023" name="110467009" dec="110467002" type="15" para1="1" para2="5" dialog_para="5" icon1="FB_IC_sheshajiangshi" gotype="22" go="0"/>
+    <ItemSpec id="3100024" name="110467009" dec="110467003" type="15" para1="1" para2="5" dialog_para="5" icon1="FB_IC_sheshajiangshi" gotype="22" go="0"/>
+    <ItemSpec id="3100025" name="110467012" dec="110467004" type="19" para2="10" dialog_para="10" icon1="quest_Hall of War_icon1" gotype="9"/>
+    <ItemSpec id="3100026" name="110467011" dec="110467005" type="14" para1="2" para2="1000" dialog_para="1000" icon1="quest_Output_icon2" gotype="4" go="0"/>
+    <ItemSpec id="3100027" name="110467009" dec="110467006" type="15" para1="1" para2="5" dialog_para="5" icon1="FB_IC_sheshajiangshi" gotype="22" go="0"/>
+    <ItemSpec id="3100028" name="110467009" dec="110467006" type="15" para1="1" para2="5" dialog_para="5" icon1="FB_IC_sheshajiangshi" gotype="22" go="0"/>
+    <ItemSpec id="3100029" name="110467009" dec="110467006" type="15" para1="1" para2="5" dialog_para="5" icon1="FB_IC_sheshajiangshi" gotype="22" go="0"/>
+    <ItemSpec id="3100030" name="110467010" dec="110467007" type="16" para1="1" para2="2" dialog_para="2" icon1="scws_icon_dy" gotype="22" go="0"/>
+
+
+  <!--四阵营成就任务-战地手册版本-正式服-10020-->
+    <ItemSpec id="3302301" name="90604030" dec="90604034" type="1" level="2" para2="30" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302302" name="90604030" dec="90604034" type="1" level="3" para2="40" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302303" name="90604030" dec="90604034" type="1" level="3" para2="50" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302304" name="90604033" dec="90604037" type="4" level="1" para1="9" para2="1000" dialog_para="9;1000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302305" name="90604033" dec="90604037" type="4" level="1" para1="12" para2="2000" dialog_para="12;2000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302306" name="90604033" dec="90604037" type="4" level="1" para1="14" para2="3000" dialog_para="14;3000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302307" name="110255122" dec="110255123" type="5" level="1" para2="50000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302308" name="110255122" dec="110255123" type="5" level="2" para2="100000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302309" name="110255122" dec="110255123" type="5" level="1" para2="250000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302310" name="110255122" dec="110255123" type="5" level="2" para2="500000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302311" name="110255122" dec="110255123" type="5" level="3" para2="1000000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302312" name="110258069" type="9" para2="5" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302313" name="110258064" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302314" name="110258065" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302315" name="110258066" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302316" name="110258067" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302317" name="110258075" type="9" para2="1" starting_time="1" time="73440" duration="1;99" />
+
+  <!--南北阵营建筑赛季建筑公会成就  10021-->      
+		<ItemSpec id="3302401" name="90604030" dec="90604034" type="1" level="2" para2="30" Order="1" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3302402" name="90604030" dec="90604034" type="1" level="3" para2="40" Order="1" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3302403" name="90604030" dec="90604034" type="1" level="3" para2="50" Order="1" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3302404" name="90604033" dec="90604037" type="4" level="1" para1="9" para2="1000" Order="1" starting_time="1" time="73440" duration="1;99" dialog_para="9;1000"/>
+		<ItemSpec id="3302405" name="90604033" dec="90604037" type="4" level="1" para1="12" para2="2000" Order="1" starting_time="1" time="73440" duration="1;99" dialog_para="12;2000"/>
+		<ItemSpec id="3302406" name="90604033" dec="90604037" type="4" level="1" para1="14" para2="3000" Order="1" starting_time="1" time="73440" duration="1;99" dialog_para="14;3000"/>
+		<ItemSpec id="3302407" name="110255122" dec="110255123" type="5" level="1" para2="50000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3302408" name="110255122" dec="110255123" type="5" level="2" para2="100000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3302409" name="110255122" dec="110255123" type="5" level="1" para2="250000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3302410" name="110255122" dec="110255123" type="5" level="2" para2="500000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3302411" name="110255122" dec="110255123" type="5" level="3" para2="1000000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3302412" name="110258069" type="9" para2="5" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3302413" name="110258064" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3302414" name="110258065" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3302415" name="110258066" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3302416" name="110258067" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3302417" name="110258075" type="9" para2="1" starting_time="1" time="73440" duration="1;99"/>
+		<ItemSpec id="3302418" name="110111531" dec="110111531" type="20" para1="1" para2="1" starting_time="1" time="73440" duration="2;99" dialog_para="1"/>
+		<ItemSpec id="3302419" name="110111531" dec="110111531" type="20" para1="5" para2="5" starting_time="1" time="73440" duration="2;99" dialog_para="5"/>
+		<ItemSpec id="3302420" name="110111531" dec="110111531" type="20" para1="10" para2="10" starting_time="1" time="73440" duration="2;99" dialog_para="10"/>
+		<ItemSpec id="3302421" name="110111531" dec="110111531" type="20" para1="20" para2="20" starting_time="1" time="73440" duration="2;99" dialog_para="20"/>
+		<ItemSpec id="3302422" name="110111531" dec="110111531" type="20" para1="30" para2="30" starting_time="1" time="73440" duration="2;99" dialog_para="30"/>
+		<ItemSpec id="3302423" name="110111532" dec="110111532" type="21" para1="3" para2="1" starting_time="1" time="73440" duration="2;99" dialog_para="1"/>
+		<ItemSpec id="3302424" name="110111532" dec="110111532" type="21" para1="3" para2="2" starting_time="1" time="73440" duration="2;99" dialog_para="2"/>
+		<ItemSpec id="3302425" name="110111532" dec="110111532" type="21" para1="3" para2="3" starting_time="1" time="73440" duration="2;99" dialog_para="3"/>
+		<ItemSpec id="3302426" name="110111532" dec="110111532" type="21" para1="3" para2="4" starting_time="1" time="73440" duration="2;99" dialog_para="4"/>
+		<ItemSpec id="3302427" name="110111532" dec="110111532" type="21" para1="3" para2="5" starting_time="1" time="73440" duration="2;99" dialog_para="5"/>
+		<ItemSpec id="3302428" name="110111534" dec="110111534" type="21" para1="5" para2="1" starting_time="1" time="73440" duration="2;99" dialog_para="1"/>
+		<ItemSpec id="3302429" name="110111534" dec="110111534" type="21" para1="5" para2="2" starting_time="1" time="73440" duration="2;99" dialog_para="2"/>
+		<ItemSpec id="3302430" name="110111534" dec="110111534" type="21" para1="5" para2="3" starting_time="1" time="73440" duration="2;99" dialog_para="3"/>
+		<ItemSpec id="3302431" name="110111534" dec="110111534" type="21" para1="5" para2="4" starting_time="1" time="73440" duration="2;99" dialog_para="4"/>
+		<ItemSpec id="3302432" name="110111534" dec="110111534" type="21" para1="5" para2="5" starting_time="1" time="73440" duration="2;99" dialog_para="5"/>
+		<ItemSpec id="3302433" name="110111533" dec="110111533" type="21" para1="4" para2="1" starting_time="1" time="73440" duration="2;99" dialog_para="1"/>
+		<ItemSpec id="3302434" name="110111533" dec="110111533" type="21" para1="4" para2="2" starting_time="1" time="73440" duration="2;99" dialog_para="2"/>
+		<ItemSpec id="3302435" name="110111533" dec="110111533" type="21" para1="4" para2="3" starting_time="1" time="73440" duration="2;99" dialog_para="3"/>
+		<ItemSpec id="3302436" name="110111533" dec="110111533" type="21" para1="4" para2="4" starting_time="1" time="73440" duration="2;99" dialog_para="4"/>
+		<ItemSpec id="3302437" name="110111533" dec="110111533" type="21" para1="4" para2="5" starting_time="1" time="73440" duration="2;99" dialog_para="5"/>
+		<ItemSpec id="3302438" name="110111535" dec="110111535" type="22" para1="10" para2="10" starting_time="1" time="73440" duration="2;99" dialog_para="10"/>
+		<ItemSpec id="3302439" name="110111535" dec="110111535" type="22" para1="20" para2="20" starting_time="1" time="73440" duration="2;99" dialog_para="20"/>
+		<ItemSpec id="3302440" name="110111535" dec="110111535" type="22" para1="30" para2="30" starting_time="1" time="73440" duration="2;99" dialog_para="30"/>
+		<ItemSpec id="3302441" name="110111535" dec="110111535" type="22" para1="50" para2="50" starting_time="1" time="73440" duration="2;99" dialog_para="50"/>
+		<ItemSpec id="3302442" name="110111535" dec="110111535" type="22" para1="80" para2="80" starting_time="1" time="73440" duration="2;99" dialog_para="80"/>
+
+  <!--南北阵营-建筑赛季建筑公会成就  10022--> 
+    <ItemSpec id="3302501" name="90604030" dec="90604034" type="1" level="2" para2="30" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302502" name="90604030" dec="90604034" type="1" level="3" para2="40" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302503" name="90604030" dec="90604034" type="1" level="3" para2="50" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302504" name="90604033" dec="90604037" type="4" level="1" para1="9" para2="1000" dialog_para="9;1000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302505" name="90604033" dec="90604037" type="4" level="1" para1="12" para2="2000" dialog_para="12;2000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302506" name="90604033" dec="90604037" type="4" level="1" para1="14" para2="3000" dialog_para="14;3000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302507" name="110255122" dec="110255123" type="5" level="1" para2="50000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302508" name="110255122" dec="110255123" type="5" level="2" para2="100000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302509" name="110255122" dec="110255123" type="5" level="1" para2="250000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302510" name="110255122" dec="110255123" type="5" level="2" para2="500000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302511" name="110255122" dec="110255123" type="5" level="3" para2="1000000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302512" name="110258069" type="9" para2="5" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302513" name="110258064" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302514" name="110258065" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302515" name="110258066" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302516" name="110258067" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302517" name="110258075" type="9" para2="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302518" name="110111531" dec="110111531" type="20" para1="1" para2="1" dialog_para="1" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302519" name="110111531" dec="110111531" type="20" para1="5" para2="5" dialog_para="5" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302520" name="110111531" dec="110111531" type="20" para1="10" para2="10" dialog_para="10" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302521" name="110111531" dec="110111531" type="20" para1="20" para2="20" dialog_para="20" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302522" name="110111531" dec="110111531" type="20" para1="30" para2="30" dialog_para="30" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302523" name="110111532" dec="110111532" type="21" para1="3" para2="1" dialog_para="1" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302524" name="110111532" dec="110111532" type="21" para1="3" para2="2" dialog_para="2" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302525" name="110111532" dec="110111532" type="21" para1="3" para2="3" dialog_para="3" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302526" name="110111532" dec="110111532" type="21" para1="3" para2="4" dialog_para="4" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302527" name="110111532" dec="110111532" type="21" para1="3" para2="5" dialog_para="5" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302528" name="110111534" dec="110111534" type="21" para1="5" para2="1" dialog_para="1" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302529" name="110111534" dec="110111534" type="21" para1="5" para2="2" dialog_para="2" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302530" name="110111534" dec="110111534" type="21" para1="5" para2="3" dialog_para="3" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302531" name="110111534" dec="110111534" type="21" para1="5" para2="4" dialog_para="4" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302532" name="110111534" dec="110111534" type="21" para1="5" para2="5" dialog_para="5" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302533" name="110111533" dec="110111533" type="21" para1="4" para2="1" dialog_para="1" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302534" name="110111533" dec="110111533" type="21" para1="4" para2="2" dialog_para="2" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302535" name="110111533" dec="110111533" type="21" para1="4" para2="3" dialog_para="3" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302536" name="110111533" dec="110111533" type="21" para1="4" para2="4" dialog_para="4" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302537" name="110111533" dec="110111533" type="21" para1="4" para2="5" dialog_para="5" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302538" name="110111535" dec="110111535" type="22" para1="10" para2="10" dialog_para="10" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302539" name="110111535" dec="110111535" type="22" para1="20" para2="20" dialog_para="20" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302540" name="110111535" dec="110111535" type="22" para1="30" para2="30" dialog_para="30" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302541" name="110111535" dec="110111535" type="22" para1="50" para2="50" dialog_para="50" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302542" name="110111535" dec="110111535" type="22" para1="80" para2="80" dialog_para="80" starting_time="1" time="73440" duration="2;99"/>
+
+  <!--四阵营凛冬-建筑赛季建筑公会成就  10023-->
+    <ItemSpec id="3302601" name="90604030" dec="90604034" type="1" level="2" para2="30" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302602" name="90604030" dec="90604034" type="1" level="3" para2="40" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302603" name="90604030" dec="90604034" type="1" level="3" para2="50" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302604" name="90604033" dec="90604037" type="4" level="1" para1="9" para2="1000" dialog_para="9;1000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302605" name="90604033" dec="90604037" type="4" level="1" para1="12" para2="2000" dialog_para="12;2000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302606" name="90604033" dec="90604037" type="4" level="1" para1="14" para2="3000" dialog_para="14;3000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302607" name="110255122" dec="110255123" type="5" level="1" para2="50000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302608" name="110255122" dec="110255123" type="5" level="2" para2="100000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302609" name="110255122" dec="110255123" type="5" level="1" para2="250000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302610" name="110255122" dec="110255123" type="5" level="2" para2="500000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302611" name="110255122" dec="110255123" type="5" level="3" para2="1000000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302612" name="110258069" type="9" para2="5" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302613" name="110258064" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302614" name="110258065" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302615" name="110258066" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302616" name="110258067" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302617" name="110258075" type="9" para2="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302618" name="110111531" dec="110111531" type="20" para1="1" para2="1" dialog_para="1" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302619" name="110111531" dec="110111531" type="20" para1="5" para2="5" dialog_para="5" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302620" name="110111531" dec="110111531" type="20" para1="10" para2="10" dialog_para="10" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302621" name="110111531" dec="110111531" type="20" para1="20" para2="20" dialog_para="20" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302622" name="110111531" dec="110111531" type="20" para1="30" para2="30" dialog_para="30" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302623" name="110111532" dec="110111532" type="21" para1="3" para2="1" dialog_para="1" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302624" name="110111532" dec="110111532" type="21" para1="3" para2="2" dialog_para="2" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302625" name="110111532" dec="110111532" type="21" para1="3" para2="3" dialog_para="3" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302626" name="110111532" dec="110111532" type="21" para1="3" para2="4" dialog_para="4" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302627" name="110111532" dec="110111532" type="21" para1="3" para2="5" dialog_para="5" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302628" name="110111534" dec="110111534" type="21" para1="5" para2="1" dialog_para="1" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302629" name="110111534" dec="110111534" type="21" para1="5" para2="2" dialog_para="2" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302630" name="110111534" dec="110111534" type="21" para1="5" para2="3" dialog_para="3" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302631" name="110111534" dec="110111534" type="21" para1="5" para2="4" dialog_para="4" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302632" name="110111534" dec="110111534" type="21" para1="5" para2="5" dialog_para="5" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302633" name="110111533" dec="110111533" type="21" para1="4" para2="1" dialog_para="1" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302634" name="110111533" dec="110111533" type="21" para1="4" para2="2" dialog_para="2" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302635" name="110111533" dec="110111533" type="21" para1="4" para2="3" dialog_para="3" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302636" name="110111533" dec="110111533" type="21" para1="4" para2="4" dialog_para="4" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302637" name="110111533" dec="110111533" type="21" para1="4" para2="5" dialog_para="5" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302638" name="110111535" dec="110111535" type="22" para1="10" para2="10" dialog_para="10" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302639" name="110111535" dec="110111535" type="22" para1="20" para2="20" dialog_para="20" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302640" name="110111535" dec="110111535" type="22" para1="30" para2="30" dialog_para="30" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302641" name="110111535" dec="110111535" type="22" para1="50" para2="50" dialog_para="50" starting_time="1" time="73440" duration="2;99"/>
+    <ItemSpec id="3302642" name="110111535" dec="110111535" type="22" para1="80" para2="80" dialog_para="80" starting_time="1" time="73440" duration="2;99"/>
+
+
+  <!--南北阵营-水战版公会成就  10024-->   
+    <ItemSpec id="3302701" name="90604030" dec="90604034" type="1" level="2" para2="30" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302702" name="90604030" dec="90604034" type="1" level="3" para2="40" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302703" name="90604030" dec="90604034" type="1" level="3" para2="50" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302704" name="90604033" dec="90604037" type="4" level="1" para1="9" para2="1000" dialog_para="9;1000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302705" name="90604033" dec="90604037" type="4" level="1" para1="12" para2="2000" dialog_para="12;2000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302706" name="90604033" dec="90604037" type="4" level="1" para1="14" para2="3000" dialog_para="14;3000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302707" name="110255122" dec="110255123" type="5" level="1" para2="50000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302708" name="110255122" dec="110255123" type="5" level="2" para2="100000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302709" name="110255122" dec="110255123" type="5" level="1" para2="250000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302710" name="110255122" dec="110255123" type="5" level="2" para2="500000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302711" name="110255122" dec="110255123" type="5" level="3" para2="1000000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302712" name="110258069" type="9" para2="5" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302713" name="110258064" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302714" name="110258065" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302715" name="110258066" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302716" name="110258067" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302717" name="110258075" type="9" para2="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302743" name="112120057" dec="112120057" type="23" para2="5" dialog_para="5" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302744" name="112120057" dec="112120057" type="23" para2="10" dialog_para="10" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302745" name="112120057" dec="112120057" type="23" para2="20" dialog_para="20" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302746" name="112120057" dec="112120057" type="23" para2="25" dialog_para="25" Order="1" starting_time="1" time="73440" duration="1;99" />
+
+
+  <!--南北赛季+赛季职业阵营成就  10025--> 
+    <ItemSpec id="3302801" name="90604030" dec="90604034" type="1" level="2" para2="30" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302802" name="90604030" dec="90604034" type="1" level="3" para2="40" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302803" name="90604030" dec="90604034" type="1" level="3" para2="50" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302804" name="90604033" dec="90604037" type="4" level="1" para1="9" para2="1000" dialog_para="9;1000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302805" name="90604033" dec="90604037" type="4" level="1" para1="12" para2="2000" dialog_para="12;2000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302806" name="90604033" dec="90604037" type="4" level="1" para1="14" para2="3000" dialog_para="14;3000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302807" name="110255122" dec="110255123" type="5" level="1" para2="50000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302808" name="110255122" dec="110255123" type="5" level="2" para2="100000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302809" name="110255122" dec="110255123" type="5" level="1" para2="250000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302810" name="110255122" dec="110255123" type="5" level="2" para2="500000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302811" name="110255122" dec="110255123" type="5" level="3" para2="1000000000" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302812" name="110258069" type="9" para2="5" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302813" name="110258064" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302814" name="110258065" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302815" name="110258066" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302816" name="110258067" type="9" para2="2" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302817" name="110258075" type="9" para2="1" starting_time="1" time="73440" duration="1;99"/>
+
+
+  <!--南北赛季+水战+跑商玩法成就  10026--> 
+    <ItemSpec id="3302901" name="90604030" dec="90604034" type="1" level="2" para2="30" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302902" name="90604030" dec="90604034" type="1" level="3" para2="40" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302903" name="90604030" dec="90604034" type="1" level="3" para2="50" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302904" name="90604033" dec="90604037" type="4" level="1" para1="9" para2="1000" dialog_para="9;1000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302905" name="90604033" dec="90604037" type="4" level="1" para1="12" para2="2000" dialog_para="12;2000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302906" name="90604033" dec="90604037" type="4" level="1" para1="14" para2="3000" dialog_para="14;3000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302907" name="110255122" dec="110255123" type="5" level="1" para2="50000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302908" name="110255122" dec="110255123" type="5" level="2" para2="100000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302909" name="110255122" dec="110255123" type="5" level="1" para2="250000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302910" name="110255122" dec="110255123" type="5" level="2" para2="500000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302911" name="110255122" dec="110255123" type="5" level="3" para2="1000000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302912" name="110258069" type="9" para2="5" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302913" name="110258064" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302914" name="110258065" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302915" name="110258066" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302916" name="110258067" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302917" name="110258075" type="9" para2="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302943" name="112120057" dec="112120057" type="23" para2="5" dialog_para="5" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302944" name="112120057" dec="112120057" type="23" para2="10" dialog_para="10" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3302945" name="112120057" dec="112120057" type="23" para2="20" dialog_para="20" Order="1" starting_time="1" time="73440" duration="1;99"/>
+    <ItemSpec id="3302946" name="112120057" dec="112120057" type="23" para2="25" dialog_para="25" Order="1" starting_time="1" time="73440" duration="1;99" />
+
+
+  <!--南北赛季+英雄信条成就  10027--> 
+    <ItemSpec id="3303001" name="90604030" dec="90604034" type="1" level="2" para2="30" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3303002" name="90604030" dec="90604034" type="1" level="3" para2="40" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3303003" name="90604030" dec="90604034" type="1" level="3" para2="50" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3303004" name="90604033" dec="90604037" type="4" level="1" para1="9" para2="1000" dialog_para="9;1000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3303005" name="90604033" dec="90604037" type="4" level="1" para1="12" para2="2000" dialog_para="12;2000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3303006" name="90604033" dec="90604037" type="4" level="1" para1="14" para2="3000" dialog_para="14;3000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3303007" name="110255122" dec="110255123" type="5" level="1" para2="50000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3303008" name="110255122" dec="110255123" type="5" level="2" para2="100000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3303009" name="110255122" dec="110255123" type="5" level="1" para2="250000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3303010" name="110255122" dec="110255123" type="5" level="2" para2="500000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3303011" name="110255122" dec="110255123" type="5" level="3" para2="1000000000" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3303012" name="110258069" type="9" para2="5" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3303013" name="110258064" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3303014" name="110258065" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3303015" name="110258066" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3303016" name="110258067" type="9" para2="2" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3303017" name="110258075" type="9" para2="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3303018" name="112152004" type="24" para2="5" dialog_para="5" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3303019" name="112152004" type="24" para2="10" dialog_para="10" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3303020" name="112152004" type="24" para2="15" dialog_para="15" Order="1" starting_time="1" time="73440" duration="1;99" />
+    <ItemSpec id="3303021" name="112152004" type="24" para2="20" dialog_para="20" Order="1" starting_time="1" time="73440" duration="1;99" />
+
+  
+
+
+    </Group>
+
+</tns:database>

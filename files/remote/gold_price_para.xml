@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <Group id="gold_price_para">  
+
+	<ItemSpec id="1001" funtap="109000" price="4.99"/>
+    <ItemSpec id="1002" funtap="219000" price="9.99"/>
+    <ItemSpec id="1003" funtap="449000" price="19.99"/>
+    <ItemSpec id="1004" funtap="1099000" price="49.99"/>
+    <ItemSpec id="1005" funtap="2199000" price="99.99"/>
+    <ItemSpec id="1006" funtap="549000" price="24.99"/>
+    <ItemSpec id="1007" funtap="22000" price="0.99"/>
+	<ItemSpec id="1008" funtap="43400" price="1.99"/>
+	<ItemSpec id="1009" funtap="130800" price="5.99"/>
+	<ItemSpec id="1010" funtap="65300" price="2.99"/>
+	<ItemSpec id="1011" funtap="349200" price="15.99"/>
+	<ItemSpec id="1012" funtap="1659900" price="75.99"/>
+	<ItemSpec id="1013" funtap="1201100" price="54.99"/>  
+	<ItemSpec id="1014" funtap="567700" price="25.99"/>
+	<ItemSpec id="1015" funtap="589500" price="26.99"/>	
+	<ItemSpec id="1016" funtap="152600" price="6.99"/>	
+	<ItemSpec id="1017" funtap="261900" price="11.99"/>	
+	<ItemSpec id="1018" funtap="480300" price="21.99"/>	
+	<ItemSpec id="1019" funtap="1157400" price="52.99"/>	
+	<ItemSpec id="1020" funtap="829800" price="37.99"/>		
+	<ItemSpec id="1021" funtap="1310400" price="59.99"/>		
+	<ItemSpec id="1022" funtap="1790900" price="81.99"/>		
+	<ItemSpec id="1023" funtap="960900" price="43.99"/>	
+	<ItemSpec id="1024" funtap="786100" price="35.99"/>	
+	<ItemSpec id="1025" funtap="917200" price="41.99"/>	
+	<ItemSpec id="1026" funtap="939000" price="42.99"/>	
+	<ItemSpec id="1027" funtap="414800" price="18.99"/>	
+	<ItemSpec id="1028" funtap="1943800" price="88.99"/>		
+	<ItemSpec id="1029" funtap="1048200" price="47.99"/>		
+	
+	</Group>
+</tns:database>

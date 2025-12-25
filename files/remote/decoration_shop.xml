@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="decoration_shop">
+    <ItemSpec id="10003" type="1" decoration_id="80006" goods_id="215723" decoration_image="10006_image" price="2000" order="998" price_sale="1000" discount="50"/>
+    <ItemSpec id="10004" type="1" decoration_id="80007" goods_id="215724" decoration_image="10007_image" price="2000" order="997" price_sale="1000" discount="50"/>
+    <ItemSpec id="10005" type="1" decoration_id="80003" goods_id="215658" decoration_image="10001_image" price="2000" order="996" price_sale="1000" discount="50"/>
+		<ItemSpec id="10006" type="1" decoration_id="80005" goods_id="215660" decoration_image="10002_image" price="2000" order="995" price_sale="1000" discount="50"/>
+    <ItemSpec id="10007" type="1" decoration_id="80001" goods_id="215656" decoration_image="10003_image" price="800" order="994" price_sale="400" discount="50"/>
+    <ItemSpec id="10009" type="1" decoration_id="80002" goods_id="215657" decoration_image="10005_image" price="800" order="992" price_sale="400" discount="50"/>
+		<ItemSpec id="10010" type="1" decoration_id="80013" goods_id="215800" decoration_image="100013_image" price="2000" order="956" price_sale="1000" discount="50"/>
+		<ItemSpec id="10011" type="1" decoration_id="80014" goods_id="215801" decoration_image="100014_image" price="2000" order="956" price_sale="1000" discount="50"/>
+		<ItemSpec id="10012" type="1" decoration_id="80020" goods_id="215824" decoration_image="100015_image" price="2000" order="989" price_sale="1000" discount="50"/>
+		<ItemSpec id="10013" type="1" decoration_id="80021" goods_id="215825" decoration_image="100016_image" price="2000" order="988" price_sale="1000" discount="50"/>
+		<ItemSpec id="10014" type="1" decoration_id="80016" goods_id="215803" decoration_image="100017_image" price="2000" order="987" price_sale="1000" discount="50"/>
+		<ItemSpec id="10015" type="1" decoration_id="80015" goods_id="215802" decoration_image="100018_image" price="2000" order="986" price_sale="1000" discount="50"/>
+    <ItemSpec id="10016" type="1" decoration_id="80027" goods_id="219123" decoration_image="100019_image" price="2000" order="985" price_sale="1000" discount="50"/>
+    <ItemSpec id="10017" type="1" decoration_id="80026" goods_id="219122" decoration_image="100020_image" price="2000" order="984" price_sale="1000" discount="50"/>
+    <ItemSpec id="10018" type="1" decoration_id="80030" goods_id="219127" decoration_image="100021_image" price="2000" order="983" price_sale="1000" discount="50"/>
+		<ItemSpec id="10019" type="1" decoration_id="80031" goods_id="219128" decoration_image="100022_image" price="2000" order="982" price_sale="1000" discount="50"/>
+    <ItemSpec id="10020" type="1" decoration_id="80032" goods_id="219129" decoration_image="100023_image" price="2000" order="981" price_sale="1000" discount="50"/>
+		<ItemSpec id="10021" type="1" decoration_id="80033" goods_id="219130" decoration_image="100024_image" price="2000" order="980" price_sale="1000" discount="50"/>
+		<ItemSpec id="10022" type="1" decoration_id="80035" goods_id="230001" decoration_image="100025_image" price="2000" order="979" price_sale="1000" discount="50"/>
+		<ItemSpec id="10023" type="1" decoration_id="80036" goods_id="230002" decoration_image="100026_image" price="2000" order="978" price_sale="1000" discount="50"/>
+		<ItemSpec id="10024" type="1" decoration_id="80037" goods_id="230003" decoration_image="100027_image" price="2000" order="977" price_sale="1000" discount="50"/>
+		<ItemSpec id="10025" type="1" decoration_id="80038" goods_id="230004" decoration_image="100028_image" price="2000" order="976" price_sale="1000" discount="50"/>
+    <ItemSpec id="10026" type="1" decoration_id="80039" goods_id="230005" decoration_image="100029_image" price="800" order="975" price_sale="400" discount="50"/>
+		<ItemSpec id="10028" type="1" decoration_id="80041" goods_id="230007" decoration_image="100030_image" price="2000" order="974" price_sale="1000" discount="50"/>
+		<ItemSpec id="10031" type="1" decoration_id="80044" goods_id="230010" decoration_image="100031_image" price="2000" order="973" price_sale="1000" discount="50"/>
+		<ItemSpec id="10032" type="1" decoration_id="80045" goods_id="230011" decoration_image="100032_image" price="2000" order="972" price_sale="1000" discount="50"/>
+		<ItemSpec id="10033" type="1" decoration_id="80046" goods_id="230012" decoration_image="100033_image" price="2000" order="971" price_sale="1000" discount="50"/>
+    <ItemSpec id="10034" type="1" decoration_id="80047" goods_id="230013" decoration_image="100034_image" price="2000" order="970" price_sale="1000" discount="50"/>
+    <ItemSpec id="10035" type="1" decoration_id="80046" goods_id="230014" decoration_image="10035_image" price="2000" order="956" price_sale="1000" discount="50"/>
+    <ItemSpec id="10036" type="1" decoration_id="80047" goods_id="230015" decoration_image="10036_image" price="2000" order="956" price_sale="1000" discount="50"/>
+		<ItemSpec id="10037" type="1" decoration_id="80052" goods_id="230018" decoration_image="10037_image" price="2000" order="967" price_sale="1000" discount="50"/>
+		<ItemSpec id="10045" type="1" decoration_id="80062" goods_id="230028" decoration_image="10045_image" price="5000" order="959"/>
+    <ItemSpec id="10038" type="1" decoration_id="80054" goods_id="230020" decoration_image="10038_image" price="2000" order="966" price_sale="1000" discount="50"/>
+    <ItemSpec id="10039" type="1" decoration_id="80055" goods_id="230021" decoration_image="10039_image" price="2000" order="965" price_sale="1000" discount="50"/>
+    <ItemSpec id="10040" type="1" decoration_id="80056" goods_id="230022" decoration_image="10040_image" price="2000" order="964" price_sale="1000" discount="50"/>
+    <ItemSpec id="10041" type="1" decoration_id="80053" goods_id="230019" decoration_image="10041_image" price="2000" order="963" price_sale="1000" discount="50"/>
+    <ItemSpec id="10042" type="1" decoration_id="80059" goods_id="230025" decoration_image="10042_image" price="2000" order="962" price_sale="1000" discount="50"/>
+    <ItemSpec id="10043" type="1" decoration_id="80060" goods_id="230026" decoration_image="10043_image" price="2000" order="961" price_sale="1000" discount="50"/>
+    <ItemSpec id="10044" type="1" decoration_id="80061" goods_id="230027" decoration_image="10044_image" price="5000" order="960" price_sale="2500" discount="50"/>
+		<ItemSpec id="10046" type="1" decoration_id="80067" goods_id="230033" decoration_image="10046_image" price="2000" order="958" price_sale="1000" discount="50"/>
+		<ItemSpec id="10047" type="1" decoration_id="80068" goods_id="230034" decoration_image="10047_image" price="2000" order="957" price_sale="1000" discount="50"/>
+		<ItemSpec id="10048" type="1" decoration_id="80071" goods_id="230037" decoration_image="10048_image" price="2000" order="956" price_sale="1600" discount="20"/>
+		<ItemSpec id="10049" type="1" decoration_id="80078" goods_id="230044" decoration_image="10049_image" price="2000" order="955" price_sale="1600" discount="20"/>
+		<ItemSpec id="10050" type="1" decoration_id="80079" goods_id="230045" decoration_image="10050_image" price="2000" order="954" price_sale="1600" discount="20"/>
+		<ItemSpec id="10051" type="1" decoration_id="80080" goods_id="230046" decoration_image="10051_image" price="2000" order="953" price_sale="1600" discount="20"/>
+		<ItemSpec id="10052" type="1" decoration_id="80081" goods_id="230047" decoration_image="10052_image" price="2000" order="952" price_sale="1600" discount="20"/>
+		<ItemSpec id="10053" type="1" decoration_id="80073" goods_id="230039" decoration_image="10053_image" price="6000" order="951" price_sale="5000" discount="17"/>
+		<ItemSpec id="10054" type="1" decoration_id="80074" goods_id="230040" decoration_image="10054_image" price="3000" order="950" price_sale="2500" discount="17"/>
+		<ItemSpec id="10055" type="1" decoration_id="80075" goods_id="230041" decoration_image="10055_image" price="3000" order="949" price_sale="2500" discount="17"/>
+		<ItemSpec id="10056" type="1" decoration_id="80076" goods_id="230042" decoration_image="10056_image" price="3000" order="948" price_sale="2500" discount="17"/>
+		<ItemSpec id="10057" type="1" decoration_id="80077" goods_id="230043" decoration_image="10057_image" price="3000" order="947" price_sale="2500" discount="17"/>
+		<ItemSpec id="10058" type="1" decoration_id="80082" goods_id="230048" decoration_image="10058_image" price="2000" order="957"/>
+		<ItemSpec id="10059" type="1" decoration_id="80083" goods_id="230049" decoration_image="10059_image" price="2000" order="957"/>
+		<ItemSpec id="10060" type="1" decoration_id="80091" goods_id="230057" decoration_image="10060_image" price="3000" order="944"/>
+		<ItemSpec id="10061" type="1" decoration_id="80092" goods_id="230058" decoration_image="10061_image" price="3000" order="943"/>
+		<ItemSpec id="10062" type="1" decoration_id="80093" goods_id="230059" decoration_image="10062_image" price="2000" order="942"/>
+		<ItemSpec id="10063" type="1" decoration_id="80094" goods_id="230060" decoration_image="10063_image" price="2000" order="941"/>
+
+
+    </Group> 
+
+</tns:database>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="math_race_operatorgroup">
+		<ItemSpec id="1" Absolute="1" OperatorGroup="start1" SignL="+" RatioL="5" SignR="-" RatioR="5" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="2" Absolute="1" OperatorGroup="start1" SignL="-" RatioL="5" SignR="+" RatioR="5" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="3" Absolute="1" OperatorGroup="start1" SignL="*" RatioL="2" SignR="+" RatioR="5" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="4" Absolute="1" OperatorGroup="start1" SignL="+" RatioL="5" SignR="*" RatioR="2" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="5" Absolute="1" OperatorGroup="start2" SignL="+" RatioL="10" SignR="-" RatioR="6" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="6" Absolute="1" OperatorGroup="start2" SignL="-" RatioL="6" SignR="+" RatioR="10" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="7" Absolute="1" OperatorGroup="start2" SignL="*" RatioL="2" SignR="+" RatioR="10" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="8" Absolute="1" OperatorGroup="start2" SignL="+" RatioL="10" SignR="*" RatioR="2" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="9" Absolute="1" OperatorGroup="start3" SignL="+" RatioL="20" SignR="-" RatioR="13" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="10" Absolute="1" OperatorGroup="start3" SignL="-" RatioL="13" SignR="+" RatioR="20" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="11" Absolute="1" OperatorGroup="start3" SignL="*" RatioL="1.5" SignR="+" RatioR="30" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="12" Absolute="1" OperatorGroup="start3" SignL="+" RatioL="30" SignR="*" RatioR="1.5" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="13" Absolute="1" OperatorGroup="start4" SignL="+" RatioL="40" SignR="-" RatioR="25" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="14" Absolute="1" OperatorGroup="start4" SignL="-" RatioL="25" SignR="+" RatioR="40" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="15" Absolute="1" OperatorGroup="start4" SignL="*" RatioL="1.5" SignR="+" RatioR="40" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="16" Absolute="1" OperatorGroup="start4" SignL="+" RatioL="40" SignR="*" RatioR="1.5" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="17" Absolute="1" OperatorGroup="start5" SignL="+" RatioL="80" SignR="-" RatioR="44" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="18" Absolute="1" OperatorGroup="start5" SignL="-" RatioL="44" SignR="+" RatioR="80" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="19" Absolute="1" OperatorGroup="start5" SignL="*" RatioL="1.5" SignR="+" RatioR="60" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="20" Absolute="1" OperatorGroup="start5" SignL="+" RatioL="60" SignR="*" RatioR="1.5" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="21" OperatorGroup="good1.2" SignL="*" RatioL="1.2" SignR="+" RatioR="0.2" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="22" OperatorGroup="good1.2" SignL="+" RatioL="0.2" SignR="*" RatioR="1.2" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="23" OperatorGroup="good1.5" SignL="*" RatioL="1.5" SignR="+" RatioR="0.5" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="24" OperatorGroup="good1.5" SignL="+" RatioL="0.5" SignR="*" RatioR="1.5" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="25" OperatorGroup="good2" SignL="+" RatioL="1" SignR="*" RatioR="2" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="26" OperatorGroup="good3" SignL="+" RatioL="2" SignR="*" RatioR="3" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="27" OperatorGroup="good4" SignL="+" RatioL="3" SignR="*" RatioR="4" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="28" OperatorGroup="good2" SignL="*" RatioL="2" SignR="+" RatioR="1" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="29" OperatorGroup="good3" SignL="*" RatioL="3" SignR="+" RatioR="2" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="30" OperatorGroup="good4" SignL="*" RatioL="4" SignR="+" RatioR="3" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="31" OperatorGroup="normal0.2" SignL="+" RatioL="0.2" SignR="-" RatioR="0.2" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="32" OperatorGroup="normal0.2" SignL="-" RatioL="0.2" SignR="+" RatioR="0.2" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="33" OperatorGroup="normal0.5" SignL="+" RatioL="0.5" SignR="-" RatioR="0.5" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="34" OperatorGroup="normal0.5" SignL="-" RatioL="0.5" SignR="+" RatioR="0.5" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="35" OperatorGroup="normal+1" SignL="+" RatioL="1" SignR="-" RatioR="0.3" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="36" OperatorGroup="normal+1" SignL="-" RatioL="0.3" SignR="+" RatioR="1" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="37" OperatorGroup="normal+2" SignL="+" RatioL="2" SignR="-" RatioR="0.3" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="38" OperatorGroup="normal+2" SignL="-" RatioL="0.3" SignR="+" RatioR="2" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="39" OperatorGroup="normal+3" SignL="+" RatioL="3" SignR="-" RatioR="0.4" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="40" OperatorGroup="normal+3" SignL="-" RatioL="0.4" SignR="+" RatioR="0.3" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="41" OperatorGroup="normal-1" SignL="+" RatioL="0.3" SignR="-" RatioR="0.6" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="42" OperatorGroup="normal-1" SignL="-" RatioL="0.6" SignR="+" RatioR="0.3" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="43" OperatorGroup="normal-2" SignL="+" RatioL="0.2" SignR="-" RatioR="0.5" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="44" OperatorGroup="normal-2" SignL="-" RatioL="0.5" SignR="+" RatioR="0.2" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="45" OperatorGroup="normal-3" SignL="+" RatioL="0.1" SignR="-" RatioR="0.75" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="46" OperatorGroup="normal-3" SignL="-" RatioL="0.75" SignR="+" RatioR="0.1" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="47" OperatorGroup="normal*2" SignL="*" RatioL="2" SignR="-" RatioR="0.7" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="48" OperatorGroup="normal*2" SignL="-" RatioL="0.7" SignR="*" RatioR="2" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="49" OperatorGroup="normal*2" SignL="*" RatioL="2" SignR="/" RatioR="1.5" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="50" OperatorGroup="normal*2" SignL="/" RatioL="1.5" SignR="*" RatioR="2" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="51" OperatorGroup="normal*3" SignL="*" RatioL="3" SignR="-" RatioR="0.3" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="52" OperatorGroup="normal*3" SignL="-" RatioL="0.3" SignR="*" RatioR="3" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="53" OperatorGroup="normal*3" SignL="*" RatioL="3" SignR="/" RatioR="1.5" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="54" OperatorGroup="normal*3" SignL="/" RatioL="1.5" SignR="*" RatioR="3" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="55" OperatorGroup="normal/1.2" SignL="/" RatioL="1.2" SignR="-" RatioR="0.27" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="56" OperatorGroup="normal/1.2" SignL="-" RatioL="0.27" SignR="/" RatioR="1.2" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="57" OperatorGroup="normal/1.5" SignL="/" RatioL="1.5" SignR="-" RatioR="0.4" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="58" OperatorGroup="normal/1.5" SignL="-" RatioL="0.4" SignR="/" RatioR="1.5" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="59" OperatorGroup="normal/2" SignL="*" RatioL="1.2" SignR="/" RatioR="2" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="60" OperatorGroup="normal/2" SignL="/" RatioL="2" SignR="*" RatioR="1.2" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="61" OperatorGroup="normal/2" SignL="+" RatioL="0.2" SignR="/" RatioR="2" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="62" OperatorGroup="normal/2" SignL="/" RatioL="2" SignR="+" RatioR="0.2" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="63" OperatorGroup="normal/3" SignL="*" RatioL="2" SignR="/" RatioR="3" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="64" OperatorGroup="normal/3" SignL="/" RatioL="3" SignR="*" RatioR="2" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="65" OperatorGroup="normal/3" SignL="+" RatioL="0.5" SignR="/" RatioR="3" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="66" OperatorGroup="normal/3" SignL="/" RatioL="3" SignR="+" RatioR="0.5" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="67" OperatorGroup="bad1.2" SignL="/" RatioL="1.2" SignR="-" RatioR="0.17" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="68" OperatorGroup="bad1.2" SignL="-" RatioL="0.17" SignR="/" RatioR="1.2" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="69" OperatorGroup="bad1.5" SignL="/" RatioL="1.5" SignR="-" RatioR="0.33" PDDisturb="0.8,1.2"/>
+		<ItemSpec id="70" OperatorGroup="bad1.5" SignL="-" RatioL="0.33" SignR="/" RatioR="1.5" PDDisturb="0.8,1.2"/>
+		<ItemSpec id="71" OperatorGroup="bad2" SignL="/" RatioL="2" SignR="-" RatioR="0.5" PDDisturb="0.8,1.2"/>
+		<ItemSpec id="72" OperatorGroup="bad2" SignL="-" RatioL="0.5" SignR="/" RatioR="2" PDDisturb="0.8,1.2"/>
+		<ItemSpec id="73" OperatorGroup="bad3" SignL="/" RatioL="3" SignR="-" RatioR="0.66" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="74" OperatorGroup="bad3" SignL="-" RatioL="0.66" SignR="/" RatioR="3" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="75" OperatorGroup="bad4" SignL="/" RatioL="4" SignR="-" RatioR="0.75" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="76" OperatorGroup="bad4" SignL="-" RatioL="0.75" SignR="/" RatioR="4" PDDisturb="0.6,1.4"/>
+		<ItemSpec id="77" OperatorGroup="test" SignL="+" RatioL="1" SignR="-" RatioR="1" PDDisturb="0.6,1.4"/>
+	</Group>
+</tns:database>

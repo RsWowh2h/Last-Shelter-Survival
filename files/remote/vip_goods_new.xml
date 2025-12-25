@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="vip_goods_new">
+
+    <ItemSpec id="1001" item="200304" num="1" buylimit="8" viplimit="0" price_type="10" price="10000" exp="10000" group="1" order="101" />
+    <ItemSpec id="1002" item="200334" num="1" buylimit="8" viplimit="0" price_type="10" price="10000" exp="10000" group="1" order="102" />
+    <ItemSpec id="1003" item="210138" num="1" buylimit="8" viplimit="0" price_type="10" price="10000" exp="10000" group="1" order="103" />
+    <ItemSpec id="1004" item="210148" num="1" buylimit="8" viplimit="0" price_type="10" price="10000" exp="10000" group="1" order="104" />
+    <ItemSpec id="1005" item="210116" num="1" buylimit="5" viplimit="0" price_type="10" price="10000" exp="10000" group="1" order="105" />
+    <ItemSpec id="1006" item="210106" num="1" buylimit="5" viplimit="0" price_type="10" price="10000" exp="10000" group="1" order="106" />
+    <ItemSpec id="1007" item="200303" num="1" buylimit="15" viplimit="0" price_type="10" price="2700" exp="2700" group="4" order="99" />
+    <ItemSpec id="1008" item="200333" num="1" buylimit="15" viplimit="0" price_type="10" price="2700" exp="2700" group="7" order="99" />
+    <ItemSpec id="1009" item="210137" num="1" buylimit="15" viplimit="0" price_type="10" price="2700" exp="2700" group="5" order="99" />
+    <ItemSpec id="1010" item="210147" num="1" buylimit="15" viplimit="0" price_type="10" price="2700" exp="2700" group="3" order="99" />
+    <ItemSpec id="1011" item="210105" num="1" buylimit="10" viplimit="0" price_type="10" price="2700" exp="2700" group="6" order="99" />
+    <ItemSpec id="1012" item="210115" num="1" buylimit="10" viplimit="0" price_type="10" price="2700" exp="2700" group="8" order="99" />
+    <ItemSpec id="1013" item="200056" num="1" buylimit="4" viplimit="0" price_type="10" price="8000" exp="8000" group="1" order="81" />
+    <ItemSpec id="1014" item="200002" num="1" buylimit="2" viplimit="0" price_type="10" price="6000" exp="6000" group="9" order="84" />
+    <ItemSpec id="1015" item="210273" num="1" buylimit="1" viplimit="0" price_type="10" price="25000" exp="25000" group="10" order="85" />
+    <ItemSpec id="1016" item="200647" num="1" buylimit="10" viplimit="0" price_type="10" price="12000" exp="12000" group="11" order="91" />
+    <ItemSpec id="1017" item="200635" num="1" buylimit="10" viplimit="0" price_type="10" price="12000" exp="12000" group="12" order="92" />
+    <ItemSpec id="1018" item="200644" num="1" buylimit="10" viplimit="0" price_type="10" price="12000" exp="12000" group="13" order="93" />
+    <ItemSpec id="1019" item="200304" num="2" buylimit="10" viplimit="0" price_type="10" price="20000" exp="20000" group="3" order="101" />
+    <ItemSpec id="1020" item="200334" num="2" buylimit="10" viplimit="0" price_type="10" price="20000" exp="20000" group="3" order="102" />
+    <ItemSpec id="1021" item="210138" num="2" buylimit="10" viplimit="0" price_type="10" price="20000" exp="20000" group="3" order="103" />
+    <ItemSpec id="1022" item="210148" num="2" buylimit="10" viplimit="0" price_type="10" price="20000" exp="20000" group="3" order="104" />
+    <ItemSpec id="1023" item="210116" num="1" buylimit="5" viplimit="0" price_type="10" price="10000" exp="10000" group="3" order="105" />
+    <ItemSpec id="1024" item="210106" num="1" buylimit="5" viplimit="0" price_type="10" price="10000" exp="10000" group="3" order="106" />
+    <ItemSpec id="1025" item="200056" num="1" buylimit="10" viplimit="0" price_type="10" price="8000" exp="8000" group="3" order="81" />
+    <ItemSpec id="1026" item="210002" num="1" buylimit="1" viplimit="0" price_type="10" price="10000" exp="10000" group="3" order="1" />
+    <ItemSpec id="1027" item="215398" num="100" buylimit="20" viplimit="0" price_type="10" price="10000" exp="10000" group="17" auto_unlock="3" order="2" />
+    <ItemSpec id="1028" item="200119" num="10" buylimit="10" viplimit="0" price_type="10" price="20000" exp="20000" group="18" auto_unlock="2" order="3" />
+    <ItemSpec id="1029" item="227028" num="200" buylimit="20" viplimit="0" price_type="10" price="10000" exp="10000" group="17" auto_unlock="2" order="2" />
+    <ItemSpec id="1030" item="219108" num="1" buylimit="10" viplimit="0" price_type="10" price="5000" exp="5000" group="14" order="85" />
+    <ItemSpec id="1031" item="227092" num="2000" buylimit="5" viplimit="0" price_type="10" price="40000" exp="40000" group="4" auto_unlock="7" order="2" />
+    <ItemSpec id="1032" item="227093" num="500" buylimit="2" viplimit="0" price_type="10" price="50000" exp="50000" group="4" auto_unlock="7" order="2" />
+    <ItemSpec id="1033" item="215398" num="100" buylimit="20" viplimit="0" price_type="10" price="10000" exp="10000" group="17" auto_unlock="5" order="2" />
+    <ItemSpec id="1034" item="204002" num="1" buylimit="12" viplimit="0" price_type="10" price="2000" exp="2000" group="17" auto_unlock="1" order="2" />
+    <ItemSpec id="1035" item="215398" num="100" buylimit="20" viplimit="0" price_type="10" price="5000" exp="5000" group="3" auto_unlock="7" order="2" />
+    <ItemSpec id="1036" item="215398" num="100" buylimit="20" viplimit="0" price_type="10" price="5000" exp="5000" group="5" auto_unlock="9" order="2" />
+    <ItemSpec id="1037" item="215398" num="100" buylimit="20" viplimit="0" price_type="10" price="5000" exp="5000" group="7" auto_unlock="11" order="2" />
+    <ItemSpec id="1038" item="227029" num="500" buylimit="20" viplimit="0" price_type="10" price="2500" exp="2000" group="18" auto_unlock="5" order="20" />
+    <ItemSpec id="1039" item="210125" num="1" buylimit="8" viplimit="1" price_type="10" price="10000" exp="10000" group="1" order="100" />
+    <ItemSpec id="1040" item="210124" num="1" buylimit="15" viplimit="1" price_type="10" price="2700" exp="2700" group="2" order="99" />
+    <ItemSpec id="1041" item="200060" num="1" buylimit="4" viplimit="1" price_type="10" price="50000" exp="50000" group="1" order="80" />
+    <ItemSpec id="1042" item="200060" num="1" buylimit="10" viplimit="1" price_type="10" price="40000" exp="40000" group="6" order="79" />
+    <ItemSpec id="1043" item="212008" num="200" buylimit="10" viplimit="1" price_type="10" price="6000" exp="6000" group="1" order="83" />
+    <ItemSpec id="1044" item="210125" num="2" buylimit="10" viplimit="1" price_type="10" price="20000" exp="20000" group="3" order="100" />
+    <ItemSpec id="1045" item="200060" num="1" buylimit="10" viplimit="1" price_type="10" price="50000" exp="50000" group="3" order="80" />
+    <ItemSpec id="1046" item="212008" num="500" buylimit="30" viplimit="1" price_type="10" price="15000" exp="15000" group="3" order="83" />
+    <ItemSpec id="1047" item="212117" num="1" buylimit="3" viplimit="1" price_type="10" price="3000" exp="3000" group="14" order="501" rank="4" />
+    <ItemSpec id="1048" item="215900" num="2" buylimit="1" viplimit="1" price_type="10" price="20000" exp="20000" group="19" auto_unlock="2" order="4" />
+    <ItemSpec id="1049" item="215900" num="3" buylimit="1" viplimit="1" price_type="10" price="30000" exp="30000" group="19" auto_unlock="2" order="4" />
+    <ItemSpec id="1050" item="215900" num="5" buylimit="1" viplimit="1" price_type="10" price="50000" exp="50000" group="19" auto_unlock="2" order="4" />
+    <ItemSpec id="1051" item="215758" num="1" buylimit="1" viplimit="1" price_type="10" price="500000" exp="500000" group="20" order="5" />
+    <ItemSpec id="1052" item="200128" num="15" buylimit="20" viplimit="1" price_type="10" price="15000" exp="15000" group="4" auto_unlock="4" order="2" />
+    <ItemSpec id="1053" item="200129" num="50" buylimit="20" viplimit="1" price_type="10" price="10000" exp="10000" group="6" auto_unlock="3" order="2" />
+    <ItemSpec id="1054" item="217115" num="1" buylimit="1" viplimit="1" price_type="10" price="10000" exp="10000" group="14" order="107" />
+    <ItemSpec id="1055" item="217115" num="1" buylimit="1" viplimit="1" price_type="10" price="50000" exp="50000" group="14" order="107" />
+    <ItemSpec id="1056" item="203512" num="1" buylimit="15" viplimit="1" price_type="10" price="5000" exp="5000" group="21" auto_unlock="7" order="2" />
+    <ItemSpec id="1057" item="200128" num="15" buylimit="20" viplimit="1" price_type="10" price="15000" exp="15000" group="4" auto_unlock="6" order="2" />
+    <ItemSpec id="1058" item="200129" num="100" buylimit="20" viplimit="1" price_type="10" price="10000" exp="10000" group="6" auto_unlock="7" order="2" />
+    <ItemSpec id="1059" item="200128" num="30" buylimit="20" viplimit="1" price_type="10" price="20000" exp="20000" group="4" auto_unlock="12" order="2" />
+    <ItemSpec id="1060" item="200221" num="1" buylimit="10" viplimit="2" price_type="10" price="4000" exp="4000" group="1" order="110" />
+    <ItemSpec id="1061" item="200221" num="2" buylimit="15" viplimit="2" price_type="10" price="8000" exp="8000" group="3" order="110" />
+    <ItemSpec id="1062" item="215759" num="1" buylimit="1" viplimit="2" price_type="10" price="500000" exp="500000" group="20" order="5" />
+    <ItemSpec id="1063" item="210163" num="100" buylimit="5" viplimit="3" price_type="10" price="10000" exp="10000" group="1" order="82" />
+    <ItemSpec id="1064" item="210163" num="300" buylimit="5" viplimit="3" price_type="10" price="30000" exp="30000" group="3" order="82" />
+    <ItemSpec id="1065" item="219110" num="1" buylimit="3" viplimit="4" price_type="10" price="50000" exp="50000" group="14" order="85" />
+    <ItemSpec id="1066" item="200128" num="15" buylimit="20" viplimit="2" price_type="10" price="15000" exp="15000" group="4" auto_unlock="4" />
+    <ItemSpec id="1067" item="200129" num="50" buylimit="20" viplimit="2" price_type="10" price="10000" exp="10000" group="6" auto_unlock="3" />
+    <ItemSpec id="1068" item="217115" num="1" buylimit="1" viplimit="2" price_type="10" price="10000" exp="10000" group="14" />
+    <ItemSpec id="1069" item="217115" num="1" buylimit="1" viplimit="2" price_type="10" price="50000" exp="50000" group="14" />
+    <ItemSpec id="1070" item="203512" num="1" buylimit="15" viplimit="2" price_type="10" price="5000" exp="5000" group="21" auto_unlock="7" />
+    <ItemSpec id="1071" item="227092" num="2000" buylimit="5" viplimit="1" price_type="10" price="40000" exp="40000" group="4" auto_unlock="7" />
+    <ItemSpec id="1072" item="227093" num="500" buylimit="2" viplimit="1" price_type="10" price="50000" exp="50000" group="4" auto_unlock="7" />
+    <ItemSpec id="1073" item="200128" num="15" buylimit="20" viplimit="2" price_type="10" price="15000" exp="15000" group="4" auto_unlock="6" />
+    <ItemSpec id="1074" item="215398" num="100" buylimit="20" viplimit="1" price_type="10" price="10000" exp="10000" group="17" auto_unlock="5" />
+    <ItemSpec id="1075" item="204002" num="1" buylimit="12" viplimit="1" price_type="10" price="2000" exp="2000" group="17" auto_unlock="1" />
+    <ItemSpec id="1076" item="200129" num="100" buylimit="20" viplimit="2" price_type="10" price="10000" exp="10000" group="6" auto_unlock="7" />
+    <ItemSpec id="1077" item="200128" num="30" buylimit="20" viplimit="2" price_type="10" price="20000" exp="20000" group="4" auto_unlock="12" />
+    <ItemSpec id="1078" item="215398" num="100" buylimit="20" viplimit="1" price_type="10" price="5000" exp="5000" group="3" auto_unlock="7" />
+    <ItemSpec id="1079" item="215398" num="100" buylimit="20" viplimit="1" price_type="10" price="5000" exp="5000" group="5" auto_unlock="9" />
+    <ItemSpec id="1080" item="215398" num="100" buylimit="20" viplimit="1" price_type="10" price="5000" exp="5000" group="7" auto_unlock="11" />
+    <ItemSpec id="1081" item="227029" num="500" buylimit="20" viplimit="1" price_type="10" price="2500" exp="2000" group="18" auto_unlock="5" />
+
+
+
+
+
+	</Group>
+
+</tns:database>

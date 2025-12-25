@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="character">
+    <ItemSpec id="1" name="91011000" description="91011053|91011059" effect="653;10|659;1"/>
+    <ItemSpec id="2" name="91011001" description="91011054|91011053" effect="654;20|653;5"/>
+    <ItemSpec id="3" name="91011002" description="91011055|91011054" effect="655;-10|654;-10"/>
+    <ItemSpec id="4" name="91011003" description="91011056|91011058" effect="656;20|658;20"/>
+    <ItemSpec id="5" name="91011004" description="91011057|91011058" effect="657;20|658;10"/>
+    <ItemSpec id="6" name="91011005" description="91011055|91011057" effect="655;20|657;20"/>
+    <ItemSpec id="7" name="91011006" description="91011057|91011059" effect="657;30|659;1"/>
+    <ItemSpec id="8" name="91011007" description="91011058" effect="658;30"/>
+    <ItemSpec id="9" name="91011008" description="91011053|91011054" effect="653;5|654;-10"/>
+    <ItemSpec id="10" name="91011009" description="91011055|91011056" effect="655;20|656;20"/>
+
+
+
+</Group>
+
+
+  </tns:database>

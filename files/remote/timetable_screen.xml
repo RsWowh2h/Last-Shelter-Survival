@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="timetable_screen">
+
+		<ItemSpec id="105812" LS_Dialog="105812"/>
+		<ItemSpec id="105813" LS_Dialog="105813"/>
+		<ItemSpec id="105909" LS_Dialog="105909"/>
+		<ItemSpec id="105931" LS_Dialog="105931"/>
+		<ItemSpec id="105932" LS_Dialog="105932"/>
+		<ItemSpec id="150400" LS_Dialog="150400"/>
+		<ItemSpec id="150401" LS_Dialog="150401"/>
+		<ItemSpec id="150402" LS_Dialog="150402"/>
+		<ItemSpec id="150403" LS_Dialog="150403"/>
+		<ItemSpec id="150404" LS_Dialog="150404"/>
+		<ItemSpec id="150405" LS_Dialog="150405"/>
+		<ItemSpec id="150406" LS_Dialog="150406"/>
+		<ItemSpec id="150407" LS_Dialog="150407"/>
+		<ItemSpec id="150408" LS_Dialog="150408"/>
+		<ItemSpec id="150423" LS_Dialog="150423"/>
+		<ItemSpec id="150424" LS_Dialog="150424"/>
+		<ItemSpec id="192083" LS_Dialog="192083"/>
+		<ItemSpec id="212121" LS_Dialog="212121"/>
+		<ItemSpec id="79000019" LS_Dialog="79000019"/>
+		<ItemSpec id="81000400" LS_Dialog="81000400"/>
+    <ItemSpec id="83000209" LS_Dialog="83000209" />
+    <ItemSpec id="90500128" LS_Dialog="90500128" />
+		<ItemSpec id="90821253" LS_Dialog="90821253"/>
+		<ItemSpec id="110030372" LS_Dialog="110030372"/>
+		<ItemSpec id="110040600" LS_Dialog="110040600" switch="hero_refine_switch;hero_refine|k17"/>
+    <ItemSpec id="110110005" LS_Dialog="110110005" />
+    <ItemSpec id="110110007" LS_Dialog="110110007" />
+    <ItemSpec id="110110008" LS_Dialog="110110008" />
+    <ItemSpec id="110110009" LS_Dialog="110110009" />
+    <ItemSpec id="110110010" LS_Dialog="110110010" />
+    <ItemSpec id="110110011" LS_Dialog="110110011" />
+    <ItemSpec id="110110012" LS_Dialog="110110012" />
+    <ItemSpec id="110110013" LS_Dialog="110110013" />
+    <ItemSpec id="110110014" LS_Dialog="110110014" />
+    <ItemSpec id="110110015" LS_Dialog="110110015" />
+    <ItemSpec id="110110016" LS_Dialog="110110016" />
+    <ItemSpec id="110110017" LS_Dialog="110110017" />
+    <ItemSpec id="110110019" LS_Dialog="110110019" />
+    <ItemSpec id="110110020" LS_Dialog="110110020" />
+    <ItemSpec id="110110058" LS_Dialog="110110058" switch="hero_refine_switch;hero_refine|k17" />
+    <ItemSpec id="110110057" LS_Dialog="110110057" switch="armyscore_switch;armyscore|k2"/>
+    <ItemSpec id="110110056" LS_Dialog="110110056" />
+		<ItemSpec id="110111796" LS_Dialog="110111796" switch="camp_technology_switch;camp_technology_item|k1"/>
+		<ItemSpec id="110240013" LS_Dialog="110240013" switch="armyscore_switch;armyscore|k2"/>
+		<ItemSpec id="110400669" LS_Dialog="110400669" switch="mecha_building;mecha_building_season|k1"/>
+		<ItemSpec id="110400671" LS_Dialog="110400671" switch="mecha_building;mecha_overclock_season|k1"/>
+		<ItemSpec id="110402082" LS_Dialog="110402082" switch="pet_switch;pet_switch_season|k1"/>
+		<ItemSpec id="110402083" LS_Dialog="110402083" switch="pet_switch;pet_switch_season|k1"/>
+		<ItemSpec id="110550075" LS_Dialog="110550075" switch="equip_level_up_switch;equip_level_up|k3"/>
+		<ItemSpec id="110550076" LS_Dialog="110550076" switch="equip_level_up_switch;equip_level_up|k3"/>
+		<ItemSpec id="110550077" LS_Dialog="110550077" switch="equip_level_up_switch;equip_level_up|k3"/>
+    <ItemSpec id="110400701" LS_Dialog="110400701" switch="armyscore_switch;armyscore|k2"/>
+    <ItemSpec id="110400702" LS_Dialog="110400702" switch="hero_refine_switch;hero_refine|k17" />
+    <ItemSpec id="110400703" LS_Dialog="110400703" switch="hero_refine_switch;hero_refine|k17" />
+    <ItemSpec id="110400679" LS_Dialog="110400679" switch="hero_refine_switch;hero_refine|k17" />
+
+    <ItemSpec id="110400704" LS_Dialog="110400704" switch="mecha_building;mecha_building_season|k1" />
+    <ItemSpec id="110400705" LS_Dialog="110400705" switch="mecha_refit;mecha_refit_season|k1" />
+    <ItemSpec id="110400706" LS_Dialog="110400706" switch="mecha_overclock;mecha_overclock_season|k1" />
+    <ItemSpec id="110400680" LS_Dialog="110400680" switch="mecha_building;mecha_building_season|k1" />
+
+    <ItemSpec id="110400674" LS_Dialog="110400674" switch="equip_level_up_switch;equip_level_up|k3" />
+    <ItemSpec id="110400675" LS_Dialog="110400675" switch="camp_technology_switch;camp_technology_item|k1" />
+    <ItemSpec id="110400676" LS_Dialog="110400676" switch="pet_switch;pet_switch_season|k1" />
+    <ItemSpec id="110400677" LS_Dialog="110400677" switch="hero_synthetic;hero_synthetic_season|k1" />
+    <ItemSpec id="110400678" LS_Dialog="110400678" switch="satellite_switch;satellite_switch_season|k1" />
+
+
+
+
+</Group>
+</tns:database>

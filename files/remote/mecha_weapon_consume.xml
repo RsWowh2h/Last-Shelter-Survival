@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="mecha_weapon_consume">
+
+    <ItemSpec id="10001" next_id="10002" color="0" level="1" highest_level="10" star="0" consume="217055;656"/>
+    <ItemSpec id="10002" next_id="10003" color="0" level="2" highest_level="10" star="0" consume="217055;720"/>
+    <ItemSpec id="10003" next_id="10004" color="0" level="3" highest_level="10" star="0" consume="217055;792"/>
+    <ItemSpec id="10004" next_id="10005" color="0" level="4" highest_level="10" star="0" consume="217055;872"/>
+    <ItemSpec id="10005" next_id="10006" color="0" level="5" highest_level="10" star="0" consume="217055;960"/>
+    <ItemSpec id="10006" next_id="10007" color="0" level="6" highest_level="10" star="0" consume="217055;1056"/>
+    <ItemSpec id="10007" next_id="10008" color="0" level="7" highest_level="10" star="0" consume="217055;1160"/>
+    <ItemSpec id="10008" next_id="10009" color="0" level="8" highest_level="10" star="0" consume="217055;1279"/>
+    <ItemSpec id="10009" next_id="10010" color="0" level="9" highest_level="10" star="0" consume="217055;1401"/>
+    <ItemSpec id="10010" next_id="10011" color="0" level="10" highest_level="10" star="0" weapon_consume="0;3" advance="1" consume="216002;10" consume_way="1"/>
+    <ItemSpec id="10011" next_id="10012" color="0" level="10" highest_level="20" star="1" consume="217055;1544" advanced_return="160001;3"/>
+    <ItemSpec id="10012" next_id="10013" color="0" level="11" highest_level="20" star="1" consume="217055;1699" advanced_return="160001;3"/>
+    <ItemSpec id="10013" next_id="10014" color="0" level="12" highest_level="20" star="1" consume="217055;1870" advanced_return="160001;3"/>
+    <ItemSpec id="10014" next_id="10015" color="0" level="13" highest_level="20" star="1" consume="217055;2054" advanced_return="160001;3"/>
+    <ItemSpec id="10015" next_id="10016" color="0" level="14" highest_level="20" star="1" consume="217055;2259" advanced_return="160001;3"/>
+    <ItemSpec id="10016" next_id="10017" color="0" level="15" highest_level="20" star="1" consume="217055;2484" advanced_return="160001;3"/>
+    <ItemSpec id="10017" next_id="10018" color="0" level="16" highest_level="20" star="1" consume="217055;2736" advanced_return="160001;3"/>
+    <ItemSpec id="10018" next_id="10019" color="0" level="17" highest_level="20" star="1" consume="217055;3006" advanced_return="160001;3"/>
+    <ItemSpec id="10019" next_id="10020" color="0" level="18" highest_level="20" star="1" consume="217055;3310" advanced_return="160001;3"/>
+    <ItemSpec id="10020" next_id="10021" color="0" level="19" highest_level="20" star="1" consume="217055;3638" advanced_return="160001;3"/>
+    <ItemSpec id="10021" color="0" level="20" highest_level="20" star="1" advanced_return="160001;3"/>
+
+    <ItemSpec id="20001" next_id="20002" color="1" level="1" highest_level="10" star="0" consume="217055;456"/>
+    <ItemSpec id="20002" next_id="20003" color="1" level="2" highest_level="10" star="0" consume="217055;504"/>
+    <ItemSpec id="20003" next_id="20004" color="1" level="3" highest_level="10" star="0" consume="217055;552"/>
+    <ItemSpec id="20004" next_id="20005" color="1" level="4" highest_level="10" star="0" consume="217055;608"/>
+    <ItemSpec id="20005" next_id="20006" color="1" level="5" highest_level="10" star="0" consume="217055;671"/>
+    <ItemSpec id="20006" next_id="20007" color="1" level="6" highest_level="10" star="0" consume="217055;736"/>
+    <ItemSpec id="20007" next_id="20008" color="1" level="7" highest_level="10" star="0" consume="217055;808"/>
+    <ItemSpec id="20008" next_id="20009" color="1" level="8" highest_level="10" star="0" consume="217055;888"/>
+    <ItemSpec id="20009" next_id="20010" color="1" level="9" highest_level="10" star="0" consume="217055;976"/>
+    <ItemSpec id="20010" next_id="20011" color="1" level="10" highest_level="10" star="0" weapon_consume="0;3" advance="1" consume="216002;10" consume_way="1"/>
+    <ItemSpec id="20011" next_id="20012" color="1" level="10" highest_level="20" star="1" consume="217055;1073" advanced_return="160001;3"/>
+    <ItemSpec id="20012" next_id="20013" color="1" level="11" highest_level="20" star="1" consume="217055;1181" advanced_return="160001;3"/>
+    <ItemSpec id="20013" next_id="20014" color="1" level="12" highest_level="20" star="1" consume="217055;1303" advanced_return="160001;3"/>
+    <ItemSpec id="20014" next_id="20015" color="1" level="13" highest_level="20" star="1" consume="217055;1431" advanced_return="160001;3"/>
+    <ItemSpec id="20015" next_id="20016" color="1" level="14" highest_level="20" star="1" consume="217055;1575" advanced_return="160001;3"/>
+    <ItemSpec id="20016" next_id="20017" color="1" level="15" highest_level="20" star="1" consume="217055;1730" advanced_return="160001;3"/>
+    <ItemSpec id="20017" next_id="20018" color="1" level="16" highest_level="20" star="1" consume="217055;1906" advanced_return="160001;3"/>
+    <ItemSpec id="20018" next_id="20019" color="1" level="17" highest_level="20" star="1" consume="217055;2097" advanced_return="160001;3"/>
+    <ItemSpec id="20019" next_id="20020" color="1" level="18" highest_level="20" star="1" consume="217055;2304" advanced_return="160001;3"/>
+    <ItemSpec id="20020" next_id="20021" color="1" level="19" highest_level="20" star="1" consume="217055;2536" advanced_return="160001;3"/>
+    <ItemSpec id="20021" next_id="20022" color="1" level="20" highest_level="20" star="1" weapon_consume="1;3" advance="2" consume="216002;20" consume_way="1" advanced_return="160001;3"/>
+    <ItemSpec id="20022" next_id="20023" color="1" level="20" highest_level="30" star="2" consume="217056;1395" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="20023" next_id="20024" color="1" level="21" highest_level="30" star="2" consume="217056;1530" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="20024" next_id="20025" color="1" level="22" highest_level="30" star="2" consume="217056;1682" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="20025" next_id="20026" color="1" level="23" highest_level="30" star="2" consume="217056;1858" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="20026" next_id="20027" color="1" level="24" highest_level="30" star="2" consume="217056;2040" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="20027" next_id="20028" color="1" level="25" highest_level="30" star="2" consume="217056;2248" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="20028" next_id="20029" color="1" level="26" highest_level="30" star="2" consume="217056;2473" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="20029" next_id="20030" color="1" level="27" highest_level="30" star="2" consume="217056;2715" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="20030" next_id="20031" color="1" level="28" highest_level="30" star="2" consume="217056;2985" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="20031" next_id="20032" color="1" level="29" highest_level="30" star="2" consume="217056;3285" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="20032" color="1" level="30" highest_level="30" star="2" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="30001" next_id="30002" color="2" level="1" highest_level="10" star="0" consume="217055;567"/>
+    <ItemSpec id="30002" next_id="30003" color="2" level="2" highest_level="10" star="0" consume="217055;623"/>
+    <ItemSpec id="30003" next_id="30004" color="2" level="3" highest_level="10" star="0" consume="217055;681"/>
+    <ItemSpec id="30004" next_id="30005" color="2" level="4" highest_level="10" star="0" consume="217055;752"/>
+    <ItemSpec id="30005" next_id="30006" color="2" level="5" highest_level="10" star="0" consume="217055;825"/>
+    <ItemSpec id="30006" next_id="30007" color="2" level="6" highest_level="10" star="0" consume="217055;912"/>
+    <ItemSpec id="30007" next_id="30008" color="2" level="7" highest_level="10" star="0" consume="217055;1000"/>
+    <ItemSpec id="30008" next_id="30009" color="2" level="8" highest_level="10" star="0" consume="217055;1103"/>
+    <ItemSpec id="30009" next_id="30010" color="2" level="9" highest_level="10" star="0" consume="217055;1209"/>
+    <ItemSpec id="30010" next_id="30011" color="2" level="10" highest_level="10" star="0" weapon_consume="0;3" advance="1" consume="216002;30" consume_way="1"/>
+    <ItemSpec id="30011" next_id="30012" color="2" level="10" highest_level="20" star="1" consume="217055;1335" advanced_return="160001;3"/>
+    <ItemSpec id="30012" next_id="30013" color="2" level="11" highest_level="20" star="1" consume="217055;1467" advanced_return="160001;3"/>
+    <ItemSpec id="30013" next_id="30014" color="2" level="12" highest_level="20" star="1" consume="217055;1611" advanced_return="160001;3"/>
+    <ItemSpec id="30014" next_id="30015" color="2" level="13" highest_level="20" star="1" consume="217055;1773" advanced_return="160001;3"/>
+    <ItemSpec id="30015" next_id="30016" color="2" level="14" highest_level="20" star="1" consume="217055;1951" advanced_return="160001;3"/>
+    <ItemSpec id="30016" next_id="30017" color="2" level="15" highest_level="20" star="1" consume="217055;2144" advanced_return="160001;3"/>
+    <ItemSpec id="30017" next_id="30018" color="2" level="16" highest_level="20" star="1" consume="217055;2358" advanced_return="160001;3"/>
+    <ItemSpec id="30018" next_id="30019" color="2" level="17" highest_level="20" star="1" consume="217055;2594" advanced_return="160001;3"/>
+    <ItemSpec id="30019" next_id="30020" color="2" level="18" highest_level="20" star="1" consume="217055;2853" advanced_return="160001;3"/>
+    <ItemSpec id="30020" next_id="30021" color="2" level="19" highest_level="20" star="1" consume="217055;3141" advanced_return="160001;3"/>
+    <ItemSpec id="30021" next_id="30022" color="2" level="20" highest_level="20" star="1" weapon_consume="1;3" advance="2" consume="216002;60" consume_way="1" advanced_return="160001;3"/>
+    <ItemSpec id="30022" next_id="30023" color="2" level="20" highest_level="30" star="2" consume="217056;1728" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="30023" next_id="30024" color="2" level="21" highest_level="30" star="2" consume="217056;1903" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="30024" next_id="30025" color="2" level="22" highest_level="30" star="2" consume="217056;2087" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="30025" next_id="30026" color="2" level="23" highest_level="30" star="2" consume="217056;2297" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="30026" next_id="30027" color="2" level="24" highest_level="30" star="2" consume="217056;2533" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="30027" next_id="30028" color="2" level="25" highest_level="30" star="2" consume="217056;2777" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="30028" next_id="30029" color="2" level="26" highest_level="30" star="2" consume="217056;3060" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="30029" next_id="30030" color="2" level="27" highest_level="30" star="2" consume="217056;3362" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="30030" next_id="30031" color="2" level="28" highest_level="30" star="2" consume="217056;3705" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="30031" next_id="30032" color="2" level="29" highest_level="30" star="2" consume="217056;4078" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="30032" next_id="30033" color="2" level="30" highest_level="30" star="2" weapon_consume="2;3" advance="3" consume="216002;80" consume_way="1" advanced_return="160001;3|160002;3"/>
+    <ItemSpec id="30033" next_id="30034" color="2" level="30" highest_level="40" star="3" consume="217056;4483" advanced_return="160001;3|160002;3|160003;3"/>
+    <ItemSpec id="30034" next_id="30035" color="2" level="31" highest_level="40" star="3" consume="217056;4932" advanced_return="160001;3|160002;3|160003;3"/>
+    <ItemSpec id="30035" next_id="30036" color="2" level="32" highest_level="40" star="3" consume="217056;5418" advanced_return="160001;3|160002;3|160003;3"/>
+    <ItemSpec id="30036" next_id="30037" color="2" level="33" highest_level="40" star="3" consume="217056;5967" advanced_return="160001;3|160002;3|160003;3"/>
+    <ItemSpec id="30037" next_id="30038" color="2" level="34" highest_level="40" star="3" consume="217056;6555" advanced_return="160001;3|160002;3|160003;3"/>
+    <ItemSpec id="30038" next_id="30039" color="2" level="35" highest_level="40" star="3" consume="217056;7212" advanced_return="160001;3|160002;3|160003;3"/>
+    <ItemSpec id="30039" next_id="30040" color="2" level="36" highest_level="40" star="3" consume="217056;7935" advanced_return="160001;3|160002;3|160003;3"/>
+    <ItemSpec id="30040" next_id="30041" color="2" level="37" highest_level="40" star="3" consume="217056;8730" advanced_return="160001;3|160002;3|160003;3"/>
+    <ItemSpec id="30041" next_id="30042" color="2" level="38" highest_level="40" star="3" consume="217056;9604" advanced_return="160001;3|160002;3|160003;3"/>
+    <ItemSpec id="30042" next_id="30043" color="2" level="39" highest_level="40" star="3" consume="217056;10567" advanced_return="160001;3|160002;3|160003;3"/>
+    <ItemSpec id="30043" color="2" level="40" highest_level="40" star="3" advanced_return="160001;3|160002;3|160003;3"/>
+
+    <ItemSpec id="40001" next_id="40002" color="3" level="1" highest_level="10" star="0" consume="217056;452"/>
+    <ItemSpec id="40002" next_id="40003" color="3" level="2" highest_level="10" star="0" consume="217056;496"/>
+    <ItemSpec id="40003" next_id="40004" color="3" level="3" highest_level="10" star="0" consume="217056;548"/>
+    <ItemSpec id="40004" next_id="40005" color="3" level="4" highest_level="10" star="0" consume="217056;600"/>
+    <ItemSpec id="40005" next_id="40006" color="3" level="5" highest_level="10" star="0" consume="217056;660"/>
+    <ItemSpec id="40006" next_id="40007" color="3" level="6" highest_level="10" star="0" consume="217056;728"/>
+    <ItemSpec id="40007" next_id="40008" color="3" level="7" highest_level="10" star="0" consume="217056;800"/>
+    <ItemSpec id="40008" next_id="40009" color="3" level="8" highest_level="10" star="0" consume="217056;880"/>
+    <ItemSpec id="40009" next_id="40010" color="3" level="9" highest_level="10" star="0" consume="217056;968"/>
+    <ItemSpec id="40010" next_id="40011" color="3" level="10" highest_level="10" star="0" weapon_consume="1;3" advance="1" consume="216002;60" consume_way="1"/>
+    <ItemSpec id="40011" next_id="40012" color="3" level="10" highest_level="20" star="1" consume="217056;1064" advanced_return="160002;3"/>
+    <ItemSpec id="40012" next_id="40013" color="3" level="11" highest_level="20" star="1" consume="217056;1171" advanced_return="160002;3"/>
+    <ItemSpec id="40013" next_id="40014" color="3" level="12" highest_level="20" star="1" consume="217056;1290" advanced_return="160002;3"/>
+    <ItemSpec id="40014" next_id="40015" color="3" level="13" highest_level="20" star="1" consume="217056;1417" advanced_return="160002;3"/>
+    <ItemSpec id="40015" next_id="40016" color="3" level="14" highest_level="20" star="1" consume="217056;1560" advanced_return="160002;3"/>
+    <ItemSpec id="40016" next_id="40017" color="3" level="15" highest_level="20" star="1" consume="217056;1715" advanced_return="160002;3"/>
+    <ItemSpec id="40017" next_id="40018" color="3" level="16" highest_level="20" star="1" consume="217056;1886" advanced_return="160002;3"/>
+    <ItemSpec id="40018" next_id="40019" color="3" level="17" highest_level="20" star="1" consume="217056;2075" advanced_return="160002;3"/>
+    <ItemSpec id="40019" next_id="40020" color="3" level="18" highest_level="20" star="1" consume="217056;2285" advanced_return="160002;3"/>
+    <ItemSpec id="40020" next_id="40021" color="3" level="19" highest_level="20" star="1" consume="217056;2512" advanced_return="160002;3"/>
+    <ItemSpec id="40021" next_id="40022" color="3" level="20" highest_level="20" star="1" weapon_consume="2;3" advance="2" consume="216002;120" consume_way="1" advanced_return="160002;3"/>
+    <ItemSpec id="40022" next_id="40023" color="3" level="20" highest_level="30" star="2" consume="217057;1381" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="40023" next_id="40024" color="3" level="21" highest_level="30" star="2" consume="217057;1521" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="40024" next_id="40025" color="3" level="22" highest_level="30" star="2" consume="217057;1672" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="40025" next_id="40026" color="3" level="23" highest_level="30" star="2" consume="217057;1837" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="40026" next_id="40027" color="3" level="24" highest_level="30" star="2" consume="217057;2025" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="40027" next_id="40028" color="3" level="25" highest_level="30" star="2" consume="217057;2226" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="40028" next_id="40029" color="3" level="26" highest_level="30" star="2" consume="217057;2446" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="40029" next_id="40030" color="3" level="27" highest_level="30" star="2" consume="217057;2692" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="40030" next_id="40031" color="3" level="28" highest_level="30" star="2" consume="217057;2962" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="40031" next_id="40032" color="3" level="29" highest_level="30" star="2" consume="217057;3256" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="40032" next_id="40033" color="3" level="30" highest_level="30" star="2" weapon_consume="3;3" advance="3" consume="216002;260" consume_way="1" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="40033" next_id="40034" color="3" level="30" highest_level="40" star="3" consume="217057;3585" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="40034" next_id="40035" color="3" level="31" highest_level="40" star="3" consume="217057;3944" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="40035" next_id="40036" color="3" level="32" highest_level="40" star="3" consume="217057;4335" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="40036" next_id="40037" color="3" level="33" highest_level="40" star="3" consume="217057;4772" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="40037" next_id="40038" color="3" level="34" highest_level="40" star="3" consume="217057;5249" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="40038" next_id="40039" color="3" level="35" highest_level="40" star="3" consume="217057;5773" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="40039" next_id="40040" color="3" level="36" highest_level="40" star="3" consume="217057;6348" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="40040" next_id="40041" color="3" level="37" highest_level="40" star="3" consume="217057;6985" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="40041" next_id="40042" color="3" level="38" highest_level="40" star="3" consume="217057;7682" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="40042" next_id="40043" color="3" level="39" highest_level="40" star="3" consume="217057;8452" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="40043" color="3" level="40" highest_level="40" star="3" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="50001" next_id="50002" color="4" level="1" highest_level="10" star="0" consume="217057;129"/>
+    <ItemSpec id="50002" next_id="50003" color="4" level="2" highest_level="10" star="0" consume="217057;142"/>
+    <ItemSpec id="50003" next_id="50004" color="4" level="3" highest_level="10" star="0" consume="217057;156"/>
+    <ItemSpec id="50004" next_id="50005" color="4" level="4" highest_level="10" star="0" consume="217057;172"/>
+    <ItemSpec id="50005" next_id="50006" color="4" level="5" highest_level="10" star="0" consume="217057;188"/>
+    <ItemSpec id="50006" next_id="50007" color="4" level="6" highest_level="10" star="0" consume="217057;208"/>
+    <ItemSpec id="50007" next_id="50008" color="4" level="7" highest_level="10" star="0" consume="217057;228"/>
+    <ItemSpec id="50008" next_id="50009" color="4" level="8" highest_level="10" star="0" consume="217057;251"/>
+    <ItemSpec id="50009" next_id="50010" color="4" level="9" highest_level="10" star="0" consume="217057;276"/>
+    <ItemSpec id="50010" next_id="50011" color="4" level="10" highest_level="10" star="0" weapon_consume="1;3" advance="1" consume="216002;120" consume_way="1"/>
+    <ItemSpec id="50011" next_id="50012" color="4" level="10" highest_level="20" star="1" consume="217057;304" advanced_return="160002;3"/>
+    <ItemSpec id="50012" next_id="50013" color="4" level="11" highest_level="20" star="1" consume="217057;334" advanced_return="160002;3"/>
+    <ItemSpec id="50013" next_id="50014" color="4" level="12" highest_level="20" star="1" consume="217057;367" advanced_return="160002;3"/>
+    <ItemSpec id="50014" next_id="50015" color="4" level="13" highest_level="20" star="1" consume="217057;405" advanced_return="160002;3"/>
+    <ItemSpec id="50015" next_id="50016" color="4" level="14" highest_level="20" star="1" consume="217057;445" advanced_return="160002;3"/>
+    <ItemSpec id="50016" next_id="50017" color="4" level="15" highest_level="20" star="1" consume="217057;490" advanced_return="160002;3"/>
+    <ItemSpec id="50017" next_id="50018" color="4" level="16" highest_level="20" star="1" consume="217057;537" advanced_return="160002;3"/>
+    <ItemSpec id="50018" next_id="50019" color="4" level="17" highest_level="20" star="1" consume="217057;591" advanced_return="160002;3"/>
+    <ItemSpec id="50019" next_id="50020" color="4" level="18" highest_level="20" star="1" consume="217057;652" advanced_return="160002;3"/>
+    <ItemSpec id="50020" next_id="50021" color="4" level="19" highest_level="20" star="1" consume="217057;716" advanced_return="160002;3"/>
+    <ItemSpec id="50021" next_id="50022" color="4" level="20" highest_level="20" star="1" consume="216002;240" weapon_consume="2;3" advance="2" consume_way="1" advanced_return="160002;3"/>
+    <ItemSpec id="50022" next_id="50023" color="4" level="20" highest_level="30" star="2" consume="217058;157" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="50023" next_id="50024" color="4" level="21" highest_level="30" star="2" consume="217058;173" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="50024" next_id="50025" color="4" level="22" highest_level="30" star="2" consume="217058;190" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="50025" next_id="50026" color="4" level="23" highest_level="30" star="2" consume="217058;210" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="50026" next_id="50027" color="4" level="24" highest_level="30" star="2" consume="217058;231" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="50027" next_id="50028" color="4" level="25" highest_level="30" star="2" consume="217058;253" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="50028" next_id="50029" color="4" level="26" highest_level="30" star="2" consume="217058;279" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="50029" next_id="50030" color="4" level="27" highest_level="30" star="2" consume="217058;307" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="50030" next_id="50031" color="4" level="28" highest_level="30" star="2" consume="217058;337" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="50031" next_id="50032" color="4" level="29" highest_level="30" star="2" consume="217058;372" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="50032" next_id="50033" color="4" level="30" highest_level="30" star="2" consume="216002;520" weapon_consume="3;3" advance="3" consume_way="1" advanced_return="160002;3|160003;3"/>
+    <ItemSpec id="50033" next_id="50034" color="4" level="30" highest_level="40" star="3" consume="217058;409" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="50034" next_id="50035" color="4" level="31" highest_level="40" star="3" consume="217058;449" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="50035" next_id="50036" color="4" level="32" highest_level="40" star="3" consume="217058;494" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="50036" next_id="50037" color="4" level="33" highest_level="40" star="3" consume="217058;544" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="50037" next_id="50038" color="4" level="34" highest_level="40" star="3" consume="217058;599" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="50038" next_id="50039" color="4" level="35" highest_level="40" star="3" consume="217058;658" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="50039" next_id="50040" color="4" level="36" highest_level="40" star="3" consume="217058;724" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="50040" next_id="50041" color="4" level="37" highest_level="40" star="3" consume="217058;796" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="50041" next_id="50042" color="4" level="38" highest_level="40" star="3" consume="217058;876" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="50042" next_id="50043" color="4" level="39" highest_level="40" star="3" consume="217058;963" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="50043" next_id="50044" color="4" level="40" highest_level="40" star="3" consume="216002;780" weapon_consume="4;3" advance="4" consume_way="1" advanced_return="160002;3|160003;3|160004;3"/>
+    <ItemSpec id="50044" next_id="50045" color="4" level="40" highest_level="50" star="4" consume="217058;1060" advanced_return="160002;3|160003;3|160004;3|160005;3"/>
+    <ItemSpec id="50045" next_id="50046" color="4" level="41" highest_level="50" star="4" consume="217058;1166" advanced_return="160002;3|160003;3|160004;3|160005;3"/>
+    <ItemSpec id="50046" next_id="50047" color="4" level="42" highest_level="50" star="4" consume="217058;1283" advanced_return="160002;3|160003;3|160004;3|160005;3"/>
+    <ItemSpec id="50047" next_id="50048" color="4" level="43" highest_level="50" star="4" consume="217058;1411" advanced_return="160002;3|160003;3|160004;3|160005;3"/>
+    <ItemSpec id="50048" next_id="50049" color="4" level="44" highest_level="50" star="4" consume="217058;1552" advanced_return="160002;3|160003;3|160004;3|160005;3"/>
+    <ItemSpec id="50049" next_id="50050" color="4" level="45" highest_level="50" star="4" consume="217058;1707" advanced_return="160002;3|160003;3|160004;3|160005;3"/>
+    <ItemSpec id="50050" next_id="50051" color="4" level="46" highest_level="50" star="4" consume="217058;1879" advanced_return="160002;3|160003;3|160004;3|160005;3"/>
+    <ItemSpec id="50051" next_id="50052" color="4" level="47" highest_level="50" star="4" consume="217058;2066" advanced_return="160002;3|160003;3|160004;3|160005;3"/>
+    <ItemSpec id="50052" next_id="50053" color="4" level="48" highest_level="50" star="4" consume="217058;2273" advanced_return="160002;3|160003;3|160004;3|160005;3"/>
+    <ItemSpec id="50053" next_id="50054" color="4" level="49" highest_level="50" star="4" consume="217058;2500" advanced_return="160002;3|160003;3|160004;3|160005;3"/>
+    <ItemSpec id="50054" color="4" level="50" highest_level="50" star="4" advanced_return="160002;3|160003;3|160004;3|160005;3"/>
+    <ItemSpec id="60001" next_id="60002" color="5" level="1" highest_level="10" star="0" consume="217057;214"/>
+    <ItemSpec id="60002" next_id="60003" color="5" level="2" highest_level="10" star="0" consume="217057;236"/>
+    <ItemSpec id="60003" next_id="60004" color="5" level="3" highest_level="10" star="0" consume="217057;260"/>
+    <ItemSpec id="60004" next_id="60005" color="5" level="4" highest_level="10" star="0" consume="217057;286"/>
+    <ItemSpec id="60005" next_id="60006" color="5" level="5" highest_level="10" star="0" consume="217057;314"/>
+    <ItemSpec id="60006" next_id="60007" color="5" level="6" highest_level="10" star="0" consume="217057;346"/>
+    <ItemSpec id="60007" next_id="60008" color="5" level="7" highest_level="10" star="0" consume="217057;380"/>
+    <ItemSpec id="60008" next_id="60009" color="5" level="8" highest_level="10" star="0" consume="217057;418"/>
+    <ItemSpec id="60009" next_id="60010" color="5" level="9" highest_level="10" star="0" consume="217057;460"/>
+    <ItemSpec id="60010" next_id="60011" color="5" level="10" highest_level="10" star="0" weapon_consume="2;3" advance="1" consume="216002;200" consume_way="1"/>
+    <ItemSpec id="60011" next_id="60012" color="5" level="10" highest_level="20" star="1" consume="217057;506" advanced_return="160003;3"/>
+    <ItemSpec id="60012" next_id="60013" color="5" level="11" highest_level="20" star="1" consume="217057;557" advanced_return="160003;3"/>
+    <ItemSpec id="60013" next_id="60014" color="5" level="12" highest_level="20" star="1" consume="217057;612" advanced_return="160003;3"/>
+    <ItemSpec id="60014" next_id="60015" color="5" level="13" highest_level="20" star="1" consume="217057;674" advanced_return="160003;3"/>
+    <ItemSpec id="60015" next_id="60016" color="5" level="14" highest_level="20" star="1" consume="217057;742" advanced_return="160003;3"/>
+    <ItemSpec id="60016" next_id="60017" color="5" level="15" highest_level="20" star="1" consume="217057;816" advanced_return="160003;3"/>
+    <ItemSpec id="60017" next_id="60018" color="5" level="16" highest_level="20" star="1" consume="217057;897" advanced_return="160003;3"/>
+    <ItemSpec id="60018" next_id="60019" color="5" level="17" highest_level="20" star="1" consume="217057;987" advanced_return="160003;3"/>
+    <ItemSpec id="60019" next_id="60020" color="5" level="18" highest_level="20" star="1" consume="217057;1086" advanced_return="160003;3"/>
+    <ItemSpec id="60020" next_id="60021" color="5" level="19" highest_level="20" star="1" consume="217057;1194" advanced_return="160003;3"/>
+    <ItemSpec id="60021" next_id="60022" color="5" level="20" highest_level="20" star="1" consume="216002;400" weapon_consume="3;3" advance="2" consume_way="1" advanced_return="160003;3"/>
+    <ItemSpec id="60022" next_id="60023" color="5" level="20" highest_level="30" star="2" consume="217058;262" advanced_return="160003;3|160004;3"/>
+    <ItemSpec id="60023" next_id="60024" color="5" level="21" highest_level="30" star="2" consume="217058;289" advanced_return="160003;3|160004;3"/>
+    <ItemSpec id="60024" next_id="60025" color="5" level="22" highest_level="30" star="2" consume="217058;318" advanced_return="160003;3|160004;3"/>
+    <ItemSpec id="60025" next_id="60026" color="5" level="23" highest_level="30" star="2" consume="217058;349" advanced_return="160003;3|160004;3"/>
+    <ItemSpec id="60026" next_id="60027" color="5" level="24" highest_level="30" star="2" consume="217058;384" advanced_return="160003;3|160004;3"/>
+    <ItemSpec id="60027" next_id="60028" color="5" level="25" highest_level="30" star="2" consume="217058;423" advanced_return="160003;3|160004;3"/>
+    <ItemSpec id="60028" next_id="60029" color="5" level="26" highest_level="30" star="2" consume="217058;465" advanced_return="160003;3|160004;3"/>
+    <ItemSpec id="60029" next_id="60030" color="5" level="27" highest_level="30" star="2" consume="217058;511" advanced_return="160003;3|160004;3"/>
+    <ItemSpec id="60030" next_id="60031" color="5" level="28" highest_level="30" star="2" consume="217058;562" advanced_return="160003;3|160004;3"/>
+    <ItemSpec id="60031" next_id="60032" color="5" level="29" highest_level="30" star="2" consume="217058;619" advanced_return="160003;3|160004;3"/>
+    <ItemSpec id="60032" next_id="60033" color="5" level="30" highest_level="30" star="2" consume="216002;860" weapon_consume="4;3" advance="3" consume_way="1" advanced_return="160003;3|160004;3"/>
+    <ItemSpec id="60033" next_id="60034" color="5" level="30" highest_level="40" star="3" consume="217058;681" advanced_return="160003;3|160004;3|160005;3"/>
+    <ItemSpec id="60034" next_id="60035" color="5" level="31" highest_level="40" star="3" consume="217058;749" advanced_return="160003;3|160004;3|160005;3"/>
+    <ItemSpec id="60035" next_id="60036" color="5" level="32" highest_level="40" star="3" consume="217058;824" advanced_return="160003;3|160004;3|160005;3"/>
+    <ItemSpec id="60036" next_id="60037" color="5" level="33" highest_level="40" star="3" consume="217058;907" advanced_return="160003;3|160004;3|160005;3"/>
+    <ItemSpec id="60037" next_id="60038" color="5" level="34" highest_level="40" star="3" consume="217058;998" advanced_return="160003;3|160004;3|160005;3"/>
+    <ItemSpec id="60038" next_id="60039" color="5" level="35" highest_level="40" star="3" consume="217058;1097" advanced_return="160003;3|160004;3|160005;3"/>
+    <ItemSpec id="60039" next_id="60040" color="5" level="36" highest_level="40" star="3" consume="217058;1207" advanced_return="160003;3|160004;3|160005;3"/>
+    <ItemSpec id="60040" next_id="60041" color="5" level="37" highest_level="40" star="3" consume="217058;1328" advanced_return="160003;3|160004;3|160005;3"/>
+    <ItemSpec id="60041" next_id="60042" color="5" level="38" highest_level="40" star="3" consume="217058;1460" advanced_return="160003;3|160004;3|160005;3"/>
+    <ItemSpec id="60042" next_id="60043" color="5" level="39" highest_level="40" star="3" consume="217058;1606" advanced_return="160003;3|160004;3|160005;3"/>
+    <ItemSpec id="60043" next_id="60044" color="5" level="40" highest_level="40" star="3" consume="216002;1300" weapon_consume="5;3" advance="4" consume_way="1" advanced_return="160003;3|160004;3|160005;3"/>
+    <ItemSpec id="60044" next_id="60045" color="5" level="40" highest_level="50" star="4" consume="217058;1767" advanced_return="160003;3|160004;3|160005;3|160006;3"/>
+    <ItemSpec id="60045" next_id="60046" color="5" level="41" highest_level="50" star="4" consume="217058;1944" advanced_return="160003;3|160004;3|160005;3|160006;3"/>
+    <ItemSpec id="60046" next_id="60047" color="5" level="42" highest_level="50" star="4" consume="217058;2139" advanced_return="160003;3|160004;3|160005;3|160006;3"/>
+    <ItemSpec id="60047" next_id="60048" color="5" level="43" highest_level="50" star="4" consume="217058;2352" advanced_return="160003;3|160004;3|160005;3|160006;3"/>
+    <ItemSpec id="60048" next_id="60049" color="5" level="44" highest_level="50" star="4" consume="217058;2587" advanced_return="160003;3|160004;3|160005;3|160006;3"/>
+    <ItemSpec id="60049" next_id="60050" color="5" level="45" highest_level="50" star="4" consume="217058;2846" advanced_return="160003;3|160004;3|160005;3|160006;3"/>
+    <ItemSpec id="60050" next_id="60051" color="5" level="46" highest_level="50" star="4" consume="217058;3131" advanced_return="160003;3|160004;3|160005;3|160006;3"/>
+    <ItemSpec id="60051" next_id="60052" color="5" level="47" highest_level="50" star="4" consume="217058;3444" advanced_return="160003;3|160004;3|160005;3|160006;3"/>
+    <ItemSpec id="60052" next_id="60053" color="5" level="48" highest_level="50" star="4" consume="217058;3789" advanced_return="160003;3|160004;3|160005;3|160006;3"/>
+    <ItemSpec id="60053" next_id="60054" color="5" level="49" highest_level="50" star="4" consume="217058;4167" advanced_return="160003;3|160004;3|160005;3|160006;3"/>
+    <ItemSpec id="60054" color="5" level="50" highest_level="50" star="4" advanced_return="160003;3|160004;3|160005;3|160006;3"/>
+
+
+</Group>
+</tns:database>

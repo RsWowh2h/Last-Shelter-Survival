@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="social_tag">
+    <ItemSpec id="1" name="115939" grid_img="UI_biaoqian_01" />
+    <ItemSpec id="2" name="115940" grid_img="UI_biaoqian_02" />
+    <ItemSpec id="3" name="115941" grid_img="UI_biaoqian_03" />
+    <ItemSpec id="4" name="115942" grid_img="UI_biaoqian_04" />
+    <ItemSpec id="5" name="115943" grid_img="UI_biaoqian_05" />
+    <ItemSpec id="6" name="115944" grid_img="UI_biaoqian_06" />
+	</Group> 
+</tns:database>

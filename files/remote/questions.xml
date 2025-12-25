@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="questions">
+<ItemSpec id="1000" name="110030401" type="1" form="1" selection="170163|170164"/>
+<ItemSpec id="1001" name="110030402" type="1" form="1" selection="170163|170164"/>
+<ItemSpec id="1002" name="110030403" type="1" form="1" selection="110030404|110030405|110030406"/>
+<ItemSpec id="1003" name="110030407" type="1" form="1" selection="110030408|110030409"/>
+<ItemSpec id="1004" name="110030410" type="0" form="1" selection="110030411|110030412|110030413|110030414"/>
+<ItemSpec id="1005" name="110030415" type="1" form="1" selection="110030416|110030417|110030418|110030419"/>
+<ItemSpec id="1006" name="110030420" type="1" form="1" selection="110030421|110030422|110030423|110030424"/>
+<ItemSpec id="1007" name="110030425" type="1" form="1" selection="110030426|110030427|110030428|110030429"/>
+<ItemSpec id="1008" name="110030430" type="1" form="1" selection="110030431|110030432|110030433|110030434"/>
+<ItemSpec id="1009" name="110030457" type="1" form="1" selection="110030458|110030459|110030460|110030461"/>
+<ItemSpec id="1010" name="110030462" type="1" form="1" selection="110030463|110030464|110030465|110030466"/>
+<ItemSpec id="1100" name="110030436" type="1" form="1" selection="170163|170164"/>
+<ItemSpec id="1101" name="110030437" type="1" form="1" selection="110030438|110030439|110030440|110030414"/>
+
+<ItemSpec id="1200" name="110030467" type="1" form="1" selection="170163|110030469|170164"/>
+<ItemSpec id="1201" name="110030472" type="1" form="1" selection="110030473|110030474|110030508"/>
+<ItemSpec id="1202" name="110030477" type="1" form="1" selection="110030478|110030479|110030480|110030481"/>
+<ItemSpec id="1203" name="110030482" type="1" form="1" selection="110030483|110030484"/>
+<ItemSpec id="1204" name="110030487" type="1" form="1" selection="110030488|110030489"/>
+<ItemSpec id="1205" name="110030492" type="1" form="1" selection="110030493|110030494|110030495|110030496|110030507"/>
+<ItemSpec id="1206" name="110030497" type="1" form="1" selection="110030498|110030499|110030500|110030506"/>
+<ItemSpec id="1207" name="110030502" type="1" form="1" selection="110030503|110030504|110030505"/>
+
+
+<ItemSpec id="1301" name="110030510" type="1" form="1" selection="110030519|110030520|110030521"/>
+<ItemSpec id="1302" name="110030511" type="1" form="1" selection="110030522|110030523|110030524|110030525|110030526|110030527"/>
+<ItemSpec id="1303" name="110030512" type="1" form="1" selection="110030528|110030529|110030530|110030531|110030532|110030533|110030534"/>
+<ItemSpec id="1304" name="110030513" type="0" form="1" selection="110030535|110030536|110030537|110030538|110030539|110030540|110030541|110030542|110030543|110030544"/>
+<ItemSpec id="1305" name="110030514" type="0" form="1" selection="110030545|110030546|110030547|110030548|110030549"/>
+<ItemSpec id="1306" name="110030515" type="0" form="1" selection="110030550|110030551|110030552|110030553|110030554|110030555"/>
+<ItemSpec id="1307" name="110030516" type="0" form="1" selection="110030556|110030557|110030558|110030559|110030560|110030561|110030562|110030566"/>
+<ItemSpec id="1308" name="110030517" type="1" form="1" selection="110030563|110030564|110030565"/>
+<ItemSpec id="1309" name="110030568" type="1" form="1" selection="110030578|110030579|110030580|110030581"/>
+<ItemSpec id="1310" name="110030569" type="1" form="1" selection="110030582|110030583|110030584|110030585|110030586"/>
+<ItemSpec id="1311" name="110030570" type="0" form="1" selection="110030587|110030588|110030589|110030590|110030591"/>
+<ItemSpec id="1312" name="110030571" type="0" form="1" selection="110030592|110030593|110030594|110030595|110030596"/>
+<ItemSpec id="1313" name="110030572" type="1" form="1" selection="110030597|110030598|110030599"/>
+<ItemSpec id="1314" name="110030573" type="1" form="1" selection="110030607|110030608|110030609|110030610"/>
+<ItemSpec id="1315" name="110030574" type="1" form="1" selection="110030611|110030612|110030613"/>
+<ItemSpec id="1316" name="110030575" type="1" form="1" selection="110030614|110030615|110030616|110030617|110030618"/>
+<ItemSpec id="1317" name="110030576" type="1" form="1" selection="110030619|110030620|110030621|110030622|110030623"/>
+<ItemSpec id="1318" name="110030577" type="0" form="1" selection="110030624|110030625|110030626|110030627|110030628|110030630"/>
+<!-- zhendingji -->
+ <ItemSpec id="1401" name="110024099" type="1" form="1" selection="110024100|110024101"/>
+ <ItemSpec id="1402" name="110024102" type="0" form="1" selection="110024103|110024104|110024105|110024106|110024107"/>
+ <ItemSpec id="1403" name="110024108" type="0" form="1" selection="88001103|88001397|88001580|88000906|88000907|88001471|88001552|88000698|88003063|88001553|103458"/>
+ <ItemSpec id="1404" name="110024109" type="1" form="1" selection="110024110|110024111|110024112|110024113|110024114|110024115"/>
+<!-- zhendingji -->
+    <ItemSpec id="1405" name="110030632" type="1" form="1" selection="170163|110030640|110030641|170164"/>
+    <ItemSpec id="1406" name="110030633" type="1" form="1" selection="171787|171788"/>
+    <ItemSpec id="1407" name="110030634" type="1" form="1" selection="171787|171788"/>
+    <ItemSpec id="1408" name="110030635" type="1" form="1" selection="171787|171788"/>
+    <ItemSpec id="1409" name="110030636" type="1" form="1" selection="110030644|173332|110030646"/>
+    <ItemSpec id="1410" name="110030637" type="1" form="1" selection="110030601|110030602|110030603|110030757"/>
+    <ItemSpec id="1411" name="110030638" type="1" form="1" selection="110030647|110030648|83352005|110030650"/>
+    <ItemSpec id="1412" name="110030639" type="1" form="1" selection="110030651|110030652|110030653"/>
+    <ItemSpec id="1413" name="110030654" type="1" form="1" selection="170163|110030640|110030641|170164"/>
+    <ItemSpec id="1414" name="110030655" type="1" form="1" selection="110030660|110030661"/>
+    <ItemSpec id="1415" name="110030656" type="1" form="1" selection="170163|110030640|110030641|170164"/>
+    <ItemSpec id="1416" name="110030657" type="1" form="1" selection="110030662|110030663|110030664"/>
+    <ItemSpec id="1417" name="110030658" type="0" form="1" selection="110030665|110030666|110030667|110030668"/>
+    <ItemSpec id="1418" name="110030659" type="1" form="1" selection="110030669|110030670|110030671"/>
+    <ItemSpec id="1419" name="110030673" type="1" form="1" selection="110030684|110030685|110030686"/>
+    <ItemSpec id="1420" name="110030674" type="1" form="1" selection="110030687|110030688|110030689|110030690|110030691|110030692"/>
+    <ItemSpec id="1421" name="110030675" type="1" form="1" selection="110030693|110030694|110030695|110030696"/>
+    <ItemSpec id="1422" name="110030676" type="1" form="1" selection="110030697|110030698|110030699"/>
+    <ItemSpec id="1423" name="110030677" type="0" form="1" selection="110030830|110030831|110030832|110030833|110030834|110030835"/>
+    <ItemSpec id="1424" name="110030678" type="1" form="1" selection="110030836|110030837|110030838"/>
+    <ItemSpec id="1425" name="110030679" type="1" form="1" selection="110030839|110030840|110030841|110030842|110030843|110030844"/>
+    <ItemSpec id="1426" name="110030680" type="1" form="1" selection="110030845|110030846|110030847"/>
+    <ItemSpec id="1427" name="110030681" type="1" form="1" selection="110030848|110030849|110030850|110030851"/>
+    <ItemSpec id="1428" name="110030682" type="1" form="1" selection="110030852|110030853|110030854|110030855"/>
+    <ItemSpec id="1429" name="110030683" type="1" form="1" selection="110030856|110030857|110030858|110030859|110030860|110030861"/>
+    <ItemSpec id="1430" name="110030862" type="1" form="1" selection="110030869|110030870|110030871"/>
+    <ItemSpec id="1431" name="110030863" type="1" form="1" selection="110030872|110030873|110030874"/>
+    <ItemSpec id="1432" name="110030864" type="1" form="1" selection="110030875|110030876|110030877"/>
+    <ItemSpec id="1433" name="110030865" type="1" form="1" selection="110030878|110030879|110030880|110030881"/>
+    <ItemSpec id="1434" name="110030866" type="1" form="1" selection="110030882|110030883"/>
+    <ItemSpec id="1435" name="110030867" type="1" form="1" selection="110030884|110030885|110030886|110030887|110030888|110030889"/>
+    <ItemSpec id="1436" name="110030683" type="1" form="1" selection="110030856|110030857|110030858|110030859|110030860|110030861"/>
+    <ItemSpec id="1437" name="110030868" type="1" form="1" selection="110030890|110030891"/>
+
+<!--小游戏问卷-->
+    <ItemSpec id="1438" name="5600080" type="1" form="1" selection="5600081|5600082|5600083|5600084"/>
+    <ItemSpec id="1439" name="5600085" type="1" form="1" selection="5600086|5600087|5600088"/>
+    <ItemSpec id="1440" name="5600089" type="1" form="1" selection="5600086|5600087|5600088"/>
+    <ItemSpec id="1441" name="5600090" type="0" form="1" selection="5600091|5600092|5600093|5600094"/>
+    <ItemSpec id="1442" name="5600095" type="0" form="1" selection="5600096|5600097|5600098|5600099|5600100|5600101|5600102|5600103"/>
+    <ItemSpec id="1443" name="5600104" type="1" form="1" selection="5600105|5600106|5600107"/>
+    <ItemSpec id="1444" name="5600108" type="0" form="1" selection="5600109|5600110|5600111|5600112"/>
+
+
+
+    <ItemSpec id="1445" name="5600113" type="1" form="1" selection="5600114|5600115|5600116|5600117"/>
+    <ItemSpec id="1446" name="5600118" type="1" form="1" selection="5600119|5600120|5600121"/>
+    <ItemSpec id="1447" name="5600122" type="0" form="1" selection="5600123|5600124"/>
+    <ItemSpec id="1448" name="5600125" type="0" form="1" selection="5600126|5600127|5600128|5600129"/>
+    <ItemSpec id="1449" name="5600130" type="1" form="1" selection="5600131|5600132"/>
+    <ItemSpec id="1450" name="5600133" type="0" form="1" selection="5600134|5600135|5600136|5600137|5600138|5600139"/>
+
+<!--黎明行动问卷-->
+    <ItemSpec id="1455" name="110250000" type="1" form="1" selection="170163|110030640|110030641|170164"/>
+    <ItemSpec id="1456" name="110250001" type="1" form="1" selection="110030869|110030870|110030871|110030851"/>
+    <ItemSpec id="1457" name="110250002" type="1" form="1" selection="110250003|110250004|110250005|110030851"/>
+    <ItemSpec id="1458" name="110250006" type="1" form="1" selection="110250003|110250007|110250008|110030851"/>
+    <ItemSpec id="1459" name="110250009" type="1" form="1" selection="110250003|110250010|110250011|110030851"/>
+    <ItemSpec id="1460" name="110250012" type="0" form="1" selection="110250013|110250014|110250015|110030851"/>
+    <ItemSpec id="1461" name="110250016" type="1" form="1" selection="171787|171788|110030851"/>
+    <ItemSpec id="1462" name="110250017" type="1" form="1" selection="171787|171788"/>
+    <ItemSpec id="1463" name="110250018" type="0" form="1" selection="110250003|110250019|110250020|110250021|110250022"/>
+    <ItemSpec id="1464" name="110250023" type="1" form="1" selection="110250003|110250024|5600002|90600432"/>
+
+<!--赛季科技公会技能问卷-->
+    <ItemSpec id="1465" name="110210018" type="1" form="1" selection="110210025|110210026|110210027|110210028|110210040|110030851"/>
+    <ItemSpec id="1466" name="110210019" type="1" form="1" selection="110210029|110210030|110030851"/>
+    <ItemSpec id="1467" name="110210020" type="1" form="1" selection="110210031|110210032|110210033|110030851"/>
+    <ItemSpec id="1468" name="110210021" type="1" form="1" selection="110210025|110210034|110210035|110210036|110210037|110030851"/>
+    <ItemSpec id="1469" name="110210022" type="1" form="1" selection="110210025|110210035|110210036|110210037|110030851"/>
+    <ItemSpec id="1470" name="110210023" type="1" form="1" selection="110210025|110210038|110210037|110030851"/>
+    <ItemSpec id="1471" name="110210024" type="1" form="1" selection="110210025|110210039|110210036|110210037|110030851"/>
+    <ItemSpec id="1472" name="110071023" type="1" form="1" selection="110071024|110030870|110071026"/>
+    <ItemSpec id="1473" name="110071027" type="0" form="1" selection="110071028|110071029|110071030|110071031|110071032|110071033"/>
+    <ItemSpec id="1474" name="110071034" type="1" form="1" selection="110030644|173332|110030646|110030851"/>
+    <ItemSpec id="1475" name="110071038" type="1" form="1" selection="170163|110030640|110030641|170164|110030851"/>
+    <ItemSpec id="1476" name="110071043" type="1" form="1" selection="110071024|110030870|110071026"/>
+    <ItemSpec id="1477" name="110071044" type="0" form="1" selection="110071045|110071046|110071047|110071048|110071026"/>
+
+    <ItemSpec id="1478" name="110033200" type="1" form="1" selection="170163|110030640|110030641|170164"/>
+    <ItemSpec id="1479" name="110033201" type="1" form="1" selection="110033208|110033209"/>
+    <ItemSpec id="1480" name="110033202" type="1" form="1" selection="110033210|110033211|110030612|110033213"/>
+    <ItemSpec id="1481" name="110033203" type="1" form="1" selection="110033208|110030856|110030857"/>
+    <ItemSpec id="1482" name="110033204" type="1" form="1" selection="102139|110033215|110033216|109508|110030422"/>
+    <ItemSpec id="1483" name="110033224" type="1" form="1" selection="110033225|110033226|110033227|110033228"/>
+    <ItemSpec id="1484" name="110033205" type="1" form="1" selection="110033208|110033209|110033222"/>
+    <ItemSpec id="1485" name="110033229" type="1" form="1" selection="110033230|110033231|90601170|103458"/>
+    <ItemSpec id="1486" name="110033234" type="1" form="1" selection="110033235|110033236|110033237|110033238"/>
+    <ItemSpec id="1487" name="110033239" type="1" form="1" selection="110033240|110033241|110033242|110033238"/>
+    <ItemSpec id="1488" name="110033243" type="1" form="1" selection="110033244|110033245|110033246|110033238"/>
+    <ItemSpec id="1489" name="110033206" type="1" form="1" selection="110033219|110033220|110033221"/>
+    <ItemSpec id="1490" name="110033207" type="1" form="1" selection="171787|171788"/>
+    <ItemSpec id="1491" name="110033247" type="1" form="1" selection="110033248|110033249"/>
+    <ItemSpec id="1492" name="110033250" type="1" form="1" selection="110033251|110033252|110033253|110033254"/>
+
+<ItemSpec id="1493" name="110240027" type="1" form="2" selection="110240028|110240029|110240030|110240031" />
+<ItemSpec id="1494" name="110240032" type="1" form="1" selection="110240033|110240034" />
+<ItemSpec id="1495" name="110240035" type="1" form="2" selection="110240036|110240037|110240038|110240039" />
+<ItemSpec id="1498" name="110240049" type="1" form="2" selection="110240050|110240051|110240052|110240053|110240054|110240055" />
+<ItemSpec id="1499" name="110240056" type="1" form="1" selection="110240057|110240058|110240059|110240060|110240061" />
+<ItemSpec id="1500" name="110240062" type="0" form="1" selection="110240063|110240064|110240065|110240066|110240067|110240068|110240069" />
+<ItemSpec id="1501" name="110240070" type="0" form="2" selection="110240071|110240072|110240073|110240074|110240075|110240076|110240077|110240078|110240079|110240080|110240081|110240082" />
+<ItemSpec id="1502" name="110240083" type="1" form="1" selection="110240084|110240085|110240086" />
+<ItemSpec id="1503" name="110240087" type="1" form="2" selection="110240088|110240089|110240090|110240091" />
+<ItemSpec id="1504" name="110240092" type="1" form="1" selection="110240093|110240094|110240095" /> 
+
+<!--先遣服四阵营问卷-->
+    <ItemSpec id="1505" name="110255201" type="1" form="1" selection="170163|110030640|110030641|170164"/>
+    <ItemSpec id="1506" name="110255202" type="1" form="1" selection="170163|110030640|110030641|170164|110030851"/>
+    <ItemSpec id="1507" name="110255203" type="1" form="1" selection="170163|110030640|110030641|170164|110030851"/>
+    <ItemSpec id="1508" name="110255204" type="1" form="1" selection="170163|110030640|110030641|170164|110030851"/>
+    <ItemSpec id="1509" name="110255205" type="1" form="1" selection="110255206|110255207|110255208|110255209|110210025"/>
+    <ItemSpec id="1510" name="110255210" type="1" form="1" selection="170163|110030640|110030641|170164|110030851"/>
+    <ItemSpec id="1511" name="110255211" type="1" form="1" selection="90700062|110255212|102139|110255213|110210025"/>
+    <ItemSpec id="1512" name="110255214" type="1" form="1" selection="170163|110030640|110030641|170164|110030851"/>
+    <ItemSpec id="1513" name="110255215" type="1" form="1" selection="110040849|110022333|110210010|110255206|110255216|110210025"/>
+    <ItemSpec id="1514" name="110255217" type="1" form="1" selection="170163|110030640|110030641|170164|110030851"/>
+    <ItemSpec id="1515" name="110255218" type="1" form="1" selection="91023015|110255219|110030856|110030857|110051010"/>
+    <ItemSpec id="1516" name="110255220" type="1" form="1" selection="110255221|110255222|110030469|110255223|110030686"/>
+<!--IP联动调研问卷-->
+    <ItemSpec id="1517" name="110240468" type="1" form="1" selection="110240469|110240470|110240471" />
+    <ItemSpec id="1518" name="110240472" type="1" form="1" selection="110240473|110240474|110240475|110240476|110240477" />
+    <ItemSpec id="1519" name="110240478" type="0" form="1" selection="110240479|110240480|110240481|110240482|110240483|110240484|110240485" />
+    <ItemSpec id="1520" name="110240486" type="0" form="1" selection="110240487|110240488|110240489|110240490|110240491|110240492|110240493|110240494" />
+    <ItemSpec id="1521" name="110240495" type="0" form="1" selection="110240496|110240497|110240498|110240499|110240500|110240501" />
+    <ItemSpec id="1522" name="110240502" type="0" form="1" selection="110240503|110240504|110240505|110240506|110240507|110240508|110240509|110240510" />
+    <ItemSpec id="1523" name="110240511" type="0" form="1" selection="110240512|110240513|110240514|110240515|110240516|110240517|110240518|110240519" />
+    <ItemSpec id="1524" name="110240087" type="1" form="1" selection="110240091|110240090|110240089|110240088" />
+    <ItemSpec id="1525" name="110240520" type="0" form="1" selection="110240521|110240522|110240523|110240524|110240525|110240526|110240527|110240528|110240529|110240530|110240531|110240532|110240533" />
+
+    <ItemSpec id="1526" name="110240468" type="1" form="1" selection="110240469|110240470|110240471" />
+    <ItemSpec id="1527" name="110240472" type="1" form="1" selection="110240473|110240474|110240475|110240476|110240477" />
+    <ItemSpec id="1528" name="110240087" type="1" form="1" selection="110240091|110240090|110240088|110240089" />
+    <ItemSpec id="1529" name="110240591" type="1" form="1" selection="110240592|110240593|110240594|110240595" />
+    <ItemSpec id="1530" name="110240596" type="0" form="1" selection="110240597|110240598|110240599|110240600|110240601|110240602|110240603|110240604|110240605" />
+    <ItemSpec id="1531" name="110240606" type="0" form="1" selection="110240607|110240608|110240609|110240610|110240611|110240612|110240613|110240614" />
+    <ItemSpec id="1532" name="110240615" type="0" form="1" selection="110240616|110240617|110240618|110240619|110240620|110240621|110240622" />
+
+<!--四阵营军功+南北赛季问卷-->
+    <ItemSpec id="1601" name="110255510" type="1" form="1" selection="110255511|110255512|110030686" />
+    <ItemSpec id="1602" name="110255514" type="1" form="1" selection="110030684|110030685|110030686" />
+    <ItemSpec id="1603" name="110255517" type="1" form="1" selection="110255518|110255519|110255520|110030686" />
+    <ItemSpec id="1604" name="110255521" type="1" form="1" selection="110255522|110255523|110255524|110255520|110030686" />
+    <ItemSpec id="1605" name="110255525" type="1" form="1" selection="110030684|110030685|110030686" />
+    <ItemSpec id="1606" name="110255526" type="1" form="1" selection="110030684|110030685|110030686" />
+    <ItemSpec id="1607" name="110255527" type="1" form="1" selection="110255511|110255512|110030686" />
+    <ItemSpec id="1608" name="110255528" type="1" form="1" selection="110030684|110030685|110030686" />
+    <ItemSpec id="1609" name="110255529" type="1" form="1" selection="110030684|110255530|110255531|110030686" />
+    <ItemSpec id="1610" name="110255532" type="1" form="1" selection="110030684|110030685|110030686" />
+    <ItemSpec id="1611" name="110255533" type="1" form="1" selection="110030684|110030685|110030686" />
+    <ItemSpec id="1612" name="110255534" type="1" form="1" selection="110255221|110255222|110030469|110255223|110030686" />
+    <ItemSpec id="1613" name="110255539" type="1" form="1" selection="110255221|110255222|110030469|110255223|110030686" />
+    <ItemSpec id="1614" name="110255540" type="1" form="1" selection="110255221|110255222|110030469|110255223|110030686" />
+
+<!--四阵营军功+南北赛季问卷1-->
+    <ItemSpec id="1701" name="110255510" type="1" form="1" selection="110255511|110255512|110030686"/>
+    <ItemSpec id="1702" name="110255514" type="1" form="1" selection="110030684|110030685|110030686"/>
+    <ItemSpec id="1703" name="110255517" type="1" form="1" selection="110255518|110255519|110255520|110030686"/>
+    <ItemSpec id="1704" name="110255521" type="1" form="1" selection="110255522|110255523|110255524|110255520|110030686"/>
+    <ItemSpec id="1705" name="110255525" type="1" form="1" selection="110030684|110030685|110030686"/>
+    <ItemSpec id="1706" name="110255526" type="1" form="1" selection="110030684|110030685|110030686"/>
+    <ItemSpec id="1707" name="110255527" type="1" form="1" selection="110255511|110255512|110030686"/>
+    <ItemSpec id="1708" name="110255528" type="1" form="1" selection="110030684|110030685|110030686"/>
+    <ItemSpec id="1709" name="110255529" type="1" form="1" selection="110030684|110255530|110255531|110030686"/>
+    <ItemSpec id="1710" name="110255532" type="1" form="1" selection="110030684|110030685|110030686"/>
+    <ItemSpec id="1711" name="110255533" type="1" form="1" selection="110030684|110030685|110030686"/>
+    <ItemSpec id="1712" name="110255534" type="1" form="1" selection="110255221|110255222|110030469|110255223|110030686"/>
+    <ItemSpec id="1713" name="110255539" type="1" form="1" selection="110255221|110255222|110030469|110255223|110030686"/>
+    <ItemSpec id="1714" name="110255540" type="1" form="1" selection="110255221|110255222|110030469|110255223|110030686"/>
+
+<!--插旗赛季问卷 1-->
+    <ItemSpec id="1801" name="110257299" type="1" form="1" selection="110257300|110257301|110257302|110257303"/>
+    <ItemSpec id="1802" name="110257304" type="1" form="1" selection="110257305|110257301|110257302|110257303"/>
+    <ItemSpec id="1803" name="110257306" type="1" form="1" selection="110257307|110257308|110257309"/>
+    <ItemSpec id="1804" name="110257310" type="1" form="1" selection="110257311|110257312|110257313"/>
+    <ItemSpec id="1805" name="110257314" type="1" form="1" selection="110257315|110257316|110257309"/>
+    <ItemSpec id="1806" name="110257317" type="1" form="1" selection="110257318|110257308|110257309"/>
+    <ItemSpec id="1807" name="110257319" type="1" form="1" selection="110257320|110257321|110257309"/>
+    <ItemSpec id="1808" name="110257322" type="1" form="1" selection="110257300|110257301|110257302|110257323"/>
+    <ItemSpec id="1809" name="110257324" type="1" form="1" selection="110257300|110257301|110257325|110257326|110257327"/>
+    <ItemSpec id="1810" name="110257328" type="1" form="1" selection="110257329|110257330|110257331"/>
+    <ItemSpec id="1811" name="110257332" type="1" form="1" selection="110257333|110257301|110257302|110257334"/>
+    <ItemSpec id="1812" name="110257335" type="1" form="1" selection="110257336|110257301|110257302|110257337"/>
+    <ItemSpec id="1813" name="110257338" type="2" form="1" selection="110257339|110257340|110257341|110257342|110257343"/>
+    <ItemSpec id="1814" name="110257344" type="2" form="1" selection="110257345|110257346|110257347|110257348|110257349"/>
+    <ItemSpec id="1815" name="110257350" type="1" form="1" selection="110257351|110257352|110257353|110257354"/>
+    <ItemSpec id="1816" name="110257355" type="1" form="1" selection="110257356|110257357|110257358|110257359|110257360"/>
+    <ItemSpec id="1817" name="110257361" type="2" form="1" selection="110257362|110257363|110257364|110257365|110257366|110257367"/>
+    <ItemSpec id="1818" name="110257368" type="2" form="1" selection="110257369|110257370|110257371|110257372|110257373"/>
+    <ItemSpec id="1819" name="110257374" type="1" form="1" selection="110257375|110257376|110257377"/>
+    <ItemSpec id="1820" name="110257378" type="1" form="1" selection="110257379|110257380|110257381|110257382"/>
+    <ItemSpec id="1821" name="110257383" type="1" form="1" selection="110257384|110257385|110257386"/>
+    <ItemSpec id="1822" name="110257387" type="1" form="1" selection="110257388|110257389|110257390"/>
+    <ItemSpec id="1823" name="110257391" type="1" form="1" selection="110257392|110257393|110257394"/>
+    <ItemSpec id="1824" name="110257395" type="1" form="1" selection="110257396|110257397|110257398|110257399"/>
+    <ItemSpec id="1825" name="110257400" type="2" form="1" selection="110257401|110257402|110257403|110257404|110257405|110257406|110257407"/>
+    <ItemSpec id="1826" name="110257408" type="2" form="1" selection="110257409|110257410|110257411|110257412"/>
+    <ItemSpec id="1827" name="110257413" type="1" form="1" selection="110257414|110257415"/>
+    <ItemSpec id="1828" name="110257416" type="2" form="1" selection="110257417|110257418|110257419|110257420|110257421"/>
+    <ItemSpec id="1829" name="110257422" type="1" form="1" selection="110257423|110257424|110257425|110257426"/>
+		<ItemSpec id="1900" type="0" form="1" name="211034" selection="209750|209309|209320"/>
+		<ItemSpec id="1901" type="1" form="1" name="211035" selection="211058|82000965|110030469|211059|211060"/>
+		<ItemSpec id="1902" type="1" form="1" name="211036" selection="211061|211062|110071026|110030591"/>
+		<ItemSpec id="1903" type="1" form="1" name="211037" selection="211064|211062|110030469|110071026|211067"/>
+		<ItemSpec id="1904" type="1" form="1" name="211038" selection="211061|211062|110030469|211067|211069"/>
+		<ItemSpec id="1905" type="1" form="1" name="211039" selection="110030848|211070|110030469|211071|211060"/>
+		<ItemSpec id="1906" type="1" form="1" name="211040" selection="211064|211062|110030469|110071026|211067"/>
+		<ItemSpec id="1907" type="1" form="1" name="211041" selection="211061|211062|110030469|211067|211069"/>
+		<ItemSpec id="1908" type="1" form="1" name="211042" selection="110030848|211070|110030469|211071|211060"/>
+		<ItemSpec id="1909" type="1" form="1" name="211043" selection="211064|211062|110030469|110071026|211067"/>
+		<ItemSpec id="1910" type="1" form="1" name="211044" selection="211061|211062|110030469|211067|211069"/>
+		<ItemSpec id="1911" type="1" form="1" name="211045" selection="110030848|211070|110030469|211071|211060"/>
+		<ItemSpec id="1912" type="1" form="1" name="211046" selection="211064|211062|110030469|110071026|211067"/>
+		<ItemSpec id="1913" type="1" form="1" name="211047" selection="211061|211062|110030469|211067|211069"/>
+		<ItemSpec id="1914" type="1" form="1" name="211048" selection="110030848|211070|110030469|211071|211060"/>
+		<ItemSpec id="1915" type="1" form="1" name="211049" selection="211064|211062|110030469|110071026|211067"/>
+		<ItemSpec id="1916" type="1" form="1" name="211050" selection="211061|211062|110030469|211067|211069"/>
+		<ItemSpec id="1917" type="1" form="1" name="211051" selection="110030848|211070|110030469|211071|211060"/>
+		<ItemSpec id="1918" type="1" form="1" name="211052" selection="211064|211062|110030469|110071026|211067"/>
+		<ItemSpec id="1919" type="1" form="1" name="211053" selection="211061|211062|110030469|211067|211069"/>
+		<ItemSpec id="1920" type="1" form="1" name="211054" selection="110030848|211070|110030469|211071|211060"/>
+		<ItemSpec id="1921" type="1" form="1" name="211055" selection="170163|110030640|110030641|170164"/>
+		<ItemSpec id="1922" type="0" form="1" name="211056" selection="211072|211073|211074|211075"/>
+		<ItemSpec id="1923" type="0" form="1" name="211057" selection="211076|211077|211078|211079|211080"/>
+
+     <!-- 竞技场问卷-->   
+    	<ItemSpec id="1533" name="110110344" type="1" form="1" selection="171787|171788"/>
+		<ItemSpec id="1534" name="110110345" type="1" form="1" selection="171787|171788"/>
+		<ItemSpec id="1535" name="110110346" type="1" form="1" selection="110110348|110110351|110110347"/>
+		<ItemSpec id="1536" name="110110349" type="1" form="1" selection="110110350|110110351|110110352"/>
+		<ItemSpec id="1537" name="110110353" type="1" form="1" selection="110110354|110110351|110110355"/>
+		<ItemSpec id="1538" name="110110356" type="1" form="1" selection="110110357|110110351|110110358"/>
+		<ItemSpec id="1539" name="110110359" type="1" form="1" selection="110110360|110110361|110110362"/>
+
+    <ItemSpec id="2050" name="110257299" type="1" form="1" selection="110257303|110257302|110257301|110257300"/>
+    <ItemSpec id="2051" name="110257304" type="1" form="1" selection="110257303|110257302|110257301|110257305"/>
+    <ItemSpec id="2052" name="110257306" type="1" form="1" selection="110257309|110257308|110257307"/>
+    <ItemSpec id="2053" name="110257310" type="1" form="1" selection="110257313|110257312|110257311"/>
+    <ItemSpec id="2054" name="110257314" type="1" form="1" selection="110257309|110257316|110257315"/>
+    <ItemSpec id="2055" name="110257317" type="1" form="1" selection="110257309|110257308|110257318"/>
+    <ItemSpec id="2056" name="110257319" type="1" form="1" selection="110257309|110257321|110257320"/>
+    <ItemSpec id="2057" name="110257322" type="1" form="1" selection="110257323|110257302|110257301|110257300"/>
+    <ItemSpec id="2058" name="110257324" type="1" form="1" selection="110257327|110257326|110257325|110257301|110257300"/>
+    <ItemSpec id="2059" name="110257328" type="1" form="1" selection="110257331|110257330|110257329"/>
+    <ItemSpec id="2060" name="110257332" type="1" form="1" selection="110257334|110257302|110257301|110257333"/>
+    <ItemSpec id="2061" name="110257335" type="1" form="1" selection="110257337|110257302|110257301|110257336"/>
+    <ItemSpec id="2062" name="110257338" type="2" form="1" selection="110257343|110257342|110257341|110257340|110257339"/>
+    <ItemSpec id="2063" name="110257344" type="2" form="1" selection="110257349|110257348|110257347|110257346|110257345"/>
+    <ItemSpec id="2064" name="110257350" type="1" form="1" selection="110257354|110257353|110257352|110257351"/>
+    <ItemSpec id="2065" name="110257355" type="1" form="1" selection="110257360|110257359|110257358|110257357|110257356"/>
+    <ItemSpec id="2066" name="110257361" type="2" form="1" selection="110257367|110257366|110257365|110257364|110257363|110257362"/>
+    <ItemSpec id="2067" name="110257368" type="2" form="1" selection="110257373|110257372|110257371|110257370|110257369"/>
+    <ItemSpec id="2068" name="110257374" type="1" form="1" selection="110257377|110257376|110257375"/>
+    <ItemSpec id="2069" name="110257378" type="1" form="1" selection="110257382|110257381|110257380|110257379"/>
+    <ItemSpec id="2070" name="110257383" type="1" form="1" selection="110257386|110257385|110257384"/>
+    <ItemSpec id="2071" name="110257387" type="1" form="1" selection="110257390|110257389|110257388"/>
+    <ItemSpec id="2072" name="110257391" type="1" form="1" selection="110257394|110257393|110257392"/>
+    <ItemSpec id="2073" name="110257395" type="1" form="1" selection="110257399|110257398|110257397|110257396"/>
+    <ItemSpec id="2074" name="110257400" type="2" form="1" selection="110257407|110257406|110257405|110257404|110257403|110257402|110257401"/>
+    <ItemSpec id="2075" name="110257408" type="2" form="1" selection="110257412|110257411|110257410|110257409"/>
+    <ItemSpec id="2076" name="110257413" type="1" form="1" selection="110257415|110257414"/>
+    <ItemSpec id="2077" name="110257416" type="2" form="1" selection="110257421|110257420|110257419|110257418|110257417"/>
+    <ItemSpec id="2078" name="110257422" type="1" form="1" selection="110257426|110257425|110257424|110257423"/>
+		<ItemSpec id="5001" name="110310002" type="1" form="1" selection="110310067|110310068|110310069|110310070|110310071|110310072|110310073"/>
+		<ItemSpec id="5002" name="110310003" type="1" form="1" picture="2_hk_a|2_hk_b"/>
+		<ItemSpec id="5003" name="110310004" type="0" form="1" picture="3_building_a|3_building_b|3_building_c|3_building_d|3_building_e"/>
+		<ItemSpec id="5004" name="110310005" type="0" form="1" picture="4_street_a|4_street_b|4_street_c|4_street_d|4_street_e"/>
+		<ItemSpec id="5005" name="110310006" type="1" form="1" selection="110240091|110240089|110240088|110240090"/>
+		<ItemSpec id="5006" name="110310007" type="0" form="1" picture="5_element_a|5_element_b|5_element_c|5_element_d"/>
+		<ItemSpec id="5007" name="110310008" type="1" form="1" selection="110310067|110310068|110310069|110310070|110310071|110310072|110310073"/>
+		<ItemSpec id="5008" name="110310009" type="0" form="1" selection="110310019|110310020|110310021|110310022|110310023|110310024|110310025|110310026|110310027|110310028"/>
+		<ItemSpec id="5009" name="110310010" type="0" form="1" reply="1"/>
+		<ItemSpec id="5010" name="110310011" type="0" form="1" reply="1"/>
+		<ItemSpec id="5011" name="110310012" type="0" form="1" selection="110310029|110310030|110310031|110310032|110310033|110310034|110310035|110310036"/>
+		<ItemSpec id="5012" name="110310013" type="1" form="1" picture="6_character_a|6_character_b|6_character_c"/>
+		<ItemSpec id="5013" name="110310014" type="1" form="1" selection="110310037|110310038|110310039|110310040"/>
+		<ItemSpec id="5014" name="110310015" type="0" form="1" selection="110310041|110310042|110310043|110310044|110310045|110310046|110310047"/>
+		<ItemSpec id="5015" name="110310016" type="1" form="1" selection="110310048|110310049|110310050|110310051"/>
+		<ItemSpec id="5016" name="110310017" type="0" form="1" selection="110310041|110310043|110310052|110310053|110310054|110310047"/>
+		<ItemSpec id="5017" name="110310018" type="0" form="1" selection="110310055|110310056|110310057|110310058|110310059|110310060|110310061|110310062|110310063|110310064|110310065|110310066"/>
+<!--正式服四阵营，新全战自选赛季问卷 箱神九筒鱼-->
+	<ItemSpec id="2101" type="1" form="1" name="110255201" selection="170163|110030640|110030641|170164"/>
+	<ItemSpec id="2102" type="1" form="1" name="110350001" selection="170163|110030640|110030641|170164"/>
+	<ItemSpec id="2103" type="1" form="1" name="110350002" selection="170163|110030640|110030641|170164"/>
+	<ItemSpec id="2104" type="1" form="1" name="110350003" selection="110052000|90601151"/>
+	<ItemSpec id="2105" type="1" form="1" name="110255205" selection="110350004|110350005|110350006|110210025"/>
+	<ItemSpec id="2106" type="1" form="1" name="110350007" selection="170163|110030640|110030641|170164"/>
+	<ItemSpec id="2107" type="0" form="1" name="110350008" selection="110350009|110350010|107508|110255213|110350011|103458"/>
+	<ItemSpec id="2108" type="1" form="1" name="110350012" selection="170163|110030640|110030641|170164|110030851"/>
+	<ItemSpec id="2109" type="0" form="1" name="110350013" selection="110350009|110350010|107508|110255213|110350011|103458"/>
+	<ItemSpec id="2110" type="1" form="1" name="110255214" selection="170163|110030640|110030641|170164"/>
+	<ItemSpec id="2111" type="0" form="1" name="110350014" selection="110350015|110350016|110350017|110350018|110350019|110350020|103458"/>
+	<ItemSpec id="2112" type="0" form="1" name="110350021" selection="110052000|110030600|110022333|110210010|110040849|110255216|103458"/>
+	<ItemSpec id="2113" type="1" form="1" name="110350022" selection="110310068|110310070|110310072|110350023"/>
+	<ItemSpec id="2114" type="1" form="1" name="110255218" selection="110033022|110030856|110030857|110051010|110258259"/>
+	<ItemSpec id="2201" type="1" form="1" name="110331001" selection="110257300|110257301|110257302|110257303"/>
+	<ItemSpec id="2202" type="0" form="1" name="110331002" selection="110331003|110331004|110331005|110331006|110331007"/>
+	<ItemSpec id="2203" type="1" form="1" name="110331008" selection="110033210|110033211|110030612|110033213"/>
+	<ItemSpec id="2204" type="0" form="1" name="110331009" selection="110331010|110331011|110331012|110331013"/>
+	<ItemSpec id="2205" type="1" form="1" name="110331014" selection="110331015|110331016|110331017|110331018"/>
+	<ItemSpec id="2206" type="0" form="1" name="110331019" selection="110331020|110331021|110331022|110331023"/>
+	<ItemSpec id="2207" type="0" form="1" name="110331024" selection="110331025|110331026|110331027|110257386"/>
+	<ItemSpec id="2208" type="1" form="1" name="110331028" selection="110331029|110331030"/>
+	<ItemSpec id="2209" type="1" form="1" name="110331031" selection="110331029|110331030"/>
+	<ItemSpec id="2210" type="1" form="1" name="110331032" selection="110331033|110331034|110331035|110257386"/>
+	<ItemSpec id="2211" type="1" form="1" name="110331036" selection="110331037|110331038|110331039|110257386"/>
+	<ItemSpec id="2212" type="1" form="1" name="110331040" selection="110331041|110331042|110331043|110331044"/>
+    
+<!--插旗问卷2250-2278 颜回-->
+    <ItemSpec id="2250" name="110257299" type="1" form="1" selection="110257300|110257301|110257302|110257303"/>
+    <ItemSpec id="2251" name="110257304" type="1" form="1" selection="110257305|110257301|110257302|110257303"/>
+    <ItemSpec id="2252" name="110257306" type="1" form="1" selection="110257307|110257308|110257309"/>
+    <ItemSpec id="2253" name="110257310" type="1" form="1" selection="110257311|110257312|110257313"/>
+    <ItemSpec id="2254" name="110257314" type="1" form="1" selection="110257315|110257316|110257309"/>
+    <ItemSpec id="2255" name="110257317" type="1" form="1" selection="110257318|110257308|110257309"/>
+    <ItemSpec id="2256" name="110257319" type="1" form="1" selection="110257320|110257321|110257309"/>
+    <ItemSpec id="2257" name="110257322" type="1" form="1" selection="110257300|110257301|110257302|110257323"/>
+    <ItemSpec id="2258" name="110257324" type="1" form="1" selection="110257300|110257301|110257325|110257326|110257327"/>
+    <ItemSpec id="2259" name="110257328" type="1" form="1" selection="110257329|110257330|110257331"/>
+    <ItemSpec id="2260" name="110257332" type="1" form="1" selection="110257333|110257301|110257302|110257334"/>
+    <ItemSpec id="2261" name="110257335" type="1" form="1" selection="110257336|110257301|110257302|110257337"/>
+    <ItemSpec id="2262" name="110257338" type="2" form="1" selection="110257339|110257340|110257341|110257342|110257343"/>
+    <ItemSpec id="2263" name="110257344" type="2" form="1" selection="110257345|110257346|110257347|110257348|110257349"/>
+    <ItemSpec id="2264" name="110257350" type="1" form="1" selection="110257351|110257352|110257353|110257354"/>
+    <ItemSpec id="2265" name="110257355" type="1" form="1" selection="110257356|110257357|110257358|110257359|110257360"/>
+    <ItemSpec id="2266" name="110257361" type="2" form="1" selection="110257362|110257363|110257364|110257365|110257366|110257367"/>
+    <ItemSpec id="2267" name="110257368" type="2" form="1" selection="110257369|110257370|110257371|110257372|110257373"/>
+    <ItemSpec id="2268" name="110257374" type="1" form="1" selection="110257375|110257376|110257377"/>
+    <ItemSpec id="2269" name="110257378" type="1" form="1" selection="110257379|110257380|110257381|110257382"/>
+    <ItemSpec id="2270" name="110257383" type="1" form="1" selection="110257384|110257385|110257386"/>
+    <ItemSpec id="2271" name="110257387" type="1" form="1" selection="110257388|110257389|110257390"/>
+    <ItemSpec id="2272" name="110257391" type="1" form="1" selection="110257392|110257393|110257394"/>
+    <ItemSpec id="2273" name="110257395" type="1" form="1" selection="110257396|110257397|110257398|110257399"/>
+    <ItemSpec id="2274" name="110257400" type="2" form="1" selection="110257401|110257402|110257403|110257404|110257405|110257406|110257407"/>
+    <ItemSpec id="2275" name="110257408" type="2" form="1" selection="110257409|110257410|110257411|110257412"/>
+    <ItemSpec id="2276" name="110257413" type="1" form="1" selection="110257414|110257415"/>
+    <ItemSpec id="2277" name="110257416" type="2" form="1" selection="110257417|110257418|110257419|110257420|110257421"/>
+    <ItemSpec id="2278" name="110257422" type="1" form="1" selection="110257423|110257424|110257425|110257426"/>
+
+
+    <ItemSpec id="2213" name="1104550001" type="1" form="1" selection="5600114|5600115|5600116|5600117" />
+    <ItemSpec id="2214" name="1104550002" type="1" form="1" selection="5600114|5600115|5600116|5600117" />
+    <ItemSpec id="2215" name="1104550003" type="1" form="1" selection="1104550004|1104550005|1104550006|1104550007" />
+    <ItemSpec id="2216" name="1104550008" type="1" form="1" selection="1104550009|1104550010|1104550011|1104550012" />
+    <ItemSpec id="2217" name="1104550013" type="1" form="1" selection="5600114|5600115|5600116|5600117" />
+    <ItemSpec id="2218" name="1104550014" type="1" form="1" selection="5600114|5600115|5600116|5600117" />
+    <ItemSpec id="2219" name="1104550015" type="1" form="1" selection="1104550016|1104550017|1104550018" />
+    <ItemSpec id="2220" name="1104550019" type="0" form="1" selection="1104550020|1104550021|1104550022|1104550023|1104550024" />
+    <ItemSpec id="2221" name="1104550025" type="1" form="1" selection="5600114|5600115|5600116|5600117" />
+    <ItemSpec id="2222" name="1104550026" type="1" form="1" selection="1104550027|1104550028|1104550029|1104550030" />
+    <ItemSpec id="2223" name="1104550031" type="0" form="1" selection="1104550032|1104550033|1104550034|1104550035|1104550036|1104550024" />
+    <ItemSpec id="2224" name="1104550038" type="1" form="1" selection="5600114|5600115|5600116|5600117" />
+    <ItemSpec id="2225" name="1104550039" type="1" form="1" selection="1104550040|1104550041|1104550042|1104550043" />
+    <ItemSpec id="2226" name="1104550044" type="0" form="1" selection="1104550045|1104550046|1104550047|1104550048" />
+    <ItemSpec id="2227" name="1104550049" type="1" form="1" selection="5600114|5600115|5600116|5600117" />
+    <ItemSpec id="2228" name="1104550050" type="1" form="1" selection="1104550051|1104550052|1104550042|1104550043" />
+    <ItemSpec id="2229" name="1104550055" type="1" form="1" selection="1104550056|1104550057|1104550058|1104550059" />
+
+    <ItemSpec id="2280" name="1104550001" type="1" form="1" selection="5600114|5600115|5600116|5600117" />
+    <ItemSpec id="2281" name="1104550064" type="1" form="1" selection="5600114|5600115|5600116|5600117" />
+    <ItemSpec id="2282" name="1104550065" type="0" form="1" selection="1104550066|1104550067|1104550068|1104550059" />
+    <ItemSpec id="2283" name="1104550002" type="1" form="1" selection="5600114|5600115|5600116|5600117" />
+    <ItemSpec id="2284" name="1104550003" type="1" form="1" selection="1104550004|1104550005|1104550006|1104550007" />
+    <ItemSpec id="2285" name="1104550008" type="1" form="1" selection="1104550009|1104550010|1104550011|1104550012" />
+    <ItemSpec id="2286" name="1104550013" type="1" form="1" selection="5600114|5600115|5600116|5600117" />
+    <ItemSpec id="2287" name="1104550069" type="1" form="1" selection="1104550070|1104550071|1104550072" />
+    <ItemSpec id="2288" name="1104550073" type="1" form="1" selection="1104550070|1104550071|1104550072" />
+    <ItemSpec id="2289" name="1104550014" type="1" form="1" selection="5600114|5600115|5600116|5600117" />
+    <ItemSpec id="2290" name="1104550015" type="1" form="1" selection="1104550016|1104550017|1104550018" />
+    <ItemSpec id="2291" name="1104550019" type="0" form="1" selection="1104550020|1104550021|1104550022|1104550023|1104550024" />
+    <ItemSpec id="2292" name="1104550074" type="1" form="1" selection="5600114|5600115|5600116|5600117" />
+    <ItemSpec id="2293" name="1104550075" type="1" form="1" selection="1104550027|1104550028|1104550029|1104550030" />
+    <ItemSpec id="2294" name="1104550076" type="0" form="1" selection="1104550032|1104550033|1104550034|1104550035|1104550036|1104550024" />
+    <ItemSpec id="2295" name="1104550077" type="1" form="1" selection="5600114|5600115|5600116|5600117" />
+    <ItemSpec id="2296" name="1104550078" type="1" form="1" selection="1104550079|1104550080|1104550081|1104550082" />
+    <ItemSpec id="2297" name="1104550038" type="1" form="1" selection="5600114|5600115|5600116|5600117" />
+    <ItemSpec id="2298" name="1104550039" type="1" form="1" selection="1104550040|1104550041|1104550042|1104550043" />
+    <ItemSpec id="2299" name="1104550044" type="0" form="1" selection="1104550045|1104550046|1104550047|1104550048" />
+    <ItemSpec id="2300" name="1104550049" type="1" form="1" selection="5600114|5600115|5600116|5600117" />
+    <ItemSpec id="2301" name="1104550050" type="1" form="1" selection="1104550051|1104550052|1104550042|1104550043" />
+    <ItemSpec id="2302" name="1104550055" type="1" form="1" selection="1104550056|1104550057|1104550058|1104550059" />
+
+    <ItemSpec id="2310" name="1104550090" type="1" form="1" selection="170163|110030640|110030641|170164|110030851" />
+    <ItemSpec id="2311" name="1104550091" type="0" form="1" selection="1104550099|1104550100|1104550101|1104550102|1104550103" />
+    <ItemSpec id="2312" name="1104550092" type="1" form="1" selection="1104550104|1104550105|1104550106" />
+    <ItemSpec id="2313" name="1104550093" type="1" form="1" selection="1104550107|1104550108|1104550109" />
+    <ItemSpec id="2314" name="1104550094" type="1" form="1" selection="1104550110|1104550111|1104550112" />
+    <ItemSpec id="2315" name="1104550095" type="1" form="1" selection="110257386|1104550114|1104550115|1104550116" />
+    <ItemSpec id="2316" name="1104550096" type="1" form="1" selection="110257386|1104550118|1104550119" />
+    <ItemSpec id="2317" name="1104550097" type="0" form="1" selection="110453067|110453068|110453069|110453070|110453071|110453072|1104550124" />
+    <ItemSpec id="2318" name="1104550098" type="1" form="1" selection="1104550120|1104550121|1104550122|1104550123|110210025" />
+
+    <ItemSpec id="2319" name="1104550125" type="1" form="1" selection="170163|110030640|110030641|170164|110030851" />
+    <ItemSpec id="2320" name="1104550126" type="0" form="1" selection="1104550127|1104550128|1104550129|1104550130" />
+    <ItemSpec id="2321" name="1104550131" type="1" form="1" selection="1104550132|110030851" />
+    <ItemSpec id="2322" name="1104550133" type="1" form="1" selection="1104550132|110030851" />
+    <ItemSpec id="2323" name="1104550134" type="1" form="1" selection="1104550132|110030851" />
+
+ <!--合赛区 柚子-->
+    <ItemSpec id="2324" name="110556501" type="1" form="1" selection="110556502|110556503|110556504" />
+    <ItemSpec id="2325" name="110556505" type="1" form="1" selection="110556506|110556507|110556508" />
+    <ItemSpec id="2326" name="110556509" type="0" form="1" selection="110556510|110556511|110556512|110556513|110556514" />
+    <ItemSpec id="2327" name="110556515" type="0" form="1" selection="110556516|110556517|110556518|110556519|110556520" />
+
+
+	</Group> 
+</tns:database>

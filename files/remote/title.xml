@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="title">
+    <ItemSpec id="10001" title_name="110040872" title_desc="110040901" title_icon="title10001" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="39, 18, 28, 200" quest_id="3220001" out_show="0" show_time="0" />
+    <ItemSpec id="10002" title_name="110040873" title_desc="110040902" title_icon="title10001" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="39, 18, 28, 200" quest_id="3220002" out_show="0" show_time="0" />
+    <ItemSpec id="10003" title_name="110040874" title_desc="110040903" title_icon="title10001" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="39, 18, 28, 200" quest_id="3220003" out_show="0" show_time="0" />
+    <ItemSpec id="10004" title_name="110040890" title_desc="110040904" title_icon="title10001" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="39, 18, 28, 200" quest_id="3220004" out_show="0" show_time="0" />
+    <ItemSpec id="10005" title_name="110040891" title_desc="110040905" title_icon="title10001" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="39, 18, 28, 200" quest_id="3220005" out_show="0" show_time="0" />
+    <ItemSpec id="10006" title_name="110040892" title_desc="110040906" title_icon="title10002" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="13, 16, 27, 200" quest_id="3220006" out_show="0" show_time="0" />
+    <ItemSpec id="10007" title_name="110040893" title_desc="110040907" title_icon="title10002" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="13, 16, 27, 200" quest_id="3220007" out_show="0" show_time="0" />
+    <ItemSpec id="10008" title_name="110040894" title_desc="110040908" title_icon="title10002" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="13, 16, 27, 200" quest_id="3220008" out_show="0" show_time="0" />
+    <ItemSpec id="10009" title_name="110040895" title_desc="110040909" title_icon="title10003" startColor="172, 208, 214, 255" endColor="217, 164, 228, 255" shadowColor="7, 3, 6, 200" quest_id="3220009" out_show="0" show_time="0" />
+    <ItemSpec id="10010" title_name="110040896" title_desc="110040910" title_icon="title10003" startColor="172, 208, 214, 255" endColor="217, 164, 228, 255" shadowColor="7, 3, 6, 200" quest_id="3220010" out_show="0" show_time="0" />
+    <ItemSpec id="10011" title_name="110040897" title_desc="110040911" title_icon="title10004" startColor="174, 173, 173, 255" endColor="255, 255, 255, 255" shadowColor="13, 16, 27, 200" quest_id="3220011" out_show="0" show_time="0" />
+    <ItemSpec id="10012" title_name="110040898" title_desc="110040912" title_icon="title10005" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="13, 16, 27, 200" quest_id="3220012" out_show="0" show_time="0" />
+    <ItemSpec id="10013" title_name="110040899" title_desc="110040913" title_icon="title10005" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="13, 16, 27, 200" quest_id="3220013" out_show="0" show_time="0" />
+    <ItemSpec id="10014" title_name="110040900" title_desc="110040914" title_icon="title10005" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="13, 16, 27, 200" quest_id="3220014" out_show="0" show_time="0" />
+    <ItemSpec id="10018" title_name="110040927" title_desc="110040943" title_icon="title10007" startColor="255, 224, 169, 255" endColor="255, 193, 112, 255" shadowColor="27, 12, 9, 200" mission_desc="110040942" collect="1" out_show="0" show_time="0" />
+    <ItemSpec id="10019" title_name="110040928" title_desc="110040944" title_icon="title10008" startColor="220, 226, 255, 255" endColor="174, 214, 255, 255" shadowColor="8, 16, 21, 200" mission_desc="110040942" collect="1" out_show="0" show_time="0" />
+    <ItemSpec id="10020" title_name="110040929" title_desc="110040945" title_icon="title10009" startColor="255, 195, 181, 255" endColor="188, 115, 102, 255" shadowColor="41, 18, 16, 200" mission_desc="110040942" collect="1" out_show="0" show_time="0" />
+    <ItemSpec id="10021" title_name="110040930" title_desc="110040946" title_icon="title10010" startColor="255, 224, 169, 255" endColor="255, 193, 112, 255" shadowColor="27, 12, 9, 200" mission_desc="110040942" collect="1" out_show="0" show_time="0" />
+    <ItemSpec id="10022" title_name="110040931" title_desc="110040947" title_icon="title10011" startColor="220, 226, 255, 255" endColor="174, 214, 255, 255" shadowColor="8, 16, 21, 200" mission_desc="110040942" collect="1" out_show="0" show_time="0" />
+    <ItemSpec id="10023" title_name="110040932" title_desc="110040948" title_icon="title10012" startColor="255, 195, 181, 255" endColor="188, 115, 102, 255" shadowColor="41, 18, 16, 200" mission_desc="110040942" collect="1" out_show="0" show_time="0" />
+    <ItemSpec id="10024" title_name="110040933" title_desc="110040949" title_icon="title10013" startColor="255, 224, 169, 255" endColor="255, 193, 112, 255" shadowColor="27, 12, 9, 200" mission_desc="110040942" collect="1" out_show="0" show_time="0" />
+    <ItemSpec id="10025" title_name="110040934" title_desc="110040950" title_icon="title10014" startColor="220, 226, 255, 255" endColor="174, 214, 255, 255" shadowColor="8, 16, 21, 200" mission_desc="110040942" collect="1" out_show="0" show_time="0" />
+    <ItemSpec id="10026" title_name="110040935" title_desc="110040951" title_icon="title10015" startColor="255, 195, 181, 255" endColor="188, 115, 102, 255" shadowColor="41, 18, 16, 200" mission_desc="110040942" collect="1" out_show="0" show_time="0" />
+    <ItemSpec id="10027" title_name="110040936" title_desc="110040952" title_icon="title10016" startColor="255, 224, 169, 255" endColor="255, 193, 112, 255" shadowColor="27, 12, 9, 200" mission_desc="110040942" collect="1" out_show="0" show_time="0" />
+    <ItemSpec id="10028" title_name="110040937" title_desc="110040953" title_icon="title10017" startColor="220, 226, 255, 255" endColor="174, 214, 255, 255" shadowColor="8, 16, 21, 200" mission_desc="110040942" collect="1" out_show="0" show_time="0" />
+    <ItemSpec id="10029" title_name="110040938" title_desc="110040954" title_icon="title10018" startColor="255, 195, 181, 255" endColor="188, 115, 102, 255" shadowColor="41, 18, 16, 200" mission_desc="110040942" collect="1" out_show="0" show_time="0" />
+    <ItemSpec id="10030" title_name="110040939" title_desc="110040955" title_icon="title10019" startColor="255, 224, 169, 255" endColor="255, 193, 112, 255" shadowColor="27, 12, 9, 200" mission_desc="110040942" collect="1" out_show="0" show_time="0" />
+    <ItemSpec id="10031" title_name="110040940" title_desc="110040956" title_icon="title10020" startColor="220, 226, 255, 255" endColor="174, 214, 255, 255" shadowColor="8, 16, 21, 200" mission_desc="110040942" collect="1" out_show="0" show_time="0" />
+    <ItemSpec id="10032" title_name="110040941" title_desc="110040957" title_icon="title10021" startColor="255, 195, 181, 255" endColor="188, 115, 102, 255" shadowColor="41, 18, 16, 200" mission_desc="110040942" collect="1" out_show="0" show_time="0" />
+
+<!--夏日盛典称号-->
+    <ItemSpec id="10033" title_name="5600583" title_desc="5600584" title_icon="item217095t" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="13, 16, 27, 200" mission_desc="5600585" collect="1" out_show="0" show_time="0" />
+
+<!--全明星称号-->
+    <ItemSpec id="10034" title_name="110240250" title_desc="110240265" title_icon="item217099t" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="13, 16, 27, 200" mission_desc="110240270" collect="1" out_show="0" show_time="0" />
+    <ItemSpec id="10035" title_name="110240251" title_desc="110240266" title_icon="item217100t" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="13, 16, 27, 200" mission_desc="110240270" collect="1" out_show="0" show_time="0" />
+    <ItemSpec id="10036" title_name="110240252" title_desc="110240267" title_icon="item217101t" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="13, 16, 27, 200" mission_desc="110240270" collect="1" out_show="0" show_time="0" />
+    <ItemSpec id="10037" title_name="110240253" title_desc="110240268" title_icon="item217102t" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="13, 16, 27, 200" mission_desc="110240270" collect="1" out_show="0" show_time="0" />
+    <ItemSpec id="10038" title_name="110240254" title_desc="110240269" title_icon="item217103t" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="13, 16, 27, 200" mission_desc="110240270" collect="1" out_show="0" show_time="0" />
+		<ItemSpec id="10039" title_name="110240630" title_desc="110240638" title_icon="item213774t" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="13, 16, 27, 200" out_show="0" show_time="0" mission_desc="110240270" collect="1"/>
+		<ItemSpec id="10040" title_name="110240632" title_desc="110240639" title_icon="item213775t" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="13, 16, 27, 200" out_show="0" show_time="0" mission_desc="110240270" collect="1"/>
+		<ItemSpec id="10041" title_name="110240634" title_desc="110240640" title_icon="item213776t" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="13, 16, 27, 200" out_show="0" show_time="0" mission_desc="110240270" collect="1"/>
+		<ItemSpec id="10042" title_name="110240636" title_desc="110240641" title_icon="item213777t" startColor="255, 222,140, 255" endColor="204, 152, 71, 255" shadowColor="13, 16, 27, 200" out_show="0" show_time="0" mission_desc="110240270" collect="1"/>
+<!--周年庆嘉年华称号-->
+    <ItemSpec id="10043" title_name="110221336" title_desc="110221337" title_icon="item219132t" startColor="244,255,255,255" endColor="55,176,255,255" shadowColor="34,29,66,200" mission_desc="110221335" collect="1" out_show="0" show_time="0" /><!--表情包冠军-->
+    <ItemSpec id="10044" title_name="110221338" title_desc="110221339" title_icon="item219133t" startColor="255,255,255,255" endColor="228,224,116,255" shadowColor="34,29,66,200" mission_desc="110221335" collect="1" out_show="0" show_time="0" /><!--表情包创意奖-->
+    <ItemSpec id="10045" title_name="110221340" title_desc="110221341" title_icon="item219134t" startColor="255,255,255,255" endColor="255,237,61,255" shadowColor="149,31,116,200" mission_desc="110221335" collect="1" out_show="0" show_time="0" /><!--音乐类冠军-->
+    <ItemSpec id="10046" title_name="110221342" title_desc="110221343" title_icon="item219135t" startColor="228,252,255,255" endColor="63,179,228,255" shadowColor="1,24,55,200" mission_desc="110221335" collect="1" out_show="0" show_time="0" /><!--音乐类编曲奖-->
+    <ItemSpec id="10047" title_name="110221344" title_desc="110221345" title_icon="item219136t" startColor="255,255,255,255" endColor="255,237,61,255" shadowColor="75,70,210,200" mission_desc="110221335" collect="1" out_show="0" show_time="0" /><!--表情包冠军-->
+    <ItemSpec id="10048" title_name="110221346" title_desc="110221347" title_icon="item219137t" startColor="255,255,255,255" endColor="109,161,232,200" shadowColor="83,73,162,200" mission_desc="110221335" collect="1" out_show="0" show_time="0" /><!--表情包冠军-->
+    <ItemSpec id="10049" title_name="110221348" title_desc="110221349" title_icon="item219138t" startColor="255,223,255,255" endColor="255,237,61,255" shadowColor="149,31,116,200" mission_desc="110221335" collect="1" out_show="0" show_time="0" /><!--表情包冠军-->
+    <ItemSpec id="10050" title_name="110221350" title_desc="110221351" title_icon="item219139t" startColor="255,147,82,255" endColor="174,67,61,255" shadowColor="154,39,53,200" mission_desc="110221335" collect="1" out_show="0" show_time="0" /><!--表情包冠军-->
+    <ItemSpec id="10051" title_name="110221352" title_desc="110221353" title_icon="item219140t" startColor="255,255,255,255" endColor="243,221,131,255" shadowColor="61,52,132,200" mission_desc="110221335" collect="1" out_show="0" show_time="0" /><!--表情包冠军-->
+    <ItemSpec id="10052" title_name="110221354" title_desc="110221355" title_icon="item219141t" startColor="255,255,255,255" endColor="197,115,203,200" shadowColor="51,41,159,200" mission_desc="110221335" collect="1" out_show="0" show_time="0" /><!--表情包冠军-->
+    <ItemSpec id="10053" title_name="110221356" title_desc="110221357" title_icon="item219142t" startColor="255,223,255,255" endColor="214,110,185,255" shadowColor="36,28,21,200" mission_desc="110221335" collect="1" out_show="0" show_time="0" /><!--表情包冠军-->
+    <ItemSpec id="10054" title_name="110221358" title_desc="110221359" title_icon="item219143t" startColor="255,245,177,255" endColor="246,188,107,255" shadowColor="36,28,21,200" mission_desc="110221335" collect="1" out_show="0" show_time="0"/><!--表情包冠军-->
+    <ItemSpec id="10055" title_name="110221360" title_desc="110221361" title_icon="item219144t" startColor="255,223,255,255" endColor="228,224,116,255" shadowColor="34,29,66,200" mission_desc="110221335" collect="1" out_show="0" show_time="0" /><!--表情包冠军-->
+    <ItemSpec id="10056" title_name="110221362" title_desc="110221363" title_icon="item219145t" startColor="244,255,255,255" endColor="233,124,200,255" shadowColor="34,29,66,200" mission_desc="110221335" collect="1" out_show="0" show_time="0" /><!--表情包冠军-->
+
+<!--周年庆称号-->
+  <ItemSpec id="10057" title_name="5600821" title_desc="5600835" title_icon="item217201t" startColor="234,200,60,255" endColor="252,249,223,255" shadowColor="36,28,21,200" out_show="0" show_time="0" mission_desc="5600836" collect="1"/>
+  <ItemSpec id="10058" title_name="5600822" title_desc="5600837" title_icon="item217202t" startColor="242,252,252,255" endColor="99,207,255,255" shadowColor="36,28,21,200" out_show="0" show_time="0" mission_desc="5600836" collect="1"/>
+  <ItemSpec id="10059" title_name="5600823" title_desc="5600838" title_icon="item217203t" startColor="111,193,105,255" endColor="44,112,84,255" shadowColor="10,26,24,200" out_show="0" show_time="0" mission_desc="5600836" collect="1"/>
+  <ItemSpec id="10060" title_name="5600824" title_desc="5600839" title_icon="item217204t" startColor="255,255,255,255" endColor="61,196,251,255" shadowColor="34,29,66,200" out_show="0" show_time="0" mission_desc="5600836" collect="1"/>
+  <ItemSpec id="10061" title_name="5600829" title_desc="5600840" title_icon="item217205t" startColor="253,212,246,255" endColor="255,94,255,255" shadowColor="26,11,48,200" out_show="0" show_time="0" mission_desc="5600836" collect="1"/>
+  <ItemSpec id="10062" title_name="5600830" title_desc="5600841" title_icon="item217206t" startColor="255,219,126,255" endColor="232,93,61,255" shadowColor="70,15,20,200" out_show="0" show_time="0" mission_desc="5600836" collect="1"/>
+  <ItemSpec id="10063" title_name="5600831" title_desc="5600842" title_icon="item217207t" startColor="255,255,152,255" endColor="229,129,63,255" shadowColor="42,13,9,200" out_show="0" show_time="0" mission_desc="5600836" collect="1"/>
+  
+
+  <!--废土名人堂-->
+		<ItemSpec id="10064" title_name="110270142" title_desc="110270146" title_icon="item310008t" startColor="222,226,231,255" endColor="61,134,174,255" shadowColor="21,31,36,200" out_show="0" show_time="0" mission_desc="110270145" collect="1"/>
+		<ItemSpec id="10065" title_name="110270143" title_desc="110270148" title_icon="item310009t" startColor="214,220,179,255" endColor="195,104,120,255" shadowColor="28,18,20,200" out_show="0" show_time="0" mission_desc="110270145" collect="1"/>
+		<ItemSpec id="10066" title_name="110270098" title_desc="110270144" title_icon="item310010t" startColor="227,151,92,255" endColor="246,233,173,255" shadowColor="28,22,19,200" out_show="0" show_time="0" mission_desc="110270145" collect="1"/>
+         <ItemSpec id="10067" title_name="110310104" title_desc="110310105" title_icon="hof_wanguchuanqi" startColor="230,117,62,255" endColor="255,252,169,255" shadowColor="67,20,7,200" mission_desc="110310151" collect="1" out_show="0" show_time="0" />
+         <ItemSpec id="10068" title_name="110310106" title_desc="110310107" title_icon="hof_baishiliufang" startColor="231,164,250,255" endColor="238,199,204,255" shadowColor="16,13,10,200" mission_desc="110310151" collect="1" out_show="0" show_time="0" />
+         <ItemSpec id="10069" title_name="110310108" title_desc="110310109" title_icon="hof_mingyangsihai" startColor="255,255,222,255" endColor="226,171,112,255" shadowColor="65,34,30,200" mission_desc="110310151" collect="1" out_show="0" show_time="0" />
+         <ItemSpec id="10070" title_name="110310110" title_desc="110310111" title_icon="hof_jiayuhuxiao" startColor="245,248,253,255" endColor="80,151,227,255" shadowColor="16,13,10,200" mission_desc="110310151" collect="1" out_show="0" show_time="0" />
+         <ItemSpec id="10071" title_name="110310112" title_desc="110310113" title_icon="hof_shengmingyuanyang" startColor="248,255,240,255" endColor="191,197,129,255" shadowColor="16,13,10,200" mission_desc="110310151" collect="1" out_show="0" show_time="0" />
+		<ItemSpec id="10072" title_name="110456403" title_desc="110456404" title_icon="item217213t" startColor="252,220,171,255" endColor="226,197,126.255" shadowColor="13,16,27,200" out_show="1" show_time="168" mission_desc="110456405" collect="1"/>
+		<ItemSpec id="10073" title_name="110456403" title_desc="110456404" title_icon="item217213t" startColor="252,220,171,255" endColor="226,197,126.255" shadowColor="13,16,27,200" out_show="1" show_time="480" mission_desc="110456405" collect="1"/>
+		<ItemSpec id="10074" title_name="110456403" title_desc="110456404" title_icon="item217213t" startColor="252,220,171,255" endColor="226,197,126.255" shadowColor="13,16,27,200" out_show="1" show_time="0" mission_desc="110456405" collect="1"/>
+		<ItemSpec id="10077" title_name="5601416" title_desc="5601444" title_icon="item310066t" startColor="252,220,171,255" endColor="226,197,126.255" shadowColor="13,16,27,200" out_show="0" show_time="0" mission_desc="5601444" collect="1"/>
+<!--运兵车称号-->
+		<ItemSpec id="10078" title_name="110110862" title_desc="110110905" title_icon="FB_IC_WS_wangzhe" startColor="218,140,63,255" endColor="237,220,134,255" shadowColor="57,24,0,200" out_show="0" show_time="168" goods_id="217216" effect="110110926;+80%|110110927;+50%|110110928;+3%" usetype="1" apineFile="spine_arena_yunbingche"/>
+		<ItemSpec id="10079" title_name="110110860" title_desc="110110906" title_icon="FB_IC_WS_dashi" startColor="215,140,241,255" endColor="2255,204,221,255" shadowColor="32,7,42,200" out_show="0" show_time="168" goods_id="217217" effect="110110926;+70%|110110927;+40%" usetype="1" apineFile="spine_arena_yunbingche"/>
+		<ItemSpec id="10080" title_name="110110860" title_desc="110110907" title_icon="FB_IC_WS_dashi" startColor="215,140,241,255" endColor="2255,204,221,255" shadowColor="32,7,42,200" out_show="0" show_time="168" goods_id="217218" effect="110110926;+68%|110110927;+40%" usetype="1" apineFile="spine_arena_yunbingche"/>
+		<ItemSpec id="10081" title_name="110110860" title_desc="110110908" title_icon="FB_IC_WS_dashi" startColor="215,140,241,255" endColor="2255,204,221,255" shadowColor="32,7,42,200" out_show="0" show_time="168" goods_id="217219" effect="110110926;+65%|110110927;+40%" usetype="1" apineFile="spine_arena_yunbingche"/>
+		<ItemSpec id="10084" title_name="110110860" title_desc="110110909" title_icon="FB_IC_WS_dashi" startColor="215,140,241,255" endColor="2255,204,221,255" shadowColor="32,7,42,200" out_show="0" show_time="168" goods_id="217220" effect="110110926;+63%|110110927;+40%" usetype="1" apineFile="spine_arena_yunbingche"/>
+		<ItemSpec id="10085" title_name="110110858" title_desc="110110910" title_icon="FB_IC_WS_jingying" startColor="235,235,239,255" endColor="127,164,212,255" shadowColor="12,23,41,200" out_show="0" show_time="168" goods_id="217221" effect="110110926;+60%|110110927;+30%" usetype="1"/>
+		<ItemSpec id="10086" title_name="110110858" title_desc="110110911" title_icon="FB_IC_WS_jingying" startColor="235,235,239,255" endColor="127,164,212,255" shadowColor="12,23,41,200" out_show="0" show_time="168" goods_id="217222" effect="110110926;+58%|110110927;+30%" usetype="1"/>
+		<ItemSpec id="10087" title_name="110110858" title_desc="110110912" title_icon="FB_IC_WS_jingying" startColor="235,235,239,255" endColor="127,164,212,255" shadowColor="12,23,41,200" out_show="0" show_time="168" goods_id="217223" effect="110110926;+55%|110110927;+30%" usetype="1"/>
+		<ItemSpec id="10088" title_name="110110858" title_desc="110110913" title_icon="FB_IC_WS_jingying" startColor="235,235,239,255" endColor="127,164,212,255" shadowColor="12,23,41,200" out_show="0" show_time="168" goods_id="217224" effect="110110926;+53%|110110927;+30%" usetype="1"/>
+
+
+<!--箱神，全明星2023六档称号，可外显，从高到低。由道具打开获得，客户端显示全部列表-->	
+    <ItemSpec id="10091" title_name="110483151" title_desc="110483158" title_icon="item230091t" startColor="244,255,255,255" endColor="55,176,255,255" shadowColor="34,29,66,200" mission_desc="110483157" collect="1" out_show="1" show_time="1" /><!--第1档-->
+    <ItemSpec id="10092" title_name="110483152" title_desc="110483159" title_icon="item230092t" startColor="255,255,255,255" endColor="228,224,116,255" shadowColor="34,29,66,200" mission_desc="110483157" collect="1" out_show="1" show_time="1" /><!--第2档-->
+    <ItemSpec id="10093" title_name="110483153" title_desc="110483160" title_icon="item230093t" startColor="255,255,255,255" endColor="255,237,61,255" shadowColor="149,31,116,200" mission_desc="110483157" collect="1" out_show="1" show_time="1" /><!--第3档-->
+    <ItemSpec id="10094" title_name="110483154" title_desc="110483161" title_icon="item230094t" startColor="228,252,255,255" endColor="63,179,228,255" shadowColor="1,24,55,200" mission_desc="110483157" collect="1" out_show="1" show_time="1" /><!--第4档-->
+    <ItemSpec id="10095" title_name="110483155" title_desc="110483162" title_icon="item230095t" startColor="255,255,255,255" endColor="255,237,61,255" shadowColor="75,70,210,200" mission_desc="110483157" collect="1" out_show="1" show_time="1" /><!--第5档-->
+    <ItemSpec id="10096" title_name="110483156" title_desc="110483163" title_icon="item230096t" startColor="255,255,255,255" endColor="109,161,232,200" shadowColor="83,73,162,200" mission_desc="110483157" collect="1" out_show="1" show_time="1" /><!--第6档-->
+		<ItemSpec id="10100" title_name="5601760" title_desc="5601762" title_icon="title10100" startColor="255,176,83,255" endColor="255,237,138.255" shadowColor="32,21,14,200" out_show="0" show_time="0" mission_desc="5601753" collect="1"/>
+		<ItemSpec id="10104" title_name="110661357" title_desc="5601861" title_icon="title10104" startColor="252,220,171,255" endColor="226,197,126.255" shadowColor="13,16,27,200" out_show="0" show_time="0" mission_desc="5601861" collect="1"/>
+		<ItemSpec id="10115" title_name="5601616" title_desc="5601617" title_icon="item219215t" startColor="252,240,169,255" endColor="226,206,100,255" shadowColor="40,40,40,200" out_show="0" show_time="0" mission_desc="111860153" collect="1"/>
+		<ItemSpec id="10116" title_name="5601618" title_desc="5601619" title_icon="item219214t" startColor="218,197,236,255" endColor="143,122,243,255" shadowColor="40,40,40,200" out_show="0" show_time="0" mission_desc="111860153" collect="1"/>
+		<ItemSpec id="10117" title_name="5601620" title_desc="5601621" title_icon="item219213t" startColor="193,232,251,255" endColor="165,200,253,255" shadowColor="40,40,40,200" out_show="0" show_time="0" mission_desc="111860153" collect="1"/>
+
+
+<!--利卡，全明星2024七档称号，可外显，从高到低。由道具打开获得，客户端显示全部列表-->
+    <ItemSpec id="10105" title_name="110483193" title_desc="110483201" title_icon="item230105t" startColor="244,255,255,255" endColor="55,176,255,255" shadowColor="34,29,66,200" mission_desc="110483200" collect="1" out_show="1" show_time="1" /><!--第1档-->
+    <ItemSpec id="10106" title_name="110483194" title_desc="110483202" title_icon="item230106t" startColor="255,255,255,255" endColor="228,224,116,255" shadowColor="34,29,66,200" mission_desc="110483200" collect="1" out_show="1" show_time="1" /><!--第2档-->
+    <ItemSpec id="10107" title_name="110483195" title_desc="110483203" title_icon="item230107t" startColor="255,255,255,255" endColor="255,237,61,255" shadowColor="149,31,116,200" mission_desc="110483200" collect="1" out_show="1" show_time="1" /><!--第3档-->
+    <ItemSpec id="10108" title_name="110483196" title_desc="110483204" title_icon="item230108t" startColor="228,252,255,255" endColor="63,179,228,255" shadowColor="1,24,55,200" mission_desc="110483200" collect="1" out_show="1" show_time="1" /><!--第4档-->
+    <ItemSpec id="10109" title_name="110483197" title_desc="110483205" title_icon="item230109t" startColor="255,255,255,255" endColor="255,237,61,255" shadowColor="75,70,210,200" mission_desc="110483200" collect="1" out_show="1" show_time="1" /><!--第5档-->
+    <ItemSpec id="10110" title_name="110483198" title_desc="110483206" title_icon="item230110t" startColor="255,255,255,255" endColor="109,161,232,200" shadowColor="83,73,162,200" mission_desc="110483200" collect="1" out_show="1" show_time="1" /><!--第6档-->
+    <ItemSpec id="10111" title_name="110483199" title_desc="110483207" title_icon="item230111t" startColor="255,255,255,255" endColor="109,161,232,200" shadowColor="83,73,162,200" mission_desc="110483200" collect="1" out_show="1" show_time="1" /><!--第7档-->
+		<ItemSpec id="10118" title_name="110662445" title_desc="110662446" title_icon="item219216t" startColor="252,240,169,255" endColor="255,208,103,255" shadowColor="32,21,14,200" out_show="0" show_time="0" mission_desc="110662448" collect="1"/>
+		<ItemSpec id="10119" title_name="110662671" title_desc="110662672" title_icon="item219217t" startColor="252,240,169,255" endColor="226,206,100,255" shadowColor="40,40,40,200" out_show="0" show_time="0" mission_desc="110662674" collect="1"/>
+
+<!--利卡，全明星2025七档称号，可外显，从高到低。由道具打开获得，客户端显示全部列表-->
+    <ItemSpec id="10201" title_name="112181214" title_desc="112181216" title_icon="item230201t" startColor="244,255,255,255" endColor="55,176,255,255" shadowColor="34,29,66,200" mission_desc="112181215" collect="1" out_show="1" show_time="1" />
+    <ItemSpec id="10202" title_name="112181213" title_desc="112181217" title_icon="item230202t" startColor="255,255,255,255" endColor="228,224,116,255" shadowColor="34,29,66,200" mission_desc="112181215" collect="1" out_show="1" show_time="1" />
+    <ItemSpec id="10203" title_name="112181212" title_desc="112181218" title_icon="item230203t" startColor="255,255,255,255" endColor="255,237,61,255" shadowColor="149,31,116,200" mission_desc="112181215" collect="1" out_show="1" show_time="1" />
+    <ItemSpec id="10204" title_name="112181211" title_desc="112181219" title_icon="item230204t" startColor="228,252,255,255" endColor="63,179,228,255" shadowColor="1,24,55,200" mission_desc="112181215" collect="1" out_show="1" show_time="1" />
+    <ItemSpec id="10205" title_name="112181210" title_desc="112181220" title_icon="item230205t" startColor="255,255,255,255" endColor="255,237,61,255" shadowColor="75,70,210,200" mission_desc="112181215" collect="1" out_show="1" show_time="1" />
+    <ItemSpec id="10206" title_name="112181209" title_desc="112181221" title_icon="item230206t" startColor="255,255,255,255" endColor="109,161,232,200" shadowColor="83,73,162,200" mission_desc="112181215" collect="1" out_show="1" show_time="1" />
+    <ItemSpec id="10207" title_name="112181208" title_desc="112181222" title_icon="item230207t" startColor="255,255,255,255" endColor="109,161,232,200" shadowColor="83,73,162,200" mission_desc="112181215" collect="1" out_show="1" show_time="1" />
+
+
+<!--小太阳 失落排位赛称号-->
+		<ItemSpec id="10120" title_name="111980264" title_desc="111980265" title_icon="sl_shiluownagzhe" startColor="218,140,63,255" endColor="237,220,134,255" shadowColor="57,24,0,200" out_show="0" show_time="672" goods_id="301506" effect="111980275;+50%|111980276;+20" usetype="1" apineFile="spine_arena_yunbingche"/>
+		<ItemSpec id="10121" title_name="111980263" title_desc="111980266" title_icon="sl_shilyuojianbing1" startColor="215,140,241,255" endColor="2255,204,221,255" shadowColor="32,7,42,200" out_show="0" show_time="672" goods_id="301507" effect="111980275;+45%|111980276;+18" usetype="1" apineFile="spine_arena_yunbingche"/>
+		<ItemSpec id="10122" title_name="111980263" title_desc="111980267" title_icon="sl_shilyuojianbing2" startColor="215,140,241,255" endColor="2255,204,221,255" shadowColor="32,7,42,200" out_show="0" show_time="672" goods_id="301508" effect="111980275;+40%|111980276;+16" usetype="1" apineFile="spine_arena_yunbingche"/>
+		<ItemSpec id="10123" title_name="111980263" title_desc="111980268" title_icon="sl_shilyuojianbing3" startColor="215,140,241,255" endColor="2255,204,221,255" shadowColor="32,7,42,200" out_show="0" show_time="672" goods_id="301509" effect="111980275;+35%|111980276;+14" usetype="1" apineFile="spine_arena_yunbingche"/>
+		<ItemSpec id="10124" title_name="111980263" title_desc="111980269" title_icon="sl_shilyuojianbing4" startColor="215,140,241,255" endColor="2255,204,221,255" shadowColor="32,7,42,200" out_show="0" show_time="672" goods_id="301510" effect="111980275;+30%|111980276;+12" usetype="1" apineFile="spine_arena_yunbingche"/>
+		<ItemSpec id="10125" title_name="111980262" title_desc="111980270" title_icon="sl_shilyuoxinxiu1" startColor="235,235,239,255" endColor="127,164,212,255" shadowColor="12,23,41,200" out_show="0" show_time="672" goods_id="301511" effect="111980275;+25%|111980276;+10" usetype="1"/>
+		<ItemSpec id="10126" title_name="111980262" title_desc="111980271" title_icon="sl_shilyuoxinxiu2" startColor="235,235,239,255" endColor="127,164,212,255" shadowColor="12,23,41,200" out_show="0" show_time="672" goods_id="301512" effect="111980275;+20%|111980276;+8" usetype="1"/>
+		<ItemSpec id="10127" title_name="111980262" title_desc="111980272" title_icon="sl_shilyuoxinxiu3" startColor="235,235,239,255" endColor="127,164,212,255" shadowColor="12,23,41,200" out_show="0" show_time="672" goods_id="301513" effect="111980275;+15%|111980276;+6" usetype="1"/>
+		<ItemSpec id="10128" title_name="111980262" title_desc="111980273" title_icon="sl_shilyuoxinxiu4" startColor="235,235,239,255" endColor="127,164,212,255" shadowColor="12,23,41,200" out_show="0" show_time="672" goods_id="301514" effect="111980275;+10%|111980276;+4" usetype="1"/>
+
+
+
+    <ItemSpec id="10301" title_name="112140251" title_desc="112140252" title_icon="item230301t" startColor="255,219,126,255" endColor="232,93,61,200" shadowColor="70,15,20,200" mission_desc="112140253" collect="1" out_show="1" show_time="1" />
+
+
+
+
+
+
+
+    </Group> 
+
+</tns:database>

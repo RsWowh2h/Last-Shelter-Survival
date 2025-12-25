@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="material_stage">
+		<ItemSpec id="# 勘探区奖励 "/>
+		<ItemSpec id="1001001" front_stage="0" durability="10" power="3500" monster_id="390001" exp="10" reward="200394;200|200336;6|210141;2|210140;2" level="401001" suggest_attack="30"/>
+		<ItemSpec id="1001002" front_stage="1001001" durability="10" power="6800" monster_id="390002" exp="50" reward="200393;80|200336;14|210141;6|210140;2" level="401002" suggest_attack="296"/>
+		<ItemSpec id="1001003" front_stage="1001002" durability="10" power="43800" monster_id="390003" exp="100" reward="200393;160|200330;2|200336;8|210141;14|210140;2" level="401003" suggest_attack="758"/>
+		<ItemSpec id="1001004" front_stage="1001003" durability="10" power="120300" monster_id="390004" exp="300" reward="200390;24|200330;6|200337;6|210144;2|210141;6" level="401004" suggest_attack="1294"/>
+		<ItemSpec id="1001005" front_stage="1001004" durability="10" power="405900" monster_id="390005" exp="600" reward="200390;36|200330;14|200336;4|210144;4|210141;12" level="401005" suggest_attack="1914"/>
+		<ItemSpec id="1001006" front_stage="1001005" durability="10" power="949200" monster_id="390006" exp="1300" reward="200391;12|200331;8|200337;18|210145;8|210141;24" level="401006" suggest_attack="2896"/>
+		<ItemSpec id="1001007" front_stage="1001006" durability="10" power="4215600" monster_id="390007" exp="7300" reward="200391;16|200331;14|200337;14|210145;14|210141;22" level="401007" suggest_attack="4088"/>
+		<ItemSpec id="1001008" front_stage="1001007" durability="10" power="6855000" monster_id="390008" exp="12200" reward="200392;4|200331;20|200337;10|210145;20|210141;20" level="401008" suggest_attack="5538"/>
+		<ItemSpec id="1001009" front_stage="1001008" durability="10" power="8236800" monster_id="390009" exp="14500" reward="200392;5|200331;24|200337;18|210145;24|210141;34" level="401009" suggest_attack="7299"/>
+		<ItemSpec id="1001010" front_stage="1001009" durability="10" power="12382900" monster_id="390010" exp="22000" reward="200392;6|200331;28|200338;14|210145;28|210141;46" level="401010" suggest_attack="9204"/>
+		<ItemSpec id="1002001" front_stage="0" durability="10" power="3500" monster_id="390101" exp="10" reward="210120;20|200306;6|210132;2" level="402001" suggest_attack="156"/>
+		<ItemSpec id="1002002" front_stage="1002001" durability="10" power="6800" monster_id="390102" exp="50" reward="210121;4|200306;14|210132;4|210130;2" level="402002" suggest_attack="443"/>
+		<ItemSpec id="1002003" front_stage="1002002" durability="10" power="43800" monster_id="390103" exp="100" reward="210122;2|200300;2|200306;8|210132;8|210130;6" level="402003" suggest_attack="929"/>
+		<ItemSpec id="1002004" front_stage="1002003" durability="10" power="120300" monster_id="390104" exp="300" reward="210122;3|200300;6|200307;6|210133;8|210130;18" level="402004" suggest_attack="1491"/>
+		<ItemSpec id="1002005" front_stage="1002004" durability="10" power="405900" monster_id="390105" exp="600" reward="210123;3|200300;14|200306;4|210133;18|210130;18" level="402005" suggest_attack="2141"/>
+		<ItemSpec id="1002006" front_stage="1002005" durability="10" power="949200" monster_id="390106" exp="1300" reward="210123;5|200301;8|200307;18|210134;18|210131;16" level="402006" suggest_attack="3172"/>
+		<ItemSpec id="1002007" front_stage="1002006" durability="10" power="4215600" monster_id="390107" exp="7300" reward="210123;7|200301;14|200307;14|210135;18|210132;22" level="402007" suggest_attack="4424"/>
+		<ItemSpec id="1002008" front_stage="1002007" durability="10" power="6855000" monster_id="390108" exp="12200" reward="210124;3|200301;20|200307;10|210136;8|210132;34" level="402008" suggest_attack="5946"/>
+		<ItemSpec id="1002009" front_stage="1002008" durability="10" power="8236800" monster_id="390109" exp="14500" reward="210124;5|200301;24|200307;18|210136;10|210132;30" level="402009" suggest_attack="7796"/>
+		<ItemSpec id="1002010" front_stage="1002009" durability="10" power="12382900" monster_id="390110" exp="22000" reward="210125;2|200301;28|200308;14|210136;12|210132;26" level="402010" suggest_attack="9667"/>
+		<ItemSpec id="1003001" front_stage="0" durability="10" power="3500" monster_id="390201" exp="10" reward="210164;10|200336;6|210132;2" level="403001" suggest_attack="597"/>
+		<ItemSpec id="1003002" front_stage="1003001" durability="10" power="6800" monster_id="390202" exp="50" reward="210164;14|200336;14|210132;4|210130;2" level="403002" suggest_attack="1107"/>
+		<ItemSpec id="1003003" front_stage="1003002" durability="10" power="43800" monster_id="390203" exp="100" reward="210164;18|200330;2|200336;8|210132;8|210130;6" level="403003" suggest_attack="1697"/>
+		<ItemSpec id="1003004" front_stage="1003003" durability="10" power="120300" monster_id="390204" exp="300" reward="210164;22|200330;6|200337;6|210133;8|210130;18" level="403004" suggest_attack="2381"/>
+		<ItemSpec id="1003005" front_stage="1003004" durability="10" power="405900" monster_id="390205" exp="600" reward="210164;26|200330;14|200336;4|210133;18|210130;18" level="403005" suggest_attack="3462"/>
+		<ItemSpec id="1003006" front_stage="1003005" durability="10" power="949200" monster_id="390206" exp="1300" reward="210164;30|200331;8|200337;18|210134;18|210131;16" level="403006" suggest_attack="4778"/>
+		<ItemSpec id="1003007" front_stage="1003006" durability="10" power="4215600" monster_id="390207" exp="7300" reward="210164;35|200331;14|200337;14|210135;18|210132;22" level="403007" suggest_attack="6375"/>
+		<ItemSpec id="1003008" front_stage="1003007" durability="10" power="6855000" monster_id="390208" exp="12200" reward="210164;40|200331;20|200337;10|210136;8|210132;34" level="403008" suggest_attack="8319"/>
+		<ItemSpec id="1003009" front_stage="1003008" durability="10" power="8236800" monster_id="390209" exp="14500" reward="210164;45|200331;24|200337;18|210136;10|210132;30" level="403009" suggest_attack="10145"/>
+		<ItemSpec id="1003010" front_stage="1003009" durability="10" power="12382900" monster_id="390210" exp="22000" reward="210164;50|200331;28|200338;14|210136;12|210132;26" level="403010" suggest_attack="11141"/>
+		<ItemSpec id="1004001" front_stage="0" durability="10" power="3500" monster_id="390301" exp="10" reward="210163;45|200306;6|210141;2|210140;2" level="404001" suggest_attack="2632"/>
+		<ItemSpec id="1004002" front_stage="1004001" durability="10" power="6800" monster_id="390302" exp="50" reward="210163;55|200306;14|210141;6|210140;2" level="404002" suggest_attack="3768"/>
+		<ItemSpec id="1004003" front_stage="1004002" durability="10" power="43800" monster_id="390303" exp="100" reward="210163;65|200300;2|200306;8|210141;14|210140;2" level="404003" suggest_attack="5148"/>
+		<ItemSpec id="1004004" front_stage="1004003" durability="10" power="120300" monster_id="390304" exp="300" reward="210163;75|200300;6|200307;6|210144;2|210141;6" level="404004" suggest_attack="6826"/>
+		<ItemSpec id="1004005" front_stage="1004004" durability="10" power="405900" monster_id="390305" exp="600" reward="210163;85|200300;14|200306;4|210144;4|210141;12" level="404005" suggest_attack="8754"/>
+		<ItemSpec id="1004006" front_stage="1004005" durability="10" power="949200" monster_id="390306" exp="1300" reward="210163;95|200301;8|200307;18|210145;8|210141;24" level="404006" suggest_attack="10635"/>
+		<ItemSpec id="1004007" front_stage="1004006" durability="10" power="4215600" monster_id="390307" exp="7300" reward="210163;105|200301;14|200307;14|210145;14|210141;22" level="404007" suggest_attack="11663"/>
+		<ItemSpec id="1004008" front_stage="1004007" durability="10" power="6855000" monster_id="390308" exp="12200" reward="210163;120|200301;20|200307;10|210145;20|210141;20" level="404008" suggest_attack="12199"/>
+		<ItemSpec id="1004009" front_stage="1004008" durability="10" power="8236800" monster_id="390309" exp="14500" reward="210163;135|200301;24|200307;18|210145;24|210141;34" level="404009" suggest_attack="12753"/>
+		<ItemSpec id="1004010" front_stage="1004009" durability="10" power="12382900" monster_id="390310" exp="22000" reward="210163;150|200301;28|200308;14|210145;28|210141;46" level="404010" suggest_attack="13323"/>
+		<ItemSpec id="1005001" front_stage="0" durability="10" power="3500" monster_id="390401" exp="10" reward="215398;60|200306;3|210141;1|210140;1" level="404001" suggest_attack="2632"/>
+		<ItemSpec id="1005002" front_stage="1005001" durability="10" power="6800" monster_id="390402" exp="50" reward="215398;74|200306;7|210141;3|210140;1" level="404002" suggest_attack="3768"/>
+		<ItemSpec id="1005003" front_stage="1005002" durability="10" power="43800" monster_id="390403" exp="100" reward="215398;87|200300;1|200306;4|210141;7|210140;1" level="404003" suggest_attack="5148"/>
+		<ItemSpec id="1005004" front_stage="1005003" durability="10" power="120300" monster_id="390404" exp="300" reward="215398;100|200300;3|200307;3|210144;1|210141;3" level="404004" suggest_attack="6826"/>
+		<ItemSpec id="1005005" front_stage="1005004" durability="10" power="405900" monster_id="390405" exp="600" reward="215398;114|200300;7|200306;2|210144;2|210141;6" level="404005" suggest_attack="8754"/>
+		<ItemSpec id="1005006" front_stage="1005005" durability="10" power="949200" monster_id="390406" exp="1300" reward="215398;127|200301;4|200307;9|210145;4|210141;12" level="404006" suggest_attack="10635"/>
+		<ItemSpec id="1005007" front_stage="1005006" durability="10" power="4215600" monster_id="390407" exp="7300" reward="215398;140|200301;7|200307;7|210145;7|210141;11" level="404007" suggest_attack="11663"/>
+		<ItemSpec id="1005008" front_stage="1005007" durability="10" power="6855000" monster_id="390408" exp="12200" reward="215398;160|200301;10|200307;5|210145;10|210141;10" level="404008" suggest_attack="12199"/>
+		<ItemSpec id="1005009" front_stage="1005008" durability="10" power="8236800" monster_id="390409" exp="14500" reward="215398;180|200301;12|200307;9|210145;12|210141;17" level="404009" suggest_attack="12753"/>
+		<ItemSpec id="1005010" front_stage="1005009" durability="10" power="12382900" monster_id="390410" exp="22000" reward="215398;200|200301;14|200308;7|210145;14|210141;23" level="404010" suggest_attack="13323"/>
+		<ItemSpec id="1006001" front_stage="0" durability="10" power="3500" monster_id="390401" exp="14000" reward="200129;45|200336;3|210132;1" level="404001" suggest_attack="2632"/>
+		<ItemSpec id="1006002" front_stage="1006001" durability="10" power="6800" monster_id="390402" exp="17600" reward="200129;55|200336;7|210132;2|210130;1" level="404002" suggest_attack="3768"/>
+		<ItemSpec id="1006003" front_stage="1006002" durability="10" power="43800" monster_id="390403" exp="27600" reward="200129;65|200330;1|200336;4|210132;4|210130;3" level="404003" suggest_attack="5148"/>
+		<ItemSpec id="1006004" front_stage="1006003" durability="10" power="120300" monster_id="390404" exp="29500" reward="200129;75|200330;3|200337;3|210133;4|210130;9" level="404004" suggest_attack="6826"/>
+		<ItemSpec id="1006005" front_stage="1006004" durability="10" power="405900" monster_id="390405" exp="30300" reward="200129;85|200330;7|200336;2|210133;9|210130;9" level="404005" suggest_attack="8754"/>
+		<ItemSpec id="1006006" front_stage="1006005" durability="10" power="949200" monster_id="390406" exp="31100" reward="200129;95|200331;4|200337;9|210134;9|210131;8" level="404006" suggest_attack="10635"/>
+		<ItemSpec id="1006007" front_stage="1006006" durability="10" power="4215600" monster_id="390407" exp="32000" reward="200129;105|200331;7|200337;7|210135;9|210132;11" level="404007" suggest_attack="11663"/>
+		<ItemSpec id="1006008" front_stage="1006007" durability="10" power="6855000" monster_id="390408" exp="33300" reward="200129;120|200331;10|200337;5|210136;4|210132;17" level="404008" suggest_attack="12199"/>
+		<ItemSpec id="1006009" front_stage="1006008" durability="10" power="8236800" monster_id="390409" exp="33300" reward="200129;135|200331;12|200337;9|210136;5|210132;15" level="404009" suggest_attack="12753"/>
+		<ItemSpec id="1006010" front_stage="1006009" durability="10" power="12382900" monster_id="390410" exp="33300" reward="200129;150|200331;14|200338;7|210136;6|210132;13" level="404010" suggest_attack="13323"/>
+		<ItemSpec id="1007001" front_stage="0" durability="10" power="7154272" monster_id="390601" exp="14000" reward="203517;20|200306;3|210132;1" level="404001" suggest_attack="2632"/>
+		<ItemSpec id="1007002" front_stage="1007001" durability="10" power="8511915" monster_id="390602" exp="17600" reward="203517;40|200306;7|210132;2|210130;1" level="404002" suggest_attack="3768"/>
+		<ItemSpec id="1007003" front_stage="1007002" durability="10" power="12331180" monster_id="390603" exp="27600" reward="203517;60|200300;1|200306;4|210132;4|210130;3" level="404003" suggest_attack="5148"/>
+		<ItemSpec id="1007004" front_stage="1007003" durability="10" power="14647451" monster_id="390604" exp="29500" reward="203517;80|200300;3|200307;3|210133;4|210130;9" level="404004" suggest_attack="6826"/>
+		<ItemSpec id="1007005" front_stage="1007004" durability="10" power="19878863" monster_id="390605" exp="30300" reward="203517;100|200300;7|200306;2|210133;9|210130;9" level="404005" suggest_attack="8754"/>
+		<ItemSpec id="1007006" front_stage="1007005" durability="10" power="25195175" monster_id="390606" exp="34100" reward="203517;120|200301;4|200307;9|210134;9|210131;8" level="404006" suggest_attack="10635"/>
+		<ItemSpec id="1007007" front_stage="1007006" durability="10" power="30268907" monster_id="390607" exp="36100" reward="203517;140|200301;7|200307;7|210135;9|210132;11" level="404007" suggest_attack="11663"/>
+		<ItemSpec id="1007008" front_stage="1007007" durability="10" power="36377932" monster_id="390608" exp="38600" reward="203517;160|200301;10|200307;5|210136;4|210132;17" level="404008" suggest_attack="12199"/>
+		<ItemSpec id="1007009" front_stage="1007008" durability="10" power="43088244" monster_id="390609" exp="40500" reward="203517;180|200301;12|200307;9|210136;5|210132;15" level="404009" suggest_attack="12753"/>
+		<ItemSpec id="1007010" front_stage="1007009" durability="10" power="51917380" monster_id="390610" exp="43200" reward="203517;200|200301;14|200308;7|210136;6|210132;13" level="404010" suggest_attack="13323"/>
+	
+		<!-- 勘探区奖励 -->
+		<ItemSpec id="1008001" front_stage="0" durability="10" power="7154272" monster_id="390601" exp="14000" reward="203520;20|200306;3|210132;1" level="404001" suggest_attack="2632"/>
+		<ItemSpec id="1008002" front_stage="1008001" durability="10" power="8511915" monster_id="390602" exp="17600" reward="203520;40|200306;7|210132;2|210130;1" level="404002" suggest_attack="3768"/>
+		<ItemSpec id="1008003" front_stage="1008002" durability="10" power="12331180" monster_id="390603" exp="27600" reward="203520;60|200300;1|200306;4|210132;4|210130;3" level="404003" suggest_attack="5148"/>
+		<ItemSpec id="1008004" front_stage="1008003" durability="10" power="14647451" monster_id="390604" exp="29500" reward="203520;80|200300;3|200307;3|210133;4|210130;9" level="404004" suggest_attack="6826"/>
+		<ItemSpec id="1008005" front_stage="1008004" durability="10" power="19878863" monster_id="390605" exp="30300" reward="203520;100|200300;7|200306;2|210133;9|210130;9" level="404005" suggest_attack="8754"/>
+		<ItemSpec id="1008006" front_stage="1008005" durability="10" power="25195175" monster_id="390606" exp="34100" reward="203520;120|200301;4|200307;9|210134;9|210131;8" level="404006" suggest_attack="10635"/>
+		<ItemSpec id="1008007" front_stage="1008006" durability="10" power="30268907" monster_id="390607" exp="36100" reward="203520;140|200301;7|200307;7|210135;9|210132;11" level="404007" suggest_attack="11663"/>
+		<ItemSpec id="1008008" front_stage="1008007" durability="10" power="36377932" monster_id="390608" exp="38600" reward="203520;160|200301;10|200307;5|210136;4|210132;17" level="404008" suggest_attack="12199"/>
+		<ItemSpec id="1008009" front_stage="1008008" durability="10" power="43088244" monster_id="390609" exp="40500" reward="203520;180|200301;12|200307;9|210136;5|210132;15" level="404009" suggest_attack="12753"/>
+		<ItemSpec id="1008010" front_stage="1008009" durability="10" power="51917380" monster_id="390610" exp="43200" reward="203520;200|200301;14|200308;7|210136;6|210132;13" level="404010" suggest_attack="13323"/>
+
+    <!-- 稀缺资源区奖励 -->
+    <ItemSpec id="1009001" front_stage="0" durability="10" power="7154272" monster_id="390601" exp="14000" reward="203520;20|200306;3|210132;1" level="404001" suggest_attack="2632"/>
+    <ItemSpec id="1009002" front_stage="1008001" durability="10" power="8511915" monster_id="390602" exp="17600" reward="203520;40|200306;7|210132;2|210130;1" level="404002" suggest_attack="3768"/>
+    <ItemSpec id="1009003" front_stage="1008002" durability="10" power="12331180" monster_id="390603" exp="27600" reward="203520;60|200300;1|200306;4|210132;4|210130;3" level="404003" suggest_attack="5148"/>
+    <ItemSpec id="1009004" front_stage="1008003" durability="10" power="14647451" monster_id="390604" exp="29500" reward="203520;80|200300;3|200307;3|210133;4|210130;9" level="404004" suggest_attack="6826"/>
+    <ItemSpec id="1009005" front_stage="1008004" durability="10" power="19878863" monster_id="390605" exp="30300" reward="203520;100|200300;7|200306;2|210133;9|210130;9" level="404005" suggest_attack="8754"/>
+    <ItemSpec id="1009006" front_stage="1008005" durability="10" power="25195175" monster_id="390606" exp="34100" reward="203520;120|200301;4|200307;9|210134;9|210131;8" level="404006" suggest_attack="10635"/>
+    <ItemSpec id="1009007" front_stage="1008006" durability="10" power="30268907" monster_id="390607" exp="36100" reward="203520;140|200301;7|200307;7|210135;9|210132;11" level="404007" suggest_attack="11663"/>
+    <ItemSpec id="1009008" front_stage="1008007" durability="10" power="36377932" monster_id="390608" exp="38600" reward="203520;160|200301;10|200307;5|210136;4|210132;17" level="404008" suggest_attack="12199"/>
+    <ItemSpec id="1009009" front_stage="1008008" durability="10" power="43088244" monster_id="390609" exp="40500" reward="203520;180|200301;12|200307;9|210136;5|210132;15" level="404009" suggest_attack="12753"/>
+    <ItemSpec id="1009010" front_stage="1008009" durability="10" power="51917380" monster_id="390610" exp="43200" reward="203520;200|200301;14|200308;7|210136;6|210132;13" level="404010" suggest_attack="13323"/>
+
+    <!-- 重矿物区奖励 -->
+    <ItemSpec id="1010001" front_stage="0" durability="10" power="7154272" monster_id="390601" exp="14000" reward="227092;400|227093;20|227094;2" level="404001" suggest_attack="2632"/>
+    <ItemSpec id="1010002" front_stage="1008001" durability="10" power="8511915" monster_id="390602" exp="17600" reward="227092;380|227093;18|227094;2" level="404002" suggest_attack="3768"/>
+    <ItemSpec id="1010003" front_stage="1008002" durability="10" power="12331180" monster_id="390603" exp="27600" reward="227092;360|227093;17|227094;2" level="404003" suggest_attack="5148"/>
+    <ItemSpec id="1010004" front_stage="1008003" durability="10" power="14647451" monster_id="390604" exp="29500" reward="227092;340|227093;16|227094;2" level="404004" suggest_attack="6826"/>
+    <ItemSpec id="1010005" front_stage="1008004" durability="10" power="19878863" monster_id="390605" exp="30300" reward="227092;320|227093;15|227094;2" level="404005" suggest_attack="8754"/>
+    <ItemSpec id="1010006" front_stage="1008005" durability="10" power="25195175" monster_id="390606" exp="34100" reward="227092;300|227093;14|227094;2" level="404006" suggest_attack="10635"/>
+    <ItemSpec id="1010007" front_stage="1008006" durability="10" power="30268907" monster_id="390607" exp="36100" reward="227092;280|227093;13|227094;2" level="404007" suggest_attack="11663"/>
+    <ItemSpec id="1010008" front_stage="1008007" durability="10" power="36377932" monster_id="390608" exp="38600" reward="227092;260|227093;12|227094;2" level="404008" suggest_attack="12199"/>
+    <ItemSpec id="1010009" front_stage="1008008" durability="10" power="43088244" monster_id="390609" exp="40500" reward="227092;240|227093;11|227094;2" level="404009" suggest_attack="12753"/>
+    <ItemSpec id="1010010" front_stage="1008009" durability="10" power="51917380" monster_id="390610" exp="43200" reward="227092;220|227093;10|227094;2" level="404010" suggest_attack="13323"/>
+
+    <!-- 新增兵种专精产出区域 -->
+    <ItemSpec id="1011001" front_stage="0" durability="10" power="7154272" monster_id="390601" exp="14000" reward="203520;20|200306;3|210132;1" level="404001" suggest_attack="2632"/>
+    <ItemSpec id="1011002" front_stage="1008001" durability="10" power="8511915" monster_id="390602" exp="17600" reward="203520;40|200306;7|210132;2|210130;1" level="404002" suggest_attack="3768"/>
+    <ItemSpec id="1011003" front_stage="1008002" durability="10" power="12331180" monster_id="390603" exp="27600" reward="203520;60|200300;1|200306;4|210132;4|210130;3" level="404003" suggest_attack="5148"/>
+    <ItemSpec id="1011004" front_stage="1008003" durability="10" power="14647451" monster_id="390604" exp="29500" reward="203520;80|200300;3|200307;3|210133;4|210130;9" level="404004" suggest_attack="6826"/>
+    <ItemSpec id="1011005" front_stage="1008004" durability="10" power="19878863" monster_id="390605" exp="30300" reward="203520;100|200300;7|200306;2|210133;9|210130;9" level="404005" suggest_attack="8754"/>
+    <ItemSpec id="1011006" front_stage="1008005" durability="10" power="25195175" monster_id="390606" exp="34100" reward="203520;120|200301;4|200307;9|210134;9|210131;8" level="404006" suggest_attack="10635"/>
+    <ItemSpec id="1011007" front_stage="1008006" durability="10" power="30268907" monster_id="390607" exp="36100" reward="203520;140|200301;7|200307;7|210135;9|210132;11" level="404007" suggest_attack="11663"/>
+    <ItemSpec id="1011008" front_stage="1008007" durability="10" power="36377932" monster_id="390608" exp="38600" reward="203520;160|200301;10|200307;5|210136;4|210132;17" level="404008" suggest_attack="12199"/>
+    <ItemSpec id="1011009" front_stage="1008008" durability="10" power="43088244" monster_id="390609" exp="40500" reward="203520;180|200301;12|200307;9|210136;5|210132;15" level="404009" suggest_attack="12753"/>
+    <ItemSpec id="1011010" front_stage="1008009" durability="10" power="51917380" monster_id="390610" exp="43200" reward="203520;200|200301;14|200308;7|210136;6|210132;13" level="404010" suggest_attack="13323"/>
+        <!-- 新增驯养日志产出区域 -->
+		<ItemSpec id="1012001" front_stage="0" durability="10" power="7154272" monster_id="390601" exp="14000" reward="204052;125|200306;3|210132;1" level="404001" suggest_attack="2632"/>
+		<ItemSpec id="1012002" front_stage="1012001" durability="10" power="8511915" monster_id="390602" exp="17600" reward="204052;150|200306;7|210132;2|210130;1" level="404002" suggest_attack="3768"/>
+		<ItemSpec id="1012003" front_stage="1012002" durability="10" power="12331180" monster_id="390603" exp="27600" reward="204052;175|200300;1|200306;4|210132;4|210130;3" level="404003" suggest_attack="5148"/>
+		<ItemSpec id="1012004" front_stage="1012003" durability="10" power="14647451" monster_id="390604" exp="29500" reward="204052;200|200300;3|200307;3|210133;4|210130;9" level="404004" suggest_attack="6826"/>
+		<ItemSpec id="1012005" front_stage="1012004" durability="10" power="19878863" monster_id="390605" exp="30300" reward="204052;225|200300;7|200306;2|210133;9|210130;9" level="404005" suggest_attack="8754"/>
+		<ItemSpec id="1012006" front_stage="1012005" durability="10" power="25195175" monster_id="390606" exp="34100" reward="204052;250|200301;4|200307;9|210134;9|210131;8" level="404006" suggest_attack="10635"/>
+		<ItemSpec id="1012007" front_stage="1012006" durability="10" power="30268907" monster_id="390607" exp="36100" reward="204052;275|200301;7|200307;7|210135;9|210132;11" level="404007" suggest_attack="11663"/>
+		<ItemSpec id="1012008" front_stage="1012007" durability="10" power="36377932" monster_id="390608" exp="38600" reward="204052;300|200301;10|200307;5|210136;4|210132;17" level="404008" suggest_attack="12199"/>
+		<ItemSpec id="1012009" front_stage="1012008" durability="10" power="43088244" monster_id="390609" exp="40500" reward="204052;325|200301;12|200307;9|210136;5|210132;15" level="404009" suggest_attack="12753"/>
+		<ItemSpec id="1012010" front_stage="1012009" durability="10" power="51917380" monster_id="390610" exp="43200" reward="204052;350|200301;14|200308;7|210136;6|210132;13" level="404010" suggest_attack="13323"/>
+        <!-- 新增机体升级产出区域   --> 
+		<ItemSpec id="1013001" front_stage="0" durability="10" power="7154272" monster_id="390601" exp="14000" reward="217279;200|200306;3|210132;1" level="404001" suggest_attack="2632"/>
+		<ItemSpec id="1013002" front_stage="1013001" durability="10" power="8511915" monster_id="390602" exp="17600" reward="217279;225|200306;7|210132;2|210130;1" level="404002" suggest_attack="3768"/>
+		<ItemSpec id="1013003" front_stage="1013002" durability="10" power="12331180" monster_id="390603" exp="27600" reward="217279;250|200300;1|200306;4|210132;4|210130;3" level="404003" suggest_attack="5148"/>
+		<ItemSpec id="1013004" front_stage="1013003" durability="10" power="14647451" monster_id="390604" exp="29500" reward="217279;275|200300;3|200307;3|210133;4|210130;9" level="404004" suggest_attack="6826"/>
+		<ItemSpec id="1013005" front_stage="1013004" durability="10" power="19878863" monster_id="390605" exp="30300" reward="217279;300|200300;7|200306;2|210133;9|210130;9" level="404005" suggest_attack="8754"/>
+		<ItemSpec id="1013006" front_stage="1013005" durability="10" power="25195175" monster_id="390606" exp="34100" reward="217279;325|200301;4|200307;9|210134;9|210131;8" level="404006" suggest_attack="10635"/>
+		<ItemSpec id="1013007" front_stage="1013006" durability="10" power="30268907" monster_id="390607" exp="36100" reward="217279;350|200301;7|200307;7|210135;9|210132;11" level="404007" suggest_attack="11663"/>
+		<ItemSpec id="1013008" front_stage="1013007" durability="10" power="36377932" monster_id="390608" exp="38600" reward="217279;400|200301;10|200307;5|210136;4|210132;17" level="404008" suggest_attack="12199"/>
+		<ItemSpec id="1013009" front_stage="1013008" durability="10" power="43088244" monster_id="390609" exp="40500" reward="217279;450|200301;12|200307;9|210136;5|210132;15" level="404009" suggest_attack="12753"/>
+		<ItemSpec id="1013010" front_stage="1013009" durability="10" power="51917380" monster_id="390610" exp="43200" reward="217279;500|200301;14|200308;7|210136;6|210132;13" level="404010" suggest_attack="13323"/>
+    
+	</Group>
+</tns:database>

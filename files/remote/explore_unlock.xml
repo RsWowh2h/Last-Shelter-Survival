@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="explore_unlock">
+    <ItemSpec id="443000" wood="380" stone="0" iron="0" food="0" money="0" electricity="0" />
+    <ItemSpec id="445000" wood="500" stone="0" iron="0" food="0" money="0" electricity="0" />
+    <ItemSpec id="477000" wood="280" stone="0" iron="80" food="0" money="0" electricity="0" />
+    <ItemSpec id="478000" wood="950" stone="290" iron="0" food="0" money="0" electricity="0" />
+    <ItemSpec id="479000" wood="22000" stone="0" iron="8800" food="0" money="0" electricity="0" />
+    <ItemSpec id="480000" wood="640" stone="0" iron="0" food="0" money="0" electricity="0" />
+    <ItemSpec id="481000" wood="1400" stone="0" iron="400" food="0" money="0" electricity="0" />
+    <ItemSpec id="482000" wood="3100" stone="0" iron="0" food="0" money="0" electricity="0" />
+</Group>
+</tns:database>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="zones_limit">
+    <ItemSpec id="1001" starttime="21;1" endtime="63072000" pretime="604800" condition="1;10" cooldown="2592000" isviewtime="1" server="1-273" rank_limit="1" score_limit="3000000" target_server="1-273" prop="212006" number="1000000;0|0;0" power="0;0" time_cost="0-60;0|61-90;1|91-120;3|121-180;5" score_cost="0-1;1|1-3;1|3-5;2|5-7;3|7-9;4|9-11;5|11-13;6|13-15;7|15-17;8|17-19;9|19;10" />
+    <ItemSpec id="1002" starttime="21;1" endtime="63072000" pretime="604800" condition="1;10" cooldown="2592000" isviewtime="1" server="285-354" rank_limit="1" score_limit="2000000" target_server="285-354" prop="212006" number="1000000;0|0;0" power="0;0" time_cost="0-60;0|61-90;1|91-120;3|121-180;5" score_cost="0-1;1|1-3;1|3-5;2|5-7;3|7-9;4|9-11;5|11-13;6|13-15;7|15-17;8|17-19;9|19;10" />
+    <ItemSpec id="1003" starttime="21;1" endtime="63072000" pretime="604800" condition="1;10" cooldown="2592000" isviewtime="1" server="360-459" rank_limit="3" score_limit="2000000" target_server="360-459" prop="212006" number="1000000;0|0;0" power="0;0" time_cost="0-60;0|61-90;1|91-120;3|121-180;5" score_cost="0-1;1|1-3;1|3-5;2|5-7;3|7-9;4|9-11;5|11-13;6|13-15;7|15-17;8|17-19;9|19;10" />
+    <ItemSpec id="1004" starttime="21;1" endtime="63072000" pretime="604800" condition="1;10" cooldown="2592000" isviewtime="1" server="460-475" rank_limit="2" score_limit="1000000" target_server="460-475" prop="212006" number="1000000;0|0;0" power="0;0" time_cost="0-60;0|61-90;1|91-120;3|121-180;5" score_cost="0-1;1|1-3;1|3-5;2|5-7;3|7-9;4|9-11;5|11-13;6|13-15;7|15-17;8|17-19;9|19;10" />
+    <ItemSpec id="1005" starttime="21;1" endtime="63072000" pretime="604800" condition="1;10" cooldown="2592000" isviewtime="1" server="476-491" rank_limit="2" score_limit="1000000" target_server="476-491" prop="212006" number="1000000;0|0;0" power="0;0" time_cost="0-60;0|61-90;1|91-120;3|121-180;5" score_cost="0-1;1|1-3;1|3-5;2|5-7;3|7-9;4|9-11;5|11-13;6|13-15;7|15-17;8|17-19;9|19;10" />
+    <ItemSpec id="1006" starttime="21;1" endtime="63072000" pretime="604800" condition="1;10" cooldown="2592000" isviewtime="1" server="492-999" rank_limit="1" score_limit="1000000" target_server="492-999" prop="212006" number="1000000;0|0;0" power="0;0" time_cost="0-60;0|61-90;1|91-120;3|121-180;5" score_cost="0-1;1|1-3;1|3-5;2|5-7;3|7-9;4|9-11;5|11-13;6|13-15;7|15-17;8|17-19;9|19;10" />
+
+	<ItemSpec id="1007" starttime="21;1" endtime="63072000" pretime="604800" condition="1;30" cooldown="2592000" isviewtime="1" server="9999" rank_limit="0" target_server="9999" prop="212006" power="0-1;1|1-3;1|3-5;2|5-7;3|7-9;4|9-11;5|11-13;6|13-15;7|15-17;8|17-19;9|19;10" time_cost="0-60;0|61-90;1|91-120;3|121-180;5" />
+	<ItemSpec id="1008" starttime="21;1" endtime="63072000" pretime="604800" condition="1;30" cooldown="2592000" isviewtime="1" server="9999" rank_limit="0" target_server="9999" prop="212006" power="0-1;1|1-3;1|3-5;2|5-7;3|7-9;4|9-11;5|11-13;6|13-15;7|15-17;8|17-19;9|19;10" time_cost="0-60;0|61-90;1|91-120;3|121-180;5" />
+	<ItemSpec id="1009" starttime="21;1" endtime="63072000" pretime="604800" condition="1;30" cooldown="2592000" isviewtime="1" server="9999" rank_limit="0" target_server="9999" prop="212006" power="0-1;1|1-3;1|3-5;2|5-7;3|7-9;4|9-11;5|11-13;6|13-15;7|15-17;8|17-19;9|19;10" time_cost="0-60;0|61-90;1|91-120;3|121-180;5" />
+
+	</Group>
+
+</tns:database>

@@ -1,0 +1,1459 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="guide">
+
+<!-- ******LS202504前期引导****** -->
+<!-- 【【【【【【【【【【【【【此处有调整，塔防引导开始为老服第一次通过活动进入塔防出现该引导】】】】】】】】】】】】】 -->
+<!-- 塔防引导 -->
+
+<!-- ******第一关塔防引导****** -->
+<!-- 建造1个防御塔 -->
+<ItemSpec id="30003355" next="30003356" sidePlot="111000502" enforce="1" area="FBMapObjCombiUI_mbtn3" showFinger="1" notAllowBreak="1" hideLayer="1" hideKuang="1" click="5" clickCntDelay="1"/>
+<!-- 建造1个防御塔 -->
+<ItemSpec id="30003356" next="30003357" sidePlot="111000506" enforce="1" area="FBMapObjCombiUI_mbtn3" showFinger="1" notAllowBreak="1" hideLayer="1" hideKuang="1" click="5" clickCntDelay="1"/>
+<!-- 等待一秒 -->
+<ItemSpec id="30003357" next="30004359" notAllowBreak="1" sidePlot="111000503" enforce="1" hideLayer="1" arrow="2" lag="0.1" closeAllPop="0"/>
+<!--合2级炮塔 -->
+<ItemSpec id="30004359" next="30004360" cartoon="ShowUpgradeTurretGuideHand" sidePlot="111000507" soft="1" softActType="" para1="1_20001_isWorld"/>
+<!-- 等待一秒 -->
+<ItemSpec id="30004360" next="30004361" notAllowBreak="1" sidePlot="111000503" enforce="1" hideLayer="1" arrow="2" lag="0.1" closeAllPop="0"/>
+<!-- 将防御塔置于空位，即可[color=FF51d954]自动攻击[/color] -->
+<ItemSpec id="30004361" next="30004362" sidePlot="111000503" para1="0_20001_-1" cartoon="ShowPlaceTurretGuideHand" soft="1"/>
+<!-- 结束 -->
+<ItemSpec id="30004362" next="" cartoon="saveGuideRecord" para1="GUIDE_SAVE_TD_STAGE1_GUIDE" para2="1" para3="1" lag="0"/>
+
+<!-- ******第二关塔防引导****** -->
+<!-- 检测塔的个数决定执行哪一步 -->
+
+<ItemSpec id="30004365" next="30004366" sidePlot="111000509" arrow="2" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 等待一秒 -->
+<ItemSpec id="30004366" next="30004370" sidePlot="111000511" arrow="2" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 结束 -->
+<ItemSpec id="30004370" next="" cartoon="saveGuideRecord" para1="GUIDE_SAVE_TD_STAGE2_GUIDE" para2="1" para3="1" lag="0"/>
+<!-- 快合成一个四级炮塔 -->
+<ItemSpec id="30004371" next="" sidePlot="111000513" arrow="2" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+
+<!-- ******第三关塔防引导****** -->
+<!-- 解锁了一个新的位置，购买并放置炮塔在新的位置上吧！ -->
+<ItemSpec id="30003372" next="30003373" sidePlot="111000514" enforce="1" area="FBMapObjCombiUI_mbtn3" showFinger="1" notAllowBreak="1" hideLayer="1" hideKuang="1" click="5" clickCntDelay="1" />
+<!-- 等待一秒 -->
+<ItemSpec id="30003373" next="30003374" arrow="2" lag="0.1" hideLayer="1" enforce="1" notAllowBreak="1" closeAllPop="0"/>
+<!-- 将炮塔拖到新的位置上，提升战斗能力 -->
+<ItemSpec id="30003374" next="30004377" cartoon="ShowPlaceTurretGuideHand" sidePlot="111000515" soft="1" softActType="" para1="0_20001_-1" />
+<!-- 结束 -->
+<ItemSpec id="30004377" next="" cartoon="saveGuideRecord" para1="GUIDE_SAVE_TD_STAGE3_GUIDE" para2="1" para3="1" lag="0"/>
+<!-- 巨大的丧尸来袭购买炮塔进行升级，提升自己的战力吧，靠你了指挥官 -->
+<ItemSpec id="30004375" next="" sidePlot="111000516" arrow="2" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 上阵的炮塔可以互换位置，利用小技巧抵抗强大的僵尸吧 -->
+<ItemSpec id="30004376" next="" cartoon="ShowPlaceTurretGuideHandNew" sidePlot="111000517" soft="1" softActType="" para1="2_20002_isWorld" />
+
+<!-- ******第一次塔防引导结束****** -->
+<!-- 镜头推进 -->
+<ItemSpec id="30003375" next="" lag="1" enforce="1" hideKuang="1" soft="FocusOnBossDead"/>
+<!-- 播放BOSS死亡动画 -->
+<ItemSpec id="30003376" next="30003377" lag="2" enforce="1" hideKuang="1" soft="PlayBossDeadAni"/>
+<!-- 【艾达】：最后一只……我们做到了！避难所安全了 -->
+<ItemSpec id="30003377" next="30003378" plot="110085202" enforce="1" area="plot_continue" closeAllPop="1" notAllowBreak="1" hideLayer="1" arrow="0"/>
+<!-- 屏幕闪红 -->
+<ItemSpec id="30003378" next="30003379" cartoon="FlashRedLight" lag="3" enforce="1" closeAllPop="1" notAllowBreak="1" fbTouchHandler="1" hideLayer="1"/>
+<!-- 【艾达】：等等……那是什么声音？ -->
+<ItemSpec id="30003379" next="30003380" plot="110085203" enforce="1" area="plot_continue" closeAllPop="1" notAllowBreak="1" hideLayer="1" arrow="0"/>
+<!-- 摄像机平移到门口处（1s），看到一群丧尸BOSS源源不断地涌过来（3只BOSS+很多小怪，3s） -->
+<ItemSpec id="30003380" next="30003381" cartoon="MoveToDoor" lag="6" enforce="1" hideKuang="1"/>
+<!-- 【艾达】：哦，不…… -->
+<ItemSpec id="30003381" next="30003382" plot="110085204" enforce="1" area="plot_continue" closeAllPop="1" notAllowBreak="1" hideLayer="1" arrow="0"/>
+<!-- 镜头逐渐变黑 -->
+<ItemSpec id="30003382" next="30003383" cartoon="BlacCurtain" lag="4" enforce="1" closeAllPop="1" notAllowBreak="1" fbTouchHandler="1" hideLayer="1"/>
+
+
+<!-- ******守望logo展示****** -->
+<!-- 播放守望LOGO动画,LOGO渐隐消失，屏幕中心出现提示文字：一周后......（3s），屏幕渐黑消失 -->
+<ItemSpec id="30003383" next="30003384" cartoon="PlayLSLogoAnim" lag="10" enforce="1" closeAllPop="1" notAllowBreak="1" fbTouchHandler="1" hideLayer="1"/>
+<!-- 返回主城 -->
+<ItemSpec id="30003384" next="" enforce="1" lag="0.2" cartoon="GotoMainScene" closeAllPop="1"/>
+
+<!-- 峡谷塔防1关结束引导 -->
+<ItemSpec id="20251000" next="20251001" cartoon="saveGuideRecord" para1="EnterTDSceneFlag" para2="0" para3="1" lag="0" notResetTD="1"/>
+<ItemSpec id="20251001" next="" enforce="1" lag="0.2" cartoon="GotoMainScene" closeAllPop="1" notResetTD="1"/>
+
+
+<!-- ******大招解锁引导****** -->
+<!-- 解锁大招UI，播放一次大招充能完成的动画 -->
+<ItemSpec id="30003385" next="30003386" cartoon="PlaySkillChargeEndAnim" lag="0.5" enforce="1" closeAllPop="1" notAllowBreak="1" fbTouchHandler="1" hideLayer="1"/>
+<!-- 发射毁灭炮弹，一击必杀（引导玩家点击使用） -->
+<ItemSpec id="30003386" next="30003387" sidePlot="110085262" enforce="1" area="FBMapObjCombiUI_missileChargeNode" showFinger="1" notAllowBreak="1" hideLayer="1" hideKuang="1" click="5" clickCntDelay="1"/>
+<!-- 击杀丧尸可以获取能量，充能完成即可再次释放！ -->
+<ItemSpec id="30003387" next="" arrow="2" hideLayer="1" enforce="1" sidePlot="110085263"/>
+
+
+<!-- ******自动合成引导****** -->
+<!-- 解锁自动合成UI，发放一个自动合成道具给玩家 -->
+<ItemSpec id="30003388" next="30003389" cartoon="UnlockAutoUpgrade" lag="0.5" enforce="1" closeAllPop="1" notAllowBreak="1" fbTouchHandler="1" hideLayer="1"/>
+<!-- 使用自动合成道具后，可以开启自动合成功能，解放双手！（引导玩家点击使用） -->
+<ItemSpec id="30003389" next="" sidePlot="110085264" enforce="1" area="FBMapObjCombiUI_mbtn5" showFinger="1" notAllowBreak="1" hideLayer="1" hideKuang="1" click="5" clickCntDelay="1"/>
+
+<!-- ******出售引导****** -->
+<!-- 不需要的防御塔可以拖到这里出售，点击任意位置关闭引导 -->
+<ItemSpec id="30003391" next="30003392" cartoon="ShowRecycleTowerAnim" sidePlot="110085260" soft="1" softActType="" closeAllPop="1"/>
+<!-- 隐藏提示动画 -->
+<ItemSpec id="30003392" next="" cartoon="ClearRecycleTowerAnim" enforce="1" lag="0.5"/>
+
+<!-- ******开始塔位升级引导****** -->
+<!--  -->
+<ItemSpec id="30003393" next="30003394" plot="110085269" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 点击塔防-设定 -->
+<ItemSpec id="30003394" next="30003395" enforce="1" area="FBMapObjCombiUI_mbtn1" showFinger="1" fingerPosY="40" notAllowBreak="1" hideLayer="1" hideKuang="1" click="5" clickCntDelay="1"/>
+<!-- 点击塔位 -->
+<ItemSpec id="30003395" next="30003396" enforce="1" area="FBTDUnlockBuildLevelView_touchNode2" showFinger="1" fingerPosY="40" notAllowBreak="1" hideLayer="1" hideKuang="1" click="5" clickCntDelay="1"/>
+<!-- 点击塔位-升级 -->
+<ItemSpec id="30003396" next="30003397" enforce="1" area="FBTDUnlockBuildLevelChildView_upLevel" showFinger="1" fingerPosY="40" notAllowBreak="1" hideLayer="1" hideKuang="1" click="5" clickCntDelay="1"/>
+<!-- 点击关闭 -->
+<ItemSpec id="30003397" next="30003398" enforce="1" area="FBTDUnlockBuildLevelChildView_closeNode" showFinger="1" fingerPosY="40" notAllowBreak="1" hideLayer="1" hideKuang="1" click="5" clickCntDelay="1"/>
+<!-- 点击返回 -->
+<ItemSpec id="30003398" next="" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FBTDUnlockBuildLevelView_returnBtn" arrowAngle="315" notAllowBreak="1"/>
+
+
+
+<!-- ******内城引导****** -->
+
+<!-- ******车开进来****** -->
+<!-- 设置UI状态 -->
+<ItemSpec id="30000000" next="10230001" enforce="1" lag="0.0" cartoon="showUIState_1" closeAllPop="1" notAllowBreak="1"/>
+<!-- 闪断恢复 -->
+<ItemSpec id="10230001" next="20250045" cartoon="saveGuideRecord" para1="NetworkOutageGuide" para2="20250045" para3="1" lag="0"/>
+<!-- 设置道路破损 -->
+<ItemSpec id="20250045" next="20250040" cartoon="saveGuideRecord" para1="addDamagedRoad" para2="1" para3="1" lag="0" />
+<!-- 设置道路破损 -->
+<ItemSpec id="20250040" next="10230002" cartoon="addDamagedRoad" lag="0" />
+
+<!-- 剧情演绎僵尸2 -->
+<ItemSpec id="10230002" next="10230006" lag="0" cartoon="addZombieInArea" para1="18|19|20|26|34|36|35|29|30|21|37" para2="50" para3="1" para4="3"/>
+<!--刷新丧尸 para1间隔多少秒刷新一批丧尸 para2每批丧尸随机刷新的数量（nmin;nmax） para3刷新地点区域（极坐标）：丧尸移动目标点（城建地块坐标x;y）,刷新距离随机范围（rmin|rmax）,角度随机范围（θmin|θmax） para4丧尸速度区间（vmin;vmax）para5丧尸缩放尺寸，默认是1.2-->
+<ItemSpec id="10230006" next="10230004" cartoon="RefreshZombie" lag="0" para1="1.6" para2="3;5" para3="30.7;26.7|50;840;1200|255;360" para4="60;90"/>
+<!-- 开始车动画 -->
+<ItemSpec id="10230004" next="20250007" enforce="1" cartoon="ShowNewShiftCar" lag="5.0" closeAllPop="1" notAllowBreak="1"/>
+<!-- 返回后刷车 -->
+<ItemSpec id="20250007" next="10230005" cartoon="saveGuideRecord" para1="ShowNewShiftCarEnd" para2="1" para3="1" lag="0"/>
+<!-- 镜头移动到格子 -->
+<ItemSpec id="10230005" next="10230007" enforce="1" lag="1.2" cartoon="JumpToTile" para1="29.6;25.4" para3="0.84" notAllowBreak="1"/>
+
+
+
+<!-- 指挥官：根据求救信号的定位，这里就是82号基地了。 -->
+<ItemSpec id="10230007" next="10230008" plot="100030001" arrow="0" area="plot_continue" enforce="1" hideLayer="1" closeAllPop="1" notAllowBreak="1"/>
+<!-- 添加士兵 -->
+<ItemSpec id="10230008" next="10230010" lag="0.0" cartoon="AddSoldierAttack" para1="29,26" para2="30,27" para3="100,0" para4="3" para6="0" para7="-16;120;60" para8="180" para9="540"/>
+<!-- 尼克：头儿，这附近全是生化人，我们没有办法停留太久！ -->
+<ItemSpec id="10230010" next="10230011" plot="100030002" arrow="0" area="plot_continue" enforce="1" hideLayer="1" closeAllPop="1" notAllowBreak="1"/>
+<!-- 镜头移动到格子 -->
+<ItemSpec id="10230011" next="10230012" enforce="1" lag="1.6" cartoon="JumpToTile" para1="33.1;27.3" para3="0.92" notAllowBreak="1"/>
+<!-- 添加士兵 -->
+<ItemSpec id="10230012" next="10231016" lag="0.4" cartoon="AddSoldierAttack" para1="29,26" para2="30,26" para3="120,10" para4="3" para6="0" para7="-16;120;60" para8="180" para9="360"/>
+<!-- 闪断恢复 -->
+<ItemSpec id="10231016" next="10231017" cartoon="saveGuideRecord" para1="NetworkOutageGuide" para2="10250015" para3="1" lag="0.0"/>
+<!-- 设置断点 -->
+<ItemSpec id="10231017" next="10231018" cartoon="saveGuideRecord" para1="ReturnMineSceneGuid" para2="10230005" para3="1" lag="0.0"/>
+<!-- 镜头略微上移 -->
+<ItemSpec id="10231018" next="10231019" enforce="1" lag="1.6" cartoon="JumpToTile" para1="33.1;27.3" para3="0.8" notAllowBreak="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="10231019" next="10230014" arrow="2" lag="2" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 90580000  半身像对话 -->
+<ItemSpec id="10230014" next="10230015" plot="100030003" arrow="0" area="plot_continue" enforce="1" hideLayer="1" closeAllPop="1" notAllowBreak="1"/>
+<!-- 闪烁警灯 -->
+<ItemSpec id="10230015" next="10230016" enforce="1" lag="0.1" cartoon="showAlarmLight" notAllowBreak="1"/>
+<!-- 镜头移动到格子 -->
+<ItemSpec id="10230016" next="10230019" enforce="1" lag="1" cartoon="JumpToTile" para1="31.2;26.2" para3="1" notAllowBreak="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="10230019" next="10230017" arrow="2" lag="0.6" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 瞧这些破烂的铁丝网，[color=FF51d954]修好[/color]它们才能守住这里。 -->
+<ItemSpec id="10230017" next="10250009" arrow="2" enforce="1"  hideLayer="1" hideKuang="1" sidePlot="100030004" notAllowBreak="1"/>
+
+
+<!-- 闪断恢复 -->
+<ItemSpec id="10250015" next="10250007" cartoon="saveGuideRecord" para1="NetworkOutageGuide" para2="0" para3="1" lag="0.0"/>
+<!-- 镜头移动到格子 -->
+<ItemSpec id="10250007" next="10250009" enforce="1" lag="0" cartoon="JumpToTile" para1="31;26" para3="0.92" notAllowBreak="1"/>
+
+<!-- ******造墙****** -->
+<!--添加气泡 para1 坐标 para2点击后引导，para3进度走完引导,para4气泡图标-->
+<ItemSpec id="10250009" next="10250011" lag="0.1" cartoon="AddPointBubble" para1="31,26" para2="" para3="10250012" para4="spine_AreaMonsterAttack" para5="4" para6="fence" para7="-50,50" para8="0" para9="36;37" para10="1"/>
+<!-- 点击修复按钮 -->
+<ItemSpec id="10250011" next="" click="5" clickCntDelay="1" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" arrowScale="1" circleScale="1.05" offsetPos="14;13" area="bubble_fence" notAllowBreak="1"/>
+<!-- 设置返回主场景位置 -->
+<ItemSpec id="10250012" next="10250013" cartoon="returnMineSceneShowPos" para1="31|26" para2="0.8" lag="0"/>
+<!-- 设置断点 -->
+<ItemSpec id="10250013" next="10250014" cartoon="saveGuideRecord" para1="ReturnMineSceneGuid" para2="10251000" para3="1" lag="0.0"/>
+<!-- 闪断恢复 -->
+<ItemSpec id="10250014" next="10250016" cartoon="saveGuideRecord" para1="EnterTDSceneFlag" para2="1" para3="1" lag="0.0"/>
+<!-- 进入峡谷塔防 -->
+<ItemSpec id="10250016" next="" cartoon="enterArrowTowerTDScene" lag="0"/>
+
+<!-- 设置断点 -->
+<ItemSpec id="10251000" next="20250009" cartoon="saveGuideRecord" para1="ReturnMineSceneGuid" para2="10250008" para3="1" lag="0.0"/>
+<!-- 闪断恢复 -->
+<ItemSpec id="20250009" next="10250008" cartoon="saveGuideRecord" para1="NetworkOutageGuide" para2="10250008" para3="1" lag="0.0"/>
+<!-- 镜头移动到格子 -->
+<ItemSpec id="10250008" next="10230013" enforce="1" lag="0" cartoon="JumpToTile" para1="31;26" para3="0.92" notAllowBreak="1"/>
+<!--添加气泡 para1 坐标 para2点击后引导，para3进度走完引导,para4气泡图标,para5气泡读条的时间，para8间隔多久开始读条-->
+<ItemSpec id="10230013" next="10230021" lag="0.1" cartoon="AddPointBubble" para1="31,26" para2="" para3="10250111" para4="icon_chuizi" para5="3.2" para6="fence" para7="-52,24" para8="0.4" para9="36;0"/>
+<!-- 闪断恢复 -->
+<ItemSpec id="10230021" next="10230022" cartoon="saveGuideRecord" para1="NetworkOutageGuide" para2="0" para3="1" lag="0.0"/>
+<!-- 剧情演绎僵尸1 -->
+<ItemSpec id="10230022" next="10230018" lag="0" cartoon="addZombieInArea" para1="28" para2="20" para3="1" para4="3" para6="1.5"/>
+<!-- 剧情演绎僵尸2 -->
+<ItemSpec id="10230018" next="10251001" lag="0" cartoon="addZombieInArea" para1="18|19|20|36|35|29|30|21|37" para2="40" para3="1" para4="3" para6="1.5"/>
+<!-- 添加士兵 -->
+<ItemSpec id="10251001" next="10251002" lag="0.0" cartoon="AddSoldierAttack" para1="30,27" para2="30,27" para3="100,0" para4="3" para6="0" para7="-16;120;60" para8="180" para9="540" para10="0"/>
+<!-- 添加士兵 -->
+<ItemSpec id="10251002" next="10251003" lag="0.0" cartoon="AddSoldierAttack" para1="30,26" para2="30,26" para3="120,10" para4="3" para6="0" para7="-16;120;60" para8="180" para9="390" para10="0"/>
+<!--刷新丧尸 para1间隔多少秒刷新一批丧尸 para2每批丧尸随机刷新的数量（nmin;nmax） para3刷新地点区域（极坐标）：丧尸移动目标点（城建地块坐标x;y）,刷新距离随机范围（rmin;rmax）,角度随机范围（θmin;θmax） para4丧尸速度区间（vmin;vmax）--> 
+<ItemSpec id="10251003" next="10251004" cartoon="RefreshZombie" lag="0" para1="2" para2="3;6" para3="30;26|50;660;900|255;350" para4="60;100"/>
+<!-- 工程师去修复围墙 -->
+<ItemSpec id="10251004" next="10250300" enforce="1" cartoon="ShowWorkerRunToFence" lag="1.6" speed="1.0" para1="30;26" para2="30.7;26" closeAllPop="1" notAllowBreak="1"/>
+<!-- 气泡播放 -->
+<ItemSpec id="10250300" next="" cartoon="PlayPointBubble" para1="fence" notAllowBreak="1"/>
+<!-- 车动画结束 -->
+<ItemSpec id="10250111" next="10231021" enforce="1" cartoon="ShowNewShiftCarEnd" lag="0.0" closeAllPop="1" notAllowBreak="1"/>
+<!-- 镜头拉高 -->
+<ItemSpec id="10231021" next="10250112" enforce="1" lag="2" cartoon="JumpToTile" para1="31;26" para3="0.7" notAllowBreak="1"/>
+<!-- 车动画结束 -->
+<ItemSpec id="10250112" next="10250113" cartoon="saveGuideRecord" para1="ShowNewShiftCarEnd" para2="2" para3="1" lag="0"/>
+<!--停止刷新丧尸-->
+<ItemSpec id="10250113" next="10230023" cartoon="RefreshZombie" lag="0" para1="0" para2="0;0"/>
+<!--修理栅栏-->
+<ItemSpec id="10230023" next="10230024" cartoon="FixFence" lag="2" para1="0"/>
+<!-- 闪断恢复 -->
+<ItemSpec id="10230024" next="10230025" cartoon="saveGuideRecord" para1="NetworkOutageGuide" para2="10230028" para3="1" lag="0.0"/>
+<!-- 隐藏警灯 -->
+<ItemSpec id="10230025" next="10230026" enforce="1" lag="0.5" cartoon="hideAlarmLight" notAllowBreak="1"/>
+<!-- 干的漂亮 -->
+<ItemSpec id="10230026" next="10230028" plot="140000003" arrow="0" area="plot_continue" enforce="1" hideLayer="1" closeAllPop="1" notAllowBreak="1"/>
+
+
+
+<!-- ******修车库****** -->
+<!-- 闪断恢复 -->
+<ItemSpec id="10230028" next="10251005" cartoon="saveGuideRecord" para1="NetworkOutageGuide" para2="10251005" para3="1" lag="0.0"/>
+<!-- 尼克，搜索下四周 -->
+<ItemSpec id="10251005" next="10230099" plot="100030005" arrow="0" area="plot_continue" enforce="1" hideLayer="1" closeAllPop="1" notAllowBreak="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="10230099" next="10230097" arrow="2" lag="0.6" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 镜头聚焦破损车库 -->
+<ItemSpec id="10230097" next="10230098" enforce="1" lag="1.2" cartoon="JumpToTile" para1="28.6;28.6" para3="1" notAllowBreak="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="10230098" next="10230029" arrow="2" lag="0.8" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 头，左边有个车库 -->
+<ItemSpec id="10230029" next="10230030" plot="100030026" arrow="0" area="plot_continue" enforce="1" hideLayer="1" closeAllPop="1" notAllowBreak="1"/>
+<!-- 加固一下 -->
+<ItemSpec id="10230030" next="10230031" plot="100030027" arrow="0" area="plot_continue" enforce="1" hideLayer="1" closeAllPop="1" notAllowBreak="1"/>
+<!--士兵回到坦克 para2镜头是否跟随，1不移动 空或者其他移动-->
+<ItemSpec id="10230031" next="10251006" cartoon="BackSolider" lag="0" para1="29;26" para2="1"/>
+<!-- 车库头顶气泡 -->
+<ItemSpec id="10251006" next="10230032" lag="0.5" cartoon="AddPointBubble" para1="29,29" para2="10231033" para3="10230034" para4="icon_chuizi" para5="1.5" para6="garbage" para7="10,100" para8="2.5" para9="32;-13"/>
+<!-- 点击气泡 -->
+<ItemSpec id="10230032" next="" click="5" arrowScale="1" circleScale="1.05" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="45" offsetPos="10;0" area="bubble_garbage" notAllowBreak="1"/>
+<!-- 气泡动画延迟 -->
+<ItemSpec id="10231033" next="10230027" arrow="2" lag="0.3" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!--检查丧尸是否死干净-->
+<ItemSpec id="10230027" next="10230033" cartoon="WaitEvent" lag="0" para1="ZombieOver"/>
+<!-- 工程师跑向车库 -->
+<ItemSpec id="10230033" next="" enforce="1" cartoon="ShowWorkerRunToGarage" speed="1.8" para1="30;27" para2="29;29" para3="tom" closeAllPop="1" notAllowBreak="1"/>
+<!-- 车库变样 -->
+<ItemSpec id="10230034" next="10230035" lag="0.0" cartoon="OccupyGarage"/>
+<!-- 闪断恢复 -->
+<ItemSpec id="10230035" next="10230036" cartoon="saveGuideRecord" para1="NetworkOutageGuide" para2="10231037" para3="1" lag="0.0"/>
+<!-- 飞行拖尾特效 -->
+<ItemSpec id="10230036" next="10230038" enforce="1" lag="1.5" cartoon="show_flyEffect" para1="443000" notAllowBreak="1" closeAllPop="1"/>
+<!-- 瞧这些破烂的铁丝网，[color=FF51d954]修好[/color]它们才能守住这里。 -->
+<ItemSpec id="10230038" next="10231037" arrow="2" enforce="1"  hideLayer="1" hideKuang="1" sidePlot="140000005" notAllowBreak="1"/>
+
+
+<!-- ******避难所开门****** -->
+<!-- 跳到大本 -->
+<ItemSpec id="10231037" next="10230040" enforce="1" lag="0.8" cartoon="JumpToTile" para1="27.3;26.9" para3="1" notAllowBreak="1"/>
+<!-- 出现感叹号 -->
+<ItemSpec id="10230040" next="10230041" enforce="1" lag="1.6" cartoon="PopupMark" closeAllPop="1" notAllowBreak="1"/>
+<!-- 半身像对话： -->
+<ItemSpec id="10230041" next="10231038" arrow="2" enforce="1" hideLayer="1" hideKuang="1" sidePlot="140000006" notAllowBreak="1"/>
+<!-- 节奏控制，等一秒 -->
+<ItemSpec id="10231038" next="10230039" arrow="2" lag="0.6" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 小黑人跑向大本 -->
+<ItemSpec id="10230039" next="10230037" enforce="1" cartoon="ShowHeroRunToBase" lag="0.1" closeAllPop="1" notAllowBreak="1"/>
+<!-- 跳到大本 -->
+<ItemSpec id="10230037" next="10231039" enforce="1" lag="2" cartoon="JumpToTile" para1="26.2;26.4" para3="1.16" notAllowBreak="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="10231039" next="10231040" arrow="2" lag="01" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 保持安静，我要打开这扇门 -->
+<ItemSpec id="10231040" next="10230042" plot="140000007" arrow="0" area="plot_continue" enforce="1" hideLayer="1" closeAllPop="1" notAllowBreak="1"/>
+<!-- 节奏控制，等一秒 -->
+<ItemSpec id="10230042" next="10230043" arrow="2" lag="0.6" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 大本头顶气泡 -->
+<ItemSpec id="10230043" next="10230044" lag="0.2" cartoon="AddPointBubble" para1="25,26" para2="10230084" para3="10230046" para4="icon_chuizi" para6="base" para5="1.5" para7="25,-30" para8="0.5" para9="34;-13" notAllowBreak="1"/>
+<!-- 设置大本不可点击 避免点击气泡时点到大本 -->
+<ItemSpec id="10230044" next="20250046" cartoon="saveGuideRecord" para1="NotTouchMainCity" para2="1" para3="2" lag="0.1" notAllowBreak="1"/>
+<!-- 点击气泡 -->
+<ItemSpec id="20250046" next="" click="5" arrowScale="1" circleScale="1.05" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="45" offsetPos="10;0" area="bubble_base" notAllowBreak="1"/>
+
+<!-- 无具体作用，去掉引导箭头提示 -->
+<ItemSpec id="10230084" next="" arrow="2" lag="4.5" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1" notRecord="1"/>
+
+<!-- 开门动画 -->
+<ItemSpec id="10230046" next="10230045" enforce="1" cartoon="ShowOpenDoor" lag="0" closeAllPop="1" notAllowBreak="1"/>
+<!-- 跳到建筑 -->
+<ItemSpec id="10230045" next="10230047" enforce="1" lag="2" cartoon="JumpToTile" para1="26.2;26.4" para3="1.32" notAllowBreak="1"/>
+<!-- 设置建筑和UI可以点击 -->
+<ItemSpec id="10230047" next="10230048" enforce="1" lag="2.5" cartoon="SetBuildAndUICanClick" closeAllPop="1" notAllowBreak="1"/>
+<!-- 90580005  谢天谢地，总算有人来了！请帮帮我们，基地已经没有食物和弹药了。 -->
+<ItemSpec id="10230048" next="10230049" plot="110085211" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" closeAllPop="1"/>
+<!-- 110010087  发生了什么？根据情报这里应该是组织建设得最完善的军事基地。 -->
+<ItemSpec id="10230049" next="10230050" plot="110085212" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 110010088  一切都被尸潮淹没了……那真是一场噩梦，活下来的只有我们这些人。 -->
+<ItemSpec id="10230050" next="10230051" plot="110085213" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 110010084  十分遗憾。不过放心吧，我们会重建这里。 -->
+<ItemSpec id="10230051" next="10230052" plot="110085214" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 搬东西动画 -->
+<ItemSpec id="10230052" next="10230053" enforce="1" cartoon="ShowBaseMoveBox" lag="0.0" closeAllPop="1" notAllowBreak="1"/>
+<!-- 跳到建筑大本 -->
+<ItemSpec id="10230053" next="10230054" enforce="1" lag="1" cartoon="JumpToTile" para1="26;26" para3="0.62" notAllowBreak="1"/>
+<!-- 士兵回到坦克 para2镜头是否跟随，1不移动 空或者其他移动-->
+<ItemSpec id="10230054" next="10230055" cartoon="BackSolider" lag="0.0" para1="28;26" para2="1"/>
+<!-- 坦克回到车库 -->
+<ItemSpec id="10230055" next="10230056" cartoon="BackShiftCar" lag="0.0"/>
+
+
+<!-- ******升级大本****** -->
+<!-- 检查建筑 -->
+<ItemSpec id="10230056" next="" cartoon="CheckBuildState" para1="400000" para2="" para3="10230057" para4="10230071" lag="1"/>
+
+<!-- 设置断点 -->
+<ItemSpec id="10230057" next="10230058" cartoon="saveGuideRecord" para1="ReturnMineSceneGuid" para2="10230056" para3="1" lag="0"/>
+<!-- 等一秒 -->
+<ItemSpec id="10230058" next="10230059" arrow="2" lag="0.1" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 大本头顶气泡 -->
+<ItemSpec id="10230059" next="10230060" lag="0.2" cartoon="AddPointBubble" scale="1.8" para1="25,26" para2="10230064" para3="10230065" para4="icon_chuizi" para6="base" para5="1.5" para7="25,-30" para8="0.5" para9="34;-13" notAllowBreak="1"/>
+<!-- 设置大本不可点击 避免点击气泡时点到大本 -->
+<ItemSpec id="10230060" next="10230061" cartoon="saveGuideRecord" para1="NotTouchMainCity" para2="1" para3="2" lag="0.1" notAllowBreak="1"/>
+<!-- 点击气泡 -->
+<ItemSpec id="10230061" next="" click="5" arrowScale="1" circleScale="1.05" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="45" offsetPos="10;0" area="bubble_base" notAllowBreak="1" notMoveMap="1"/>
+
+<!-- 等一秒 -->
+<ItemSpec id="10230064" next="" arrow="2" lag="0.5" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+
+<!-- 闪断恢复 -->
+<ItemSpec id="10230065" next="10230066" cartoon="saveGuideRecord" para1="NetworkOutageGuide" para2="0" para3="1" lag="0"/>
+<!-- 设置大本可点击 -->
+<ItemSpec id="10230066" next="20250067" cartoon="saveGuideRecord" para1="NotTouchMainCity" para2="0" para3="2" lag="0.0" notAllowBreak="1"/>
+<!-- 设置不亮灯 -->
+<ItemSpec id="20250067" next="20250068" cartoon="saveGuideRecord" para1="GuideNotShowRoadLight" para2="1" para3="2" lag="0.0"/>
+<!-- 节奏控制，等一秒 -->
+<ItemSpec id="20250068" next="20250069" arrow="2" lag="0.3" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 修理大本 镜头不跟车 -->
+<ItemSpec id="20250069" next="20250070" cartoon="UpgradeFunBuild" lag="2" para1="400000" />
+<!-- 恢复恢复设置道路破损 -->
+<ItemSpec id="20250070" next="20250071" cartoon="saveGuideRecord" para1="addDamagedRoad" para2="0" para3="1" lag="0" />
+<!-- 破损道路恢复正常 -->
+<ItemSpec id="20250071" next="10240216" cartoon="resetDamagedRoad" lag="0"/>
+
+
+
+<!-- 检查是否开启地表变化 -->
+<ItemSpec id="10240216" next="" cartoon="checkGroundChange" para1="10240217" para2="10230071"/>
+
+
+<!-- 等一秒 -->
+<ItemSpec id="10230071" next="10230067" arrow="2" lag="0.3" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 无线电：基地暂时安全了 -->
+<ItemSpec id="10230067" next="10230068" arrow="2" hideLayer="1" enforce="1" sidePlot="110085217"/>
+
+
+<!-- ******解锁地块引导****** -->
+<!-- 等一秒 -->
+<ItemSpec id="10230068" next="10230069" arrow="2" lag="0.0" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 设置天黑 -->
+<ItemSpec id="10230069" next="10230070" enforce="1" cartoon="SetNight" lag="1.2" closeAllPop="1" notAllowBreak="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="10230070" next="10230074" arrow="2" lag="0.6" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 故事 -->
+<ItemSpec id="10230074" next="30001200" cartoon="storyboard" cartoonType="8" enforce="1"/>
+
+
+<!-- ******解锁地块引导****** -->
+<!-- 检查地块解锁 -->
+<ItemSpec id="30001200" next="" cartoon="CheckAreaState" para1="35" para2="10240210" para3="10240530"/>
+
+<!-- 设置解锁第二块地的引导标记 -->
+<ItemSpec id="10240210" next="10240211" cartoon="saveGuideRecord" para1="UnLockArea35" para2="1" lag="0.7"/>
+<!-- 90580020   头儿，天黑了，防线上需要照明。 -->
+<ItemSpec id="10240211" next="30001204" plot="110085220" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 90580021 如果能占领西边的[color=FF51d954]发电厂[/color]，电力供给就不成问题了。 -->
+<ItemSpec id="30001204" next="10240204" plot="100030006" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="10240204" next="10240205" arrow="2" lag="0.4" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 移动到35号区域 -->
+<ItemSpec id="10240205" next="10240212" cartoon="JumpToTile" hideLayer="1" para1="26.1;33.8" para2="1" para3="0.7" lag="1.4"/>
+<!-- 等一秒 -->
+<ItemSpec id="10240212" next="10240310" arrow="2" lag="0.4" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 检查地块解锁 -->
+<ItemSpec id="10240310" next="" cartoon="CheckAreaState" para1="35" para2="10240206" para3="30001220"/>
+<!-- 框选锁 -->
+<ItemSpec id="10240206" next="10240207" arrow="0" area="FreeSceneArea_35" enforce="1" showFinger="1" click="1" clickCntDelay="8" fingerPosY="40" hideLayer="1" hideKuang="1" notMoveMap="1" notAllowBreak="1"/>
+<!-- 等待一秒 -->
+<ItemSpec id="10240207" next="10240208" arrow="2" lag="0.5" hideLayer="1" enforce="1" notAllowBreak="1"/>
+<!-- 框选解锁按钮 -->
+<ItemSpec id="10240208" next="10240209" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" click="3" clickCntDelay="1" area="FreeUnlockView_confirm" notAllowBreak="1"/>
+<!-- 瞬移镜头 -->
+<ItemSpec id="10240209" next="10240400" cartoon="JumpToTile" hideLayer="1" para1="26;33.2" para2="1" para3="0.72" lag="0.0"/>
+<!-- 等待一秒 -->
+<ItemSpec id="10240400" next="10240401" arrow="2" lag="0.2" hideLayer="1" enforce="1" notAllowBreak="1"/>
+<!-- 检查地块解锁 -->
+<ItemSpec id="10240401" next="" cartoon="CheckAreaState" para1="35" para2="10240220" para3="10240403"/>
+<!-- 设置断点 -->
+<ItemSpec id="10240403" next="10240404" cartoon="saveGuideRecord" para1="ReturnMineSceneGuid" para2="30001220" para3="1" lag="1.2"/>
+<!-- 隐藏丧尸 -->
+<ItemSpec id="10240404" next="10240405" cartoon="removeZombieInArea" para1="35" para2="30" lag="0" para3="1" para4="3" arrow="2"/>
+<!-- 移动到35号区域 -->
+<ItemSpec id="10240405" next="10240406" enforce="1" lag="1.8" cartoon="JumpToTile" para1="26;33" para3="0.4" notAllowBreak="1"/>
+<!-- 等待一秒 -->
+<ItemSpec id="10240406" next="10240407" arrow="2" lag="6.7" hideLayer="1" enforce="1" notAllowBreak="1"/>
+<!-- 跳到格子5秒 -->
+<ItemSpec id="10240407" next="10240410" enforce="1" lag="1.0" cartoon="JumpToTile" para1="27;32" para3="0.5" notAllowBreak="1"/>
+<!-- 等待一秒 -->
+<ItemSpec id="10240410" next="30001220" arrow="2" lag="1.6" hideLayer="1" enforce="1" notAllowBreak="1"/>
+
+
+<!-- ******解锁第二块地的引导失败****** -->
+<ItemSpec id="10240220" next="10240205" arrow="2" lag="1" hideLayer="1" enforce="1" closeAllPop="1"/>
+
+
+<!-- ******造路引导****** -->
+<!-- 自动建造道路 -->
+<ItemSpec id="30001220" next="10240457" lag="0.5" cartoon="CreatFreeRoad" para1="28;32" notAllowBreak="1"/>
+<!-- 自动建造道路 -->
+<ItemSpec id="10240457" next="10240459" lag="0.5" cartoon="CreatFreeRoad" para1="28;33" notAllowBreak="1"/>
+<!-- 自动建造道路 -->
+<ItemSpec id="10240459" next="10240460" lag="0.5" cartoon="CreatFreeRoad" para1="28;34" notAllowBreak="1"/>
+<!-- 等待一秒 -->
+<ItemSpec id="10240460" next="10240461" arrow="2" lag="0.4" hideLayer="1" enforce="1" notAllowBreak="1"/>
+<!-- 播放亮灯效果 -->
+<ItemSpec id="10240461" next="10240462" enforce="1" cartoon="ShowLightFirstNew" para1="1" lag="5.4" closeAllPop="1" fbTouchHandler="0" notAllowBreak="1"/>
+<!-- 供电不足，灯灭了 -->
+<ItemSpec id="10240462" next="10240463" enforce="1" cartoon="ShowLightFirstNewEnd" para1="1" lag="0.4" closeAllPop="1" fbTouchHandler="0" notAllowBreak="1"/>
+<!-- 镜头拉高 -->
+<ItemSpec id="10240463" next="10240530" enforce="1" lag="1" cartoon="JumpToTile" para1="28;28" para3="0.57" mark="1"/>
+
+
+<!-- ******电厂引导****** -->
+<!-- 检查建筑 -->
+<ItemSpec id="10240530" next="" cartoon="CheckBuildState" para1="431000" para2="10240531" para3="" para4="10240600" lag="1"/>
+<!-- 设置不亮灯 -->
+<ItemSpec id="10240531" next="10240561" cartoon="saveGuideRecord" para1="GuideNotShowRoadLight" para2="1" para3="2" lag="0"/>
+<!-- 90580022  不行，风力发电太弱了，我们需要[color=FF51d954]更强大[/color]的电力。 -->
+<ItemSpec id="10240561" next="10240564" plot="110085222" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 等一秒 -->
+<ItemSpec id="10240564" next="10240513" lag="0.2" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 设置断点 -->
+<ItemSpec id="10240513" next="10240514" cartoon="saveGuideRecord" para1="ReturnMineSceneGuid" para2="30001270" para3="1" lag="0"/>
+<!-- 弹出章节任务 -->
+<ItemSpec id="10240514" next="10240515" enforce="1" cartoon="ShowFreeTaskChapterView" lag="1" closeAllPop="1" fbTouchHandler="1" notAllowBreak="1" notMoveMap="1"/>
+<!-- 等待奖励领取完 --> 
+<ItemSpec id="10240515" next="10240516" enforce="1" cartoon="WaitTaskChapterNewViewAutoRewardEnd" lag="7.5" notAllowBreak="1" notMoveMap="1"/>
+<!-- 指向任务 -->
+<ItemSpec id="10240516" next="30001270" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="FreeTaskChapterView_2501103" notMoveMap="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="30001270" next="30001271" lag="0.3" cartoon="saveGuideRecord" para1="ResourceBuildGoTitle" para2="1" para3="2" closeAllPop="1"/>
+<!-- 设置建造不中断引导 -->
+<ItemSpec id="30001271" next="30001272" cartoon="saveGuideRecord" para1="NotStopGuide" para2="1" para3="2" lag="0.3"/>
+<!-- 指向建造按钮 -->
+<ItemSpec id="30001272" next="10240581" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="UI_FreeBuildListEnter" cartoon="UI_FreeBuildListEnter" arrowAngle="135" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="10240581" next="10240582" lag="0.4" notAllowBreak="1" closeAllPop="1"/>
+<!-- 打开建造列表 -->
+<ItemSpec id="10240582" next="10240583" enforce="1" lag="0.1" cartoon="ShowPutFreeBuildDragView" para1="431000"/>
+<!-- 拖拽建筑放置 -->
+<ItemSpec id="10240583" next="10240584" soft="1" softActType="" area="PutFreeBuildDragView_431000_click"/>
+<!-- 放置建筑 -->
+<ItemSpec id="10240584" next="10240585" soft="1" softActType="" area="FreeBuildPut_431000"/>
+<!-- 设置断点 --> 
+<ItemSpec id="10240585" next="10240586" cartoon="saveGuideRecord" para1="ReturnMineSceneGuid" para2="10240600" para3="1" lag="0"/>
+<!-- 等一秒 -->
+<ItemSpec id="10240586" next="" lag="5.4" cartoon="saveGuideRecord" para1="ResourceBuildGoTitle" para2="0" para3="2" notAllowBreak="1"/>
+
+
+<!-- ******油田引导****** -->
+<!-- 等一秒 -->
+<ItemSpec id="10240600" next="10240601" lag="0.2" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 110023060  燃油发电厂已就绪，不过基地的备用燃料已经见底，需要再去找些[color=FF51d954]燃料[/color]。 -->
+<ItemSpec id="10240601" next="10240607" plot="9200594" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 剧情演绎僵尸1 -->
+<ItemSpec id="10240607" next="10240602" lag="0" cartoon="addZombieInArea" para1="18|19|20|26|34|42|43|44|28|29|37|45|17|25" para2="50" para3="1" para4="3"/>
+<!-- 110023061  那还等什么，叫人把储备的燃油赶快运过来，没有照明的夜晚太危险了。 -->
+<ItemSpec id="10240602" next="10240608" plot="9200595" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 剧情演绎僵尸2 -->
+<ItemSpec id="10240608" next="10240603" lag="0" cartoon="addZombieInArea" para1="36" para2="10" para3="1" para4="3"/>
+<!-- 110023062  抱歉，基地的燃油早就耗尽了，西面不远处的油田储量丰富，是建造油井的绝佳地点，只是我们一直缺乏人手。 -->
+<ItemSpec id="10240603" next="10240604" plot="9200596" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 110023062  点击跳转任务栏。 -->
+<ItemSpec id="10240604" next="10240605" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_target" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="10240605" next="10240606" arrow="2" lag="0.6" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 110023062  点击跳转任务栏。 -->
+<ItemSpec id="10240606" next="10240662" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_target" closeAllPop="1"/>
+<!-- 播放灭灯效果 -->
+<ItemSpec id="10240662" next="10240663" enforce="1" cartoon="SetLight" para1="2" lag="0" notAllowBreak="1" closeAllPop="1"/>
+<!-- 检查建筑 -->
+<ItemSpec id="10240663" next="" cartoon="CheckBuildState" para1="413000" para2="10240611" para3="30001280" para4="30001280" lag="0"/>
+<!-- 镜头移动 -->
+<ItemSpec id="10240611" next="10240613" enforce="1" lag="0.4" cartoon="JumpToTile" para1="25;33" para3="0.62" notAllowBreak="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="10240613" next="10240615" lag="0.1" notAllowBreak="1"/>
+<!-- 指向建造按钮 -->
+<ItemSpec id="10240615" next="10240616" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="UI_FreeBuildListEnter" cartoon="UI_FreeBuildListEnter" arrowAngle="135" closeAllPop="1"/>
+<!-- 设置断点 --> 
+<ItemSpec id="10240616" next="10240625" cartoon="saveGuideRecord" para1="ReturnMineSceneGuid" para2="10240625" para3="1" lag="0"/>
+<!-- 等一秒 建造中不跳转标记 -->
+<ItemSpec id="10240625" next="10240626" lag="0.1" cartoon="saveGuideRecord" para1="ResourceBuildGoTitle" para2="1" para3="2" closeAllPop="1"/>
+<!-- 打开建造列表 -->
+<ItemSpec id="10240626" next="10240627" enforce="1" lag="0.0" cartoon="ShowPutFreeBuildDragView" para1="413000"/>
+<!-- 拖拽建筑放置 -->
+<ItemSpec id="10240627" next="10240691" soft="1" softActType="" area="PutFreeBuildDragView_413000_click"/>
+<!-- 设置建造不中断引导 -->
+<ItemSpec id="10240691" next="10240690" cartoon="saveGuideRecord" para1="NotStopGuide" para2="1" para3="2" lag="0.0"/>
+<!-- 放置建筑 -->
+<ItemSpec id="10240690" next="10240693" soft="1" softActType="" area="FreeBuildPut_413000"/>
+<!-- 设置断点 --> 
+<ItemSpec id="10240693" next="10240694" cartoon="saveGuideRecord" para1="ReturnMineSceneGuid" para2="30001280" para3="1" lag="0"/>
+<!-- 设置建造不中断引导 -->
+<ItemSpec id="10240694" next="10240695" cartoon="saveGuideRecord" para1="NotStopGuide" para2="2" para3="2" lag="0.0"/>
+<!-- 等一秒 -->
+<ItemSpec id="10240695" next="" lag="7.2" cartoon="saveGuideRecord" para1="ResourceBuildGoTitle" para2="0" para3="2" notAllowBreak="1"/>
+
+
+<!-- ******运输引导****** -->
+<!-- 110023062  点击跳转任务栏。 -->
+<ItemSpec id="30001280" next="10240703" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_target" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="10240703" next="10240704" arrow="2" lag="0.6" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 110023062  点击跳转任务栏。 -->
+<ItemSpec id="10240704" next="10240700" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_target" closeAllPop="1"/>
+<!-- 跳到建筑 -->
+<ItemSpec id="10240700" next="10240701" enforce="1" lag="0.8" cartoon="JumpToBuild" para1="431000" para2="999" para3="0.62" notAllowBreak="1" closeAllPop="1"/>
+<!-- 设置不亮灯 -->
+<ItemSpec id="10240701" next="10240702" cartoon="saveGuideRecord" para1="GuideNotShowRoadLight" para2="1" para3="2" lag="0"/>
+<!-- 指引燃油发电厂 -->
+<ItemSpec id="10240702" next="10240710" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_431000_999" para1="0.62" para2="0" closeAllPop="1"/>
+<!-- 设置发电厂引导 -->
+<ItemSpec id="10240710" next="10240720" enforce="1" lag="0.1" cartoon="setIsElectricityNewGuide"/>
+<!-- 等待一秒 -->
+<ItemSpec id="10240720" next="10240730" enforce="1" cartoon="WaitFreeBuildBtnsViewEnd"/>
+<!-- 指向运输按钮 -->
+<ItemSpec id="10240730" next="10240740" click="5" clickCntDelay="1" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnTransport"/>
+<!-- 播放手的动画 -->
+<ItemSpec id="10240740" next="10240760" enforce="1"  hideKuang="1" cartoon="show_transport_guide_hand"/>
+<!-- 按钮跳动 -->
+<ItemSpec id="10240760" next="10240770" click="5" clickCntDelay="1" soft="1" area="FreeResTransportConfirmView_confirm"/>
+<!-- 点击小车选择界面的确定按钮 -->
+<ItemSpec id="10240770" next="10240772" click="5" clickCntDelay="1" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="FreeCarSelectConfirmView_confirm"  para1="32;32"/>
+<!-- 设置断点 --> 
+<ItemSpec id="10240772" next="" cartoon="saveGuideRecord" para1="ReturnMineSceneGuid" para2="0" para3="1" lag="0"/>
+
+
+<!-- ******亮灯引导****** -->
+<!-- 跳到格子 -->
+<ItemSpec id="30001300" next="30001301" enforce="1" lag="3.0" cartoon="JumpToTile" para1="27.8;29.4" para3="0.36" closeAllPop="1"/>
+<!-- 设置亮灯 -->
+<ItemSpec id="30001301" next="30001302" cartoon="saveGuideRecord" para1="GuideNotShowRoadLight"  para2="0" para3="2" lag="0"/>
+<!-- 播放亮灯效果 -->
+<ItemSpec id="30001302" next="30001303" enforce="1" cartoon="ShowLightFirstNew" para1="2" lag="4.0" closeAllPop="1" fbTouchHandler="0" notAllowBreak="1"/>
+<!-- 结束亮灯效果 -->
+<ItemSpec id="30001303" next="30001304" enforce="1" cartoon="ShowLightFirstNewEnd" para1="2" lag="1.0" closeAllPop="1" fbTouchHandler="0" notAllowBreak="1"/>
+<!-- 指向任务栏 -->
+<ItemSpec id="30001304" next="30001305" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_questChapterNode" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="30001305" next="30001306" enforce="1" cartoon="WaitTaskChapterNewViewGetBtnShow" lag="8.0" notAllowBreak="1"/>
+<!-- 显示章节任务 -->
+<ItemSpec id="30001306" next="" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="FreeTaskChapterView_getBtn"/>
+<!-- 设置断点 -->
+<ItemSpec id="30001310" next="30001311" cartoon="saveGuideRecord" para1="ReturnMineSceneGuid" para2="30001312" para3="1" lag="0"/>
+<!-- 闪断恢复 -->
+<ItemSpec id="30001311" next="30001312" cartoon="saveGuideRecord" para1="NetworkOutageGuide" para2="30001312" para3="1" lag="0"/>
+<!-- 等一秒 -->
+<ItemSpec id="30001312" next="30001313" arrow="2" lag="2.2" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+
+<!-- 90580023 我曾经发誓要保护基地的大家，可最后……谢谢你，指挥官。 -->
+<ItemSpec id="30001313" next="30001314" plot="110085265" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 90580023 我会竭尽所能，让所有人活下去。 -->
+<ItemSpec id="30001314" next="30001316" plot="110085227" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 播放箭塔扫荡丧尸效果 -->
+<ItemSpec id="30001316" next="30001317" enforce="1" cartoon="ShowArrowTowerAttackZombie" lag="3.0" closeAllPop="1" fbTouchHandler="1" notAllowBreak="1"/>
+<!-- 显示章节动画 -->
+<ItemSpec id="30001317" next="30001318" enforce="1" cartoon="ShowFBChapterTaskView" lag="5.4" closeAllPop="1" notAllowBreak="1"/>
+
+
+<!-- ******第二章引导****** -->
+<!-- 播放丧尸攻击士兵动画 -->
+<ItemSpec id="30001318" next="30001319" enforce="1" lag="3.8" cartoon="ShowZombieAttackSoldier" notAllowBreak="1" closeAllPop="1"/>
+<!-- 快解决掉这些漏网之鱼！ -->
+<ItemSpec id="30001319" next="30001320" plot="100030011" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 设置天黑 -->
+<ItemSpec id="30001320" next="30001321" enforce="1" cartoon="SetNight" lag="0" closeAllPop="1" notAllowBreak="1"/>
+<!-- 闪断恢复 -->
+<ItemSpec id="30001321" next="30001323" cartoon="saveGuideRecord" para1="NetworkOutageGuide" para2="0" para3="1" lag="0"/>
+<!-- 设置进入塔防标记 -->
+<ItemSpec id="30001323" next="30001324" cartoon="saveGuideRecord" para1="EnterTDSceneFlag" para2="1" para3="1" lag="0"/>
+<!-- 进入峡谷塔防 -->
+<ItemSpec id="30001324" next="30001325" cartoon="enterArrowTowerTDScene" lag="0"/>
+<!-- 设置断点 -->
+<ItemSpec id="30001325" next="30001326" cartoon="saveGuideRecord" para1="ReturnMineSceneGuid" para2="0" para3="1" lag="0"/>
+<!-- 隐藏限时任务框标记 -->
+<ItemSpec id="30001326" next="" cartoon="saveGuideRecord" para1="SaveHeroShowIcon" para2="1" para3="2" lag="0.1"/>
+
+<!-- ******解救伊娃 引导触发****** -->
+<!-- 峡谷塔防1级结束引导 -->
+<ItemSpec id="20252000" next="28300134" arrow="2" lag="0" hideLayer="1" enforce="1" notAllowBreak="1" closeAllPop="1" notResetTD="1"/>
+<!-- 设置进入塔防标记 -->
+<ItemSpec id="28300134" next="28300101" cartoon="saveGuideRecord" para1="EnterTDSceneFlag" para2="0" para3="1" lag="0" notResetTD="1"/>
+<!-- 镜头移动 -->
+<ItemSpec id="28300101" next="28300102" cartoon="MoveToDoor" lag="0.8" enforce="1" hideKuang="1" mark="1" notResetTD="1"/>
+<!-- 伊娃演绎 -->
+<ItemSpec id="28300102" next="28300103" lag="3.6" cartoon="addEvaBeAttackSpine" enforce="1" notAllowBreak="1" closeAllPop="1" notResetTD="1"/>
+<!-- 伊娃：艾达，救我！ -->
+<ItemSpec id="28300103" next="28300104" plot="100030030" enforce="1" area="plot_continue" notAllowBreak="1" hideLayer="1" arrow="0" notResetTD="1"/>
+<!-- 艾达：哦不，是伊娃！ -->
+<ItemSpec id="28300104" next="28300105" plot="100030012" enforce="1" area="plot_continue" notAllowBreak="1" hideLayer="1" arrow="0" notResetTD="1"/>
+<!-- 艾达无线电：基地被困的时候，伊娃冒险出去寻找救援物资。快救她回来！ -->
+<ItemSpec id="28300105" next="28300106" sidePlot="100030013" enforce="1" hideKuang="1" notAllowBreak="1" hideLayer="1" arrow="2" notResetTD="1"/>
+<!-- 确认第二关通关 -->
+<ItemSpec id="28300106" next="28300107" cartoon="saveGuideRecord" para1="GUIDE_SAVE_TD_STAGE2_GUIDE" para2="1" para3="1" lag="0" notResetTD="1"/>
+<!-- 伊娃演绎 -->
+<ItemSpec id="28300107" next="28300108" lag="0" cartoon="removeEvaBeAttackSpine" enforce="1" notAllowBreak="1" closeAllPop="1" notResetTD="1"/>
+<!-- 镜头移动 -->
+<ItemSpec id="28300108" next="28300109" cartoon="TDFocusOrigin" lag="0.8" enforce="1" hideKuang="1" mark="1" notResetTD="1"/>
+<!-- 返回主城场景 -->
+<ItemSpec id="28300109" next="28300110" enforce="1" lag="0.2" cartoon="GotoMainScene" closeAllPop="1" notResetTD="1"/>
+<!-- 等待一秒 -->
+<ItemSpec id="28300110" next="28300111" enforce="1" lag="0.8" arrow="2" hideLayer="1" hideKuang="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 艾达：伊娃，那些丧尸已经被消灭了！你的感觉还好吗！ -->
+<ItemSpec id="28300111" next="28300112" plot="100030031" enforce="1" area="plot_continue" notAllowBreak="1" hideLayer="1" arrow="0"/>
+<!-- 伊娃：艾达，很抱歉我没有看到重建基地的那一天。请直接帮我解脱吧。 -->
+<ItemSpec id="28300112" next="28300113" plot="100030032" enforce="1" area="plot_continue" notAllowBreak="1" hideLayer="1" arrow="0"/>
+<!-- 播放警告 -->
+<ItemSpec id="28300113" next="28300114" cartoon="showSaveHeroWarning" lag="3.2"/>
+<!-- 等待1秒 -->
+<ItemSpec id="28300114" next="28300115" arrow="2" lag="0.6" hideLayer="1" enforce="1" notAllowBreak="1" closeAllPop="1" clickCntDelay="1"/>
+<!-- 艾达：不，我不要任何人对你开枪…赶紧送往隔离室治疗！ -->
+<ItemSpec id="28300115" next="28300116" plot="100030019" enforce="1" area="plot_continue" notAllowBreak="1" hideLayer="1" arrow="0"/>
+<!-- 弹出治疗室页面 -->
+<ItemSpec id="28300116" next="28300117" lag="0.4" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" notAllowBreak="1" cartoon="OpenSaveHeroView"/>
+<!-- 等待一秒 -->
+<ItemSpec id="28300117" next="28300120" lag="1.8" notAllowBreak="1"/>
+<!-- 指挥官：很抱歉，艾达，我们真的要把伊娃留在这里吗？伊娃的感染，恐怕只有特效血清可以治愈。 -->
+<ItemSpec id="28300120" next="28300121" plot="100030033" enforce="1" area="plot_continue" notAllowBreak="1" hideLayer="1" arrow="0"/>
+<!-- 指挥官：现在基地里还有特效血清吗？ -->
+<ItemSpec id="28300121" next="28300122" plot="100030034" enforce="1" area="plot_continue" notAllowBreak="1" hideLayer="1" arrow="0"/>
+<!-- 艾达：之前的战斗中，一些特效血清散落在了基地外。找到它们，我们就有机会治愈伊娃！ -->
+<ItemSpec id="28300122" next="28300127" plot="100030021" enforce="1" area="plot_continue" notAllowBreak="1" hideLayer="1" arrow="0"/>
+<!-- 设置点击前往不跳转标记 -->
+<ItemSpec id="28300127" next="28300128" cartoon="saveGuideRecord" para1="SaveHeroGotoTouch" para2="1" para3="2" lag="0.1"/>
+<!-- 框选前往搜集按钮 -->
+<ItemSpec id="28300128" next="28300129" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" click="3" clickCntDelay="1" area="LuaGetGuideNode_1" para1="SaveHeroView" para2="m_gotoBtn" notAllowBreak="1"/>
+<!-- 等待一秒 -->
+<ItemSpec id="28300129" next="28300130" lag="0.1" closeAllPop="1"/>
+<!-- 恢复显示标记 -->
+<ItemSpec id="28300130" next="28300131" cartoon="saveGuideRecord" para1="SaveHeroShowIcon" para2="2" para3="2" lag="0.1"/>
+<!-- 显示入口 -->
+<ItemSpec id="28300131" next="30001520" cartoon="showSaveHeroTip" lag="0.1"/>
+
+<!-- 等一秒 -->
+<ItemSpec id="30001520" next="30001521" arrow="2" lag="1.5" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 100030022  尼克：头儿，基地物资储备告急，有的兄弟开始丧失斗志了。 -->
+<ItemSpec id="30001521" next="30001522" plot="100030022" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 剧情演绎僵尸1 -->
+<ItemSpec id="30001522" next="30001523" lag="0" cartoon="addZombieInArea" para1="18|19|20|26|34|42|43|44|28|29|37|45|17|25" para2="20" para3="1" para4="3"/>
+<!-- 100030023  艾达：基地里有一份规划图纸，记录了物资生产的主要方式。我去找找看，也许还能用得上。 -->
+<ItemSpec id="30001523" next="30001525" plot="100030023" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 显示图纸 -->
+<ItemSpec id="30001524" next="30001525" cartoon="ShowWaterPaper" lag="4.2" soft="1" para1="30001525"/>
+<!-- 100030024  指挥官：太好了，按照图纸重建基地，我们就有足够的补给，出去寻找特效血清了！ -->
+<ItemSpec id="30001525" next="30001526" plot="100030024" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 100030025  我去隔离室稳住伊娃，尼克，你配合艾达建设基地，尽快恢复生产！ -->
+<ItemSpec id="30001526" next="30001527" plot="100030025" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 跳到格子 -->
+<ItemSpec id="30001527" next="30001528" enforce="1" lag="0.5" cartoon="JumpToTile" para1="32;32" para3="0.62" notAllowBreak="1"/>
+<!-- 点击主城 -->
+<ItemSpec id="30001528" next="30001529" click="5" clickCntDelay="1" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_400000_999" para1="0.62" para2="0" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="30001529" next="30001530" enforce="1" cartoon="WaitFreeBuildBtnsViewEnd" notAllowBreak="1"/>
+<!-- 指向升级按钮 -->
+<ItemSpec id="30001530" next="30001531" click="5" clickCntDelay="1" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnLevelup"/>
+<!-- 等一秒 -->
+<ItemSpec id="30001531" next="30001532" lag="0.3" notAllowBreak="1"/>
+<!-- 显示升级界面 -->
+<ItemSpec id="30001532" next="30001533" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" click="3" clickCntDelay="1" area="FreeFunBuildUpView_confirm"/>
+<!-- 显示小车选择界面 -->
+<ItemSpec id="30001533" next="30001534" area="FreeCarSelectConfirmView_confirm" arrowAngle="90" hideCircle="1"/>
+<!-- 等待小车选择命令返回 -->
+<ItemSpec id="30001534" next="30001535" lag="10" area="FreeCarSelectConfirm_wait" enforce="1"  hideKuang="1" fbTouchHandler="1" notAllowBreak="1"/>
+<!-- 小车去升级建筑 -->
+<ItemSpec id="30001535" next="30001536" enforce="1" hideLayer="1" cartoon="Guide_FinishUpgradeFunBuild_400000" para1="1" notAllowBreak="1"/>
+<!-- 设置断点 -->
+<ItemSpec id="30001536" next="30001537" cartoon="saveGuideRecord" para1="ReturnMineSceneGuid" para2="30003425" para3="1" lag="0"/>
+<!-- 等一秒 -->
+<ItemSpec id="30001537" next="30001538" lag="5.4" notAllowBreak="1"/>
+<!-- 引导点击任务栏 -->
+<ItemSpec id="30001538" next="" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_target" closeAllPop="1"/>
+
+<!-- 指向大本 -->
+<ItemSpec id="20002400" next="20002401" soft="1" softActType="bigShou" area="FreeBuildFunBuildTouch_400000_1" para2="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="20002401" next="20002402" enforce="1" cartoon="WaitFreeBuildBtnsViewEnd"/>
+<!-- 去掉黄色发光边框 -->
+<ItemSpec id="20002402" next="20002403" soft="1" softActType="hand" jump="20002400" area="FreeBuildBtnsView_btnLevelup"/>
+<!-- 指向升级按钮 -->
+<ItemSpec id="20002403" next="" soft="1" softActType="hand" hideCircle="1" area="FreeFunBuildUpView_confirm"/>
+
+<!-- 大本二级触发，闪烁警灯 -->
+<ItemSpec id="30003400" next="" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_target" closeAllPop="1"/>
+<!-- <ItemSpec id="30003400" next="30003401" enforce="1" lag="1.5" cartoon="showAlarmLight" notAllowBreak="1"  closeAllPop="1"/> -->
+<!-- 【艾达】：不好，防御塔那边又有大量的生化人涌来了 -->     
+<ItemSpec id="30003401" next="30003402" plot="110085266" enforce="1" area="plot_continue" closeAllPop="1" notAllowBreak="1" hideLayer="1" arrow="0"/>
+<!-- 丧尸移动 -->
+<ItemSpec id="30003402" next="30003403" enforce="1" lag="3" cartoon="showZombieToMusicTile" notAllowBreak="1"/>
+
+
+<!-- 点击任务栏。 -->
+<ItemSpec id="30003425" next="" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_target" closeAllPop="1"/>
+
+<!-- 解救伊娃通用引导-任务主界面跳转哨塔 -->
+<!-- 跳到建筑 -->
+<ItemSpec id="30004420" next="30004421" enforce="1" lag="0.2" cartoon="JumpToBuild" para1="418000" para2="999" para3="0.62"/>
+<!-- 点击气泡 -->
+<ItemSpec id="30004421" next="" soft="1" lag="1" softActType="hand" area="FreeBuildTipBtn_418000" arrowAngle="180"/>
+
+<!-- ******开始建造器升级引导****** -->
+<!-- 【艾达】刚才解锁地块时找到很多建造器材料，我们把它用起来 --> <ItemSpec id="30001831" next="30001832" plot="110085261" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 点击塔防-设定 -->  <ItemSpec id="30001832" next="30001833" enforce="1" area="FBMapObjCombiUI_mbtn1" showFinger="1" fingerPosY="40" notAllowBreak="1" hideLayer="1" hideKuang="1" click="5" clickCntDelay="1"/>
+<!-- 点击建造器 -->  <ItemSpec id="30001833" next="" enforce="1" area="FBTDUnlockBuildLevelView_touchNode1" showFinger="1" fingerPosY="40" notAllowBreak="1" hideLayer="1" hideKuang="1" click="5" clickCntDelay="1"/>
+<!-- 点击建造器-升级 --> <ItemSpec id="30001834" next="30001835" enforce="1" area="FBTDUnlockBuildLevelChildView_upLevel" showFinger="1" fingerPosY="40" notAllowBreak="1" hideLayer="1" hideKuang="1" click="5" clickCntDelay="1"/>
+<!-- 点击关闭 --> <ItemSpec id="30001835" next="30001836" enforce="1" area="FBTDUnlockBuildLevelChildView_closeNode" showFinger="1" fingerPosY="40" notAllowBreak="1" hideLayer="1" hideKuang="1" click="5" clickCntDelay="1"/>
+<!-- 点击返回 --> <ItemSpec id="30001836" next="30003520" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FBTDUnlockBuildLevelView_returnBtn" arrowAngle="315" notAllowBreak="1"/>
+
+
+<!-- ******第三章开始引导****** -->
+<!-- 闪烁警灯 -->
+<ItemSpec id="30001800" next="30001801" enforce="1" lag="1.5" cartoon="showAlarmLight" notAllowBreak="1"/>
+<!-- 90300028 指挥官，西南部发现生化人活动。-->
+<ItemSpec id="30001801" next="30001802" plot="110085229" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 丧尸移动 -->
+<ItemSpec id="30001802" next="30003403" enforce="1" lag="3.6" cartoon="showZombieToMusicTile" notAllowBreak="1"/>
+
+<!-- 故事 -->
+<ItemSpec id="30003403" next="30003404" cartoon="storyboard" cartoonType="10" enforce="1"/>
+<!-- 【指挥官】既然我来了，就一定会守住这里！ -->
+<ItemSpec id="30003404" next="30003405" plot="110085267" enforce="1" area="plot_continue" closeAllPop="1" notAllowBreak="1" hideLayer="1" arrow="0"/>
+<!-- 【指挥官】就地建造哨塔 -->
+<ItemSpec id="30003405" next="30003406" plot="100030009" enforce="1" area="plot_continue" closeAllPop="1" notAllowBreak="1" hideLayer="1" arrow="0"/>
+<!-- 镜头移动 -->
+<ItemSpec id="30003406" next="30003407" enforce="1" lag="1.2" cartoon="JumpToTile" para1="26;26" para3="0.62" notAllowBreak="1"/>
+
+
+<!-- ******建造哨塔****** -->
+<!-- 检查建筑 -->
+<ItemSpec id="30003407" next="" cartoon="CheckBuildState" para1="418000" para2="30003408" para3="" para4="" lag="0.3"/>
+<!-- 指向建造按钮 -->
+<ItemSpec id="30003408" next="30003409" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="UI_FreeBuildListEnter" cartoon="UI_FreeBuildListEnter" arrowAngle="135" notAllowBreak="1" closeAllPop="1"/>
+<!-- 等一秒 建造中不跳转标记 -->
+<ItemSpec id="30003409" next="30003415" lag="0.1" cartoon="saveGuideRecord" para1="ResourceBuildGoTitle" para2="1" para3="2" closeAllPop="1"/>
+<!-- 设置建造不中断引导 -->
+<ItemSpec id="30003415" next="30003416" cartoon="saveGuideRecord" para1="NotStopGuide" para2="1" para3="2" lag="0.0"/>
+<!-- 打开建造列表 -->
+<ItemSpec id="30003416" next="30003410" enforce="1" lag="0.0" cartoon="ShowPutFreeBuildDragView" para1="418000"/>
+<!-- 拖拽建筑放置 -->
+<ItemSpec id="30003410" next="30003411" soft="1" softActType="" area="PutFreeBuildDragView_418000_click"/>
+<!-- 放置建筑 -->
+<ItemSpec id="30003411" next="30003412" soft="1" softActType="" area="FreeBuildPut_418000"/>
+<!-- 设置断点 -->
+<ItemSpec id="30003412" next="30003414" cartoon="saveGuideRecord" para1="ReturnMineSceneGuid" para2="0" para3="1" lag="0"/>
+<!-- 设置建造不中断引导 -->
+<ItemSpec id="30003414" next="30003417" cartoon="saveGuideRecord" para1="NotStopGuide" para2="1" para3="2" lag="0.0"/>
+<!-- 等一秒 -->
+<ItemSpec id="30003417" next="30003420" lag="2" cartoon="saveGuideRecord" para1="ResourceBuildGoTitle" para2="0" para3="2" notAllowBreak="1"/>
+
+<!-- ******引导点击哨塔返回塔防2****** -->
+<!-- 跳到建筑 -->
+<ItemSpec id="30003420" next="30003422" enforce="1" lag="1.2" cartoon="JumpToBuild" para1="418000" para2="999" para3="0.62"/>
+<!-- 点击气泡 -->
+<ItemSpec id="30003422" next="30003423" arrow="2" area="FreeBuildTipBtn_418000" enforce="1" showFinger="1" click="5" clickCntDelay="1" fingerPosY="40" hideLayer="1" hideKuang="1" notAllowBreak="1" closeAllPop="1" notMoveMap="1"/>
+<!-- 设置进入塔防标记 -->
+<ItemSpec id="30003423" next="30003424" cartoon="saveGuideRecord" para1="EnterTDSceneFlag" para2="1" para3="1" lag="0"/>
+<!-- 设置断点 --> 
+<ItemSpec id="30003424" next="30003426" cartoon="saveGuideRecord" para1="ReturnMineSceneGuid" para3="1" lag="0.3"/>
+<!-- 隐藏气泡 -->
+<ItemSpec id="30003426" next="" lag="1" cartoon="SendEvent" para1="MSG_SHOW_OR_HIDE_TIP_ENTER" para2=""/>
+
+<!-- ******伊娃治疗****** -->
+<!-- 峡谷塔防3级结束引导 -->
+<ItemSpec id="20253000" next="28300201" arrow="2" enforce="1" lag="0" isPlayEnd="1" hideLayer="1" notAllowBreak="1" closeAllPop="1" notResetTD="1"/>
+<!-- 设置塔防引导检查 -->
+<ItemSpec id="28300201" next="28300202" cartoon="saveGuideRecord" para1="ReturnMineSceneGuid" para2="0" para3="1" lag="0.1" notResetTD="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="28300202" next="28300203" lag="0.1" cartoon="saveGuideRecord" para1="SaveHeroYiWaGuide" para2="1" para3="1" closeAllPop="1" notResetTD="1"/>
+<!-- 对话 -->
+<ItemSpec id="28300203" next="28300204" plot="110088821" enforce="1" area="plot_continue" notAllowBreak="1" hideLayer="1" arrow="0" notResetTD="1"/>
+<!-- 对话 -->
+<ItemSpec id="28300204" next="28300205" plot="110088822" enforce="1" area="plot_continue" notAllowBreak="1" hideLayer="1" arrow="0" notResetTD="1"/>
+<!-- 设置进入塔防标记 -->
+<ItemSpec id="28300205" next="28300206" cartoon="saveGuideRecord" para1="EnterTDSceneFlag" para2="0" para3="1" lag="0" notResetTD="1"/>
+<!-- 返回主城场景 -->
+<ItemSpec id="28300206" next="28300207" enforce="1" lag="0.2" cartoon="GotoMainScene" closeAllPop="1" notResetTD="1"/>
+<!-- 等待一秒 -->
+<ItemSpec id="28300207" next="28300210" enforce="1" lag="0.8" arrow="2" hideLayer="1" hideKuang="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 框选解救英雄入口 -->
+<ItemSpec id="28300210" next="28300211" arrow="0" area="UI_SaveHeroNode" enforce="1" showFinger="1" fingerPosY="40" hideLayer="1" hideKuang="1" notMoveMap="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="28300211" next="28300212" lag="0.5" notAllowBreak="1"/>
+<!-- 框选治疗按钮 -->
+<ItemSpec id="28300212" next="28300213" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" click="3" clickCntDelay="1" area="LuaGetGuideNode_1" para1="SaveHeroView" para2="m_gotoBtn"/>
+<!-- 等一秒 -->
+<ItemSpec id="28300213" next="28300220" lag="2.8" notAllowBreak="1"/>
+<!-- 对话 -->
+<ItemSpec id="28300220" next="28300221" plot="111000212" enforce="1" area="plot_continue" notAllowBreak="1" hideLayer="1" arrow="0"/>
+<!-- 对话 -->
+<ItemSpec id="28300221" next="28300222" plot="110088828" enforce="1" area="plot_continue" notAllowBreak="1" hideLayer="1" arrow="0"/>
+<!-- 对话 -->
+<ItemSpec id="28300222" next="28300223" plot="111000214" enforce="1" area="plot_continue" notAllowBreak="1" hideLayer="1" arrow="0"/>
+<!-- 设置断点 -->
+<ItemSpec id="28300223" next="28300224" cartoon="saveGuideRecord" para1="ReturnMineSceneGuid" para2="0" para3="1" lag="0"/>
+<!-- 关闭全部界面 -->
+<ItemSpec id="28300224" next="30003430" lag="0.4" closeAllPop="1"/>
+
+
+<!-- 30音响引导 -->
+<!-- 等待一秒 -->
+<ItemSpec id="30003430" next="30003441" enforce="1" lag="0.8" arrow="2" hideLayer="1" hideKuang="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 尼克：头儿，我们在建造哨塔的过程中，发现了这个！ -->
+<ItemSpec id="30003441" next="30003439" plot="100030028" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 艾达：是摇滚音响！以前每逢重大活动，我们都会用它播放音乐庆祝！ -->
+<ItemSpec id="30003439" next="30003431" plot="100030029" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 指挥官：但愿还能用。打开电源 -->
+<ItemSpec id="30003431" next="30003432" plot="110085233" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 删除丧尸移动 -->
+<ItemSpec id="30003432" next="30003440" enforce="1" lag="0.5" cartoon="hideZombieToMusicTile"/>
+<!-- 镜头移动 -->
+<ItemSpec id="30003440" next="30003433" enforce="1" lag="1.2" cartoon="JumpToTile" para1="35.9;41.6" para3="0.75" notAllowBreak="1"/>
+<!-- 点击音响 -->
+<ItemSpec id="30003433" next="30003434" arrow="2" area="FreeBuildTileTouch_45;65_1" enforce="1" showFinger="1" click="1" clickCntDelay="8" para1="0.75" para2="45;65_45;65" fingerPosY="40" hideLayer="1" hideKuang="1" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="30003434" next="30003435" arrow="2" lag="7" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 隐藏警灯 -->
+<ItemSpec id="30003435" next="30003436" enforce="1" lag="0.5" cartoon="hideAlarmLight"/>
+<!-- 90400103 令人印象深刻！ -->
+<ItemSpec id="30003436" next="30003437" plot="9200317" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 点击音响 -->
+<ItemSpec id="30003437" next="30003438" arrow="2" area="FreeBuildTileTouch_45;65_1" enforce="1" showFinger="1" click="1" clickCntDelay="8" para1="0.75" para2="45;65_45;65" fingerPosY="40" hideLayer="1" hideKuang="1" closeAllPop="1"/>
+<!-- 领取按钮 -->
+<ItemSpec id="30003438" next="30001826" soft="1" softActType="hand" area="TimeRwdShowView_OKBtn" arrowAngle="0"/>
+
+
+<!-- ******伊娃痊愈****** -->
+<!-- 峡谷塔防20级结束引导 -->
+<ItemSpec id="202535000" next="10241600" enforce="1" lag="0" isPlayEnd="1" notResetTD="1"/>
+<!-- 返回主城 -->
+<ItemSpec id="10241600" next="10241601" enforce="1" lag="0.2" cartoon="GotoMainScene" closeAllPop="1" notResetTD="1"/>
+<!-- 设置塔防引导检查 -->
+<ItemSpec id="10241601" next="10241602" cartoon="saveGuideRecord" para1="ReturnMineSceneGuid" para2="10241602" para3="1" lag="0.1"/>
+<!-- 等一秒 -->
+<ItemSpec id="10241602" next="10241603" lag="0.1" cartoon="saveGuideRecord" para1="SaveHeroYiWaGuide" para2="1" para3="1" closeAllPop="1"/>
+<!--  -->
+<ItemSpec id="10241603" next="10241604" lag="1" cartoon="saveGuideRecord" para1="SaveHeroYiWaGuide" para2="0" para3="1" notAllowBreak="1" closeAllPop="1"/>
+<!--  -->
+<ItemSpec id="10241604" next="10241605" plot="111000220" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!--  -->
+<ItemSpec id="10241605" next="10241606" plot="111000221" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 框选解救英雄入口 -->
+<ItemSpec id="10241606" next="10241607" arrow="0" area="UI_SaveHeroNode" enforce="1" showFinger="1" fingerPosY="40" hideLayer="1" hideKuang="1" notMoveMap="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="10241607" next="10241608" lag="1" notAllowBreak="1"/>
+<!-- 设置点击前往不跳转标记 -->
+<ItemSpec id="10241608" next="10241609" cartoon="saveGuideRecord" para1="SaveHeroGotoTouch" para2="1" para3="2" lag="0.1"/>
+<!-- 框选治疗按钮 -->
+<ItemSpec id="10241609" next="10241610" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" click="3" clickCntDelay="1" area="LuaGetGuideNode_1" para1="SaveHeroView" para2="m_gotoBtn"/>
+<!-- 等一秒 -->
+<ItemSpec id="10241610" next="10241611" lag="2.4"/>
+<!--  -->
+<ItemSpec id="10241611" next="10241612" plot="111000222" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!--  -->
+<ItemSpec id="10241612" next="10241613" plot="111000223" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 清掉断线引导 -->
+<ItemSpec id="10241613" next="10241614" cartoon="saveGuideRecord" para1="ReturnMineSceneGuid" para2="0" para3="1" lag="0.1"/>
+<!-- 获得英雄界面 -->
+<ItemSpec id="10241614" next="10241615" cartoon="showGetHeroView" para1="10209"/>
+<!-- 等一秒 -->
+<ItemSpec id="10241615" next="10241616" lag="2" notAllowBreak="1"/>
+<!-- 关闭界面 -->
+<ItemSpec id="10241616" next="" lag="0.1" notAllowBreak="1" closeAllPop="1"/>
+
+
+
+<!-- 跳到大本 -->
+<ItemSpec id="30001826" next="30001827" enforce="1" lag="1.2" cartoon="JumpToBuild" para1="400000" para2="999" para3="0.62" notAllowBreak="1"/>
+<!-- 恢复栅栏 -->
+<ItemSpec id="30001827" next="30001828" enforce="1" lag="0.4" cartoon="ShowAndHideSpecialFence" para1="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 110023014  有人受伤了，赶快搭建急救帐篷治疗伤兵。 -->
+<ItemSpec id="30001828" next="30001829" plot="9200541" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 打开建造列表 -->
+<ItemSpec id="30001829" next="30001852" enforce="1" lag="0.8" cartoon="ShowPutFreeBuildDragView" para1="411000"/>
+<!-- 引导点击建筑放置 -->
+<ItemSpec id="30001852" next="" soft="1" softActType="" area="PutFreeBuildDragView_411000_click"/>
+
+
+<!-- ******造勇士训练营****** -->
+<!-- 检查建筑 -->
+<ItemSpec id="20251120" next="" cartoon="CheckBuildState" para1="423000" para2="20251121" para3="" para4="" lag="0"/>
+<!-- 90580010  要守住这里，我们还需要更多人手。 -->
+<ItemSpec id="20251121" next="30001130" plot="110085216" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 指向建造按钮 -->
+<ItemSpec id="30001130" next="30001131" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="UI_FreeBuildListEnter" cartoon="UI_FreeBuildListEnter" arrowAngle="135" notAllowBreak="1" closeAllPop="1"/>
+<!-- 点击类型列表 -->
+<ItemSpec id="30001131" next="30001133" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="PutFreeBuildTypesView_12" notAllowBreak="1"/>
+<!-- 拖拽建筑放置 -->
+<ItemSpec id="30001133" next="30001134" soft="1" softActType="" area="PutFreeBuildDragView_423000_click"/>
+<!-- 放置建筑 -->
+<ItemSpec id="30001134" next="" soft="1" softActType="" area="FreeBuildPut_423000"/>
+
+
+<!-- ******训练士兵****** -->
+<!-- 跳到建筑勇士训练营 -->
+<ItemSpec id="20251300" next="30001161" enforce="1" lag="0.2" cartoon="JumpToBuild" para1="423000" para2="999" para3="0.62" closeAllPop="1"/>
+<!-- 点击建筑 -->
+<ItemSpec id="30001161" next="30001162" click="5" clickCntDelay="1" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildFunBuildTouch_423000_999" para1="0.62" para2="0" notAllowBreak="1" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="30001162" next="30001163" enforce="1" cartoon="WaitFreeBuildBtnsViewEnd" notAllowBreak="1"/>
+<!-- 指向训练按钮 -->
+<ItemSpec id="30001163" next="" click="5" clickCntDelay="1" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBtnsView_btnSoldierTrain" notAllowBreak="1"/>
+<!-- 等一秒 -->
+<!-- <ItemSpec id="30001164" next="30001165" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/> -->
+<!-- 显示训练界面 -->
+<!-- <ItemSpec id="30001165" next="30001166" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" click="3" clickCntDelay="1" area="FBProductionSoldiersView_train" notAllowBreak="1"/> -->
+<!-- 提示加速 -->
+<!-- <ItemSpec id="30001166" next="30001167" arrow="2" hideLayer="1" enforce="1" sidePlot="9200511"/> -->
+<!-- 加速按钮 -->
+<!-- <ItemSpec id="30001167" next="30001168" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" click="3" clickCntDelay="1" area="FBProductionSoldiersView_speed" notAllowBreak="1"/> -->
+<!-- 等一秒 -->
+<!-- <ItemSpec id="30001168" next="30001169" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/> -->
+<!-- 使用加速按钮 -->
+<!-- <ItemSpec id="30001169" next="30001170" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" click="3" clickCntDelay="1" area="AcceleratePropsView_useBtn" notAllowBreak="1"/> -->
+<!-- 等一秒 -->
+<!-- <ItemSpec id="30001170" next="30001171" arrow="2" lag="2.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/> -->
+<!-- 指向关闭按钮 -->
+<!-- <ItemSpec id="30001171" next="" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_returnSmallBtn" arrowAngle="315" notAllowBreak="1"/> -->
+
+
+<!-- ******第三章打怪引导****** -->
+<!-- 等一秒 -->
+<ItemSpec id="30001950" next="30001951" arrow="2" lag="0.1" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 110023018  头儿，部队集结完毕，那些怪物就放心交给我们吧。 -->
+<ItemSpec id="30001951" next="30001952" plot="9200546" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 检查世界按钮 -->
+<ItemSpec id="30001952" next="" enforce="1" cartoon="CheckWorldBtnFly" para1="30001953" para2="30001954" closeAllPop="1"/>
+<!-- 显示世界按钮 -->
+<ItemSpec id="30001953" next="30001954" enforce="1" lag="3.0" cartoon="ShowWorldBtnFly" closeAllPop="1"/>
+<!-- 指向回城按钮 -->
+<ItemSpec id="30001954" next="30001955" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="UI_world_go"/>
+<!-- 等待世界消息返回 -->
+<ItemSpec id="30001955" next="30001956" enforce="1" cartoon="WaitWorldInitEnd" lag="10.0" notAllowBreak="1"/>
+<!-- 等待一秒 -->
+<ItemSpec id="30001956" next="30001957" arrow="2" lag="1.0" hideLayer="1" enforce="1"/>
+<!-- 找位置放怪 -->
+<ItemSpec id="30001957" next="30001958" enforce="1" lag="100" cartoon="FindWorldTilePutMonster" closeAllPop="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="30001958" next="30001959" arrow="2" lag="1.0" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 跳到世界坐标 -->
+<ItemSpec id="30001959" next="30001960" enforce="1" lag="1" cartoon="JumpToWorldTile" para1="putMonster"/>
+<!-- 等待一秒 -->
+<ItemSpec id="30001960" next="30001961" arrow="2" lag="0.5" hideLayer="1" enforce="1"/>
+<!-- 指引资源点 -->
+<ItemSpec id="30001961" next="30001962" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" click="5" clickCntDelay="1" area="WorldTileTouch_0" para1="putMonster" marchType="97"/>
+<!-- 等一秒 -->
+<ItemSpec id="30001962" next="30001963" arrow="2" lag="0.5" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 显示怪物界面 -->
+<ItemSpec id="30001963" next="30001964" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="WildMonsterView_attackBtn" marchType="97"/>
+<!-- 出征按钮 -->
+<ItemSpec id="30001964" next="30001965" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="FreeBuildBattleView_marchBtn"/>
+<!-- 等一秒 -->
+<ItemSpec id="30001965" next="30001966" arrow="2" lag="12.0" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 指向回城按钮 -->
+<ItemSpec id="30001966" next="30001967" click="5" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_world_back" arrowAngle="135"/>
+<!-- 等一秒 -->
+<ItemSpec id="30001967" next="30001968" arrow="2" lag="1" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 110023019  指挥官，我们的部队胜利了，你可以在邮件中查看战报。 -->
+<ItemSpec id="30001968" next="30001969" plot="9200547" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 指向消息球 -->
+<ItemSpec id="30001969" next="" hideLayer="1" lag="5.0" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="NewsBall_MonsterAttack" arrowAngle="225" closeAllPop="1"/>
+
+<!-- 福利中心引导 -->
+<!-- 等一秒 -->
+<ItemSpec id="30002280" next="30002281" arrow="2" lag="0.4" hideLayer="1" enforce="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 【指挥官】有了这道防线，就不用担心尸潮一夜之间淹没这里了。 -->
+<ItemSpec id="30002281" next="20255801" plot="100030051" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="6" closeAllPop="1" fingerPosX="-5"/>
+<!-- 点击福利中心 -->
+<!-- <ItemSpec id="20255801" next="20255802" hideLayer="1" hideKuang="1" enforce="1" showFinger="1" fingerPosY="40" area="UI_componentView_28"/> -->
+<ItemSpec id="20255801" next="20255802" soft="1" softActType="hand" isAddToNode="1" hideLayer="1" hideKuang="1" enforce="1" showFinger="1" fingerPosY="40" area="UI_componentView_28"/>
+<!-- 等一秒 -->
+<ItemSpec id="20255802" next="20255803" enforce="1" lag="1.0" notAllowBreak="1"/>
+<!-- 【指挥官】有了这道防线，就不用担心尸潮一夜之间淹没这里了。 -->
+<ItemSpec id="20255803" next="" plot="100030052" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="8"/>
+
+<!-- 快速建造结束引导，占位用 -->
+<ItemSpec id="20255600" next="" soft="1" lag="0.1"/>
+
+
+<!-- ******第四章开始引导****** -->
+<!-- 等一秒 -->
+<ItemSpec id="30002200" next="30002201" arrow="2" lag="1.0" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 故事 -->
+<ItemSpec id="30002201" next="30002202" cartoon="storyboard" cartoonType="12" enforce="1"/>
+<!-- 110023021  指挥官，周边的生化人已经清理完毕，食物补给也正常发放，我们等待您的后续命令。 -->
+<ItemSpec id="30002202" next="30002203" plot="9200548" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 110023022  唉……艾达，也许我不适合做指挥官。基地事务越来越多，我已经手忙脚乱不知所措了。 -->
+<ItemSpec id="30002203" next="30002204" plot="9200549" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 110023023  指挥官不必担心，这些琐事就交给我吧。 -->
+<ItemSpec id="30002204" next="" plot="9200550" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 110023024  今后我会把所有事务分门别类的整理好，您可以在这里查看需要执行的任务。 -->
+<ItemSpec id="30002205" next="30002206" plot="9200551" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100"/>
+<!-- 设置状态标记 -->
+<ItemSpec id="30002206" next="30002207" enforce="1" lag="0.1" cartoon="SetWorldEventGuide" closeAllPop="1" notAllowBreak="1"/>
+<!-- 指向任务栏 -->
+<ItemSpec id="30002207" next="30002208" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_questMainLineNode" closeAllPop="1"/>
+<!-- 110023025  上面的个人任务与您的基地建设直接相关，下面的世界任务与所有幸存者基地的发展情况有关。 -->
+<ItemSpec id="30002208" next="30002209" plot="9200552" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100"/>
+<!-- 110023026  世界任务中已经有一项达成条件，您可以在此领取奖励。 -->
+<ItemSpec id="30002209" next="30002210" plot="9200553" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100"/>
+<!-- 点击类型列表 -->
+<!-- <ItemSpec id="30002209" next="" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" area="FBMainQuestView_WorldEventCell"/> -->
+<ItemSpec id="30002210" next="" soft="1" softActType="hand" area="FBMainQuestView_WorldEventCell"/>
+
+
+<!-- ******第四章引导加联盟****** -->
+<!-- 等一秒 -->
+<ItemSpec id="30002250" next="30002251" arrow="2" lag="1.0" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 110023028  指挥官，我们修复了通讯系统。与周围的幸存者联盟取得了联系。 -->
+<ItemSpec id="30002251" next="30002260" plot="9200555" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 指向联盟按钮 -->
+<ItemSpec id="30002260" next="" clickCntDelay="8" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="40" area="UI_allianceBtn" closeAllPop="1" />
+
+
+
+<!-- ******第五章开始引导****** -->
+<!-- 等一秒 -->
+<ItemSpec id="30002400" next="30002401" arrow="2" lag="1.0" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 110023032  指挥官，我们的基地已经初具规模，接下来您需要考虑我们未来的道路了。 -->
+<ItemSpec id="30002401" next="30002402" plot="9200558" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 110023033  你有什么建议？ --> 
+<ItemSpec id="30002402" next="30002403" plot="9200559" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 110023034  有些基地偏重生产，忽视军备，有些基地扩张兵力，以战养战，还有基地靠交易赚钱，但也容易引人觊觎。 -->
+<ItemSpec id="30002403" next="30002404" plot="9200560" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 110023035  这么复杂的事不是该总统去考虑吗。好吧，好吧，让我想想，还有别的事吗？ -->
+<ItemSpec id="30002404" next="30002405" plot="9200561" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 开始送第二个英雄引导 -->
+<ItemSpec id="30002405" next="" enforce="1" lag="0.1" cartoon="StartSecondHeroGuide" closeAllPop="1" notAllowBreak="1"/>
+
+
+<!-- ******第六章开始引导****** -->
+<!-- 等一秒 -->
+<ItemSpec id="30002600" next="30002601" arrow="2" lag="1.0" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 110023039  头儿，发现一个厉害的家伙，这次真的很棘手。 -->
+<ItemSpec id="30002601" next="30002602" plot="9200567" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 110023040  指挥官，刚刚收到联盟的消息，这片区域出现了危险的首领级生化人，建议提高警戒等级。 -->
+<ItemSpec id="30002602" next="30002603" plot="9200568" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 110023041  看来你们说的是同一件事。艾达，介绍下目标的情报。 -->
+<ItemSpec id="30002603" next="30002604" plot="9200569" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 110023042  目标有初级智慧，可以控制一定范围内的生化人，已经有多个幸存者基地被其率领的尸潮淹没。 -->
+<ItemSpec id="30002604" next="30002605" plot="9200570" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 110023043  联盟号召周围的基地集结兵力共同对抗。对了，这个目标代号小丑。 -->
+<ItemSpec id="30002605" next="30002606" plot="9200571" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+<!-- 110023044  真是个鼓舞士气的代号。 -->
+<ItemSpec id="30002606" next="" plot="9200572" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="100" closeAllPop="1"/>
+
+
+<!--新版首冲英雄引导-->
+
+  <!-- 栅栏破坏 -->
+  <ItemSpec id="60010001" next="60010024" arrow="2" lag="0.5" enforce="1"  hideLayer="1" hideKuang="1" notAllowBreak="1" closeAllPop="1"/>
+  <ItemSpec id="60010025" next="60010002" enforce="1" lag="0.1" cartoon="ShowAndHideSpecialFence" para1="0" para2="1" notAllowBreak="1" closeAllPop="1"/>
+  <!-- 增加艾达 -->
+  <!-- para1坐标 scale调整放大缩小系数 -->
+  <ItemSpec id="60010002" next="60010003" lag="0" cartoon="AddImage" para1="33,41" para2="Expack_Guide_Other" para3="aida_direction_right.png" scale="0.7" name="aida"/>
+  <!-- 增加士兵 -->
+  <ItemSpec id="60010003" next="60010004" lag="0" cartoon="AddSoldierAttack" para2="34.100,41.500" para1="34.100,41.500" para4="7" para6="0"/>
+  <ItemSpec id="60010004" next="60010005" lag="0" cartoon="AddSoldierAttack" para2="34.110,41.200" para1="34.110,41.200" para4="7" para6="0"/>
+  <ItemSpec id="60010005" next="60010006" lag="0" cartoon="AddSoldierAttack" para2="34.010,40.850" para1="34.010,40.850" para4="7" para6="0"/>
+  <ItemSpec id="60010006" next="60010007" lag="0" cartoon="AddSoldierAttack" para2="34.450,41.950" para1="34.450,41.950" para4="7" para6="0"/>
+  <ItemSpec id="60010007" next="60010008" lag="0" cartoon="AddSoldierAttack" para2="34.470,41.600" para1="34.470,41.600" para4="7" para6="0"/>
+  <ItemSpec id="60010008" next="60010009" lag="0" cartoon="AddSoldierAttack" para2="34.420,41.150" para1="34.420,41.150" para4="7" para6="0"/>
+  <ItemSpec id="60010009" next="60010010" lag="0" cartoon="AddSoldierAttack" para2="34.200,40.700" para1="34.200,40.700" para4="7" para6="0"/>
+  <!-- 跳到格子 -->
+  <ItemSpec id="60010010" next="60010011" enforce="1" lag="0.5" cartoon="JumpToTile" para1="33;40" para3="0.7"/>
+  <ItemSpec id="60010011" next="60010012" enforce="1" lag="0.5" />
+  <!-- 显示对话 -->
+  <!-- para1对话框坐标 para2多长时间后消失 para3多语言ID para4坐标偏移量 -->
+  <ItemSpec id="60010012" next="60010013" lag="1.5" cartoon="AddSoldierTip" para1="33,41" para4="15,10" para2="3.0" para3="110530009" />
+  <ItemSpec id="60010013" next="60010014" lag="0.3" cartoon="AddSoldierTip" para1="33,41" para4="160,-30" para2="1.5" para3="110530010"/>
+  <ItemSpec id="60010014" next="60010015" lag="0.3" cartoon="AddSoldierTip" para1="33,41" para4="100,-80" para2="1.2" para3="110530011"/>
+  <ItemSpec id="60010015" next="60010016" lag="0.6" cartoon="AddSoldierTip" para1="33,41" para4="40,-130" para2="0.9" para3="110530010"/>
+  <!-- 抖动 -->
+  <!-- para1抖动时长 para2抖动频率多长时间动一次 para3抖动偏移量范围-->
+  <ItemSpec id="60010016" next="60010017" lag="0.3" cartoon="ShakeScreen" para1="5" para2="0.05" para3="0;5"/>
+  <!-- 显示感叹号 -->
+  <!-- para1对话框坐标 para2多长时间后消失 para3坐标偏移量 -->
+  <ItemSpec id="60010017" next="60010018" lag="0.0" cartoon="AddGanTan" para1="33,41" para3="15,80" para2="4.0"/>
+  <ItemSpec id="60010018" next="60010019" lag="0.0" cartoon="AddGanTan" para1="33,41" para3="145,30" para2="4.0"/>
+  <ItemSpec id="60010019" next="60010020" lag="1.0" cartoon="AddGanTan" para1="33,41" para3="65,-50" para2="4.0"/>
+  <!-- 恢复栅栏 -->
+  <ItemSpec id="60010020" next="60010021" lag="0" enforce="1" cartoon="ShowAndHideSpecialFence" para1="1" para2="1" notAllowBreak="1" closeAllPop="1"/>
+  <!-- 移除士兵 -->
+  <ItemSpec id="60010021" next="60010022" lag="0" cartoon="BackSolider"/>
+  <!-- 移除艾达 -->
+  <ItemSpec id="60010022" next="60010023" lag="0" cartoon="removeImage" name="aida"/>
+  <!-- 播放视频 -->
+  <ItemSpec id="60010023" next="60010024" lag="27" cartoon="PlayVideo" para1="Aida.mp4" soft="1" local="1"/>
+  <!-- 打开首冲 -->
+  <ItemSpec id="60010024" next="" enforce="1" lag="1.0" cartoon="OpenFirstPayWnd" notAllowBreak="1" closeAllPop="1"/>
+
+<!--关闭首冲界面引导-->
+  <!-- 延迟-->
+  <ItemSpec id="60020001" next="60020002" arrow="2" lag="0.5" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+  <ItemSpec id="60020002" next="60020003" plot="141000002" arrow="0" area="plot_continue" enforce="1" mark="1" hideLayer="1" lag="10"/>
+
+  <!-- para1特效飞到ICON时长 -->
+  <ItemSpec id="60020003" next="" enforce="1" lag="1.2" cartoon="FlyLightToAiDaIcon" para1="0.5" notAllowBreak="1"/>
+
+
+<!-- 寻找水源引导线 -->
+<!-- 等待扑车丧尸消失 -->
+<ItemSpec id="10230158" next="10230153" lag="1.5"/>
+<!-- 创建指挥官 -->
+<ItemSpec id="10230153" next="10230154" lag="0" cartoon="ShowMoveHuman" name="zhg" para1="29;26.5" para2="29.4;26.4" para3="0;0" para4="3" para5="zhg01" para6="30" para7="Imperial/Imperial_316.plist" para8="180" para9="3"/>
+<!-- 创建老汤姆 -->
+<ItemSpec id="10230154" next="10230155" lag="1" cartoon="ShowMoveHuman" name="tom" para1="29;26.5" para2="29.4;25.7" para3="0;0" para4="1" para5="gongchengshi" para6="30" para7="Imperial/Imperial_317.plist" para8="180" para9="3"/>
+<!-- 尼克：见鬼，全是生化人，这附近真的有水源吗？ -->
+<ItemSpec id="10230155" next="10230156" plot="111000135" arrow="0" area="plot_continue" enforce="1" hideLayer="1" closeAllPop="1" notAllowBreak="1"/>
+<!-- 老汤姆：咳咳，我们已经2天没喝水了，快坚持不住了... -->
+<ItemSpec id="10230156" next="10230157" plot="111000136" arrow="0" area="plot_continue" enforce="1" hideLayer="1" closeAllPop="1" notAllowBreak="1"/>
+<!-- 指挥官：别想那么多了，先挡住生化人大军的袭击。 -->
+<ItemSpec id="10230157" next="10230160" plot="140000001" arrow="0" area="plot_continue" enforce="1" hideLayer="1" closeAllPop="1" notAllowBreak="1"/>
+<!-- 添加士兵 -->
+<ItemSpec id="10230160" next="10230159" lag="0.5" cartoon="AddSoldierAttack" para1="29,26" para2="30,27" para3="100,0" para4="3" para6="0" para7="-16;120;60" para8="180" para9="480"/>
+
+<!-- 镜头移动到格子 -->
+<ItemSpec id="10230159" next="10230161" enforce="1" lag="2.0" cartoon="JumpToTile" para1="32;27" para3="1.0" notAllowBreak="1"/>
+<!-- 添加士兵 -->
+<ItemSpec id="10230161" next="10230163" lag="0.8" cartoon="AddSoldierAttack" para1="29,26" para2="30,26" para3="120,10" para4="3" para6="0" para7="-16;120;60" para8="180" para9="330"/>
+<!-- 车动画结束 -->
+<ItemSpec id="10230163" next="10230164" enforce="1" cartoon="ShowNewShiftCarEnd" lag="2.0" closeAllPop="1" notAllowBreak="1"/>
+<!-- 车动画结束 -->
+<ItemSpec id="10230164" next="10252020" cartoon="saveGuideRecord" para1="ShowNewShiftCarEnd" para2="2" para3="1" lag="0"/>
+<!-- 镜头移动到格子 -->
+<ItemSpec id="10252020" next="10230165" enforce="1" lag="1.0" cartoon="JumpToTile" para1="35;28" para3="0.7" notAllowBreak="1"/>
+<!-- 延时等待 -->
+<ItemSpec id="10230165" next="10230166" enforce="1" lag="3.0" cartoon="JumpToTile" para1="35;28" para3="0.7" notAllowBreak="1"/>
+<!-- 指挥官：该死，远处有更多的生化人正在聚过来！ -->
+<ItemSpec id="10230166" next="10230167" plot="140000002" arrow="0" area="plot_continue" enforce="1" hideLayer="1" closeAllPop="1" notAllowBreak="1"/>
+<!-- 闪烁警灯 -->
+<ItemSpec id="10230167" next="10230168" enforce="1" lag="0.1" cartoon="showAlarmLight" notAllowBreak="1"/>
+<!-- 镜头移动到格子 -->
+<ItemSpec id="10230168" next="10230169" enforce="1" lag="0.5" cartoon="JumpToTile" para1="31;26" para3="0.8" notAllowBreak="1"/>
+<!-- 瞧这些破烂的铁丝网，[color=FF51d954]修好[/color]它们才能守住这里。 -->
+<ItemSpec id="10230169" next="10230170" arrow="2" enforce="1"  hideLayer="1" hideKuang="1" sidePlot="110085208" notAllowBreak="1"/>
+<!--添加气泡 para1 坐标 para2点击后引导，para3进度走完引导,para4气泡图标-->
+<ItemSpec id="10230170" next="10230171" lag="0.5" cartoon="AddPointBubble" para1="31,26" para2="10230173" para3="10230250" para4="icon_chuizi" para5="4" para6="fence" para7="-50,50" para8="1" para9="36;-13"/>
+<!-- 点击修复按钮 -->
+<ItemSpec id="10230171" next="" click="5" clickCntDelay="1" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" fingerPosY="40" arrowScale="0.8" circleScale="0.8" offsetPos="10;5" area="bubble_fence" notAllowBreak="1"/>
+<!-- 气泡动画延迟 -->
+<ItemSpec id="10230172" next="10230173" arrow="2" lag="0.85" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 老汤姆跑过去修理 -->
+<ItemSpec id="10230173" next="10230174" enforce="1" cartoon="ShowWorkerRunToFence" speed="1.0" para1="29;26" para2="30.7;26" para3="tom" closeAllPop="1" notAllowBreak="1"/>
+<!-- 镜头拉高 -->
+<ItemSpec id="10230174" next="10230250" enforce="1" lag="2" cartoon="JumpToTile" para1="31;26" para3="0.7" notAllowBreak="1"/>
+<!-- 移动老汤姆 -->
+<ItemSpec id="10230250" next="10230175" cartoon="MoveHero" lag="0" para1="tom" para2="29.4;25.7" para3="230" para4="1" para5="3" para6="13" para7="0;0"/>
+<!--停止刷新丧尸-->
+<ItemSpec id="10230175" next="10230176" cartoon="RefreshZombie" lag="0" para1="0" para2="0;0"/>
+<!--修理栅栏-->
+<ItemSpec id="10230176" next="10230177" cartoon="FixFence" lag="2" para1="0" />
+<!-- 隐藏警灯 -->
+<ItemSpec id="10230177" next="10230178" enforce="1" lag="0.5" cartoon="hideAlarmLight" notAllowBreak="1"/>
+
+<!-- 剧情跳过创建必要资源 -->
+<!-- 创建老汤姆 -->
+<ItemSpec id="10230240" next="10230241" lag="0" cartoon="ShowMoveHuman" name="tom" para1="28.5;26.5" para2="28.5;26.5" para4="1" para5="gongchengshi" para6="13" para7="Imperial/Imperial_317.plist" para8="180" para9="5"/>
+<!-- 创建指挥官 -->
+<ItemSpec id="10230241" next="10230245" lag="1" cartoon="ShowMoveHuman" name="zhg" para1="28.5;26.5" para2="28.5;26.5" para4="3" para5="zhg01" para6="13" para7="Imperial/Imperial_316.plist" para8="180" para9="5"/>
+<!-- 天气设为低级沙尘 -->
+<ItemSpec id="10230245" next="10230178" enforce="1" cartoon="showSandstormSpineSmall" para2="60" para3="-60" lag="0"/>
+
+<!-- 指挥官：地图显示这附近就有水源，尼克，侦查一下四周！ -->
+<ItemSpec id="10230178" next="10230180" plot="111000137" arrow="0" area="plot_continue" enforce="1" hideLayer="1" closeAllPop="1" notAllowBreak="1"/>
+<!-- 移动老汤姆 -->
+<ItemSpec id="10230180" next="10230181" cartoon="MoveHero" lag="0" para1="tom" para2="28.7;27.3" para3="230" para4="1" para5="5" para6="13" para7="0;0"/>
+<!-- 移动指挥官 -->
+<ItemSpec id="10230181" next="10230179" cartoon="MoveHero" lag="0" para1="zhg" para2="29.4;27.3" para3="230" para4="1" para5="5" para6="13" para7="0;0"/>
+<!-- 镜头左移 -->
+<ItemSpec id="10230179" next="10230239" enforce="1" lag="2.7" cartoon="JumpToTile" para1="29;29" para3="0.7" notAllowBreak="1"/>
+<!-- 士兵回到坦克 -->
+<ItemSpec id="10230239" next="10230182" cartoon="BackSolider" lag="0" para1="29;26"/>
+<!-- 头，左边有个车库 -->
+<ItemSpec id="10230182" next="10230183" plot="100030026" arrow="0" area="plot_continue" enforce="1" hideLayer="1" closeAllPop="1" notAllowBreak="1"/>
+<!-- 车库头顶气泡 -->
+<ItemSpec id="10230183" next="10230184" lag="0.5" cartoon="AddPointBubble" para1="29,29" para2="10231033" para3="10230034" para4="icon_chuizi" para5="1.5" para6="garbage" para7="0,100" para8="2.5" para9="28;-12"/>
+<!-- 点击气泡 -->
+<ItemSpec id="10230184" next="" click="5" arrowScale="0.9" circleScale="0.9" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="45" offsetPos="10;0" area="bubble_garbage" notAllowBreak="1"/>
+<!-- 气泡动画延迟 -->
+<ItemSpec id="10230185" next="10230186" arrow="2" lag="0.85" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 工程师跑向车库 -->
+<ItemSpec id="10230186" next="" enforce="1" cartoon="ShowWorkerRunToGarage" speed="1.5" para1="30;27" para2="29;29" para3="tom" closeAllPop="1" notAllowBreak="1"/>
+<!-- 车库变样 -->
+<ItemSpec id="10230188" next="10230189" lag="0.0" cartoon="OccupyGarage"/>
+<!-- 移动老汤姆 -->
+<ItemSpec id="10230189" next="10230190" cartoon="MoveHero" lag="0" para1="tom" para2="28.7;27.3" para3="180" para4="1" para5="5" para6="13"/>
+<!-- 飞行拖尾特效 -->
+<ItemSpec id="10230190" next="10230191" enforce="1" lag="1.5" cartoon="show_flyEffect" para1="443000" notAllowBreak="1" closeAllPop="1"/>
+<!-- 指挥官：这里有一些建造工具，也许我们会用得上。 -->
+<ItemSpec id="10230191" next="10230192" arrow="2" enforce="1"  hideLayer="1" hideKuang="1" sidePlot="140000005" notAllowBreak="1"/>
+
+<!-- 剧情跳过创建必要资源 -->
+<!-- 创建老汤姆 -->
+<ItemSpec id="10230242" next="10230243" lag="0" cartoon="ShowMoveHuman" name="tom" para1="28.5;26.5" para2="28.7;27.3" para4="7" para5="gongchengshi" para6="13" para7="Imperial/Imperial_317.plist" para8="180" para9="7"/>
+<!-- 创建指挥官 -->
+<ItemSpec id="10230243" next="10230246" lag="1" cartoon="ShowMoveHuman" name="zhg" para1="28.5;26.5" para2="29.4;27.3" para4="7" para5="zhg01" para6="13" para7="Imperial/Imperial_316.plist" para8="180" para9="7"/>
+<!-- 天气设为低级沙尘 -->
+<ItemSpec id="10230246" next="10230192" enforce="1" cartoon="showSandstormSpineSmall" para2="60" para3="-60" lag="0"/>
+
+<!-- ******避难所开门****** -->
+<!-- 跳到大本 -->
+<ItemSpec id="10230192" next="10230193" enforce="1" lag="0.5" cartoon="JumpToTile" para1="27;27" para3="1.2" notAllowBreak="1"/>
+<!-- 出现感叹号 -->
+<ItemSpec id="10230193" next="10230194" enforce="1" lag="2" cartoon="PopupMark" closeAllPop="1" notAllowBreak="1"/>
+<!-- 半身像对话： -->
+<ItemSpec id="10230194" next="10230195" arrow="2" enforce="1" hideLayer="1" hideKuang="1" sidePlot="140000006" notAllowBreak="1"/>
+<!-- 跳到大本 -->
+<ItemSpec id="10230195" next="10230196" enforce="1" lag="0.5" cartoon="JumpToTile" para1="28;27" para3="1.2" notAllowBreak="1"/>
+<!-- 小黑人跑向大本 -->
+<ItemSpec id="10230196" next="10230197" enforce="1" cartoon="ShowHeroRunToBase" lag="0.1" closeAllPop="1" notAllowBreak="1"/>
+<!-- 移动指挥官 -->
+<ItemSpec id="10230197" next="10230244" cartoon="MoveHero" lag="0" para1="zhg" para2="28;27" para3="180" para4="1" para5="7" para6="13"/>
+<!-- 移动老汤姆 -->
+<ItemSpec id="10230244" next="10230198" cartoon="MoveHero" lag="0" para1="tom" para2="28;26.5" para3="180" para4="1" para5="7" para6="13"/>
+
+<!-- 跳到大本 -->
+<ItemSpec id="10230198" next="10230199" enforce="1" lag="2.5" cartoon="JumpToTile" para1="27;27" para3="1.2" notAllowBreak="1"/>
+<!-- 等一秒 -->
+<ItemSpec id="10230199" next="10230200" arrow="2" lag="0.5" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1"/>
+<!-- 尼克：嘘，好像有幸存者的声音~~我们需要打开这扇门 -->
+<ItemSpec id="10230200" next="10230201" plot="140000007" arrow="0" area="plot_continue" enforce="1" hideLayer="1" closeAllPop="1" notAllowBreak="1"/>
+<!-- 移动镜头到大本 -->
+<ItemSpec id="10230201" next="10230202" enforce="1" lag="0.5" cartoon="JumpToTile" para1="26;27" para3="1.0" notAllowBreak="1"/>
+<!-- 大本头顶气泡 -->
+<ItemSpec id="10230202" next="10230204" lag="0.5" cartoon="AddPointBubble" para1="25,26" para2="10230203" para3="10230205" para4="icon_chaqi" para6="base" para5="1.5" para7="25,-30" para8="0.5" para9="36;-13"/>
+<!-- 无具体作用，去掉引导箭头提示 -->
+<ItemSpec id="10230203" next="" arrow="2" lag="5.0" enforce="1" hideLayer="1" hideKuang="1" notAllowBreak="1" notRecord="1"/>
+<!-- 点击气泡 -->
+<ItemSpec id="10230204" next="" click="5" arrowScale="0.9" circleScale="0.9" clickCntDelay="1" hideLayer="1" enforce="1"  hideKuang="1" showFinger="1" fingerPosY="45" offsetPos="10;0" area="bubble_base" notAllowBreak="1"/>
+<!-- 开门动画 -->
+<ItemSpec id="10230205" next="10230206" enforce="1" cartoon="ShowOpenDoor" lag="0.0" closeAllPop="1" notAllowBreak="1" para1="1"/>
+<!-- 跳到建筑 -->
+<ItemSpec id="10230206" next="10230208" enforce="1" lag="1.0" cartoon="JumpToTile" para1="26;27" para3="1.2" notAllowBreak="1"/>
+<!-- 设置建筑和UI可以点击 -->
+<ItemSpec id="10230208" next="10230209" enforce="1" lag="3.5" cartoon="SetBuildAndUICanClick" closeAllPop="1" notAllowBreak="1"/>
+<!-- 90580005  艾达：谢天谢地，总算有人来了！请帮帮我们，基地已经没有食物和水了。 -->
+<ItemSpec id="10230209" next="10230210" plot="111000138" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" closeAllPop="1"/>
+<!-- 老汤姆：发生了什么？根据情报，这里应该存在水源。 -->
+<ItemSpec id="10230210" next="10230211" plot="111000139" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" closeAllPop="1"/>
+<!-- 艾达：一切都被生化人大军淹没了...水源被污染了，活下来的只有我们这些人。 -->
+<ItemSpec id="10230211" next="10230212" plot="111000140" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" closeAllPop="1"/>
+<!-- 突然，出现了沙尘暴预警-->
+<ItemSpec id="10230212" next="10230213" cartoon="showSandstormWarning" enforce="1" lag="2.5"/>
+<!-- 尼克：糟糕，风越来越强，沙尘暴就要来了 -->
+<ItemSpec id="10230213" next="10230214" plot="111000141" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" closeAllPop="1"/>
+<!-- 老汤姆：大家快躲进避难所里...咳咳... -->
+<ItemSpec id="10230214" next="10230215" plot="111000142" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" closeAllPop="1"/>
+<!-- 显示倒计时 -->
+<ItemSpec id="10230215" next="10230221" cartoon="ShowSandStormTime" lag="0.0" para1="6"/>
+<!-- 缩放镜头 -->
+<ItemSpec id="10230221" next="10230219" enforce="1" lag="0" cartoon="JumpToTile" para1="26;26" para3="0.75" para4="4" notAllowBreak="1"/>
+
+<!-- 移除艾达 -->
+<ItemSpec id="10230219" next="10230218" cartoon="RemoveAda" lag="0.1"/>
+<!-- 移动黑衣人 -->
+<ItemSpec id="10230218" next="10230216" cartoon="MoveHero" lag="0.2" para1="qb" para2="26;26.8" para3="200" para4="1" para5="5" para6="13" para8="0.5"/>
+<!-- 移动汤姆 -->
+<ItemSpec id="10230216" next="10230220" cartoon="MoveHero" lag="0.5" para1="tom" para2="26;26.8" para3="200" para4="1" para5="5" para6="13" para8="0.5"/>
+<!-- 坦克回到车库 -->
+<ItemSpec id="10230220" next="10230217" cartoon="BackShiftCar" lag="0"/>
+<!-- 移动指挥官 -->
+<ItemSpec id="10230217" next="10230247" cartoon="MoveHero" lag="3" para1="zhg" para2="26;26.8" para3="200" para4="1" para5="5" para6="13" para8="0.5"/>
+
+<ItemSpec id="10230247" next="10230222" cartoon="CloseMainBuildDoor" lag="2"/>
+
+<!-- 剧烈沙尘暴来袭 -->
+<ItemSpec id="10230222" next="10230248" cartoon="showSandstormSpineBig" lag="1" para1="0" para2="3" para3="1" cannotBreakDub="91000002" isLoop="1"/>
+<ItemSpec id="10230248" next="10230223" cartoon="ShowSandStormTime" lag="1" para1="86400" para2="111850784"/>
+<!-- 出现四人口渴缺水的头像 -->
+<ItemSpec id="10230223" next="10230224" lag="0.2" cartoon="ShowThirstyIcon" para1="26,26.5" para2="-70,70" para3="H_bg_Aida" para4="mainIcon1" para5="6"/>
+<ItemSpec id="10230224" next="10230225" lag="0.2" cartoon="ShowThirstyIcon" para1="26,26.5" para2="70,70" para3="H_bg_Nick" para4="mainIcon2" para5="6"/>
+<ItemSpec id="10230225" next="10230226" lag="0.2" cartoon="ShowThirstyIcon" para1="26,26.5" para2="-70,-70" para3="H_bg_commander" para4="mainIcon3" para5="6"/>
+<ItemSpec id="10230226" next="10230254" lag="4" cartoon="ShowThirstyIcon" para1="26,26.5" para2="70,-70" para3="H_bg_tom" para4="mainIcon4" para5="6"/>
+<ItemSpec id="10230254" next="10230261" lag="1" cartoon="RemoveThirstyIcon" para1="mainIcon4" para2="6"/>
+<ItemSpec id="10230261" next="10230227" cartoon="stopCannotBreakDubSound" lag="0"/>
+<!-- 尼克：不好了，老汤姆晕倒了！ -->
+<ItemSpec id="10230227" next="10230228" plot="111000143" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" closeAllPop="1"/>
+<!-- 指挥官：老汤姆，你怎么了？ -->
+<ItemSpec id="10230228" next="10230229" plot="111000144" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" closeAllPop="1"/>
+<!-- 老汤姆(垂死)：笔记...图纸...咳咳...(断气) -->
+<ItemSpec id="10230229" next="10230230" plot="111000145" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" closeAllPop="1"/>
+<!-- 尼克：老汤姆！ -->
+<ItemSpec id="10230230" next="10230231" plot="111000146" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" closeAllPop="1"/>
+<!-- 指挥官：老伙计，你快醒醒！ -->
+<ItemSpec id="10230231" next="10230162" plot="111000147" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" closeAllPop="1"/>
+<!-- 移除大沙尘暴 -->
+<ItemSpec id="10230162" next="10230251" lag="0" cartoon="removeBigSandStorm" para1="3"/>
+<ItemSpec id="10230251" next="10230252" lag="0" cartoon="RemoveThirstyIcon" para1="mainIcon1" para2="6"/>
+<ItemSpec id="10230252" next="10230253" lag="0" cartoon="RemoveThirstyIcon" para1="mainIcon2" para2="6"/>
+<ItemSpec id="10230253" next="10230232" lag="0" cartoon="RemoveThirstyIcon" para1="mainIcon3" para2="6"/>
+<!-- 汤姆墓碑全屏背景 -->
+<ItemSpec id="10230232" next="10230233" lag="8" cartoon="ShowTomDie"/>
+<!-- 尼克：头儿，在老汤姆的遗物中找到了这个。 -->
+<ItemSpec id="10230233" next="10230234" plot="111000148" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" />
+<!-- 显示图纸 -->
+<ItemSpec id="10230234" next="10230235" cartoon="ShowWaterPaper" lag="3.5" soft="1" para1="10230249"/>
+<!-- 艾达：这张难道是净水处理站的图纸？有了它就不愁没水喝。 -->
+<ItemSpec id="10230235" next="10230236" plot="111000149" arrow="0" area="plot_continue" enforce="1"  hideLayer="1"/>
+<!-- 尼克：老汤姆本想用净水站在这里建造一个绿洲避难所，好帮助更多的幸存者... -->
+<ItemSpec id="10230236" next="10230237" plot="111000150" arrow="0" area="plot_continue" enforce="1"  hideLayer="1"/>
+<!-- 指挥官：我们要活下去，并替他实现这个愿望! -->
+<ItemSpec id="10230237" next="10230249" plot="111000151" arrow="0" area="plot_continue" enforce="1"  hideLayer="1" />
+<!-- 搬东西动画 -->
+<ItemSpec id="10230249" next="10230238" enforce="1" cartoon="ShowBaseMoveBox" lag="0.0" closeAllPop="1" notAllowBreak="1"/>
+<!-- 退出背景 移除小沙尘暴 -->
+<ItemSpec id="10230238" next="10230056" lag="0" cartoon="QuitWaterGuide"/>
+
+<!-- 寻找水源引导线 结束 end -->
+
+
+<!-- 绿化飘资源 -->
+<!-- 等待3秒 飘资源 -->
+<ItemSpec id="10240217" next="10240219"  lag="1.5"/>
+<!-- 移动到大本-->
+<ItemSpec id="10240219" next="10240221" cartoon="JumpToTile" para1="26;26" para2="1" para3="0.72" lag="0.5"/>
+<!-- 播放地表变化CG -->
+<ItemSpec id="10240221" next="10240218" lag="3" cartoon="PlayVideo" para1="mainLv1.mp4" soft="1" local="1"/>
+<!-- 屏蔽UI -->
+<ItemSpec id="10240218" next="10240222" cartoon="UIHide" closeAllPop="1" lag="0.1"/>
+<!-- 扩圈 lag：扩圈间隔多久后开始拉高镜头-->
+<ItemSpec id="10240222" next="10240226" cartoon="startGroundLvUpAni" para1="0.35" para2="27;27" hideLayer="1" lag="0.2" notAllowBreak="1"/>
+<!-- 镜头拉高 坐标 类型 倍数 -->
+<ItemSpec id="10240226" next="10240227" cartoon="JumpToTile" para1="26;26" para2="1" para3="0.35" lag="1"/>
+<!-- 等待 -->
+<ItemSpec id="10240227" next="10240223"  lag="0.1"/>
+<!-- 地表等级提升UI -->
+<ItemSpec id="10240223" next="10240224" cartoon="showGroundLvUp" hideLayer="1" area="groundLvUp_1"/>
+<!-- 镜头拉近 -->
+<ItemSpec id="10240224" next="10240225" cartoon="JumpToTile" hideLayer="1" para1="26;26" para2="1" para3="0.5" lag="0.5"/>
+<!-- 对话 -->
+<ItemSpec id="10240225" next="10230071" cartoon="showGroundLvUpPlot" area="plot_continue" />
+
+<!-- 绿化飘资源 end -->
+
+
+<!-- ******沙暴来袭 任务1 任务开始引导 2024/11****** -->
+<!-- 设置塔防引导检查 -->
+<ItemSpec id="30003500" next="10243501" cartoon="saveGuideRecord" para1="SandstormGuide1" para2="1" para3="1" lag="0.1"/>
+<!-- 节奏控制等待一秒 -->
+<ItemSpec id="10243501" next="10243502" arrow="2" lag="0.4" hideLayer="1" enforce="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 播放强沙尘暴 -->
+<ItemSpec id="10243502" next="10243503" enforce="1" lag="2" cartoon="showSandstormSpineSmall" para1="20" notAllowBreak="1" para2="60" para3="-60"/>
+<!-- 110088801 战帅：咳，咳……天哪，好强的沙尘暴！。 -->
+<ItemSpec id="10243503" next="10243504" plot="110088801" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 110088802 战帅：这沙尘暴会把我们全都吹飞的，头儿，我们得抓紧撤退了。 -->
+<ItemSpec id="10243504" next="10243505" plot="110088802" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<ItemSpec id="10243505" next="10243506" arrow="2" lag="0.8" hideLayer="1" enforce="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 110088803 指挥官：不，附近没有适合建设避难所的地方，我们没有更好的选择了。 -->
+<ItemSpec id="10243506" next="10243507" plot="110088803" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 110088804 指挥官：加固建筑，储备足够的物资，我们准备迎接风沙！ -->
+<ItemSpec id="10243507" next="10243508" plot="110088804" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 播放沙暴来袭弹条 -->
+<ItemSpec id="10243508" next="10243511" enforce="1" lag="4" cartoon="showSandstormWarning" notAllowBreak="1"/>
+<!-- 显示入口 -->
+<ItemSpec id="10243511" next="10243512" enforce="1" lag="0.5" cartoon="showSandstormSpineSmall" para1="25" notAllowBreak="1"/>
+<ItemSpec id="10243512" next="10243513" cartoon="saveGuideRecord" para1="showSandstormEntrance_1" para2="1" para3="1" lag="0.1"/>
+<ItemSpec id="10243513" next="10243514" cartoon="showSandstormEntrance" lag="0.4"/>
+<!-- 指引入口 -->
+<ItemSpec id="10243514" next="10243515" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" area="UI_SandstormNode1" closeAllPop="1" notAllowBreak="1"/>
+<ItemSpec id="10243515" next="10243516" arrow="2" lag="0.5" hideLayer="1" enforce="1" notAllowBreak="1" closeAllPop="1"/>
+<ItemSpec id="10243516" next="10243517" lag="0.1" cartoon="removeSandstormSpineSmall" para1="3"/>
+<ItemSpec id="10243517" next="10243509" hideLayer="1" enforce="1" hideKuang="1" showFinger="1" area="UI_SandstormNode2" closeAllPop="1" notAllowBreak="1"/>
+<!-- 节奏控制等待一秒 -->
+<ItemSpec id="10243509" next="10243518" arrow="2" lag="0.8" hideLayer="1" enforce="1" notAllowBreak="1" closeAllPop="1"/>
+<!-- 界面按钮 -->
+<ItemSpec id="10243518" next="30001550" arrow="0" area="LuaGetGuideNode_1" para1="SandstormView" para2="m_taskGoBtn2" showFinger="1" enforce="1" hideLayer="1"/>
+
+
+<!-- ******塔防1.0英雄上阵引导****** -->
+<!-- 判断功能是否开启 -->
+<ItemSpec id="30003520" next="" cartoon="checkHeroTDOpen" enforce="1" lag="0.5" para1="30003521" para2=""/>
+<!-- 引导对话1 -->
+<ItemSpec id="30003521" next="30003522" plot="110088104" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1" />
+<!-- 引导玩家点击塔防1.0洁面驻扎按钮 -->
+<ItemSpec id="30003522" next="30003523" enforce="1" area="FBMapObjCombiUI_heroUpBtn" showFinger="1" notAllowBreak="1" hideLayer="1" hideKuang="1" click="5" clickCntDelay="1"/>
+<!-- 引导玩家点击上阵按钮 -->
+<ItemSpec id="30003523" next="30003524" enforce="1" area="FBTDPlaceHeroOnTowerView_MachineAdd" showFinger="1"  notAllowBreak="1" hideLayer="1" hideKuang="1" fingerPosY="40" click="5" clickCntDelay="1"/>
+<!-- 引导拖动英雄头像至加号出 -->
+<ItemSpec id="30003524" next="30003525" cartoon="show_tower_hero_hand" soft="1" softActType="" para="10163"/>
+<!-- 艾达对话 -->
+<ItemSpec id="30003525" next="30003526" plot="110088105" enforce="1" area="plot_continue"  notAllowBreak="1" hideLayer="1" arrow="0"/>
+<!-- 引导关闭英雄设置界面 -->
+<ItemSpec id="30003526" next="30003527" enforce="1" area="FBTDChooseHeroView_returnBtn" showFinger="1"  notAllowBreak="1" hideLayer="1" hideKuang="1" fingerPosY="40" click="5" clickCntDelay="1"/>
+<!-- 引导关闭防御塔设置界面 -->
+<ItemSpec id="30003527" next="" enforce="1" area="FBTDPlaceHeroOnTowerView_returnBtn" showFinger="1"  notAllowBreak="1" hideLayer="1" hideKuang="1" fingerPosY="40" click="5" clickCntDelay="1"/>
+
+
+<!-- ******塔防1.0英雄培养引导****** -->
+<!-- 引导对话1 -->
+<ItemSpec id="30003531" next="30003532" plot="110088106" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 引导玩家点击塔防1.0洁面驻扎按钮 -->
+<ItemSpec id="30003532" next="30003533" enforce="1" area="FBTDPlaceHeroOnTowerView_MachineAdd" showFinger="1"  notAllowBreak="1" hideLayer="1" hideKuang="1" fingerPosY="40" click="5" clickCntDelay="1"/>
+<!-- 引导玩家点击强化按钮 -->
+<ItemSpec id="30003533" next="30003534" enforce="1" area="FBTDChooseHeroView_ExpBtn" showFinger="1"  notAllowBreak="1" hideLayer="1" hideKuang="1" fingerPosY="40" click="5" clickCntDelay="1"/>
+<!-- 等待一秒 -->
+<ItemSpec id="30003534" next="30003535" arrow="2" lag="1.5" hideLayer="1" enforce="1" notAllowBreak="1" closeAllPop="0"/>
+<!-- 引导玩家点击第一个英雄技能 -->
+<ItemSpec id="30003535" next="30003536" enforce="1" area="FBHeroView_firstSkill" showFinger="1"  notAllowBreak="1" hideLayer="1" hideKuang="1" fingerPosY="40" click="5" clickCntDelay="1"/>
+<!-- 引导玩家点击英雄升级 -->
+<ItemSpec id="30003536" next="30003537" enforce="1" area="FBHeroNewShowSkillView_upBtn" showFinger="1"  notAllowBreak="1" hideLayer="1" hideKuang="1" fingerPosY="40" click="5" clickCntDelay="1"/>
+<!-- 艾达对话 -->
+<ItemSpec id="30003537" next="30003538" plot="110088107" enforce="1" area="plot_continue"  notAllowBreak="1" hideLayer="1" arrow="0"/>
+<!-- 引导关闭英雄培养界面 -->
+<ItemSpec id="30003538" next="30003539" enforce="1" area="FBHeroNewShowSkillView_returnBtn" showFinger="1"  notAllowBreak="1" hideLayer="1" hideKuang="1" fingerPosY="40" click="5" clickCntDelay="1"/>
+<!-- 引导关闭防御塔设置界面 -->
+<ItemSpec id="30003539" next="" enforce="1" area="FBHeroView_returnBtn" showFinger="1"  notAllowBreak="1" hideLayer="1" hideKuang="1" fingerPosY="40" click="5" clickCntDelay="1"/>
+
+
+<!-- ******通关第10关后，引导返回内城****** -->
+<!-- 【指挥官】有了这道防线，就不用担心尸潮一夜之间淹没这里了。 -->
+<ItemSpec id="30001837" next="30001838" plot="110085238" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 【艾达】我们从刚才死亡的BOSS身上找到了大量的城建资源，可以用来修建建筑和解锁地块！ -->
+<ItemSpec id="30001838" next="30001839" plot="110085239" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10" closeAllPop="1"/>
+<!-- 设置UI -->
+ <ItemSpec id="30001839" next="30001840" cartoon="ShowBackMainCityBtn" lag="0.1" enforce="1" closeAllPop="1" notAllowBreak="1" fbTouchHandler="1" hideLayer="1"/>
+<!-- 点击返回内城 -->
+<ItemSpec id="30001840" next="30001841" enforce="1" area="FBMapObjCombiUI_backCityBtn" showFinger="1" fingerPosY="40" notAllowBreak="1" hideLayer="1" hideKuang="1" click="5" clickCntDelay="1" arrowAngle="315"/>
+<!-- 等一秒 -->
+<ItemSpec id="30001841" next="30001843" enforce="1" lag="1.0" notAllowBreak="1"/>
+<!-- 对话 -->
+<ItemSpec id="30001843" next="30001845" plot="141000101" arrow="0" area="plot_continue" enforce="1" hideLayer="1" lag="10"/>
+<!-- 延迟，触发引导 -->
+<ItemSpec id="30001845" next="" arrow="2" lag="0.3" hideLayer="1" enforce="1" notAllowBreak="1" closeAllPop="1"/>
+
+
+
+</Group>
+</tns:database>

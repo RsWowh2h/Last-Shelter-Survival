@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="temple_gift_pool">
+		<ItemSpec id="900001" type="1" name="104697" picture="item200060" basePicture="item200060" consume="280000;1" reward="1000000" preview="200060;5|200060;4|200060;3|200060;2|200060;1|200567;5"/>
+		<ItemSpec id="900002" type="2" name="170243" picture="item405" basePicture="item405" consume="280000;1" reward="1000001" preview="210004;25|210005;10|210006;10|210007;6|210008;5|200060;1|200567;5"/>
+		<ItemSpec id="900003" type="3" name="952700020" picture="item200" basePicture="item200" consume="280000;1" reward="1000002" preview="200201;200|200225;100|200226;50|200200;20|200060;1|200567;5"/>
+		<ItemSpec id="900004" type="4" name="952700021" picture="item406" basePicture="item406" consume="280000;1" reward="1000003" preview="200366;5|200367;2|200368;2|200369;1|200060;1|200567;5"/>
+	</Group>
+</tns:database>

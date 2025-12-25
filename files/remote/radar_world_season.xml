@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="radar_world_season">
+    <ItemSpec id="10001" SeverID="900065,900001,900064,900003" SeasonTypeID="9" World_Monster="0" Radar_World_Guide="0" QualityGroupName="radar_quality_1" Radar_Energy="1" Radar_Refresh="1" Radar_Share="1" MainmissionID="100001" TaskGroup="1" MissionGroup="1" WorldLvGroup="1" RefreshNum="8" UseMap="1" />
+
+    <ItemSpec id="10002" SeverID="900005,900006,900007,900008,900009,900010,900011,900022,900023,900024,900025,900026,900027,900051,900037,900029" SeasonTypeID="9" World_Monster="0" Radar_World_Guide="0" QualityGroupName="radar_quality_4" Radar_Energy="1" Radar_Refresh="1" Radar_Share="1" MainmissionID="100101" TaskGroup="2" MissionGroup="2" WorldLvGroup="2" RefreshNum="8" UseMap="1" />
+
+
+    <ItemSpec id="10099" SeverID="2901" SeasonTypeID="-1" World_Monster="1" Radar_World_Guide="1" QualityGroupName="radar_quality_99" Radar_Energy="99" Radar_Refresh="99" Radar_Share="99" MainmissionID="" TaskGroup="99" MissionGroup="9" WorldLvGroup="1" RefreshNum="1" UseMap="1" />
+
+</Group>
+</tns:database>

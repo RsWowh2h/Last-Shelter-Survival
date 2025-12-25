@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <Group id="signal_icon">
+    <ItemSpec id="1001" icon="img_head_chat_signal_01" />
+    <ItemSpec id="1002" icon="img_head_chat_signal_02" />
+    <ItemSpec id="1003" icon="img_head_chat_signal_03" />
+    <ItemSpec id="1004" icon="img_head_chat_signal_04" />
+    <ItemSpec id="1005" icon="img_head_chat_signal_05" />
+    <ItemSpec id="1006" icon="img_head_chat_signal_06" />
+
+    </Group>
+
+</tns:database>

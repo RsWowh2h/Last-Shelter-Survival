@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="decompose">
+    <ItemSpec id="1" material="211207" showNum="10000" time="36" product1="211214" num1="1" product2="3" num2="1" powercost="150"/>
+    <ItemSpec id="2" material="211208" showNum="10000" time="36" product1="211214" num1="1" product2="11" num2="1" powercost="150"/>
+    <ItemSpec id="3" material="211209" showNum="10000" time="36" product1="211214" num1="1" product2="2" num2="1" powercost="150"/>
+    <ItemSpec id="4" material="211210" showNum="10000" time="36" product1="211213" num1="1" product2="0" num2="1" powercost="150"/>
+    <ItemSpec id="5" material="211211" showNum="10000" time="36" product1="211213" num1="1" product2="211214" num2="1" powercost="150"/>
+    <ItemSpec id="6" material="211212" showNum="10000" time="36" product1="211213" num1="1" product2="1" num2="1" powercost="150"/>
+	<ItemSpec id="7" group="1" material="211207" showNum="10000" time="36" product1="211214" num1="1" product2="3" num2="1" product3="211211" num3="0.0025" powercost="150"/>
+    <ItemSpec id="8" group="1" material="211208" showNum="10000" time="36" product1="211214" num1="1" product2="11" num2="1" product3="211211" num3="0.0025" powercost="150"/>
+    <ItemSpec id="9" group="1" material="211209" showNum="10000" time="36" product1="211214" num1="1" product2="2" num2="1" product3="211211" num3="0.0025" powercost="150"/>
+    <ItemSpec id="10" group="1" material="211210" showNum="10000" time="36" product1="211213" num1="1" product2="0" num2="1" product3="211211" num3="0.0025" powercost="150"/>
+    <ItemSpec id="11" group="1" material="211211" showNum="10000" time="21600" product1="11" num1="1" product2="1" num2="1" product3="215204" num3="1" powercost="150"/>
+    <ItemSpec id="12" group="1" material="211212" showNum="10000" time="36" product1="211213" num1="1" product2="1" num2="1" product3="211211" num3="0.0025" powercost="150"/>
+  </Group>
+</tns:database>

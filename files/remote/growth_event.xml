@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="growth_event">
+    <ItemSpec id="1910000" growth_score="0|320000|1450000|2850000|4200000" growth_pic="icon_meigui01|icon_meigui02|icon_meigui03|icon_meigui04|icon_meigui05" growth_name="90821086|90821087|90821088|90821089|90821090" advertise_pic="FB_qingrenjie_beijing02" growth_effect="323,512;qingrenjie_1|323,512;qingrenjie_1,qingrenjie_2|323,512;qingrenjie_1,qingrenjie_2,qingrenjie_3,qingrenjie_6|302,667;qingrenjie_5|323,512;qingrenjie_1,qingrenjie_2,qingrenjie_3,qingrenjie_6|302,667;qingrenjie_4,qingrenjie_5,qingrenjie_9|323,512;qingrenjie_1,qingrenjie_2,qingrenjie_3,qingrenjie_6,qingrenjie_7,qingrenjie_8|302,667;qingrenjie_4,qingrenjie_9,qingrenjie_10,qingrenjie_11|312,627;qingrenjie_12" level_effect="1|2|3,4|5,6|7,8,9" growth_detail="90823003|90823003|90823004|90823005|90823006" growth_task_pic="FB_qingrenjie_xiangqing01" growth_desc="90821093|90821094|90821095|90821091|90821092|90823009|90821096|90821097|90821098|90821099|90823001|90821100|90823002|90823007" growth_icon="icon_qingrenjie_renwu01" pop_up="1" pop_up_desc="90821085" pop_up_pic="FB_qingrenjie_BG" pop_up_detail="90823016" />
+
+
+
+
+
+
+
+
+
+
+
+
+</Group>
+</tns:database>

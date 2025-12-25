@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="biochemical_beauty_story">
+    <ItemSpec id="1001001" type="1" bgp="biochemical_beauty_bg_cultivate" content="236082" />
+    <ItemSpec id="1001002" type="1" bgp="biochemical_beauty_bg_cultivate" content="236087" />
+    <ItemSpec id="1001003" type="1" bgp="biochemical_beauty_bg_cultivate" content="236092" />
+    <ItemSpec id="1001004" type="1" bgp="biochemical_beauty_bg_cultivate" content="236093" />
+    <ItemSpec id="1001005" type="1" bgp="biochemical_beauty_bg_cultivate" content="236094" />
+    <ItemSpec id="1002001" type="2" guide_id="30003713" />
+    <ItemSpec id="1002002" type="2" guide_id="30003716" />
+    <ItemSpec id="1003001" type="3" guide_id="30003709" option="236096;236109|236097;236110|236098;236111" />
+    <ItemSpec id="1003002" type="3" guide_id="30003710" option="236100;236112|236101;236113|236102;236114" />
+    <ItemSpec id="1004001" type="4" guide_id="30003711" question="236116;236123|236117;236124|236118;236125" answer="3" />
+    <ItemSpec id="1004002" type="4" guide_id="30003712" question="236120;236126|236121;236127|236122;236128" answer="1" />
+
+</Group>
+</tns:database>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="decoration_skill">
+ 
+    <ItemSpec id="100001" skin_id="180002" name="110470013" description="110470014" desc_value="5|10" icon="FB_IC_DS_gongji" type="0"  object="1" effect="27420;5" cd_time="86400" duration="600" />
+    <ItemSpec id="100002" skin_id="180003" name="110320481" description="110320482" desc_value="5|10" icon="FB_IC_DS_fangyu" type="0" object="1" effect="24050;5" cd_time="86400" duration="600" />
+    <ItemSpec id="100003" skin_id="180004" name="110223588" description="110223589" desc_value="10|10" icon="FB_IC_DS_jixielong" type="0" object="1" effect="27420;10" cd_time="86400" duration="600" />
+    <ItemSpec id="100004" skin_id="180005" name="110661249" description="110661250" desc_value="30|10" icon="FB_IC_DS_santaclaus" type="0" object="1" effect="24013;30|24014;30" cd_time="86400" duration="600" />
+		<ItemSpec id="100005" skin_id="100006" name="110661371" description="110661372" desc_value="30|10" icon="FB_IC_DS_dragon" type="0" object="1" effect="24011;30|24012;30" cd_time="86400" duration="600"/>
+		<ItemSpec id="100006" skin_id="100007" name="110661381" description="110661382" desc_value="5|10" icon="FB_IC_DS_moneyman" type="0" object="1" effect="27453;5|27454;5" cd_time="86400" duration="600"/>
+		<ItemSpec id="100007" skin_id="100008" name="110661484" description="110661485" desc_value="5|10" icon="FB_IC_DS_horse" type="0" object="1" effect="27451;5|27452;5" cd_time="86400" duration="600"/>
+		<ItemSpec id="100008" skin_id="100009" name="110661629" description="110661630" desc_value="15|10" icon="FB_IC_DS_missile" type="0" object="1" effect="27423;15|27424;15" cd_time="86400" duration="600"/>
+		<ItemSpec id="100009" skin_id="100010" name="110661635" description="110661636" desc_value="15|10" icon="FB_IC_DS_book" type="0" object="1" effect="27425;15|27426;15" cd_time="86400" duration="600"/>
+		<ItemSpec id="100010" skin_id="100011" name="110661881" description="110661882" desc_value="5|10" icon="FB_IC_DS_clock" type="0" object="1" effect="27455;5|27456;5" cd_time="86400" duration="600"/>
+		<ItemSpec id="100011" skin_id="100012" name="110661981" description="110661982" desc_value="15|10" icon="FB_IC_DS_fashi" type="0" object="1" effect="27421;15|27422;15" cd_time="86400" duration="600"/>
+		
+
+ </Group >
+ 
+
+</tns:database>

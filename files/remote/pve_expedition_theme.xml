@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="pve_expedition_theme">
+
+    <ItemSpec id="1001" type="1" story="110520121|110520163|110520164|110520165|110520166" lv_desc="110520141|110520142|110520143|110520144|150452" enemy="1001;1013|1002;1003|1004;1005;1006|1007;1008;1009|1010;1011;1012" show_reward="330001;203517|330001;203517|330001;203517|330001;203517|330001;203517" power_limit="100000|1850000|3610000|5360000|7120000|712000000" />
+
+
+
+
+
+
+  </Group>
+</tns:database>

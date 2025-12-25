@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="Moba_position">
+
+<ItemSpec id="39" x="605" y="590" type="2001" />
+<ItemSpec id="40" x="606" y="590" type="2001" />
+<ItemSpec id="61" x="605" y="591" type="2001" />
+<ItemSpec id="62" x="606" y="591" type="2001" />
+<ItemSpec id="105" x="605" y="593" type="2001" />
+<ItemSpec id="106" x="606" y="593" type="2001" />
+<ItemSpec id="108" x="608" y="593" type="2001" />
+<ItemSpec id="109" x="609" y="593" type="2001" />
+<ItemSpec id="127" x="605" y="594" type="2001" />
+<ItemSpec id="128" x="606" y="594" type="2001" />
+<ItemSpec id="130" x="608" y="594" type="2001" />
+<ItemSpec id="131" x="609" y="594" type="2001" />
+<ItemSpec id="354" x="590" y="605" type="2001" />
+<ItemSpec id="355" x="591" y="605" type="2001" />
+<ItemSpec id="357" x="593" y="605" type="2001" />
+<ItemSpec id="358" x="594" y="605" type="2001" />
+<ItemSpec id="376" x="590" y="606" type="2001" />
+<ItemSpec id="377" x="591" y="606" type="2001" />
+<ItemSpec id="379" x="593" y="606" type="2001" />
+<ItemSpec id="380" x="594" y="606" type="2001" />
+<ItemSpec id="423" x="593" y="608" type="2001" />
+<ItemSpec id="424" x="594" y="608" type="2001" />
+<ItemSpec id="445" x="593" y="609" type="2001" />
+<ItemSpec id="446" x="594" y="609" type="2001" />
+
+
+
+
+
+
+    </Group >
+
+</tns:database>

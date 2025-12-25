@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="satellite_showeffect">
+		<ItemSpec id="1001" effect="41810" describe="110022383" tab="10000"/>
+		<ItemSpec id="1002" effect="41720" describe="110110197" tab="10000"/>
+		<ItemSpec id="1003" effect="41790" describe="110110198" tab="10000"/>
+		<ItemSpec id="1004" effect="41800" describe="110110199" tab="10000"/>
+		<ItemSpec id="1005" effect="41730" describe="110110217" tab="10000"/>
+		<ItemSpec id="1006" effect="41740" describe="110110216" tab="10000"/>
+		<ItemSpec id="1007" effect="41820" describe="90700010" tab="10000"/>
+		<ItemSpec id="1008" effect="41750" describe="76601799" tab="10000"/>
+		<ItemSpec id="1009" effect="41760" describe="76601800" tab="10000"/>
+		<ItemSpec id="1010" effect="41770" describe="77110003" tab="10000"/>
+		<ItemSpec id="1011" effect="41780" describe="77110004" tab="10000"/>
+		<ItemSpec id="1012" effect="1790" describe="88001463" tab="10000"/>
+		<ItemSpec id="1013" effect="1800" describe="88001464" tab="10000"/>
+		<ItemSpec id="1016" effect="41811" describe="113800" tab="10001"/>
+		<ItemSpec id="1017" effect="41721" describe="113801" tab="10001"/>
+		<ItemSpec id="1018" effect="41815" describe="113808" tab="10002"/>
+		<ItemSpec id="1019" effect="41725" describe="113809" tab="10002"/>
+		<ItemSpec id="1020" effect="41813" describe="113804" tab="10003"/>
+		<ItemSpec id="1021" effect="41723" describe="113805" tab="10003"/>
+		<ItemSpec id="1022" effect="41791" describe="90821324" tab="10001"/>
+		<ItemSpec id="1023" effect="41793" describe="90821636" tab="10003"/>
+		<ItemSpec id="1024" effect="41795" describe="90821537" tab="10002"/>
+		<ItemSpec id="1025" effect="41801" describe="90821325" tab="10001"/>
+		<ItemSpec id="1026" effect="41803" describe="90821637" tab="10003"/>
+		<ItemSpec id="1027" effect="41805" describe="90821538" tab="10002"/>
+		<ItemSpec id="1028" effect="41731" describe="113802" tab="10001"/>
+		<ItemSpec id="1029" effect="41735" describe="79032360" tab="10002"/>
+		<ItemSpec id="1030" effect="41733" describe="113806" tab="10003"/>
+		<ItemSpec id="1031" effect="41741" describe="90821336" tab="10001"/>
+		<ItemSpec id="1032" effect="41745" describe="79022061" tab="10002"/>
+		<ItemSpec id="1033" effect="41743" describe="90821633" tab="10003"/>
+		<ItemSpec id="1034" effect="41821" describe="190971" tab="10001"/>
+		<ItemSpec id="1035" effect="41823" describe="190973" tab="10003"/>
+		<ItemSpec id="1036" effect="41825" describe="190972" tab="10002"/>
+		<ItemSpec id="1037" effect="41751" describe="113835" tab="10001"/>
+		<ItemSpec id="1038" effect="41753" describe="113837" tab="10003"/>
+		<ItemSpec id="1039" effect="41755" describe="113836" tab="10002"/>
+		<ItemSpec id="1040" effect="41761" describe="113842" tab="10001"/>
+		<ItemSpec id="1041" effect="41763" describe="113844" tab="10003"/>
+		<ItemSpec id="1042" effect="41765" describe="113843" tab="10002"/>
+		<ItemSpec id="1043" effect="41771" describe="113849" tab="10001"/>
+		<ItemSpec id="1044" effect="41773" describe="113851" tab="10003"/>
+		<ItemSpec id="1045" effect="41775" describe="113850" tab="10002"/>
+		<ItemSpec id="1046" effect="41781" describe="113859" tab="10001"/>
+		<ItemSpec id="1047" effect="41783" describe="113861" tab="10003"/>
+		<ItemSpec id="1048" effect="41785" describe="113860" tab="10002"/>
+		<ItemSpec id="1049" effect="1791" describe="90602002" tab="10001"/>
+		<ItemSpec id="1050" effect="1793" describe="90602010" tab="10003"/>
+		<ItemSpec id="1051" effect="1795" describe="90602006" tab="10002"/>
+		<ItemSpec id="1052" effect="1801" describe="90602000" tab="10001"/>
+		<ItemSpec id="1053" effect="1803" describe="90602008" tab="10003"/>
+		<ItemSpec id="1054" effect="1805" describe="90602004" tab="10002"/>
+		<ItemSpec id="1055" effect="5605" describe="110111785" tab="10001"/>
+		<ItemSpec id="1056" effect="5615" describe="110111783" tab="10003"/>
+		<ItemSpec id="1057" effect="5625" describe="110111784" tab="10002"/>
+		<ItemSpec id="1058" effect="5606" describe="110111782" tab="10001"/>
+		<ItemSpec id="1059" effect="5616" describe="110111780" tab="10003"/>
+		<ItemSpec id="1060" effect="5626" describe="110111781" tab="10002"/>
+	</Group>
+	<Group id="satellite_showeffect_group">
+		<ItemSpec id="10000" title="110400634"/>
+		<ItemSpec id="10002" title="110400636"/>
+		<ItemSpec id="10003" title="110400637"/>
+		<ItemSpec id="10001" title="110400635"/>
+	</Group>
+</tns:database>

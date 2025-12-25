@@ -1,0 +1,1133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="GC_group">
+		<ItemSpec id="101" group_type="1" group_ratio="100" group_count="1" group_info="111|1|200"/>
+		<ItemSpec id="102" group_type="1" group_ratio="100" group_count="2" group_info="111|2|200"/>
+		<ItemSpec id="103" group_type="1" group_ratio="100" group_count="3" group_info="111|3|200"/>
+		<ItemSpec id="104" group_type="1" group_ratio="100" group_count="4" group_info="111|4|200"/>
+		<ItemSpec id="105" group_type="1" group_ratio="100" group_count="5" group_info="111|5|200"/>
+		<ItemSpec id="106" group_type="1" group_ratio="100" group_count="6" group_info="111|6|200"/>
+		<ItemSpec id="107" group_type="1" group_ratio="100" group_count="7" group_info="111|7|200"/>
+		<ItemSpec id="111" group_type="1" group_ratio="100" group_count="1" group_info="110|1|200"/>
+		<ItemSpec id="112" group_type="1" group_ratio="100" group_count="2" group_info="110|2|200"/>
+		<ItemSpec id="113" group_type="1" group_ratio="100" group_count="3" group_info="110|3|200"/>
+		<ItemSpec id="114" group_type="1" group_ratio="100" group_count="4" group_info="110|4|200"/>
+		<ItemSpec id="115" group_type="1" group_ratio="100" group_count="5" group_info="110|5|200"/>
+		<ItemSpec id="116" group_type="1" group_ratio="100" group_count="6" group_info="110|6|200"/>
+		<ItemSpec id="117" group_type="1" group_ratio="100" group_count="7" group_info="110|7|200"/>
+		<ItemSpec id="121" group_type="1" group_ratio="100" group_count="1" group_info="113|1|200"/>
+		<ItemSpec id="122" group_type="1" group_ratio="100" group_count="2" group_info="113|2|200"/>
+		<ItemSpec id="123" group_type="1" group_ratio="100" group_count="3" group_info="113|3|200"/>
+		<ItemSpec id="124" group_type="1" group_ratio="100" group_count="4" group_info="113|4|200"/>
+		<ItemSpec id="125" group_type="1" group_ratio="100" group_count="5" group_info="113|5|200"/>
+		<ItemSpec id="126" group_type="1" group_ratio="100" group_count="6" group_info="113|6|200"/>
+		<ItemSpec id="127" group_type="1" group_ratio="100" group_count="7" group_info="113|7|200"/>
+		<ItemSpec id="131" group_type="1" group_ratio="100" group_count="1" group_info="114|1|200"/>
+		<ItemSpec id="132" group_type="1" group_ratio="100" group_count="2" group_info="114|2|200"/>
+		<ItemSpec id="133" group_type="1" group_ratio="100" group_count="3" group_info="114|3|200"/>
+		<ItemSpec id="134" group_type="1" group_ratio="100" group_count="4" group_info="114|4|200"/>
+		<ItemSpec id="135" group_type="1" group_ratio="100" group_count="5" group_info="114|5|200"/>
+		<ItemSpec id="136" group_type="1" group_ratio="100" group_count="6" group_info="114|6|200"/>
+		<ItemSpec id="137" group_type="1" group_ratio="100" group_count="7" group_info="114|7|200"/>
+		<ItemSpec id="141" group_type="1" group_ratio="100" group_count="1" group_info="115|1|200"/>
+		<ItemSpec id="142" group_type="1" group_ratio="100" group_count="2" group_info="115|2|200"/>
+		<ItemSpec id="143" group_type="1" group_ratio="100" group_count="3" group_info="115|3|200"/>
+		<ItemSpec id="144" group_type="1" group_ratio="100" group_count="4" group_info="115|4|200"/>
+		<ItemSpec id="145" group_type="1" group_ratio="100" group_count="5" group_info="115|5|200"/>
+		<ItemSpec id="146" group_type="1" group_ratio="100" group_count="6" group_info="115|6|200"/>
+		<ItemSpec id="147" group_type="1" group_ratio="100" group_count="7" group_info="115|7|200"/>
+		<ItemSpec id="201" group_type="1" group_ratio="100" group_count="1" group_info="207|1|200"/>
+		<ItemSpec id="202" group_type="1" group_ratio="100" group_count="2" group_info="207|2|200"/>
+		<ItemSpec id="203" group_type="1" group_ratio="100" group_count="3" group_info="207|3|200"/>
+		<ItemSpec id="204" group_type="1" group_ratio="100" group_count="4" group_info="207|4|200"/>
+		<ItemSpec id="205" group_type="1" group_ratio="100" group_count="5" group_info="207|5|200"/>
+		<ItemSpec id="206" group_type="1" group_ratio="100" group_count="6" group_info="207|6|200"/>
+		<ItemSpec id="207" group_type="1" group_ratio="100" group_count="7" group_info="207|7|200"/>
+		<ItemSpec id="211" group_type="1" group_ratio="100" group_count="1" group_info="216|1|200"/>
+		<ItemSpec id="212" group_type="1" group_ratio="100" group_count="2" group_info="216|2|200"/>
+		<ItemSpec id="213" group_type="1" group_ratio="100" group_count="3" group_info="216|3|200"/>
+		<ItemSpec id="214" group_type="1" group_ratio="100" group_count="4" group_info="216|4|200"/>
+		<ItemSpec id="215" group_type="1" group_ratio="100" group_count="5" group_info="216|5|200"/>
+		<ItemSpec id="216" group_type="1" group_ratio="100" group_count="6" group_info="216|6|200"/>
+		<ItemSpec id="217" group_type="1" group_ratio="100" group_count="7" group_info="216|7|200"/>
+		<ItemSpec id="301" group_type="1" group_ratio="200" group_count="1" group_info="112|1|200"/>
+		<ItemSpec id="302" group_type="1" group_ratio="200" group_count="2" group_info="112|2|200"/>
+		<ItemSpec id="303" group_type="1" group_ratio="200" group_count="3" group_info="112|3|200"/>
+		<ItemSpec id="311" group_type="1" group_ratio="200" group_count="1" group_info="109|1|200"/>
+		<ItemSpec id="312" group_type="1" group_ratio="200" group_count="2" group_info="109|2|200"/>
+		<ItemSpec id="313" group_type="1" group_ratio="200" group_count="3" group_info="109|3|200"/>
+		<ItemSpec id="321" group_type="1" group_ratio="200" group_count="1" group_info="127|1|200"/>
+		<ItemSpec id="322" group_type="1" group_ratio="200" group_count="2" group_info="127|2|200"/>
+		<ItemSpec id="323" group_type="1" group_ratio="200" group_count="3" group_info="127|3|200"/>
+		<ItemSpec id="410" group_type="1" group_ratio="1000" group_count="1" group_info="217|1|200"/>
+		<ItemSpec id="411" group_type="1" group_ratio="1000" group_count="1" group_info="217|1|200"/>
+		<ItemSpec id="412" group_type="1" group_ratio="1000" group_count="2" group_info="217|2|200"/>
+		<ItemSpec id="520" group_type="1" group_ratio="1500" group_count="1" group_info="100124|1|200" is_reward="1"/>
+		<ItemSpec id="521" group_type="1" group_ratio="1000" group_count="1" group_info="100124|1|200" is_reward="1"/>
+		<ItemSpec id="522" group_type="1" group_ratio="1000" group_count="2" group_info="100124|2|200" is_reward="1"/>
+		<ItemSpec id="601" group_type="1" group_ratio="100" group_count="1" group_info="208|1|200"/>
+		<ItemSpec id="602" group_type="1" group_ratio="100" group_count="2" group_info="208|2|200"/>
+		<ItemSpec id="603" group_type="1" group_ratio="100" group_count="3" group_info="208|3|200"/>
+		<ItemSpec id="604" group_type="1" group_ratio="100" group_count="4" group_info="208|4|200"/>
+		<ItemSpec id="605" group_type="1" group_ratio="100" group_count="5" group_info="208|5|200"/>
+		<ItemSpec id="606" group_type="1" group_ratio="100" group_count="6" group_info="208|6|200"/>
+		<ItemSpec id="607" group_type="1" group_ratio="100" group_count="7" group_info="208|7|200"/>
+		<ItemSpec id="460" group_type="1" group_ratio="1350" group_count="1" group_info="225|1|200" is_reward="1"/>
+		<ItemSpec id="461" group_type="1" group_ratio="1000" group_count="1" group_info="225|1|200" is_reward="1"/>
+		<ItemSpec id="462" group_type="1" group_ratio="1000" group_count="2" group_info="225|2|200" is_reward="1"/>
+		<ItemSpec id="2101" group_type="1" group_ratio="4000" group_count="1" group_info="100111|1|1000"/>
+		<ItemSpec id="2102" group_type="1" group_ratio="2000" group_count="3" group_info="100111|3|1250"/>
+		<ItemSpec id="2103" group_type="1" group_ratio="2000" group_count="5" group_info="100111|5|1250"/>
+		<ItemSpec id="2104" group_type="1" group_ratio="2000" group_count="8" group_info="100111|8|1250"/>
+		<ItemSpec id="2105" group_type="1" group_ratio="2000" group_count="10" group_info="100111|10|1250"/>
+		<ItemSpec id="2111" group_type="1" group_ratio="2000" group_count="1" group_info="100110|1|1250"/>
+		<ItemSpec id="2112" group_type="1" group_ratio="2000" group_count="3" group_info="100110|3|1250"/>
+		<ItemSpec id="2113" group_type="1" group_ratio="2000" group_count="5" group_info="100110|5|1250"/>
+		<ItemSpec id="2114" group_type="1" group_ratio="2000" group_count="8" group_info="100110|8|1250"/>
+		<ItemSpec id="2115" group_type="1" group_ratio="2000" group_count="10" group_info="100110|10|1250"/>
+		<ItemSpec id="2121" group_type="1" group_ratio="2000" group_count="1" group_info="100113|1|1250"/>
+		<ItemSpec id="2122" group_type="1" group_ratio="2000" group_count="3" group_info="100113|3|1250"/>
+		<ItemSpec id="2123" group_type="1" group_ratio="2000" group_count="5" group_info="100113|5|1250"/>
+		<ItemSpec id="2124" group_type="1" group_ratio="2000" group_count="8" group_info="100113|8|1250"/>
+		<ItemSpec id="2125" group_type="1" group_ratio="2000" group_count="10" group_info="100113|10|1250"/>
+		<ItemSpec id="2131" group_type="1" group_ratio="2000" group_count="1" group_info="100114|1|1250"/>
+		<ItemSpec id="2132" group_type="1" group_ratio="2000" group_count="3" group_info="100114|3|1250"/>
+		<ItemSpec id="2133" group_type="1" group_ratio="2000" group_count="5" group_info="100114|5|1250"/>
+		<ItemSpec id="2134" group_type="1" group_ratio="2000" group_count="8" group_info="100114|8|1250"/>
+		<ItemSpec id="2135" group_type="1" group_ratio="2000" group_count="10" group_info="100114|10|1250"/>
+		<ItemSpec id="2141" group_type="1" group_ratio="2000" group_count="1" group_info="100115|1|1250"/>
+		<ItemSpec id="2142" group_type="1" group_ratio="2000" group_count="3" group_info="100115|3|1250"/>
+		<ItemSpec id="2143" group_type="1" group_ratio="2000" group_count="5" group_info="100115|5|1250"/>
+		<ItemSpec id="2144" group_type="1" group_ratio="2000" group_count="8" group_info="100115|8|1250"/>
+		<ItemSpec id="2145" group_type="1" group_ratio="2000" group_count="10" group_info="100115|10|1250"/>
+		<ItemSpec id="2201" group_type="1" group_ratio="2000" group_count="1" group_info="100107|1|1250"/>
+		<ItemSpec id="2202" group_type="1" group_ratio="2000" group_count="3" group_info="100107|3|1250"/>
+		<ItemSpec id="2203" group_type="1" group_ratio="2000" group_count="5" group_info="100107|5|1250"/>
+		<ItemSpec id="2204" group_type="1" group_ratio="2000" group_count="8" group_info="100107|8|1250"/>
+		<ItemSpec id="2205" group_type="1" group_ratio="2000" group_count="10" group_info="100107|10|1250"/>
+		<ItemSpec id="2211" group_type="1" group_ratio="2000" group_count="1" group_info="100116|1|1250"/>
+		<ItemSpec id="2212" group_type="1" group_ratio="2000" group_count="3" group_info="100116|3|1250"/>
+		<ItemSpec id="2213" group_type="1" group_ratio="2000" group_count="5" group_info="100116|5|1250"/>
+		<ItemSpec id="2214" group_type="1" group_ratio="2000" group_count="7" group_info="100116|7|1250"/>
+		<ItemSpec id="2215" group_type="1" group_ratio="2000" group_count="10" group_info="100116|10|1250"/>
+		<ItemSpec id="2301" group_type="1" group_ratio="1500" group_count="1" group_info="100112|1|1250"/>
+		<ItemSpec id="2302" group_type="1" group_ratio="1500" group_count="2" group_info="100112|2|1250"/>
+		<ItemSpec id="2303" group_type="1" group_ratio="1500" group_count="3" group_info="100112|3|1250"/>
+		<ItemSpec id="2304" group_type="1" group_ratio="1500" group_count="5" group_info="100112|5|1250"/>
+		<ItemSpec id="2305" group_type="1" group_ratio="1500" group_count="8" group_info="100112|8|1250"/>
+		<ItemSpec id="2311" group_type="1" group_ratio="1500" group_count="1" group_info="100109|1|1250"/>
+		<ItemSpec id="2312" group_type="1" group_ratio="1500" group_count="2" group_info="100109|2|1250"/>
+		<ItemSpec id="2313" group_type="1" group_ratio="1500" group_count="3" group_info="100109|3|1250"/>
+		<ItemSpec id="2314" group_type="1" group_ratio="1500" group_count="5" group_info="100109|5|1250"/>
+		<ItemSpec id="2315" group_type="1" group_ratio="1500" group_count="7" group_info="100109|7|1250"/>
+		<ItemSpec id="2401" group_type="1" group_ratio="800" group_count="1" group_info="100106|1|1250"/>
+		<ItemSpec id="2402" group_type="1" group_ratio="800" group_count="2" group_info="100106|2|1250"/>
+		<ItemSpec id="2403" group_type="1" group_ratio="800" group_count="3" group_info="100106|3|1250"/>
+		<ItemSpec id="2404" group_type="1" group_ratio="800" group_count="4" group_info="100106|4|1250"/>
+		<ItemSpec id="2405" group_type="1" group_ratio="800" group_count="5" group_info="100106|5|1250"/>
+		<ItemSpec id="2411" group_type="1" group_ratio="800" group_count="1" group_info="100117|1|1250"/>
+		<ItemSpec id="2412" group_type="1" group_ratio="800" group_count="2" group_info="100117|2|1250"/>
+		<ItemSpec id="2413" group_type="1" group_ratio="800" group_count="3" group_info="100117|3|1250"/>
+		<ItemSpec id="2414" group_type="1" group_ratio="800" group_count="4" group_info="100117|4|1250"/>
+		<ItemSpec id="2415" group_type="1" group_ratio="800" group_count="5" group_info="100117|5|1250"/>
+		<ItemSpec id="2500" group_type="1" group_ratio="450" group_count="1" group_info="100118|1|1250"/>
+		<ItemSpec id="2501" group_type="1" group_ratio="5000000" group_count="1" group_info="100118|1|1250"/>
+		<ItemSpec id="2502" group_type="1" group_ratio="5000000" group_count="2" group_info="100118|2|1250"/>
+		<ItemSpec id="2511" group_type="1" group_ratio="5000000" group_count="1" group_info="100119|1|1250"/>
+		<ItemSpec id="2512" group_type="1" group_ratio="5000000" group_count="2" group_info="100119|2|1250"/>
+		<ItemSpec id="2601" group_type="1" group_ratio="4000" group_count="2" group_info="100108|2|1250"/>
+		<ItemSpec id="2602" group_type="1" group_ratio="4000" group_count="3" group_info="100108|3|1250"/>
+		<ItemSpec id="2603" group_type="1" group_ratio="4000" group_count="5" group_info="100108|5|1250"/>
+		<ItemSpec id="10100" group_type="1" group_ratio="60" group_count="1" group_info="100111|1|200"/>
+		<ItemSpec id="10101" group_type="1" group_ratio="100" group_count="1" group_info="100111|1|200"/>
+		<ItemSpec id="10102" group_type="1" group_ratio="100" group_count="2" group_info="100111|2|200"/>
+		<ItemSpec id="10103" group_type="1" group_ratio="100" group_count="3" group_info="100111|3|200"/>
+		<ItemSpec id="10104" group_type="1" group_ratio="125" group_count="4" group_info="100111|4|200"/>
+		<ItemSpec id="10105" group_type="1" group_ratio="125" group_count="5" group_info="100111|5|200"/>
+		<ItemSpec id="10106" group_type="1" group_ratio="125" group_count="6" group_info="100111|6|200"/>
+		<ItemSpec id="10107" group_type="1" group_ratio="125" group_count="7" group_info="100111|7|200"/>
+		<ItemSpec id="10110" group_type="1" group_ratio="60" group_count="1" group_info="100111|1|200"/>
+		<ItemSpec id="10111" group_type="1" group_ratio="100" group_count="1" group_info="100110|1|200"/>
+		<ItemSpec id="10112" group_type="1" group_ratio="100" group_count="2" group_info="100110|2|200"/>
+		<ItemSpec id="10113" group_type="1" group_ratio="100" group_count="3" group_info="100110|3|200"/>
+		<ItemSpec id="10114" group_type="1" group_ratio="125" group_count="4" group_info="100110|4|200"/>
+		<ItemSpec id="10115" group_type="1" group_ratio="125" group_count="5" group_info="100110|5|200"/>
+		<ItemSpec id="10116" group_type="1" group_ratio="150" group_count="6" group_info="100110|6|200"/>
+		<ItemSpec id="10117" group_type="1" group_ratio="150" group_info="100110|7|200" group_count="7"/>
+		<ItemSpec id="10118" group_type="1" group_ratio="150" group_info="100110|7|1000" group_count="7"/>
+		<ItemSpec id="10120" group_type="1" group_ratio="60" group_count="1" group_info="100113|1|200"/>
+		<ItemSpec id="10121" group_type="1" group_ratio="100" group_count="1" group_info="100113|1|200"/>
+		<ItemSpec id="10122" group_type="1" group_ratio="100" group_count="2" group_info="100113|2|200"/>
+		<ItemSpec id="10123" group_type="1" group_ratio="100" group_count="3" group_info="100113|3|200"/>
+		<ItemSpec id="10124" group_type="1" group_ratio="125" group_count="4" group_info="100113|4|200"/>
+		<ItemSpec id="10125" group_type="1" group_ratio="125" group_count="5" group_info="100113|5|200"/>
+		<ItemSpec id="10126" group_type="1" group_ratio="150" group_count="6" group_info="100113|6|200"/>
+		<ItemSpec id="10127" group_type="1" group_ratio="150" group_info="100113|7|200" group_count="7"/>
+		<ItemSpec id="10128" group_type="1" group_ratio="150" group_info="100113|7|1000" group_count="7"/>
+		<ItemSpec id="10130" group_type="1" group_ratio="60" group_count="1" group_info="100114|1|200"/>
+		<ItemSpec id="10131" group_type="1" group_ratio="100" group_count="1" group_info="100114|1|200"/>
+		<ItemSpec id="10132" group_type="1" group_ratio="100" group_count="2" group_info="100114|2|200"/>
+		<ItemSpec id="10133" group_type="1" group_ratio="100" group_count="3" group_info="100114|3|200"/>
+		<ItemSpec id="10134" group_type="1" group_ratio="125" group_count="4" group_info="100114|4|200"/>
+		<ItemSpec id="10135" group_type="1" group_ratio="125" group_count="5" group_info="100114|5|200"/>
+		<ItemSpec id="10136" group_type="1" group_ratio="150" group_count="6" group_info="100114|6|200"/>
+		<ItemSpec id="10137" group_type="1" group_ratio="150" group_info="100114|7|200" group_count="7"/>
+		<ItemSpec id="10138" group_type="1" group_ratio="150" group_info="100114|7|1000" group_count="7"/>
+		<ItemSpec id="10140" group_type="1" group_ratio="60" group_count="1" group_info="100115|1|200"/>
+		<ItemSpec id="10141" group_type="1" group_ratio="100" group_count="1" group_info="100115|1|200"/>
+		<ItemSpec id="10142" group_type="1" group_ratio="100" group_count="2" group_info="100115|2|200"/>
+		<ItemSpec id="10143" group_type="1" group_ratio="100" group_count="3" group_info="100115|3|200"/>
+		<ItemSpec id="10144" group_type="1" group_ratio="125" group_count="4" group_info="100115|4|200"/>
+		<ItemSpec id="10145" group_type="1" group_ratio="125" group_count="5" group_info="100115|5|200"/>
+		<ItemSpec id="10146" group_type="1" group_ratio="150" group_count="6" group_info="100115|6|200"/>
+		<ItemSpec id="10147" group_type="1" group_ratio="150" group_info="100115|7|200" group_count="7"/>
+		<ItemSpec id="10148" group_type="1" group_ratio="150" group_info="100115|7|1000" group_count="7"/>
+		<ItemSpec id="10201" group_type="1" group_ratio="100" group_count="1" group_info="100107|1|1250"/>
+		<ItemSpec id="10202" group_type="1" group_ratio="100" group_count="2" group_info="100107|2|1250"/>
+		<ItemSpec id="10203" group_type="1" group_ratio="100" group_count="3" group_info="100107|3|1250"/>
+		<ItemSpec id="10204" group_type="1" group_ratio="125" group_count="4" group_info="100107|4|1250"/>
+		<ItemSpec id="10205" group_type="1" group_ratio="125" group_info="100107|5|1250" group_count="5"/>
+		<ItemSpec id="10206" group_type="1" group_ratio="150" group_info="100107|6|1250" group_count="6"/>
+		<ItemSpec id="10207" group_type="1" group_ratio="150" group_count="7" group_info="100107|7|1250"/>
+		<ItemSpec id="10211" group_type="1" group_ratio="100" group_count="1" group_info="100116|1|1250"/>
+		<ItemSpec id="10212" group_type="1" group_ratio="100" group_count="2" group_info="100116|2|1250"/>
+		<ItemSpec id="10213" group_type="1" group_ratio="100" group_count="3" group_info="100116|3|1250"/>
+		<ItemSpec id="10214" group_type="1" group_ratio="125" group_count="4" group_info="100116|4|1250"/>
+		<ItemSpec id="10215" group_type="1" group_ratio="125" group_info="100116|5|1250" group_count="5"/>
+		<ItemSpec id="10216" group_type="1" group_ratio="150" group_info="100116|6|1250" group_count="6"/>
+		<ItemSpec id="10217" group_type="1" group_ratio="150" group_count="7" group_info="100116|7|1250"/>
+		<ItemSpec id="10301" group_type="1" group_ratio="150" group_count="1" group_info="100112|1|1250"/>
+		<ItemSpec id="10302" group_type="1" group_ratio="150" group_count="2" group_info="100112|2|1250"/>
+		<ItemSpec id="10303" group_type="1" group_ratio="160" group_count="3" group_info="100112|3|1250"/>
+		<ItemSpec id="10311" group_type="1" group_ratio="150" group_count="1" group_info="100109|1|1250"/>
+		<ItemSpec id="10312" group_type="1" group_ratio="150" group_count="2" group_info="100109|2|1250"/>
+		<ItemSpec id="10313" group_type="1" group_ratio="160" group_count="3" group_info="100109|3|1250"/>
+		<ItemSpec id="10321" group_type="1" group_ratio="150" group_count="1" group_info="100127|1|1250"/>
+		<ItemSpec id="10322" group_type="1" group_ratio="150" group_count="2" group_info="100127|2|1250"/>
+		<ItemSpec id="10323" group_type="1" group_ratio="160" group_count="3" group_info="100127|3|1250"/>
+		<ItemSpec id="10400" group_type="1" group_ratio="180" group_count="1" group_info="100106|1|1250" is_reward="1"/>
+		<ItemSpec id="10401" group_type="1" group_ratio="150" group_count="1" group_info="100106|1|1250" is_reward="1"/>
+		<ItemSpec id="10402" group_type="1" group_ratio="150" group_count="2" group_info="100106|2|1250" is_reward="1"/>
+		<ItemSpec id="10410" group_type="1" group_ratio="180" group_count="1" group_info="100117|1|1250" is_reward="1"/>
+		<ItemSpec id="10411" group_type="1" group_ratio="150" group_count="1" group_info="100117|1|1250" is_reward="1"/>
+		<ItemSpec id="10412" group_type="1" group_ratio="150" group_count="2" group_info="100117|2|1250" is_reward="1"/>
+		<ItemSpec id="10420" group_type="1" group_ratio="180" group_count="1" group_info="100128|1|1250" is_reward="1"/>
+		<ItemSpec id="10421" group_type="1" group_ratio="150" group_count="1" group_info="100128|1|1250" is_reward="1"/>
+		<ItemSpec id="10422" group_type="1" group_ratio="150" group_count="2" group_info="100128|2|1250" is_reward="1"/>
+		<ItemSpec id="10500" group_type="1" group_ratio="150" group_count="1" group_info="100118|1|1250" is_reward="1"/>
+		<ItemSpec id="10501" group_type="1" group_ratio="120" group_count="1" group_info="100118|1|1250" is_reward="1"/>
+		<ItemSpec id="10510" group_type="1" group_ratio="150" group_count="1" group_info="100119|1|1250" is_reward="1"/>
+		<ItemSpec id="10511" group_type="1" group_ratio="120" group_count="1" group_info="100119|1|1250" is_reward="1"/>
+		<ItemSpec id="10520" group_type="1" group_ratio="150" group_count="1" group_info="100124|1|1250" is_reward="1"/>
+		<ItemSpec id="10521" group_type="1" group_ratio="120" group_count="1" group_info="100124|1|1250" is_reward="1"/>
+		<ItemSpec id="10601" group_type="1" group_ratio="100" group_count="1" group_info="100108|1|1250"/>
+		<ItemSpec id="10602" group_type="1" group_ratio="100" group_count="2" group_info="100108|2|1250"/>
+		<ItemSpec id="10603" group_type="1" group_ratio="100" group_count="3" group_info="100108|3|1250"/>
+		<ItemSpec id="10604" group_type="1" group_ratio="125" group_count="4" group_info="100108|4|1250"/>
+		<ItemSpec id="10605" group_type="1" group_ratio="125" group_count="5" group_info="100108|5|1250"/>
+		<ItemSpec id="10606" group_type="1" group_ratio="150" group_count="6" group_info="100108|6|1250"/>
+		<ItemSpec id="10607" group_type="1" group_ratio="150" group_count="7" group_info="100108|7|1250"/>
+		<ItemSpec id="11101" group_type="1" group_ratio="200" group_count="1" group_info="100111|1|1250"/>
+		<ItemSpec id="11102" group_type="1" group_ratio="200" group_count="2" group_info="100111|2|1250"/>
+		<ItemSpec id="11103" group_type="1" group_ratio="200" group_count="3" group_info="100111|3|1250"/>
+		<ItemSpec id="11104" group_type="1" group_ratio="250" group_count="4" group_info="100111|4|1250"/>
+		<ItemSpec id="11105" group_type="1" group_ratio="250" group_count="5" group_info="100111|5|1250"/>
+		<ItemSpec id="11106" group_type="1" group_ratio="300" group_count="6" group_info="100111|6|1250"/>
+		<ItemSpec id="11107" group_type="1" group_ratio="300" group_count="7" group_info="100111|7|1250"/>
+		<ItemSpec id="11111" group_type="1" group_ratio="200" group_count="1" group_info="100110|1|1250"/>
+		<ItemSpec id="11112" group_type="1" group_ratio="200" group_count="2" group_info="100110|2|1250"/>
+		<ItemSpec id="11113" group_type="1" group_ratio="200" group_count="3" group_info="100110|3|1250"/>
+		<ItemSpec id="11114" group_type="1" group_ratio="250" group_count="4" group_info="100110|4|1250"/>
+		<ItemSpec id="11115" group_type="1" group_ratio="250" group_count="5" group_info="100110|5|1250"/>
+		<ItemSpec id="11116" group_type="1" group_ratio="300" group_count="6" group_info="100110|6|1250"/>
+		<ItemSpec id="11117" group_type="1" group_ratio="300" group_count="7" group_info="100110|7|1250"/>
+		<ItemSpec id="11121" group_type="1" group_ratio="200" group_count="1" group_info="100113|1|1250"/>
+		<ItemSpec id="11122" group_type="1" group_ratio="200" group_count="2" group_info="100113|2|1250"/>
+		<ItemSpec id="11123" group_type="1" group_ratio="200" group_count="3" group_info="100113|3|1250"/>
+		<ItemSpec id="11124" group_type="1" group_ratio="250" group_count="4" group_info="100113|4|1250"/>
+		<ItemSpec id="11125" group_type="1" group_ratio="250" group_count="5" group_info="100113|5|1250"/>
+		<ItemSpec id="11126" group_type="1" group_ratio="300" group_count="6" group_info="100113|6|1250"/>
+		<ItemSpec id="11127" group_type="1" group_ratio="300" group_count="7" group_info="100113|7|1250"/>
+		<ItemSpec id="11131" group_type="1" group_ratio="200" group_count="1" group_info="100114|1|1250"/>
+		<ItemSpec id="11132" group_type="1" group_ratio="200" group_count="2" group_info="100114|2|1250"/>
+		<ItemSpec id="11133" group_type="1" group_ratio="200" group_count="3" group_info="100114|3|1250"/>
+		<ItemSpec id="11134" group_type="1" group_ratio="250" group_count="4" group_info="100114|4|1250"/>
+		<ItemSpec id="11135" group_type="1" group_ratio="250" group_count="5" group_info="100114|5|1250"/>
+		<ItemSpec id="11136" group_type="1" group_ratio="300" group_count="6" group_info="100114|6|1250"/>
+		<ItemSpec id="11137" group_type="1" group_ratio="300" group_count="7" group_info="100114|7|1250"/>
+		<ItemSpec id="11141" group_type="1" group_ratio="200" group_count="1" group_info="100115|1|1250"/>
+		<ItemSpec id="11142" group_type="1" group_ratio="200" group_count="2" group_info="100115|2|1250"/>
+		<ItemSpec id="11143" group_type="1" group_ratio="200" group_count="3" group_info="100115|3|1250"/>
+		<ItemSpec id="11144" group_type="1" group_ratio="250" group_count="4" group_info="100115|4|1250"/>
+		<ItemSpec id="11145" group_type="1" group_ratio="250" group_count="5" group_info="100115|5|1250"/>
+		<ItemSpec id="11146" group_type="1" group_ratio="300" group_count="6" group_info="100115|6|1250"/>
+		<ItemSpec id="11147" group_type="1" group_ratio="300" group_count="7" group_info="100115|7|1250"/>
+		<ItemSpec id="11201" group_type="1" group_ratio="200" group_count="1" group_info="100107|1|1250"/>
+		<ItemSpec id="11202" group_type="1" group_ratio="200" group_count="2" group_info="100107|2|1250"/>
+		<ItemSpec id="11203" group_type="1" group_ratio="200" group_count="3" group_info="100107|3|1250"/>
+		<ItemSpec id="11204" group_type="1" group_ratio="250" group_count="4" group_info="100107|4|1250"/>
+		<ItemSpec id="11205" group_type="1" group_ratio="250" group_count="5" group_info="100107|5|1250"/>
+		<ItemSpec id="11206" group_type="1" group_ratio="300" group_count="6" group_info="100107|6|1250"/>
+		<ItemSpec id="11207" group_type="1" group_ratio="300" group_count="7" group_info="100107|7|1250"/>
+		<ItemSpec id="11211" group_type="1" group_ratio="200" group_count="1" group_info="100116|1|1250"/>
+		<ItemSpec id="11212" group_type="1" group_ratio="200" group_count="2" group_info="100116|2|1250"/>
+		<ItemSpec id="11213" group_type="1" group_ratio="200" group_count="3" group_info="100116|3|1250"/>
+		<ItemSpec id="11214" group_type="1" group_ratio="250" group_count="4" group_info="100116|4|1250"/>
+		<ItemSpec id="11215" group_type="1" group_ratio="250" group_count="5" group_info="100116|5|1250"/>
+		<ItemSpec id="11216" group_type="1" group_ratio="300" group_count="6" group_info="100116|6|1250"/>
+		<ItemSpec id="11217" group_type="1" group_ratio="300" group_count="7" group_info="100116|7|1250"/>
+		<ItemSpec id="11301" group_type="1" group_ratio="300" group_count="1" group_info="100112|1|1250"/>
+		<ItemSpec id="11302" group_type="1" group_ratio="300" group_count="2" group_info="100112|2|1250"/>
+		<ItemSpec id="11303" group_type="1" group_ratio="330" group_count="3" group_info="100112|3|1250"/>
+		<ItemSpec id="11311" group_type="1" group_ratio="300" group_count="1" group_info="100109|1|1250"/>
+		<ItemSpec id="11312" group_type="1" group_ratio="300" group_count="2" group_info="100109|2|1250"/>
+		<ItemSpec id="11313" group_type="1" group_ratio="330" group_count="3" group_info="100109|3|1250"/>
+		<ItemSpec id="11321" group_type="1" group_ratio="300" group_count="1" group_info="100127|1|1250"/>
+		<ItemSpec id="11322" group_type="1" group_ratio="300" group_count="2" group_info="100127|2|1250"/>
+		<ItemSpec id="11323" group_type="1" group_ratio="330" group_count="3" group_info="100127|3|1250"/>
+		<ItemSpec id="11400" group_type="1" group_ratio="360" group_count="1" group_info="100106|1|1250" is_reward="1"/>
+		<ItemSpec id="11401" group_type="1" group_ratio="300" group_count="1" group_info="100106|1|1250" is_reward="1"/>
+		<ItemSpec id="11402" group_type="1" group_ratio="300" group_count="2" group_info="100106|2|1250" is_reward="1"/>
+		<ItemSpec id="11410" group_type="1" group_ratio="360" group_count="1" group_info="100117|1|1250" is_reward="1"/>
+		<ItemSpec id="11411" group_type="1" group_ratio="300" group_count="1" group_info="100117|1|1250" is_reward="1"/>
+		<ItemSpec id="11412" group_type="1" group_ratio="300" group_count="2" group_info="100117|2|1250" is_reward="1"/>
+		<ItemSpec id="11420" group_type="1" group_ratio="360" group_count="1" group_info="100128|1|1250" is_reward="1"/>
+		<ItemSpec id="11421" group_type="1" group_ratio="300" group_count="1" group_info="100128|1|1250" is_reward="1"/>
+		<ItemSpec id="11422" group_type="1" group_ratio="300" group_count="2" group_info="100128|2|1250" is_reward="1"/>
+		<ItemSpec id="11500" group_type="1" group_ratio="240" group_count="1" group_info="100118|1|1250" is_reward="1"/>
+		<ItemSpec id="11501" group_type="1" group_ratio="200" group_count="1" group_info="100118|1|1250" is_reward="1"/>
+		<ItemSpec id="11510" group_type="1" group_ratio="240" group_count="1" group_info="100119|1|1250" is_reward="1"/>
+		<ItemSpec id="11511" group_type="1" group_ratio="200" group_count="1" group_info="100119|1|1250" is_reward="1"/>
+		<ItemSpec id="11520" group_type="1" group_ratio="240" group_count="1" group_info="100124|1|1250" is_reward="1"/>
+		<ItemSpec id="11521" group_type="1" group_ratio="200" group_count="1" group_info="100124|1|1250" is_reward="1"/>
+		<ItemSpec id="11601" group_type="1" group_ratio="200" group_count="1" group_info="100108|1|1250"/>
+		<ItemSpec id="11602" group_type="1" group_ratio="200" group_count="2" group_info="100108|2|1250"/>
+		<ItemSpec id="11603" group_type="1" group_ratio="200" group_count="3" group_info="100108|3|1250"/>
+		<ItemSpec id="11604" group_type="1" group_ratio="250" group_count="4" group_info="100108|4|1250"/>
+		<ItemSpec id="11605" group_type="1" group_ratio="250" group_count="5" group_info="100108|5|1250"/>
+		<ItemSpec id="11606" group_type="1" group_ratio="300" group_count="6" group_info="100108|6|1250"/>
+		<ItemSpec id="11607" group_type="1" group_ratio="300" group_count="7" group_info="100108|7|1250"/>
+		<ItemSpec id="12101" group_type="1" group_ratio="400" group_count="1" group_info="100111|1|1250"/>
+		<ItemSpec id="12102" group_type="1" group_ratio="400" group_count="2" group_info="100111|2|1250"/>
+		<ItemSpec id="12103" group_type="1" group_ratio="400" group_count="3" group_info="100111|3|1250"/>
+		<ItemSpec id="12104" group_type="1" group_ratio="500" group_count="4" group_info="100111|4|1250"/>
+		<ItemSpec id="12105" group_type="1" group_ratio="500" group_count="5" group_info="100111|5|1250"/>
+		<ItemSpec id="12106" group_type="1" group_ratio="600" group_count="6" group_info="100111|6|1250"/>
+		<ItemSpec id="12107" group_type="1" group_ratio="600" group_count="7" group_info="100111|7|1250"/>
+		<ItemSpec id="12111" group_type="1" group_ratio="400" group_count="1" group_info="100110|1|1250"/>
+		<ItemSpec id="12112" group_type="1" group_ratio="400" group_count="2" group_info="100110|2|1250"/>
+		<ItemSpec id="12113" group_type="1" group_ratio="400" group_count="3" group_info="100110|3|1250"/>
+		<ItemSpec id="12114" group_type="1" group_ratio="500" group_count="4" group_info="100110|4|1250"/>
+		<ItemSpec id="12115" group_type="1" group_ratio="500" group_count="5" group_info="100110|5|1250"/>
+		<ItemSpec id="12116" group_type="1" group_ratio="600" group_count="6" group_info="100110|6|1250"/>
+		<ItemSpec id="12117" group_type="1" group_ratio="600" group_count="7" group_info="100110|7|1250"/>
+		<ItemSpec id="12121" group_type="1" group_ratio="400" group_count="1" group_info="100113|1|1250"/>
+		<ItemSpec id="12122" group_type="1" group_ratio="400" group_count="2" group_info="100113|2|1250"/>
+		<ItemSpec id="12123" group_type="1" group_ratio="400" group_count="3" group_info="100113|3|1250"/>
+		<ItemSpec id="12124" group_type="1" group_ratio="500" group_count="4" group_info="100113|4|1250"/>
+		<ItemSpec id="12125" group_type="1" group_ratio="500" group_count="5" group_info="100113|5|1250"/>
+		<ItemSpec id="12126" group_type="1" group_ratio="600" group_count="6" group_info="100113|6|1250"/>
+		<ItemSpec id="12127" group_type="1" group_ratio="600" group_count="7" group_info="100113|7|1250"/>
+		<ItemSpec id="12131" group_type="1" group_ratio="400" group_count="1" group_info="100114|1|1250"/>
+		<ItemSpec id="12132" group_type="1" group_ratio="400" group_count="2" group_info="100114|2|1250"/>
+		<ItemSpec id="12133" group_type="1" group_ratio="400" group_count="3" group_info="100114|3|1250"/>
+		<ItemSpec id="12134" group_type="1" group_ratio="500" group_count="4" group_info="100114|4|1250"/>
+		<ItemSpec id="12135" group_type="1" group_ratio="500" group_count="5" group_info="100114|5|1250"/>
+		<ItemSpec id="12136" group_type="1" group_ratio="600" group_count="6" group_info="100114|6|1250"/>
+		<ItemSpec id="12137" group_type="1" group_ratio="600" group_count="7" group_info="100114|7|1250"/>
+		<ItemSpec id="12141" group_type="1" group_ratio="400" group_count="1" group_info="100115|1|1250"/>
+		<ItemSpec id="12142" group_type="1" group_ratio="400" group_count="2" group_info="100115|2|1250"/>
+		<ItemSpec id="12143" group_type="1" group_ratio="400" group_count="3" group_info="100115|3|1250"/>
+		<ItemSpec id="12144" group_type="1" group_ratio="500" group_count="4" group_info="100115|4|1250"/>
+		<ItemSpec id="12145" group_type="1" group_ratio="500" group_count="5" group_info="100115|5|1250"/>
+		<ItemSpec id="12146" group_type="1" group_ratio="600" group_count="6" group_info="100115|6|1250"/>
+		<ItemSpec id="12147" group_type="1" group_ratio="600" group_count="7" group_info="100115|7|1250"/>
+		<ItemSpec id="12201" group_type="1" group_ratio="400" group_count="1" group_info="100107|1|1250"/>
+		<ItemSpec id="12202" group_type="1" group_ratio="400" group_count="2" group_info="100107|2|1250"/>
+		<ItemSpec id="12203" group_type="1" group_ratio="400" group_count="3" group_info="100107|3|1250"/>
+		<ItemSpec id="12204" group_type="1" group_ratio="500" group_count="4" group_info="100107|4|1250"/>
+		<ItemSpec id="12205" group_type="1" group_ratio="500" group_count="5" group_info="100107|5|1250"/>
+		<ItemSpec id="12206" group_type="1" group_ratio="600" group_count="6" group_info="100107|6|1250"/>
+		<ItemSpec id="12207" group_type="1" group_ratio="600" group_count="7" group_info="100107|7|1250"/>
+		<ItemSpec id="12211" group_type="1" group_ratio="400" group_count="1" group_info="100116|1|1250"/>
+		<ItemSpec id="12212" group_type="1" group_ratio="400" group_count="2" group_info="100116|2|1250"/>
+		<ItemSpec id="12213" group_type="1" group_ratio="400" group_count="3" group_info="100116|3|1250"/>
+		<ItemSpec id="12214" group_type="1" group_ratio="500" group_count="4" group_info="100116|4|1250"/>
+		<ItemSpec id="12215" group_type="1" group_ratio="500" group_count="5" group_info="100116|5|1250"/>
+		<ItemSpec id="12216" group_type="1" group_ratio="600" group_count="6" group_info="100116|6|1250"/>
+		<ItemSpec id="12217" group_type="1" group_ratio="600" group_count="7" group_info="100116|7|1250"/>
+		<ItemSpec id="12301" group_type="1" group_ratio="600" group_count="1" group_info="100112|1|1250"/>
+		<ItemSpec id="12302" group_type="1" group_ratio="600" group_count="2" group_info="100112|2|1250"/>
+		<ItemSpec id="12303" group_type="1" group_ratio="660" group_count="3" group_info="100112|3|1250"/>
+		<ItemSpec id="12311" group_type="1" group_ratio="600" group_count="1" group_info="100109|1|1250"/>
+		<ItemSpec id="12312" group_type="1" group_ratio="600" group_count="2" group_info="100109|2|1250"/>
+		<ItemSpec id="12313" group_type="1" group_ratio="660" group_count="3" group_info="100109|3|1250"/>
+		<ItemSpec id="12321" group_type="1" group_ratio="600" group_count="1" group_info="100127|1|1250"/>
+		<ItemSpec id="12322" group_type="1" group_ratio="600" group_count="2" group_info="100127|2|1250"/>
+		<ItemSpec id="12323" group_type="1" group_ratio="660" group_count="3" group_info="100127|3|1250"/>
+		<ItemSpec id="12400" group_type="1" group_ratio="750" group_count="1" group_info="100106|1|1250" is_reward="1"/>
+		<ItemSpec id="12401" group_type="1" group_ratio="600" group_count="1" group_info="100106|1|1250" is_reward="1"/>
+		<ItemSpec id="12402" group_type="1" group_ratio="600" group_count="2" group_info="100106|2|1250" is_reward="1"/>
+		<ItemSpec id="12410" group_type="1" group_ratio="750" group_count="1" group_info="100117|1|1250" is_reward="1"/>
+		<ItemSpec id="12411" group_type="1" group_ratio="600" group_count="1" group_info="100117|1|1250" is_reward="1"/>
+		<ItemSpec id="12412" group_type="1" group_ratio="600" group_count="2" group_info="100117|2|1250" is_reward="1"/>
+		<ItemSpec id="12420" group_type="1" group_ratio="750" group_count="1" group_info="100128|1|1250" is_reward="1"/>
+		<ItemSpec id="12421" group_type="1" group_ratio="600" group_count="1" group_info="100128|1|1250" is_reward="1"/>
+		<ItemSpec id="12422" group_type="1" group_ratio="600" group_count="2" group_info="100128|2|1250" is_reward="1"/>
+		<ItemSpec id="12500" group_type="1" group_ratio="350" group_count="1" group_info="100118|1|1250" is_reward="1"/>
+		<ItemSpec id="12501" group_type="1" group_ratio="280" group_count="1" group_info="100118|1|1250" is_reward="1"/>
+		<ItemSpec id="12510" group_type="1" group_ratio="350" group_count="1" group_info="100119|1|1250" is_reward="1"/>
+		<ItemSpec id="12511" group_type="1" group_ratio="280" group_count="1" group_info="100119|1|1250" is_reward="1"/>
+		<ItemSpec id="12520" group_type="1" group_ratio="350" group_count="1" group_info="100124|1|1250" is_reward="1"/>
+		<ItemSpec id="12521" group_type="1" group_ratio="280" group_count="1" group_info="100124|1|1250" is_reward="1"/>
+		<ItemSpec id="12601" group_type="1" group_ratio="400" group_count="1" group_info="100108|1|1250"/>
+		<ItemSpec id="12602" group_type="1" group_ratio="400" group_count="2" group_info="100108|2|1250"/>
+		<ItemSpec id="12603" group_type="1" group_ratio="400" group_count="3" group_info="100108|3|1250"/>
+		<ItemSpec id="12604" group_type="1" group_ratio="500" group_count="4" group_info="100108|4|1250"/>
+		<ItemSpec id="12605" group_type="1" group_ratio="500" group_count="5" group_info="100108|5|1250"/>
+		<ItemSpec id="12606" group_type="1" group_ratio="600" group_count="6" group_info="100108|6|1250"/>
+		<ItemSpec id="12607" group_type="1" group_ratio="600" group_count="7" group_info="100108|7|1250"/>
+		<ItemSpec id="13101" group_type="1" group_ratio="640" group_count="1" group_info="100111|1|1250"/>
+		<ItemSpec id="13102" group_type="1" group_ratio="640" group_count="2" group_info="100111|2|1250"/>
+		<ItemSpec id="13103" group_type="1" group_ratio="640" group_count="3" group_info="100111|3|1250"/>
+		<ItemSpec id="13104" group_type="1" group_ratio="800" group_count="4" group_info="100111|4|1250"/>
+		<ItemSpec id="13105" group_type="1" group_ratio="800" group_count="5" group_info="100111|5|1250"/>
+		<ItemSpec id="13106" group_type="1" group_ratio="960" group_count="6" group_info="100111|6|1250"/>
+		<ItemSpec id="13107" group_type="1" group_ratio="960" group_count="7" group_info="100111|7|1250"/>
+		<ItemSpec id="13111" group_type="1" group_ratio="640" group_count="1" group_info="100110|1|1250"/>
+		<ItemSpec id="13112" group_type="1" group_ratio="640" group_count="2" group_info="100110|2|1250"/>
+		<ItemSpec id="13113" group_type="1" group_ratio="640" group_count="3" group_info="100110|3|1250"/>
+		<ItemSpec id="13114" group_type="1" group_ratio="800" group_count="4" group_info="100110|4|1250"/>
+		<ItemSpec id="13115" group_type="1" group_ratio="800" group_count="5" group_info="100110|5|1250"/>
+		<ItemSpec id="13116" group_type="1" group_ratio="960" group_count="6" group_info="100110|6|1250"/>
+		<ItemSpec id="13117" group_type="1" group_ratio="960" group_count="7" group_info="100110|7|1250"/>
+		<ItemSpec id="13121" group_type="1" group_ratio="640" group_count="1" group_info="100113|1|1250"/>
+		<ItemSpec id="13122" group_type="1" group_ratio="640" group_count="2" group_info="100113|2|1250"/>
+		<ItemSpec id="13123" group_type="1" group_ratio="640" group_count="3" group_info="100113|3|1250"/>
+		<ItemSpec id="13124" group_type="1" group_ratio="800" group_count="4" group_info="100113|4|1250"/>
+		<ItemSpec id="13125" group_type="1" group_ratio="800" group_count="5" group_info="100113|5|1250"/>
+		<ItemSpec id="13126" group_type="1" group_ratio="960" group_count="6" group_info="100113|6|1250"/>
+		<ItemSpec id="13127" group_type="1" group_ratio="960" group_count="7" group_info="100113|7|1250"/>
+		<ItemSpec id="13131" group_type="1" group_ratio="640" group_count="1" group_info="100114|1|1250"/>
+		<ItemSpec id="13132" group_type="1" group_ratio="640" group_count="2" group_info="100114|2|1250"/>
+		<ItemSpec id="13133" group_type="1" group_ratio="640" group_count="3" group_info="100114|3|1250"/>
+		<ItemSpec id="13134" group_type="1" group_ratio="800" group_count="4" group_info="100114|4|1250"/>
+		<ItemSpec id="13135" group_type="1" group_ratio="800" group_count="5" group_info="100114|5|1250"/>
+		<ItemSpec id="13136" group_type="1" group_ratio="960" group_count="6" group_info="100114|6|1250"/>
+		<ItemSpec id="13137" group_type="1" group_ratio="960" group_count="7" group_info="100114|7|1250"/>
+		<ItemSpec id="13141" group_type="1" group_ratio="640" group_count="1" group_info="100115|1|1250"/>
+		<ItemSpec id="13142" group_type="1" group_ratio="640" group_count="2" group_info="100115|2|1250"/>
+		<ItemSpec id="13143" group_type="1" group_ratio="640" group_count="3" group_info="100115|3|1250"/>
+		<ItemSpec id="13144" group_type="1" group_ratio="800" group_count="4" group_info="100115|4|1250"/>
+		<ItemSpec id="13145" group_type="1" group_ratio="800" group_count="5" group_info="100115|5|1250"/>
+		<ItemSpec id="13146" group_type="1" group_ratio="960" group_count="6" group_info="100115|6|1250"/>
+		<ItemSpec id="13147" group_type="1" group_ratio="960" group_count="7" group_info="100115|7|1250"/>
+		<ItemSpec id="13201" group_type="1" group_ratio="640" group_count="1" group_info="100107|1|1250"/>
+		<ItemSpec id="13202" group_type="1" group_ratio="640" group_count="2" group_info="100107|2|1250"/>
+		<ItemSpec id="13203" group_type="1" group_ratio="640" group_count="3" group_info="100107|3|1250"/>
+		<ItemSpec id="13204" group_type="1" group_ratio="800" group_count="4" group_info="100107|4|1250"/>
+		<ItemSpec id="13205" group_type="1" group_ratio="800" group_count="5" group_info="100107|5|1250"/>
+		<ItemSpec id="13206" group_type="1" group_ratio="960" group_count="6" group_info="100107|6|1250"/>
+		<ItemSpec id="13207" group_type="1" group_ratio="960" group_count="7" group_info="100107|7|1250"/>
+		<ItemSpec id="13211" group_type="1" group_ratio="640" group_count="1" group_info="100116|1|1250"/>
+		<ItemSpec id="13212" group_type="1" group_ratio="640" group_count="2" group_info="100116|2|1250"/>
+		<ItemSpec id="13213" group_type="1" group_ratio="640" group_count="3" group_info="100116|3|1250"/>
+		<ItemSpec id="13214" group_type="1" group_ratio="800" group_count="4" group_info="100116|4|1250"/>
+		<ItemSpec id="13215" group_type="1" group_ratio="800" group_count="5" group_info="100116|5|1250"/>
+		<ItemSpec id="13216" group_type="1" group_ratio="960" group_count="6" group_info="100116|6|1250"/>
+		<ItemSpec id="13217" group_type="1" group_ratio="960" group_count="7" group_info="100116|7|1250"/>
+		<ItemSpec id="13301" group_type="1" group_ratio="960" group_count="1" group_info="100112|1|1250"/>
+		<ItemSpec id="13302" group_type="1" group_ratio="960" group_count="2" group_info="100112|2|1250"/>
+		<ItemSpec id="13303" group_type="1" group_ratio="1080" group_count="3" group_info="100112|3|1250"/>
+		<ItemSpec id="13311" group_type="1" group_ratio="960" group_count="1" group_info="100109|1|1250"/>
+		<ItemSpec id="13312" group_type="1" group_ratio="960" group_count="2" group_info="100109|2|1250"/>
+		<ItemSpec id="13313" group_type="1" group_ratio="1080" group_count="3" group_info="100109|3|1250"/>
+		<ItemSpec id="13321" group_type="1" group_ratio="960" group_count="1" group_info="100127|1|1250"/>
+		<ItemSpec id="13322" group_type="1" group_ratio="960" group_count="2" group_info="100127|2|1250"/>
+		<ItemSpec id="13323" group_type="1" group_ratio="1080" group_count="3" group_info="100127|3|1250"/>
+		<ItemSpec id="13400" group_type="1" group_ratio="1200" group_count="1" group_info="100106|1|1250" is_reward="1"/>
+		<ItemSpec id="13401" group_type="1" group_ratio="900" group_count="1" group_info="100106|1|1250" is_reward="1"/>
+		<ItemSpec id="13402" group_type="1" group_ratio="900" group_count="2" group_info="100106|2|1250" is_reward="1"/>
+		<ItemSpec id="13410" group_type="1" group_ratio="1200" group_count="1" group_info="100117|1|1250" is_reward="1"/>
+		<ItemSpec id="13411" group_type="1" group_ratio="900" group_count="1" group_info="100117|1|1250" is_reward="1"/>
+		<ItemSpec id="13412" group_type="1" group_ratio="900" group_count="2" group_info="100117|2|1250" is_reward="1"/>
+		<ItemSpec id="13420" group_type="1" group_ratio="1200" group_count="1" group_info="100128|1|1250" is_reward="1"/>
+		<ItemSpec id="13421" group_type="1" group_ratio="900" group_count="1" group_info="100128|1|1250" is_reward="1"/>
+		<ItemSpec id="13422" group_type="1" group_ratio="900" group_count="2" group_info="100128|2|1250" is_reward="1"/>
+		<ItemSpec id="13500" group_type="1" group_ratio="660" group_count="1" group_info="100118|1|1250" is_reward="1"/>
+		<ItemSpec id="13501" group_type="1" group_ratio="500" group_count="1" group_info="100118|1|1250" is_reward="1"/>
+		<ItemSpec id="13510" group_type="1" group_ratio="660" group_count="1" group_info="100119|1|1250" is_reward="1"/>
+		<ItemSpec id="13511" group_type="1" group_ratio="500" group_count="1" group_info="100119|1|1250" is_reward="1"/>
+		<ItemSpec id="13520" group_type="1" group_ratio="660" group_count="1" group_info="100124|1|1250" is_reward="1"/>
+		<ItemSpec id="13521" group_type="1" group_ratio="500" group_count="1" group_info="100124|1|1250" is_reward="1"/>
+		<ItemSpec id="13601" group_type="1" group_ratio="640" group_count="1" group_info="100108|1|1250"/>
+		<ItemSpec id="13602" group_type="1" group_ratio="640" group_count="2" group_info="100108|2|1250"/>
+		<ItemSpec id="13603" group_type="1" group_ratio="640" group_count="3" group_info="100108|3|1250"/>
+		<ItemSpec id="13604" group_type="1" group_ratio="800" group_count="4" group_info="100108|4|1250"/>
+		<ItemSpec id="13605" group_type="1" group_ratio="800" group_count="5" group_info="100108|5|1250"/>
+		<ItemSpec id="13606" group_type="1" group_ratio="960" group_count="6" group_info="100108|6|1250"/>
+		<ItemSpec id="13607" group_type="1" group_ratio="960" group_count="7" group_info="100108|7|1250"/>
+		<ItemSpec id="20100" group_type="1" group_ratio="90" group_count="1" group_info="100111|1|1250"/>
+		<ItemSpec id="20101" group_type="1" group_ratio="150" group_count="1" group_info="100111|1|1250"/>
+		<ItemSpec id="20102" group_type="1" group_ratio="150" group_count="2" group_info="100111|2|1250"/>
+		<ItemSpec id="20103" group_type="1" group_ratio="150" group_count="3" group_info="100111|3|1250"/>
+		<ItemSpec id="20104" group_type="1" group_ratio="188" group_count="4" group_info="100111|4|1250"/>
+		<ItemSpec id="20105" group_type="1" group_ratio="188" group_count="5" group_info="100111|5|1250"/>
+		<ItemSpec id="20106" group_type="1" group_ratio="188" group_count="6" group_info="100111|6|1250"/>
+		<ItemSpec id="20107" group_type="1" group_ratio="188" group_count="7" group_info="100111|7|1250"/>
+		<ItemSpec id="20110" group_type="1" group_ratio="90" group_count="1" group_info="100110|1|1250"/>
+		<ItemSpec id="20111" group_type="1" group_ratio="150" group_count="1" group_info="100110|1|1250"/>
+		<ItemSpec id="20112" group_type="1" group_ratio="150" group_count="2" group_info="100110|2|1250"/>
+		<ItemSpec id="20113" group_type="1" group_ratio="150" group_count="3" group_info="100110|3|1250"/>
+		<ItemSpec id="20114" group_type="1" group_ratio="188" group_count="4" group_info="100110|4|1250"/>
+		<ItemSpec id="20115" group_type="1" group_ratio="188" group_count="5" group_info="100110|5|1250"/>
+		<ItemSpec id="20116" group_type="1" group_ratio="225" group_count="6" group_info="100110|6|1250"/>
+		<ItemSpec id="20117" group_type="1" group_ratio="225" group_count="7" group_info="100110|7|1250"/>
+		<ItemSpec id="20120" group_type="1" group_ratio="90" group_count="1" group_info="100113|1|1250"/>
+		<ItemSpec id="20121" group_type="1" group_ratio="150" group_count="1" group_info="100113|1|1250"/>
+		<ItemSpec id="20122" group_type="1" group_ratio="150" group_count="2" group_info="100113|2|1250"/>
+		<ItemSpec id="20123" group_type="1" group_ratio="150" group_count="3" group_info="100113|3|1250"/>
+		<ItemSpec id="20124" group_type="1" group_ratio="188" group_count="4" group_info="100113|4|1250"/>
+		<ItemSpec id="20125" group_type="1" group_ratio="188" group_count="5" group_info="100113|5|1250"/>
+		<ItemSpec id="20126" group_type="1" group_ratio="225" group_count="6" group_info="100113|6|1250"/>
+		<ItemSpec id="20127" group_type="1" group_ratio="225" group_count="7" group_info="100113|7|1250"/>
+		<ItemSpec id="20130" group_type="1" group_ratio="90" group_count="1" group_info="100114|1|1250"/>
+		<ItemSpec id="20131" group_type="1" group_ratio="150" group_count="1" group_info="100114|1|1250"/>
+		<ItemSpec id="20132" group_type="1" group_ratio="150" group_count="2" group_info="100114|2|1250"/>
+		<ItemSpec id="20133" group_type="1" group_ratio="150" group_count="3" group_info="100114|3|1250"/>
+		<ItemSpec id="20134" group_type="1" group_ratio="188" group_count="4" group_info="100114|4|1250"/>
+		<ItemSpec id="20135" group_type="1" group_ratio="188" group_count="5" group_info="100114|5|1250"/>
+		<ItemSpec id="20136" group_type="1" group_ratio="225" group_count="6" group_info="100114|6|1250"/>
+		<ItemSpec id="20137" group_type="1" group_ratio="225" group_count="7" group_info="100114|7|1250"/>
+		<ItemSpec id="20140" group_type="1" group_ratio="90" group_count="1" group_info="100115|1|1250"/>
+		<ItemSpec id="20141" group_type="1" group_ratio="150" group_count="1" group_info="100115|1|1250"/>
+		<ItemSpec id="20142" group_type="1" group_ratio="150" group_count="2" group_info="100115|2|1250"/>
+		<ItemSpec id="20143" group_type="1" group_ratio="150" group_count="3" group_info="100115|3|1250"/>
+		<ItemSpec id="20144" group_type="1" group_ratio="188" group_count="4" group_info="100115|4|1250"/>
+		<ItemSpec id="20145" group_type="1" group_ratio="188" group_count="5" group_info="100115|5|1250"/>
+		<ItemSpec id="20146" group_type="1" group_ratio="225" group_count="6" group_info="100115|6|1250"/>
+		<ItemSpec id="20147" group_type="1" group_ratio="225" group_count="7" group_info="100115|7|1250"/>
+		<ItemSpec id="20201" group_type="1" group_ratio="150" group_count="1" group_info="200107|1|1250"/>
+		<ItemSpec id="20202" group_type="1" group_ratio="150" group_count="2" group_info="200107|2|1250"/>
+		<ItemSpec id="20203" group_type="1" group_ratio="150" group_count="3" group_info="200107|3|1250"/>
+		<ItemSpec id="20204" group_type="1" group_ratio="188" group_count="4" group_info="200107|4|1250"/>
+		<ItemSpec id="20205" group_type="1" group_ratio="188" group_count="5" group_info="200107|5|1250"/>
+		<ItemSpec id="20206" group_type="1" group_ratio="225" group_count="6" group_info="200107|6|1250"/>
+		<ItemSpec id="20207" group_type="1" group_ratio="225" group_count="7" group_info="200107|7|1250"/>
+		<ItemSpec id="20211" group_type="1" group_ratio="150" group_count="1" group_info="200116|1|1250"/>
+		<ItemSpec id="20212" group_type="1" group_ratio="150" group_count="2" group_info="200116|2|1250"/>
+		<ItemSpec id="20213" group_type="1" group_ratio="150" group_count="3" group_info="200116|3|1250"/>
+		<ItemSpec id="20214" group_type="1" group_ratio="188" group_count="4" group_info="200116|4|1250"/>
+		<ItemSpec id="20215" group_type="1" group_ratio="188" group_count="5" group_info="200116|5|1250"/>
+		<ItemSpec id="20216" group_type="1" group_ratio="225" group_count="6" group_info="200116|6|1250"/>
+		<ItemSpec id="20217" group_type="1" group_ratio="225" group_count="7" group_info="200116|7|1250"/>
+		<ItemSpec id="20301" group_type="1" group_ratio="225" group_count="1" group_info="100112|1|1250"/>
+		<ItemSpec id="20302" group_type="1" group_ratio="225" group_count="2" group_info="100112|2|1250"/>
+		<ItemSpec id="20303" group_type="1" group_ratio="225" group_count="3" group_info="100112|3|1250"/>
+		<ItemSpec id="20311" group_type="1" group_ratio="225" group_count="1" group_info="100109|1|1250"/>
+		<ItemSpec id="20312" group_type="1" group_ratio="225" group_count="2" group_info="100109|2|1250"/>
+		<ItemSpec id="20313" group_type="1" group_ratio="225" group_count="3" group_info="100109|3|1250"/>
+		<ItemSpec id="20400" group_type="1" group_ratio="180" group_count="1" group_info="100106|1|1250" is_reward="1"/>
+		<ItemSpec id="20401" group_type="1" group_ratio="150" group_count="1" group_info="100106|1|1250" is_reward="1"/>
+		<ItemSpec id="20402" group_type="1" group_ratio="150" group_count="2" group_info="100106|2|1250" is_reward="1"/>
+		<ItemSpec id="20410" group_type="1" group_ratio="180" group_count="1" group_info="100117|1|1250" is_reward="1"/>
+		<ItemSpec id="20411" group_type="1" group_ratio="150" group_count="1" group_info="100117|1|1250" is_reward="1"/>
+		<ItemSpec id="20412" group_type="1" group_ratio="150" group_count="2" group_info="100117|2|1250" is_reward="1"/>
+		<ItemSpec id="20500" group_type="1" group_ratio="150" group_count="1" group_info="100118|1|1250" is_reward="1"/>
+		<ItemSpec id="20501" group_type="1" group_ratio="120" group_count="1" group_info="100118|1|1250" is_reward="1"/>
+		<ItemSpec id="20510" group_type="1" group_ratio="150" group_count="1" group_info="100119|1|1250" is_reward="1"/>
+		<ItemSpec id="20511" group_type="1" group_ratio="120" group_count="1" group_info="100119|1|1250" is_reward="1"/>
+		<ItemSpec id="20601" group_type="1" group_ratio="150" group_count="1" group_info="100108|1|1250"/>
+		<ItemSpec id="20602" group_type="1" group_ratio="150" group_count="2" group_info="100108|2|1250"/>
+		<ItemSpec id="20603" group_type="1" group_ratio="150" group_count="3" group_info="100108|3|1250"/>
+		<ItemSpec id="20604" group_type="1" group_ratio="188" group_count="4" group_info="100108|4|1250"/>
+		<ItemSpec id="20605" group_type="1" group_ratio="188" group_count="5" group_info="100108|5|1250"/>
+		<ItemSpec id="20606" group_type="1" group_ratio="225" group_count="6" group_info="100108|6|1250"/>
+		<ItemSpec id="20607" group_type="1" group_ratio="225" group_count="7" group_info="100108|7|1250"/>
+		<ItemSpec id="21101" group_type="1" group_ratio="300" group_count="2" group_info="100111|1|1250"/>
+		<ItemSpec id="21102" group_type="1" group_ratio="300" group_count="2" group_info="100111|2|1250"/>
+		<ItemSpec id="21103" group_type="1" group_ratio="300" group_count="3" group_info="100111|3|1250"/>
+		<ItemSpec id="21104" group_type="1" group_ratio="375" group_count="4" group_info="100111|4|1250"/>
+		<ItemSpec id="21105" group_type="1" group_ratio="375" group_count="5" group_info="100111|5|1250"/>
+		<ItemSpec id="21106" group_type="1" group_ratio="450" group_count="6" group_info="100111|6|1250"/>
+		<ItemSpec id="21107" group_type="1" group_ratio="450" group_count="7" group_info="100111|7|1250"/>
+		<ItemSpec id="21111" group_type="1" group_ratio="300" group_count="1" group_info="100110|1|1250"/>
+		<ItemSpec id="21112" group_type="1" group_ratio="300" group_count="2" group_info="100110|2|1250"/>
+		<ItemSpec id="21113" group_type="1" group_ratio="300" group_count="3" group_info="100110|3|1250"/>
+		<ItemSpec id="21114" group_type="1" group_ratio="375" group_count="4" group_info="100110|4|1250"/>
+		<ItemSpec id="21115" group_type="1" group_ratio="375" group_count="5" group_info="100110|5|1250"/>
+		<ItemSpec id="21116" group_type="1" group_ratio="450" group_count="6" group_info="100110|6|1250"/>
+		<ItemSpec id="21117" group_type="1" group_ratio="450" group_count="7" group_info="100110|7|1250"/>
+		<ItemSpec id="21121" group_type="1" group_ratio="300" group_count="1" group_info="100113|1|1250"/>
+		<ItemSpec id="21122" group_type="1" group_ratio="300" group_count="2" group_info="100113|2|1250"/>
+		<ItemSpec id="21123" group_type="1" group_ratio="300" group_count="3" group_info="100113|3|1250"/>
+		<ItemSpec id="21124" group_type="1" group_ratio="375" group_count="4" group_info="100113|4|1250"/>
+		<ItemSpec id="21125" group_type="1" group_ratio="375" group_count="5" group_info="100113|5|1250"/>
+		<ItemSpec id="21126" group_type="1" group_ratio="450" group_count="6" group_info="100113|6|1250"/>
+		<ItemSpec id="21127" group_type="1" group_ratio="450" group_count="7" group_info="100113|7|1250"/>
+		<ItemSpec id="21131" group_type="1" group_ratio="300" group_count="1" group_info="100114|1|1250"/>
+		<ItemSpec id="21132" group_type="1" group_ratio="300" group_count="2" group_info="100114|2|1250"/>
+		<ItemSpec id="21133" group_type="1" group_ratio="300" group_count="3" group_info="100114|3|1250"/>
+		<ItemSpec id="21134" group_type="1" group_ratio="375" group_count="4" group_info="100114|4|1250"/>
+		<ItemSpec id="21135" group_type="1" group_ratio="375" group_count="5" group_info="100114|5|1250"/>
+		<ItemSpec id="21136" group_type="1" group_ratio="450" group_count="6" group_info="100114|6|1250"/>
+		<ItemSpec id="21137" group_type="1" group_ratio="450" group_count="7" group_info="100114|7|1250"/>
+		<ItemSpec id="21141" group_type="1" group_ratio="300" group_count="1" group_info="100115|1|1250"/>
+		<ItemSpec id="21142" group_type="1" group_ratio="300" group_count="2" group_info="100115|2|1250"/>
+		<ItemSpec id="21143" group_type="1" group_ratio="300" group_count="3" group_info="100115|3|1250"/>
+		<ItemSpec id="21144" group_type="1" group_ratio="375" group_count="4" group_info="100115|4|1250"/>
+		<ItemSpec id="21145" group_type="1" group_ratio="375" group_count="5" group_info="100115|5|1250"/>
+		<ItemSpec id="21146" group_type="1" group_ratio="450" group_count="6" group_info="100115|6|1250"/>
+		<ItemSpec id="21147" group_type="1" group_ratio="450" group_count="7" group_info="100115|7|1250"/>
+		<ItemSpec id="21201" group_type="1" group_ratio="300" group_count="1" group_info="200107|1|1250"/>
+		<ItemSpec id="21202" group_type="1" group_ratio="300" group_count="2" group_info="200107|2|1250"/>
+		<ItemSpec id="21203" group_type="1" group_ratio="300" group_count="3" group_info="200107|3|1250"/>
+		<ItemSpec id="21204" group_type="1" group_ratio="375" group_count="4" group_info="200107|4|1250"/>
+		<ItemSpec id="21205" group_type="1" group_ratio="375" group_count="5" group_info="200107|5|1250"/>
+		<ItemSpec id="21206" group_type="1" group_ratio="450" group_count="6" group_info="200107|6|1250"/>
+		<ItemSpec id="21207" group_type="1" group_ratio="450" group_count="7" group_info="200107|7|1250"/>
+		<ItemSpec id="21211" group_type="1" group_ratio="300" group_count="1" group_info="200116|1|1250"/>
+		<ItemSpec id="21212" group_type="1" group_ratio="300" group_count="2" group_info="200116|2|1250"/>
+		<ItemSpec id="21213" group_type="1" group_ratio="300" group_count="3" group_info="200116|3|1250"/>
+		<ItemSpec id="21214" group_type="1" group_ratio="375" group_count="4" group_info="200116|4|1250"/>
+		<ItemSpec id="21215" group_type="1" group_ratio="375" group_count="5" group_info="200116|5|1250"/>
+		<ItemSpec id="21216" group_type="1" group_ratio="450" group_count="6" group_info="200116|6|1250"/>
+		<ItemSpec id="21217" group_type="1" group_ratio="450" group_count="7" group_info="200116|7|1250"/>
+		<ItemSpec id="21301" group_type="1" group_ratio="450" group_count="1" group_info="100112|1|1250"/>
+		<ItemSpec id="21302" group_type="1" group_ratio="450" group_count="2" group_info="100112|2|1250"/>
+		<ItemSpec id="21303" group_type="1" group_ratio="495" group_count="3" group_info="100112|3|1250"/>
+		<ItemSpec id="21311" group_type="1" group_ratio="450" group_count="1" group_info="100109|1|1250"/>
+		<ItemSpec id="21312" group_type="1" group_ratio="450" group_count="2" group_info="100109|2|1250"/>
+		<ItemSpec id="21313" group_type="1" group_ratio="495" group_count="3" group_info="100109|3|1250"/>
+		<ItemSpec id="21400" group_type="1" group_ratio="360" group_count="1" group_info="100106|1|1250" is_reward="1"/>
+		<ItemSpec id="21401" group_type="1" group_ratio="300" group_count="1" group_info="100106|1|1250" is_reward="1"/>
+		<ItemSpec id="21402" group_type="1" group_ratio="300" group_count="2" group_info="100106|2|1250" is_reward="1"/>
+		<ItemSpec id="21410" group_type="1" group_ratio="360" group_count="1" group_info="100117|1|1250" is_reward="1"/>
+		<ItemSpec id="21411" group_type="1" group_ratio="300" group_count="1" group_info="100117|1|1250" is_reward="1"/>
+		<ItemSpec id="21412" group_type="1" group_ratio="300" group_count="2" group_info="100117|2|1250" is_reward="1"/>
+		<ItemSpec id="21500" group_type="1" group_ratio="300" group_count="1" group_info="100118|1|1250" is_reward="1"/>
+		<ItemSpec id="21501" group_type="1" group_ratio="240" group_count="1" group_info="100118|1|1250" is_reward="1"/>
+		<ItemSpec id="21510" group_type="1" group_ratio="300" group_count="1" group_info="100119|1|1250" is_reward="1"/>
+		<ItemSpec id="21511" group_type="1" group_ratio="240" group_count="1" group_info="100119|1|1250" is_reward="1"/>
+		<ItemSpec id="21601" group_type="1" group_ratio="300" group_count="1" group_info="100108|1|1250"/>
+		<ItemSpec id="21602" group_type="1" group_ratio="300" group_count="2" group_info="100108|2|1250"/>
+		<ItemSpec id="21603" group_type="1" group_ratio="300" group_count="3" group_info="100108|3|1250"/>
+		<ItemSpec id="21604" group_type="1" group_ratio="375" group_count="4" group_info="100108|4|1250"/>
+		<ItemSpec id="21605" group_type="1" group_ratio="375" group_count="5" group_info="100108|5|1250"/>
+		<ItemSpec id="21606" group_type="1" group_ratio="450" group_count="6" group_info="100108|6|1250"/>
+		<ItemSpec id="21607" group_type="1" group_ratio="450" group_count="7" group_info="100108|7|1250"/>
+		<ItemSpec id="22101" group_type="1" group_ratio="600" group_count="1" group_info="100111|1|1250"/>
+		<ItemSpec id="22102" group_type="1" group_ratio="600" group_count="2" group_info="100111|2|1250"/>
+		<ItemSpec id="22103" group_type="1" group_ratio="600" group_count="3" group_info="100111|3|1250"/>
+		<ItemSpec id="22104" group_type="1" group_ratio="750" group_count="4" group_info="100111|4|1250"/>
+		<ItemSpec id="22105" group_type="1" group_ratio="750" group_count="5" group_info="100111|5|1250"/>
+		<ItemSpec id="22106" group_type="1" group_ratio="900" group_count="6" group_info="100111|6|1250"/>
+		<ItemSpec id="22107" group_type="1" group_ratio="900" group_count="7" group_info="100111|7|1250"/>
+		<ItemSpec id="22111" group_type="1" group_ratio="600" group_count="1" group_info="100110|1|1250"/>
+		<ItemSpec id="22112" group_type="1" group_ratio="600" group_count="2" group_info="100110|2|1250"/>
+		<ItemSpec id="22113" group_type="1" group_ratio="600" group_count="3" group_info="100110|3|1250"/>
+		<ItemSpec id="22114" group_type="1" group_ratio="750" group_count="4" group_info="100110|4|1250"/>
+		<ItemSpec id="22115" group_type="1" group_ratio="750" group_count="5" group_info="100110|5|1250"/>
+		<ItemSpec id="22116" group_type="1" group_ratio="900" group_count="6" group_info="100110|6|1250"/>
+		<ItemSpec id="22117" group_type="1" group_ratio="900" group_count="7" group_info="100110|7|1250"/>
+		<ItemSpec id="22121" group_type="1" group_ratio="600" group_count="1" group_info="100113|1|1250"/>
+		<ItemSpec id="22122" group_type="1" group_ratio="600" group_count="2" group_info="100113|2|1250"/>
+		<ItemSpec id="22123" group_type="1" group_ratio="600" group_count="3" group_info="100113|3|1250"/>
+		<ItemSpec id="22124" group_type="1" group_ratio="750" group_count="4" group_info="100113|4|1250"/>
+		<ItemSpec id="22125" group_type="1" group_ratio="750" group_count="5" group_info="100113|5|1250"/>
+		<ItemSpec id="22126" group_type="1" group_ratio="900" group_count="6" group_info="100113|6|1250"/>
+		<ItemSpec id="22127" group_type="1" group_ratio="900" group_count="7" group_info="100113|7|1250"/>
+		<ItemSpec id="22131" group_type="1" group_ratio="600" group_count="1" group_info="100114|1|1250"/>
+		<ItemSpec id="22132" group_type="1" group_ratio="600" group_count="2" group_info="100114|2|1250"/>
+		<ItemSpec id="22133" group_type="1" group_ratio="600" group_count="3" group_info="100114|3|1250"/>
+		<ItemSpec id="22134" group_type="1" group_ratio="750" group_count="4" group_info="100114|4|1250"/>
+		<ItemSpec id="22135" group_type="1" group_ratio="750" group_count="5" group_info="100114|5|1250"/>
+		<ItemSpec id="22136" group_type="1" group_ratio="900" group_count="6" group_info="100114|6|1250"/>
+		<ItemSpec id="22137" group_type="1" group_ratio="900" group_count="7" group_info="100114|7|1250"/>
+		<ItemSpec id="22141" group_type="1" group_ratio="600" group_count="1" group_info="100115|1|1250"/>
+		<ItemSpec id="22142" group_type="1" group_ratio="600" group_count="2" group_info="100115|2|1250"/>
+		<ItemSpec id="22143" group_type="1" group_ratio="600" group_count="3" group_info="100115|3|1250"/>
+		<ItemSpec id="22144" group_type="1" group_ratio="750" group_count="4" group_info="100115|4|1250"/>
+		<ItemSpec id="22145" group_type="1" group_ratio="750" group_count="5" group_info="100115|5|1250"/>
+		<ItemSpec id="22146" group_type="1" group_ratio="900" group_count="6" group_info="100115|6|1250"/>
+		<ItemSpec id="22147" group_type="1" group_ratio="900" group_count="7" group_info="100115|7|1250"/>
+		<ItemSpec id="22201" group_type="1" group_ratio="600" group_count="1" group_info="200107|1|1250"/>
+		<ItemSpec id="22202" group_type="1" group_ratio="600" group_count="2" group_info="200107|2|1250"/>
+		<ItemSpec id="22203" group_type="1" group_ratio="600" group_count="3" group_info="200107|3|1250"/>
+		<ItemSpec id="22204" group_type="1" group_ratio="750" group_count="4" group_info="200107|4|1250"/>
+		<ItemSpec id="22205" group_type="1" group_ratio="750" group_count="5" group_info="200107|5|1250"/>
+		<ItemSpec id="22206" group_type="1" group_ratio="900" group_count="6" group_info="200107|6|1250"/>
+		<ItemSpec id="22207" group_type="1" group_ratio="900" group_count="7" group_info="200107|7|1250"/>
+		<ItemSpec id="22211" group_type="1" group_ratio="600" group_count="1" group_info="200116|1|1250"/>
+		<ItemSpec id="22212" group_type="1" group_ratio="600" group_count="2" group_info="200116|2|1250"/>
+		<ItemSpec id="22213" group_type="1" group_ratio="600" group_count="3" group_info="200116|3|1250"/>
+		<ItemSpec id="22214" group_type="1" group_ratio="750" group_count="4" group_info="200116|4|1250"/>
+		<ItemSpec id="22215" group_type="1" group_ratio="750" group_count="5" group_info="200116|5|1250"/>
+		<ItemSpec id="22216" group_type="1" group_ratio="900" group_count="6" group_info="200116|6|1250"/>
+		<ItemSpec id="22217" group_type="1" group_ratio="900" group_count="7" group_info="200116|7|1250"/>
+		<ItemSpec id="22301" group_type="1" group_ratio="900" group_count="1" group_info="100112|1|1250"/>
+		<ItemSpec id="22302" group_type="1" group_ratio="900" group_count="2" group_info="100112|2|1250"/>
+		<ItemSpec id="22303" group_type="1" group_ratio="990" group_count="3" group_info="100112|3|1250"/>
+		<ItemSpec id="22311" group_type="1" group_ratio="900" group_count="1" group_info="100109|1|1250"/>
+		<ItemSpec id="22312" group_type="1" group_ratio="900" group_count="2" group_info="100109|2|1250"/>
+		<ItemSpec id="22313" group_type="1" group_ratio="990" group_count="3" group_info="100109|3|1250"/>
+		<ItemSpec id="22400" group_type="1" group_ratio="750" group_count="1" group_info="100106|1|1250" is_reward="1"/>
+		<ItemSpec id="22401" group_type="1" group_ratio="600" group_count="1" group_info="100106|1|1250" is_reward="1"/>
+		<ItemSpec id="22402" group_type="1" group_ratio="600" group_count="2" group_info="100106|2|1250" is_reward="1"/>
+		<ItemSpec id="22410" group_type="1" group_ratio="750" group_count="1" group_info="100117|1|1250" is_reward="1"/>
+		<ItemSpec id="22411" group_type="1" group_ratio="600" group_count="1" group_info="100117|1|1250" is_reward="1"/>
+		<ItemSpec id="22412" group_type="1" group_ratio="600" group_count="2" group_info="100117|2|1250" is_reward="1"/>
+		<ItemSpec id="22500" group_type="1" group_ratio="600" group_count="1" group_info="100118|1|1250" is_reward="1"/>
+		<ItemSpec id="22501" group_type="1" group_ratio="500" group_count="1" group_info="100118|1|1250" is_reward="1"/>
+		<ItemSpec id="22510" group_type="1" group_ratio="600" group_count="1" group_info="100119|1|1250" is_reward="1"/>
+		<ItemSpec id="22511" group_type="1" group_ratio="500" group_count="1" group_info="100119|1|1250" is_reward="1"/>
+		<ItemSpec id="22601" group_type="1" group_ratio="600" group_count="1" group_info="100108|1|1250"/>
+		<ItemSpec id="22602" group_type="1" group_ratio="600" group_count="2" group_info="100108|2|1250"/>
+		<ItemSpec id="22603" group_type="1" group_ratio="600" group_count="3" group_info="100108|3|1250"/>
+		<ItemSpec id="22604" group_type="1" group_ratio="750" group_count="4" group_info="100108|4|1250"/>
+		<ItemSpec id="22605" group_type="1" group_ratio="750" group_count="5" group_info="100108|5|1250"/>
+		<ItemSpec id="22606" group_type="1" group_ratio="900" group_count="6" group_info="100108|6|1250"/>
+		<ItemSpec id="22607" group_type="1" group_ratio="900" group_count="7" group_info="100108|7|1250"/>
+		<ItemSpec id="23101" group_type="1" group_ratio="960" group_count="1" group_info="100111|1|1250"/>
+		<ItemSpec id="23102" group_type="1" group_ratio="960" group_count="2" group_info="100111|2|1250"/>
+		<ItemSpec id="23103" group_type="1" group_ratio="960" group_count="3" group_info="100111|3|1250"/>
+		<ItemSpec id="23104" group_type="1" group_ratio="1200" group_count="4" group_info="100111|4|1250"/>
+		<ItemSpec id="23105" group_type="1" group_ratio="1200" group_count="5" group_info="100111|5|1250"/>
+		<ItemSpec id="23106" group_type="1" group_ratio="1440" group_count="6" group_info="100111|6|1250"/>
+		<ItemSpec id="23107" group_type="1" group_ratio="1440" group_count="7" group_info="100111|7|1250"/>
+		<ItemSpec id="23111" group_type="1" group_ratio="960" group_count="1" group_info="100110|1|1250"/>
+		<ItemSpec id="23112" group_type="1" group_ratio="960" group_count="2" group_info="100110|2|1250"/>
+		<ItemSpec id="23113" group_type="1" group_ratio="960" group_count="3" group_info="100110|3|1250"/>
+		<ItemSpec id="23114" group_type="1" group_ratio="1200" group_count="4" group_info="100110|4|1250"/>
+		<ItemSpec id="23115" group_type="1" group_ratio="1200" group_count="5" group_info="100110|5|1250"/>
+		<ItemSpec id="23116" group_type="1" group_ratio="1440" group_count="6" group_info="100110|6|1250"/>
+		<ItemSpec id="23117" group_type="1" group_ratio="1440" group_count="7" group_info="100110|7|1250"/>
+		<ItemSpec id="23121" group_type="1" group_ratio="960" group_count="1" group_info="100113|1|1250"/>
+		<ItemSpec id="23122" group_type="1" group_ratio="960" group_count="2" group_info="100113|2|1250"/>
+		<ItemSpec id="23123" group_type="1" group_ratio="960" group_count="3" group_info="100113|3|1250"/>
+		<ItemSpec id="23124" group_type="1" group_ratio="1200" group_count="4" group_info="100113|4|1250"/>
+		<ItemSpec id="23125" group_type="1" group_ratio="1200" group_count="5" group_info="100113|5|1250"/>
+		<ItemSpec id="23126" group_type="1" group_ratio="1440" group_count="6" group_info="100113|6|1250"/>
+		<ItemSpec id="23127" group_type="1" group_ratio="1440" group_count="7" group_info="100113|7|1250"/>
+		<ItemSpec id="23131" group_type="1" group_ratio="960" group_count="1" group_info="100114|1|1250"/>
+		<ItemSpec id="23132" group_type="1" group_ratio="960" group_count="2" group_info="100114|2|1250"/>
+		<ItemSpec id="23133" group_type="1" group_ratio="960" group_count="3" group_info="100114|3|1250"/>
+		<ItemSpec id="23134" group_type="1" group_ratio="1200" group_count="4" group_info="100114|4|1250"/>
+		<ItemSpec id="23135" group_type="1" group_ratio="1200" group_count="5" group_info="100114|5|1250"/>
+		<ItemSpec id="23136" group_type="1" group_ratio="1440" group_count="6" group_info="100114|6|1250"/>
+		<ItemSpec id="23137" group_type="1" group_ratio="1440" group_count="7" group_info="100114|7|1250"/>
+		<ItemSpec id="23141" group_type="1" group_ratio="960" group_count="1" group_info="100115|1|1250"/>
+		<ItemSpec id="23142" group_type="1" group_ratio="960" group_count="2" group_info="100115|2|1250"/>
+		<ItemSpec id="23143" group_type="1" group_ratio="960" group_count="3" group_info="100115|3|1250"/>
+		<ItemSpec id="23144" group_type="1" group_ratio="1200" group_count="4" group_info="100115|4|1250"/>
+		<ItemSpec id="23145" group_type="1" group_ratio="1200" group_count="5" group_info="100115|5|1250"/>
+		<ItemSpec id="23146" group_type="1" group_ratio="1440" group_count="6" group_info="100115|6|1250"/>
+		<ItemSpec id="23147" group_type="1" group_ratio="1440" group_count="7" group_info="100115|7|1250"/>
+		<ItemSpec id="23201" group_type="1" group_ratio="960" group_count="1" group_info="200107|1|1250"/>
+		<ItemSpec id="23202" group_type="1" group_ratio="960" group_count="2" group_info="200107|2|1250"/>
+		<ItemSpec id="23203" group_type="1" group_ratio="960" group_count="3" group_info="200107|3|1250"/>
+		<ItemSpec id="23204" group_type="1" group_ratio="1200" group_count="4" group_info="200107|4|1250"/>
+		<ItemSpec id="23205" group_type="1" group_ratio="1200" group_count="5" group_info="200107|5|1250"/>
+		<ItemSpec id="23206" group_type="1" group_ratio="1440" group_count="6" group_info="200107|6|1250"/>
+		<ItemSpec id="23207" group_type="1" group_ratio="1440" group_count="7" group_info="200107|7|1250"/>
+		<ItemSpec id="23211" group_type="1" group_ratio="960" group_count="1" group_info="200116|1|1250"/>
+		<ItemSpec id="23212" group_type="1" group_ratio="960" group_count="2" group_info="200116|2|1250"/>
+		<ItemSpec id="23213" group_type="1" group_ratio="960" group_count="3" group_info="200116|3|1250"/>
+		<ItemSpec id="23214" group_type="1" group_ratio="1200" group_count="4" group_info="200116|4|1250"/>
+		<ItemSpec id="23215" group_type="1" group_ratio="1200" group_count="5" group_info="200116|5|1250"/>
+		<ItemSpec id="23216" group_type="1" group_ratio="1440" group_count="6" group_info="200116|6|1250"/>
+		<ItemSpec id="23217" group_type="1" group_ratio="1440" group_count="7" group_info="200116|7|1250"/>
+		<ItemSpec id="23301" group_type="1" group_ratio="1440" group_count="1" group_info="100112|1|1250"/>
+		<ItemSpec id="23302" group_type="1" group_ratio="1440" group_count="2" group_info="100112|2|1250"/>
+		<ItemSpec id="23303" group_type="1" group_ratio="1620" group_count="3" group_info="100112|3|1250"/>
+		<ItemSpec id="23311" group_type="1" group_ratio="1440" group_count="1" group_info="100109|1|1250"/>
+		<ItemSpec id="23312" group_type="1" group_ratio="1440" group_count="2" group_info="100109|2|1250"/>
+		<ItemSpec id="23313" group_type="1" group_ratio="1620" group_count="3" group_info="100109|3|1250"/>
+		<ItemSpec id="23400" group_type="1" group_ratio="1200" group_count="1" group_info="100106|1|1250" is_reward="1"/>
+		<ItemSpec id="23401" group_type="1" group_ratio="900" group_count="1" group_info="100106|1|1250" is_reward="1"/>
+		<ItemSpec id="23402" group_type="1" group_ratio="900" group_count="2" group_info="100106|2|1250" is_reward="1"/>
+		<ItemSpec id="23410" group_type="1" group_ratio="1200" group_count="1" group_info="100117|1|1250" is_reward="1"/>
+		<ItemSpec id="23411" group_type="1" group_ratio="900" group_count="1" group_info="100117|1|1250" is_reward="1"/>
+		<ItemSpec id="23412" group_type="1" group_ratio="900" group_count="2" group_info="100117|2|1250" is_reward="1"/>
+		<ItemSpec id="23500" group_type="1" group_ratio="900" group_count="1" group_info="100118|1|1250" is_reward="1"/>
+		<ItemSpec id="23501" group_type="1" group_ratio="750" group_count="1" group_info="100118|1|1250" is_reward="1"/>
+		<ItemSpec id="23510" group_type="1" group_ratio="900" group_count="1" group_info="100119|1|1250" is_reward="1"/>
+		<ItemSpec id="23511" group_type="1" group_ratio="750" group_count="1" group_info="100119|1|1250" is_reward="1"/>
+		<ItemSpec id="23601" group_type="1" group_ratio="960" group_count="1" group_info="100108|1|1250"/>
+		<ItemSpec id="23602" group_type="1" group_ratio="960" group_count="2" group_info="100108|2|1250"/>
+		<ItemSpec id="23603" group_type="1" group_ratio="960" group_count="3" group_info="100108|3|1250"/>
+		<ItemSpec id="23604" group_type="1" group_ratio="1200" group_count="4" group_info="100108|4|1250"/>
+		<ItemSpec id="23605" group_type="1" group_ratio="1200" group_count="5" group_info="100108|5|1250"/>
+		<ItemSpec id="23606" group_type="1" group_ratio="1440" group_count="6" group_info="100108|6|1250"/>
+		<ItemSpec id="23607" group_type="1" group_ratio="1440" group_count="7" group_info="100108|7|1250"/>
+		<ItemSpec id="30101" group_type="1" group_ratio="100" group_count="2" group_info="300111|2|200"/>
+		<ItemSpec id="30102" group_type="1" group_ratio="100" group_count="2" group_info="300111|2|200"/>
+		<ItemSpec id="30103" group_type="1" group_ratio="100" group_count="3" group_info="300111|3|200"/>
+		<ItemSpec id="30104" group_type="1" group_ratio="125" group_count="4" group_info="300111|4|200"/>
+		<ItemSpec id="30105" group_type="1" group_ratio="125" group_count="5" group_info="300111|5|200"/>
+		<ItemSpec id="30106" group_type="1" group_ratio="150" group_count="6" group_info="300111|6|200"/>
+		<ItemSpec id="30107" group_type="1" group_ratio="150" group_count="7" group_info="300111|7|200"/>
+		<ItemSpec id="30111" group_type="1" group_ratio="100" group_count="1" group_info="300110|1|200"/>
+		<ItemSpec id="30112" group_type="1" group_ratio="100" group_count="2" group_info="300110|2|200"/>
+		<ItemSpec id="30113" group_type="1" group_ratio="100" group_count="3" group_info="300110|3|200"/>
+		<ItemSpec id="30114" group_type="1" group_ratio="125" group_count="4" group_info="300110|4|200"/>
+		<ItemSpec id="30115" group_type="1" group_ratio="125" group_count="5" group_info="300110|5|200"/>
+		<ItemSpec id="30116" group_type="1" group_ratio="150" group_count="6" group_info="300110|6|200"/>
+		<ItemSpec id="30117" group_type="1" group_ratio="150" group_count="7" group_info="300110|7|200"/>
+		<ItemSpec id="30121" group_type="1" group_ratio="100" group_count="1" group_info="300113|1|200"/>
+		<ItemSpec id="30122" group_type="1" group_ratio="100" group_count="2" group_info="300113|2|200"/>
+		<ItemSpec id="30123" group_type="1" group_ratio="100" group_count="3" group_info="300113|3|200"/>
+		<ItemSpec id="30124" group_type="1" group_ratio="125" group_count="4" group_info="300113|4|200"/>
+		<ItemSpec id="30125" group_type="1" group_ratio="125" group_count="5" group_info="300113|5|200"/>
+		<ItemSpec id="30126" group_type="1" group_ratio="150" group_count="6" group_info="300113|6|200"/>
+		<ItemSpec id="30127" group_type="1" group_ratio="150" group_count="7" group_info="300113|7|200"/>
+		<ItemSpec id="30131" group_type="1" group_ratio="100" group_count="1" group_info="300114|1|200"/>
+		<ItemSpec id="30132" group_type="1" group_ratio="100" group_count="2" group_info="300114|2|200"/>
+		<ItemSpec id="30133" group_type="1" group_ratio="100" group_count="3" group_info="300114|3|200"/>
+		<ItemSpec id="30134" group_type="1" group_ratio="125" group_count="4" group_info="300114|4|200"/>
+		<ItemSpec id="30135" group_type="1" group_ratio="125" group_count="5" group_info="300114|5|200"/>
+		<ItemSpec id="30136" group_type="1" group_ratio="150" group_count="6" group_info="300114|6|200"/>
+		<ItemSpec id="30137" group_type="1" group_ratio="150" group_count="7" group_info="300114|7|200"/>
+		<ItemSpec id="30141" group_type="1" group_ratio="100" group_count="1" group_info="300115|1|200"/>
+		<ItemSpec id="30142" group_type="1" group_ratio="100" group_count="2" group_info="300115|2|200"/>
+		<ItemSpec id="30143" group_type="1" group_ratio="100" group_count="3" group_info="300115|3|200"/>
+		<ItemSpec id="30144" group_type="1" group_ratio="125" group_count="4" group_info="300115|4|200"/>
+		<ItemSpec id="30145" group_type="1" group_ratio="125" group_count="5" group_info="300115|5|200"/>
+		<ItemSpec id="30146" group_type="1" group_ratio="150" group_count="6" group_info="300115|6|200"/>
+		<ItemSpec id="30147" group_type="1" group_ratio="150" group_count="7" group_info="300115|7|200"/>
+		<ItemSpec id="30201" group_type="1" group_ratio="100" group_count="1" group_info="300107|1|200"/>
+		<ItemSpec id="30202" group_type="1" group_ratio="100" group_count="2" group_info="300107|2|200"/>
+		<ItemSpec id="30203" group_type="1" group_ratio="100" group_count="3" group_info="300107|3|200"/>
+		<ItemSpec id="30204" group_type="1" group_ratio="125" group_count="4" group_info="300107|4|200"/>
+		<ItemSpec id="30205" group_type="1" group_ratio="125" group_count="5" group_info="300107|5|200"/>
+		<ItemSpec id="30206" group_type="1" group_ratio="150" group_count="6" group_info="300107|6|200"/>
+		<ItemSpec id="30207" group_type="1" group_ratio="150" group_count="7" group_info="300107|7|200"/>
+		<ItemSpec id="30211" group_type="1" group_ratio="100" group_count="1" group_info="300116|1|200"/>
+		<ItemSpec id="30212" group_type="1" group_ratio="100" group_count="2" group_info="300116|2|200"/>
+		<ItemSpec id="30213" group_type="1" group_ratio="100" group_count="3" group_info="300116|3|200"/>
+		<ItemSpec id="30214" group_type="1" group_ratio="125" group_count="4" group_info="300116|4|200"/>
+		<ItemSpec id="30215" group_type="1" group_ratio="125" group_count="5" group_info="300116|5|200"/>
+		<ItemSpec id="30216" group_type="1" group_ratio="150" group_count="6" group_info="300116|6|200"/>
+		<ItemSpec id="30217" group_type="1" group_ratio="150" group_count="7" group_info="300116|7|200"/>
+		<ItemSpec id="30301" group_type="1" group_ratio="100" group_count="1" group_info="300112|1|200"/>
+		<ItemSpec id="30302" group_type="1" group_ratio="120" group_count="2" group_info="300112|2|200"/>
+		<ItemSpec id="30303" group_type="1" group_ratio="150" group_count="3" group_info="300112|3|200"/>
+		<ItemSpec id="30311" group_type="1" group_ratio="100" group_count="1" group_info="300109|1|200"/>
+		<ItemSpec id="30312" group_type="1" group_ratio="120" group_count="2" group_info="300109|2|200"/>
+		<ItemSpec id="30313" group_type="1" group_ratio="150" group_count="3" group_info="300109|3|200"/>
+		<ItemSpec id="30321" group_type="1" group_ratio="100" group_count="1" group_info="300127|1|200"/>
+		<ItemSpec id="30322" group_type="1" group_ratio="120" group_count="2" group_info="300127|2|200"/>
+		<ItemSpec id="30323" group_type="1" group_ratio="150" group_count="3" group_info="300127|3|200"/>
+		<ItemSpec id="30400" group_type="1" group_ratio="125" group_count="1" group_info="300106|1|200" is_reward="1"/>
+		<ItemSpec id="30401" group_type="1" group_ratio="100" group_count="1" group_info="300106|1|200" is_reward="1"/>
+		<ItemSpec id="30402" group_type="1" group_ratio="100" group_count="2" group_info="300106|2|200" is_reward="1"/>
+		<ItemSpec id="30410" group_type="1" group_ratio="125" group_count="1" group_info="300117|1|200" is_reward="1"/>
+		<ItemSpec id="30411" group_type="1" group_ratio="100" group_count="1" group_info="300117|1|200" is_reward="1"/>
+		<ItemSpec id="30412" group_type="1" group_ratio="100" group_count="2" group_info="300117|2|200" is_reward="1"/>
+		<ItemSpec id="30420" group_type="1" group_ratio="125" group_count="1" group_info="300128|1|200" is_reward="1"/>
+		<ItemSpec id="30421" group_type="1" group_ratio="100" group_count="1" group_info="300128|1|200" is_reward="1"/>
+		<ItemSpec id="30422" group_type="1" group_ratio="100" group_count="2" group_info="300128|2|200" is_reward="1"/>
+		<ItemSpec id="30500" group_type="1" group_ratio="125" group_count="1" group_info="300118|1|200" is_reward="1"/>
+		<ItemSpec id="30501" group_type="1" group_ratio="100" group_count="1" group_info="300118|1|200" is_reward="1"/>
+		<ItemSpec id="30510" group_type="1" group_ratio="125" group_count="1" group_info="300119|1|200" is_reward="1"/>
+		<ItemSpec id="30511" group_type="1" group_ratio="100" group_count="1" group_info="300119|1|200" is_reward="1"/>
+		<ItemSpec id="30520" group_type="1" group_ratio="125" group_count="1" group_info="300124|1|200" is_reward="1"/>
+		<ItemSpec id="30521" group_type="1" group_ratio="100" group_count="1" group_info="300124|1|200" is_reward="1"/>
+		<ItemSpec id="30601" group_type="1" group_ratio="100" group_count="1" group_info="300108|1|200"/>
+		<ItemSpec id="30602" group_type="1" group_ratio="100" group_count="2" group_info="300108|2|200"/>
+		<ItemSpec id="30603" group_type="1" group_ratio="100" group_count="3" group_info="300108|3|200"/>
+		<ItemSpec id="30604" group_type="1" group_ratio="125" group_count="4" group_info="300108|4|200"/>
+		<ItemSpec id="30605" group_type="1" group_ratio="125" group_count="5" group_info="300108|5|200"/>
+		<ItemSpec id="30606" group_type="1" group_ratio="150" group_count="6" group_info="300108|6|200"/>
+		<ItemSpec id="30607" group_type="1" group_ratio="150" group_count="7" group_info="300108|7|200"/>
+		<ItemSpec id="31101" group_type="1" group_ratio="160" group_count="1" group_info="300111|1|200"/>
+		<ItemSpec id="31102" group_type="1" group_ratio="160" group_count="2" group_info="300111|2|200"/>
+		<ItemSpec id="31103" group_type="1" group_ratio="160" group_count="3" group_info="300111|3|200"/>
+		<ItemSpec id="31104" group_type="1" group_ratio="200" group_count="4" group_info="300111|4|200"/>
+		<ItemSpec id="31105" group_type="1" group_ratio="200" group_count="5" group_info="300111|5|200"/>
+		<ItemSpec id="31106" group_type="1" group_ratio="240" group_count="6" group_info="300111|6|200"/>
+		<ItemSpec id="31107" group_type="1" group_ratio="240" group_count="7" group_info="300111|7|200"/>
+		<ItemSpec id="31111" group_type="1" group_ratio="160" group_count="1" group_info="300110|1|200"/>
+		<ItemSpec id="31112" group_type="1" group_ratio="160" group_count="2" group_info="300110|2|200"/>
+		<ItemSpec id="31113" group_type="1" group_ratio="160" group_count="3" group_info="300110|3|200"/>
+		<ItemSpec id="31114" group_type="1" group_ratio="200" group_count="4" group_info="300110|4|200"/>
+		<ItemSpec id="31115" group_type="1" group_ratio="200" group_count="5" group_info="300110|5|200"/>
+		<ItemSpec id="31116" group_type="1" group_ratio="240" group_count="6" group_info="300110|6|200"/>
+		<ItemSpec id="31117" group_type="1" group_ratio="240" group_count="7" group_info="300110|7|200"/>
+		<ItemSpec id="31121" group_type="1" group_ratio="160" group_count="1" group_info="300113|1|200"/>
+		<ItemSpec id="31122" group_type="1" group_ratio="160" group_count="2" group_info="300113|2|200"/>
+		<ItemSpec id="31123" group_type="1" group_ratio="160" group_count="3" group_info="300113|3|200"/>
+		<ItemSpec id="31124" group_type="1" group_ratio="200" group_count="4" group_info="300113|4|200"/>
+		<ItemSpec id="31125" group_type="1" group_ratio="200" group_count="5" group_info="300113|5|200"/>
+		<ItemSpec id="31126" group_type="1" group_ratio="240" group_count="6" group_info="300113|6|200"/>
+		<ItemSpec id="31127" group_type="1" group_ratio="240" group_count="7" group_info="300113|7|200"/>
+		<ItemSpec id="31131" group_type="1" group_ratio="160" group_count="1" group_info="300114|1|200"/>
+		<ItemSpec id="31132" group_type="1" group_ratio="160" group_count="2" group_info="300114|2|200"/>
+		<ItemSpec id="31133" group_type="1" group_ratio="160" group_count="3" group_info="300114|3|200"/>
+		<ItemSpec id="31134" group_type="1" group_ratio="200" group_count="4" group_info="300114|4|200"/>
+		<ItemSpec id="31135" group_type="1" group_ratio="200" group_count="5" group_info="300114|5|200"/>
+		<ItemSpec id="31136" group_type="1" group_ratio="240" group_count="6" group_info="300114|6|200"/>
+		<ItemSpec id="31137" group_type="1" group_ratio="240" group_count="7" group_info="300114|7|200"/>
+		<ItemSpec id="31141" group_type="1" group_ratio="160" group_count="1" group_info="300115|1|200"/>
+		<ItemSpec id="31142" group_type="1" group_ratio="160" group_count="2" group_info="300115|2|200"/>
+		<ItemSpec id="31143" group_type="1" group_ratio="160" group_count="3" group_info="300115|3|200"/>
+		<ItemSpec id="31144" group_type="1" group_ratio="200" group_count="4" group_info="300115|4|200"/>
+		<ItemSpec id="31145" group_type="1" group_ratio="200" group_count="5" group_info="300115|5|200"/>
+		<ItemSpec id="31146" group_type="1" group_ratio="240" group_count="6" group_info="300115|6|200"/>
+		<ItemSpec id="31147" group_type="1" group_ratio="240" group_count="7" group_info="300115|7|200"/>
+		<ItemSpec id="31201" group_type="1" group_ratio="160" group_count="1" group_info="300107|1|200"/>
+		<ItemSpec id="31202" group_type="1" group_ratio="160" group_count="2" group_info="300107|2|200"/>
+		<ItemSpec id="31203" group_type="1" group_ratio="160" group_count="3" group_info="300107|3|200"/>
+		<ItemSpec id="31204" group_type="1" group_ratio="200" group_count="4" group_info="300107|4|200"/>
+		<ItemSpec id="31205" group_type="1" group_ratio="200" group_count="5" group_info="300107|5|200"/>
+		<ItemSpec id="31206" group_type="1" group_ratio="240" group_count="6" group_info="300107|6|200"/>
+		<ItemSpec id="31207" group_type="1" group_ratio="240" group_count="7" group_info="300107|7|200"/>
+		<ItemSpec id="31211" group_type="1" group_ratio="160" group_count="1" group_info="300116|1|200"/>
+		<ItemSpec id="31212" group_type="1" group_ratio="160" group_count="2" group_info="300116|2|200"/>
+		<ItemSpec id="31213" group_type="1" group_ratio="160" group_count="3" group_info="300116|3|200"/>
+		<ItemSpec id="31214" group_type="1" group_ratio="200" group_count="4" group_info="300116|4|200"/>
+		<ItemSpec id="31215" group_type="1" group_ratio="200" group_count="5" group_info="300116|5|200"/>
+		<ItemSpec id="31216" group_type="1" group_ratio="240" group_count="6" group_info="300116|6|200"/>
+		<ItemSpec id="31217" group_type="1" group_ratio="240" group_count="7" group_info="300116|7|200"/>
+		<ItemSpec id="31301" group_type="1" group_ratio="160" group_count="1" group_info="300112|1|200"/>
+		<ItemSpec id="31302" group_type="1" group_ratio="192" group_count="2" group_info="300112|2|200"/>
+		<ItemSpec id="31303" group_type="1" group_ratio="240" group_count="3" group_info="300112|3|200"/>
+		<ItemSpec id="31311" group_type="1" group_ratio="160" group_count="1" group_info="300109|1|200"/>
+		<ItemSpec id="31312" group_type="1" group_ratio="192" group_count="2" group_info="300109|2|200"/>
+		<ItemSpec id="31313" group_type="1" group_ratio="240" group_count="3" group_info="300109|3|200"/>
+		<ItemSpec id="31321" group_type="1" group_ratio="160" group_count="1" group_info="300127|1|200"/>
+		<ItemSpec id="31322" group_type="1" group_ratio="192" group_count="2" group_info="300127|2|200"/>
+		<ItemSpec id="31323" group_type="1" group_ratio="240" group_count="3" group_info="300127|3|200"/>
+		<ItemSpec id="31400" group_type="1" group_ratio="200" group_count="1" group_info="300106|1|200" is_reward="1"/>
+		<ItemSpec id="31401" group_type="1" group_ratio="160" group_count="1" group_info="300106|1|200" is_reward="1"/>
+		<ItemSpec id="31402" group_type="1" group_ratio="160" group_count="2" group_info="300106|2|200" is_reward="1"/>
+		<ItemSpec id="31410" group_type="1" group_ratio="200" group_count="1" group_info="300117|1|200" is_reward="1"/>
+		<ItemSpec id="31411" group_type="1" group_ratio="160" group_count="1" group_info="300117|1|200" is_reward="1"/>
+		<ItemSpec id="31412" group_type="1" group_ratio="160" group_count="2" group_info="300117|2|200" is_reward="1"/>
+		<ItemSpec id="31420" group_type="1" group_ratio="200" group_count="1" group_info="300128|1|200" is_reward="1"/>
+		<ItemSpec id="31421" group_type="1" group_ratio="160" group_count="1" group_info="300128|1|200" is_reward="1"/>
+		<ItemSpec id="31422" group_type="1" group_ratio="160" group_count="2" group_info="300128|2|200" is_reward="1"/>
+		<ItemSpec id="31500" group_type="1" group_ratio="200" group_count="1" group_info="300118|1|200" is_reward="1"/>
+		<ItemSpec id="31501" group_type="1" group_ratio="160" group_count="1" group_info="300118|1|200" is_reward="1"/>
+		<ItemSpec id="31510" group_type="1" group_ratio="200" group_count="1" group_info="300119|1|200" is_reward="1"/>
+		<ItemSpec id="31511" group_type="1" group_ratio="160" group_count="1" group_info="300119|1|200" is_reward="1"/>
+		<ItemSpec id="31520" group_type="1" group_ratio="200" group_count="1" group_info="300124|1|200" is_reward="1"/>
+		<ItemSpec id="31521" group_type="1" group_ratio="160" group_count="1" group_info="300124|1|200" is_reward="1"/>
+		<ItemSpec id="31601" group_type="1" group_ratio="160" group_count="1" group_info="300108|1|200"/>
+		<ItemSpec id="31602" group_type="1" group_ratio="160" group_count="2" group_info="300108|2|200"/>
+		<ItemSpec id="31603" group_type="1" group_ratio="160" group_count="3" group_info="300108|3|200"/>
+		<ItemSpec id="31604" group_type="1" group_ratio="200" group_count="4" group_info="300108|4|200"/>
+		<ItemSpec id="31605" group_type="1" group_ratio="200" group_count="5" group_info="300108|5|200"/>
+		<ItemSpec id="31606" group_type="1" group_ratio="240" group_count="6" group_info="300108|6|200"/>
+		<ItemSpec id="31607" group_type="1" group_ratio="240" group_count="7" group_info="300108|7|200"/>
+		<ItemSpec id="32101" group_type="1" group_ratio="256" group_count="1" group_info="300111|1|200"/>
+		<ItemSpec id="32102" group_type="1" group_ratio="256" group_count="2" group_info="300111|2|200"/>
+		<ItemSpec id="32103" group_type="1" group_ratio="256" group_count="3" group_info="300111|3|200"/>
+		<ItemSpec id="32104" group_type="1" group_ratio="320" group_count="4" group_info="300111|4|200"/>
+		<ItemSpec id="32105" group_type="1" group_ratio="320" group_count="5" group_info="300111|5|200"/>
+		<ItemSpec id="32106" group_type="1" group_ratio="384" group_count="6" group_info="300111|6|200"/>
+		<ItemSpec id="32107" group_type="1" group_ratio="384" group_count="7" group_info="300111|7|200"/>
+		<ItemSpec id="32111" group_type="1" group_ratio="256" group_count="1" group_info="300110|1|200"/>
+		<ItemSpec id="32112" group_type="1" group_ratio="256" group_count="2" group_info="300110|2|200"/>
+		<ItemSpec id="32113" group_type="1" group_ratio="256" group_count="3" group_info="300110|3|200"/>
+		<ItemSpec id="32114" group_type="1" group_ratio="320" group_count="4" group_info="300110|4|200"/>
+		<ItemSpec id="32115" group_type="1" group_ratio="320" group_count="5" group_info="300110|5|200"/>
+		<ItemSpec id="32116" group_type="1" group_ratio="384" group_count="6" group_info="300110|6|200"/>
+		<ItemSpec id="32117" group_type="1" group_ratio="384" group_count="7" group_info="300110|7|200"/>
+		<ItemSpec id="32121" group_type="1" group_ratio="256" group_count="1" group_info="300113|1|200"/>
+		<ItemSpec id="32122" group_type="1" group_ratio="256" group_count="2" group_info="300113|2|200"/>
+		<ItemSpec id="32123" group_type="1" group_ratio="256" group_count="3" group_info="300113|3|200"/>
+		<ItemSpec id="32124" group_type="1" group_ratio="320" group_count="4" group_info="300113|4|200"/>
+		<ItemSpec id="32125" group_type="1" group_ratio="320" group_count="5" group_info="300113|5|200"/>
+		<ItemSpec id="32126" group_type="1" group_ratio="384" group_count="6" group_info="300113|6|200"/>
+		<ItemSpec id="32127" group_type="1" group_ratio="384" group_count="7" group_info="300113|7|200"/>
+		<ItemSpec id="32131" group_type="1" group_ratio="256" group_count="1" group_info="300114|1|200"/>
+		<ItemSpec id="32132" group_type="1" group_ratio="256" group_count="2" group_info="300114|2|200"/>
+		<ItemSpec id="32133" group_type="1" group_ratio="256" group_count="3" group_info="300114|3|200"/>
+		<ItemSpec id="32134" group_type="1" group_ratio="320" group_count="4" group_info="300114|4|200"/>
+		<ItemSpec id="32135" group_type="1" group_ratio="320" group_count="5" group_info="300114|5|200"/>
+		<ItemSpec id="32136" group_type="1" group_ratio="384" group_count="6" group_info="300114|6|200"/>
+		<ItemSpec id="32137" group_type="1" group_ratio="384" group_count="7" group_info="300114|7|200"/>
+		<ItemSpec id="32141" group_type="1" group_ratio="256" group_count="1" group_info="300115|1|200"/>
+		<ItemSpec id="32142" group_type="1" group_ratio="256" group_count="2" group_info="300115|2|200"/>
+		<ItemSpec id="32143" group_type="1" group_ratio="256" group_count="3" group_info="300115|3|200"/>
+		<ItemSpec id="32144" group_type="1" group_ratio="320" group_count="4" group_info="300115|4|200"/>
+		<ItemSpec id="32145" group_type="1" group_ratio="320" group_count="5" group_info="300115|5|200"/>
+		<ItemSpec id="32146" group_type="1" group_ratio="384" group_count="6" group_info="300115|6|200"/>
+		<ItemSpec id="32147" group_type="1" group_ratio="384" group_count="7" group_info="300115|7|200"/>
+		<ItemSpec id="32201" group_type="1" group_ratio="256" group_count="1" group_info="300107|1|200"/>
+		<ItemSpec id="32202" group_type="1" group_ratio="256" group_count="2" group_info="300107|2|200"/>
+		<ItemSpec id="32203" group_type="1" group_ratio="256" group_count="3" group_info="300107|3|200"/>
+		<ItemSpec id="32204" group_type="1" group_ratio="320" group_count="4" group_info="300107|4|200"/>
+		<ItemSpec id="32205" group_type="1" group_ratio="320" group_count="5" group_info="300107|5|200"/>
+		<ItemSpec id="32206" group_type="1" group_ratio="384" group_count="6" group_info="300107|6|200"/>
+		<ItemSpec id="32207" group_type="1" group_ratio="384" group_count="7" group_info="300107|7|200"/>
+		<ItemSpec id="32211" group_type="1" group_ratio="256" group_count="1" group_info="300116|1|200"/>
+		<ItemSpec id="32212" group_type="1" group_ratio="256" group_count="2" group_info="300116|2|200"/>
+		<ItemSpec id="32213" group_type="1" group_ratio="256" group_count="3" group_info="300116|3|200"/>
+		<ItemSpec id="32214" group_type="1" group_ratio="320" group_count="4" group_info="300116|4|200"/>
+		<ItemSpec id="32215" group_type="1" group_ratio="320" group_count="5" group_info="300116|5|200"/>
+		<ItemSpec id="32216" group_type="1" group_ratio="384" group_count="6" group_info="300116|6|200"/>
+		<ItemSpec id="32217" group_type="1" group_ratio="384" group_count="7" group_info="300116|7|200"/>
+		<ItemSpec id="32301" group_type="1" group_ratio="256" group_count="1" group_info="300112|1|200"/>
+		<ItemSpec id="32302" group_type="1" group_ratio="307" group_count="2" group_info="300112|2|200"/>
+		<ItemSpec id="32303" group_type="1" group_ratio="384" group_count="3" group_info="300112|3|200"/>
+		<ItemSpec id="32311" group_type="1" group_ratio="256" group_count="1" group_info="300109|1|200"/>
+		<ItemSpec id="32312" group_type="1" group_ratio="307" group_count="2" group_info="300109|2|200"/>
+		<ItemSpec id="32313" group_type="1" group_ratio="384" group_count="3" group_info="300109|3|200"/>
+		<ItemSpec id="32321" group_type="1" group_ratio="256" group_count="1" group_info="300127|1|200"/>
+		<ItemSpec id="32322" group_type="1" group_ratio="307" group_count="2" group_info="300127|2|200"/>
+		<ItemSpec id="32323" group_type="1" group_ratio="384" group_count="3" group_info="300127|3|200"/>
+		<ItemSpec id="32400" group_type="1" group_ratio="320" group_count="1" group_info="300106|1|200" is_reward="1"/>
+		<ItemSpec id="32401" group_type="1" group_ratio="256" group_count="1" group_info="300106|1|200" is_reward="1"/>
+		<ItemSpec id="32402" group_type="1" group_ratio="256" group_count="2" group_info="300106|2|200" is_reward="1"/>
+		<ItemSpec id="32410" group_type="1" group_ratio="320" group_count="1" group_info="300117|1|200" is_reward="1"/>
+		<ItemSpec id="32411" group_type="1" group_ratio="256" group_count="1" group_info="300117|1|200" is_reward="1"/>
+		<ItemSpec id="32412" group_type="1" group_ratio="256" group_count="2" group_info="300117|2|200" is_reward="1"/>
+		<ItemSpec id="32420" group_type="1" group_ratio="320" group_count="1" group_info="300128|1|200" is_reward="1"/>
+		<ItemSpec id="32421" group_type="1" group_ratio="256" group_count="1" group_info="300128|1|200" is_reward="1"/>
+		<ItemSpec id="32422" group_type="1" group_ratio="256" group_count="2" group_info="300128|2|200" is_reward="1"/>
+		<ItemSpec id="32500" group_type="1" group_ratio="320" group_count="1" group_info="300118|1|200" is_reward="1"/>
+		<ItemSpec id="32501" group_type="1" group_ratio="256" group_count="1" group_info="300118|1|200" is_reward="1"/>
+		<ItemSpec id="32510" group_type="1" group_ratio="320" group_count="1" group_info="300119|1|200" is_reward="1"/>
+		<ItemSpec id="32511" group_type="1" group_ratio="256" group_count="1" group_info="300119|1|200" is_reward="1"/>
+		<ItemSpec id="32520" group_type="1" group_ratio="320" group_count="1" group_info="300124|1|200" is_reward="1"/>
+		<ItemSpec id="32521" group_type="1" group_ratio="256" group_count="1" group_info="300124|1|200" is_reward="1"/>
+		<ItemSpec id="32601" group_type="1" group_ratio="256" group_count="1" group_info="300108|1|200"/>
+		<ItemSpec id="32602" group_type="1" group_ratio="256" group_count="2" group_info="300108|2|200"/>
+		<ItemSpec id="32603" group_type="1" group_ratio="256" group_count="3" group_info="300108|3|200"/>
+		<ItemSpec id="32604" group_type="1" group_ratio="320" group_count="4" group_info="300108|4|200"/>
+		<ItemSpec id="32605" group_type="1" group_ratio="320" group_count="5" group_info="300108|5|200"/>
+		<ItemSpec id="32606" group_type="1" group_ratio="384" group_count="6" group_info="300108|6|200"/>
+		<ItemSpec id="32607" group_type="1" group_ratio="384" group_count="7" group_info="300108|7|200"/>
+		<ItemSpec id="33101" group_type="1" group_ratio="410" group_count="1" group_info="300111|1|200"/>
+		<ItemSpec id="33102" group_type="1" group_ratio="410" group_count="2" group_info="300111|2|200"/>
+		<ItemSpec id="33103" group_type="1" group_ratio="410" group_count="3" group_info="300111|3|200"/>
+		<ItemSpec id="33104" group_type="1" group_ratio="512" group_count="4" group_info="300111|4|200"/>
+		<ItemSpec id="33105" group_type="1" group_ratio="512" group_count="5" group_info="300111|5|200"/>
+		<ItemSpec id="33106" group_type="1" group_ratio="614" group_count="6" group_info="300111|6|200"/>
+		<ItemSpec id="33107" group_type="1" group_ratio="614" group_count="7" group_info="300111|7|200"/>
+		<ItemSpec id="33111" group_type="1" group_ratio="410" group_count="1" group_info="300110|1|200"/>
+		<ItemSpec id="33112" group_type="1" group_ratio="410" group_count="2" group_info="300110|2|200"/>
+		<ItemSpec id="33113" group_type="1" group_ratio="410" group_count="3" group_info="300110|3|200"/>
+		<ItemSpec id="33114" group_type="1" group_ratio="512" group_count="4" group_info="300110|4|200"/>
+		<ItemSpec id="33115" group_type="1" group_ratio="512" group_count="5" group_info="300110|5|200"/>
+		<ItemSpec id="33116" group_type="1" group_ratio="614" group_count="6" group_info="300110|6|200"/>
+		<ItemSpec id="33117" group_type="1" group_ratio="614" group_count="7" group_info="300110|7|200"/>
+		<ItemSpec id="33121" group_type="1" group_ratio="410" group_count="1" group_info="300113|1|200"/>
+		<ItemSpec id="33122" group_type="1" group_ratio="410" group_count="2" group_info="300113|2|200"/>
+		<ItemSpec id="33123" group_type="1" group_ratio="410" group_count="3" group_info="300113|3|200"/>
+		<ItemSpec id="33124" group_type="1" group_ratio="512" group_count="4" group_info="300113|4|200"/>
+		<ItemSpec id="33125" group_type="1" group_ratio="512" group_count="5" group_info="300113|5|200"/>
+		<ItemSpec id="33126" group_type="1" group_ratio="614" group_count="6" group_info="300113|6|200"/>
+		<ItemSpec id="33127" group_type="1" group_ratio="614" group_count="7" group_info="300113|7|200"/>
+		<ItemSpec id="33131" group_type="1" group_ratio="410" group_count="1" group_info="300114|1|200"/>
+		<ItemSpec id="33132" group_type="1" group_ratio="410" group_count="2" group_info="300114|2|200"/>
+		<ItemSpec id="33133" group_type="1" group_ratio="410" group_count="3" group_info="300114|3|200"/>
+		<ItemSpec id="33134" group_type="1" group_ratio="512" group_count="4" group_info="300114|4|200"/>
+		<ItemSpec id="33135" group_type="1" group_ratio="512" group_count="5" group_info="300114|5|200"/>
+		<ItemSpec id="33136" group_type="1" group_ratio="614" group_count="6" group_info="300114|6|200"/>
+		<ItemSpec id="33137" group_type="1" group_ratio="614" group_count="7" group_info="300114|7|200"/>
+		<ItemSpec id="33141" group_type="1" group_ratio="410" group_count="1" group_info="300115|1|200"/>
+		<ItemSpec id="33142" group_type="1" group_ratio="410" group_count="2" group_info="300115|2|200"/>
+		<ItemSpec id="33143" group_type="1" group_ratio="410" group_count="3" group_info="300115|3|200"/>
+		<ItemSpec id="33144" group_type="1" group_ratio="512" group_count="4" group_info="300115|4|200"/>
+		<ItemSpec id="33145" group_type="1" group_ratio="512" group_count="5" group_info="300115|5|200"/>
+		<ItemSpec id="33146" group_type="1" group_ratio="614" group_count="6" group_info="300115|6|200"/>
+		<ItemSpec id="33147" group_type="1" group_ratio="614" group_count="7" group_info="300115|7|200"/>
+		<ItemSpec id="33201" group_type="1" group_ratio="410" group_count="1" group_info="300107|1|200"/>
+		<ItemSpec id="33202" group_type="1" group_ratio="410" group_count="2" group_info="300107|2|200"/>
+		<ItemSpec id="33203" group_type="1" group_ratio="410" group_count="3" group_info="300107|3|200"/>
+		<ItemSpec id="33204" group_type="1" group_ratio="512" group_count="4" group_info="300107|4|200"/>
+		<ItemSpec id="33205" group_type="1" group_ratio="512" group_count="5" group_info="300107|5|200"/>
+		<ItemSpec id="33206" group_type="1" group_ratio="614" group_count="6" group_info="300107|6|200"/>
+		<ItemSpec id="33207" group_type="1" group_ratio="614" group_count="7" group_info="300107|7|200"/>
+		<ItemSpec id="33211" group_type="1" group_ratio="410" group_count="1" group_info="300116|1|200"/>
+		<ItemSpec id="33212" group_type="1" group_ratio="410" group_count="2" group_info="300116|2|200"/>
+		<ItemSpec id="33213" group_type="1" group_ratio="410" group_count="3" group_info="300116|3|200"/>
+		<ItemSpec id="33214" group_type="1" group_ratio="512" group_count="4" group_info="300116|4|200"/>
+		<ItemSpec id="33215" group_type="1" group_ratio="512" group_count="5" group_info="300116|5|200"/>
+		<ItemSpec id="33216" group_type="1" group_ratio="614" group_count="6" group_info="300116|6|200"/>
+		<ItemSpec id="33217" group_type="1" group_ratio="614" group_count="7" group_info="300116|7|200"/>
+		<ItemSpec id="33301" group_type="1" group_ratio="410" group_count="1" group_info="300112|1|200"/>
+		<ItemSpec id="33302" group_type="1" group_ratio="491" group_count="2" group_info="300112|2|200"/>
+		<ItemSpec id="33303" group_type="1" group_ratio="614" group_count="3" group_info="300112|3|200"/>
+		<ItemSpec id="33311" group_type="1" group_ratio="410" group_count="1" group_info="300109|1|200"/>
+		<ItemSpec id="33312" group_type="1" group_ratio="491" group_count="2" group_info="300109|2|200"/>
+		<ItemSpec id="33313" group_type="1" group_ratio="614" group_count="3" group_info="300109|3|200"/>
+		<ItemSpec id="33321" group_type="1" group_ratio="410" group_count="1" group_info="300127|1|200"/>
+		<ItemSpec id="33322" group_type="1" group_ratio="491" group_count="2" group_info="300127|2|200"/>
+		<ItemSpec id="33323" group_type="1" group_ratio="614" group_count="3" group_info="300127|3|200"/>
+		<ItemSpec id="33400" group_type="1" group_ratio="512" group_count="1" group_info="300106|1|200" is_reward="1"/>
+		<ItemSpec id="33401" group_type="1" group_ratio="410" group_count="1" group_info="300106|1|200" is_reward="1"/>
+		<ItemSpec id="33402" group_type="1" group_ratio="410" group_count="2" group_info="300106|2|200" is_reward="1"/>
+		<ItemSpec id="33410" group_type="1" group_ratio="512" group_count="1" group_info="300117|1|200" is_reward="1"/>
+		<ItemSpec id="33411" group_type="1" group_ratio="410" group_count="1" group_info="300117|1|200" is_reward="1"/>
+		<ItemSpec id="33412" group_type="1" group_ratio="410" group_count="2" group_info="300117|2|200" is_reward="1"/>
+		<ItemSpec id="33420" group_type="1" group_ratio="512" group_count="1" group_info="300128|1|200" is_reward="1"/>
+		<ItemSpec id="33421" group_type="1" group_ratio="410" group_count="1" group_info="300128|1|200" is_reward="1"/>
+		<ItemSpec id="33422" group_type="1" group_ratio="410" group_count="2" group_info="300128|2|200" is_reward="1"/>
+		<ItemSpec id="33500" group_type="1" group_ratio="512" group_count="1" group_info="300118|1|200" is_reward="1"/>
+		<ItemSpec id="33501" group_type="1" group_ratio="410" group_count="1" group_info="300118|1|200" is_reward="1"/>
+		<ItemSpec id="33510" group_type="1" group_ratio="512" group_count="1" group_info="300119|1|200" is_reward="1"/>
+		<ItemSpec id="33511" group_type="1" group_ratio="410" group_count="1" group_info="300119|1|200" is_reward="1"/>
+		<ItemSpec id="33520" group_type="1" group_ratio="512" group_count="1" group_info="300124|1|200" is_reward="1"/>
+		<ItemSpec id="33521" group_type="1" group_ratio="410" group_count="1" group_info="300124|1|200" is_reward="1"/>
+		<ItemSpec id="33601" group_type="1" group_ratio="410" group_count="1" group_info="300108|1|200"/>
+		<ItemSpec id="33602" group_type="1" group_ratio="410" group_count="2" group_info="300108|2|200"/>
+		<ItemSpec id="33603" group_type="1" group_ratio="410" group_count="3" group_info="300108|3|200"/>
+		<ItemSpec id="33604" group_type="1" group_ratio="512" group_count="4" group_info="300108|4|200"/>
+		<ItemSpec id="33605" group_type="1" group_ratio="512" group_count="5" group_info="300108|5|200"/>
+		<ItemSpec id="33606" group_type="1" group_ratio="614" group_count="6" group_info="300108|6|200"/>
+		<ItemSpec id="33607" group_type="1" group_ratio="614" group_count="7" group_info="300108|7|200"/>
+		<ItemSpec id="100101" group_type="1" group_ratio="1000" group_count="10" group_info="100101|10|1000"/>
+		<ItemSpec id="100102" group_type="1" group_ratio="1000" group_count="5" group_info="100102|5|1500"/>
+		<ItemSpec id="100103" group_type="1" group_ratio="1000" group_count="3" group_info="100104|3|3000"/>
+		<ItemSpec id="100104" group_type="1" group_ratio="1000" group_count="1" group_info="100105|1|2000"/>
+		<ItemSpec id="100105" group_type="1" group_ratio="1000" group_count="1" group_info="100105|1|300"/>
+		<ItemSpec id="100106" group_type="1" group_ratio="1000" group_count="10" group_info="100101|10|300"/>
+		<ItemSpec id="100107" group_type="1" group_ratio="1000" group_count="11" group_info="100101|11|300"/>
+		<ItemSpec id="100108" group_type="1" group_ratio="1000" group_count="12" group_info="100101|12|300"/>
+		<ItemSpec id="100109" group_type="1" group_ratio="1000" group_count="13" group_info="100101|13|300"/>
+		<ItemSpec id="100110" group_type="1" group_ratio="1000" group_count="14" group_info="100101|14|300"/>
+		<ItemSpec id="100111" group_type="1" group_ratio="1000" group_count="15" group_info="100101|15|300"/>
+		<ItemSpec id="100112" group_type="1" group_ratio="1000" group_count="16" group_info="100101|16|300"/>
+		<ItemSpec id="200101" group_type="1" group_ratio="1000" group_count="10" group_info="100106|10|2000"/>
+		<ItemSpec id="200102" group_type="1" group_ratio="1000" group_count="10" group_info="100107|10|2000"/>
+		<ItemSpec id="200103" group_type="1" group_ratio="1000" group_count="10" group_info="100108|10|2000"/>
+		<ItemSpec id="200104" group_type="1" group_ratio="1000" group_count="10" group_info="100109|10|2000"/>
+		<ItemSpec id="200105" group_type="1" group_ratio="1000" group_count="10" group_info="100110|10|2000"/>
+		<ItemSpec id="200106" group_type="1" group_ratio="1000" group_count="10" group_info="100111|10|2000"/>
+		<ItemSpec id="200107" group_type="1" group_ratio="1000" group_count="10" group_info="100112|10|2000"/>
+		<ItemSpec id="200108" group_type="1" group_ratio="1000" group_count="10" group_info="100113|10|2000"/>
+		<ItemSpec id="200109" group_type="1" group_ratio="1000" group_count="10" group_info="100114|10|2000"/>
+		<ItemSpec id="200110" group_type="1" group_ratio="1000" group_count="10" group_info="100115|10|2000"/>
+		<ItemSpec id="200111" group_type="1" group_ratio="1000" group_count="10" group_info="100116|10|2000"/>
+		<ItemSpec id="200112" group_type="1" group_ratio="1000" group_count="10" group_info="100117|10|2000"/>
+		<ItemSpec id="200113" group_type="1" group_ratio="1000" group_count="1" group_info="100118|1|2000"/>
+		<ItemSpec id="200114" group_type="1" group_ratio="1000" group_count="1" group_info="100119|1|2000"/>
+		<ItemSpec id="201201" group_type="1" group_ratio="1000" group_count="0" group_info="201201|1|0"/>
+		<ItemSpec id="201202" group_type="1" group_ratio="1000" group_count="0" group_info="201202|1|0"/>
+		<ItemSpec id="201203" group_type="1" group_ratio="1000" group_count="0" group_info="201203|1|0"/>
+		<ItemSpec id="201204" group_type="1" group_ratio="1000" group_count="0" group_info="201204|1|0"/>
+		<ItemSpec id="300101" group_type="1" group_ratio="1000" group_count="15" group_info="100113|15|2000"/>
+		<ItemSpec id="300102" group_type="1" group_ratio="1000" group_count="15" group_info="100114|15|3000"/>
+		<ItemSpec id="300103" group_type="1" group_ratio="1000" group_count="15" group_info="100107|15|2000"/>
+		<ItemSpec id="300104" group_type="1" group_ratio="1000" group_count="10" group_info="100109|10|3000"/>
+		<ItemSpec id="300105" group_type="1" group_ratio="1000" group_count="15" group_info="100115|15|2000"/>
+		<ItemSpec id="300106" group_type="1" group_ratio="1000" group_count="10" group_info="100108|10|5000"/>
+		<ItemSpec id="300107" group_type="1" group_ratio="1000" group_count="10" group_info="100116|10|3000"/>
+		<ItemSpec id="300108" group_type="1" group_ratio="1000" group_count="10" group_info="100109|10|3000"/>
+		<ItemSpec id="300109" group_type="1" group_ratio="1000" group_count="10" group_info="100112|10|5000"/>
+		<ItemSpec id="300110" group_type="1" group_ratio="1000" group_count="15" group_info="100113|15|2000"/>
+		<ItemSpec id="300111" group_type="1" group_ratio="1000" group_count="15" group_info="100107|15|2000"/>
+		<ItemSpec id="300112" group_type="1" group_ratio="1000" group_count="10" group_info="100112|10|5000"/>
+		<ItemSpec id="300113" group_type="1" group_ratio="1000" group_count="1" group_info="100119|1|5000"/>
+		<ItemSpec id="300114" group_type="1" group_ratio="1000" group_count="10" group_info="100108|10|5000"/>
+		<ItemSpec id="300115" group_type="1" group_ratio="1000" group_count="10" group_info="100111|10|5000"/>
+		<ItemSpec id="400101" group_type="1" group_ratio="1000" group_count="5" group_info="100111|5|5000"/>
+		<ItemSpec id="400102" group_type="1" group_ratio="1000" group_count="4" group_info="100107|4|2000"/>
+		<ItemSpec id="400103" group_type="1" group_ratio="1000" group_count="3" group_info="100112|3|5000"/>
+		<ItemSpec id="400104" group_type="1" group_ratio="1000" group_count="1" group_info="100119|1|5000"/>
+	</Group>
+</tns:database>

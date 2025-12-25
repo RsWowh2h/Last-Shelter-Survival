@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ 
+<Group id="suit_equip">
+    
+    <ItemSpec id="302100" unlock="9" />
+    <ItemSpec id="302300" unlock="9" />
+    <ItemSpec id="302400" unlock="9" />
+    <ItemSpec id="302000" effect="0;6;10;91015476;5|1;6;30;91015353;5|1;4;60;77110014;5" />
+
+</Group>
+	
+<Group id="equipMake">
+
+    <ItemSpec id="202010" equipSeriesId="1202011" resourceNum="100" />
+    <ItemSpec id="202020" equipSeriesId="1202021" resourceNum="100" />
+    <ItemSpec id="202030" equipSeriesId="1202031" resourceNum="100" />
+    <ItemSpec id="202040" equipSeriesId="1202041" resourceNum="100" />
+    <ItemSpec id="202050" equipSeriesId="1202051" resourceNum="100" />
+    <ItemSpec id="202060" equipSeriesId="1202061" resourceNum="100" />
+    <ItemSpec id="202110" equipSeriesId="1202111" resourceNum="300"/>
+    <ItemSpec id="202120" equipSeriesId="1202121" resourceNum="300"/>
+    <ItemSpec id="202130" equipSeriesId="1202131" resourceNum="300"/>
+    <ItemSpec id="202140" equipSeriesId="1202141" resourceNum="300"/>
+    <ItemSpec id="202150" equipSeriesId="1202151" resourceNum="300"/>
+    <ItemSpec id="202160" equipSeriesId="1202161" resourceNum="300"/>
+    <ItemSpec id="202510" equipSeriesId="1202511" resourceNum="1500"/>
+    <ItemSpec id="202520" equipSeriesId="1202521" resourceNum="1500"/>
+    <ItemSpec id="202530" equipSeriesId="1202531" resourceNum="1500"/>
+    <ItemSpec id="202540" equipSeriesId="1202541" resourceNum="1500"/>
+    <ItemSpec id="202550" equipSeriesId="1202551" resourceNum="1500"/>
+    <ItemSpec id="202560" equipSeriesId="1202561" resourceNum="1500"/>
+    <ItemSpec id="202310" equipSeriesId="1202311" resourceNum="300"/>
+    <ItemSpec id="202320" equipSeriesId="1202321" resourceNum="300"/>
+    <ItemSpec id="202330" equipSeriesId="1202331" resourceNum="300"/>
+    <ItemSpec id="202340" equipSeriesId="1202341" resourceNum="300"/>
+    <ItemSpec id="202350" equipSeriesId="1202351" resourceNum="300"/>
+    <ItemSpec id="202360" equipSeriesId="1202361" resourceNum="300"/>
+    <ItemSpec id="202410" equipSeriesId="1202411" resourceNum="300"/>
+    <ItemSpec id="202420" equipSeriesId="1202421" resourceNum="300"/>
+    <ItemSpec id="202430" equipSeriesId="1202431" resourceNum="300"/>
+    <ItemSpec id="202440" equipSeriesId="1202441" resourceNum="300"/>
+    <ItemSpec id="202450" equipSeriesId="1202451" resourceNum="300"/>
+    <ItemSpec id="202460" equipSeriesId="1202461" resourceNum="300"/>
+    <ItemSpec id="202610" equipSeriesId="1202611" resourceNum="1500"/>
+    <ItemSpec id="202620" equipSeriesId="1202621" resourceNum="1500"/>
+    <ItemSpec id="202630" equipSeriesId="1202631" resourceNum="1500"/>
+    <ItemSpec id="202640" equipSeriesId="1202641" resourceNum="1500"/>
+    <ItemSpec id="202650" equipSeriesId="1202651" resourceNum="1500"/>
+    <ItemSpec id="202660" equipSeriesId="1202661" resourceNum="1500"/>
+	
+</Group>
+
+<Group id="suit">
+
+    <ItemSpec id="202000" combine_cost_item="212008|212008|212008|212008|212008" combine_cost_item_cnt="0|0|64|1720|0" num1="4" effect1="65" condition1="5|4|3|2" value1="60|25|10|5" num2="6" effect2="1002" condition2="5|4|3|2" value2="30|12|5|2" num3="6" effect3="1004" condition3="5|4|3|2" value3="10|4|2|1" show1="77110014" show2="91015353" show3="91015476" />
+    <ItemSpec id="202100" combine_cost_item="212008|212008|212008|212008|212008" combine_cost_item_cnt="0|0|192|5160|0" />
+    <ItemSpec id="202300" combine_cost_item="212008|212008|212008|212008|212008" combine_cost_item_cnt="0|0|192|5160|0" />
+    <ItemSpec id="202400" combine_cost_item="212008|212008|212008|212008|212008" combine_cost_item_cnt="0|0|192|5160|0" />
+    <ItemSpec id="202500" unlock="25" combine_cost_item="212008|212008|212008|212008|212008" combine_cost_item_cnt="0|0|960|25800|0" />
+    <ItemSpec id="202600" unlock="25" combine_cost_item="212008|212008|212008|212008|212008" combine_cost_item_cnt="0|0|960|25800|0" />
+
+</Group>
+
+ 
+<Group id="equip">
+
+    <ItemSpec id="1202011" effect1="154|895" value1="2" show1="91015348" effect2="540" value2="50" show2="90821223" effect3="1001" value3="1" show3="91015352" />
+    <ItemSpec id="1202012" effect1="154|895" value1="4" show1="91015348" effect2="540" value2="100" show2="90821223" effect3="1001" value3="2" show3="91015352" />
+    <ItemSpec id="1202013" effect1="154|895" value1="8" show1="91015348" effect2="540" value2="200" show2="90821223" effect3="1001" value3="3" show3="91015352" />
+    <ItemSpec id="1202014" effect1="154|895" value1="15" show1="91015348" effect2="540" value2="500" show2="90821223" effect3="1001" value3="6" show3="91015352" />
+    <ItemSpec id="1202015" effect1="154|895" value1="25" show1="91015348" effect2="540" value2="1000" show2="90821223" effect3="1001" value3="10" show3="91015352" />
+    <ItemSpec id="1202016" effect1="154|895" value1="60" show1="91015348" effect2="540" value2="2000" show2="90821223" effect3="1001" value3="25" show3="91015352" />
+    <ItemSpec id="1202021" effect1="155|897" value1="2" show1="91015349" effect2="843" value2="1" show2="90821222" effect3="1003" value3="0" show3="91015354" />
+    <ItemSpec id="1202022" effect1="155|897" value1="4" show1="91015349" effect2="843" value2="2" show2="90821222" effect3="1003" value3="0" show3="91015354" />
+    <ItemSpec id="1202023" effect1="155|897" value1="8" show1="91015349" effect2="843" value2="5" show2="90821222" effect3="1003" value3="0" show3="91015354" />
+    <ItemSpec id="1202024" effect1="155|897" value1="15" show1="91015349" effect2="843" value2="10" show2="90821222" effect3="1003" value3="10" show3="91015354" />
+    <ItemSpec id="1202025" effect1="155|897" value1="25" show1="91015349" effect2="843" value2="20" show2="90821222" effect3="1003" value3="20" show3="91015354" />
+    <ItemSpec id="1202026" effect1="155|897" value1="60" show1="91015349" effect2="843" value2="40" show2="90821222" effect3="1003" value3="30" show3="91015354" />
+    <ItemSpec id="1202031" effect1="153|896" value1="2" show1="91015350" effect2="540" value2="50" show2="90821223" effect3="1001" value3="1" show3="91015352" />
+    <ItemSpec id="1202032" effect1="153|896" value1="4" show1="91015350" effect2="540" value2="100" show2="90821223" effect3="1001" value3="2" show3="91015352" />
+    <ItemSpec id="1202033" effect1="153|896" value1="8" show1="91015350" effect2="540" value2="200" show2="90821223" effect3="1001" value3="3" show3="91015352" />
+    <ItemSpec id="1202034" effect1="153|896" value1="15" show1="91015350" effect2="540" value2="500" show2="90821223" effect3="1001" value3="6" show3="91015352" />
+    <ItemSpec id="1202035" effect1="153|896" value1="25" show1="91015350" effect2="540" value2="1000" show2="90821223" effect3="1001" value3="10" show3="91015352" />
+    <ItemSpec id="1202036" effect1="153|896" value1="60" show1="91015350" effect2="540" value2="2000" show2="90821223" effect3="1001" value3="25" show3="91015352" />
+    <ItemSpec id="1202041" effect1="156|898" value1="2" show1="91015351" effect2="97" value2="2" show2="77110107" effect3="59" value3="2" show3="91015355" />
+    <ItemSpec id="1202042" effect1="156|898" value1="4" show1="91015351" effect2="97" value2="4" show2="77110107" effect3="59" value3="4" show3="91015355" />
+    <ItemSpec id="1202043" effect1="156|898" value1="8" show1="91015351" effect2="97" value2="10" show2="77110107" effect3="59" value3="10" show3="91015355" />
+    <ItemSpec id="1202044" effect1="156|898" value1="15" show1="91015351" effect2="97" value2="20" show2="77110107" effect3="59" value3="20" show3="91015355" />
+    <ItemSpec id="1202045" effect1="156|898" value1="25" show1="91015351" effect2="97" value2="40" show2="77110107" effect3="59" value3="40" show3="91015355" />
+    <ItemSpec id="1202046" effect1="156|898" value1="60" show1="91015351" effect2="97" value2="100" show2="77110107" effect3="59" value3="100" show3="91015355" />
+    <ItemSpec id="1202051" effect1="65" value1=".5" show1="77110014" effect2="164" value2="1" show2="77110108" effect3="9031|9032|9033|9034|9035|9036" value3=".5" show3="90700003" />
+    <ItemSpec id="1202052" effect1="65" value1="1" show1="77110014" effect2="164" value2="2" show2="77110108" effect3="9031|9032|9033|9034|9035|9036" value3="1" show3="90700003" />
+    <ItemSpec id="1202053" effect1="65" value1="2" show1="77110014" effect2="164" value2="3" show2="77110108" effect3="9031|9032|9033|9034|9035|9036" value3="2" show3="90700003" />
+    <ItemSpec id="1202054" effect1="65" value1="5" show1="77110014" effect2="164" value2="6" show2="77110108" effect3="9031|9032|9033|9034|9035|9036" value3="3" show3="90700003" />
+    <ItemSpec id="1202055" effect1="65" value1="8" show1="77110014" effect2="164" value2="10" show2="77110108" effect3="9031|9032|9033|9034|9035|9036" value3="5" show3="90700003" />
+    <ItemSpec id="1202056" effect1="65" value1="20" show1="77110014" effect2="164" value2="25" show2="77110108" effect3="9031|9032|9033|9034|9035|9036" value3="10" show3="90700003" />
+    <ItemSpec id="1202061" effect1="65" value1=".5" show1="77110014" effect2="164" value2="1" show2="77110108" effect3="9011|9012|9013|9014|9015|9016" value3=".5" show3="90700002" />
+    <ItemSpec id="1202062" effect1="65" value1="1" show1="77110014" effect2="164" value2="2" show2="77110108" effect3="9011|9012|9013|9014|9015|9016" value3="1" show3="90700002" />
+    <ItemSpec id="1202063" effect1="65" value1="2" show1="77110014" effect2="164" value2="3" show2="77110108" effect3="9011|9012|9013|9014|9015|9016" value3="2" show3="90700002" />
+    <ItemSpec id="1202064" effect1="65" value1="5" show1="77110014" effect2="164" value2="6" show2="77110108" effect3="9011|9012|9013|9014|9015|9016" value3="3" show3="90700002" />
+    <ItemSpec id="1202065" effect1="65" value1="8" show1="77110014" effect2="164" value2="10" show2="77110108" effect3="9011|9012|9013|9014|9015|9016" value3="5" show3="90700002" />
+    <ItemSpec id="1202066" effect1="65" value1="20" show1="77110014" effect2="164" value2="25" show2="77110108" effect3="9011|9012|9013|9014|9015|9016" value3="10" show3="90700002" />
+			
+	<ItemSpec id="1202511" value1="1" value2="2" value3="1" />
+    <ItemSpec id="1202512" value1="3" value2="4" value3="2" />
+    <ItemSpec id="1202513" value1="5" value2="7" value3="5" />
+    <ItemSpec id="1202514" value1="8" value2="11" value3="8" />
+    <ItemSpec id="1202515" value1="15" value2="22" value3="12" />
+    <ItemSpec id="1202516" value1="30" value2="45" value3="20" />
+    <ItemSpec id="1202521" value1="2" value2="2" value3="1" />
+    <ItemSpec id="1202522" value1="4" value2="4" value3="2" />
+    <ItemSpec id="1202523" value1="10" value2="10" value3="5" />
+    <ItemSpec id="1202524" value1="16" value2="16" value3="8" />
+    <ItemSpec id="1202525" value1="24" value2="24" value3="12" />
+    <ItemSpec id="1202526" value1="40" value2="40" value3="20" />
+    <ItemSpec id="1202531" value1="2" value2="2" value3="2" />
+    <ItemSpec id="1202532" value1="5" value2="4" value3="4" />
+    <ItemSpec id="1202533" value1="10" value2="7" value3="7" />
+    <ItemSpec id="1202534" value1="15" value2="11" value3="11" />
+    <ItemSpec id="1202535" value1="30" value2="22" value3="22" />
+    <ItemSpec id="1202536" value1="60" value2="45" value3="45" />
+    <ItemSpec id="1202541" value1="2" value2="2" value3="2" />
+    <ItemSpec id="1202542" value1="5" value2="5" value3="4" />
+    <ItemSpec id="1202543" value1="10" value2="10" value3="7" />
+    <ItemSpec id="1202544" value1="15" value2="15" value3="11" />
+    <ItemSpec id="1202545" value1="30" value2="30" value3="22" />
+    <ItemSpec id="1202546" value1="60" value2="60" value3="45" />
+    <ItemSpec id="1202551" value1="2" value2="2" value3="1" />
+    <ItemSpec id="1202552" value1="4" value2="4" value3="2" />
+    <ItemSpec id="1202553" value1="7" value2="7" value3="5" />
+    <ItemSpec id="1202554" value1="11" value2="11" value3="8" />
+    <ItemSpec id="1202555" value1="22" value2="22" value3="12" />
+    <ItemSpec id="1202556" value1="45" value2="45" value3="20" />
+    <ItemSpec id="1202561" value1="2" value2="2" value3="1" />
+    <ItemSpec id="1202562" value1="4" value2="4" value3="2" />
+    <ItemSpec id="1202563" value1="7" value2="8" value3="5" />
+    <ItemSpec id="1202564" value1="11" value2="15" value3="8" />
+    <ItemSpec id="1202565" value1="22" value2="30" value3="12" />
+    <ItemSpec id="1202566" value1="45" value2="60" value3="20" />
+    <ItemSpec id="1202611" value1="1" value2="2" value3="1" />
+    <ItemSpec id="1202612" value1="3" value2="4" value3="2" />
+    <ItemSpec id="1202613" value1="5" value2="7" value3="5" />
+    <ItemSpec id="1202614" value1="8" value2="11" value3="8" />
+    <ItemSpec id="1202615" value1="15" value2="22" value3="12" />
+    <ItemSpec id="1202616" value1="30" value2="45" value3="20" />
+    <ItemSpec id="1202621" value1="2" value2="2" value3="1" />
+    <ItemSpec id="1202622" value1="4" value2="4" value3="2" />
+    <ItemSpec id="1202623" value1="10" value2="10" value3="5" />
+    <ItemSpec id="1202624" value1="16" value2="16" value3="8" />
+    <ItemSpec id="1202625" value1="24" value2="24" value3="12" />
+    <ItemSpec id="1202626" value1="40" value2="40" value3="20" />
+    <ItemSpec id="1202631" value1="2" value2="2" value3="2" />
+    <ItemSpec id="1202632" value1="5" value2="4" value3="4" />
+    <ItemSpec id="1202633" value1="10" value2="7" value3="7" />
+    <ItemSpec id="1202634" value1="15" value2="11" value3="11" />
+    <ItemSpec id="1202635" value1="30" value2="22" value3="22" />
+    <ItemSpec id="1202636" value1="60" value2="45" value3="45" />
+    <ItemSpec id="1202641" value1="2" value2="2" value3="2" />
+    <ItemSpec id="1202642" value1="5" value2="5" value3="4" />
+    <ItemSpec id="1202643" value1="10" value2="10" value3="7" />
+    <ItemSpec id="1202644" value1="15" value2="15" value3="11" />
+    <ItemSpec id="1202645" value1="30" value2="30" value3="22" />
+    <ItemSpec id="1202646" value1="60" value2="60" value3="45" />
+    <ItemSpec id="1202651" value1="2" value2="2" value3="1" />
+    <ItemSpec id="1202652" value1="4" value2="4" value3="2" />
+    <ItemSpec id="1202653" value1="7" value2="8" value3="5" />
+    <ItemSpec id="1202654" value1="11" value2="15" value3="8" />
+    <ItemSpec id="1202655" value1="22" value2="30" value3="12" />
+    <ItemSpec id="1202656" value1="45" value2="60" value3="20" />
+    <ItemSpec id="1202661" value1="2" value2="2" value3="1" />
+    <ItemSpec id="1202662" value1="4" value2="4" value3="2" />
+    <ItemSpec id="1202663" value1="7" value2="7" value3="5" />
+    <ItemSpec id="1202664" value1="11" value2="11" value3="8" />
+    <ItemSpec id="1202665" value1="22" value2="22" value3="12" />
+    <ItemSpec id="1202666" value1="45" value2="45" value3="20" />
+	
+</Group> 
+
+
+<Group id="suit_equip_effect">
+    <ItemSpec id="402000" effect1="1;77100129;2|2;77100130;3|4;77100131;4|10;77100132;5" effect2="2;77100129;2|5;77100130;3|12;77100131;4|30;77100132;5" effect3="5;77100129;2|10;77100130;3|25;77100131;4|60;77100132;5" />
+
+</Group>
+
+
+  </tns:database>

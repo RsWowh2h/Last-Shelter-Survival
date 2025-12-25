@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="radar_quality_1">
+    <ItemSpec id="0" quality_refresh="0|0|0|0|0|0|0" />
+    <ItemSpec id="1" quality_refresh="0|0|0|0|0|0|0" />
+    <ItemSpec id="2" quality_refresh="0|0|1400|8000|500|100|0" />
+    <ItemSpec id="3" quality_refresh="0|0|0|5000|4500|500|0" />
+    <ItemSpec id="4" quality_refresh="0|0|0|0|6900|3100|0" />
+    <ItemSpec id="5" quality_refresh="0|0|0|0|0|7750|2250" />
+    <ItemSpec id="6" quality_refresh="0|0|0|0|0|0|10000" />
+</Group>
+    
+<Group id="radar_quality_3">
+    <ItemSpec id="0" quality_refresh="0|0|0|0|0|0|0" />
+    <ItemSpec id="1" quality_refresh="0|0|0|0|0|0|0" />
+    <ItemSpec id="2" quality_refresh="0|0|1400|8000|500|100|0" />
+    <ItemSpec id="3" quality_refresh="0|0|0|5000|4500|500|0" />
+    <ItemSpec id="4" quality_refresh="0|0|0|0|6900|3100|0" />
+    <ItemSpec id="5" quality_refresh="0|0|0|0|0|7750|2250" />
+    <ItemSpec id="6" quality_refresh="0|0|0|0|0|0|0" />
+
+
+        </Group> 
+
+
+
+<Group id="radar_quality_4">
+    <ItemSpec id="0" quality_refresh="10000|0|0|0|0|0|0" />
+    <ItemSpec id="1" quality_refresh="0|1400|8000|500|100|0|0" />
+    <ItemSpec id="2" quality_refresh="0|0|5000|4500|500|0|0" />
+    <ItemSpec id="3" quality_refresh="0|0|0|6900|3100|0|0" />
+    <ItemSpec id="4" quality_refresh="0|0|0|0|7750|2250|0" />
+    <ItemSpec id="5" quality_refresh="0|0|0|0|0|9800|200" />
+    <ItemSpec id="6" quality_refresh="0|0|0|0|0|0|10000" />
+
+
+
+        </Group> 
+
+        
+        
+<Group id="radar_quality_99">
+    <ItemSpec id="0" quality_refresh="0|0|0|0|0|0|0" />
+    <ItemSpec id="1" quality_refresh="0|0|0|0|0|0|0" />
+    <ItemSpec id="2" quality_refresh="0|0|0|0|0|0|0" />
+    <ItemSpec id="3" quality_refresh="0|0|0|0|0|0|0" />
+    <ItemSpec id="4" quality_refresh="0|0|0|0|0|0|0" />
+    <ItemSpec id="5" quality_refresh="0|0|0|0|0|0|0" />
+    <ItemSpec id="6" quality_refresh="0|0|0|0|0|0|0" />
+ </Group>
+</tns:database>
+

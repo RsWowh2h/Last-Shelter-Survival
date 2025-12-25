@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="DesertTalentStats">
+		<ItemSpec id="1" type="1" description="79040020" effect="778" symbol="2" percent="1" correct="1" priority="24" switch="1"/>
+		<ItemSpec id="2" type="1" description="79040016" effect="771" symbol="2" percent="1" correct="1" priority="23" switch="1"/>
+		<ItemSpec id="3" type="1" description="79040015" effect="770" symbol="2" percent="1" correct="10" priority="22" switch="1"/>
+		<ItemSpec id="4" type="1" description="79040019" effect="777" symbol="2" percent="0" correct="1" priority="21" switch="1"/>
+		<ItemSpec id="5" type="2" description="79040018" effect="774" symbol="2" percent="1" correct="1" priority="20" switch="1"/>
+		<ItemSpec id="6" type="2" description="79040017" effect="773" symbol="1" percent="1" correct="1" priority="19" switch="1"/>
+		<ItemSpec id="7" type="2" description="79040013" effect="768" symbol="2" percent="1" correct="1" priority="18" switch="1"/>
+		<ItemSpec id="8" type="2" description="79040010" effect="764" symbol="2" percent="1" correct="1" priority="17" switch="1"/>
+		<ItemSpec id="9" type="2" description="79040007" effect="761" symbol="2" percent="1" correct="1" priority="16" switch="1"/>
+		<ItemSpec id="10" type="2" description="79040008" effect="762" symbol="1" percent="1" correct="1" priority="15" switch="1"/>
+		<ItemSpec id="11" type="2" description="79040009" effect="763" symbol="1" percent="1" correct="1" priority="14" switch="1"/>
+		<ItemSpec id="12" type="2" description="79040011" effect="765" symbol="2" percent="0" correct="1" priority="13" switch="1"/>
+		<ItemSpec id="13" type="3" description="79040021" effect="7011" symbol="2" percent="1" correct="1" priority="12" switch="1"/>
+		<ItemSpec id="14" type="3" description="79040027" effect="7031" symbol="2" percent="1" correct="1" priority="11" switch="1"/>
+		<ItemSpec id="15" type="3" description="79040033" effect="7051" symbol="2" percent="1" correct="1" priority="10" switch="1"/>
+		<ItemSpec id="16" type="3" description="79040025" effect="7015" symbol="2" percent="1" correct="1" priority="9" switch="1"/>
+		<ItemSpec id="17" type="3" description="79040031" effect="7035" symbol="2" percent="1" correct="1" priority="8" switch="1"/>
+		<ItemSpec id="18" type="3" description="79040037" effect="7055" symbol="2" percent="1" correct="1" priority="7" switch="1"/>
+		<ItemSpec id="19" type="3" description="79040023" effect="7013" symbol="2" percent="1" correct="1" priority="6" switch="1"/>
+		<ItemSpec id="20" type="3" description="79040029" effect="7033" symbol="2" percent="1" correct="1" priority="5" switch="1"/>
+		<ItemSpec id="21" type="3" description="79040035" effect="7053" symbol="2" percent="1" correct="1" priority="4" switch="1"/>
+		<ItemSpec id="22" type="3" description="79040003" effect="752" symbol="2" percent="1" correct="1" priority="3" switch="1"/>
+		<ItemSpec id="23" type="1" description="79040004" effect="753" symbol="2" percent="1" correct="1" priority="2" switch="1"/>
+		<ItemSpec id="24" type="2" description="90602066" effect="757" symbol="2" percent="0" correct="1" priority="1" switch="1"/>
+		<ItemSpec id="114" type="3" description="90602002" effect="1791" symbol="2" percent="1" correct="1" priority="1148" switch="1"/>
+		<ItemSpec id="116" type="3" description="90602010" effect="1793" symbol="2" percent="1" correct="1" priority="1146" switch="1"/>
+		<ItemSpec id="118" type="3" description="90602006" effect="1795" symbol="2" percent="1" correct="1" priority="1144" switch="1"/>
+		<ItemSpec id="120" type="3" description="90602000" effect="1801" symbol="2" percent="1" correct="1" priority="1142" switch="1"/>
+		<ItemSpec id="122" type="3" description="90602008" effect="1803" symbol="2" percent="1" correct="1" priority="1140" switch="1"/>
+		<ItemSpec id="124" type="3" description="90602004" effect="1805" symbol="2" percent="1" correct="1" priority="1138" switch="1"/>
+		<ItemSpec id="130" type="3" description="90602024" effect="7201" symbol="2" percent="1" correct="1" priority="1132" switch="1"/>
+		<ItemSpec id="132" type="3" description="90602032" effect="7203" symbol="2" percent="1" correct="1" priority="1130" switch="1"/>
+		<ItemSpec id="134" type="3" description="90602028" effect="7205" symbol="2" percent="1" correct="1" priority="1128" switch="1"/>
+		<ItemSpec id="136" type="3" description="90602022" effect="7211" symbol="2" percent="1" correct="1" priority="1126" switch="1"/>
+		<ItemSpec id="138" type="3" description="90602030" effect="7213" symbol="2" percent="1" correct="1" priority="1124" switch="1"/>
+		<ItemSpec id="140" type="3" description="90602026" effect="7215" symbol="2" percent="1" correct="1" priority="1122" switch="1"/>
+		<ItemSpec id="142" type="3" description="103447" effect="7200" symbol="2" percent="1" correct="1" priority="1120" switch="1"/>
+		<ItemSpec id="143" type="3" description="103446" effect="7210" symbol="2" percent="1" correct="1" priority="1119" switch="1"/>
+		<ItemSpec id="146" type="3" description="90602046" effect="7221" symbol="2" percent="1" correct="1" priority="1116" switch="1"/>
+		<ItemSpec id="148" type="3" description="90602054" effect="7223" symbol="2" percent="1" correct="1" priority="1114" switch="1"/>
+		<ItemSpec id="150" type="3" description="90602050" effect="7225" symbol="2" percent="1" correct="1" priority="1112" switch="1"/>
+		<ItemSpec id="152" type="3" description="90602044" effect="7231" symbol="2" percent="1" correct="1" priority="1110" switch="1"/>
+		<ItemSpec id="154" type="3" description="90602052" effect="7233" symbol="2" percent="1" correct="1" priority="1108" switch="1"/>
+		<ItemSpec id="156" type="3" description="90602048" effect="7235" symbol="2" percent="1" correct="1" priority="1106" switch="1"/>
+		<ItemSpec id="158" type="3" description="113848" effect="7220" symbol="2" percent="1" correct="1" priority="1104" switch="1"/>
+		<ItemSpec id="159" type="3" description="113858" effect="7230" symbol="2" percent="1" correct="1" priority="1103" switch="1"/>
+
+		<ItemSpec id="101" type="1" description="90603000" effect="755" symbol="2" percent="1" correct="1" priority="1161" switch="1"/>
+		<ItemSpec id="102" type="1" description="90603001" effect="690" symbol="2" percent="1" correct="1" priority="1160" switch="1"/>
+		<ItemSpec id="103" type="1" description="90603002" effect="691" symbol="2" percent="1" correct="1" priority="1159" switch="1"/>
+		<ItemSpec id="104" type="1" description="90603003" effect="692" symbol="2" percent="1" correct="1" priority="1158" switch="1"/>
+		<ItemSpec id="105" type="1" description="90603004" effect="693" symbol="2" percent="1" correct="1" priority="1157" switch="1"/>
+		<ItemSpec id="106" type="1" description="90603005" effect="694" symbol="2" percent="1" correct="1" priority="1156" switch="1"/>
+		<ItemSpec id="107" type="2" description="90603006" effect="695" symbol="1" percent="1" correct="1" priority="1155" switch="1"/>
+		<ItemSpec id="108" type="2" description="90603007" effect="792" symbol="2" percent="1" correct="1" priority="1154" switch="1"/>
+		<ItemSpec id="109" type="2" description="90603008" effect="696" symbol="2" percent="0" correct="1" priority="1153" switch="1"/>
+		<ItemSpec id="110" type="2" description="90603009" effect="701" symbol="2" percent="0" correct="1" priority="1152" switch="1"/>
+		<ItemSpec id="111" type="2" description="90603010" effect="766" symbol="2" percent="0" correct="1" priority="1151" switch="1"/>
+		<ItemSpec id="112" type="2" description="90603011" effect="697" symbol="2" percent="0" correct="1" priority="1150" switch="1"/>
+		<ItemSpec id="113" type="3" description="90603012" effect="345" symbol="2" percent="0" correct="1" priority="1149" switch="1"/>
+
+
+		<ItemSpec id="126" type="3" description="90603013" effect="1790" symbol="2" percent="1" correct="1" priority="1136" switch="1"/>
+		<ItemSpec id="127" type="3" description="90603014" effect="1800" symbol="2" percent="1" correct="1" priority="1135" switch="1"/>
+		<ItemSpec id="128" type="3" description="90603016" effect="1810" symbol="2" percent="1" correct="1" priority="1134" switch="1"/>
+		<ItemSpec id="129" type="3" description="90603015" effect="1820" symbol="1" percent="1" correct="1" priority="1133" switch="1"/>
+		<ItemSpec id="144" type="3" description="90603017" effect="3140" symbol="1" percent="1" correct="1" priority="1118" switch="1"/>
+		<ItemSpec id="145" type="3" description="90603018" effect="1350" symbol="2" percent="1" correct="1" priority="1117" switch="1"/>
+		<ItemSpec id="160" type="3" description="90603019" effect="1090" symbol="1" percent="1" correct="1" priority="1102" switch="1"/>
+		<ItemSpec id="161" type="3" description="90603020" effect="1280" symbol="2" percent="1" correct="1" priority="1101" switch="1"/>
+		
+		<ItemSpec id="162" type="3" description="90603022" effect="1090" symbol="1" percent="1" correct="1" priority="1102" switch="1"/>
+
+
+	</Group> 
+</tns:database>

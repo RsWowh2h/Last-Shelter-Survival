@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="get_item">
+ <!--战争勋章-->
+    <ItemSpec id="215398" order="0" description="110022147" />
+    <ItemSpec id="215398" order="1" type="1" description="83200005" para1="435000" />
+    <ItemSpec id="215398" order="2" type="1" description="83530013" para1="488000" />
+    <ItemSpec id="215398" order="3" type="2" description="193718" para1="1120061" />
+    <ItemSpec id="215398" order="4" type="2" description="110022055" para1="1120000" />
+		<ItemSpec id="200124" order="0" description="83401411" type="4" para1="60;200124"/>
+		<ItemSpec id="200125" order="1" description="83401411" type="4" para1="60;200125"/>
+		<ItemSpec id="200126" order="2" description="83401411" type="4" para1="60;200126"/>
+    <ItemSpec id="215398" order="5" type="4" description="83401411" para1="60;215398" />
+
+    <!--勇气勋章-->
+    <ItemSpec id="210163" order="0" description="110022149" />
+    <ItemSpec id="210163" order="1" type="3" description="150427" para1="57014|57130" />
+    <ItemSpec id="210163" order="2" type="2" description="193718" para1="1120061" />
+    <ItemSpec id="210163" order="3" type="1" description="83530013" para1="488000" />
+    <ItemSpec id="210163" order="4" type="4" description="83401411" para1="60;210163" />
+
+    <!--SP万能英雄勋章-->
+    <ItemSpec id="227091" order="0" description="110270393" />
+    <ItemSpec id="227091" order="1" type="28" description="110270406" />
+    <ItemSpec id="227091" order="4" description="83401411" type="4" para1="60;227091"/>
+
+
+    <!--智慧勋章-->
+    <ItemSpec id="210164" order="0" description="90700013" />
+    <ItemSpec id="210164" order="1" type="1" description="83530001" para1="446000" />
+    <ItemSpec id="210164" order="2" type="3" description="150427" para1="57014|57130" />
+    <ItemSpec id="210164" order="3" type="2" description="83352001" para1="1120001" />
+    <ItemSpec id="210164" order="4" type="4" description="83401411" para1="60;210164" />
+
+    <!--初级智慧勋章-->
+    <ItemSpec id="210189" order="0" description="83408011" />
+    <ItemSpec id="210189" order="1" type="8" description="83408008" para1="210164" />
+
+    <!--能源核心-->
+    <ItemSpec id="212008" order="0" description="90822919" />
+    <ItemSpec id="212008" order="1" type="1" description="90821102" para1="547000" />
+    <ItemSpec id="212008" order="2" type="7" description="81000308" para1="988000|429000" />
+    <ItemSpec id="212008" order="3" type="6" description="76600201" />
+    <ItemSpec id="212008" order="4" type="1" description="83530013" para1="488000" />
+    <ItemSpec id="212008" order="5" type="2" description="110022055" para1="1120000" />
+    <ItemSpec id="212008" order="6" type="4" description="83401411" para1="60;212008" />
+
+    <!--能源碎片-->
+    <ItemSpec id="212009" order="0" description="90822920" />
+    <ItemSpec id="212009" order="1" type="5" description="105812" />
+    <ItemSpec id="212009" order="2" type="3" description="150261" para1="57012|57068|57069|57070|57071" />
+    <ItemSpec id="212009" order="3" type="6" description="76600201" />
+
+    <!--玫瑰花-->
+    <ItemSpec id="215423" order="0" description="90823274" />
+    <ItemSpec id="215423" order="1" type="3" description="90823363" para1="57241" />
+    <ItemSpec id="215423" order="2" type="4" description="83401411" para1="60;215423" />
+    <!--毛绒小熊-->
+    <ItemSpec id="219183" order="0" description="110221585" />
+    <ItemSpec id="219183" order="1" type="4" description="83401411" para1="60;219183" />
+    <!--天启导弹-->
+    <ItemSpec id="219194" order="0" description="110221758" />
+    <ItemSpec id="219194" order="1" type="4" description="83401411" para1="60;219194" />
+	
+    <!--情谊礼盒-->
+    <ItemSpec id="312013" order="0" description="110320664" />
+    <ItemSpec id="312013" order="1" type="4" description="83401411" para1="60;312013" />
+    <ItemSpec id="312013" order="2" type="3" description="110010306" para1="57738" icon="cookItem1004" />
+    <ItemSpec id="312013" order="5" type="2" description="5602145" para1="1120201" icon="item219192"  />
+
+     <!--魅惑面具-->
+    <ItemSpec id="310159" order="0" description="110320604" />
+    <ItemSpec id="310159" order="1" type="4" description="83401411" para1="60;310159" />                  <!--礼包-->
+    <ItemSpec id="310159" order="2" type="3" description="5601731" para1="57737" icon="item312039" />     <!--废土堡垒-->
+    <ItemSpec id="310159" order="3" type="2" description="5602145" para1="1120201" icon="item219192"  />  <!--大富翁 -->
+	
+   <!--魅惑面具-2023圣诞版-->
+    <ItemSpec id="312126" order="0" description="110320604" />
+    <ItemSpec id="312126" order="1" type="4" description="83401411" para1="60;312126" />                  <!--礼包-->
+    <ItemSpec id="312126" order="2" type="3" description="110481508" para1="57238" icon="item312126" />     <!--七日签到-->
+    <ItemSpec id="312126" order="3" type="3" description="110706004" para1="57770" icon="item312123"  />  <!--蛛丝马迹 -->
+    <ItemSpec id="312126" order="3" type="2" description="110661111" para1="1120201" icon="item312126"  />  <!-- 存钱罐活动 -->
+
+   <!--情谊礼盒-202402情人节版-->
+    <ItemSpec id="312189" order="0" description="110320664" />
+    <ItemSpec id="312189" order="1" type="4" description="83401411" para1="60;312189" />                  <!--礼包-->
+    <ItemSpec id="312189" order="2" type="3" description="110481508" para1="57238" icon="item312189" />     <!--七日签到-->
+    <ItemSpec id="312189" order="3" type="3" description="110661509" para1="57770" icon="item312191"  />  <!--蛛丝马迹 -->
+    <ItemSpec id="312189" order="3" type="2" description="110661111" para1="1120201" icon="item312189"  />  <!-- 存钱罐活动 -->
+
+   <!--情谊礼盒-202503活动道具-->
+    <ItemSpec id="650116" order="0" description="110320664" />
+    <ItemSpec id="650116" order="1" type="4" description="83401411" para1="60;650116" />                  <!--礼包-->
+		<ItemSpec id="312482" order="0" description="5600634" type="4" para1="60;312482" icon="item406"/>
+		<ItemSpec id="312483" order="0" description="5600634" type="4" para1="60;312483" icon="item406"/>
+		<ItemSpec id="312484" order="0" description="5600634" type="4" para1="60;312484" icon="item406"/>
+		<ItemSpec id="312488" order="0" description="5600634" type="4" para1="60;312488" icon="item406"/>
+		<ItemSpec id="312489" order="0" description="5600634" type="4" para1="60;312489" icon="item406"/>
+		<ItemSpec id="312490" order="0" description="5600634" type="4" para1="60;312490" icon="item406"/>
+		<ItemSpec id="312491" order="0" description="5600634" type="4" para1="60;312491" icon="item406"/>
+    <ItemSpec id="650116" order="3" type="2" description="110661111" para1="1120201" icon="item650116"  />  <!-- 存钱罐活动 -->
+
+   <!--周年庆送花道具-202507活动道具-->
+    <ItemSpec id="650142" order="0" description="110320664" />
+    <ItemSpec id="650142" order="1" type="4" description="83401411" para1="60;650142" />                  <!--礼包-->
+
+<!--七夕送花道具-202507活动道具-->
+    <ItemSpec id="650162" order="0" description="110320664" />
+    <ItemSpec id="650162" order="1" type="4" description="83401411" para1="60;650162" />                  <!--礼包-->
+    <ItemSpec id="650162" order="2" type="3" description="110221297" para1="57149" icon="item650162"  />    <!-- 派对大师 -->
+    <ItemSpec id="650162" order="3" type="3" description="5600300" para1="57715" icon="item650162"  />    <!-- 净水总动员 -->
+    <ItemSpec id="650162" order="4" type="3" description="110010306" para1="57738" icon="item650162"  />    <!-- 烤肉派对 -->
+
+<!--25秋日送花道具-活动道具-->
+    <ItemSpec id="650164" order="0" description="110320664" />
+    <ItemSpec id="650164" order="1" type="4" description="83401411" para1="60;650164" />                  <!--礼包-->
+    <ItemSpec id="650164" order="2" type="3" description="110221297" para1="57149" icon="item650164"  />    <!-- 派对大师 -->
+    <ItemSpec id="650164" order="3" type="2" description="110661111" para1="1120172" icon="item650164"  />    <!-- 存钱罐 -->
+
+ <!--万圣节送花道具-202510活动道具-->
+    <ItemSpec id="650168" order="0" description="110320664" />
+    <ItemSpec id="650168" order="1" type="4" description="83401411" para1="60;650168" />                  <!--礼包-->
+    <ItemSpec id="650168" order="2" type="3" description="110661100" para1="57149" icon="item650168"  />    <!-- 派对大师 -->
+    <ItemSpec id="650168" order="3" type="3" description="5602316" para1="57770" icon="item650168"  />    <!-- 蛛丝马迹 -->
+<!--25感恩节送花道具-活动道具-->
+    <ItemSpec id="650177" order="0" description="110320664" />
+    <ItemSpec id="650177" order="1" type="4" description="83401411" para1="60;650177" />                  <!--礼包-->
+    <ItemSpec id="650177" order="2" type="3" description="110221297" para1="57149" icon="item650177"  />    <!-- 派对大师 -->
+    <ItemSpec id="650177" order="3" type="3" description="5602319" para1="57770" icon="item650177"  />    <!-- 蛛丝马迹 -->
+    <!--芯片-->
+    <ItemSpec id="212007" order="0" description="110029021" />
+    <ItemSpec id="212007" order="1" type="1" description="190013" para1="464000" />
+    <ItemSpec id="212007" order="2" type="4" description="83401411" para1="60;212007" />
+
+   <!--纳米晶圆-->
+	<ItemSpec id="216003" order="0" description="110240021" type="12" icon="Icon_guajiwanfa"/>
+
+    <!--超级能源核心-->
+    <ItemSpec id="227028" order="0" description="110029022" />
+    <ItemSpec id="227028" order="1" type="1" description="83200005" para1="435000" />
+    <ItemSpec id="227028" order="2" type="1" description="80000446" para1="489000" />
+    <ItemSpec id="227028" order="3" type="2" description="193718" para1="1120061" />
+    <ItemSpec id="227028" order="4" type="2" description="110022055" para1="1120000" />
+    <ItemSpec id="227028" order="5" type="4" description="83401411" para1="60;227028" />
+
+    <!--基因片段-->
+    <ItemSpec id="227029" order="0" description="110029023" />
+    <ItemSpec id="227029" order="1" type="1" description="83200005" para1="435000" />
+    <ItemSpec id="227029" order="2" type="4" description="83401411" para1="60;227029" />
+
+    <!--洗炼-->
+    <ItemSpec id="200119" order="0" description="113377" />
+    <ItemSpec id="200119" order="1" type="1" description="80000446" para1="489000" />
+    <ItemSpec id="200119" order="2" type="4" description="83401411" para1="60;200119" />
+
+    <!--稀土-->
+    <ItemSpec id="215204" order="0" description="91020097" />
+    <ItemSpec id="215204" order="1" description="110050031" type="21" para1="209948" />
+    <ItemSpec id="215204" order="2" type="1" description="80000446" para1="489000" />
+    <ItemSpec id="215204" order="3" type="9" description="89000126" />
+    <ItemSpec id="215204" order="4" description="83401411" type="4" para1="60;215204"/>
+
+    <!--专精程序-勇士-->
+    <ItemSpec id="200121" order="0" description="111001374" />
+   <ItemSpec id="200121" order="1" type="21" description="111001476" para1="200128" />
+   <ItemSpec id="200121" order="2" type="21" description="111001474" para1="200127" />
+   <ItemSpec id="200121" order="3" type="4" description="83401411" para1="60;200121" />
+
+   <!--专精程序-射手-->
+   <ItemSpec id="200122" order="0" description="111001375" />
+   <ItemSpec id="200122" order="1" type="21" description="111001476" para1="200128" />
+   <ItemSpec id="200122" order="2" type="21" description="111001474" para1="200127" />
+   <ItemSpec id="200122" order="3" type="4" description="83401411" para1="60;200122" />
+
+   <!--专精程序-改装车-->
+   <ItemSpec id="200123" order="0" description="111001376" />
+   <ItemSpec id="200123" order="1" type="21" description="111001476" para1="200128" />
+   <ItemSpec id="200123" order="2" type="21" description="111001474" para1="200127" />
+   <ItemSpec id="200123" order="3" type="4" description="83401411" para1="60;200123" />
+
+    <!--装备货币-->
+    <ItemSpec id="200129" order="0" description="111002032" />
+    <ItemSpec id="200129" order="1" type="1" description="235000" para1="562000" />	
+    <ItemSpec id="200129" order="2" type="4" description="83401411" para1="60;200129" />
+    <ItemSpec id="200129" order="1" description="147032" type="3" para1="57300" />    
+
+
+    <!--装备进阶道具-->
+    <ItemSpec id="200130" order="0" description="111002033" />
+    <ItemSpec id="200130" order="1" type="11" description="111002044" />
+
+    <!--宠物爱心点数-->
+    <ItemSpec id="200136" order="0" description="111003035" />
+    <ItemSpec id="200130" order="2" type="4" description="83401411" />
+
+    <!--宠物爱心结晶-->
+    <ItemSpec id="200137" order="0" description="111003036" />
+    <ItemSpec id="200137" order="1" type="10" description="111002044" />
+
+    <!--金色以外装备-->
+    <ItemSpec id="201124" order="0" description="111002052" />
+    <ItemSpec id="201124" order="1" type="11" description="111002044" />
+    <ItemSpec id="201125" order="0" description="111002052" />
+    <ItemSpec id="201125" order="1" type="11" description="111002044" />
+    <ItemSpec id="201126" order="0" description="111002052" />
+    <ItemSpec id="201126" order="1" type="11" description="111002044" />
+    <ItemSpec id="201127" order="0" description="111002052" />
+    <ItemSpec id="201127" order="1" type="11" description="111002044" />
+    <ItemSpec id="201128" order="0" description="111002052" />
+    <ItemSpec id="201128" order="1" type="11" description="111002044" />
+    <ItemSpec id="201129" order="0" description="111002052" />
+    <ItemSpec id="201129" order="1" type="11" description="111002044" />
+    <ItemSpec id="201130" order="0" description="111002052" />
+    <ItemSpec id="201130" order="1" type="11" description="111002044" />
+    <ItemSpec id="201131" order="0" description="111002052" />
+    <ItemSpec id="201131" order="1" type="11" description="111002044" />
+    <ItemSpec id="201132" order="0" description="111002052" />
+    <ItemSpec id="201132" order="1" type="11" description="111002044" />
+    <ItemSpec id="201133" order="0" description="111002052" />
+    <ItemSpec id="201133" order="1" type="11" description="111002044" />
+    <ItemSpec id="201134" order="0" description="111002052" />
+    <ItemSpec id="201134" order="1" type="11" description="111002044" />
+    <ItemSpec id="201135" order="0" description="111002052" />
+    <ItemSpec id="201135" order="1" type="11" description="111002044" />
+    <ItemSpec id="201136" order="0" description="111002052" />
+    <ItemSpec id="201136" order="1" type="11" description="111002044" />
+    <ItemSpec id="201137" order="0" description="111002052" />
+    <ItemSpec id="201137" order="1" type="11" description="111002044" />
+    <ItemSpec id="201138" order="0" description="111002052" />
+    <ItemSpec id="201138" order="1" type="11" description="111002044" />
+
+    <!--金色装备-->
+    <ItemSpec id="200131" order="0" description="111002053" />
+    <ItemSpec id="200131" order="1" type="2" description="111002051" />
+    <ItemSpec id="200132" order="0" description="111002053" />
+    <ItemSpec id="200132" order="1" type="2" description="111002051" />
+    <ItemSpec id="200133" order="0" description="111002053" />
+    <ItemSpec id="200133" order="1" type="2" description="111002051" />
+    <ItemSpec id="200134" order="0" description="111002053" />
+    <ItemSpec id="200134" order="1" type="2" description="111002051" />
+    <ItemSpec id="200135" order="0" description="111002053" />
+    <ItemSpec id="200135" order="1" type="2" description="111002051" />
+
+    <!--机甲系统-->
+    <ItemSpec id="217055" order="0" description="110110105" type="13" icon="Icon_yuanjianzhizao" />
+    <ItemSpec id="217055" order="1" description="83401411" type="4" para1="60;217055" />
+
+    <ItemSpec id="217056" order="0" description="110110105" type="13" icon="Icon_yuanjianzhizao" />
+    <ItemSpec id="217056" order="1" description="83401411" type="4" para1="60;217056" />
+
+    <ItemSpec id="217057" order="0" description="110110105" type="13" icon="Icon_yuanjianzhizao" />
+    <ItemSpec id="217057" order="1" description="83401411" type="4" para1="60;217057" />
+
+    <ItemSpec id="217058" order="0" description="110110105" type="13" icon="Icon_yuanjianzhizao" />
+    <ItemSpec id="217058" order="1" description="83401411" type="4" para1="60;217058" />
+
+    <ItemSpec id="216004" order="0" description="110240021" type="12" icon="Icon_guajiwanfa" />
+    <ItemSpec id="216002" order="0" description="110240021" type="12" icon="Icon_guajiwanfa" />
+    <ItemSpec id="216002" order="1" description="83401411" type="4" para1="60;216002" />
+
+
+    <ItemSpec id="216001" order="0" description="110240021" type="12" icon="Icon_guajiwanfa" />
+    <ItemSpec id="216001" order="1" description="83401411" type="4" para1="60;216001" />
+
+    <ItemSpec id="201000" order="0" description="110240021" type="12" icon="Icon_guajiwanfa" />
+    <ItemSpec id="201000" order="1" description="83401411" type="4" para1="60;201000" />
+
+    <ItemSpec id="216254" order="0" description="150261" type="3" para1="57012|57068|57069|57070|57071" />
+    <ItemSpec id="216254" order="1" description="110400628" type="30" para1="216260" />
+    <ItemSpec id="216254" order="2" description="83401411" type="4" para1="60;216254" />
+    <ItemSpec id="216255" order="0" description="150261" type="3" para1="57012|57068|57069|57070|57071" />
+    <ItemSpec id="216255" order="1" description="110400628" type="30" para1="216260" />
+    <ItemSpec id="216255" order="2" description="83401411" type="4" para1="60;216255" />
+    <ItemSpec id="216256" order="0" description="150261" type="3" para1="57012|57068|57069|57070|57071" />
+    <ItemSpec id="216256" order="1" description="110400628" type="30" para1="216260" />
+    <ItemSpec id="216256" order="2" description="83401411" type="4" para1="60;216255" />
+		<ItemSpec id="217250" order="2" description="83401411" type="4" para1="60;217250"/>
+		<ItemSpec id="216260" order="0" description="150261" type="3" para1="57012|57068|57069|57070|57071"/>
+		<ItemSpec id="216260" order="1" description="83401411" type="4" para1="60;216260"/>
+
+
+    <!--盲盒幸运券-->
+    <ItemSpec id="227049" order="2" type="4" description="83401411" para1="60;227049" />
+
+   <!--昨日科技设计方案-->
+    <ItemSpec id="203517" order="0" description="235000" type="1" para1="562000" />
+    <ItemSpec id="203517" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="203517" order="2" description="83401411" type="4" para1="60;203517" />
+    <ItemSpec id="203518" order="0" description="235000" type="1" para1="562000" />
+    <ItemSpec id="203518" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="203518" order="2" description="83401411" type="4" para1="60;203518" />
+    <ItemSpec id="203519" order="0" description="235000" type="1" para1="562000" />
+    <ItemSpec id="203519" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="203519" order="2" description="83401411" type="4" para1="60;203519" />
+
+    <!--Ex赛季英雄勋章-->
+    <ItemSpec id="219500" order="1" description="110040849" type="22" icon="B_Activity_DoomsdayCompetition_ICON_Zhenyingrenwu" />
+
+  <!--赛季建筑 复合材料-->
+  <ItemSpec id="211213" order="0" type="21" description="90600872" para1="209942" />
+  <ItemSpec id="211213" order="1" type="23" description="79032267"/>
+  <ItemSpec id="211213" order="2" type="24" description="79010330"/>
+  <ItemSpec id="211213" order="3" type="4" description="83401411" para1="60;211213" />
+
+  <!--赛季建筑 抗体样本-->
+  <ItemSpec id="211214" order="0" type="23" description="79032267"/>
+  <ItemSpec id="211214" order="2" type="4" description="83401411" para1="60;211214" />
+
+  <!--100，000英雄经验-->
+  <ItemSpec id="200392" order="0" type="3" description="150261" para1="57012|57068|57069|57070|57071" />
+  <ItemSpec id="200392" order="1" type="2" description="110022055" para1="1120000" />
+  <ItemSpec id="200392" order="3" type="4" description="83401411" para1="60;200152" />
+  <ItemSpec id="200392" order="2" description="110110315" type="27" />
+	<!-- 生化美女道具 -->
+	<ItemSpec id="311001" order="0" description="110490035" type="25" icon="FB_IC_xiangziguanbibaise"/>
+	<ItemSpec id="311002" order="0" description="110490035" type="25" icon="FB_IC_xiangziguanbibaise"/>
+	<ItemSpec id="311003" order="0" description="110490035" type="25" icon="FB_IC_xiangziguanbibaise"/>
+	<ItemSpec id="311004" order="0" description="110490035" type="25" icon="FB_IC_xiangziguanbibaise"/>
+	<ItemSpec id="311005" order="0" description="110490047" type="25" icon="FB_IC_xiangziguanbibaise"/>
+	<ItemSpec id="311006" order="0" description="110490048" type="25" icon="FB_IC_xiangziguanbibaise"/>
+	
+	
+	<!-- 配件升级升星 -->
+    <ItemSpec id="227092" order="0" description="110550020" />
+    <ItemSpec id="227092" order="1" description="110550078" type="5" />
+    <ItemSpec id="227092" order="2" description="110550079" type="1" para1="488000" />
+    <ItemSpec id="227092" order="3" description="110550080" type="25" icon="FB_IC_xiangziguanbibaise" />
+    <ItemSpec id="227092" order="4" description="110550081" type="4" para1="60;227092" />
+    <ItemSpec id="227092" order="6" description="110550083" type="4" para1="60;227094" />
+    <ItemSpec id="227093" order="0" description="110550022" />
+    <ItemSpec id="227093" order="1" description="110550072" type="5" />
+    <ItemSpec id="227093" order="2" description="83530013" type="1" para1="488000" />
+    <ItemSpec id="227093" order="3" description="83401411" type="4" para1="60;227093" />
+    <ItemSpec id="227094" order="0" description="110550024" />
+    <ItemSpec id="227094" order="1" description="110550082" type="3" para1="57300" />
+    <ItemSpec id="227094" order="2" description="83401411" type="4" para1="60;227094" />
+    <ItemSpec id="227095" order="0" description="110550018" />
+    <ItemSpec id="227095" order="1" description="83401411" type="4" para1="60;227095" />
+
+
+ <!-- 扭蛋道具 -->
+	<ItemSpec id="312001" order="0" description="110492002" type="4" para1="60;312001" />
+
+
+  <!--靶向晶体-->
+    <ItemSpec id="215900" order="0" description="88004165" />
+    <ItemSpec id="215900" order="1" description="110110315" type="27" />
+    <ItemSpec id="215900" order="2" description="80000446" type="1" para1="489000" />
+    <ItemSpec id="215900" order="3" description="83530013" type="1" para1="488000" />
+    <ItemSpec id="215900" order="4" description="83401411" type="4" para1="60;215900" />
+<!--衰变能量-->
+    <ItemSpec id="219003" order="0" description="113379" />
+    <ItemSpec id="219003" order="1" description="110040294" type="26" />
+    <ItemSpec id="219003" order="2" description="83401411" type="4" para1="60;219003" />
+    <ItemSpec id="219003" order="3" description="110040294" type="29" para1="219003" />
+
+    <!--新手铁片跳转-->
+    <ItemSpec id="200129" order="3" type="2" description="110279813" para1="1140000" />
+ 
+    <!--排行榜BP雷电枪-->
+    <ItemSpec id="312027" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <!--排行榜BP烤鸡-->
+    <ItemSpec id="312073" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <!--BP尼根棒球棍-->
+    <ItemSpec id="312094" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <!--BP开年-->
+    <ItemSpec id="312124" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <!--BP炉子晶体-->
+    <ItemSpec id="312180" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+      <!--红麦穗-->
+    <ItemSpec id="312188" order="0" description="5600634" type="4" para1="68;1" icon="item406" />    
+      <!--面罩-->
+    <ItemSpec id="312208" order="0" description="5600634" type="4" para1="68;1" icon="item406" />   
+      <!--彩蛋-->
+    <ItemSpec id="312209" order="0" description="5600634" type="4" para1="68;1" icon="item406" />   
+      <!--斧头-->
+    <ItemSpec id="312258" order="0" description="5600634" type="4" para1="68;1" icon="item406" />    
+      <!--无人机-->
+    <ItemSpec id="312288" order="0" description="5600634" type="4" para1="68;1" icon="item406" />    
+      <!--夏日风车-->
+    <ItemSpec id="312289" order="0" description="5600634" type="4" para1="68;1" icon="item406" /> 
+      <!--秘境菇-->
+    <ItemSpec id="312302" order="0" description="5600634" type="4" para1="68;1" icon="item406" /> 
+      <!--助力先锋-->
+    <ItemSpec id="312313" order="0" description="5600634" type="4" para1="68;1" icon="item406" /> 
+       <!--孤影-->
+    <ItemSpec id="312314" order="0" description="5600634" type="4" para1="68;1" icon="item406" /> 
+      <!--祝福神像-->
+    <ItemSpec id="312324" order="0" description="5600634" type="4" para1="68;1" icon="item406" /> 
+      <!--奇妙扫把-->
+    <ItemSpec id="312325" order="0" description="5600634" type="4" para1="68;1" icon="item406" /> 
+	    <!--南瓜派-->
+    <ItemSpec id="312335" order="0" description="5600634" type="4" para1="68;1" icon="item406" /> 
+       <!--鸽子-->
+    <ItemSpec id="312347" order="0" description="5600634" type="4" para1="68;1" icon="item406" /> 
+       <!-- 感恩蜡烛 -->
+    <ItemSpec id="312348" order="0" description="5600634" type="4" para1="68;1" icon="item406" /> 
+      <!--鳕鱼-->
+    <ItemSpec id="312349" order="0" description="5600634" type="4" para1="68;1" icon="item406" /> 
+      <!--雪人-->
+    <ItemSpec id="312350" order="0" description="5600634" type="4" para1="68;1" icon="item406" />      
+      <!--拐杖糖-->
+    <ItemSpec id="312351" order="0" description="5600634" type="4" para1="68;1" icon="item406" />  
+      <!--帽子-->
+    <ItemSpec id="312352" order="0" description="5600634" type="4" para1="68;1" icon="item406" />  
+      <!--烟花棒-->
+    <ItemSpec id="312353" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+      <!--气球-->
+    <ItemSpec id="312375" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+      <!--灯笼-->
+    <ItemSpec id="312376" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+      <!--玉如意-->
+    <ItemSpec id="312377" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+      <!--中国结-->
+    <ItemSpec id="312388" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+      <!--玫瑰-->
+    <ItemSpec id="312389" order="0" description="5600634" type="4" para1="68;1" icon="item406" />    
+      <!--丘比特之箭-->
+    <ItemSpec id="312390" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+      <!--迎春花-->
+    <ItemSpec id="312391" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <ItemSpec id="312393" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <ItemSpec id="312394" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <ItemSpec id="312395" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <ItemSpec id="312400" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <ItemSpec id="312401" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <ItemSpec id="312411" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <ItemSpec id="312412" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <ItemSpec id="312413" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <ItemSpec id="312414" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+<!--2025-5月-bp-->
+    <ItemSpec id="312434" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <ItemSpec id="312435" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <ItemSpec id="312436" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <ItemSpec id="312445" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <ItemSpec id="312446" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <ItemSpec id="312447" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <ItemSpec id="312443" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+<!--2025-7月-bp-->
+    <ItemSpec id="312461" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <ItemSpec id="312462" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <ItemSpec id="312463" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+    <ItemSpec id="312464" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+<!--2025-8月-bp北极熊鳕鱼-->
+    <ItemSpec id="312349" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+<!--2025-8月-bp狮子生肉-->
+    <ItemSpec id="312469" order="0" description="5600634" type="4" para1="68;1" icon="item406" />
+<!--2025-9月-bp-->
+    <ItemSpec id="312467" order="0" description="5602302" type="4" para1="68;1" icon="item406" />
+
+<!--2025-9月秋日排行榜-bp-->
+    <ItemSpec id="650163" order="0" description="112188004" type="4" para1="60;650163" icon="item406" />
+    <ItemSpec id="650166" order="0" description="110221330" type="4" para1="60;650166" icon="item406" />
+    <ItemSpec id="650167" order="0" description="110221330" type="4" para1="60;650167" icon="item406" />
+    <ItemSpec id="650174" order="0" description="5600634" type="4" para1="60;650174" icon="item406"/>
+
+
+
+
+  <!--阵营建筑建设道具-->
+  <ItemSpec id="800002" order="0" description="110560517" />
+	
+  <ItemSpec id="800002" order="1" description="110560543" type="5" /> 
+
+      <!--钛颗粒-->
+      <ItemSpec id="203522" order="0" description="110400007" />
+      <ItemSpec id="203522" order="1" description="105812" type="5"/>
+      <ItemSpec id="203522" order="2" description="89000123" type="25"/>    
+      <ItemSpec id="203522" order="3" description="83401411" type="4" para1="60;203522" /> 
+
+      <!--高能反应炉-->
+    <ItemSpec id="204001" order="0" description="150427" type="3" para1="57014|57130" />
+    <ItemSpec id="204001" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="204001" order="2" description="83401411" type="4" para1="60;204001"/>
+    <ItemSpec id="204002" order="0" description="150427" type="3" para1="57014|57130" />
+    <ItemSpec id="204002" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="204002" order="2" description="83401411" type="4" para1="60;204001"/>
+    <ItemSpec id="204003" order="0" description="150427" type="3" para1="57014|57130" />
+    <ItemSpec id="204003" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="204003" order="2" description="83401411" type="4" para1="60;204001"/>
+    <ItemSpec id="204004" order="0" description="150427" type="3" para1="57014|57130" />
+    <ItemSpec id="204004" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="204004" order="2" description="83401411" type="4" para1="60;204001"/>
+    <ItemSpec id="204005" order="0" description="150427" type="3" para1="57014|57130" />
+    <ItemSpec id="204005" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="204005" order="2" description="83401411" type="4" para1="60;204001"/>
+    <ItemSpec id="204006" order="0" description="150427" type="3" para1="57014|57130" />
+    <ItemSpec id="204006" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="204006" order="2" description="83401411" type="4" para1="60;204001"/>
+    <ItemSpec id="204007" order="0" description="150427" type="3" para1="57014|57130" />
+    <ItemSpec id="204007" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="204007" order="2" description="83401411" type="4" para1="60;204001"/>
+    <ItemSpec id="204008" order="0" description="150427" type="3" para1="57014|57130" />
+    <ItemSpec id="204008" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="204008" order="2" description="83401411" type="4" para1="60;204001"/>
+    <ItemSpec id="204009" order="0" description="150427" type="3" para1="57014|57130" />
+    <ItemSpec id="204009" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="204009" order="2" description="83401411" type="4" para1="60;204001"/>
+    <ItemSpec id="204010" order="0" description="150427" type="3" para1="57014|57130" />
+    <ItemSpec id="204010" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="204010" order="2" description="83401411" type="4" para1="60;204001"/>
+    <ItemSpec id="204011" order="0" description="150427" type="3" para1="57014|57130" />
+    <ItemSpec id="204011" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="204011" order="2" description="83401411" type="4" para1="60;204001"/>
+    <ItemSpec id="204012" order="0" description="150427" type="3" para1="57014|57130" />
+    <ItemSpec id="204012" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="204012" order="2" description="83401411" type="4" para1="60;204001"/>
+    <ItemSpec id="204013" order="0" description="150427" type="3" para1="57014|57130" />
+    <ItemSpec id="204013" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="204013" order="2" description="83401411" type="4" para1="60;204001"/>
+    <ItemSpec id="204014" order="0" description="150427" type="3" para1="57014|57130" />
+    <ItemSpec id="204014" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="204014" order="2" description="83401411" type="4" para1="60;204001"/>
+    <ItemSpec id="204015" order="0" description="150427" type="3" para1="57014|57130" />
+    <ItemSpec id="204015" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="204015" order="2" description="83401411" type="4" para1="60;204001"/>
+    <ItemSpec id="204016" order="0" description="150427" type="3" para1="57014|57130" />
+    <ItemSpec id="204016" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="204016" order="2" description="83401411" type="4" para1="60;204001"/>
+    <ItemSpec id="204017" order="0" description="150427" type="3" para1="57014|57130" />
+    <ItemSpec id="204017" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="204017" order="2" description="83401411" type="4" para1="60;204001"/>
+    <ItemSpec id="204018" order="0" description="150427" type="3" para1="57014|57130" />
+    <ItemSpec id="204018" order="1" description="147032" type="3" para1="57300" />
+    <ItemSpec id="204018" order="2" description="83401411" type="4" para1="60;204001"/>
+
+   <!--玲铛猫-202406六一版-->
+    <ItemSpec id="312346" order="0" description="110661890" />
+    <ItemSpec id="312346" order="1" type="4" description="83401411" para1="60;312346" />                  <!--礼包-->
+
+
+   <!--玲铛猫-2024年12月送花道具-->
+    <ItemSpec id="312364" order="0" description="110661890" />
+    <ItemSpec id="312364" order="1" type="4" description="83401411" para1="60;312364" />                  <!--礼包-->
+
+
+
+
+
+    <!--物资更换卡-->
+    <ItemSpec id="217233" order="0" description="110111396" />
+    <ItemSpec id="217233" order="1" description="89000123" type="25" />   
+    <ItemSpec id="217233" order="2" description="83401411" type="4" para1="60;217233"/>   
+
+      <!--战斗宠物-->
+    <ItemSpec id="204021" order="0" description="83401411" type="4" para1="60;204021" />
+    <ItemSpec id="204021" order="1" description="110402059" type="39" icon="icon_getitem_train" />
+    <ItemSpec id="204022" order="0" description="83401411" type="4" para1="60;204022" />
+    <ItemSpec id="204022" order="1" description="110402059" type="39" icon="icon_getitem_train" />
+    <ItemSpec id="204023" order="0" description="83401411" type="4" para1="60;204023" />
+    <ItemSpec id="204023" order="1" description="110402059" type="39" icon="icon_getitem_train" />
+    <ItemSpec id="204027" order="0" description="83401411" type="4" para1="60;204027" />
+    <ItemSpec id="204027" order="1" description="110402059" type="39" icon="icon_getitem_train" />
+    <ItemSpec id="204029" order="0" description="83401411" type="4" para1="60;204029" />
+    <ItemSpec id="204029" order="1" description="110402059" type="39" icon="icon_getitem_train" />
+    <ItemSpec id="204030" order="0" description="83401411" type="4" para1="60;204030" />
+    <ItemSpec id="204030" order="1" description="110402059" type="39" icon="icon_getitem_train" />
+    <ItemSpec id="204052" order="0" description="83401411" type="4" para1="60;204052" />
+    <ItemSpec id="204052" order="1" description="235000" type="1" para1="562000" />
+
+<!--能源晶石-->
+    <ItemSpec id="217258" order="0" description="110111801" type="5" />
+    <ItemSpec id="217258" order="1" description="83401411" type="4" para1="60;217258" />  
+    <ItemSpec id="217258" order="2" description="110111788" type="21" para1="217268" />  
+    <ItemSpec id="217258" order="3" description="110111792" type="30" para1="217270" />     
+
+    <ItemSpec id="217259" order="0" description="110111801" type="5" />
+    <ItemSpec id="217259" order="1" description="83401411" type="4" para1="60;217259" />   
+    <ItemSpec id="217259" order="2" description="110111788" type="21" para1="217268" />  
+    <ItemSpec id="217259" order="3" description="110111792" type="30" para1="217270" />  
+
+    <ItemSpec id="217260" order="0" description="110111801" type="5" />
+    <ItemSpec id="217260" order="1" description="83401411" type="4" para1="60;217260" />
+    <ItemSpec id="217260" order="2" description="110111788" type="21" para1="217268" />  
+    <ItemSpec id="217260" order="3" description="110111792" type="30" para1="217270" />  
+
+    <ItemSpec id="217261" order="0" description="110111801" type="5" />   
+    <ItemSpec id="217261" order="1" description="83401411" type="4" para1="60;217261" />
+    <ItemSpec id="217261" order="2" description="110111788" type="21" para1="217268" />  
+    <ItemSpec id="217261" order="3" description="110111792" type="30" para1="217270" />  
+
+<!-- 超能魔方 -->
+    <ItemSpec id="217262" order="0" description="110111801" type="5" />
+    <ItemSpec id="217262" order="1" description="83401411" type="4" para1="60;217262" />
+    <ItemSpec id="217262" order="2" description="110111790" type="21" para1="217269" />  
+    <ItemSpec id="217262" order="3" description="110111792" type="30" para1="217271" />  
+
+    <ItemSpec id="217263" order="0" description="110111801" type="5" />
+    <ItemSpec id="217263" order="1" description="83401411" type="4" para1="60;217263" />
+    <ItemSpec id="217263" order="2" description="110111790" type="21" para1="217269" />  
+    <ItemSpec id="217263" order="3" description="110111792" type="30" para1="217271" />    
+
+    <ItemSpec id="217264" order="0" description="110111801" type="5" />
+    <ItemSpec id="217264" order="0" description="83401411" type="4" para1="60;217264" />
+    <ItemSpec id="217264" order="2" description="110111790" type="21" para1="217269" />  
+    <ItemSpec id="217264" order="3" description="110111792" type="30" para1="217271" />  
+
+    <ItemSpec id="217265" order="0" description="110111801" type="5" />    
+    <ItemSpec id="217265" order="1" description="83401411" type="4" para1="60;217265" />   
+    <ItemSpec id="217265" order="2" description="110111790" type="21" para1="217269" />  
+    <ItemSpec id="217265" order="3" description="110111792" type="30" para1="217271" />    
+ 
+
+<!-- 阵营科技红蓝水晶 -->    
+    <ItemSpec id="217266" order="0" description="110111717" type="38" icon="zy_caidananniu" />
+    <ItemSpec id="217267" order="0" description="110111718" type="38" icon="zy_caidananniu" />
+
+	<!--联盟军衔奖章-->
+    <ItemSpec id="218051" order="0" description="111860201" type="36" icon="Icon_yanmoshilian" />
+    <ItemSpec id="218051" order="1" description="111860616" type="37" icon="Icon_lianmengshangdian" />
+    <ItemSpec id="218052" order="0" description="111860201" type="36" icon="Icon_yanmoshilian" />
+    <ItemSpec id="218052" order="1" description="111860616" type="37" icon="Icon_lianmengshangdian" />
+    <ItemSpec id="218053" order="0" description="111860201" type="36" icon="Icon_yanmoshilian" />
+    <ItemSpec id="218053" order="1" description="111860616" type="37" icon="Icon_lianmengshangdian" />
+    <ItemSpec id="218054" order="0" description="111860201" type="36" icon="Icon_yanmoshilian" />
+    <ItemSpec id="218054" order="1" description="111860616" type="37" icon="Icon_lianmengshangdian" />
+    <ItemSpec id="218055" order="0" description="111860201" type="36" icon="Icon_yanmoshilian" />
+    <ItemSpec id="218055" order="1" description="111860616" type="37" icon="Icon_lianmengshangdian" />
+    <ItemSpec id="218056" order="0" description="111860201" type="36" icon="Icon_yanmoshilian" />
+    <ItemSpec id="218056" order="1" description="111860616" type="37" icon="Icon_lianmengshangdian" />
+
+
+<!-- 实心钢管 -->  
+    <ItemSpec id="217253" order="0" description="90550036" type="24" />    
+    <ItemSpec id="217253" order="1" description="193277" type="40" />    
+    <ItemSpec id="217253" order="2" description="110255801" type="41" />    
+
+<!-- 赛季职业切换卡 -->  
+    <ItemSpec id="217274" order="0" description="110255801" type="41" /> 
+    <ItemSpec id="217274" order="1" description="83401411" type="4" para1="60;217274"/>
+<!-- 赛季职业重置卡 -->   
+    <ItemSpec id="217275" order="0" description="110255801" type="41" /> 
+
+<!-- 宠物游乐园-跳转获取途径 --> 
+    <ItemSpec id="510301" order="0" description="110401910" type="42" icon="icon_recruit" />
+    <ItemSpec id="510302" order="0" description="110401910" type="42" icon="icon_recruit" />
+    <ItemSpec id="510303" order="0" description="5601960" type="3" para1="57722" />
+    <ItemSpec id="510304" order="0" description="110401910" type="42" icon="icon_recruit"/>
+    <ItemSpec id="510305" order="0" description="5601974" type="3" para1="57722"/>
+    <ItemSpec id="510306" order="0" description="110401910" type="42" icon="icon_recruit"/>
+    <ItemSpec id="510307" order="0" description="110401910" type="42" icon="icon_recruit" />
+    <ItemSpec id="510307" order="1" description="110403037" type="3" para1="57717"/>
+    <ItemSpec id="510308" order="0" description="5602307" type="3" para1="57722" />
+    <ItemSpec id="510309" order="0" description="110401910" type="42" icon="icon_recruit" />
+    <ItemSpec id="510310" order="0" description="110401910" type="42" icon="icon_recruit" />
+
+
+
+<!-- 人造卫星 --> 
+    <ItemSpec id="204048" order="0" description="83401411" type="4" para1="60;204048" />
+    <ItemSpec id="204048" order="1" description="110403713" type="44" icon="SatelliteShop" />
+    <ItemSpec id="204049" order="0" description="83401411" type="4" para1="60;204049" />
+    <ItemSpec id="204049" order="1" description="110403713" type="44" icon="SatelliteShop" />
+    <ItemSpec id="204050" order="0" description="83401411" type="4" para1="60;204050" />
+    <ItemSpec id="204050" order="1" description="110403712" type="43" icon="SatelliteAutoFactory" />
+<!-- 帝王将 --> 
+    <ItemSpec id="204045" order="0" description="83401411" type="4" para1="60;204045" />
+    <ItemSpec id="204045" order="1" description="110403110" type="2" para1="1120179" />
+    <ItemSpec id="210401" order="0" description="83401411" type="4" para1="60;210401" />
+    <ItemSpec id="210401" order="1" description="110403110" type="2" para1="1120179" />
+
+<!-- 周年庆道具获取途径 -->
+    <ItemSpec id="510901" order="0" description="110112096" type="3" para1="57797" />
+    <ItemSpec id="510902" order="0" description="111880225" type="3" para1="57821" />
+    <ItemSpec id="510903" order="0" description="110112096" type="3" para1="57797" />
+    <ItemSpec id="510903" order="1" description="110663365" type="3" para1="57149" />
+    <ItemSpec id="510904" order="0" description="111880225" type="3" para1="57821" icon="msj_icon_daoju3" />
+    <ItemSpec id="510904" order="1" description="5602090" type="3" para1="57770" />
+
+      <!--联盟盛宴-->
+    <ItemSpec id="650156" order="0" description="111880109" type="45" para1="68;1" icon="msj_icon_daoju3" />
+    <ItemSpec id="650157" order="0" description="111880109" type="45" para1="68;1" icon="msj_icon_daoju3" />
+    <ItemSpec id="650158" order="0" description="111880109" type="45" para1="68;1" icon="msj_icon_daoju3" />
+    <ItemSpec id="650159" order="0" description="111880109" type="45" para1="68;1" icon="msj_icon_daoju3" />
+    <ItemSpec id="650160" order="0" description="111880109" type="45" para1="68;1" icon="msj_icon_daoju3" />
+    <ItemSpec id="650161" order="0" description="111880109" type="45" para1="68;1" icon="msj_icon_daoju3" />
+
+   <!--珍品券道具-->
+    <ItemSpec id="227086" order="0" description="110270353" />
+    <ItemSpec id="227086" order="1" type="4" description="83401411" para1="60;227086" />                  <!--礼包-->
+
+    <!--双十一兑换道具-活动道具-->
+    <ItemSpec id="650175" order="0" description="110810192" />
+    <ItemSpec id="650175" order="1" type="4" description="83401411" para1="60;650175" />                  <!--礼包-->
+
+    <!--兑换道具-活动道具-->
+    <ItemSpec id="650176" order="0" description="110810192" />
+    <ItemSpec id="650176" order="1" type="4" description="83401411" para1="60;650176" />                  <!--礼包-->
+
+    <!-- 雪人大作战道具 -->
+   <ItemSpec id="650178" order="0" description="112188077" />
+   <ItemSpec id="650178" order="1" type="4" description="83401411" para1="60;650178" />                  <!--礼包-->
+   <ItemSpec id="650178" order="2" type="3" description="112141201" para1="57797" icon="item650178"  />    <!-- 世界boss -->
+   <ItemSpec id="650178" order="3" type="3" description="90821052" para1="57149" icon="item650178"  />    <!-- 派对大师 -->
+
+   <!--25圣诞节送花道具-活动道具-->
+    <ItemSpec id="650179" order="0" description="110320664" />
+    <ItemSpec id="650179" order="1" type="4" description="83401411" para1="60;650179" />                  <!--礼包-->
+    <ItemSpec id="650179" order="3" type="3" description="112141201" para1="57797" icon="item6501781"  />    <!-- 世界boss -->
+    <ItemSpec id="650179" order="3" type="3" description="110222801" para1="57770" icon="item6501781"  />    <!-- 蛛丝马迹 -->
+
+    <!--25圣诞节兑换道具-活动道具-->
+    <ItemSpec id="650180" order="0" description="110810192" />
+    <ItemSpec id="650180" order="1" type="4" description="83401411" para1="60;650180" />                  <!--礼包-->
+    <ItemSpec id="650180" order="3" type="2" description="110221072" para1="1120155" icon="item650180"  />    <!-- 高效利用 -->
+    
+
+ </Group >
+
+</tns:database>

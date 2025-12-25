@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="unlock_information_base">
+ 
+    <ItemSpec id="1001" base_id="10001" building1="730000" building2="717000"/>
+    <ItemSpec id="1002" base_id="10001" building1="724000" building2="725000"/>
+    <ItemSpec id="1003" base_id="10001" building1="728000"/>
+    <ItemSpec id="1004" base_id="10001" building1="707000"/>
+    <ItemSpec id="1005" base_id="10001" building1="709000"/>
+    <ItemSpec id="1006" base_id="10001" building1="715000"/>
+    <ItemSpec id="1007" base_id="10001" building1="716000"/>
+    <ItemSpec id="1010" base_id="10001" building1="718000" building2="719000"/>
+    <ItemSpec id="1012" base_id="10001" building1="720000" building2="721000" building3="722000"/>
+
+
+</Group>
+
+
+  </tns:database>

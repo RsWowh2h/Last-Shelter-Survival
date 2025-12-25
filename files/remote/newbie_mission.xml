@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="newbie_mission">
+		<ItemSpec id="1" base="3" guide_id="30003500" quest="4040021|4040029" goods="210191,5000|210194,2500|210193,2000" countdown="3600" countdown_blink="900"/>
+		<ItemSpec id="2" base="6" guide_id="30003700" quest="4040023|4040030" goods="200215,10|200207,10|210191,10000|210192,4800" countdown="86400" countdown_blink="7200"/>
+		<ItemSpec id="3" base="9" guide_id="30003710" quest="4040025|4040031" goods="210196,1|200060,3|200390,20|210164,50" countdown="604800" countdown_blink="86400"/>
+		<ItemSpec id="4" base="13 " guide_id="30003720" quest="4040027|4040028" goods="310048,1|200060,5|200254,4|200227,10" countdown="604800" countdown_blink="86400"/>
+	</Group>
+	<Group id="newbie_mission_2">
+		<ItemSpec id="1" base="1" unlock_guide="newbie_limit_mission_1" unlock_base="2" guide_id="30003500" quest="4040032|4040029" goods="210191,5000|210194,2500|210193,2000" countdown="3600" countdown_blink="3000" task_succ="3,0" task_fail="2,1"/>
+		<ItemSpec id="2" base="4" unlock_guide="newbie_limit_mission_2" unlock_base="5" guide_id="30003700" quest="4040033|4040030" goods="200215,10|200207,10|210191,10000|210192,4800" countdown="86400" countdown_blink="7200" task_succ="3,0" task_fail="3,0"/>
+		<ItemSpec id="3" base="7" guide_id="30003710" quest="4040034|4040031" goods="210196,1|200060,3|200390,20|210164,50" countdown="259200" countdown_blink="43200" task_succ="3,0" task_fail="3,0"/>
+		<ItemSpec id="4" base="11" guide_id="30003720" quest="4040027|4040028" goods="310048,1|200060,5|200254,4|200227,10" countdown="604800" countdown_blink="129600" task_succ="3,0" task_fail="3,0"/>
+	</Group>
+</tns:database>

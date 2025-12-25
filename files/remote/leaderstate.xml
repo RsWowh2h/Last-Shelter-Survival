@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<Group id="leaderstate">
+    <!-- 该表填写的是db表中xmlid，若填写的不是xmlid请注明注释，该表中填写的为非公共使用的表，公共使用表不填写 -->
+    <!-- leaderstate_type新版引导类型 guide_type引导表读类型 building_type建造读类型 unlock_type解锁地块表 block_type解锁地块表 chapter_xml章节任务表 chapter_type章节任务使用的group scene首次进入游戏使用的场景，1=内城，2=塔防，3=赛车 tower_defence是否开启塔防1=开启，0=不开启 td_level塔防关卡表，td_wave塔防波次表-->
+	<ItemSpec id="1" leaderstate_type="10" guide_type="681" building_type="658" unlock_type="683" block_type="684" chapter_xml="613" chapter_group="7" scene="2" tower_defence="1" td_level="493" td_wave="467" td_unlock="491" map_templates="890" />
+	<ItemSpec id="2" leaderstate_type="11" guide_type="682" building_type="658" unlock_type="683" block_type="684" chapter_xml="613" chapter_group="8" scene="1" tower_defence="1" td_level="493" td_wave="467" td_unlock="491" map_templates="890" />
+	<ItemSpec id="3" leaderstate_type="12" guide_type="691" building_type="658" unlock_type="683" block_type="684" chapter_xml="613" chapter_group="7" scene="2" tower_defence="1" td_level="693" td_wave="694" td_unlock="697" map_templates="890" />
+	<ItemSpec id="4" leaderstate_type="13" guide_type="692" building_type="658" unlock_type="683" block_type="684" chapter_xml="613" chapter_group="7" scene="2" tower_defence="1" td_level="493" td_wave="467" td_unlock="491" map_templates="890"  />
+
+
+
+	<ItemSpec id="5" leaderstate_type="20" guide_type="725" building_type="308" unlock_type="311" block_type="310" chapter_xml="316" chapter_group="1" scene="1" tower_defence="1" td_level="493" td_wave="467" td_unlock="491" map_templates="890" />
+    
+	<ItemSpec id="6" leaderstate_type="21" guide_type="730" building_type="733" unlock_type="732" block_type="310" chapter_xml="613" chapter_group="10" scene="1" tower_defence="1" td_level="493" td_wave="735" td_unlock="734" map_templates="890" />
+
+	<ItemSpec id="7" leaderstate_type="19" guide_type="727" building_type="728" unlock_type="656" block_type="310" chapter_xml="613" chapter_group="2" scene="1" tower_defence="1" td_level="693" td_wave="694" td_unlock="697" map_templates="890" />
+
+
+	<ItemSpec id="8" leaderstate_type="22" guide_type="490" building_type="308" unlock_type="656" block_type="310" chapter_xml="479" chapter_group="10" scene="1" tower_defence="1" td_level="493" td_wave="467" td_unlock="491" map_templates="890" />
+
+	<ItemSpec id="9" leaderstate_type="23" guide_type="742" building_type="308" unlock_type="656" block_type="310" chapter_xml="479" chapter_group="2" scene="1" tower_defence="1" td_level="493" td_wave="467" td_unlock="491" map_templates="890" />
+	
+	<ItemSpec id="10" leaderstate_type="24" guide_type="741" building_type="308" unlock_type="656" block_type="310" chapter_xml="479" chapter_group="2" scene="1" tower_defence="1" td_level="493" td_wave="467" td_unlock="491" map_templates="890" />
+
+	<ItemSpec id="11" leaderstate_type="25" guide_type="836" building_type="308" unlock_type="656" block_type="310" chapter_xml="479" chapter_group="2" scene="1" tower_defence="0" td_level="493" td_wave="467" td_unlock="491" map_templates="890" />
+	
+	<ItemSpec id="12" leaderstate_type="26" guide_type="866" building_type="867" unlock_type="869" block_type="865" chapter_xml="868" chapter_group="2" scene="1" tower_defence="0" td_level="493" td_wave="467" td_unlock="491" map_templates="890"/>
+
+	<ItemSpec id="13" leaderstate_type="27" guide_type="884" building_type="885" unlock_type="869" block_type="865" chapter_xml="886" chapter_group="2" scene="1" tower_defence="0" td_level="493" td_wave="467" td_unlock="491" map_templates="890"/>
+
+	<ItemSpec id="14" leaderstate_type="28" guide_type="903" building_type="933" unlock_type="904" block_type="929" chapter_xml="886" chapter_group="2" scene="1" tower_defence="0" td_level="493" td_wave="467" td_unlock="491" map_templates="890"/>
+
+	<ItemSpec id="15" leaderstate_type="29" guide_type="928" building_type="933" unlock_type="938" block_type="929" chapter_xml="886" chapter_group="2" scene="1" tower_defence="0" td_level="493" td_wave="467" td_unlock="491" map_templates="890"/>
+
+	<ItemSpec id="16" leaderstate_type="30" guide_type="968" building_type="308" unlock_type="656" block_type="310" chapter_xml="479" chapter_group="2" scene="1" tower_defence="1" td_level="969" td_wave="970" td_unlock="971" map_templates="890" td_building_config="972" td_building_level="973" td_zombie="974"/>
+	
+	<ItemSpec id="18" leaderstate_type="31" guide_type="982" building_type="308" unlock_type="656" block_type="310" chapter_xml="479" chapter_group="2" scene="1" tower_defence="1" td_level="969" td_wave="970" td_unlock="983" map_templates="890" td_building_config="972" td_building_level="973" td_zombie="974" td_soldier="984" td_heroskill="985" td_skilldamage="986"/>
+	
+	
+	
+	</Group>
+</tns:database>

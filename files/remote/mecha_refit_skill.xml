@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="mecha_refit_skill">
+
+		<ItemSpec id="128" icon="mech_skill_10002" name="110110702" describe="110110703" type="161253" target="110110727" condition="110110728" preinfo="110110712" aoe_animation="hit_aoe"/>
+		<ItemSpec id="129" icon="mech_skill_10002" name="110110702" describe="110110778" type="161253" target="110110727" condition="110110728" preinfo="110110712" aoe_animation="hit_aoe"/>
+		<ItemSpec id="130" icon="mech_skill_10002" name="110110702" describe="110110703" type="161253" target="110110727" condition="110110728" preinfo="110110712" aoe_animation="hit_aoe"/>
+		<ItemSpec id="131" icon="mech_skill_10002" name="110110702" describe="110110703" type="161253" target="110110727" condition="110110728" preinfo="110110712" aoe_animation="hit_aoe"/>
+		<ItemSpec id="132" icon="mech_skill_10002" name="110110702" describe="110110703" type="161253" target="110110727" condition="110110728" aoe_animation="hit_aoe"/>
+		<ItemSpec id="133" icon="mech_skill_10002" name="110110702" describe="110110703" type="161253" target="110110727" condition="110110728" aoe_animation="hit_aoe"/>
+		<ItemSpec id="134" icon="mech_skill_10002" name="110110702" describe="110110703" type="161253" target="110110727" condition="110110728" aoe_animation="hit_aoe"/>
+		<ItemSpec id="1101" icon="FB_IC_WS_jijiagaizhuang" name="110110702" describe="110400816" preinfo="110400620" aoe_animation="hit_aoe"/>
+		<ItemSpec id="1102" icon="FB_IC_WS_jijiagaizhuang" name="110110702" describe="110400817" preinfo="110400621" aoe_animation="hit_aoe"/>
+		<ItemSpec id="1103" icon="FB_IC_WS_jijiagaizhuang" name="110110702" describe="110400818" preinfo="110400622" aoe_animation="hit_aoe"/>
+		<ItemSpec id="1104" icon="FB_IC_WS_jijiagaizhuang" name="110110702" describe="110400819" aoe_animation="hit_aoe" preinfo="110400623"/>
+		<ItemSpec id="1105" icon="FB_IC_WS_zidan" name="110110702" describe="110400816" preinfo="110400620" aoe_animation="hit_aoe"/>
+		<ItemSpec id="1106" icon="FB_IC_WS_zidan" name="110110702" describe="110400817" preinfo="110400621" aoe_animation="hit_aoe"/>
+		<ItemSpec id="1107" icon="FB_IC_WS_zidan" name="110110702" describe="110400818" preinfo="110400622" aoe_animation="hit_aoe"/>
+		<ItemSpec id="1108" icon="FB_IC_WS_zidan" name="110110702" describe="110400819" aoe_animation="hit_aoe" preinfo="110400623"/>
+		<ItemSpec id="1109" icon="FB_IC_WS_daodan" name="110110702" describe="110400816" preinfo="110400620" aoe_animation="hit_aoe"/>
+		<ItemSpec id="1110" icon="FB_IC_WS_daodan" name="110110702" describe="110400817" preinfo="110400621" aoe_animation="hit_aoe"/>
+		<ItemSpec id="1111" icon="FB_IC_WS_daodan" name="110110702" describe="110400818" preinfo="110400622" aoe_animation="hit_aoe"/>
+		<ItemSpec id="1112" icon="FB_IC_WS_daodan" name="110110702" describe="110400819" aoe_animation="hit_aoe" preinfo="110400623"/>
+		<ItemSpec id="1113" icon="FB_IC_WS_liudanpao" name="110110702" describe="110400816" preinfo="110400620" aoe_animation="hit_aoe"/>
+		<ItemSpec id="1114" icon="FB_IC_WS_liudanpao" name="110110702" describe="110400817" preinfo="110400621" aoe_animation="hit_aoe"/>
+		<ItemSpec id="1115" icon="FB_IC_WS_liudanpao" name="110110702" describe="110400818" preinfo="110400622" aoe_animation="hit_aoe"/>
+		<ItemSpec id="1116" icon="FB_IC_WS_liudanpao" name="110110702" describe="110400819" preinfo="110400623" aoe_animation="hit_aoe"/>
+
+  </Group>
+</tns:database>

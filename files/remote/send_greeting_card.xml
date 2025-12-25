@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="send_greeting_card">
+  
+    <ItemSpec id="10000" server="1-1160" start_time="2022/05/29 00:00:00" end_time="2022/06/04 23:59:00" start_icon="btn_summercard_star_02" background="img_summercard_01|img_summercard_02|img_summercard_03" decorate="img_summercard_decorate_01|img_summercard_decorate_02|img_summercard_decorate_03" message="5600577|5600578|5600579" entrance="btn_SummerActivity" entrance_icon="icon_card_summer" cost_item="217074" spine_time="3" />
+    <ItemSpec id="10001" server="2901-2912" start_time="2022/05/29 00:00:00" end_time="2022/06/04 23:59:00" start_icon="btn_summercard_star_02" background="img_summercard_01|img_summercard_02|img_summercard_03" decorate="img_summercard_decorate_01|img_summercard_decorate_02|img_summercard_decorate_03" message="5600577|5600578|5600579" entrance="btn_SummerActivity" entrance_icon="icon_card_summer" cost_item="217074" spine_time="3" />
+    <ItemSpec id="10002" server="1161-1236" start_time="2022/05/29 00:00:00" end_time="2022/06/04 23:59:00" start_icon="btn_summercard_star_02" background="img_summercard_01|img_summercard_02|img_summercard_03" decorate="img_summercard_decorate_01|img_summercard_decorate_02|img_summercard_decorate_03" message="5600577|5600578|5600579" entrance="btn_SummerActivity" entrance_icon="icon_card_summer" cost_item="217074" spine_time="3" />
+
+<!--start_icon=开始按钮-->
+<!--background=背景-->
+<!--decorate=装饰-->
+<!--message=祝福语-->
+<!--entrance=内城查收入口-->
+<!--cost_item=消耗的道具-->
+
+
+</Group>
+</tns:database>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="base_arms_effect">
+    <ItemSpec id="1" base_id="10000" building_id="411000" durable="10"/>
+    <ItemSpec id="2" base_id="10000" building_id="412000" durable="10"/>
+    <ItemSpec id="3" base_id="10000" building_id="413000" durable="10"/>
+    <ItemSpec id="4" base_id="10000" building_id="414000" durable="10"/>
+    <ItemSpec id="5" base_id="10000" building_id="415000" durable="10"/>
+    <ItemSpec id="6" base_id="10001" building_id="708000" durable="10"/>
+    <ItemSpec id="7" base_id="10001" building_id="708000" durable="10"/>
+
+
+ </Group >
+
+</tns:database>

@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="td_reward">
+    <ItemSpec id="1" cost="5" offline_reward="630000" />
+    <ItemSpec id="2" cost="5" offline_reward="630000" />
+    <ItemSpec id="3" cost="5" offline_reward="630000" />
+    <ItemSpec id="4" cost="5" offline_reward="630000" />
+    <ItemSpec id="5" cost="5" reward="637000" offline_reward="630000" />
+    <ItemSpec id="6" cost="6" offline_reward="630001" />
+    <ItemSpec id="7" cost="6" offline_reward="630001" />
+    <ItemSpec id="8" cost="6" offline_reward="630001" />
+    <ItemSpec id="9" cost="6" offline_reward="630001" />
+    <ItemSpec id="10" cost="6" reward="637001" offline_reward="630001" />
+    <ItemSpec id="11" cost="8" offline_reward="630002" />
+    <ItemSpec id="12" cost="8" offline_reward="630002" />
+    <ItemSpec id="13" cost="8" offline_reward="630002" />
+    <ItemSpec id="14" cost="8" offline_reward="630002" />
+    <ItemSpec id="15" cost="8" reward="637002" offline_reward="630002" />
+    <ItemSpec id="16" cost="10" offline_reward="630003" />
+    <ItemSpec id="17" cost="10" offline_reward="630003" />
+    <ItemSpec id="18" cost="10" offline_reward="630003" />
+    <ItemSpec id="19" cost="10" offline_reward="630003" />
+    <ItemSpec id="20" cost="10" reward="637003" offline_reward="630003" />
+    <ItemSpec id="21" cost="12" offline_reward="630004" />
+    <ItemSpec id="22" cost="12" offline_reward="630004" />
+    <ItemSpec id="23" cost="12" offline_reward="630004" />
+    <ItemSpec id="24" cost="12" offline_reward="630004" />
+    <ItemSpec id="25" cost="12" reward="637004" offline_reward="630004" />
+    <ItemSpec id="26" cost="14" offline_reward="630005" />
+    <ItemSpec id="27" cost="14" offline_reward="630005" />
+    <ItemSpec id="28" cost="14" offline_reward="630005" />
+    <ItemSpec id="29" cost="14" offline_reward="630005" />
+    <ItemSpec id="30" cost="14" reward="637005" offline_reward="630005" />
+    <ItemSpec id="31" cost="16" offline_reward="630006" />
+    <ItemSpec id="32" cost="16" offline_reward="630006" />
+    <ItemSpec id="33" cost="16" offline_reward="630006" />
+    <ItemSpec id="34" cost="16" offline_reward="630006" />
+    <ItemSpec id="35" cost="16" reward="637006" offline_reward="630006" />
+    <ItemSpec id="36" cost="20" offline_reward="630007" />
+    <ItemSpec id="37" cost="20" offline_reward="630007" />
+    <ItemSpec id="38" cost="20" offline_reward="630007" />
+    <ItemSpec id="39" cost="20" offline_reward="630007" />
+    <ItemSpec id="40" cost="20" reward="637007" offline_reward="630007" />
+    <ItemSpec id="41" cost="24" offline_reward="630008" />
+    <ItemSpec id="42" cost="24" offline_reward="630008" />
+    <ItemSpec id="43" cost="24" offline_reward="630008" />
+    <ItemSpec id="44" cost="24" offline_reward="630008" />
+    <ItemSpec id="45" cost="24" reward="637008" offline_reward="630008" />
+    <ItemSpec id="46" cost="28" offline_reward="630009" />
+    <ItemSpec id="47" cost="28" offline_reward="630009" />
+    <ItemSpec id="48" cost="28" offline_reward="630009" />
+    <ItemSpec id="49" cost="28" offline_reward="630009" />
+    <ItemSpec id="50" cost="28" reward="637009" offline_reward="630009" />
+    <ItemSpec id="51" cost="32" offline_reward="630010" />
+    <ItemSpec id="52" cost="32" offline_reward="630010" />
+    <ItemSpec id="53" cost="32" offline_reward="630010" />
+    <ItemSpec id="54" cost="32" offline_reward="630010" />
+    <ItemSpec id="55" cost="32" reward="637010" offline_reward="630010" />
+    <ItemSpec id="56" cost="36" offline_reward="630011" />
+    <ItemSpec id="57" cost="36" offline_reward="630011" />
+    <ItemSpec id="58" cost="36" offline_reward="630011" />
+    <ItemSpec id="59" cost="36" offline_reward="630011" />
+    <ItemSpec id="60" cost="36" reward="637011" offline_reward="630011" />
+    <ItemSpec id="61" cost="40" offline_reward="630012" />
+    <ItemSpec id="62" cost="40" offline_reward="630012" />
+    <ItemSpec id="63" cost="40" offline_reward="630012" />
+    <ItemSpec id="64" cost="40" offline_reward="630012" />
+    <ItemSpec id="65" cost="40" reward="637012" offline_reward="630012" />
+    <ItemSpec id="66" cost="44" offline_reward="630013" />
+    <ItemSpec id="67" cost="44" offline_reward="630013" />
+    <ItemSpec id="68" cost="44" offline_reward="630013" />
+    <ItemSpec id="69" cost="44" offline_reward="630013" />
+    <ItemSpec id="70" cost="44" reward="637013" offline_reward="630013" />
+    <ItemSpec id="71" cost="48" offline_reward="630014" />
+    <ItemSpec id="72" cost="48" offline_reward="630014" />
+    <ItemSpec id="73" cost="48" offline_reward="630014" />
+    <ItemSpec id="74" cost="48" offline_reward="630014" />
+    <ItemSpec id="75" cost="48" reward="637014" offline_reward="630014" />
+    <ItemSpec id="76" cost="52" offline_reward="630015" />
+    <ItemSpec id="77" cost="52" offline_reward="630015" />
+    <ItemSpec id="78" cost="52" offline_reward="630015" />
+    <ItemSpec id="79" cost="52" offline_reward="630015" />
+    <ItemSpec id="80" cost="52" reward="637015" offline_reward="630015" />
+    <ItemSpec id="81" cost="56" offline_reward="630016" />
+    <ItemSpec id="82" cost="56" offline_reward="630016" />
+    <ItemSpec id="83" cost="56" offline_reward="630016" />
+    <ItemSpec id="84" cost="56" offline_reward="630016" />
+    <ItemSpec id="85" cost="56" reward="637016" offline_reward="630016" />
+    <ItemSpec id="86" cost="60" offline_reward="630017" />
+    <ItemSpec id="87" cost="60" offline_reward="630017" />
+    <ItemSpec id="88" cost="60" offline_reward="630017" />
+    <ItemSpec id="89" cost="60" offline_reward="630017" />
+    <ItemSpec id="90" cost="60" reward="637017" offline_reward="630017" />
+    <ItemSpec id="91" cost="64" offline_reward="630018" />
+    <ItemSpec id="92" cost="64" offline_reward="630018" />
+    <ItemSpec id="93" cost="64" offline_reward="630018" />
+    <ItemSpec id="94" cost="64" offline_reward="630018" />
+    <ItemSpec id="95" cost="64" reward="637018" offline_reward="630018" />
+    <ItemSpec id="96" cost="68" offline_reward="630019" />
+    <ItemSpec id="97" cost="68" offline_reward="630019" />
+    <ItemSpec id="98" cost="68" offline_reward="630019" />
+    <ItemSpec id="99" cost="68" offline_reward="630019" />
+    <ItemSpec id="100" cost="68" reward="637019" offline_reward="630019" />
+    <ItemSpec id="101" cost="72" offline_reward="630020" />
+    <ItemSpec id="102" cost="72" offline_reward="630020" />
+    <ItemSpec id="103" cost="72" offline_reward="630020" />
+    <ItemSpec id="104" cost="72" offline_reward="630020" />
+    <ItemSpec id="105" cost="72" reward="637020" offline_reward="630020" />
+    <ItemSpec id="106" cost="76" offline_reward="630021" />
+    <ItemSpec id="107" cost="76" offline_reward="630021" />
+    <ItemSpec id="108" cost="76" offline_reward="630021" />
+    <ItemSpec id="109" cost="76" offline_reward="630021" />
+    <ItemSpec id="110" cost="76" reward="637021" offline_reward="630021" />
+    <ItemSpec id="111" cost="80" offline_reward="630022" />
+    <ItemSpec id="112" cost="80" offline_reward="630022" />
+    <ItemSpec id="113" cost="80" offline_reward="630022" />
+    <ItemSpec id="114" cost="80" offline_reward="630022" />
+    <ItemSpec id="115" cost="80" reward="637022" offline_reward="630022" />
+    <ItemSpec id="116" cost="84" offline_reward="630023" />
+    <ItemSpec id="117" cost="84" offline_reward="630023" />
+    <ItemSpec id="118" cost="84" offline_reward="630023" />
+    <ItemSpec id="119" cost="84" offline_reward="630023" />
+    <ItemSpec id="120" cost="84" reward="637023" offline_reward="630023" />
+    <ItemSpec id="121" cost="88" offline_reward="630024" />
+    <ItemSpec id="122" cost="88" offline_reward="630024" />
+    <ItemSpec id="123" cost="88" offline_reward="630024" />
+    <ItemSpec id="124" cost="88" offline_reward="630024" />
+    <ItemSpec id="125" cost="88" reward="637024" offline_reward="630024" />
+    <ItemSpec id="126" cost="92" offline_reward="630025" />
+    <ItemSpec id="127" cost="92" offline_reward="630025" />
+    <ItemSpec id="128" cost="92" offline_reward="630025" />
+    <ItemSpec id="129" cost="92" offline_reward="630025" />
+    <ItemSpec id="130" cost="92" reward="637025" offline_reward="630025" />
+    <ItemSpec id="131" cost="96" offline_reward="630026" />
+    <ItemSpec id="132" cost="96" offline_reward="630026" />
+    <ItemSpec id="133" cost="96" offline_reward="630026" />
+    <ItemSpec id="134" cost="96" offline_reward="630026" />
+    <ItemSpec id="135" cost="96" reward="637026" offline_reward="630026" />
+    <ItemSpec id="136" cost="100" offline_reward="630027" />
+    <ItemSpec id="137" cost="100" offline_reward="630027" />
+    <ItemSpec id="138" cost="100" offline_reward="630027" />
+    <ItemSpec id="139" cost="100" offline_reward="630027" />
+    <ItemSpec id="140" cost="100" reward="637027" offline_reward="630027" />
+    <ItemSpec id="141" cost="104" offline_reward="630028" />
+    <ItemSpec id="142" cost="104" offline_reward="630028" />
+    <ItemSpec id="143" cost="104" offline_reward="630028" />
+    <ItemSpec id="144" cost="104" offline_reward="630028" />
+    <ItemSpec id="145" cost="104" reward="637028" offline_reward="630028" />
+    <ItemSpec id="146" cost="108" offline_reward="630029" />
+    <ItemSpec id="147" cost="108" offline_reward="630029" />
+    <ItemSpec id="148" cost="108" offline_reward="630029" />
+    <ItemSpec id="149" cost="108" offline_reward="630029" />
+    <ItemSpec id="150" cost="108" reward="637029" offline_reward="630029" />
+    <ItemSpec id="151" cost="112" offline_reward="630030" />
+    <ItemSpec id="152" cost="112" offline_reward="630030" />
+    <ItemSpec id="153" cost="112" offline_reward="630030" />
+    <ItemSpec id="154" cost="112" offline_reward="630030" />
+    <ItemSpec id="155" cost="112" reward="637030" offline_reward="630030" />
+    <ItemSpec id="156" cost="116" offline_reward="630031" />
+    <ItemSpec id="157" cost="116" offline_reward="630031" />
+    <ItemSpec id="158" cost="116" offline_reward="630031" />
+    <ItemSpec id="159" cost="116" offline_reward="630031" />
+    <ItemSpec id="160" cost="116" reward="637031" offline_reward="630031" />
+    <ItemSpec id="161" cost="120" offline_reward="630032" />
+    <ItemSpec id="162" cost="120" offline_reward="630032" />
+    <ItemSpec id="163" cost="120" offline_reward="630032" />
+    <ItemSpec id="164" cost="120" offline_reward="630032" />
+    <ItemSpec id="165" cost="120" reward="637032" offline_reward="630032" />
+    <ItemSpec id="166" cost="124" offline_reward="630033" />
+    <ItemSpec id="167" cost="124" offline_reward="630033" />
+    <ItemSpec id="168" cost="124" offline_reward="630033" />
+    <ItemSpec id="169" cost="124" offline_reward="630033" />
+    <ItemSpec id="170" cost="124" reward="637033" offline_reward="630033" />
+    <ItemSpec id="171" cost="128" offline_reward="630034" />
+    <ItemSpec id="172" cost="128" offline_reward="630034" />
+    <ItemSpec id="173" cost="128" offline_reward="630034" />
+    <ItemSpec id="174" cost="128" offline_reward="630034" />
+    <ItemSpec id="175" cost="128" reward="637034" offline_reward="630034" />
+    <ItemSpec id="176" cost="132" offline_reward="630035" />
+    <ItemSpec id="177" cost="132" offline_reward="630035" />
+    <ItemSpec id="178" cost="132" offline_reward="630035" />
+    <ItemSpec id="179" cost="132" offline_reward="630035" />
+    <ItemSpec id="180" cost="132" reward="637035" offline_reward="630035" />
+    <ItemSpec id="181" cost="136" offline_reward="630036" />
+    <ItemSpec id="182" cost="136" offline_reward="630036" />
+    <ItemSpec id="183" cost="136" offline_reward="630036" />
+    <ItemSpec id="184" cost="136" offline_reward="630036" />
+    <ItemSpec id="185" cost="136" reward="637036" offline_reward="630036" />
+    <ItemSpec id="186" cost="140" offline_reward="630037" />
+    <ItemSpec id="187" cost="140" offline_reward="630037" />
+    <ItemSpec id="188" cost="140" offline_reward="630037" />
+    <ItemSpec id="189" cost="140" offline_reward="630037" />
+    <ItemSpec id="190" cost="140" reward="637037" offline_reward="630037" />
+    <ItemSpec id="191" cost="144" offline_reward="630038" />
+    <ItemSpec id="192" cost="144" offline_reward="630038" />
+    <ItemSpec id="193" cost="144" offline_reward="630038" />
+    <ItemSpec id="194" cost="144" offline_reward="630038" />
+    <ItemSpec id="195" cost="144" reward="637038" offline_reward="630038" />
+    <ItemSpec id="196" cost="148" offline_reward="630039" />
+    <ItemSpec id="197" cost="148" offline_reward="630039" />
+    <ItemSpec id="198" cost="148" offline_reward="630039" />
+    <ItemSpec id="199" cost="148" offline_reward="630039" />
+    <ItemSpec id="200" cost="148" reward="637039" offline_reward="630039" />
+</Group >
+
+</tns:database>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="season_vehicle">
+ 	<!-- 水战赛季载具表 -->
+    <ItemSpec id="1001" type="1" name="112120001" desc="112120004" color="3" vehicle_pic="sz_cw_linshitu1" vehicle_icon="sz_cw_linshitu1"/>
+    <ItemSpec id="2001" type="2" name="112120002" desc="112120005" color="4" vehicle_pic="sz_cw_linshitu2" vehicle_icon="sz_cw_linshitu2"/>
+    <ItemSpec id="3001" type="3" name="112120003" desc="112120006" color="5" vehicle_pic="sz_cw_linshitu3" vehicle_icon="sz_cw_linshitu3"/>
+	
+  </Group>
+</tns:database>

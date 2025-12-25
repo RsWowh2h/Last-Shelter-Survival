@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<Group id="lucky_star_event">
+
+		<!-- 星际皮肤舱活动内显示&入口spine&拍脸图-->
+		<!-- 备注：前端id需要和后端id对应 -->
+
+		<ItemSpec id="250321" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="20|-25|1" second_pool_reward="-30|-60|0.7" third_pool_reward="1|-80|0.8" pool_detail="1|1|1" popup_spine="221050;1|-80|1.2" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1" />
+
+		<ItemSpec id="25032601" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="20|-25|1" second_pool_reward="1|-80|0.8" third_pool_reward="1|-100|0.5" pool_detail="1|1|1" popup_spine="221050;1|-80|1.2" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1" />
+
+		<ItemSpec id="25033101" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="20|-25|1" second_pool_reward="1|-80|0.8" third_pool_reward="1|-90|0.5" pool_detail="1|1|1" popup_spine="221050;1|-80|1.2" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1" />
+
+		<ItemSpec id="25041101" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-100|0.6" second_pool_reward="1|-100|0.7" third_pool_reward="1|-100|0.75" pool_detail="1|1|1" popup_spine="221050;1|-80|0.8" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1" />
+
+		<ItemSpec id="25042401" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-100|0.6" second_pool_reward="1|-100|0.7" third_pool_reward="1|-100|0.75" pool_detail="1|1|1" popup_spine="221050;1|-80|0.8" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1" />
+
+		<ItemSpec id="25050201" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-100|0.6" second_pool_reward="1|-100|0.7" third_pool_reward="1|-100|0.75" pool_detail="1|1|1" popup_spine="221050;1|-80|0.8" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1" />
+
+		<ItemSpec id="25060601" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-100|0.6" second_pool_reward="1|-100|0.7" third_pool_reward="1|-100|0.75" pool_detail="1|1|1" popup_spine="221050;1|-80|0.8" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1" />
+
+		<ItemSpec id="25070301" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1" />
+		<ItemSpec id="25072901" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25080701" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25081401" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25082101" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25082801" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25090401" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25091101" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25091801" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25092501" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25100201" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25100901" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25101601" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25102301" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25103001" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25110601" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25111301" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25111302" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25112001" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25112002" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25112701" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25112702" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25120401" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25120402" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25121101" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="25121801" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+
+	</Group>
+</tns:database>

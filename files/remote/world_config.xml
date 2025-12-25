@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="world_config">
+		<ItemSpec id="1" server="-1" type="0" size="1201" zone_size="0-26;27-100;101-200;201-400;401-600" zone_name="110022054;90600265;90600264;90600263;90600262" tmx_file="WorldMap.tmx" tmx_boundary ="WorldMap1.tmx" />
+	    <ItemSpec id="2" server="900003-900030;900034-900039;900042-900053;900100" type="1" size="1601" zone_size="0-26;27-200;201-400;401-700;701-800" zone_name="110022054;90600265;90600264;90600263;90600262" tmx_file="EdenWorldMap.tmx" tmx_boundary ="Eden_boundary.tmx" map_route="UI_Line_map_1600.png" />
+     <ItemSpec id="4" server="900001;900031-900033;900054;900055" type="2" size="1601" zone_size="0-26;27-200;201-400;401-700;701-800" zone_name="110022054;90600265;90600264;90600263;90600262" tmx_file="EdenWorldMap.tmx" tmx_boundary ="Eden_boundary.tmx" map_route="Map_NS.png" />
+    <ItemSpec id="6" type="1" size="1601" zone_size="0-26;27-200;201-400;401-700;701-800" zone_name="110022054;90600265;90600264;90600263;90600262" tmx_file="EdenWorldMap.tmx" tmx_boundary ="Eden_boundary.tmx" map_route="UI_Eden_map_new.png" />
+    <ItemSpec id="5" server="900298-900399;2500-2900" type="3" size="1201" zone_size="0-30;31-100;101-200;201-400;401-600" zone_name="110022054;90600265;90600264;90600263;90600262" tmx_file="WorldMap.tmx" tmx_boundary ="WorldMap1.tmx"  circle_edge="5|25|30" circle3_ground="26-30" />
+    <ItemSpec id="7" type="4" size="1601" zone_size="0-26;27-200;201-400;401-700;701-800" zone_name="110022054;90600265;90600264;90600263;90600262" tmx_file="EdenWorldMap.tmx" tmx_boundary ="Eden_boundary.tmx" map_route="minimap_4region.png" />
+      <ItemSpec id="8" type="5" size="1201" zone_size="0-30;31-100;101-200;201-400;401-600" zone_name="110022054;90600265;90600264;90600263;90600262" tmx_file="WorldMap.tmx" tmx_boundary ="WorldMap1.tmx" map_route="minimap_Flaginsertion.png" />
+    <ItemSpec id="9" type="5" size="1201" zone_size="0-30;31-100;101-200;201-400;401-600" zone_name="110022054;90600265;90600264;90600263;90600262" tmx_file="WorldMap.tmx" tmx_boundary ="WorldMap1.tmx" map_route="minimap_Flaginsertion2.png" />
+       <ItemSpec id="10" type="11" size="22" tmx_file="Moba.tmx" tmx_boundary ="Moba1.tmx" map_route="minimap_Flaginsertion2.png" />
+    <ItemSpec id="11"  type="2" size="1601" zone_size="0-26;27-200;201-400;401-700;701-800" zone_name="110022054;90600265;90600264;90600263;90600262" tmx_file="EdenWorldMap.tmx" tmx_boundary ="Eden_boundary.tmx" map_route="NewMap_NS.png" />
+    <ItemSpec id="99" server="900400" type="99" size="201" zone_size="0-40;41-100;101-101;101-101;101-101" zone_name="110022054;90600265;90600264;90600263;90600262" tmx_file="tile_map_201.tmx" tmx_boundary ="tile_map_201_boundary.tmx" map_route="MiniMapBg_kingsbattle.png" zone_middle="0-10" />
+
+   
+    <ItemSpec id="12" type="5" size="1201" zone_size="0-30;31-100;101-200;201-400;401-600" zone_name="110022054;90600265;90600264;90600263;90600262" tmx_file="WorldMap.tmx" tmx_boundary ="WorldMap1.tmx" map_route="minimap_Flaginsertion3.png" />
+    <ItemSpec id="13"  type="2" size="1601" zone_size="0-26;27-200;201-400;401-700;701-800" zone_name="110022054;90600265;90600264;90600263;90600262" tmx_file="EdenWorldMap.tmx" tmx_boundary ="Eden_boundary.tmx" map_route="Map_NS_One.png" />
+
+    <ItemSpec id="14" type="4" size="1601" zone_size="0-26;27-200;201-400;401-700;701-800" zone_name="110022054;90600265;90600264;90600263;90600262" tmx_file="EdenWorldMap.tmx" tmx_boundary ="Eden_boundary.tmx" map_route="minimap_4regioncold.png" />
+    <ItemSpec id="16" type="98" size="61" zone_size="0-61;0-0;0-0;0-0;0-0" zone_name="110022054;90600265;90600264;90600263;90600262" tmx_file="fortress_map.tmx" tmx_boundary ="ftmap_boundary.tmx" map_route="minimap_4regioncold.png" zone_middle="0-5" />
+
+<ItemSpec id="17" type="12" size="1601" zone_size="0-26;27-200;201-400;401-700;701-800" zone_name="110022054;90600265;90600264;90600263;90600262" tmx_file="EdenWorldMap.tmx" tmx_boundary ="Eden_boundary.tmx" map_route="minimap_gaodi.png" />
+    <ItemSpec id="18" type="101" size="1601" zone_size="0-26;27-200;201-400;401-700;701-800" zone_name="110022054;90600265;90600264;90600263;90600262" tmx_file="EdenWorldMap.tmx" tmx_boundary ="Eden_boundary.tmx" map_route="NewMap_NSwater" />
+
+    <ItemSpec id="19" type="102" size="1601" zone_size="0-26;27-200;201-400;401-700;701-800" zone_name="110022054;90600265;90600264;90600263;90600262" tmx_file="EdenWorldMap.tmx" tmx_boundary ="Eden_boundary.tmx" map_route="Map_NS_Two" />
+
+    <ItemSpec id="20" type="103" size="1601" zone_size="0-26;27-200;201-400;401-700;701-800" zone_name="110022054;90600265;90600264;90600263;90600262" tmx_file="EdenWorldMap.tmx" tmx_boundary ="Eden_boundary.tmx" map_route="NewMap_NSwaterpro" />
+    <ItemSpec id="21" type="104" size="1601" zone_size="0-26;27-200;201-400;401-700;701-800" zone_name="110022054;90600265;90600264;90600263;90600262" tmx_file="EdenWorldMap.tmx" tmx_boundary ="Eden_boundary.tmx" map_route="Map_NS_Three" />
+
+
+
+	</Group>
+
+</tns:database>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="forces_task_data">
+
+    <ItemSpec id="1000011" name="110256235" type2="135" para1="211214" para2="1" dialog_para="1;150000"/>
+    <ItemSpec id="1000012" name="110256235" type2="135" para1="211214" para2="1" dialog_para="1;250000"/>
+    <ItemSpec id="1000013" name="110256235" type2="135" para1="211214" para2="1" dialog_para="1;500000"/>
+    <ItemSpec id="1000014" name="110256236" type2="135" para1="211213" para2="1" dialog_para="1;150000"/>
+    <ItemSpec id="1000015" name="110256236" type2="135" para1="211213" para2="1" dialog_para="1;250000" />
+    <ItemSpec id="1000016" name="110256236" type2="135" para1="211213" para2="1" dialog_para="1;500000" />
+    <ItemSpec id="1000017" name="110256237" type2="135" para1="215204" para2="1" dialog_para="1;1000" />
+    <ItemSpec id="1000018" name="110256237" type2="135" para1="215204" para2="1" dialog_para="1;1500" />
+    <ItemSpec id="1000019" name="110256237" type2="135" para1="215204" para2="1" dialog_para="1;2000" />
+    <ItemSpec id="1000020" name="110256238" type2="500" para1="211214" para2="100000" dialog_para="100000" />
+    <ItemSpec id="1000021" name="110256238" type2="500" para1="211214" para2="150000" dialog_para="150000" />
+    <ItemSpec id="1000022" name="110256238" type2="500" para1="211214" para2="300000" dialog_para="300000" />
+    <ItemSpec id="1000023" name="110256239" type2="500" para1="211213" para2="100000" dialog_para="100000" />
+    <ItemSpec id="1000024" name="110256239" type2="500" para1="211213" para2="150000" dialog_para="150000" />
+    <ItemSpec id="1000025" name="110256239" type2="500" para1="211213" para2="300000" dialog_para="300000" />
+    <ItemSpec id="1000026" name="110256240" type2="500" para1="215204" para2="500" dialog_para="500" />
+    <ItemSpec id="1000027" name="110256240" type2="500" para1="215204" para2="1000" dialog_para="1000" />
+    <ItemSpec id="1000028" name="110256240" type2="500" para1="215204" para2="1500" dialog_para="1500" />
+    <ItemSpec id="1000029" name="90600744" type2="127" para2="1" dialog_para="1" />
+    <ItemSpec id="1000030" name="90600744" type2="127" para2="3" dialog_para="3" />
+    <ItemSpec id="1000031" name="90600744" type2="127" para2="5" dialog_para="5" />
+    <ItemSpec id="1000032" name="110255813" type2="176" para2="200000" dialog_para="9;200000" />
+    <ItemSpec id="1000033" name="110255813" type2="176" para2="400000" dialog_para="9;400000" />
+    <ItemSpec id="1000034" name="110255813" type2="176" para2="1000000" dialog_para="9;1000000" />
+    <ItemSpec id="1000035" name="90600745" type2="128" para2="1" dialog_para="1" />
+    <ItemSpec id="1000036" name="90600745" type2="128" para2="3" dialog_para="3" />
+    <ItemSpec id="1000037" name="90600745" type2="128" para2="5" dialog_para="5" />
+    <ItemSpec id="1000038" name="90500362" type2="94" para2="1" dialog_para="1" />
+    <ItemSpec id="1000039" name="90500362" type2="94" para2="3" dialog_para="3" />
+    <ItemSpec id="1000040" name="90500362" type2="94" para2="5" dialog_para="5" />
+    <ItemSpec id="1000041" name="110256241" type2="217" para2="2" dialog_para="2" />
+    <ItemSpec id="1000042" name="110256241" type2="217" para2="4" dialog_para="4" />
+    <ItemSpec id="1000043" name="110256241" type2="217" para2="6" dialog_para="6" />
+    <ItemSpec id="1000044" name="800026" type2="92" para2="5000" dialog_para="5000" />
+    <ItemSpec id="1000045" name="800026" type2="92" para2="10000" dialog_para="10000" />
+    <ItemSpec id="1000046" name="800026" type2="92" para2="20000" dialog_para="20000" />
+    <ItemSpec id="1000047" name="800027" type2="92" para2="5000" dialog_para="5000" />
+    <ItemSpec id="1000048" name="800027" type2="92" para2="10000" dialog_para="10000" />
+    <ItemSpec id="1000049" name="800027" type2="92" para2="20000" dialog_para="20000" />
+    <ItemSpec id="1000050" name="800028" type2="92" para2="5000" dialog_para="5000" />
+    <ItemSpec id="1000051" name="800028" type2="92" para2="10000" dialog_para="10000" />
+    <ItemSpec id="1000052" name="800028" type2="92" para2="20000" dialog_para="20000" />
+    <ItemSpec id="1000053" name="800086" type2="100" para2="1" dialog_para="1" />
+    <ItemSpec id="1000054" name="800086" type2="100" para2="3" dialog_para="3" />
+    <ItemSpec id="1000055" name="800086" type2="100" para2="6" dialog_para="6" />
+    <ItemSpec id="1000056" name="800019" type2="89" para2="300" dialog_para="300" />
+    <ItemSpec id="1000057" name="800019" type2="89" para2="600" dialog_para="600" />
+    <ItemSpec id="1000058" name="800019" type2="89" para2="1200" dialog_para="1200" />
+    <ItemSpec id="1000059" name="133131" type2="55" para2="10" dialog_para="10" />
+    <ItemSpec id="1000060" name="133131" type2="55" para2="25" dialog_para="25" />
+    <ItemSpec id="1000061" name="133131" type2="55" para2="50" dialog_para="50" />
+    <ItemSpec id="1000062" name="83401167" type2="56" para2="5" dialog_para="5" />
+    <ItemSpec id="1000063" name="83401167" type2="56" para2="10" dialog_para="10" />
+    <ItemSpec id="1000064" name="83401167" type2="56" para2="20" dialog_para="20" />
+    <ItemSpec id="1000065" name="90500370" type2="97" para2="1" dialog_para="1" />
+    <ItemSpec id="1000066" name="90500370" type2="97" para2="3" dialog_para="3" />
+    <ItemSpec id="1000067" name="90500370" type2="97" para2="5" dialog_para="5" />
+
+
+	</Group>
+
+</tns:database>

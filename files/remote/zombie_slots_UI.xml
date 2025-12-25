@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="zombie_slots_UI">
+ 
+ 
+ 
+ 
+    <ItemSpec id="1001" banner_reward="220989|220990|220991|310056|310079" zombie_spine="spine_zombie_bianfu;0;-100;2.6" box_a_spine="spine_zombie_baoxiang|50|50|1" box_b_spine="spine_zombie_yulan|0|0|0.6" buff_spine="spine_zombie_buff|0|0|1" weather_top="spine_zombie_xiayu|0|0|1.0" weather_below="spine_zombie_lianyi|0|0|1.0" store_pic="SS_zuozhan_shangdian" box_c_spine="iconYellowBox|iconYellowBox|iconYellowBox|iconYellowBox|iconYellowBox" zhihuiguan_spine="spine_zombie_zhihuiguan|-230|-200|0.85" rate_lang="110320399" bg_pic="SS_yuye_beijing"/>
+    <ItemSpec id="1002" banner_reward="220989|220990|220991|310056|310079" zombie_spine="spine_zombie_pangsangshi;-120;0;1|spine_zombie_nike;-50;0;1|spine_zombie_sangshinan2;10;-25;1|spine_zombie_sangshinan1;55;0;1|spine_zombie_julisangshi;180;-5;1|spine_zombie_nvsangshi;100;-25;1" box_a_spine="spine_zombie_baoxiang|50|50|1" box_b_spine="spine_zombie_yulan|0|0|0.6" buff_spine="spine_zombie_buff|0|0|1" weather_top="spine_zombie_xiayu|0|0|1.0" weather_below="spine_zombie_lianyi|0|0|1.0" store_pic="SS_zuozhan_shangdian" box_c_spine="iconYellowBox|iconYellowBox|iconYellowBox|iconYellowBox|iconYellowBox" zhihuiguan_spine="spine_zombie_zhihuiguan|-180|-160|0.85" rate_lang="110320399" bg_pic="SS_beijing"/>
+    <ItemSpec id="1003" banner_reward="220989|220990|220991|310056|310079" zombie_spine="spine_zombie_bianfu;0;-100;1.25" box_a_spine="spine_zombie_baoxiang_v2|50|50|1.2" box_b_spine="spine_zombie_rukou|0|0|1.2" buff_spine="spine_zombie_beijingtu|0|0|1" weather_below="spine_zombie_beijingtu|0|0|1" store_pic="SS_zuozhan_shangdian3" box_c_spine="iconRedBox2|iconRedBox2|iconRedBox2|iconRedBox2|iconRedBox2" zhihuiguan_spine="spine_zombie_zhihuiguan|-230|-200|0.85" rate_lang="110320399" bg_pic="SS_yanjiang_beijing"/>
+
+
+
+
+
+
+</Group>
+
+</tns:database>

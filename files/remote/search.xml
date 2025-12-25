@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="search">
+
+    <ItemSpec id="1" search_id="223000" level="1" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" />
+    <ItemSpec id="2" search_id="223001" level="2" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" />
+    <ItemSpec id="3" search_id="223002" level="3" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" />
+    <ItemSpec id="4" search_id="223003" level="4" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" />
+    <ItemSpec id="5" search_id="223004" level="5" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" />
+    <ItemSpec id="6" search_id="223005" level="6" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" />
+    <ItemSpec id="7" search_id="223006" level="7" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" />
+    <ItemSpec id="8" search_id="223007" level="8" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" />
+    <ItemSpec id="9" search_id="223008" level="9" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" />
+    <ItemSpec id="10" search_id="223009" level="10" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" />
+    <ItemSpec id="11" search_id="223010" level="11" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" />
+    <ItemSpec id="12" search_id="223011" level="12" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" />
+    <ItemSpec id="13" search_id="223012" level="13" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" />
+    <ItemSpec id="14" search_id="223013" level="14" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" />
+    <ItemSpec id="15" search_id="223014" level="15" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" />
+    <ItemSpec id="16" search_id="223030" level="1" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" />
+    <ItemSpec id="17" search_id="223031" level="2" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" />
+    <ItemSpec id="18" search_id="223032" level="3" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" />
+    <ItemSpec id="19" search_id="223033" level="4" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" />
+    <ItemSpec id="20" search_id="223034" level="5" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" />
+    <ItemSpec id="21" search_id="223035" level="6" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" />
+    <ItemSpec id="22" search_id="223036" level="7" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" />
+    <ItemSpec id="23" search_id="223037" level="8" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" />
+    <ItemSpec id="24" search_id="223038" level="9" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" />
+    <ItemSpec id="25" search_id="223039" level="10" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" />
+    <ItemSpec id="26" search_id="223040" level="11" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" />
+    <ItemSpec id="27" search_id="223041" level="12" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" />
+    <ItemSpec id="28" search_id="223042" level="13" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" />
+    <ItemSpec id="29" search_id="223043" level="14" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" />
+    <ItemSpec id="30" search_id="223044" level="15" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" />
+    <ItemSpec id="31" search_id="223060" level="1" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" />
+    <ItemSpec id="32" search_id="223061" level="2" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" />
+    <ItemSpec id="33" search_id="223062" level="3" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" />
+    <ItemSpec id="34" search_id="223063" level="4" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" />
+    <ItemSpec id="35" search_id="223064" level="5" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" />
+    <ItemSpec id="36" search_id="223065" level="6" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" />
+    <ItemSpec id="37" search_id="223066" level="7" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" />
+    <ItemSpec id="38" search_id="223067" level="8" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" />
+    <ItemSpec id="39" search_id="223068" level="9" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" />
+    <ItemSpec id="40" search_id="223069" level="10" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" />
+    <ItemSpec id="41" search_id="223070" level="11" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" />
+    <ItemSpec id="42" search_id="223071" level="12" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" />
+    <ItemSpec id="43" search_id="223072" level="13" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" />
+    <ItemSpec id="44" search_id="223073" level="14" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" />
+    <ItemSpec id="45" search_id="223074" level="15" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" />
+    <ItemSpec id="46" search_id="223045" level="1" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" />
+    <ItemSpec id="47" search_id="223046" level="2" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" />
+    <ItemSpec id="48" search_id="223047" level="3" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" />
+    <ItemSpec id="49" search_id="223048" level="4" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" />
+    <ItemSpec id="50" search_id="223049" level="5" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" />
+    <ItemSpec id="51" search_id="223050" level="6" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" />
+    <ItemSpec id="52" search_id="223051" level="7" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" />
+    <ItemSpec id="53" search_id="223052" level="8" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" />
+    <ItemSpec id="54" search_id="223053" level="9" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" />
+    <ItemSpec id="55" search_id="223054" level="10" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" />
+    <ItemSpec id="56" search_id="223055" level="11" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" />
+    <ItemSpec id="57" search_id="223056" level="12" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" />
+    <ItemSpec id="58" search_id="223057" level="13" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" />
+    <ItemSpec id="59" search_id="223058" level="14" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" />
+    <ItemSpec id="60" search_id="223059" level="15" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" />
+    <ItemSpec id="61" search_id="223075" level="1" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" />
+    <ItemSpec id="62" search_id="223076" level="2" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" />
+    <ItemSpec id="63" search_id="223077" level="3" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" />
+    <ItemSpec id="64" search_id="223078" level="4" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" />
+    <ItemSpec id="65" search_id="223079" level="5" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" />
+    <ItemSpec id="66" search_id="223080" level="6" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" />
+    <ItemSpec id="67" search_id="223081" level="7" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" />
+    <ItemSpec id="68" search_id="223082" level="8" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" />
+    <ItemSpec id="69" search_id="223083" level="9" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" />
+    <ItemSpec id="70" search_id="223084" level="10" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" />
+    <ItemSpec id="71" search_id="223085" level="11" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" />
+    <ItemSpec id="72" search_id="223086" level="12" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" />
+    <ItemSpec id="73" search_id="223087" level="13" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" />
+    <ItemSpec id="74" search_id="223088" level="14" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" />
+    <ItemSpec id="75" search_id="223089" level="15" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" />
+    <ItemSpec id="76" search_id="900033" level="1" type="1" subtype="6" special="1" image="icon_sousuoxiaoguai_chouloushenghuaren" />
+    <ItemSpec id="77" search_id="900030" level="5" type="1" subtype="6" special="1" image="icon_sousuoxiaoguai_chouloushenghuaren" />
+    <ItemSpec id="78" search_id="900031" level="10" type="1" subtype="6" special="1" image="icon_sousuoxiaoguai_chouloushenghuaren" />
+    <ItemSpec id="79" search_id="900032" level="15" type="1" subtype="6" special="1" image="icon_sousuoxiaoguai_chouloushenghuaren" />
+    <ItemSpec id="80" search_id="900049" level="20" type="1" subtype="6" special="1" image="icon_sousuoxiaoguai_chouloushenghuaren" />
+    <ItemSpec id="81" search_id="900050" level="25" type="1" subtype="6" special="1" image="icon_sousuoxiaoguai_chouloushenghuaren" />
+    <ItemSpec id="82" search_id="227600" level="1" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="ui_wood" />
+    <ItemSpec id="83" search_id="227601" level="2" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="ui_wood" />
+    <ItemSpec id="84" search_id="227602" level="3" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="ui_wood" />
+    <ItemSpec id="85" search_id="227603" level="4" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="ui_wood" />
+    <ItemSpec id="86" search_id="227604" level="5" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="ui_wood" />
+    <ItemSpec id="87" search_id="227605" level="6" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="ui_wood" />
+    <ItemSpec id="88" search_id="227606" level="7" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="ui_wood" />
+    <ItemSpec id="89" search_id="227607" level="8" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="ui_wood" />
+    <ItemSpec id="90" search_id="227608" level="9" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="ui_wood" />
+    <ItemSpec id="91" search_id="227609" level="10" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="ui_wood" />
+    <ItemSpec id="92" search_id="227700" level="1" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang" res_icon="ui_stone" />
+    <ItemSpec id="93" search_id="227701" level="2" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang" res_icon="ui_stone" />
+    <ItemSpec id="94" search_id="227702" level="3" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang" res_icon="ui_stone" />
+    <ItemSpec id="95" search_id="227703" level="4" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang" res_icon="ui_stone" />
+    <ItemSpec id="96" search_id="227704" level="5" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang" res_icon="ui_stone" />
+    <ItemSpec id="97" search_id="227705" level="6" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang" res_icon="ui_stone" />
+    <ItemSpec id="98" search_id="227706" level="7" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang" res_icon="ui_stone" />
+    <ItemSpec id="99" search_id="227707" level="8" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang" res_icon="ui_stone" />
+    <ItemSpec id="100" search_id="227708" level="9" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang" res_icon="ui_stone" />
+    <ItemSpec id="101" search_id="227709" level="10" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang" res_icon="ui_stone" />
+    <ItemSpec id="102" search_id="227800" level="1" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag" res_icon="ui_iron" />
+    <ItemSpec id="103" search_id="227801" level="2" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag" res_icon="ui_iron" />
+    <ItemSpec id="104" search_id="227802" level="3" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag" res_icon="ui_iron" />
+    <ItemSpec id="105" search_id="227803" level="4" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag" res_icon="ui_iron" />
+    <ItemSpec id="106" search_id="227804" level="5" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag" res_icon="ui_iron" />
+    <ItemSpec id="107" search_id="227805" level="6" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag" res_icon="ui_iron" />
+    <ItemSpec id="108" search_id="227806" level="7" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag" res_icon="ui_iron" />
+    <ItemSpec id="109" search_id="227807" level="8" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag" res_icon="ui_iron" />
+    <ItemSpec id="110" search_id="227808" level="9" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag" res_icon="ui_iron" />
+    <ItemSpec id="111" search_id="227809" level="10" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag" res_icon="ui_iron" />
+    <ItemSpec id="112" search_id="227500" level="1" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian" res_icon="ui_food" />
+    <ItemSpec id="113" search_id="227501" level="2" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian" res_icon="ui_food" />
+    <ItemSpec id="114" search_id="227502" level="3" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian" res_icon="ui_food" />
+    <ItemSpec id="115" search_id="227503" level="4" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian" res_icon="ui_food" />
+    <ItemSpec id="116" search_id="227504" level="5" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian" res_icon="ui_food" />
+    <ItemSpec id="117" search_id="227505" level="6" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian" res_icon="ui_food" />
+    <ItemSpec id="118" search_id="227506" level="7" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian" res_icon="ui_food" />
+    <ItemSpec id="119" search_id="227507" level="8" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian" res_icon="ui_food" />
+    <ItemSpec id="120" search_id="227508" level="9" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian" res_icon="ui_food" />
+    <ItemSpec id="121" search_id="227509" level="10" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian" res_icon="ui_food" />
+    <ItemSpec id="122" search_id="227900" level="1" type="2" subtype="5" special="1" image="icon_sousuoxiaoguai_zuanshichnag" res_icon="UI_Diamonds" />
+    <ItemSpec id="123" search_id="227901" level="2" type="2" subtype="5" special="1" image="icon_sousuoxiaoguai_zuanshichnag" res_icon="UI_Diamonds" />
+    <ItemSpec id="124" search_id="227902" level="3" type="2" subtype="5" special="1" image="icon_sousuoxiaoguai_zuanshichnag" res_icon="UI_Diamonds" />
+    <ItemSpec id="125" search_id="227903" level="4" type="2" subtype="5" special="1" image="icon_sousuoxiaoguai_zuanshichnag" res_icon="UI_Diamonds" />
+    <ItemSpec id="126" search_id="227904" level="5" type="2" subtype="5" special="1" image="icon_sousuoxiaoguai_zuanshichnag" res_icon="UI_Diamonds" />
+    <ItemSpec id="127" search_id="227905" level="6" type="2" subtype="5" special="1" image="icon_sousuoxiaoguai_zuanshichnag" res_icon="UI_Diamonds" />
+    <ItemSpec id="128" search_id="227906" level="7" type="2" subtype="5" special="1" image="icon_sousuoxiaoguai_zuanshichnag" res_icon="UI_Diamonds" />
+    <ItemSpec id="129" search_id="920000" level="10" type="1" subtype="7" image="icon_sousuoxiaoguai_xiaochou" />
+    <ItemSpec id="160" search_id="930006" level="6" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe"/>
+    <ItemSpec id="161" search_id="930007" level="7" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe"/>
+    <ItemSpec id="162" search_id="930008" level="8" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe"/>
+    <ItemSpec id="163" search_id="930009" level="9" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe"/>
+    <ItemSpec id="164" search_id="930010" level="10" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe"/>
+    <ItemSpec id="165" search_id="930011" level="11" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe"/>
+    <ItemSpec id="166" search_id="930012" level="12" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe"/>
+    <ItemSpec id="167" search_id="930013" level="13" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe"/>
+    <ItemSpec id="168" search_id="930014" level="14" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe"/>
+    <ItemSpec id="169" search_id="930015" level="15" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe"/>
+
+
+    <!--30级怪物-->
+		<ItemSpec id="170" search_id="900051" level="30" type="1" subtype="6" image="icon_sousuoxiaoguai_chouloushenghuaren" special="1"/>
+		<ItemSpec id="171" search_id="900052" level="35" type="1" subtype="6" image="icon_sousuoxiaoguai_chouloushenghuaren" special="1"/>
+    <ItemSpec id="520" search_id="223300" level="16" type="1" subtype="11" image="icon_sousuoxiaoguai_magenusi" res_icon="ui_titanium_max" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="521" search_id="223301" level="17" type="1" subtype="11" image="icon_sousuoxiaoguai_magenusi" res_icon="ui_titanium_max" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="522" search_id="223302" level="18" type="1" subtype="11" image="icon_sousuoxiaoguai_magenusi" res_icon="ui_titanium_max" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="523" search_id="223303" level="19" type="1" subtype="11" image="icon_sousuoxiaoguai_magenusi" res_icon="ui_titanium_max" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="524" search_id="223304" level="20" type="1" subtype="11" image="icon_sousuoxiaoguai_magenusi" res_icon="ui_titanium_max" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="525" search_id="223305" level="21" type="1" subtype="11" image="icon_sousuoxiaoguai_magenusi" res_icon="ui_titanium_max" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="526" search_id="223306" level="22" type="1" subtype="11" image="icon_sousuoxiaoguai_magenusi" res_icon="ui_titanium_max" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="527" search_id="223307" level="23" type="1" subtype="11" image="icon_sousuoxiaoguai_magenusi" res_icon="ui_titanium_max" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="528" search_id="223308" level="24" type="1" subtype="11" image="icon_sousuoxiaoguai_magenusi" res_icon="ui_titanium_max" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="529" search_id="223309" level="25" type="1" subtype="11" image="icon_sousuoxiaoguai_magenusi" res_icon="ui_titanium_max" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="530" search_id="223200" level="16" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="531" search_id="223201" level="17" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="532" search_id="223202" level="18" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="533" search_id="223203" level="19" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="534" search_id="223204" level="20" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="535" search_id="223205" level="21" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="536" search_id="223206" level="22" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="537" search_id="223207" level="23" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="538" search_id="223208" level="24" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="539" search_id="223209" level="25" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="540" search_id="223210" level="16" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="541" search_id="223211" level="17" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="542" search_id="223212" level="18" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="543" search_id="223213" level="19" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="544" search_id="223214" level="20" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="545" search_id="223215" level="21" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="546" search_id="223216" level="22" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="547" search_id="223217" level="23" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="548" search_id="223218" level="24" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="549" search_id="223219" level="25" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="550" search_id="223220" level="16" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="551" search_id="223221" level="17" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="552" search_id="223222" level="18" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="553" search_id="223223" level="19" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="554" search_id="223224" level="20" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="555" search_id="223225" level="21" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="556" search_id="223226" level="22" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="557" search_id="223227" level="23" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="558" search_id="223228" level="24" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="559" search_id="223229" level="25" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newChapter" unlock_effect="60410" />
+    <ItemSpec id="560" search_id="223230" level="16" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newChapter" unlock_effect="60410"/>
+    <ItemSpec id="561" search_id="223231" level="17" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newChapter" unlock_effect="60410"/>
+    <ItemSpec id="562" search_id="223232" level="18" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newChapter" unlock_effect="60410"/>
+    <ItemSpec id="563" search_id="223233" level="19" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newChapter" unlock_effect="60410"/>
+    <ItemSpec id="564" search_id="223234" level="20" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newChapter" unlock_effect="60410"/>
+    <ItemSpec id="565" search_id="223235" level="21" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newChapter" unlock_effect="60410"/>
+    <ItemSpec id="566" search_id="223236" level="22" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newChapter" unlock_effect="60410"/>
+    <ItemSpec id="567" search_id="223237" level="23" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newChapter" unlock_effect="60410"/>
+    <ItemSpec id="568" search_id="223238" level="24" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newChapter" unlock_effect="60410"/>
+    <ItemSpec id="569" search_id="223239" level="25" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newChapter" unlock_effect="60410"/>
+    <ItemSpec id="570" search_id="223240" level="16" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newChapter" unlock_effect="60410"/>
+    <ItemSpec id="571" search_id="223241" level="17" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newChapter" unlock_effect="60410"/>
+    <ItemSpec id="572" search_id="223242" level="18" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newChapter" unlock_effect="60410"/>
+    <ItemSpec id="573" search_id="223243" level="19" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newChapter" unlock_effect="60410"/>
+    <ItemSpec id="574" search_id="223244" level="20" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newChapter" unlock_effect="60410"/>
+    <ItemSpec id="575" search_id="223245" level="21" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newChapter" unlock_effect="60410"/>
+    <ItemSpec id="576" search_id="223246" level="22" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newChapter" unlock_effect="60410"/>
+    <ItemSpec id="577" search_id="223247" level="23" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newChapter" unlock_effect="60410"/>
+    <ItemSpec id="578" search_id="223248" level="24" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newChapter" unlock_effect="60410"/>
+    <ItemSpec id="579" search_id="223249" level="25" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newChapter" unlock_effect="60410"/>
+    <ItemSpec id="580" search_id="223250" level="16" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="mecha_refit" unlock_effect="60410" />
+    <ItemSpec id="581" search_id="223251" level="17" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="mecha_refit" unlock_effect="60410" />
+    <ItemSpec id="582" search_id="223252" level="18" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="mecha_refit" unlock_effect="60410" />
+    <ItemSpec id="583" search_id="223253" level="19" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="mecha_refit" unlock_effect="60410" />
+    <ItemSpec id="584" search_id="223254" level="20" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="mecha_refit" unlock_effect="60410" />
+    <ItemSpec id="585" search_id="223255" level="21" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="mecha_refit" unlock_effect="60410" />
+    <ItemSpec id="586" search_id="223256" level="22" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="mecha_refit" unlock_effect="60410" />
+    <ItemSpec id="587" search_id="223257" level="23" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="mecha_refit" unlock_effect="60410" />
+    <ItemSpec id="588" search_id="223258" level="24" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="mecha_refit" unlock_effect="60410" />
+    <ItemSpec id="589" search_id="223259" level="25" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="mecha_refit" unlock_effect="60410" />
+		<ItemSpec id="1101" search_id="225101" level="26" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1102" search_id="225102" level="27" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1103" search_id="225103" level="28" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1104" search_id="225104" level="29" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1105" search_id="225105" level="30" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1201" search_id="225201" level="26" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1202" search_id="225202" level="27" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1203" search_id="225203" level="28" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1204" search_id="225204" level="29" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1205" search_id="225205" level="30" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1301" search_id="225301" level="26" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1302" search_id="225302" level="27" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1303" search_id="225303" level="28" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1304" search_id="225304" level="29" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1305" search_id="225305" level="30" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1401" search_id="225401" level="26" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1402" search_id="225402" level="27" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1403" search_id="225403" level="28" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1404" search_id="225404" level="29" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1405" search_id="225405" level="30" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1501" search_id="225501" level="26" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1502" search_id="225502" level="27" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1503" search_id="225503" level="28" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1504" search_id="225504" level="29" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1505" search_id="225505" level="30" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1601" search_id="225601" level="26" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1602" search_id="225602" level="27" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1603" search_id="225603" level="28" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1604" search_id="225604" level="29" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1605" search_id="225605" level="30" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1701" search_id="225701" level="26" type="1" subtype="11" image="icon_sousuoxiaoguai_magenusi" res_icon="ui_titanium_max" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1702" search_id="225702" level="27" type="1" subtype="11" image="icon_sousuoxiaoguai_magenusi" res_icon="ui_titanium_max" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1703" search_id="225703" level="28" type="1" subtype="11" image="icon_sousuoxiaoguai_magenusi" res_icon="ui_titanium_max" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1704" search_id="225704" level="29" type="1" subtype="11" image="icon_sousuoxiaoguai_magenusi" res_icon="ui_titanium_max" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="1705" search_id="225705" level="30" type="1" subtype="11" image="icon_sousuoxiaoguai_magenusi" res_icon="ui_titanium_max" function_on="newChapter" unlock_effect="60410"/>
+		<ItemSpec id="31016" search_id="231016" level="16" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newserver_monster"/>
+		<ItemSpec id="31017" search_id="231017" level="17" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newserver_monster"/>
+		<ItemSpec id="31018" search_id="231018" level="18" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newserver_monster"/>
+		<ItemSpec id="31019" search_id="231019" level="19" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newserver_monster"/>
+		<ItemSpec id="31020" search_id="231020" level="20" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newserver_monster"/>
+		<ItemSpec id="31021" search_id="231021" level="21" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newserver_monster"/>
+		<ItemSpec id="31022" search_id="231022" level="22" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newserver_monster"/>
+		<ItemSpec id="31023" search_id="231023" level="23" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newserver_monster"/>
+		<ItemSpec id="31024" search_id="231024" level="24" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newserver_monster"/>
+		<ItemSpec id="31025" search_id="231025" level="25" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi" res_icon="icon_free_money" function_on="newserver_monster"/>
+		<ItemSpec id="32016" search_id="232016" level="16" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newserver_monster"/>
+		<ItemSpec id="32017" search_id="232017" level="17" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newserver_monster"/>
+		<ItemSpec id="32018" search_id="232018" level="18" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newserver_monster"/>
+		<ItemSpec id="32019" search_id="232019" level="19" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newserver_monster"/>
+		<ItemSpec id="32020" search_id="232020" level="20" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newserver_monster"/>
+		<ItemSpec id="32021" search_id="232021" level="21" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newserver_monster"/>
+		<ItemSpec id="32022" search_id="232022" level="22" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newserver_monster"/>
+		<ItemSpec id="32023" search_id="232023" level="23" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newserver_monster"/>
+		<ItemSpec id="32024" search_id="232024" level="24" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newserver_monster"/>
+		<ItemSpec id="32025" search_id="232025" level="25" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_food" function_on="newserver_monster"/>
+		<ItemSpec id="33016" search_id="234016" level="16" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newserver_monster"/>
+		<ItemSpec id="33017" search_id="234017" level="17" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newserver_monster"/>
+		<ItemSpec id="33018" search_id="234018" level="18" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newserver_monster"/>
+		<ItemSpec id="33019" search_id="234019" level="19" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newserver_monster"/>
+		<ItemSpec id="33020" search_id="234020" level="20" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newserver_monster"/>
+		<ItemSpec id="33021" search_id="234021" level="21" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newserver_monster"/>
+		<ItemSpec id="33022" search_id="234022" level="22" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newserver_monster"/>
+		<ItemSpec id="33023" search_id="234023" level="23" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newserver_monster"/>
+		<ItemSpec id="33024" search_id="234024" level="24" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newserver_monster"/>
+		<ItemSpec id="33025" search_id="234025" level="25" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou" res_icon="ui_iron" function_on="newserver_monster"/>
+		<ItemSpec id="34016" search_id="233016" level="16" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newserver_monster"/>
+		<ItemSpec id="34017" search_id="233017" level="17" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newserver_monster"/>
+		<ItemSpec id="34018" search_id="233018" level="18" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newserver_monster"/>
+		<ItemSpec id="34019" search_id="233019" level="19" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newserver_monster"/>
+		<ItemSpec id="34020" search_id="233020" level="20" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newserver_monster"/>
+		<ItemSpec id="34021" search_id="233021" level="21" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newserver_monster"/>
+		<ItemSpec id="34022" search_id="233022" level="22" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newserver_monster"/>
+		<ItemSpec id="34023" search_id="233023" level="23" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newserver_monster"/>
+		<ItemSpec id="34024" search_id="233024" level="24" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newserver_monster"/>
+		<ItemSpec id="34025" search_id="233025" level="25" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_wood" function_on="newserver_monster"/>
+		<ItemSpec id="35016" search_id="235016" level="16" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newserver_monster"/>
+		<ItemSpec id="35017" search_id="235017" level="17" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newserver_monster"/>
+		<ItemSpec id="35018" search_id="235018" level="18" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newserver_monster"/>
+		<ItemSpec id="35019" search_id="235019" level="19" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newserver_monster"/>
+		<ItemSpec id="35020" search_id="235020" level="20" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newserver_monster"/>
+		<ItemSpec id="35021" search_id="235021" level="21" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newserver_monster"/>
+		<ItemSpec id="35022" search_id="235022" level="22" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newserver_monster"/>
+		<ItemSpec id="35023" search_id="235023" level="23" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newserver_monster"/>
+		<ItemSpec id="35024" search_id="235024" level="24" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newserver_monster"/>
+		<ItemSpec id="35025" search_id="235025" level="25" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="ui_stone" function_on="newserver_monster"/>
+		<ItemSpec id="36016" search_id="236016" level="16" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="newserver_monster"/>
+		<ItemSpec id="36017" search_id="236017" level="17" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="newserver_monster"/>
+		<ItemSpec id="36018" search_id="236018" level="18" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="newserver_monster"/>
+		<ItemSpec id="36019" search_id="236019" level="19" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="newserver_monster"/>
+		<ItemSpec id="36020" search_id="236020" level="20" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="newserver_monster"/>
+		<ItemSpec id="36021" search_id="236021" level="21" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="newserver_monster"/>
+		<ItemSpec id="36022" search_id="236022" level="22" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="newserver_monster"/>
+		<ItemSpec id="36023" search_id="236023" level="23" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="newserver_monster"/>
+		<ItemSpec id="36024" search_id="236024" level="24" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="newserver_monster"/>
+		<ItemSpec id="36025" search_id="236025" level="25" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe" function_on="newserver_monster"/>
+
+</Group>
+
+    <Group id="search_season_build">
+    <!--颜回-插旗赛季使用-->
+    <ItemSpec id="290" search_id="290015" level="31" type="1" subtype="4" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211207" />
+    <ItemSpec id="291" search_id="290016" level="32" type="1" subtype="4" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211207" />
+    <ItemSpec id="292" search_id="290017" level="33" type="1" subtype="4" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211207" />
+    <ItemSpec id="293" search_id="290018" level="34" type="1" subtype="4" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211207" />
+    <ItemSpec id="294" search_id="290019" level="35" type="1" subtype="4" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211207" />
+    <ItemSpec id="295" search_id="290020" level="36" type="1" subtype="4" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211207" />
+    <ItemSpec id="296" search_id="290021" level="37" type="1" subtype="4" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211207" />
+    <ItemSpec id="297" search_id="290022" level="38" type="1" subtype="4" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211207" />
+    <ItemSpec id="298" search_id="290023" level="39" type="1" subtype="4" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211207" />
+    <ItemSpec id="299" search_id="290024" level="40" type="1" subtype="4" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211207" />
+    <ItemSpec id="300" search_id="290025" level="41" type="1" subtype="4" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211207" />
+    <ItemSpec id="301" search_id="290026" level="42" type="1" subtype="4" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211207" />
+    <ItemSpec id="302" search_id="290027" level="43" type="1" subtype="4" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211207" />
+    <ItemSpec id="303" search_id="290028" level="44" type="1" subtype="4" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211207" />
+    <ItemSpec id="304" search_id="290029" level="45" type="1" subtype="4" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211207" />
+    <ItemSpec id="305" search_id="290030" level="31" type="1" subtype="3" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211210" />
+    <ItemSpec id="306" search_id="290031" level="32" type="1" subtype="3" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211210" />
+    <ItemSpec id="307" search_id="290032" level="33" type="1" subtype="3" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211210" />
+    <ItemSpec id="308" search_id="290033" level="34" type="1" subtype="3" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211210" />
+    <ItemSpec id="309" search_id="290034" level="35" type="1" subtype="3" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211210" />
+    <ItemSpec id="310" search_id="290035" level="36" type="1" subtype="3" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211210" />
+    <ItemSpec id="311" search_id="290036" level="37" type="1" subtype="3" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211210" />
+    <ItemSpec id="312" search_id="290037" level="38" type="1" subtype="3" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211210" />
+    <ItemSpec id="313" search_id="290038" level="39" type="1" subtype="3" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211210" />
+    <ItemSpec id="314" search_id="290039" level="40" type="1" subtype="3" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211210" />
+    <ItemSpec id="315" search_id="290040" level="41" type="1" subtype="3" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211210" />
+    <ItemSpec id="316" search_id="290041" level="42" type="1" subtype="3" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211210" />
+    <ItemSpec id="317" search_id="290042" level="43" type="1" subtype="3" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211210" />
+    <ItemSpec id="318" search_id="290043" level="44" type="1" subtype="3" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211210" />
+    <ItemSpec id="319" search_id="290044" level="45" type="1" subtype="3" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211210" />
+    <ItemSpec id="320" search_id="290045" level="31" type="1" subtype="1" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211209" />
+    <ItemSpec id="321" search_id="290046" level="32" type="1" subtype="1" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211209" />
+    <ItemSpec id="322" search_id="290047" level="33" type="1" subtype="1" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211209" />
+    <ItemSpec id="323" search_id="290048" level="34" type="1" subtype="1" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211209" />
+    <ItemSpec id="324" search_id="290049" level="35" type="1" subtype="1" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211209" />
+    <ItemSpec id="325" search_id="290050" level="36" type="1" subtype="1" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211209" />
+    <ItemSpec id="326" search_id="290051" level="37" type="1" subtype="1" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211209" />
+    <ItemSpec id="327" search_id="290052" level="38" type="1" subtype="1" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211209" />
+    <ItemSpec id="328" search_id="290053" level="39" type="1" subtype="1" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211209" />
+    <ItemSpec id="329" search_id="290054" level="40" type="1" subtype="1" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211209" />
+    <ItemSpec id="330" search_id="290055" level="41" type="1" subtype="1" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211209" />
+    <ItemSpec id="331" search_id="290056" level="42" type="1" subtype="1" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211209" />
+    <ItemSpec id="332" search_id="290057" level="43" type="1" subtype="1" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211209" />
+    <ItemSpec id="333" search_id="290058" level="44" type="1" subtype="1" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211209" />
+    <ItemSpec id="334" search_id="290059" level="45" type="1" subtype="1" image="icon_sousuoxiaoguai_bangqiushou" res_icon="item211209" />
+    <ItemSpec id="335" search_id="290060" level="31" type="1" subtype="2" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211212" />
+    <ItemSpec id="336" search_id="290061" level="32" type="1" subtype="2" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211212" />
+    <ItemSpec id="337" search_id="290062" level="33" type="1" subtype="2" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211212" />
+    <ItemSpec id="338" search_id="290063" level="34" type="1" subtype="2" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211212" />
+    <ItemSpec id="339" search_id="290064" level="35" type="1" subtype="2" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211212" />
+    <ItemSpec id="340" search_id="290065" level="36" type="1" subtype="2" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211212" />
+    <ItemSpec id="341" search_id="290066" level="37" type="1" subtype="2" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211212" />
+    <ItemSpec id="342" search_id="290067" level="38" type="1" subtype="2" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211212" />
+    <ItemSpec id="343" search_id="290068" level="39" type="1" subtype="2" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211212" />
+    <ItemSpec id="344" search_id="290069" level="40" type="1" subtype="2" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211212" />
+    <ItemSpec id="345" search_id="290070" level="41" type="1" subtype="2" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211212" />
+    <ItemSpec id="346" search_id="290071" level="42" type="1" subtype="2" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211212" />
+    <ItemSpec id="347" search_id="290072" level="43" type="1" subtype="2" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211212" />
+    <ItemSpec id="348" search_id="290073" level="44" type="1" subtype="2" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211212" />
+    <ItemSpec id="349" search_id="290074" level="45" type="1" subtype="2" image="icon_sousuoxiaoguai_mutishenghuaren" res_icon="item211212" />
+    <ItemSpec id="350" search_id="290075" level="7" type="2" subtype="211209" image="icon_sousuoxiaoguai_nongchnag" res_icon="item211209" />
+    <ItemSpec id="351" search_id="290076" level="8" type="2" subtype="211209" image="icon_sousuoxiaoguai_nongchnag" res_icon="item211209" />
+    <ItemSpec id="352" search_id="290077" level="9" type="2" subtype="211209" image="icon_sousuoxiaoguai_nongchnag" res_icon="item211209" />
+    <ItemSpec id="353" search_id="290078" level="10" type="2" subtype="211209" image="icon_sousuoxiaoguai_nongchnag" res_icon="item211209" />
+    <ItemSpec id="354" search_id="290079" level="11" type="2" subtype="211209" image="icon_sousuoxiaoguai_nongchnag" res_icon="item211209" />
+    <ItemSpec id="355" search_id="290080" level="12" type="2" subtype="211209" image="icon_sousuoxiaoguai_nongchnag" res_icon="item211209" />
+    <ItemSpec id="360" search_id="290081" level="7" type="2" subtype="211212" image="icon_sousuoxiaoguai_tiechang" res_icon="item211212" />
+    <ItemSpec id="361" search_id="290082" level="8" type="2" subtype="211212" image="icon_sousuoxiaoguai_tiechang" res_icon="item211212" />
+    <ItemSpec id="362" search_id="290083" level="9" type="2" subtype="211212" image="icon_sousuoxiaoguai_tiechang" res_icon="item211212" />
+    <ItemSpec id="363" search_id="290084" level="10" type="2" subtype="211212" image="icon_sousuoxiaoguai_tiechang" res_icon="item211212" />
+    <ItemSpec id="364" search_id="290085" level="11" type="2" subtype="211212" image="icon_sousuoxiaoguai_tiechang" res_icon="item211212" />
+    <ItemSpec id="365" search_id="290086" level="12" type="2" subtype="211212" image="icon_sousuoxiaoguai_tiechang" res_icon="item211212" />
+    <ItemSpec id="370" search_id="290087" level="7" type="2" subtype="211210" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="item211210" />
+    <ItemSpec id="371" search_id="290088" level="8" type="2" subtype="211210" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="item211210" />
+    <ItemSpec id="372" search_id="290089" level="9" type="2" subtype="211210" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="item211210" />
+    <ItemSpec id="373" search_id="290090" level="10" type="2" subtype="211210" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="item211210" />
+    <ItemSpec id="374" search_id="290091" level="11" type="2" subtype="211210" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="item211210" />
+    <ItemSpec id="375" search_id="290092" level="12" type="2" subtype="211210" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="item211210" />
+    <ItemSpec id="380" search_id="290093" level="7" type="2" subtype="211207" image="icon_sousuoxiaoguai_nongtian" res_icon="item211207" />
+    <ItemSpec id="381" search_id="290094" level="8" type="2" subtype="211207" image="icon_sousuoxiaoguai_nongtian" res_icon="item211207" />
+    <ItemSpec id="382" search_id="290095" level="9" type="2" subtype="211207" image="icon_sousuoxiaoguai_nongtian" res_icon="item211207" />
+    <ItemSpec id="383" search_id="290096" level="10" type="2" subtype="211207" image="icon_sousuoxiaoguai_nongtian" res_icon="item211207" />
+    <ItemSpec id="384" search_id="290097" level="11" type="2" subtype="211207" image="icon_sousuoxiaoguai_nongtian" res_icon="item211207" />
+    <ItemSpec id="385" search_id="290098" level="12" type="2" subtype="211207" image="icon_sousuoxiaoguai_nongtian" res_icon="item211207" />
+
+
+
+     <!--繁华-插旗赛季使用boss小丑-->
+        <ItemSpec id="386" search_id="290076" level="30" type="1" subtype="6" special="0" image="icon_sousuoxiaoguai_duchong" />
+        <ItemSpec id="387" search_id="290077" level="35" type="1" subtype="6" special="0" image="icon_sousuoxiaoguai_duchong" />
+        <ItemSpec id="388" search_id="290078" level="40" type="1" subtype="6" special="0" image="icon_sousuoxiaoguai_duchong" />
+        <ItemSpec id="389" search_id="290079" level="45" type="1" subtype="6" special="0" image="icon_sousuoxiaoguai_duchong" />
+        <ItemSpec id="390" search_id="290080" level="50" type="1" subtype="6" special="0" image="icon_sousuoxiaoguai_duchong" />
+
+    </Group>
+
+	<Group id="search_season">
+		<ItemSpec id="1" search_id="223000" level="1" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi"/>
+		<ItemSpec id="2" search_id="223001" level="2" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi"/>
+		<ItemSpec id="3" search_id="223002" level="3" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi"/>
+		<ItemSpec id="4" search_id="223003" level="4" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi"/>
+		<ItemSpec id="5" search_id="223004" level="5" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi"/>
+		<ItemSpec id="6" search_id="223005" level="6" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi"/>
+		<ItemSpec id="7" search_id="223006" level="7" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi"/>
+		<ItemSpec id="8" search_id="223007" level="8" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi"/>
+		<ItemSpec id="9" search_id="223008" level="9" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi"/>
+		<ItemSpec id="10" search_id="223009" level="10" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi"/>
+		<ItemSpec id="11" search_id="223010" level="11" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi"/>
+		<ItemSpec id="12" search_id="223011" level="12" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi"/>
+		<ItemSpec id="13" search_id="223012" level="13" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi"/>
+		<ItemSpec id="14" search_id="223013" level="14" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi"/>
+		<ItemSpec id="15" search_id="223014" level="15" type="1" subtype="5" image="icon_sousuoxiaoguai_panjunyingdi"/>
+		<ItemSpec id="16" search_id="223030" level="1" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="17" search_id="223031" level="2" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="18" search_id="223032" level="3" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="19" search_id="223033" level="4" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="20" search_id="223034" level="5" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="21" search_id="223035" level="6" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="22" search_id="223036" level="7" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="23" search_id="223037" level="8" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="24" search_id="223038" level="9" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="25" search_id="223039" level="10" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="26" search_id="223040" level="11" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="27" search_id="223041" level="12" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="28" search_id="223042" level="13" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="29" search_id="223043" level="14" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="30" search_id="223044" level="15" type="1" subtype="4" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="31" search_id="223060" level="1" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="32" search_id="223061" level="2" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="33" search_id="223062" level="3" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="34" search_id="223063" level="4" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="35" search_id="223064" level="5" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="36" search_id="223065" level="6" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="37" search_id="223066" level="7" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="38" search_id="223067" level="8" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="39" search_id="223068" level="9" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="40" search_id="223069" level="10" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="41" search_id="223070" level="11" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="42" search_id="223071" level="12" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="43" search_id="223072" level="13" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="44" search_id="223073" level="14" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="45" search_id="223074" level="15" type="1" subtype="2" image="icon_sousuoxiaoguai_bangqiushou"/>
+		<ItemSpec id="46" search_id="223045" level="1" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="47" search_id="223046" level="2" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="48" search_id="223047" level="3" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="49" search_id="223048" level="4" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="50" search_id="223049" level="5" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="51" search_id="223050" level="6" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="52" search_id="223051" level="7" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="53" search_id="223052" level="8" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="54" search_id="223053" level="9" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="55" search_id="223054" level="10" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="56" search_id="223055" level="11" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="57" search_id="223056" level="12" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="58" search_id="223057" level="13" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="59" search_id="223058" level="14" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="60" search_id="223059" level="15" type="1" subtype="3" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="61" search_id="223075" level="1" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="62" search_id="223076" level="2" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="63" search_id="223077" level="3" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="64" search_id="223078" level="4" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="65" search_id="223079" level="5" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="66" search_id="223080" level="6" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="67" search_id="223081" level="7" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="68" search_id="223082" level="8" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="69" search_id="223083" level="9" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="70" search_id="223084" level="10" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="71" search_id="223085" level="11" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="72" search_id="223086" level="12" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="73" search_id="223087" level="13" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="74" search_id="223088" level="14" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="75" search_id="223089" level="15" type="1" subtype="1" image="icon_sousuoxiaoguai_mutishenghuaren"/>
+		<ItemSpec id="76" search_id="900033" level="1" type="1" subtype="6" image="icon_sousuoxiaoguai_chouloushenghuaren" special="1"/>
+		<ItemSpec id="77" search_id="900030" level="5" type="1" subtype="6" image="icon_sousuoxiaoguai_chouloushenghuaren" special="1"/>
+		<ItemSpec id="78" search_id="900031" level="10" type="1" subtype="6" image="icon_sousuoxiaoguai_chouloushenghuaren" special="1"/>
+		<ItemSpec id="79" search_id="900032" level="15" type="1" subtype="6" image="icon_sousuoxiaoguai_chouloushenghuaren" special="1"/>
+		<ItemSpec id="80" search_id="900049" level="20" type="1" subtype="6" image="icon_sousuoxiaoguai_chouloushenghuaren" special="1"/>
+		<ItemSpec id="81" search_id="900050" level="25" type="1" subtype="6" image="icon_sousuoxiaoguai_chouloushenghuaren" special="1"/>
+		<ItemSpec id="82" search_id="227600" level="1" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag"/>
+		<ItemSpec id="83" search_id="227601" level="2" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag"/>
+		<ItemSpec id="84" search_id="227602" level="3" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag"/>
+		<ItemSpec id="85" search_id="227603" level="4" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag"/>
+		<ItemSpec id="86" search_id="227604" level="5" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag"/>
+		<ItemSpec id="87" search_id="227605" level="6" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag"/>
+		<ItemSpec id="88" search_id="227606" level="7" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag"/>
+		<ItemSpec id="89" search_id="227607" level="8" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag"/>
+		<ItemSpec id="90" search_id="227608" level="9" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag"/>
+		<ItemSpec id="91" search_id="227609" level="10" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag"/>
+		<ItemSpec id="92" search_id="227700" level="1" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang"/>
+		<ItemSpec id="93" search_id="227701" level="2" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang"/>
+		<ItemSpec id="94" search_id="227702" level="3" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang"/>
+		<ItemSpec id="95" search_id="227703" level="4" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang"/>
+		<ItemSpec id="96" search_id="227704" level="5" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang"/>
+		<ItemSpec id="97" search_id="227705" level="6" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang"/>
+		<ItemSpec id="98" search_id="227706" level="7" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang"/>
+		<ItemSpec id="99" search_id="227707" level="8" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang"/>
+		<ItemSpec id="100" search_id="227708" level="9" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang"/>
+		<ItemSpec id="101" search_id="227709" level="10" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang"/>
+		<ItemSpec id="102" search_id="227800" level="1" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag"/>
+		<ItemSpec id="103" search_id="227801" level="2" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag"/>
+		<ItemSpec id="104" search_id="227802" level="3" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag"/>
+		<ItemSpec id="105" search_id="227803" level="4" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag"/>
+		<ItemSpec id="106" search_id="227804" level="5" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag"/>
+		<ItemSpec id="107" search_id="227805" level="6" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag"/>
+		<ItemSpec id="108" search_id="227806" level="7" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag"/>
+		<ItemSpec id="109" search_id="227807" level="8" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag"/>
+		<ItemSpec id="110" search_id="227808" level="9" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag"/>
+		<ItemSpec id="111" search_id="227809" level="10" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag"/>
+		<ItemSpec id="112" search_id="227500" level="1" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian"/>
+		<ItemSpec id="113" search_id="227501" level="2" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian"/>
+		<ItemSpec id="114" search_id="227502" level="3" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian"/>
+		<ItemSpec id="115" search_id="227503" level="4" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian"/>
+		<ItemSpec id="116" search_id="227504" level="5" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian"/>
+		<ItemSpec id="117" search_id="227505" level="6" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian"/>
+		<ItemSpec id="118" search_id="227506" level="7" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian"/>
+		<ItemSpec id="119" search_id="227507" level="8" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian"/>
+		<ItemSpec id="120" search_id="227508" level="9" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian"/>
+		<ItemSpec id="121" search_id="227509" level="10" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian"/>
+		<ItemSpec id="122" search_id="227900" level="1" type="2" subtype="5" image="icon_sousuoxiaoguai_zuanshichnag" special="1"/>
+		<ItemSpec id="123" search_id="227901" level="2" type="2" subtype="5" image="icon_sousuoxiaoguai_zuanshichnag" special="1"/>
+		<ItemSpec id="124" search_id="227902" level="3" type="2" subtype="5" image="icon_sousuoxiaoguai_zuanshichnag" special="1"/>
+		<ItemSpec id="125" search_id="227903" level="4" type="2" subtype="5" image="icon_sousuoxiaoguai_zuanshichnag" special="1"/>
+		<ItemSpec id="126" search_id="227904" level="5" type="2" subtype="5" image="icon_sousuoxiaoguai_zuanshichnag" special="1"/>
+		<ItemSpec id="127" search_id="227905" level="6" type="2" subtype="5" image="icon_sousuoxiaoguai_zuanshichnag" special="1"/>
+		<ItemSpec id="128" search_id="227906" level="7" type="2" subtype="5" image="icon_sousuoxiaoguai_zuanshichnag" special="1"/>
+		<ItemSpec id="160" search_id="930006" level="6" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe"/>
+		<ItemSpec id="161" search_id="930007" level="7" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe"/>
+		<ItemSpec id="162" search_id="930008" level="8" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe"/>
+		<ItemSpec id="163" search_id="930009" level="9" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe"/>
+		<ItemSpec id="164" search_id="930010" level="10" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe"/>
+		<ItemSpec id="165" search_id="930011" level="11" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe"/>
+		<ItemSpec id="166" search_id="930012" level="12" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe"/>
+		<ItemSpec id="167" search_id="930013" level="13" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe"/>
+		<ItemSpec id="168" search_id="930014" level="14" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe"/>
+		<ItemSpec id="169" search_id="930015" level="15" type="1" subtype="8" image="icon_sousuoxiaoguai_shoujizhe"/>
+		<ItemSpec id="170" search_id="900051" level="30" type="1" subtype="6" image="icon_sousuoxiaoguai_chouloushenghuaren" special="1"/>
+       
+	</Group>
+
+	
+	<!--新全战赛季新怪搜索，小怪暂时不放出，只放出新联盟毒虫boss及继承采集点-箱神-->
+	<Group id="search_season_nc">
+		<ItemSpec id="401" search_id="291001" level="30" type="1" subtype="6" special="0" image="icon_sousuoxiaoguai_duchong" />
+		<ItemSpec id="402" search_id="291002" level="35" type="1" subtype="6" special="0" image="icon_sousuoxiaoguai_duchong" />
+		<ItemSpec id="403" search_id="291003" level="40" type="1" subtype="6" special="0" image="icon_sousuoxiaoguai_duchong" />
+		<ItemSpec id="404" search_id="291004" level="45" type="1" subtype="6" special="0" image="icon_sousuoxiaoguai_duchong" />
+		<ItemSpec id="405" search_id="291005" level="50" type="1" subtype="6" special="0" image="icon_sousuoxiaoguai_duchong" />
+		<ItemSpec id="410" search_id="227600" level="1" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="ui_wood" />
+		<ItemSpec id="411" search_id="227601" level="2" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="ui_wood" />
+		<ItemSpec id="412" search_id="227602" level="3" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="ui_wood" />
+		<ItemSpec id="413" search_id="227603" level="4" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="ui_wood" />
+		<ItemSpec id="414" search_id="227604" level="5" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="ui_wood" />
+		<ItemSpec id="415" search_id="227605" level="6" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="ui_wood" />
+		<ItemSpec id="416" search_id="227606" level="7" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="ui_wood" />
+		<ItemSpec id="417" search_id="227607" level="8" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="ui_wood" />
+		<ItemSpec id="418" search_id="227608" level="9" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="ui_wood" />
+		<ItemSpec id="419" search_id="227609" level="10" type="2" subtype="0" image="icon_sousuoxiaoguai_shiyouchnag" res_icon="ui_wood" />
+		<ItemSpec id="420" search_id="227700" level="1" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang" res_icon="ui_stone" />
+		<ItemSpec id="421" search_id="227701" level="2" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang" res_icon="ui_stone" />
+		<ItemSpec id="422" search_id="227702" level="3" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang" res_icon="ui_stone" />
+		<ItemSpec id="423" search_id="227703" level="4" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang" res_icon="ui_stone" />
+		<ItemSpec id="424" search_id="227704" level="5" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang" res_icon="ui_stone" />
+		<ItemSpec id="425" search_id="227705" level="6" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang" res_icon="ui_stone" />
+		<ItemSpec id="426" search_id="227706" level="7" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang" res_icon="ui_stone" />
+		<ItemSpec id="427" search_id="227707" level="8" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang" res_icon="ui_stone" />
+		<ItemSpec id="428" search_id="227708" level="9" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang" res_icon="ui_stone" />
+		<ItemSpec id="429" search_id="227709" level="10" type="2" subtype="1" image="icon_sousuoxiaoguai_tiechang" res_icon="ui_stone" />
+		<ItemSpec id="430" search_id="227800" level="1" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag" res_icon="ui_iron" />
+		<ItemSpec id="431" search_id="227801" level="2" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag" res_icon="ui_iron" />
+		<ItemSpec id="432" search_id="227802" level="3" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag" res_icon="ui_iron" />
+		<ItemSpec id="433" search_id="227803" level="4" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag" res_icon="ui_iron" />
+		<ItemSpec id="434" search_id="227804" level="5" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag" res_icon="ui_iron" />
+		<ItemSpec id="435" search_id="227805" level="6" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag" res_icon="ui_iron" />
+		<ItemSpec id="436" search_id="227806" level="7" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag" res_icon="ui_iron" />
+		<ItemSpec id="437" search_id="227807" level="8" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag" res_icon="ui_iron" />
+		<ItemSpec id="438" search_id="227808" level="9" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag" res_icon="ui_iron" />
+		<ItemSpec id="439" search_id="227809" level="10" type="2" subtype="2" image="icon_sousuoxiaoguai_nongchnag" res_icon="ui_iron" />
+		<ItemSpec id="440" search_id="227500" level="1" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian" res_icon="ui_food" />
+		<ItemSpec id="441" search_id="227501" level="2" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian" res_icon="ui_food" />
+		<ItemSpec id="442" search_id="227502" level="3" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian" res_icon="ui_food" />
+		<ItemSpec id="443" search_id="227503" level="4" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian" res_icon="ui_food" />
+		<ItemSpec id="444" search_id="227504" level="5" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian" res_icon="ui_food" />
+		<ItemSpec id="445" search_id="227505" level="6" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian" res_icon="ui_food" />
+		<ItemSpec id="446" search_id="227506" level="7" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian" res_icon="ui_food" />
+		<ItemSpec id="447" search_id="227507" level="8" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian" res_icon="ui_food" />
+		<ItemSpec id="448" search_id="227508" level="9" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian" res_icon="ui_food" />
+		<ItemSpec id="449" search_id="227509" level="10" type="2" subtype="3" image="icon_sousuoxiaoguai_nongtian" res_icon="ui_food" />
+		<ItemSpec id="450" search_id="227900" level="1" type="2" subtype="5" special="1" image="icon_sousuoxiaoguai_zuanshichnag" res_icon="UI_Diamonds" />
+		<ItemSpec id="451" search_id="227901" level="2" type="2" subtype="5" special="1" image="icon_sousuoxiaoguai_zuanshichnag" res_icon="UI_Diamonds" />
+		<ItemSpec id="452" search_id="227902" level="3" type="2" subtype="5" special="1" image="icon_sousuoxiaoguai_zuanshichnag" res_icon="UI_Diamonds" />
+		<ItemSpec id="453" search_id="227903" level="4" type="2" subtype="5" special="1" image="icon_sousuoxiaoguai_zuanshichnag" res_icon="UI_Diamonds" />
+		<ItemSpec id="454" search_id="227904" level="5" type="2" subtype="5" special="1" image="icon_sousuoxiaoguai_zuanshichnag" res_icon="UI_Diamonds" />
+		<ItemSpec id="455" search_id="227905" level="6" type="2" subtype="5" special="1" image="icon_sousuoxiaoguai_zuanshichnag" res_icon="UI_Diamonds" />
+		<ItemSpec id="456" search_id="227906" level="7" type="2" subtype="5" special="1" image="icon_sousuoxiaoguai_zuanshichnag" res_icon="UI_Diamonds" />
+       
+	</Group>
+	
+	
+	<!--冰雪赛季新怪搜索，普通怪及废土资源点，公会boss为召唤暂不放出-箱神-->
+	<Group id="search_season_bx">
+		<ItemSpec id="601" search_id="292001" level="1" type="1" subtype="12" special="0" image="naochong_02_bust" />
+		<ItemSpec id="602" search_id="292002" level="2" type="1" subtype="12" special="0" image="naochong_02_bust" />
+		<ItemSpec id="603" search_id="292003" level="3" type="1" subtype="12" special="0" image="naochong_02_bust" />
+		<ItemSpec id="604" search_id="292004" level="4" type="1" subtype="12" special="0" image="naochong_02_bust" />
+		<ItemSpec id="605" search_id="292005" level="5" type="1" subtype="12" special="0" image="naochong_02_bust" />
+		<ItemSpec id="606" search_id="292006" level="6" type="1" subtype="12" special="0" image="naochong_02_bust" />
+		<ItemSpec id="607" search_id="292007" level="7" type="1" subtype="12" special="0" image="naochong_02_bust" />
+		<ItemSpec id="608" search_id="292008" level="8" type="1" subtype="12" special="0" image="naochong_02_bust" />
+		<ItemSpec id="609" search_id="292009" level="9" type="1" subtype="12" special="0" image="naochong_02_bust" />
+		<ItemSpec id="610" search_id="292010" level="10" type="1" subtype="12" special="0" image="naochong_02_bust" />
+
+	</Group>
+	
+			<!--冰雪赛季【南北凛冬新怪】搜索，普通怪及废土资源点，公会boss为召唤暂不放出-箱神-->
+	<Group id="search_season_bx2">
+	    <ItemSpec id="741" search_id="292011" level="1" type="1" subtype="12" special="0" image="naochong_01_bust" />
+		<ItemSpec id="742" search_id="292012" level="2" type="1" subtype="12" special="0" image="naochong_01_bust" />
+		<ItemSpec id="743" search_id="292013" level="3" type="1" subtype="12" special="0" image="naochong_01_bust" />
+		<ItemSpec id="744" search_id="292014" level="4" type="1" subtype="12" special="0" image="naochong_01_bust" />
+		<ItemSpec id="745" search_id="292015" level="5" type="1" subtype="12" special="0" image="naochong_03_bust" />
+		<ItemSpec id="746" search_id="292016" level="6" type="1" subtype="12" special="0" image="naochong_03_bust" />
+		<ItemSpec id="747" search_id="292017" level="7" type="1" subtype="12" special="0" image="naochong_03_bust" />
+		<ItemSpec id="748" search_id="292018" level="8" type="1" subtype="12" special="0" image="naochong_03_bust" />
+		<ItemSpec id="749" search_id="292019" level="9" type="1" subtype="12" special="0" image="naochong_03_bust" />
+		<ItemSpec id="750" search_id="292020" level="10" type="1" subtype="12" special="0" image="naochong_03_bust" />
+
+	</Group>
+	
+</tns:database>

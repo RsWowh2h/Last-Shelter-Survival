@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="build_defense">
+
+
+    <ItemSpec id="100001" name="110270223" mode="1" order="10" rule="110270224" Advertise_pic="activity_icon1_57764" activity_pic="activity_icon1_57764" />
+
+
+
+    </Group> 
+
+</tns:database>

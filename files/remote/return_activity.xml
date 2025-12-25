@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="return_activity">
+
+    <ItemSpec id="112000" type="1" icon="FB_HeroRaise" name="5600005" />
+    <ItemSpec id="112001" type="2" icon="FB_IC_returnSign" name="5600006" />
+    <ItemSpec id="112002" type="3" icon="FB_IC_returnTask" image="FB_luxiyadeshilian_BG" name="5600007" around_id="5360000" />
+    <ItemSpec id="112003" type="4" icon="FB_IC_lianxuchongzhi" image="FB_huodong_leichong.png" name="5600008" />
+
+
+ </Group >
+
+ <Group id="popup">
+
+    <ItemSpec id="209999" type="0" num="1" pic="item200076" name="5600012" />
+    <ItemSpec id="200060" type="0" num="10" pic="item200060" name="104697" />
+    <ItemSpec id="210163" type="3" num="2500" pic="item406" name="104431" />
+    <ItemSpec id="200200" type="2" num="100" pic="item200" name="104004" />
+    <ItemSpec id="209998" type="59" num="1" pic="item217003" name="193814" />
+
+ </Group >
+ 
+ 	<!--箱神，全明星赛预热海报界面，相关数据显示（最强联盟关联预热入口按钮）-->	
+ <Group id="return_activity_star">
+
+    <ItemSpec id="200120" type="0" num="1" pic="item200108" name="113380" order="1" />
+    <ItemSpec id="200060" type="0" num="0" pic="item200060" name="104697" order="2" />
+    <ItemSpec id="209922" type="0" num="0" pic="FTSD_gaojihuobi" name="91024087" order="3" />
+    <ItemSpec id="200129" type="0" num="0" pic="equipment_Material" name="111002030" order="4" />
+    <ItemSpec id="203517" type="0" num="0" pic="item203517" name="212079" order="5" />
+    <ItemSpec id="200128" type="0" num="0" pic="item200128" name="111001476" order="6" />
+    <ItemSpec id="215398" type="0" num="0" pic="icon_zhanzhengxunzhang" name="110022146" order="7" />
+    <ItemSpec id="201000" type="0" num="0" pic="item201000" name="202014" order="8" />
+
+
+
+ </Group >
+
+</tns:database>

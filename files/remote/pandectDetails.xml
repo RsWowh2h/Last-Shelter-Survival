@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="pandectDetails">
+	<!-- id 是一记栏目唯一ID标示定义时只有不重复即可， name是一级栏目名字对应词条ID，icon是一级栏目显示的图片，type为0的时候是读取后面subview，为1时动态获取数据，subview是子条目，多个子条目的话每个条目以竖线分割，第一个值是条目的
+	ID，这个id只要保证不重复几个，比如可以在父级目录id的后面顺延一位加1，第二个ID是名字对应的词条ID，第三个个值是icon名字，第四个建筑类型
+    第五个 招募:三个招募id-->
+    <ItemSpec id="1000" name="90900101" icon="ROE_AdvBox01.png" type="1" subView="100002;111052;ROE_DEC_jiantou01.png;199999|100001;90900110;ROE_DEC_jiantou01.png;200000|100002;90900111;ROE_DEC_jiantou01.png;200001" />
+    <ItemSpec id="1001" name="90900102" icon="item200056.png" type="1" subView="100101;90900112;ROE_DEC_jiantou01.png;483000;221503|100102;90900113;ROE_DEC_jiantou01.png;483000;221500|100103;90900114;ROE_DEC_jiantou01.png;483000;221509" />
+    <ItemSpec id="1002" name="90900103" icon="shangBing.png" type="1" subView="100201;90900115;ROE_DEC_jiantou01.png;423000|100202;90900116;ROE_DEC_jiantou01.png;424000|100203;90900117;ROE_DEC_jiantou01.png;425000" />
+    <ItemSpec id="1003" name="90900104" icon="science_icon.png" type="0" subView="" />
+    <ItemSpec id="1004" name="90900105" icon="ROE_ICON_chuizi01.png" type="0" subView="" />
+    <ItemSpec id="1005" name="90900106" icon="free_put_alliance_cell.png" type="1" subView="100501;90900119;ROE_DEC_jiantou01.png;200002|100502;90900120;ROE_DEC_jiantou01.png;200003|100503;90900121;ROE_DEC_jiantou01.png;200004" />
+    <ItemSpec id="1006" name="90900107" icon="free_troopsBtn.png" type="0" subView="" />
+    <ItemSpec id="1007" name="90900108" icon="u_FreeConstruction/free_caricon02.png" type="1" subView="100701;90900122;ROE_DEC_jiantou01.png;460000|100702;90900123;ROE_DEC_jiantou01.png;431000|100703;90900124;ROE_DEC_jiantou01.png;464000|100704;90900125;ROE_DEC_jiantou01.png;547000" />
+    <ItemSpec id="1008" name="90900109" icon="fb_exchange_icon.png" type="1" subView="100801;90900126;ROE_DEC_jiantou01.png;435000" />
+</Group>
+
+</tns:database>

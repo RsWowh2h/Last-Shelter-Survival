@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="polluted_boss_level">
+ 
+    <ItemSpec id="1" level="1" refresh_range="5|30" add_range="10" initial_refresh_unitid="9;9;17;17" nature_refresh_time="60" nature_refresh_unitid="1;1" nature_refresh_threshold="10" win_condition="4" win_reward="2401163" loss_reward="2401171" />
+    <ItemSpec id="2" level="2" refresh_range="5|35" add_range="10" initial_refresh_unitid="10;10;18;18" nature_refresh_time="60" nature_refresh_unitid="2;2" nature_refresh_threshold="10" win_condition="4" win_reward="2401164" loss_reward="2401172" />
+    <ItemSpec id="3" level="3" refresh_range="5|40" add_range="10" initial_refresh_unitid="11;11;11;19;19;19" nature_refresh_time="60" nature_refresh_unitid="3;3;3" nature_refresh_threshold="10" win_condition="6" win_reward="2401165" loss_reward="2401173" />
+    <ItemSpec id="4" level="4" refresh_range="5|45" add_range="10" initial_refresh_unitid="12;12;12;20;20;20" nature_refresh_time="60" nature_refresh_unitid="4;4;4" nature_refresh_threshold="10" win_condition="6" win_reward="2401166" loss_reward="2401174" />
+    <ItemSpec id="5" level="5" refresh_range="5|45" add_range="10" initial_refresh_unitid="13;13;13;21;21;21" nature_refresh_time="60" nature_refresh_unitid="5;5;5" nature_refresh_threshold="10" win_condition="6" win_reward="2401167" loss_reward="2401175" />
+    <ItemSpec id="6" level="6" refresh_range="5|45" add_range="10" initial_refresh_unitid="14;14;14;22;22;22" nature_refresh_time="60" nature_refresh_unitid="6;6;6" nature_refresh_threshold="10" win_condition="6" win_reward="2401168" loss_reward="2401176" />
+    <ItemSpec id="7" level="7" refresh_range="5|45" add_range="10" initial_refresh_unitid="15;15;15;23;23;23" nature_refresh_time="60" nature_refresh_unitid="7;7;7" nature_refresh_threshold="10" win_condition="6" win_reward="2401169" loss_reward="2401177" />
+    <ItemSpec id="8" level="8" refresh_range="5|45" add_range="10" initial_refresh_unitid="16;16;16;24;24;24" nature_refresh_time="60" nature_refresh_unitid="8;8;8" nature_refresh_threshold="10" win_condition="6" win_reward="2401170" loss_reward="2401178" />
+
+
+</Group>
+
+</tns:database>

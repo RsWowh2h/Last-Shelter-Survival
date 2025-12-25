@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="DesertTalent">
+		<ItemSpec id="101" name="88000215" icon="FB_icon_Skillshu_3.png" frame="FB_jinengshu_xin_diban_01.png" needLv="1" x="2" y="2"/>
+		<ItemSpec id="102" name="88000216" icon="FB_icon_Skillshu_2.png" frame="FB_jinengshu_xin_diban_02.png" needLv="10" x="4" y="2"/>
+		<ItemSpec id="103" name="88000217" icon="FB_icon_Skillshu_1.png" frame="FB_jinengshu_xin_diban_03.png" needLv="20" x="6" y="2"/>
+		<ItemSpec id="104" name="110257271" icon="FB_IC_saiji_mijing.png" frame="FB_IC_saiji_liubianxing.png" needLv="20" x="4" y="3" seasonType="9"/>
+		
+	</Group>
+</tns:database>

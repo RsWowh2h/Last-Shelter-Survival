@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="GC_role">
+		<ItemSpec id="10200" role_type="1" mod="lua_spine_nike" skill_id="102001" talent="10001" talent_id="10201" atk_base="5" atk_para="120" skill_open="104001"/>
+		<ItemSpec id="10201" role_type="1" mod="lua_spine_aida" skill_id="108001" talent="10002" talent_id="10802" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10202" role_type="1" mod="lua_spine_aida" skill_id="108001" talent="10002" talent_id="10802" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10203" role_type="1" mod="lua_spine_aida" skill_id="107001" talent_id="10701" atk_base="5" atk_para="120" skill_open="104001"/>
+		<ItemSpec id="10204" role_type="1" mod="lua_spine_aida" skill_id="100101" talent_id="10001" atk_base="5" atk_para="120" skill_open="101001"/>
+		<ItemSpec id="10205" role_type="1" mod="lua_spine_nike" skill_id="100101" talent_id="10001" atk_base="5" atk_para="120" skill_open="101001"/>
+		<ItemSpec id="10206" role_type="1" mod="lua_spine_nike" skill_id="101001" talent_id="10101" atk_base="5" atk_para="120"/>
+		<ItemSpec id="10207" role_type="1" mod="lua_spine_nike" skill_id="103001" talent_id="10301" atk_base="5" atk_para="120"/>
+		<ItemSpec id="10209" role_type="1" mod="lua_spine_eva" skill_id="101001" talent_id="10102" atk_base="4" atk_para="110"/>
+		<ItemSpec id="10214" role_type="1" mod="lua_spine_aida" skill_id="101001" talent_id="10101" atk_base="5" atk_para="120"/>
+		<ItemSpec id="10215" role_type="1" mod="lua_spine_aida" skill_id="102001" talent_id="10201" atk_base="5" atk_para="120"/>
+		<ItemSpec id="20001" role_type="2" skill_id="100101" mod="lua_spine_soldier" talent="10005" talent_id="10005" avatar="ico107200_small" atk_base="1" atk_para="80" skill_open="100101"/>
+		<ItemSpec id="10009" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10005" talent_id="10504" atk_base="2" atk_para="90" skill_open="100101"/>
+		<ItemSpec id="10026" role_type="1" skill_id="100101" mod="lua_spine_lingshe" talent="10005" talent_id="10603" atk_base="3" atk_para="100" skill_open="100101" collect_bonus="106|30" skill_unlock="106"/>
+		<ItemSpec id="10027" role_type="1" skill_id="100101" mod="lua_spine_aida" talent="10005" talent_id="10603" atk_base="3" atk_para="100" skill_open="100101"/>
+		<ItemSpec id="10028" role_type="1" skill_id="105001" mod="lua_spine_nike" talent="10005" talent_id="10502" atk_base="4" atk_para="110" skill_open="102001"/>
+		<ItemSpec id="10029" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10005" talent_id="10103" atk_base="3" atk_para="100" skill_open="100101"/>
+		<ItemSpec id="10030" role_type="1" skill_id="100101" mod="lua_spine_aida" talent="10005" talent_id="10503" atk_base="3" atk_para="100" skill_open="100101"/>
+		<ItemSpec id="10031" role_type="1" skill_id="103001" mod="lua_spine_nike" talent="10005" talent_id="10302" atk_base="4" atk_para="110" skill_open="105001"/>
+		<ItemSpec id="10032" role_type="1" skill_id="100101" mod="lua_spine_aida" talent="10005" talent_id="10503" atk_base="3" atk_para="100" skill_open="100101"/>
+		<ItemSpec id="10033" role_type="1" skill_id="100101" mod="lua_spine_kuangtu" talent="10005" talent_id="10303" atk_base="3" atk_para="100" skill_open="100101" collect_bonus="103|30" skill_unlock="103"/>
+		<ItemSpec id="10034" role_type="1" skill_id="102001" mod="lua_spine_nike" talent="10005" talent_id="10202" atk_base="4" atk_para="110" skill_open="105001"/>
+		<ItemSpec id="10035" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10005" talent_id="10004" atk_base="2" atk_para="90" skill_open="100101"/>
+		<ItemSpec id="10036" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10004" talent_id="10004" atk_base="2" atk_para="90" skill_open="100101"/>
+		<ItemSpec id="10037" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10004" talent_id="10004" atk_base="2" atk_para="90" skill_open="100101"/>
+		<ItemSpec id="10038" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10004" talent_id="10004" atk_base="2" atk_para="90" skill_open="100101"/>
+		<ItemSpec id="10039" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10004" talent_id="10004" atk_base="2" atk_para="90" skill_open="100101"/>
+		<ItemSpec id="10040" role_type="1" skill_id="100101" mod="lua_spine_aida" talent="10004" talent_id="10004" atk_base="2" atk_para="90" skill_open="100101"/>
+		<ItemSpec id="10041" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10004" talent_id="10004" atk_base="2" atk_para="90" skill_open="100101"/>
+		<ItemSpec id="10042" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10005" talent_id="10004" atk_base="2" atk_para="90" skill_open="100101"/>
+		<ItemSpec id="10043" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10005" talent_id="10005" atk_base="1" atk_para="80" skill_open="100101"/>
+		<ItemSpec id="10044" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10005" talent_id="10005" atk_base="1" atk_para="80" skill_open="100101"/>
+		<ItemSpec id="10045" role_type="1" skill_id="100101" mod="lua_spine_aida" talent="10005" talent_id="10005" atk_base="1" atk_para="80" skill_open="100101"/>
+		<ItemSpec id="10051" role_type="1" skill_id="103001" mod="lua_spine_sishen" talent="10002" talent_id="10302" atk_base="4" atk_para="110" skill_open="101001" collect_bonus="103|50" skill_unlock="103"/>
+		<ItemSpec id="10052" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10004" talent_id="10703" atk_base="3" atk_para="100" skill_open="100101"/>
+		<ItemSpec id="10053" role_type="1" skill_id="106001" mod="lua_spine_xunshoushi" talent="10002" talent_id="10602" atk_base="4" atk_para="110" skill_open="102001" collect_bonus="106|50" skill_unlock="106"/>
+		<ItemSpec id="10054" role_type="1" skill_id="105001" mod="lua_spine_limingshouwei" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="105001" collect_bonus="105|50" skill_unlock="105"/>
+		<ItemSpec id="10055" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10002" talent_id="10103" atk_base="3" atk_para="100" skill_open="100101"/>
+		<ItemSpec id="10056" role_type="1" skill_id="101001" mod="lua_spine_yiqizhe" talent="10002" talent_id="10102" atk_base="4" atk_para="110" skill_open="105001" collect_bonus="101|50" skill_unlock="101"/>
+		<ItemSpec id="10057" role_type="1" skill_id="101001" mod="lua_spine_qiangpaokuangren" talent="10002" talent_id="10102" atk_base="4" atk_para="110" skill_open="101001" collect_bonus="101|50" skill_unlock="101"/>
+		<ItemSpec id="10058" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10002" talent_id="10303" atk_base="3" atk_para="100" skill_open="100101"/>
+		<ItemSpec id="10059" role_type="1" skill_id="105001" mod="lua_spine_huimiezhe" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="104001" collect_bonus="105|50" skill_unlock="105"/>
+		<ItemSpec id="10060" role_type="1" skill_id="102001" mod="lua_spine_junhuodaheng" talent="10002" talent_id="10202" atk_base="4" atk_para="110" skill_open="102001" collect_bonus="102|50" skill_unlock="102"/>
+		<ItemSpec id="10061" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10002" talent_id="10503" atk_base="3" atk_para="100" skill_open="100101"/>
+		<ItemSpec id="10062" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10002" talent_id="10103" atk_base="3" atk_para="100" skill_open="100101" collect_bonus="101|30" skill_unlock="101"/>
+		<ItemSpec id="10063" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10002" talent_id="10303" atk_base="3" atk_para="100" skill_open="100101" collect_bonus="103|30" skill_unlock="103"/>
+		<ItemSpec id="10064" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10002" talent_id="10603" atk_base="3" atk_para="100" skill_open="100101" collect_bonus="106|30" skill_unlock="106"/>
+		<ItemSpec id="10065" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10004" talent_id="10203" atk_base="3" atk_para="100" skill_open="100101"/>
+		<ItemSpec id="10066" role_type="1" skill_id="100101" mod="lua_spine_shehuimingliu" talent="10004" talent_id="10503" atk_base="3" atk_para="100" skill_open="100101" skill_unlock="105" collect_bonus="105|30"/>
+		<ItemSpec id="10067" role_type="1" skill_id="100101" mod="lua_spine_aida" talent="10004" talent_id="10103" atk_base="3" atk_para="100" skill_open="100101"/>
+		<ItemSpec id="10068" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10004" talent_id="10103" atk_base="3" atk_para="100" skill_open="100101"/>
+		<ItemSpec id="10078" role_type="1" skill_id="102001" mod="lua_spine_nike" talent="10002" talent_id="10202" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10079" role_type="1" skill_id="101001" mod="lua_spine_nike" talent="10002" talent_id="10102" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10080" role_type="1" skill_id="105001" mod="lua_spine_nike" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10081" role_type="1" skill_id="105001" mod="lua_spine_nike" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="105001"/>
+		<ItemSpec id="10082" role_type="1" skill_id="105001" mod="lua_spine_nike" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10083" role_type="1" skill_id="103001" mod="lua_spine_nike" talent="10002" talent_id="10302" atk_base="4" atk_para="110" skill_open="105001"/>
+		<ItemSpec id="10084" role_type="1" skill_id="102001" mod="lua_spine_aida" talent="10002" talent_id="10202" atk_base="4" atk_para="110" skill_open="102001"/>
+		<ItemSpec id="10085" role_type="1" skill_id="105001" mod="lua_spine_aida" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10086" role_type="1" skill_id="102001" mod="lua_spine_nike" talent="10002" talent_id="10202" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10087" role_type="1" skill_id="108001" mod="lua_spine_nike" talent="10002" talent_id="10802" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10088" role_type="1" skill_id="105001" mod="lua_spine_nike" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="105001"/>
+		<ItemSpec id="10089" role_type="1" skill_id="103001" mod="lua_spine_nike" talent="10002" talent_id="10302" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10090" role_type="1" skill_id="102001" mod="lua_spine_aida" talent="10002" talent_id="10202" atk_base="4" atk_para="110" skill_open="105001"/>
+		<ItemSpec id="10091" role_type="1" skill_id="105001" mod="lua_spine_aida" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10092" role_type="1" skill_id="103001" mod="lua_spine_nike" talent="10002" talent_id="10302" atk_base="4" atk_para="110" skill_open="102001"/>
+		<ItemSpec id="10093" role_type="1" skill_id="105001" mod="lua_spine_aida" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="105001"/>
+		<ItemSpec id="10094" role_type="1" skill_id="108001" mod="lua_spine_aida" talent="10002" talent_id="10802" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10095" role_type="1" skill_id="101001" mod="lua_spine_aida" talent="10002" talent_id="10102" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10096" role_type="1" skill_id="106001" mod="lua_spine_tidao" talent="10002" talent_id="10602" atk_base="4" atk_para="110" skill_open="104001" collect_bonus="106|70" skill_unlock="106"/>
+		<ItemSpec id="10097" role_type="1" skill_id="107001" mod="lua_spine_nike" talent="10002" talent_id="10702" atk_base="4" atk_para="110" skill_open="101001" collect_bonus="107|70" skill_unlock="107"/>
+		<ItemSpec id="10098" role_type="1" skill_id="102001" mod="lua_spine_tiewei" talent="10002" talent_id="10202" atk_base="4" atk_para="110" skill_open="104001" collect_bonus="102|70" skill_unlock="102"/>
+		<ItemSpec id="10099" role_type="1" skill_id="101001" mod="lua_spine_nike" talent="10002" talent_id="10102" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10100" role_type="1" skill_id="105001" mod="lua_spine_nike" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10101" role_type="1" skill_id="108001" mod="lua_spine_nike" talent="10002" talent_id="10802" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10102" role_type="1" skill_id="105001" mod="lua_spine_aida" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10103" role_type="1" skill_id="105001" mod="lua_spine_nike" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10104" role_type="1" skill_id="102001" mod="lua_spine_nike" talent="10002" talent_id="10202" atk_base="4" atk_para="110" skill_open="105001"/>
+		<ItemSpec id="10120" role_type="1" skill_id="105001" mod="lua_spine_nike" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10121" role_type="1" skill_id="105001" mod="lua_spine_nike" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10122" role_type="1" skill_id="105001" mod="lua_spine_nike" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10123" role_type="1" skill_id="105001" mod="lua_spine_aida" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10124" role_type="1" skill_id="105001" mod="lua_spine_nike" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10125" role_type="1" skill_id="101001" mod="lua_spine_nike" talent="10002" talent_id="10102" atk_base="4" atk_para="110" skill_open="105001"/>
+		<ItemSpec id="10126" role_type="1" skill_id="108001" mod="lua_spine_nike" talent="10002" talent_id="10802" atk_base="4" atk_para="110" skill_open="102001"/>
+		<ItemSpec id="10127" role_type="1" skill_id="108001" mod="lua_spine_nike" talent="10002" talent_id="10802" atk_base="4" atk_para="110" skill_open="102001"/>
+		<ItemSpec id="10128" role_type="1" skill_id="105001" mod="lua_spine_nike" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10129" role_type="1" skill_id="101001" mod="lua_spine_nike" talent="10002" talent_id="10102" atk_base="4" atk_para="110" skill_open="102001"/>
+		<ItemSpec id="10130" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10002" talent_id="10104" atk_base="2" atk_para="90" skill_open="100101" skill_unlock="101" collect_bonus="101|20"/>
+		<ItemSpec id="10131" role_type="1" skill_id="102001" mod="lua_spine_nike" talent="10002" talent_id="10202" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10132" role_type="1" skill_id="102001" mod="lua_spine_nike" talent="10002" talent_id="10202" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10133" role_type="1" skill_id="105001" mod="lua_spine_nike" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10134" role_type="1" skill_id="103001" mod="lua_spine_aida" talent="10002" talent_id="10302" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10135" role_type="1" skill_id="107001" mod="lua_spine_baiduren" talent="10002" talent_id="10702" atk_base="4" atk_para="110" skill_open="105001" collect_bonus="107|50" skill_unlock="107"/>
+		<ItemSpec id="10136" role_type="1" skill_id="105001" mod="lua_spine_nike" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10137" role_type="1" skill_id="108001" mod="lua_spine_aida" talent="10002" talent_id="10802" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10138" role_type="1" skill_id="108001" mod="lua_spine_nike" talent="10002" talent_id="10802" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10139" role_type="1" skill_id="101001" mod="lua_spine_aida" talent="10002" talent_id="10102" atk_base="4" atk_para="110" skill_open="102001"/>
+		<ItemSpec id="10140" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10002" talent_id="10603" atk_base="3" atk_para="100" skill_open="100101"/>
+		<ItemSpec id="10141" role_type="1" skill_id="100101" mod="lua_spine_aida" talent="10002" talent_id="10103" atk_base="3" atk_para="100" skill_open="100101"/>
+		<ItemSpec id="10142" role_type="1" skill_id="108001" mod="lua_spine_aida" talent="10002" talent_id="10802" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10143" role_type="1" skill_id="101001" mod="lua_spine_nike" talent="10002" talent_id="10102" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10144" role_type="1" skill_id="108001" mod="lua_spine_aida" talent="10002" talent_id="10802" atk_base="4" atk_para="110" skill_open="102001"/>
+		<ItemSpec id="10145" role_type="1" skill_id="103001" mod="lua_spine_nike" talent="10002" talent_id="10302" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10146" role_type="1" skill_id="108001" mod="lua_spine_aida" talent="10002" talent_id="10802" atk_base="4" atk_para="110" skill_open="105001"/>
+		<ItemSpec id="10147" role_type="1" skill_id="103001" mod="lua_spine_aida" talent="10002" talent_id="10302" atk_base="4" atk_para="110" skill_open="105001"/>
+		<ItemSpec id="10148" role_type="1" skill_id="105001" mod="lua_spine_nike" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10149" role_type="1" skill_id="103001" mod="lua_spine_aida" talent="10002" talent_id="10302" atk_base="4" atk_para="110" skill_open="102001"/>
+		<ItemSpec id="10151" role_type="1" skill_id="105001" mod="lua_spine_aida" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10152" role_type="1" skill_id="103001" mod="lua_spine_nike" talent="10002" talent_id="10302" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10153" role_type="1" skill_id="108001" mod="lua_spine_nike" talent="10002" talent_id="10802" atk_base="4" atk_para="110" skill_open="105001"/>
+		<ItemSpec id="10154" role_type="1" skill_id="108001" mod="lua_spine_nike" talent="10002" talent_id="10802" atk_base="4" atk_para="110" skill_open="102001"/>
+		<ItemSpec id="10155" role_type="1" skill_id="103001" mod="lua_spine_nike" talent="10002" talent_id="10302" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10156" role_type="1" skill_id="102001" mod="lua_spine_aida" talent="10002" talent_id="10202" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10158" role_type="1" skill_id="102001" mod="lua_spine_aida" talent="10002" talent_id="10202" atk_base="4" atk_para="110" skill_open="102001"/>
+		<ItemSpec id="10159" role_type="1" skill_id="108001" mod="lua_spine_nike" talent="10002" talent_id="10802" atk_base="4" atk_para="110" skill_open="105001"/>
+		<ItemSpec id="10161" role_type="1" skill_id="101001" mod="lua_spine_nike" talent="10002" talent_id="10102" atk_base="4" atk_para="110" skill_open="102001"/>
+		<ItemSpec id="10162" role_type="1" skill_id="103001" mod="lua_spine_nike" talent="10002" talent_id="10302" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10165" role_type="1" skill_id="101001" mod="lua_spine_nike" talent="10002" talent_id="10102" atk_base="4" atk_para="110" skill_open="102001"/>
+		<ItemSpec id="10166" role_type="1" skill_id="108001" mod="lua_spine_nike" talent="10002" talent_id="10802" atk_base="4" atk_para="110" skill_open="102001"/>
+		<ItemSpec id="10167" role_type="1" skill_id="103001" mod="lua_spine_nike" talent="10002" talent_id="10302" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10168" role_type="1" skill_id="102001" mod="lua_spine_aida" talent="10002" talent_id="10202" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10169" role_type="1" skill_id="106001" mod="lua_spine_aida" talent="10001" talent_id="10601" atk_base="5" atk_para="120" skill_open="101001"/>
+		<ItemSpec id="10170" role_type="1" skill_id="100101" mod="lua_spine_nike" talent_id="10001" atk_base="5" atk_para="120" skill_open="101001"/>
+		<ItemSpec id="10171" role_type="1" skill_id="100101" mod="lua_spine_nike" talent_id="10001" atk_base="5" atk_para="120" skill_open="105001"/>
+		<ItemSpec id="10172" role_type="1" skill_id="100101" mod="lua_spine_nike" talent_id="10001" atk_base="5" atk_para="120" skill_open="101001"/>
+		<ItemSpec id="10173" role_type="1" skill_id="102001" mod="lua_spine_nike" talent="10002" talent_id="10202" atk_base="4" atk_para="110" skill_open="105001"/>
+		<ItemSpec id="10174" role_type="1" skill_id="103001" mod="lua_spine_nike" talent="10002" talent_id="10302" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10175" role_type="1" skill_id="108001" mod="lua_spine_houshidaishaonv" talent="10001" talent_id="10801" atk_base="5" atk_para="120" skill_open="104001" collect_bonus="108|100" skill_unlock="108"/>
+		<ItemSpec id="10176" role_type="1" skill_id="101001" mod="lua_spine_nike" talent="10002" talent_id="10102" atk_base="4" atk_para="110" skill_open="102001"/>
+		<ItemSpec id="10177" role_type="1" skill_id="105001" mod="lua_spine_aida" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="105001"/>
+		<ItemSpec id="10178" role_type="1" skill_id="103001" mod="lua_spine_aida" talent="10002" talent_id="10302" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10179" role_type="1" skill_id="103001" mod="lua_spine_nike" talent="10002" talent_id="10302" atk_base="4" atk_para="110" skill_open="105001"/>
+		<ItemSpec id="10180" role_type="1" skill_id="100101" mod="lua_spine_aida" talent="10004" talent_id="10001" atk_base="3" atk_para="100" skill_open="100101"/>
+		<ItemSpec id="10181" role_type="1" skill_id="100101" mod="lua_spine_aida" talent="10001" talent_id="10001" atk_base="5" atk_para="120" skill_open="102001"/>
+		<ItemSpec id="10182" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10001" talent_id="10001" atk_base="5" atk_para="120" skill_open="101001"/>
+		<ItemSpec id="10185" role_type="1" skill_id="108001" mod="lua_spine_aida" talent="10004" talent_id="10801" atk_base="4" atk_para="110" skill_open="108001" collect_bonus="108|50" skill_unlock="108"/>
+		<ItemSpec id="10186" role_type="1" skill_id="102001" mod="lua_spine_nike" talent="10002" talent_id="10202" atk_base="4" atk_para="110" skill_open="102001"/>
+		<ItemSpec id="10187" role_type="1" skill_id="101001" mod="lua_spine_aida" talent="10002" talent_id="10102" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10188" role_type="1" skill_id="101001" mod="lua_spine_nike" talent="10002" talent_id="10102" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10189" role_type="1" skill_id="103001" mod="lua_spine_aida" talent="10002" talent_id="10302" atk_base="4" atk_para="110" skill_open="104001"/>
+		<ItemSpec id="10190" role_type="1" skill_id="108001" mod="lua_spine_museqiangwei" talent="10001" talent_id="10801" atk_base="4" atk_para="110" skill_open="105001" collect_bonus="108|100" skill_unlock="108"/>
+		<ItemSpec id="10191" role_type="1" skill_id="102001" mod="lua_spine_aida" talent="10002" talent_id="10202" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="10192" role_type="1" skill_id="103001" mod="lua_spine_nike" talent="10002" talent_id="10302" atk_base="4" atk_para="110" skill_open="102001"/>
+		<ItemSpec id="10193" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10001" talent_id="10001" atk_base="5" atk_para="120" skill_open="102001"/>
+		<ItemSpec id="10194" role_type="1" skill_id="100101" mod="lua_spine_nike" talent="10001" talent_id="10001" atk_base="5" atk_para="120" skill_open="102001"/>
+		<ItemSpec id="10195" role_type="1" skill_id="105001" mod="lua_spine_aida" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="102001"/>
+		<ItemSpec id="10196" role_type="1" skill_id="105001" mod="lua_spine_nike" talent="10002" talent_id="10502" atk_base="4" atk_para="110" skill_open="101001"/>
+		<ItemSpec id="1010026" role_type="1" power="540" avatar="hero_0016_32" mod="lua_spine_lingshe" skill_id="100101" talent_id="10503" atk_base="3" atk_para="100"/>
+		<ItemSpec id="1010033" role_type="1" power="500" avatar="hero_0025_17" mod="lua_spine_kuangtu" skill_id="100101" talent_id="10303" atk_base="3" atk_para="100"/>
+		<ItemSpec id="1010066" role_type="1" power="540" avatar="hero37" mod="lua_spine_shehuimingliu" skill_id="100101" talent_id="10503" atk_base="3" atk_para="100"/>
+		<ItemSpec id="1010130" role_type="1" power="200" avatar="hero102" mod="lua_spine_nike" skill_id="100101" talent_id="10004" atk_base="2" atk_para="90" skill_open="100101"/>
+		<ItemSpec id="1010185" role_type="3" mod="lua_spine_aida" skill_id="108007" talent_id="10002" power="640000" avatar="hero153" atk_base="4" atk_para="110" skill_open="102007"/>
+		<ItemSpec id="1010209" role_type="1" power="360" avatar="hero177" mod="lua_spine_eva" skill_id="101001" talent_id="10004" atk_base="2" atk_para="100"/>
+		<ItemSpec id="1015001" role_type="3" power="0" avatar="ico107200_small" mod="lua_spine_soldier" skill_id="150001" talent_id="10005" atk_base="0" atk_para="90"/>
+		<ItemSpec id="1015002" role_type="3" power="0" avatar="ico107200_small" mod="lua_spine_soldier" skill_id="150101" talent_id="10005" atk_base="0" atk_para="90"/>
+		<ItemSpec id="1015003" role_type="3" power="0" avatar="ico107200_small" mod="lua_spine_soldier" skill_id="150201" talent_id="10005" atk_base="0" atk_para="90"/>
+		<ItemSpec id="1018501" role_type="1" mod="lua_spine_aida" skill_id="102010" talent_id="10002"/>
+		<ItemSpec id="1020001" role_type="3" power="160000" avatar="ico107200_small" mod="lua_spine_soldier" skill_id="101005" talent_id="10004" atk_base="2" atk_para="90" skill_open="101005"/>
+		<ItemSpec id="1020002" role_type="3" power="160000" avatar="ico107200_small" mod="lua_spine_soldier" skill_id="101005" talent_id="10004" atk_base="2" atk_para="90" skill_open="101005"/>
+		<ItemSpec id="1020003" role_type="3" power="60" avatar="ico107200_small" mod="lua_spine_soldier" skill_id="100101" talent_id="10005" atk_base="1" atk_para="90" skill_open="100101"/>
+		<ItemSpec id="1020004" role_type="3" power="60" avatar="ico107200_small" mod="lua_spine_soldier" skill_id="100101" talent_id="10005" atk_base="1" atk_para="90" skill_open="100101"/>
+		<ItemSpec id="1020185" role_type="3" power="8000" avatar="hero153" mod="lua_spine_aida" skill_id="108001" talent_id="10002" atk_base="4" atk_para="110" skill_open="102001"/>
+	</Group>
+</tns:database>

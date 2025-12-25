@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="plot_radar">
+    <!-- id是RadartaskSubType的枚举值 -->	
+	<ItemSpec id="1" MarchStart="111980090,111980091,111980092" BattleWin="111980093,111980094,111980095" BattleLose="111980096,111980097,111980098"/>
+	<ItemSpec id="2" ClickTarget="111980087,111980088,111980089" MarchStart="111980105,111980106,111980107"/>
+	<ItemSpec id="9" MarchArrived="111980111,111980112,111980113"/>	
+	<ItemSpec id="10" MarchStart="111980090,111980091,111980092" BattleWin="111980093,111980094,111980095" BattleLose="111980096,111980097,111980098"/>
+	
+	</Group>
+</tns:database>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="alliance_boss_donate">
+    <ItemSpec id="1" lv="1" cost="25" extraDamage="5" />
+    <ItemSpec id="2" lv="2" cost="25" extraDamage="10" />
+    <ItemSpec id="3" lv="3" cost="25" extraDamage="15" />
+    <ItemSpec id="4" lv="4" cost="25" extraDamage="20" />
+    <ItemSpec id="5" lv="5" cost="25" extraDamage="25" />
+</Group>
+</tns:database>

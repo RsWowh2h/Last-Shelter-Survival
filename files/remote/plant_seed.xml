@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="plant_seed">
+    <ItemSpec id="1" seed_id="600001" type="1" time1="600" time2="600" time3="600" buyCost="200" flower="10001" branch_source="600301" quality_value="0;111;222;333;444" />
+    <ItemSpec id="2" seed_id="600002" type="1" time1="600" time2="600" time3="600" buyCost="200" flower="10011" branch_source="600302" quality_value="0;111;222;333;444" />
+    <ItemSpec id="3" seed_id="600003" type="2" time1="600" time2="600" time3="600" flower="10021" branch_source="600303" quality_value="0;111;222;333;444" />
+    <ItemSpec id="4" seed_id="600004" type="2" time1="600" time2="600" time3="600" flower="10031" branch_source="600304" quality_value="0;111;222;333;444" />
+    <ItemSpec id="5" seed_id="600005" type="2" time1="600" time2="600" time3="600" flower="10041" branch_source="600305" quality_value="0;111;222;333;444" />
+    <ItemSpec id="6" seed_id="600006" type="2" time1="600" time2="600" time3="600" flower="10051" branch_source="600306" quality_value="0;111;222;333;444" />
+    <ItemSpec id="7" seed_id="600007" type="2" time1="600" time2="600" time3="600" flower="10061" branch_source="600307" quality_value="0;111;222;333;444" />
+    <ItemSpec id="8" seed_id="600008" type="1" time1="1200" time2="1200" time3="1200" buyCost="200" flower="10071" branch_source="600308" quality_value="0;125;250;375;500" />
+    <ItemSpec id="9" seed_id="600009" type="1" time1="1200" time2="1200" time3="1200" buyCost="200" flower="10081" branch_source="600309" quality_value="0;125;250;375;500" />
+    <ItemSpec id="10" seed_id="600010" type="2" time1="1200" time2="1200" time3="1200" flower="10091" branch_source="600310" quality_value="0;125;250;375;500" />
+    <ItemSpec id="11" seed_id="600011" type="2" time1="1200" time2="1200" time3="1200" flower="10101" branch_source="600311" quality_value="0;125;250;375;500" />
+    <ItemSpec id="12" seed_id="600012" type="2" time1="1200" time2="1200" time3="1200" flower="10111" branch_source="600312" quality_value="0;125;250;375;500" />
+    <ItemSpec id="13" seed_id="600013" type="2" time1="1200" time2="1200" time3="1200" flower="10121" branch_source="600313" quality_value="0;125;250;375;500" />
+    <ItemSpec id="14" seed_id="600014" type="2" time1="1200" time2="1200" time3="1200" flower="10131" branch_source="600314" quality_value="0;125;250;375;500" />
+    <ItemSpec id="15" seed_id="600015" type="1" time1="2400" time2="2400" time3="2400" buyCost="200" flower="10141" branch_source="600315" quality_value="0;142;285;428;571" />
+    <ItemSpec id="16" seed_id="600016" type="1" time1="2400" time2="2400" time3="2400" buyCost="200" flower="10151" branch_source="600316" quality_value="0;142;285;428;571" />
+    <ItemSpec id="17" seed_id="600017" type="2" time1="2400" time2="2400" time3="2400" flower="10161" branch_source="600317" quality_value="0;142;285;428;571" />
+    <ItemSpec id="18" seed_id="600018" type="2" time1="2400" time2="2400" time3="2400" flower="10171" branch_source="600318" quality_value="0;142;285;428;571" />
+    <ItemSpec id="19" seed_id="600019" type="2" time1="2400" time2="2400" time3="2400" flower="10181" branch_source="600319" quality_value="0;142;285;428;571" />
+    <ItemSpec id="20" seed_id="600020" type="2" time1="2400" time2="2400" time3="2400" flower="10191" branch_source="600320" quality_value="0;142;285;428;571" />
+    <ItemSpec id="21" seed_id="600021" type="2" time1="2400" time2="2400" time3="2400" flower="10201" branch_source="600321" quality_value="0;142;285;428;571" />
+    <ItemSpec id="22" seed_id="600022" type="1" time1="4800" time2="4800" time3="4800" buyCost="200" flower="10211" branch_source="600322" quality_value="0;166;333;500;666" />
+    <ItemSpec id="23" seed_id="600023" type="1" time1="4800" time2="4800" time3="4800" buyCost="200" flower="10221" branch_source="600323" quality_value="0;166;333;500;667" />
+    <ItemSpec id="24" seed_id="600024" type="2" time1="4800" time2="4800" time3="4800" flower="10231" branch_source="600324" quality_value="0;166;333;500;668" />
+    <ItemSpec id="25" seed_id="600025" type="2" time1="4800" time2="4800" time3="4800" flower="10241" branch_source="600325" quality_value="0;166;333;500;669" />
+    <ItemSpec id="26" seed_id="600026" type="2" time1="4800" time2="4800" time3="4800" flower="10251" branch_source="600326" quality_value="0;166;333;500;670" />
+    <ItemSpec id="27" seed_id="600027" type="2" time1="4800" time2="4800" time3="4800" flower="10261" branch_source="600327" quality_value="0;166;333;500;671" />
+    <ItemSpec id="28" seed_id="600028" type="2" time1="4800" time2="4800" time3="4800" flower="10271" branch_source="600328" quality_value="0;166;333;500;672" />
+    <ItemSpec id="29" seed_id="600029" type="1" time1="9600" time2="9600" time3="9600" buyCost="200" flower="10281" branch_source="600329" quality_value="0;200;400;600;800" />
+    <ItemSpec id="30" seed_id="600030" type="1" time1="9600" time2="9600" time3="9600" buyCost="200" flower="10291" branch_source="600330" quality_value="0;200;400;600;800" />
+    <ItemSpec id="31" seed_id="600031" type="2" time1="9600" time2="9600" time3="9600" flower="10301" branch_source="600331" quality_value="0;200;400;600;800" />
+    <ItemSpec id="32" seed_id="600032" type="2" time1="9600" time2="9600" time3="9600" flower="10311" branch_source="600332" quality_value="0;200;400;600;800" />
+    <ItemSpec id="33" seed_id="600033" type="2" time1="9600" time2="9600" time3="9600" flower="10321" branch_source="600333" quality_value="0;200;400;600;800" />
+    <ItemSpec id="34" seed_id="600034" type="2" time1="9600" time2="9600" time3="9600" flower="10331" branch_source="600334" quality_value="0;200;400;600;800" />
+    <ItemSpec id="35" seed_id="600035" type="2" time1="9600" time2="9600" time3="9600" flower="10341" branch_source="600335" quality_value="0;200;400;600;800" />
+
+
+	</Group>
+
+</tns:database>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<Group id="weatherEvent_1">
+
+    <ItemSpec id="101" type="1" name="110288800" icon="FB_IC_TQ_jishui" areaType="1;2;3;4" frequency="1" duration="14400" numWeight="1;700|2;200|3;100" rangeWeight="500;6,6|200;8,8|100;10,10" weatherEventPara="51001;1" eventParaDes="110288802"/>
+    <ItemSpec id="102" type="2" name="110288801" icon="FB_IC_TQ_shachenbao" areaType="1;2" frequency="1" duration="14400" numWeight="1;700|2;200|3;100" rangeWeight="500;6,6|200;8,8|100;10,10" weatherEventPara="51002;200" eventParaDes="110288803" eventParaVal="200"/>
+
+
+  </Group>
+
+
+
+</tns:database>

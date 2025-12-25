@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="social_tag_question">
+    <ItemSpec id="1" quest="111860701" answer_warmonger="111860702" answer_socialite="111860703" answer_wealthy="111860704" answer_diplomat="111860705" answer_farmer="111860706" answer_landlord="111860707" />
+    <ItemSpec id="2" quest="111860708" answer_warmonger="111860709" answer_socialite="111860710" answer_wealthy="111860711" answer_diplomat="111860712" answer_farmer="111860713" answer_landlord="111860714" />
+    <ItemSpec id="3" quest="111860715" answer_warmonger="111860716" answer_socialite="111860717" answer_wealthy="111860718" answer_diplomat="111860719" answer_farmer="111860720" answer_landlord="111860721" />
+    <ItemSpec id="4" quest="111860722" answer_warmonger="111860723" answer_socialite="111860724" answer_wealthy="111860725" answer_diplomat="111860726" answer_farmer="111860727" answer_landlord="111860728" />
+    <ItemSpec id="5" quest="111860729" answer_warmonger="111860730" answer_socialite="111860731" answer_wealthy="111860732" answer_diplomat="111860733" answer_farmer="111860734" answer_landlord="111860735" />
+    <ItemSpec id="6" quest="111860736" answer_warmonger="111860737" answer_socialite="111860738" answer_wealthy="111860739" answer_diplomat="111860740" answer_farmer="111860741" answer_landlord="111860742" />
+    <ItemSpec id="7" quest="111860743" answer_warmonger="111860744" answer_socialite="111860745" answer_wealthy="111860746" answer_diplomat="111860747" answer_farmer="111860748" answer_landlord="111860749" />
+    <ItemSpec id="8" quest="111860750" answer_warmonger="111860751" answer_socialite="111860752" answer_wealthy="111860753" answer_diplomat="111860754" answer_farmer="111860755" answer_landlord="111860756" />
+    <ItemSpec id="9" quest="111860757" answer_warmonger="111860758" answer_socialite="111860759" answer_wealthy="111860760" answer_diplomat="111860761" answer_farmer="111860762" answer_landlord="111860763" />
+    <ItemSpec id="10" quest="111860764" answer_warmonger="111860765" answer_socialite="111860766" answer_wealthy="111860767" answer_diplomat="111860768" answer_farmer="111860769" answer_landlord="111860770" />
+    <ItemSpec id="11" quest="111860771" answer_warmonger="111860772" answer_socialite="111860773" answer_wealthy="111860774" answer_diplomat="111860775" answer_farmer="111860776" answer_landlord="111860777" />
+    <ItemSpec id="12" quest="111860778" answer_warmonger="111860779" answer_socialite="111860780" answer_wealthy="111860781" answer_diplomat="111860782" answer_farmer="111860783" answer_landlord="111860784" />
+    <ItemSpec id="13" quest="111860785" answer_warmonger="111860786" answer_socialite="111860787" answer_wealthy="111860788" answer_diplomat="111860789" answer_farmer="111860790" answer_landlord="111860791" />
+    <ItemSpec id="14" quest="111860792" answer_warmonger="111860793" answer_socialite="111860794" answer_wealthy="111860795" answer_diplomat="111860796" answer_farmer="111860797" answer_landlord="111860798" />
+    <ItemSpec id="15" quest="111860799" answer_warmonger="111860800" answer_socialite="111860801" answer_wealthy="111860802" answer_diplomat="111860803" answer_farmer="111860804" answer_landlord="111860805" />
+    <ItemSpec id="16" quest="111860806" answer_warmonger="111860807" answer_socialite="111860808" answer_wealthy="111860809" answer_diplomat="111860810" answer_farmer="111860811" answer_landlord="111860812" />
+    <ItemSpec id="17" quest="111860813" answer_warmonger="111860814" answer_socialite="111860815" answer_wealthy="111860816" answer_diplomat="111860817" answer_farmer="111860818" answer_landlord="111860819" />
+    <ItemSpec id="18" quest="111860820" answer_warmonger="111860821" answer_socialite="111860822" answer_wealthy="111860823" answer_diplomat="111860824" answer_farmer="111860825" answer_landlord="111860826" />
+    <ItemSpec id="19" quest="111860827" answer_warmonger="111860828" answer_socialite="111860829" answer_wealthy="111860830" answer_diplomat="111860831" answer_farmer="111860832" answer_landlord="111860833" />
+    <ItemSpec id="20" quest="111860834" answer_warmonger="111860835" answer_socialite="111860836" answer_wealthy="111860837" answer_diplomat="111860838" answer_farmer="111860839" answer_landlord="111860840" />
+	</Group> 
+</tns:database>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="homestead_report">
+		<ItemSpec id="101" content="112131101" type="1" placeholder="3"/>
+		<ItemSpec id="102" content="112131102" type="1" placeholder="1"/>
+		<ItemSpec id="103" content="112131103" type="2" placeholder="4"/>
+		<ItemSpec id="104" content="112131104" type="2" placeholder="4"/>
+		<ItemSpec id="105" content="112131105" type="3" placeholder="1"/>
+		<ItemSpec id="106" content="112131106" type="3" placeholder="1"/>
+		<ItemSpec id="107" content="112131107" type="3" placeholder="1"/>
+		<ItemSpec id="108" content="112131108" type="3" placeholder="1"/>
+		<ItemSpec id="109" content="112131109" type="3" placeholder="2"/>
+		<ItemSpec id="110" content="112131110" type="4" placeholder="2"/>
+		<ItemSpec id="111" content="112131111" type="4" placeholder="2"/>
+		<ItemSpec id="112" content="112131112" type="4" placeholder="2"/>
+		<ItemSpec id="113" content="112131113" type="4" placeholder="2"/>
+		<ItemSpec id="114" content="112131114" type="4" placeholder="1"/>
+
+	</Group>
+</tns:database>

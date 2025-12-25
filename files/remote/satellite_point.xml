@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="satellite_point">
+		<ItemSpec id="101" icon="img_point_satellite_03" class_limit="1" show="0" order="1"/>
+		<ItemSpec id="102" icon="img_point_satellite_03" class_limit="1" show="0" order="7"/>
+		<ItemSpec id="103" icon="img_point_satellite_03" class_limit="1" show="60" order="10"/>
+		<ItemSpec id="104" icon="img_point_satellite_03" class_limit="1" show="120" order="4"/>
+		<ItemSpec id="105" icon="img_point_satellite_02" class_limit="2" show="0" order="3"/>
+		<ItemSpec id="106" icon="img_point_satellite_02" class_limit="2" show="0" order="9"/>
+		<ItemSpec id="107" icon="img_point_satellite_02" class_limit="2" show="60" order="6"/>
+		<ItemSpec id="108" icon="img_point_satellite_02" class_limit="2" show="120" order="12"/>
+		<ItemSpec id="109" icon="img_point_satellite_01" class_limit="3" show="0" order="5"/>
+		<ItemSpec id="110" icon="img_point_satellite_01" class_limit="3" show="0" order="11"/>
+		<ItemSpec id="111" icon="img_point_satellite_01" class_limit="3" show="60" order="2"/>
+		<ItemSpec id="112" icon="img_point_satellite_01" class_limit="3" show="120" order="8"/>
+		<ItemSpec id="201" icon="img_point_satellite_03" class_limit="1" show="0" order="1"/>
+		<ItemSpec id="202" icon="img_point_satellite_03" class_limit="1" show="0" order="7"/>
+		<ItemSpec id="203" icon="img_point_satellite_03" class_limit="1" show="60" order="10"/>
+		<ItemSpec id="204" icon="img_point_satellite_04" class_limit="1|2" show="120" order="8"/>
+		<ItemSpec id="205" icon="img_point_satellite_02" class_limit="2" show="0" order="3"/>
+		<ItemSpec id="206" icon="img_point_satellite_02" class_limit="2" show="0" order="9"/>
+		<ItemSpec id="207" icon="img_point_satellite_02" class_limit="2" show="60" order="6"/>
+		<ItemSpec id="208" icon="img_point_satellite_06" class_limit="2|3" show="120" order="4"/>
+		<ItemSpec id="209" icon="img_point_satellite_01" class_limit="3" show="0" order="5"/>
+		<ItemSpec id="210" icon="img_point_satellite_01" class_limit="3" show="0" order="11"/>
+		<ItemSpec id="211" icon="img_point_satellite_01" class_limit="3" show="60" order="2"/>
+		<ItemSpec id="212" icon="img_point_satellite_05" class_limit="1|3" show="120" order="12"/>
+		<ItemSpec id="301" icon="img_point_satellite_03" class_limit="1" show="0" order="12"/>
+		<ItemSpec id="302" icon="img_point_satellite_03" class_limit="1" show="0" order="6"/>
+		<ItemSpec id="303" icon="img_point_satellite_03" class_limit="1" show="60" order="3"/>
+		<ItemSpec id="304" icon="img_point_satellite_04" class_limit="1|2" show="120" order="5"/>
+		<ItemSpec id="305" icon="img_point_satellite_02" class_limit="2" show="0" order="10"/>
+		<ItemSpec id="306" icon="img_point_satellite_02" class_limit="2" show="0" order="4"/>
+		<ItemSpec id="307" icon="img_point_satellite_02" class_limit="2" show="60" order="7"/>
+		<ItemSpec id="308" icon="img_point_satellite_06" class_limit="2|3" show="120" order="9"/>
+		<ItemSpec id="309" icon="img_point_satellite_01" class_limit="3" show="0" order="8"/>
+		<ItemSpec id="310" icon="img_point_satellite_01" class_limit="3" show="0" order="2"/>
+		<ItemSpec id="311" icon="img_point_satellite_01" class_limit="3" show="60" order="11"/>
+		<ItemSpec id="312" icon="img_point_satellite_05" class_limit="1|3" show="120" order="1"/>
+		<ItemSpec id="401" icon="img_point_satellite_03" class_limit="1" show="0" order="12"/>
+		<ItemSpec id="402" icon="img_point_satellite_03" class_limit="1" show="0" order="6"/>
+		<ItemSpec id="403" icon="img_point_satellite_05" class_limit="1|3" show="60" order="7"/>
+		<ItemSpec id="404" icon="img_point_satellite_04" class_limit="1|2" show="120" order="5"/>
+		<ItemSpec id="405" icon="img_point_satellite_02" class_limit="2" show="0" order="10"/>
+		<ItemSpec id="406" icon="img_point_satellite_02" class_limit="2" show="0" order="4"/>
+		<ItemSpec id="407" icon="img_point_satellite_04" class_limit="1|2" show="60" order="11"/>
+		<ItemSpec id="408" icon="img_point_satellite_06" class_limit="2|3" show="120" order="9"/>
+		<ItemSpec id="409" icon="img_point_satellite_01" class_limit="3" show="0" order="8"/>
+		<ItemSpec id="410" icon="img_point_satellite_01" class_limit="3" show="0" order="2"/>
+		<ItemSpec id="411" icon="img_point_satellite_06" class_limit="2|3" show="60" order="3"/>
+		<ItemSpec id="412" icon="img_point_satellite_05" class_limit="1|3" show="120" order="1"/>
+		<ItemSpec id="501" icon="img_point_satellite_03" class_limit="1" show="0" order="12"/>
+		<ItemSpec id="502" icon="img_point_satellite_03" class_limit="1" show="0" order="6"/>
+		<ItemSpec id="503" icon="img_point_satellite_05" class_limit="1|3" show="60" order="7"/>
+		<ItemSpec id="504" icon="img_point_satellite_04" class_limit="1|2" show="120" order="5"/>
+		<ItemSpec id="505" icon="img_point_satellite_02" class_limit="2" show="0" order="10"/>
+		<ItemSpec id="506" icon="img_point_satellite_02" class_limit="2" show="0" order="4"/>
+		<ItemSpec id="507" icon="img_point_satellite_04" class_limit="1|2" show="60" order="11"/>
+		<ItemSpec id="508" icon="img_point_satellite_06" class_limit="2|3" show="120" order="9"/>
+		<ItemSpec id="509" icon="img_point_satellite_01" class_limit="3" show="0" order="8"/>
+		<ItemSpec id="510" icon="img_point_satellite_01" class_limit="3" show="0" order="2"/>
+		<ItemSpec id="511" icon="img_point_satellite_06" class_limit="2|3" show="60" order="3"/>
+		<ItemSpec id="512" icon="img_point_satellite_05" class_limit="1|3" show="120" order="1"/>
+	</Group>
+</tns:database>

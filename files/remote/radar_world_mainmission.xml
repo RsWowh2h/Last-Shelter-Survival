@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="radar_world_mainmission">
+
+    <ItemSpec id="100001" type="1" link_id="100002" name="110092000" desc="110092004" mission="950001" chapter="1;1" marchTime="8" reward="1;250004" />
+    <ItemSpec id="100002" type="1" link_id="100003" name="110092000" desc="110092004" mission="950002" chapter="1;2" marchTime="8" reward="1;70000|4;700001" />
+    <ItemSpec id="100003" type="1" link_id="100004" name="110092000" desc="110092004" mission="950003" chapter="1;3" marchTime="8" reward="1;70000|4;700001" />
+    <ItemSpec id="100004" type="1" link_id="100005" name="110092000" desc="110092004" mission="950004" chapter="1;4" marchTime="8" reward="1;70000|4;700001" />
+    <ItemSpec id="100005" type="1" link_id="100006" name="110092000" desc="110092004" mission="950005" chapter="1;5" marchTime="8" reward="1;70000|4;700001" />
+    <ItemSpec id="100006" type="1" link_id="100007" name="110092000" desc="110092004" mission="950006" chapter="1;6" marchTime="8" reward="1;70000|4;700001" />
+    <ItemSpec id="100007" type="1" link_id="100008" name="110092000" desc="110092004" mission="950007" chapter="1;7" marchTime="8" reward="1;70000|4;700001" />
+    <ItemSpec id="100008" type="1" link_id="100009" name="110092000" desc="110092004" mission="950008" chapter="1;8" marchTime="8" reward="1;70000|4;700001" />
+    <ItemSpec id="100009" type="1" link_id="100010" name="110092000" desc="110092004" mission="950009" chapter="1;9" marchTime="8" reward="1;70000|4;700001" />
+    <ItemSpec id="100010" type="1" link_id="100011" name="110092000" desc="110092004" mission="950010" chapter="1;10" marchTime="8" reward="1;70000|4;700001" />
+    <ItemSpec id="100011" type="1" link_id="100012" name="110092000" desc="110092004" mission="950011" chapter="2;1" marchTime="10" reward="1;70000|4;700001" />
+    <ItemSpec id="100012" type="1" link_id="100013" name="110092000" desc="110092004" mission="950012" chapter="2;2" marchTime="10" reward="1;70000|4;700001" />
+    <ItemSpec id="100013" type="1" link_id="100014" name="110092000" desc="110092004" mission="950013" chapter="2;3" marchTime="10" reward="1;70000|4;700001" />
+    <ItemSpec id="100014" type="1" link_id="100015" name="110092000" desc="110092004" mission="950014" chapter="2;4" marchTime="10" reward="1;70000|4;700001" />
+    <ItemSpec id="100015" type="1" link_id="100016" name="110092000" desc="110092004" mission="950015" chapter="2;5" marchTime="10" reward="1;70000|4;700001" />
+    <ItemSpec id="100016" type="1" link_id="100017" name="110092000" desc="110092004" mission="950016" chapter="2;6" marchTime="15" reward="1;70000|4;700001" />
+    <ItemSpec id="100017" type="1" link_id="100018" name="110092000" desc="110092004" mission="950017" chapter="2;7" marchTime="15" reward="1;70000|4;700001" />
+    <ItemSpec id="100018" type="1" link_id="100019" name="110092000" desc="110092004" mission="950018" chapter="2;8" marchTime="15" reward="1;70000|4;700001" />
+    <ItemSpec id="100019" type="1" link_id="100020" name="110092000" desc="110092004" mission="950019" chapter="2;9" marchTime="15" reward="1;70000|4;700001" />
+    <ItemSpec id="100020" type="1" link_id="100021" name="110092000" desc="110092004" mission="950020" chapter="2;10" marchTime="15" reward="1;70000|4;700001" />
+    <ItemSpec id="100021" type="1" link_id="100022" name="110092000" desc="110092004" mission="950021" chapter="3;1" marchTime="15" reward="1;70000|4;700001" />
+    <ItemSpec id="100022" type="1" link_id="100023" name="110092000" desc="110092004" mission="950022" chapter="3;2" marchTime="15" reward="1;70000|4;700001" />
+    <ItemSpec id="100023" type="1" link_id="100024" name="110092000" desc="110092004" mission="950023" chapter="3;3" marchTime="15" reward="1;70000|4;700001" />
+    <ItemSpec id="100024" type="1" link_id="100025" name="110092000" desc="110092004" mission="950024" chapter="3;4" marchTime="15" reward="1;70000|4;700001" />
+    <ItemSpec id="100025" type="1" link_id="100026" name="110092000" desc="110092004" mission="950025" chapter="3;5" marchTime="15" reward="1;70000|4;700001" />
+    <ItemSpec id="100026" type="1" link_id="100027" name="110092000" desc="110092004" mission="950026" chapter="3;6" marchTime="22" reward="1;70000|4;700001" />
+    <ItemSpec id="100027" type="1" link_id="100028" name="110092000" desc="110092004" mission="950027" chapter="3;7" marchTime="22" reward="1;70000|4;700001" />
+    <ItemSpec id="100028" type="1" link_id="100029" name="110092000" desc="110092004" mission="950028" chapter="3;8" marchTime="22" reward="1;70000|4;700001" />
+    <ItemSpec id="100029" type="1" link_id="100030" name="110092000" desc="110092004" mission="950029" chapter="3;9" marchTime="22" reward="1;70000|4;700001" />
+    <ItemSpec id="100030" type="1" link_id="100031" name="110092000" desc="110092004" mission="950030" chapter="3;10" marchTime="22" reward="1;70000|4;700001" />
+    <ItemSpec id="100031" type="1" link_id="100032" name="110092000" desc="110092004" mission="950031" chapter="4;1" marchTime="22" reward="1;70000|4;700001" />
+    <ItemSpec id="100032" type="1" link_id="100033" name="110092000" desc="110092004" mission="950032" chapter="4;2" marchTime="22" reward="1;70000|4;700001" />
+    <ItemSpec id="100033" type="1" link_id="100034" name="110092000" desc="110092004" mission="950033" chapter="4;3" marchTime="22" reward="1;70000|4;700001" />
+    <ItemSpec id="100034" type="1" link_id="100035" name="110092000" desc="110092004" mission="950034" chapter="4;4" marchTime="22" reward="1;70000|4;700001" />
+    <ItemSpec id="100035" type="1" link_id="100036" name="110092000" desc="110092004" mission="950035" chapter="4;5" marchTime="22" reward="1;70000|4;700001" />
+    <ItemSpec id="100036" type="1" link_id="100037" name="110092000" desc="110092004" mission="950036" chapter="4;6" marchTime="22" reward="1;70000|4;700001" />
+    <ItemSpec id="100037" type="1" link_id="100038" name="110092000" desc="110092004" mission="950037" chapter="4;7" marchTime="22" reward="1;70000|4;700001" />
+    <ItemSpec id="100038" type="1" link_id="100039" name="110092000" desc="110092004" mission="950038" chapter="4;8" marchTime="22" reward="1;70000|4;700001" />
+    <ItemSpec id="100039" type="1" link_id="100040" name="110092000" desc="110092004" mission="950039" chapter="4;9" marchTime="22" reward="1;70000|4;700001" />
+    <ItemSpec id="100040" type="1" link_id="100041" name="110092000" desc="110092004" mission="950040" chapter="4;10" marchTime="22" reward="1;70000|4;700001" />
+    <ItemSpec id="100041" type="1" link_id="100042" name="110092000" desc="110092004" mission="950041" chapter="5;1" marchTime="22" reward="1;70000|4;700001" />
+    <ItemSpec id="100042" type="1" link_id="100043" name="110092000" desc="110092004" mission="950042" chapter="5;2" marchTime="22" reward="1;70000|4;700001" />
+    <ItemSpec id="100043" type="1" link_id="100044" name="110092000" desc="110092004" mission="950043" chapter="5;3" marchTime="22" reward="1;70000|4;700001" />
+    <ItemSpec id="100044" type="1" link_id="100045" name="110092000" desc="110092004" mission="950044" chapter="5;4" marchTime="22" reward="1;70000|4;700001" />
+    <ItemSpec id="100045" type="1" link_id="100046" name="110092000" desc="110092004" mission="950045" chapter="5;5" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100046" type="1" link_id="100047" name="110092000" desc="110092004" mission="950046" chapter="5;6" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100047" type="1" link_id="100048" name="110092000" desc="110092004" mission="950047" chapter="5;7" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100048" type="1" link_id="100049" name="110092000" desc="110092004" mission="950048" chapter="5;8" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100049" type="1" link_id="100050" name="110092000" desc="110092004" mission="950049" chapter="5;9" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100050" type="1" link_id="100051" name="110092000" desc="110092004" mission="950050" chapter="5;10" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100051" type="1" link_id="100052" name="110092000" desc="110092004" mission="950051" chapter="6;1" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100052" type="1" link_id="100053" name="110092000" desc="110092004" mission="950052" chapter="6;2" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100053" type="1" link_id="100054" name="110092000" desc="110092004" mission="950053" chapter="6;3" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100054" type="1" link_id="100055" name="110092000" desc="110092004" mission="950054" chapter="6;4" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100055" type="1" link_id="100056" name="110092000" desc="110092004" mission="950055" chapter="6;5" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100056" type="1" link_id="100057" name="110092000" desc="110092004" mission="950056" chapter="6;6" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100057" type="1" link_id="100058" name="110092000" desc="110092004" mission="950057" chapter="6;7" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100058" type="1" link_id="100059" name="110092000" desc="110092004" mission="950058" chapter="6;8" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100059" type="1" link_id="100060" name="110092000" desc="110092004" mission="950059" chapter="6;9" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100060" type="1" link_id="100061" name="110092000" desc="110092004" mission="950060" chapter="6;10" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100061" type="1" link_id="100062" name="110092000" desc="110092004" mission="950061" chapter="7;1" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100062" type="1" link_id="100063" name="110092000" desc="110092004" mission="950062" chapter="7;2" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100063" type="1" link_id="100064" name="110092000" desc="110092004" mission="950063" chapter="7;3" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100064" type="1" link_id="100065" name="110092000" desc="110092004" mission="950064" chapter="7;4" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100065" type="1" link_id="100066" name="110092000" desc="110092004" mission="950065" chapter="7;5" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100066" type="1" link_id="100067" name="110092000" desc="110092004" mission="950066" chapter="7;6" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100067" type="1" link_id="100068" name="110092000" desc="110092004" mission="950067" chapter="7;7" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100068" type="1" link_id="100069" name="110092000" desc="110092004" mission="950068" chapter="7;8" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100069" type="1" link_id="100070" name="110092000" desc="110092004" mission="950069" chapter="7;9" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100070" type="1" link_id="100071" name="110092000" desc="110092004" mission="950070" chapter="7;10" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100071" type="1" link_id="100072" name="110092000" desc="110092004" mission="950071" chapter="8;1" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100072" type="1" link_id="100073" name="110092000" desc="110092004" mission="950072" chapter="8;2" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100073" type="1" link_id="100074" name="110092000" desc="110092004" mission="950073" chapter="8;3" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100074" type="1" link_id="100075" name="110092000" desc="110092004" mission="950074" chapter="8;4" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100075" type="1" link_id="100076" name="110092000" desc="110092004" mission="950075" chapter="8;5" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100076" type="1" link_id="100077" name="110092000" desc="110092004" mission="950076" chapter="8;6" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100077" type="1" link_id="100078" name="110092000" desc="110092004" mission="950077" chapter="8;7" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100078" type="1" link_id="100079" name="110092000" desc="110092004" mission="950078" chapter="8;8" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100079" type="1" link_id="100080" name="110092000" desc="110092004" mission="950079" chapter="8;9" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100080" type="1" link_id="100081" name="110092000" desc="110092004" mission="950080" chapter="8;10" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100081" type="1" link_id="100082" name="110092000" desc="110092004" mission="950081" chapter="9;1" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100082" type="1" link_id="100083" name="110092000" desc="110092004" mission="950082" chapter="9;2" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100083" type="1" link_id="100084" name="110092000" desc="110092004" mission="950083" chapter="9;3" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100084" type="1" link_id="100085" name="110092000" desc="110092004" mission="950084" chapter="9;4" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100085" type="1" link_id="100086" name="110092000" desc="110092004" mission="950085" chapter="9;5" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100086" type="1" link_id="100087" name="110092000" desc="110092004" mission="950086" chapter="9;6" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100087" type="1" link_id="100088" name="110092000" desc="110092004" mission="950087" chapter="9;7" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100088" type="1" link_id="100089" name="110092000" desc="110092004" mission="950088" chapter="9;8" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100089" type="1" link_id="100090" name="110092000" desc="110092004" mission="950089" chapter="9;9" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100090" type="1" link_id="100091" name="110092000" desc="110092004" mission="950090" chapter="9;10" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100091" type="1" link_id="100092" name="110092000" desc="110092004" mission="950091" chapter="10;1" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100092" type="1" link_id="100093" name="110092000" desc="110092004" mission="950092" chapter="10;2" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100093" type="1" link_id="100094" name="110092000" desc="110092004" mission="950093" chapter="10;3" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100094" type="1" link_id="100095" name="110092000" desc="110092004" mission="950094" chapter="10;4" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100095" type="1" link_id="100096" name="110092000" desc="110092004" mission="950095" chapter="10;5" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100096" type="1" link_id="100097" name="110092000" desc="110092004" mission="950096" chapter="10;6" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100097" type="1" link_id="100098" name="110092000" desc="110092004" mission="950097" chapter="10;7" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100098" type="1" link_id="100099" name="110092000" desc="110092004" mission="950098" chapter="10;8" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100099" type="1" link_id="100100" name="110092000" desc="110092004" mission="950099" chapter="10;9" marchTime="25" reward="1;70000|4;700001" />
+    <ItemSpec id="100100" type="1" name="110092000" desc="110092004" mission="950100" chapter="10;10" marchTime="25" reward="1;70000|4;700001" />
+
+
+    <ItemSpec id="100101" type="1" link_id="100102" name="110092000" desc="110092004" mission="950001" chapter="1;1" marchTime="8" reward="9;921000" />
+    <ItemSpec id="100102" type="1" link_id="100103" name="110092000" desc="110092004" mission="950002" chapter="1;2" marchTime="8" reward="9;921000" />
+    <ItemSpec id="100103" type="1" link_id="100104" name="110092000" desc="110092004" mission="950003" chapter="1;3" marchTime="8" reward="9;921000" />
+    <ItemSpec id="100104" type="1" link_id="100105" name="110092000" desc="110092004" mission="950004" chapter="1;4" marchTime="8" reward="9;921000" />
+    <ItemSpec id="100105" type="1" link_id="100106" name="110092000" desc="110092004" mission="950005" chapter="1;5" marchTime="8" reward="9;921000" />
+    <ItemSpec id="100106" type="1" link_id="100107" name="110092000" desc="110092004" mission="950006" chapter="1;6" marchTime="8" reward="9;921000" />
+    <ItemSpec id="100107" type="1" link_id="100108" name="110092000" desc="110092004" mission="950007" chapter="1;7" marchTime="8" reward="9;921000" />
+    <ItemSpec id="100108" type="1" link_id="100109" name="110092000" desc="110092004" mission="950008" chapter="1;8" marchTime="8" reward="9;921000" />
+    <ItemSpec id="100109" type="1" link_id="100110" name="110092000" desc="110092004" mission="950009" chapter="1;9" marchTime="8" reward="9;921000" />
+    <ItemSpec id="100110" type="1" link_id="100111" name="110092000" desc="110092004" mission="950010" chapter="1;10" marchTime="8" reward="9;921000" />
+    <ItemSpec id="100111" type="1" link_id="100112" name="110092000" desc="110092004" mission="950011" chapter="2;1" marchTime="10" reward="9;921001" />
+    <ItemSpec id="100112" type="1" link_id="100113" name="110092000" desc="110092004" mission="950012" chapter="2;2" marchTime="10" reward="9;921001" />
+    <ItemSpec id="100113" type="1" link_id="100114" name="110092000" desc="110092004" mission="950013" chapter="2;3" marchTime="10" reward="9;921001" />
+    <ItemSpec id="100114" type="1" link_id="100115" name="110092000" desc="110092004" mission="950014" chapter="2;4" marchTime="10" reward="9;921001" />
+    <ItemSpec id="100115" type="1" link_id="100116" name="110092000" desc="110092004" mission="950015" chapter="2;5" marchTime="10" reward="9;921001" />
+    <ItemSpec id="100116" type="1" link_id="100117" name="110092000" desc="110092004" mission="950016" chapter="2;6" marchTime="15" reward="9;921001" />
+    <ItemSpec id="100117" type="1" link_id="100118" name="110092000" desc="110092004" mission="950017" chapter="2;7" marchTime="15" reward="9;921001" />
+    <ItemSpec id="100118" type="1" link_id="100119" name="110092000" desc="110092004" mission="950018" chapter="2;8" marchTime="15" reward="9;921001" />
+    <ItemSpec id="100119" type="1" link_id="100120" name="110092000" desc="110092004" mission="950019" chapter="2;9" marchTime="15" reward="9;921001" />
+    <ItemSpec id="100120" type="1" link_id="100121" name="110092000" desc="110092004" mission="950020" chapter="2;10" marchTime="15" reward="9;921001" />
+    <ItemSpec id="100121" type="1" link_id="100122" name="110092000" desc="110092004" mission="950021" chapter="3;1" marchTime="15" reward="9;921002" />
+    <ItemSpec id="100122" type="1" link_id="100123" name="110092000" desc="110092004" mission="950022" chapter="3;2" marchTime="15" reward="9;921002" />
+    <ItemSpec id="100123" type="1" link_id="100124" name="110092000" desc="110092004" mission="950023" chapter="3;3" marchTime="15" reward="9;921002" />
+    <ItemSpec id="100124" type="1" link_id="100125" name="110092000" desc="110092004" mission="950024" chapter="3;4" marchTime="15" reward="9;921002" />
+    <ItemSpec id="100125" type="1" link_id="100126" name="110092000" desc="110092004" mission="950025" chapter="3;5" marchTime="15" reward="9;921002" />
+    <ItemSpec id="100126" type="1" link_id="100127" name="110092000" desc="110092004" mission="950026" chapter="3;6" marchTime="22" reward="9;921002" />
+    <ItemSpec id="100127" type="1" link_id="100128" name="110092000" desc="110092004" mission="950027" chapter="3;7" marchTime="22" reward="9;921002" />
+    <ItemSpec id="100128" type="1" link_id="100129" name="110092000" desc="110092004" mission="950028" chapter="3;8" marchTime="22" reward="9;921002" />
+    <ItemSpec id="100129" type="1" link_id="100130" name="110092000" desc="110092004" mission="950029" chapter="3;9" marchTime="22" reward="9;921002" />
+    <ItemSpec id="100130" type="1" link_id="100131" name="110092000" desc="110092004" mission="950030" chapter="3;10" marchTime="22" reward="9;921002" />
+    <ItemSpec id="100131" type="1" link_id="100132" name="110092000" desc="110092004" mission="950031" chapter="4;1" marchTime="22" reward="9;921003" />
+    <ItemSpec id="100132" type="1" link_id="100133" name="110092000" desc="110092004" mission="950032" chapter="4;2" marchTime="22" reward="9;921003" />
+    <ItemSpec id="100133" type="1" link_id="100134" name="110092000" desc="110092004" mission="950033" chapter="4;3" marchTime="22" reward="9;921003" />
+    <ItemSpec id="100134" type="1" link_id="100135" name="110092000" desc="110092004" mission="950034" chapter="4;4" marchTime="22" reward="9;921003" />
+    <ItemSpec id="100135" type="1" link_id="100136" name="110092000" desc="110092004" mission="950035" chapter="4;5" marchTime="22" reward="9;921003" />
+    <ItemSpec id="100136" type="1" link_id="100137" name="110092000" desc="110092004" mission="950036" chapter="4;6" marchTime="22" reward="9;921003" />
+    <ItemSpec id="100137" type="1" link_id="100138" name="110092000" desc="110092004" mission="950037" chapter="4;7" marchTime="22" reward="9;921003" />
+    <ItemSpec id="100138" type="1" link_id="100139" name="110092000" desc="110092004" mission="950038" chapter="4;8" marchTime="22" reward="9;921003" />
+    <ItemSpec id="100139" type="1" link_id="100140" name="110092000" desc="110092004" mission="950039" chapter="4;9" marchTime="22" reward="9;921003" />
+    <ItemSpec id="100140" type="1" link_id="100141" name="110092000" desc="110092004" mission="950040" chapter="4;10" marchTime="22" reward="9;921003" />
+    <ItemSpec id="100141" type="1" link_id="100142" name="110092000" desc="110092004" mission="950041" chapter="5;1" marchTime="22" reward="9;921004" />
+    <ItemSpec id="100142" type="1" link_id="100143" name="110092000" desc="110092004" mission="950042" chapter="5;2" marchTime="22" reward="9;921004" />
+    <ItemSpec id="100143" type="1" link_id="100144" name="110092000" desc="110092004" mission="950043" chapter="5;3" marchTime="22" reward="9;921004" />
+    <ItemSpec id="100144" type="1" link_id="100145" name="110092000" desc="110092004" mission="950044" chapter="5;4" marchTime="22" reward="9;921004" />
+    <ItemSpec id="100145" type="1" link_id="100146" name="110092000" desc="110092004" mission="950045" chapter="5;5" marchTime="25" reward="9;921004" />
+    <ItemSpec id="100146" type="1" link_id="100147" name="110092000" desc="110092004" mission="950046" chapter="5;6" marchTime="25" reward="9;921004" />
+    <ItemSpec id="100147" type="1" link_id="100148" name="110092000" desc="110092004" mission="950047" chapter="5;7" marchTime="25" reward="9;921004" />
+    <ItemSpec id="100148" type="1" link_id="100149" name="110092000" desc="110092004" mission="950048" chapter="5;8" marchTime="25" reward="9;921004" />
+    <ItemSpec id="100149" type="1" link_id="100150" name="110092000" desc="110092004" mission="950049" chapter="5;9" marchTime="25" reward="9;921004" />
+    <ItemSpec id="100150" type="1" link_id="100151" name="110092000" desc="110092004" mission="950050" chapter="5;10" marchTime="25" reward="9;921004" />
+    <ItemSpec id="100151" type="1" link_id="100152" name="110092000" desc="110092004" mission="950051" chapter="6;1" marchTime="25" reward="9;921005" />
+    <ItemSpec id="100152" type="1" link_id="100153" name="110092000" desc="110092004" mission="950052" chapter="6;2" marchTime="25" reward="9;921005" />
+    <ItemSpec id="100153" type="1" link_id="100154" name="110092000" desc="110092004" mission="950053" chapter="6;3" marchTime="25" reward="9;921005" />
+    <ItemSpec id="100154" type="1" link_id="100155" name="110092000" desc="110092004" mission="950054" chapter="6;4" marchTime="25" reward="9;921005" />
+    <ItemSpec id="100155" type="1" link_id="100156" name="110092000" desc="110092004" mission="950055" chapter="6;5" marchTime="25" reward="9;921005" />
+    <ItemSpec id="100156" type="1" link_id="100157" name="110092000" desc="110092004" mission="950056" chapter="6;6" marchTime="25" reward="9;921005" />
+    <ItemSpec id="100157" type="1" link_id="100158" name="110092000" desc="110092004" mission="950057" chapter="6;7" marchTime="25" reward="9;921005" />
+    <ItemSpec id="100158" type="1" link_id="100159" name="110092000" desc="110092004" mission="950058" chapter="6;8" marchTime="25" reward="9;921005" />
+    <ItemSpec id="100159" type="1" link_id="100160" name="110092000" desc="110092004" mission="950059" chapter="6;9" marchTime="25" reward="9;921005" />
+    <ItemSpec id="100160" type="1" link_id="100161" name="110092000" desc="110092004" mission="950060" chapter="6;10" marchTime="25" reward="9;921005" />
+    <ItemSpec id="100161" type="1" link_id="100162" name="110092000" desc="110092004" mission="950061" chapter="7;1" marchTime="25" reward="9;921006" />
+    <ItemSpec id="100162" type="1" link_id="100163" name="110092000" desc="110092004" mission="950062" chapter="7;2" marchTime="25" reward="9;921006" />
+    <ItemSpec id="100163" type="1" link_id="100164" name="110092000" desc="110092004" mission="950063" chapter="7;3" marchTime="25" reward="9;921006" />
+    <ItemSpec id="100164" type="1" link_id="100165" name="110092000" desc="110092004" mission="950064" chapter="7;4" marchTime="25" reward="9;921006" />
+    <ItemSpec id="100165" type="1" link_id="100166" name="110092000" desc="110092004" mission="950065" chapter="7;5" marchTime="25" reward="9;921006" />
+    <ItemSpec id="100166" type="1" link_id="100167" name="110092000" desc="110092004" mission="950066" chapter="7;6" marchTime="25" reward="9;921006" />
+    <ItemSpec id="100167" type="1" link_id="100168" name="110092000" desc="110092004" mission="950067" chapter="7;7" marchTime="25" reward="9;921006" />
+    <ItemSpec id="100168" type="1" link_id="100169" name="110092000" desc="110092004" mission="950068" chapter="7;8" marchTime="25" reward="9;921006" />
+    <ItemSpec id="100169" type="1" link_id="100170" name="110092000" desc="110092004" mission="950069" chapter="7;9" marchTime="25" reward="9;921006" />
+    <ItemSpec id="100170" type="1" link_id="100171" name="110092000" desc="110092004" mission="950070" chapter="7;10" marchTime="25" reward="9;921006" />
+    <ItemSpec id="100171" type="1" link_id="100172" name="110092000" desc="110092004" mission="950071" chapter="8;1" marchTime="25" reward="9;921007" />
+    <ItemSpec id="100172" type="1" link_id="100173" name="110092000" desc="110092004" mission="950072" chapter="8;2" marchTime="25" reward="9;921007" />
+    <ItemSpec id="100173" type="1" link_id="100174" name="110092000" desc="110092004" mission="950073" chapter="8;3" marchTime="25" reward="9;921007" />
+    <ItemSpec id="100174" type="1" link_id="100175" name="110092000" desc="110092004" mission="950074" chapter="8;4" marchTime="25" reward="9;921007" />
+    <ItemSpec id="100175" type="1" link_id="100176" name="110092000" desc="110092004" mission="950075" chapter="8;5" marchTime="25" reward="9;921007" />
+    <ItemSpec id="100176" type="1" link_id="100177" name="110092000" desc="110092004" mission="950076" chapter="8;6" marchTime="25" reward="9;921007" />
+    <ItemSpec id="100177" type="1" link_id="100178" name="110092000" desc="110092004" mission="950077" chapter="8;7" marchTime="25" reward="9;921007" />
+    <ItemSpec id="100178" type="1" link_id="100179" name="110092000" desc="110092004" mission="950078" chapter="8;8" marchTime="25" reward="9;921007" />
+    <ItemSpec id="100179" type="1" link_id="100180" name="110092000" desc="110092004" mission="950079" chapter="8;9" marchTime="25" reward="9;921007" />
+    <ItemSpec id="100180" type="1" link_id="100181" name="110092000" desc="110092004" mission="950080" chapter="8;10" marchTime="25" reward="9;921007" />
+    <ItemSpec id="100181" type="1" link_id="100182" name="110092000" desc="110092004" mission="950081" chapter="9;1" marchTime="25" reward="9;921008" />
+    <ItemSpec id="100182" type="1" link_id="100183" name="110092000" desc="110092004" mission="950082" chapter="9;2" marchTime="25" reward="9;921008" />
+    <ItemSpec id="100183" type="1" link_id="100184" name="110092000" desc="110092004" mission="950083" chapter="9;3" marchTime="25" reward="9;921008" />
+    <ItemSpec id="100184" type="1" link_id="100185" name="110092000" desc="110092004" mission="950084" chapter="9;4" marchTime="25" reward="9;921008" />
+    <ItemSpec id="100185" type="1" link_id="100186" name="110092000" desc="110092004" mission="950085" chapter="9;5" marchTime="25" reward="9;921008" />
+    <ItemSpec id="100186" type="1" link_id="100187" name="110092000" desc="110092004" mission="950086" chapter="9;6" marchTime="25" reward="9;921008" />
+    <ItemSpec id="100187" type="1" link_id="100188" name="110092000" desc="110092004" mission="950087" chapter="9;7" marchTime="25" reward="9;921008" />
+    <ItemSpec id="100188" type="1" link_id="100189" name="110092000" desc="110092004" mission="950088" chapter="9;8" marchTime="25" reward="9;921008" />
+    <ItemSpec id="100189" type="1" link_id="100190" name="110092000" desc="110092004" mission="950089" chapter="9;9" marchTime="25" reward="9;921008" />
+    <ItemSpec id="100190" type="1" name="110092000" desc="110092004" mission="950090" chapter="9;10" marchTime="25" reward="9;921008" />
+
+
+    <!-- S0雷达主线章节 -->
+	<ItemSpec id="200101" type="1" link_id="200102" name="110092000" desc="110092004" mission="955001" chapter="1;1" marchTime="10" reward="-1;922001"/>
+	<ItemSpec id="200102" type="1" link_id="200103" name="110092000" desc="110092004" mission="955002" chapter="1;2" marchTime="10" reward="-1;922002"/>
+	<ItemSpec id="200103" type="1" link_id="200104" name="110092000" desc="110092004" mission="955003" chapter="1;3" marchTime="10" reward="-1;922003"/>
+	
+	<ItemSpec id="200104" type="1" link_id="200105" name="110092000" desc="110092004" mission="955004" chapter="1;4" marchTime="10" reward="-1;922004"/>
+	<ItemSpec id="200105" type="1" link_id="200106" name="110092000" desc="110092004" mission="955005" chapter="2;1" marchTime="10" reward="-1;922005"/>
+	<ItemSpec id="200106" type="1" link_id="200107" name="110092000" desc="110092004" mission="955006" chapter="2;2" marchTime="10" reward="-1;922006"/>
+	
+	<ItemSpec id="200107" type="1" link_id="200108" name="110092000" desc="110092004" mission="955007" chapter="2;3" marchTime="10" reward="-1;922007"/>
+	<ItemSpec id="200108" type="1" link_id="200109" name="110092000" desc="110092004" mission="955008" chapter="2;4" marchTime="10" reward="-1;922008"/>
+	<ItemSpec id="200109" type="1" link_id="200110" name="110092000" desc="110092004" mission="955009" chapter="2;5" marchTime="10" reward="-1;922009"/>
+	
+	<ItemSpec id="200110" type="1" link_id="200111" name="110092000" desc="110092004" mission="955010" chapter="2;6" marchTime="10" reward="-1;922010"/>
+	<ItemSpec id="200111" type="1" link_id="200112" name="110092000" desc="110092004" mission="955011" chapter="3;1" marchTime="10" reward="-1;922011"/>
+	<ItemSpec id="200112" type="1" link_id="200113" name="110092000" desc="110092004" mission="955012" chapter="3;2" marchTime="10" reward="-1;922012"/>
+	
+	<ItemSpec id="200113" type="1" link_id="200114" name="110092000" desc="110092004" mission="955013" chapter="3;3" marchTime="10" reward="-1;922013"/>
+	<ItemSpec id="200114" type="1" link_id="200115" name="110092000" desc="110092004" mission="955014" chapter="3;4" marchTime="10" reward="-1;922014"/>
+	<ItemSpec id="200115" type="1" link_id="200116" name="110092000" desc="110092004" mission="955015" chapter="3;5" marchTime="10" reward="-1;922015"/>
+	<ItemSpec id="200116" type="1" link_id="200117" name="110092000" desc="110092004" mission="955016" chapter="3;6" marchTime="10" reward="-1;922016"/>
+	
+	<ItemSpec id="200117" type="1" link_id="200118" name="110092000" desc="110092004" mission="955017" chapter="4;1" marchTime="10" reward="-1;922017"/>
+	<ItemSpec id="200118" type="1" link_id="200119" name="110092000" desc="110092004" mission="955018" chapter="4;2" marchTime="10" reward="-1;922018"/>
+	<ItemSpec id="200119" type="1" link_id="200120" name="110092000" desc="110092004" mission="955019" chapter="4;3" marchTime="10" reward="-1;922019"/>
+	<ItemSpec id="200120" type="1" link_id="200121" name="110092000" desc="110092004" mission="955020" chapter="4;4" marchTime="10" reward="-1;922020"/>
+	
+	<ItemSpec id="200121" type="1" link_id="200122" name="110092000" desc="110092004" mission="955021" chapter="4;5" marchTime="10" reward="-1;922021"/>
+	<ItemSpec id="200122" type="1" link_id="200123" name="110092000" desc="110092004" mission="955022" chapter="4;6" marchTime="10" reward="-1;922022"/>
+	<ItemSpec id="200123" type="1" link_id="200124" name="110092000" desc="110092004" mission="955023" chapter="5;1" marchTime="10" reward="-1;922023"/>
+	<ItemSpec id="200124" type="1" link_id="200125" name="110092000" desc="110092004" mission="955024" chapter="5;2" marchTime="10" reward="-1;922024"/>
+	<ItemSpec id="200125" type="1" link_id="200126" name="110092000" desc="110092004" mission="955025" chapter="5;3" marchTime="10" reward="-1;922025"/>
+	
+	<ItemSpec id="200126" type="1" link_id="200127" name="110092000" desc="110092004" mission="955026" chapter="5;4" marchTime="10" reward="-1;922026"/>
+	<ItemSpec id="200127" type="1" link_id="200128" name="110092000" desc="110092004" mission="955027" chapter="5;5" marchTime="10" reward="-1;922027"/>
+	<ItemSpec id="200128" type="1" link_id="200129" name="110092000" desc="110092004" mission="955028" chapter="5;6" marchTime="10" reward="-1;922028"/>
+	<ItemSpec id="200129" type="1" link_id="200130" name="110092000" desc="110092004" mission="955029" chapter="5;7" marchTime="10" reward="-1;922029"/>
+	<ItemSpec id="200130" type="1" name="110092000" desc="110092004" mission="955030" chapter="5;8" marchTime="10" reward="-1;922030"/>
+
+
+
+	</Group> 
+</tns:database>

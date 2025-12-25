@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="worldtrend">
+    <ItemSpec id="10000" mian_type="1" name="193403" description="193442" condition_des="193278;2|100" target="1" icon="B_TAST_BEIJING01" />
+    <ItemSpec id="10001" mian_type="1" name="193404" description="193443" condition_des="193278;6|4000" target="4000" icon="B_TAST_BEIJING02" act_name="800002" act_icon="UI_tianxiadashi_qingdian" act_des="193468" />
+    <ItemSpec id="10002" mian_type="1" name="193405" description="193444" condition_des="193279;5000" target="5000" icon="B_TAST_BEIJING04" act_name="150261" act_des="150271" />
+    <ItemSpec id="10003" mian_type="1" name="193407" description="193446" condition_des="193281;10000" target="10000" icon="B_TAST_BEIJING06" act_name="100365" act_icon="UI_tianxiadashi_xianshi" act_des="193470" />
+    <ItemSpec id="10004" mian_type="1" name="193408" description="193447" condition_des="193282;2000" target="2000" icon="B_TAST_BEIJING05" />
+    <ItemSpec id="10005" mian_type="1" name="193409" description="193448" condition_des="193283;50000" target="50000" icon="B_TAST_BEIJING03" act_name="133003" act_des="193469" />
+    <ItemSpec id="10006" mian_type="1" name="193410" description="193449" condition_des="193284;20|500" target="500" icon="B_TAST_BEIJING06" />
+    <ItemSpec id="10007" mian_type="1" name="193411" description="193450" condition_des="193285;5000000" target="5000000" icon="B_TAST_BEIJING05" act_name="90820011" act_icon="UI_tianxiadashi_junbeishadi" act_des="193472" />
+    <ItemSpec id="10008" mian_type="1" name="193413" description="193452" condition_des="193287;30000" target="30000" icon="B_TAST_BEIJING02" act_name="91010008" act_des="91010928" />
+    <ItemSpec id="10009" mian_type="1" name="193414" description="193453" condition_des="193288;2000000000" target="2000000000" icon="B_TAST_BEIJING02" />
+    <ItemSpec id="10010" mian_type="1" name="193412" description="193451" condition_des="193286;500000" target="500000" icon="B_TAST_BEIJING08" />
+    <ItemSpec id="10011" mian_type="2" name="193415" description="193454" condition_des="193289;5000" target="5000" icon="B_TAST_BEIJING07" />
+    <ItemSpec id="10012" mian_type="3" name="193416" description="193455" condition_des="193290;10" target="10" icon="B_TAST_BEIJING04" act_name="105862" act_des="193473" />
+    <ItemSpec id="10013" mian_type="2" name="193417" description="193456" condition_des="193291" target="1" icon="B_TAST_BEIJING07" act_name="193418" act_des="193474" />
+    <ItemSpec id="10014" mian_type="1" name="193418" description="193457" condition_des="193292;1500" target="1500" icon="B_TAST_BEIJING05" />
+    <ItemSpec id="10015" mian_type="1" name="193419" description="193458" condition_des="193293;10|5000000" target="10" icon="B_TAST_BEIJING07" act_name="173459" act_des="193475" />
+    <ItemSpec id="10016" mian_type="2" name="193420" description="193459" condition_des="193294;20" target="20" icon="B_TAST_BEIJING07" />
+    <ItemSpec id="10017" mian_type="1" name="193421" description="193460" condition_des="193295;200000" target="200000" icon="B_TAST_BEIJING01" />
+    <ItemSpec id="10018" mian_type="1" name="193422" description="193461" condition_des="193296;3000000" target="3000000" icon="B_TAST_BEIJING02" />
+    <ItemSpec id="10019" mian_type="1" name="193423" description="193462" condition_des="193297;20000000" target="20000000" icon="B_TAST_BEIJING03" />
+    <ItemSpec id="10020" mian_type="3" name="193424" description="193463" condition_des="193299" target="1" icon="B_TAST_BEIJING04" />
+    <ItemSpec id="10021" mian_type="1" name="193428" description="193467" condition_des="193302;126" target="126" icon="B_TAST_BEIJING01" act_name="90820023" act_des="193479" />
+</Group>
+</tns:database>

@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="beautyskills">
+       <ItemSpec id="30100" name="122071" icon="science_sp1" level="0" effect="193149;0" />
+    <ItemSpec id="30101" name="122071" icon="science_sp1" level="1" effect="193149;1" effectid="1231;1|1232;1" costitem="311005;100" power="20" />
+    <ItemSpec id="30102" name="122071" icon="science_sp1" level="2" effect="193149;2" effectid="1231;2|1232;2" costitem="311005;150" power="30" />
+    <ItemSpec id="30103" name="122071" icon="science_sp1" level="3" effect="193149;3" effectid="1231;3|1232;3" costitem="311005;300" power="40" />
+    <ItemSpec id="30104" name="122071" icon="science_sp1" level="4" effect="193149;4" effectid="1231;4|1232;4" costitem="311005;500" power="50" />
+    <ItemSpec id="30105" name="122071" icon="science_sp1" level="5" effect="193149;5" effectid="1231;5|1232;5" costitem="311005;650" power="60" />
+    <ItemSpec id="30106" name="122071" icon="science_sp1" level="6" effect="193149;6" effectid="1321;6|1323;6" costitem="311005;850" power="70" />
+    <ItemSpec id="30107" name="122071" icon="science_sp1" level="7" effect="193149;7" effectid="1321;7|1323;7" costitem="311005;1200" power="80" />
+    <ItemSpec id="30108" name="122071" icon="science_sp1" level="8" effect="193149;8" effectid="1321;8|1323;8" costitem="311005;1600" power="90" />
+    <ItemSpec id="30109" name="122071" icon="science_sp1" level="9" effect="193149;9" effectid="1321;9|1323;9" costitem="311005;2660" power="100" />
+    <ItemSpec id="30110" name="122071" icon="science_sp1" level="10" effect="193149;10" effectid="1321;10|1323;10" costitem="311005;2940" power="110" />
+    <ItemSpec id="30111" name="122071" icon="science_sp1" level="11" effect="193149;11" effectid="1321;11|1323;11" costitem="311005;3320" power="120" />
+    <ItemSpec id="30112" name="122071" icon="science_sp1" level="12" effect="193149;12" effectid="1321;12|1323;12" costitem="311005;3760" power="130" />
+    <ItemSpec id="30113" name="122071" icon="science_sp1" level="13" effect="193149;13" effectid="1321;13|1323;13" costitem="311005;4210" power="140" />
+    <ItemSpec id="30114" name="122071" icon="science_sp1" level="14" effect="193149;14" effectid="1321;14|1323;14" costitem="311005;4740" power="150" />
+    <ItemSpec id="30115" name="122071" icon="science_sp1" level="15" effect="193149;15" effectid="1321;15|1323;15" costitem="311005;5380" power="160" />
+    <ItemSpec id="30116" name="122071" icon="science_sp1" level="16" effect="193149;16" effectid="1321;16|1323;16" costitem="311005;6040" power="170" />
+    <ItemSpec id="30117" name="122071" icon="science_sp1" level="17" effect="193149;17" effectid="1321;17|1323;17" costitem="311005;6730" power="180" />
+    <ItemSpec id="30118" name="122071" icon="science_sp1" level="18" effect="193149;18" effectid="1321;18|1323;18" costitem="311005;7550" power="190" />
+    <ItemSpec id="30119" name="122071" icon="science_sp1" level="19" effect="193149;19" effectid="1321;19|1323;19" costitem="311005;8500" power="200" />
+    <ItemSpec id="30120" name="122071" icon="science_sp1" level="20" effect="193149;20" effectid="1321;20|1323;20" costitem="311005;9560" power="210" />
+    <ItemSpec id="30121" name="122071" icon="science_sp1" level="21" effect="193149;21" effectid="1321;21|1323;21" costitem="311005;11590" power="220" />
+    <ItemSpec id="30122" name="122071" icon="science_sp1" level="22" effect="193149;22" effectid="1321;22|1323;22" costitem="311005;12600" power="230" />
+    <ItemSpec id="30123" name="122071" icon="science_sp1" level="23" effect="193149;23" effectid="1321;23|1323;23" costitem="311005;13520" power="240" />
+    <ItemSpec id="30124" name="122071" icon="science_sp1" level="24" effect="193149;24" effectid="1321;24|1323;24" costitem="311005;14700" power="250" />
+    <ItemSpec id="30125" name="122071" icon="science_sp1" level="25" effect="193149;25" effectid="1321;25|1323;25" costitem="311005;15810" power="260" />
+    <ItemSpec id="30126" name="122071" icon="science_sp1" level="26" effect="193149;26" effectid="1321;26|1323;26" costitem="311005;17110" power="270" />
+    <ItemSpec id="30127" name="122071" icon="science_sp1" level="27" effect="193149;27" effectid="1321;27|1323;27" costitem="311005;18410" power="280" />
+    <ItemSpec id="30128" name="122071" icon="science_sp1" level="28" effect="193149;28" effectid="1321;28|1323;28" costitem="311005;19900" power="290" />
+    <ItemSpec id="30129" name="122071" icon="science_sp1" level="29" effect="193149;29" effectid="1321;29|1323;29" costitem="311005;21540" power="300" />
+    <ItemSpec id="30130" name="122071" icon="science_sp1" level="30" effect="193149;30" effectid="1321;30|1323;30" costitem="311005;23220" power="310" />
+    <ItemSpec id="30131" name="122071" icon="science_sp1" level="31" effect="193149;31" effectid="1321;31|1323;31" costitem="311005;25090" power="320" />
+    <ItemSpec id="30132" name="122071" icon="science_sp1" level="32" effect="193149;32" effectid="1321;32|1323;32" costitem="311005;27080" power="330" />
+    <ItemSpec id="30133" name="122071" icon="science_sp1" level="33" effect="193149;33" effectid="1321;33|1323;33" costitem="311005;33270" power="340" />
+    <ItemSpec id="30134" name="122071" icon="science_sp1" level="34" effect="193149;34" effectid="1321;34|1323;34" costitem="311005;36620" power="350" />
+    <ItemSpec id="30135" name="122071" icon="science_sp1" level="35" effect="193149;35" effectid="1321;35|1323;35" costitem="311005;40250" power="360" />
+    <ItemSpec id="30136" name="122071" icon="science_sp1" level="36" effect="193149;36" effectid="1321;36|1323;36" costitem="311005;44320" power="370" />
+    <ItemSpec id="30137" name="122071" icon="science_sp1" level="37" effect="193149;37" effectid="1321;37|1323;37" costitem="311005;48720" power="380" />
+    <ItemSpec id="30138" name="122071" icon="science_sp1" level="38" effect="193149;38" effectid="1321;38|1323;38" costitem="311005;53580" power="390" />
+    <ItemSpec id="30139" name="122071" icon="science_sp1" level="39" effect="193149;39" effectid="1321;39|1323;39" costitem="311005;58930" power="400" />
+    <ItemSpec id="30140" name="122071" icon="science_sp1" level="40" effect="193149;40" effectid="1321;40|1323;40" costitem="311005;64850" power="410" />
+
+    <ItemSpec id="30200" name="193096" icon="icon_fangyuzhuanjia" level="0" effect="193151;0" />
+    <ItemSpec id="30201" name="193096" icon="icon_fangyuzhuanjia" level="1" effect="193151;1" effectid="1335;1|1336;1" costitem="311005;100" power="20" />
+    <ItemSpec id="30202" name="193096" icon="icon_fangyuzhuanjia" level="2" effect="193151;2" effectid="1335;2|1336;2" costitem="311005;150" power="30" />
+    <ItemSpec id="30203" name="193096" icon="icon_fangyuzhuanjia" level="3" effect="193151;3" effectid="1335;3|1336;3" costitem="311005;300" power="40" />
+    <ItemSpec id="30204" name="193096" icon="icon_fangyuzhuanjia" level="4" effect="193151;4" effectid="1335;4|1336;4" costitem="311005;500" power="50" />
+    <ItemSpec id="30205" name="193096" icon="icon_fangyuzhuanjia" level="5" effect="193151;5" effectid="1335;5|1336;5" costitem="311005;650" power="60" />
+    <ItemSpec id="30206" name="193096" icon="icon_fangyuzhuanjia" level="6" effect="193151;6" effectid="1335;6|1336;6" costitem="311005;850" power="70" />
+    <ItemSpec id="30207" name="193096" icon="icon_fangyuzhuanjia" level="7" effect="193151;7" effectid="1335;7|1336;7" costitem="311005;1200" power="80" />
+    <ItemSpec id="30208" name="193096" icon="icon_fangyuzhuanjia" level="8" effect="193151;8" effectid="1335;8|1336;8" costitem="311005;1600" power="90" />
+    <ItemSpec id="30209" name="193096" icon="icon_fangyuzhuanjia" level="9" effect="193151;9" effectid="1335;9|1336;9" costitem="311005;2660" power="100" />
+    <ItemSpec id="30210" name="193096" icon="icon_fangyuzhuanjia" level="10" effect="193151;10" effectid="1335;10|1336;10" costitem="311005;2940" power="110" />
+    <ItemSpec id="30211" name="193096" icon="icon_fangyuzhuanjia" level="11" effect="193151;11" effectid="1335;11|1336;11" costitem="311005;3320" power="120" />
+    <ItemSpec id="30212" name="193096" icon="icon_fangyuzhuanjia" level="12" effect="193151;12" effectid="1335;12|1336;12" costitem="311005;3760" power="130" />
+    <ItemSpec id="30213" name="193096" icon="icon_fangyuzhuanjia" level="13" effect="193151;13" effectid="1335;13|1336;13" costitem="311005;4210" power="140" />
+    <ItemSpec id="30214" name="193096" icon="icon_fangyuzhuanjia" level="14" effect="193151;14" effectid="1335;14|1336;14" costitem="311005;4740" power="150" />
+    <ItemSpec id="30215" name="193096" icon="icon_fangyuzhuanjia" level="15" effect="193151;15" effectid="1335;15|1336;15" costitem="311005;5380" power="160" />
+    <ItemSpec id="30216" name="193096" icon="icon_fangyuzhuanjia" level="16" effect="193151;16" effectid="1335;16|1336;16" costitem="311005;6040" power="170" />
+    <ItemSpec id="30217" name="193096" icon="icon_fangyuzhuanjia" level="17" effect="193151;17" effectid="1335;17|1336;17" costitem="311005;6730" power="180" />
+    <ItemSpec id="30218" name="193096" icon="icon_fangyuzhuanjia" level="18" effect="193151;18" effectid="1335;18|1336;18" costitem="311005;7550" power="190" />
+    <ItemSpec id="30219" name="193096" icon="icon_fangyuzhuanjia" level="19" effect="193151;19" effectid="1335;19|1336;19" costitem="311005;8500" power="200" />
+    <ItemSpec id="30220" name="193096" icon="icon_fangyuzhuanjia" level="20" effect="193151;20" effectid="1335;20|1336;20" costitem="311005;9560" power="210" />
+    <ItemSpec id="30221" name="193096" icon="icon_fangyuzhuanjia" level="21" effect="193151;21" effectid="1335;21|1336;21" costitem="311005;11590" power="220" />
+    <ItemSpec id="30222" name="193096" icon="icon_fangyuzhuanjia" level="22" effect="193151;22" effectid="1335;22|1336;22" costitem="311005;12600" power="230" />
+    <ItemSpec id="30223" name="193096" icon="icon_fangyuzhuanjia" level="23" effect="193151;23" effectid="1335;23|1336;23" costitem="311005;13520" power="240" />
+    <ItemSpec id="30224" name="193096" icon="icon_fangyuzhuanjia" level="24" effect="193151;24" effectid="1335;24|1336;24" costitem="311005;14700" power="250" />
+    <ItemSpec id="30225" name="193096" icon="icon_fangyuzhuanjia" level="25" effect="193151;25" effectid="1335;25|1336;25" costitem="311005;15810" power="260" />
+    <ItemSpec id="30226" name="193096" icon="icon_fangyuzhuanjia" level="26" effect="193151;26" effectid="1335;26|1336;26" costitem="311005;17110" power="270" />
+    <ItemSpec id="30227" name="193096" icon="icon_fangyuzhuanjia" level="27" effect="193151;27" effectid="1335;27|1336;27" costitem="311005;18410" power="280" />
+    <ItemSpec id="30228" name="193096" icon="icon_fangyuzhuanjia" level="28" effect="193151;28" effectid="1335;28|1336;28" costitem="311005;19900" power="290" />
+    <ItemSpec id="30229" name="193096" icon="icon_fangyuzhuanjia" level="29" effect="193151;29" effectid="1335;29|1336;29" costitem="311005;21540" power="300" />
+    <ItemSpec id="30230" name="193096" icon="icon_fangyuzhuanjia" level="30" effect="193151;30" effectid="1335;30|1336;30" costitem="311005;23220" power="310" />
+    <ItemSpec id="30231" name="193096" icon="icon_fangyuzhuanjia" level="31" effect="193151;31" effectid="1335;30|1336;31" costitem="311005;25090" power="320" />
+    <ItemSpec id="30232" name="193096" icon="icon_fangyuzhuanjia" level="32" effect="193151;32" effectid="1335;32|1336;32" costitem="311005;27080" power="330" />
+    <ItemSpec id="30233" name="193096" icon="icon_fangyuzhuanjia" level="33" effect="193151;33" effectid="1335;33|1336;33" costitem="311005;33270" power="340" />
+    <ItemSpec id="30234" name="193096" icon="icon_fangyuzhuanjia" level="34" effect="193151;34" effectid="1335;34|1336;34" costitem="311005;36620" power="350" />
+    <ItemSpec id="30235" name="193096" icon="icon_fangyuzhuanjia" level="35" effect="193151;35" effectid="1335;35|1336;35" costitem="311005;40250" power="360" />
+    <ItemSpec id="30236" name="193096" icon="icon_fangyuzhuanjia" level="36" effect="193151;36" effectid="1335;36|1336;36" costitem="311005;44320" power="370" />
+    <ItemSpec id="30237" name="193096" icon="icon_fangyuzhuanjia" level="37" effect="193151;37" effectid="1335;37|1336;37" costitem="311005;48720" power="380" />
+    <ItemSpec id="30238" name="193096" icon="icon_fangyuzhuanjia" level="38" effect="193151;38" effectid="1335;38|1336;38" costitem="311005;53580" power="390" />
+    <ItemSpec id="30239" name="193096" icon="icon_fangyuzhuanjia" level="39" effect="193151;39" effectid="1335;39|1336;39" costitem="311005;58930" power="400" />
+    <ItemSpec id="30240" name="193096" icon="icon_fangyuzhuanjia" level="40" effect="193151;40" effectid="1335;40|1336;40" costitem="311005;64850" power="410" />
+
+
+    <ItemSpec id="30300" name="193097" icon="icon_fangyuzhuanjia" level="0" effect="193153;0" />
+    <ItemSpec id="30301" name="193097" icon="icon_fangyuzhuanjia" level="1" effect="193153;1" effectid="1233;1|1234;1" costitem="311005;100" power="20" />
+    <ItemSpec id="30302" name="193097" icon="icon_fangyuzhuanjia" level="2" effect="193153;2" effectid="1233;2|1234;2" costitem="311005;150" power="30" />
+    <ItemSpec id="30303" name="193097" icon="icon_fangyuzhuanjia" level="3" effect="193153;3" effectid="1233;3|1234;3" costitem="311005;300" power="40" />
+    <ItemSpec id="30304" name="193097" icon="icon_fangyuzhuanjia" level="4" effect="193153;4" effectid="1233;4|1234;4" costitem="311005;500" power="50" />
+    <ItemSpec id="30305" name="193097" icon="icon_fangyuzhuanjia" level="5" effect="193153;5" effectid="1233;5|1234;5" costitem="311005;650" power="60" />
+    <ItemSpec id="30306" name="193097" icon="icon_fangyuzhuanjia" level="6" effect="193153;6" effectid="1233;6|1234;6" costitem="311005;850" power="70" />
+    <ItemSpec id="30307" name="193097" icon="icon_fangyuzhuanjia" level="7" effect="193153;7" effectid="1233;7|1234;7" costitem="311005;1200" power="80" />
+    <ItemSpec id="30308" name="193097" icon="icon_fangyuzhuanjia" level="8" effect="193153;8" effectid="1233;8|1234;8" costitem="311005;1600" power="90" />
+    <ItemSpec id="30309" name="193097" icon="icon_fangyuzhuanjia" level="9" effect="193153;9" effectid="1233;9|1234;9" costitem="311005;2660" power="100" />
+    <ItemSpec id="30310" name="193097" icon="icon_fangyuzhuanjia" level="10" effect="193153;10" effectid="1233;10|1234;10" costitem="311005;2940" power="110" />
+    <ItemSpec id="30311" name="193097" icon="icon_fangyuzhuanjia" level="11" effect="193153;11" effectid="1233;11|1234;11" costitem="311005;3320" power="120" />
+    <ItemSpec id="30312" name="193097" icon="icon_fangyuzhuanjia" level="12" effect="193153;12" effectid="1233;12|1234;12" costitem="311005;3760" power="130" />
+    <ItemSpec id="30313" name="193097" icon="icon_fangyuzhuanjia" level="13" effect="193153;13" effectid="1233;13|1234;13" costitem="311005;4210" power="140" />
+    <ItemSpec id="30314" name="193097" icon="icon_fangyuzhuanjia" level="14" effect="193153;14" effectid="1233;14|1234;14" costitem="311005;4740" power="150" />
+    <ItemSpec id="30315" name="193097" icon="icon_fangyuzhuanjia" level="15" effect="193153;15" effectid="1233;15|1234;15" costitem="311005;5380" power="160" />
+    <ItemSpec id="30316" name="193097" icon="icon_fangyuzhuanjia" level="16" effect="193153;16" effectid="1233;16|1234;16" costitem="311005;6040" power="170" />
+    <ItemSpec id="30317" name="193097" icon="icon_fangyuzhuanjia" level="17" effect="193153;17" effectid="1233;17|1234;17" costitem="311005;6730" power="180" />
+    <ItemSpec id="30318" name="193097" icon="icon_fangyuzhuanjia" level="18" effect="193153;18" effectid="1233;18|1234;18" costitem="311005;7550" power="190" />
+    <ItemSpec id="30319" name="193097" icon="icon_fangyuzhuanjia" level="19" effect="193153;19" effectid="1233;19|1234;19" costitem="311005;8500" power="200" />
+    <ItemSpec id="30320" name="193097" icon="icon_fangyuzhuanjia" level="20" effect="193153;20" effectid="1233;20|1234;20" costitem="311005;9560" power="210" />
+    <ItemSpec id="30321" name="193097" icon="icon_fangyuzhuanjia" level="21" effect="193153;21" effectid="1233;21|1234;21" costitem="311005;11590" power="220" />
+    <ItemSpec id="30322" name="193097" icon="icon_fangyuzhuanjia" level="22" effect="193153;22" effectid="1233;22|1234;22" costitem="311005;12600" power="230" />
+    <ItemSpec id="30323" name="193097" icon="icon_fangyuzhuanjia" level="23" effect="193153;23" effectid="1233;23|1234;23" costitem="311005;13520" power="240" />
+    <ItemSpec id="30324" name="193097" icon="icon_fangyuzhuanjia" level="24" effect="193153;24" effectid="1233;24|1234;24" costitem="311005;14700" power="250" />
+    <ItemSpec id="30325" name="193097" icon="icon_fangyuzhuanjia" level="25" effect="193153;25" effectid="1233;25|1234;25" costitem="311005;15810" power="260" />
+    <ItemSpec id="30326" name="193097" icon="icon_fangyuzhuanjia" level="26" effect="193153;26" effectid="1233;26|1234;26" costitem="311005;17110" power="270" />
+    <ItemSpec id="30327" name="193097" icon="icon_fangyuzhuanjia" level="27" effect="193153;27" effectid="1233;27|1234;27" costitem="311005;18410" power="280" />
+    <ItemSpec id="30328" name="193097" icon="icon_fangyuzhuanjia" level="28" effect="193153;28" effectid="1233;28|1234;28" costitem="311005;19900" power="290" />
+    <ItemSpec id="30329" name="193097" icon="icon_fangyuzhuanjia" level="29" effect="193153;29" effectid="1233;29|1234;29" costitem="311005;21540" power="300" />
+    <ItemSpec id="30330" name="193097" icon="icon_fangyuzhuanjia" level="30" effect="193153;30" effectid="1233;30|1234;30" costitem="311005;23220" power="310" />
+    <ItemSpec id="30331" name="193097" icon="icon_fangyuzhuanjia" level="31" effect="193153;31" effectid="1233;31|1234;31" costitem="311005;25090" power="320" />
+    <ItemSpec id="30332" name="193097" icon="icon_fangyuzhuanjia" level="32" effect="193153;32" effectid="1233;32|1234;32" costitem="311005;27080" power="330" />
+    <ItemSpec id="30333" name="193097" icon="icon_fangyuzhuanjia" level="33" effect="193153;33" effectid="1233;33|1234;33" costitem="311005;33270" power="340" />
+    <ItemSpec id="30334" name="193097" icon="icon_fangyuzhuanjia" level="34" effect="193153;34" effectid="1233;34|1234;34" costitem="311005;36620" power="350" />
+    <ItemSpec id="30335" name="193097" icon="icon_fangyuzhuanjia" level="35" effect="193153;35" effectid="1233;35|1234;35" costitem="311005;40250" power="360" />
+    <ItemSpec id="30336" name="193097" icon="icon_fangyuzhuanjia" level="36" effect="193153;36" effectid="1233;36|1234;36" costitem="311005;44320" power="370" />
+    <ItemSpec id="30337" name="193097" icon="icon_fangyuzhuanjia" level="37" effect="193153;37" effectid="1233;37|1234;37" costitem="311005;48720" power="380" />
+    <ItemSpec id="30338" name="193097" icon="icon_fangyuzhuanjia" level="38" effect="193153;38" effectid="1233;38|1234;38" costitem="311005;53580" power="390" />
+    <ItemSpec id="30339" name="193097" icon="icon_fangyuzhuanjia" level="39" effect="193153;39" effectid="1233;39|1234;39" costitem="311005;58930" power="400" />
+    <ItemSpec id="30340" name="193097" icon="icon_fangyuzhuanjia" level="40" effect="193153;40" effectid="1233;40|1234;40" costitem="311005;64850" power="410" />
+
+
+    <ItemSpec id="30400" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="0" effect="122017;0" />
+    <ItemSpec id="30401" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="1" effect="122017;1" effectid="1211;1|1212;1" costitem="311005;100" power="20" />
+    <ItemSpec id="30402" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="2" effect="122017;2" effectid="1211;2|1212;2" costitem="311005;150" power="30" />
+    <ItemSpec id="30403" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="3" effect="122017;3" effectid="1211;3|1212;3" costitem="311005;300" power="40" />
+    <ItemSpec id="30404" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="4" effect="122017;4" effectid="1211;4|1212;4" costitem="311005;500" power="50" />
+    <ItemSpec id="30405" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="5" effect="122017;5" effectid="1211;5|1212;5" costitem="311005;650" power="60" />
+    <ItemSpec id="30406" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="6" effect="122017;6" effectid="1211;6|1212;6" costitem="311005;850" power="70" />
+    <ItemSpec id="30407" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="7" effect="122017;7" effectid="1211;7|1212;7" costitem="311005;1200" power="80" />
+    <ItemSpec id="30408" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="8" effect="122017;8" effectid="1211;8|1212;8" costitem="311005;1600" power="90" />
+    <ItemSpec id="30409" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="9" effect="122017;9" effectid="1211;9|1212;9" costitem="311005;2660" power="100" />
+    <ItemSpec id="30410" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="10" effect="122017;10" effectid="1211;10|1212;10" costitem="311005;2940" power="110" />
+    <ItemSpec id="30411" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="11" effect="122017;11" effectid="1211;11|1212;11" costitem="311005;3320" power="120" />
+    <ItemSpec id="30412" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="12" effect="122017;12" effectid="1211;12|1212;12" costitem="311005;3760" power="130" />
+    <ItemSpec id="30413" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="13" effect="122017;13" effectid="1211;13|1212;13" costitem="311005;4210" power="140" />
+    <ItemSpec id="30414" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="14" effect="122017;14" effectid="1211;14|1212;14" costitem="311005;4740" power="150" />
+    <ItemSpec id="30415" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="15" effect="122017;15" effectid="1211;15|1212;15" costitem="311005;5380" power="160" />
+    <ItemSpec id="30416" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="16" effect="122017;16" effectid="1211;16|1212;16" costitem="311005;6040" power="170" />
+    <ItemSpec id="30417" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="17" effect="122017;17" effectid="1211;17|1212;17" costitem="311005;6730" power="180" />
+    <ItemSpec id="30418" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="18" effect="122017;18" effectid="1211;18|1212;18" costitem="311005;7550" power="190" />
+    <ItemSpec id="30419" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="19" effect="122017;19" effectid="1211;19|1212;19" costitem="311005;8500" power="200" />
+    <ItemSpec id="30420" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="20" effect="122017;20" effectid="1211;20|1212;20" costitem="311005;9560" power="210" />
+    <ItemSpec id="30421" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="21" effect="122017;21" effectid="1211;21|1212;21" costitem="311005;11590" power="220" />
+    <ItemSpec id="30422" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="22" effect="122017;22" effectid="1211;22|1212;22" costitem="311005;12600" power="230" />
+    <ItemSpec id="30423" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="23" effect="122017;23" effectid="1211;23|1212;23" costitem="311005;13520" power="240" />
+    <ItemSpec id="30424" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="24" effect="122017;24" effectid="1211;24|1212;24" costitem="311005;14700" power="250" />
+    <ItemSpec id="30425" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="25" effect="122017;25" effectid="1211;25|1212;25" costitem="311005;15810" power="260" />
+    <ItemSpec id="30426" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="26" effect="122017;26" effectid="1211;26|1212;26" costitem="311005;17110" power="270" />
+    <ItemSpec id="30427" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="27" effect="122017;27" effectid="1211;27|1212;27" costitem="311005;18410" power="280" />
+    <ItemSpec id="30428" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="28" effect="122017;28" effectid="1211;28|1212;28" costitem="311005;19900" power="290" />
+    <ItemSpec id="30429" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="29" effect="122017;29" effectid="1211;29|1212;29" costitem="311005;21540" power="300" />
+    <ItemSpec id="30430" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="30" effect="122017;30" effectid="1211;30|1212;30" costitem="311005;23220" power="310" />
+    <ItemSpec id="30431" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="31" effect="122017;31" effectid="1211;31|1212;31" costitem="311005;25090" power="320" />
+    <ItemSpec id="30432" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="32" effect="122017;32" effectid="1211;32|1212;32" costitem="311005;27080" power="330" />
+    <ItemSpec id="30433" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="33" effect="122017;33" effectid="1211;33|1212;33" costitem="311005;33270" power="340" />
+    <ItemSpec id="30434" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="34" effect="122017;34" effectid="1211;34|1212;34" costitem="311005;36620" power="350" />
+    <ItemSpec id="30435" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="35" effect="122017;35" effectid="1211;35|1212;35" costitem="311005;40250" power="360" />
+    <ItemSpec id="30436" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="36" effect="122017;36" effectid="1211;36|1212;36" costitem="311005;44320" power="370" />
+    <ItemSpec id="30437" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="37" effect="122017;37" effectid="1211;37|1212;37" costitem="311005;48720" power="380" />
+    <ItemSpec id="30438" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="38" effect="122017;38" effectid="1211;38|1212;38" costitem="311005;53580" power="390" />
+    <ItemSpec id="30439" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="39" effect="122017;39" effectid="1211;39|1212;39" costitem="311005;58930" power="400" />
+    <ItemSpec id="30440" name="201302" icon="FB_IC_gonhchengchekeji_SKILL" level="40" effect="122017;40" effectid="1211;40|1212;40" costitem="311005;64850" power="410" />
+
+    <ItemSpec id="30500" name="81000487" icon="science_sp2" level="0" effect="122015;0" />
+    <ItemSpec id="30501" name="81000487" icon="science_sp2" level="1" effect="122015;1" effectid="1215;1|1216;1" costitem="311005;100" power="20" />
+    <ItemSpec id="30502" name="81000487" icon="science_sp2" level="2" effect="122015;2" effectid="1215;2|1216;2" costitem="311005;150" power="30" />
+    <ItemSpec id="30503" name="81000487" icon="science_sp2" level="3" effect="122015;3" effectid="1215;3|1216;3" costitem="311005;300" power="40" />
+    <ItemSpec id="30504" name="81000487" icon="science_sp2" level="4" effect="122015;4" effectid="1215;4|1216;4" costitem="311005;500" power="50" />
+    <ItemSpec id="30505" name="81000487" icon="science_sp2" level="5" effect="122015;5" effectid="1215;5|1216;5" costitem="311005;650" power="60" />
+    <ItemSpec id="30506" name="81000487" icon="science_sp2" level="6" effect="122015;6" effectid="1215;6|1216;6" costitem="311005;850" power="70" />
+    <ItemSpec id="30507" name="81000487" icon="science_sp2" level="7" effect="122015;7" effectid="1215;7|1216;7" costitem="311005;1200" power="80" />
+    <ItemSpec id="30508" name="81000487" icon="science_sp2" level="8" effect="122015;8" effectid="1215;8|1216;8" costitem="311005;1600" power="90" />
+    <ItemSpec id="30509" name="81000487" icon="science_sp2" level="9" effect="122015;9" effectid="1215;9|1216;9" costitem="311005;2660" power="100" />
+    <ItemSpec id="30510" name="81000487" icon="science_sp2" level="10" effect="122015;10" effectid="1215;10|1216;10" costitem="311005;2940" power="110" />
+    <ItemSpec id="30511" name="81000487" icon="science_sp2" level="11" effect="122015;11" effectid="1215;11|1216;11" costitem="311005;3320" power="120" />
+    <ItemSpec id="30512" name="81000487" icon="science_sp2" level="12" effect="122015;12" effectid="1215;12|1216;12" costitem="311005;3760" power="130" />
+    <ItemSpec id="30513" name="81000487" icon="science_sp2" level="13" effect="122015;13" effectid="1215;13|1216;13" costitem="311005;4210" power="140" />
+    <ItemSpec id="30514" name="81000487" icon="science_sp2" level="14" effect="122015;14" effectid="1215;14|1216;14" costitem="311005;4740" power="150" />
+    <ItemSpec id="30515" name="81000487" icon="science_sp2" level="15" effect="122015;15" effectid="1215;15|1216;15" costitem="311005;5380" power="160" />
+    <ItemSpec id="30516" name="81000487" icon="science_sp2" level="16" effect="122015;16" effectid="1215;16|1216;16" costitem="311005;6040" power="170" />
+    <ItemSpec id="30517" name="81000487" icon="science_sp2" level="17" effect="122015;17" effectid="1215;17|1216;17" costitem="311005;6730" power="180" />
+    <ItemSpec id="30518" name="81000487" icon="science_sp2" level="18" effect="122015;18" effectid="1215;18|1216;18" costitem="311005;7550" power="190" />
+    <ItemSpec id="30519" name="81000487" icon="science_sp2" level="19" effect="122015;19" effectid="1215;19|1216;19" costitem="311005;8500" power="200" />
+    <ItemSpec id="30520" name="81000487" icon="science_sp2" level="20" effect="122015;20" effectid="1215;20|1216;20" costitem="311005;9560" power="210" />
+    <ItemSpec id="30521" name="81000487" icon="science_sp2" level="21" effect="122015;21" effectid="1215;21|1216;21" costitem="311005;11590" power="220" />
+    <ItemSpec id="30522" name="81000487" icon="science_sp2" level="22" effect="122015;22" effectid="1215;22|1216;22" costitem="311005;12600" power="230" />
+    <ItemSpec id="30523" name="81000487" icon="science_sp2" level="23" effect="122015;23" effectid="1215;23|1216;23" costitem="311005;13520" power="240" />
+    <ItemSpec id="30524" name="81000487" icon="science_sp2" level="24" effect="122015;24" effectid="1215;24|1216;24" costitem="311005;14700" power="250" />
+    <ItemSpec id="30525" name="81000487" icon="science_sp2" level="25" effect="122015;25" effectid="1215;25|1216;25" costitem="311005;15810" power="260" />
+    <ItemSpec id="30526" name="81000487" icon="science_sp2" level="26" effect="122015;26" effectid="1215;26|1216;26" costitem="311005;17110" power="270" />
+    <ItemSpec id="30527" name="81000487" icon="science_sp2" level="27" effect="122015;27" effectid="1215;27|1216;27" costitem="311005;18410" power="280" />
+    <ItemSpec id="30528" name="81000487" icon="science_sp2" level="28" effect="122015;28" effectid="1215;28|1216;28" costitem="311005;19900" power="290" />
+    <ItemSpec id="30529" name="81000487" icon="science_sp2" level="29" effect="122015;29" effectid="1215;29|1216;29" costitem="311005;21540" power="300" />
+    <ItemSpec id="30530" name="81000487" icon="science_sp2" level="30" effect="122015;30" effectid="1215;30|1216;30" costitem="311005;23220" power="310" />
+    <ItemSpec id="30531" name="81000487" icon="science_sp2" level="31" effect="122015;31" effectid="1215;31|1216;31" costitem="311005;25090" power="320" />
+    <ItemSpec id="30532" name="81000487" icon="science_sp2" level="32" effect="122015;32" effectid="1215;32|1216;32" costitem="311005;27080" power="330" />
+    <ItemSpec id="30533" name="81000487" icon="science_sp2" level="33" effect="122015;33" effectid="1215;33|1216;33" costitem="311005;33270" power="340" />
+    <ItemSpec id="30534" name="81000487" icon="science_sp2" level="34" effect="122015;34" effectid="1215;34|1216;34" costitem="311005;36620" power="350" />
+    <ItemSpec id="30535" name="81000487" icon="science_sp2" level="35" effect="122015;35" effectid="1215;35|1216;35" costitem="311005;40250" power="360" />
+    <ItemSpec id="30536" name="81000487" icon="science_sp2" level="36" effect="122015;36" effectid="1215;36|1216;36" costitem="311005;44320" power="370" />
+    <ItemSpec id="30537" name="81000487" icon="science_sp2" level="37" effect="122015;37" effectid="1215;37|1216;37" costitem="311005;48720" power="380" />
+    <ItemSpec id="30538" name="81000487" icon="science_sp2" level="38" effect="122015;38" effectid="1215;38|1216;38" costitem="311005;53580" power="390" />
+    <ItemSpec id="30539" name="81000487" icon="science_sp2" level="39" effect="122015;39" effectid="1215;39|1216;39" costitem="311005;58930" power="400" />
+    <ItemSpec id="30540" name="81000487" icon="science_sp2" level="40" effect="122015;40" effectid="1215;40|1216;40" costitem="311005;64850" power="410" />
+
+
+    <ItemSpec id="30600" name="193010" icon="icon_military" level="0" effect="122016;0" />
+    <ItemSpec id="30601" name="193010" icon="icon_military" level="1" effect="122016;1" effectid="1213;1|1214;1" costitem="311005;100" power="20" />
+    <ItemSpec id="30602" name="193010" icon="icon_military" level="2" effect="122016;2" effectid="1213;2|1214;2" costitem="311005;150" power="30" />
+    <ItemSpec id="30603" name="193010" icon="icon_military" level="3" effect="122016;3" effectid="1213;3|1214;3" costitem="311005;300" power="40" />
+    <ItemSpec id="30604" name="193010" icon="icon_military" level="4" effect="122016;4" effectid="1213;4|1214;4" costitem="311005;500" power="50" />
+    <ItemSpec id="30605" name="193010" icon="icon_military" level="5" effect="122016;5" effectid="1213;5|1214;5" costitem="311005;650" power="60" />
+    <ItemSpec id="30606" name="193010" icon="icon_military" level="6" effect="122016;6" effectid="1213;6|1214;6" costitem="311005;850" power="70" />
+    <ItemSpec id="30607" name="193010" icon="icon_military" level="7" effect="122016;7" effectid="1213;7|1214;7" costitem="311005;1200" power="80" />
+    <ItemSpec id="30608" name="193010" icon="icon_military" level="8" effect="122016;8" effectid="1213;8|1214;8" costitem="311005;1600" power="90" />
+    <ItemSpec id="30609" name="193010" icon="icon_military" level="9" effect="122016;9" effectid="1213;9|1214;9" costitem="311005;2660" power="100" />
+    <ItemSpec id="30610" name="193010" icon="icon_military" level="10" effect="122016;10" effectid="1213;10|1214;10" costitem="311005;2940" power="110" />
+    <ItemSpec id="30611" name="193010" icon="icon_military" level="11" effect="122016;11" effectid="1213;11|1214;11" costitem="311005;3320" power="120" />
+    <ItemSpec id="30612" name="193010" icon="icon_military" level="12" effect="122016;12" effectid="1213;12|1214;12" costitem="311005;3760" power="130" />
+    <ItemSpec id="30613" name="193010" icon="icon_military" level="13" effect="122016;13" effectid="1213;13|1214;13" costitem="311005;4210" power="140" />
+    <ItemSpec id="30614" name="193010" icon="icon_military" level="14" effect="122016;14" effectid="1213;14|1214;14" costitem="311005;4740" power="150" />
+    <ItemSpec id="30615" name="193010" icon="icon_military" level="15" effect="122016;15" effectid="1213;15|1214;15" costitem="311005;5380" power="160" />
+    <ItemSpec id="30616" name="193010" icon="icon_military" level="16" effect="122016;16" effectid="1213;16|1214;16" costitem="311005;6040" power="170" />
+    <ItemSpec id="30617" name="193010" icon="icon_military" level="17" effect="122016;17" effectid="1213;17|1214;17" costitem="311005;6730" power="180" />
+    <ItemSpec id="30618" name="193010" icon="icon_military" level="18" effect="122016;18" effectid="1213;18|1214;18" costitem="311005;7550" power="190" />
+    <ItemSpec id="30619" name="193010" icon="icon_military" level="19" effect="122016;19" effectid="1213;19|1214;19" costitem="311005;8500" power="200" />
+    <ItemSpec id="30620" name="193010" icon="icon_military" level="20" effect="122016;20" effectid="1213;20|1214;20" costitem="311005;9560" power="210" />
+    <ItemSpec id="30621" name="193010" icon="icon_military" level="21" effect="122016;21" effectid="1213;21|1214;21" costitem="311005;11590" power="220" />
+    <ItemSpec id="30622" name="193010" icon="icon_military" level="22" effect="122016;22" effectid="1213;22|1214;22" costitem="311005;12600" power="230" />
+    <ItemSpec id="30623" name="193010" icon="icon_military" level="23" effect="122016;23" effectid="1213;23|1214;23" costitem="311005;13520" power="240" />
+    <ItemSpec id="30624" name="193010" icon="icon_military" level="24" effect="122016;24" effectid="1213;24|1214;24" costitem="311005;14700" power="250" />
+    <ItemSpec id="30625" name="193010" icon="icon_military" level="25" effect="122016;25" effectid="1213;25|1214;25" costitem="311005;15810" power="260" />
+    <ItemSpec id="30626" name="193010" icon="icon_military" level="26" effect="122016;26" effectid="1213;26|1214;26" costitem="311005;17110" power="270" />
+    <ItemSpec id="30627" name="193010" icon="icon_military" level="27" effect="122016;27" effectid="1213;27|1214;27" costitem="311005;18410" power="280" />
+    <ItemSpec id="30628" name="193010" icon="icon_military" level="28" effect="122016;28" effectid="1213;28|1214;28" costitem="311005;19900" power="290" />
+    <ItemSpec id="30629" name="193010" icon="icon_military" level="29" effect="122016;29" effectid="1213;29|1214;29" costitem="311005;21540" power="300" />
+    <ItemSpec id="30630" name="193010" icon="icon_military" level="30" effect="122016;30" effectid="1213;30|1214;30" costitem="311005;23220" power="310" />
+    <ItemSpec id="30631" name="193010" icon="icon_military" level="31" effect="122016;31" effectid="1213;31|1214;31" costitem="311005;25090" power="320" />
+    <ItemSpec id="30632" name="193010" icon="icon_military" level="32" effect="122016;32" effectid="1213;32|1214;32" costitem="311005;27080" power="330" />
+    <ItemSpec id="30633" name="193010" icon="icon_military" level="33" effect="122016;33" effectid="1213;33|1214;33" costitem="311005;33270" power="340" />
+    <ItemSpec id="30634" name="193010" icon="icon_military" level="34" effect="122016;34" effectid="1213;34|1214;34" costitem="311005;36620" power="350" />
+    <ItemSpec id="30635" name="193010" icon="icon_military" level="35" effect="122016;35" effectid="1213;35|1214;35" costitem="311005;40250" power="360" />
+    <ItemSpec id="30636" name="193010" icon="icon_military" level="36" effect="122016;36" effectid="1213;36|1214;36" costitem="311005;44320" power="370" />
+    <ItemSpec id="30637" name="193010" icon="icon_military" level="37" effect="122016;37" effectid="1213;37|1214;37" costitem="311005;48720" power="380" />
+    <ItemSpec id="30638" name="193010" icon="icon_military" level="38" effect="122016;38" effectid="1213;38|1214;38" costitem="311005;53580" power="390" />
+    <ItemSpec id="30639" name="193010" icon="icon_military" level="39" effect="122016;39" effectid="1213;39|1214;39" costitem="311005;58930" power="400" />
+    <ItemSpec id="30640" name="193010" icon="icon_military" level="40" effect="122016;40" effectid="1213;40|1214;40" costitem="311005;64850" power="410" />
+
+
+
+    <ItemSpec id="30700" name="193092" icon="icon_fangyuzhuanjia" level="0" effect="193148;0" />
+    <ItemSpec id="30701" name="193092" icon="icon_fangyuzhuanjia" level="1" effect="193148;1" effectid="1221;1|1222;1" costitem="311005;100" power="20" />
+    <ItemSpec id="30702" name="193092" icon="icon_fangyuzhuanjia" level="2" effect="193148;2" effectid="1221;2|1222;2" costitem="311005;150" power="30" />
+    <ItemSpec id="30703" name="193092" icon="icon_fangyuzhuanjia" level="3" effect="193148;3" effectid="1221;3|1222;3" costitem="311005;300" power="40" />
+    <ItemSpec id="30704" name="193092" icon="icon_fangyuzhuanjia" level="4" effect="193148;4" effectid="1221;4|1222;4" costitem="311005;500" power="50" />
+    <ItemSpec id="30705" name="193092" icon="icon_fangyuzhuanjia" level="5" effect="193148;5" effectid="1221;5|1222;5" costitem="311005;650" power="60" />
+    <ItemSpec id="30706" name="193092" icon="icon_fangyuzhuanjia" level="6" effect="193148;6" effectid="1221;6|1222;6" costitem="311005;850" power="70" />
+    <ItemSpec id="30707" name="193092" icon="icon_fangyuzhuanjia" level="7" effect="193148;7" effectid="1221;7|1222;7" costitem="311005;1200" power="80" />
+    <ItemSpec id="30708" name="193092" icon="icon_fangyuzhuanjia" level="8" effect="193148;8" effectid="1221;8|1222;8" costitem="311005;1600" power="90" />
+    <ItemSpec id="30709" name="193092" icon="icon_fangyuzhuanjia" level="9" effect="193148;9" effectid="1221;9|1222;9" costitem="311005;2660" power="100" />
+    <ItemSpec id="30710" name="193092" icon="icon_fangyuzhuanjia" level="10" effect="193148;10" effectid="1221;10|1222;10" costitem="311005;2940" power="110" />
+    <ItemSpec id="30711" name="193092" icon="icon_fangyuzhuanjia" level="11" effect="193148;11" effectid="1221;11|1222;11" costitem="311005;3320" power="120" />
+    <ItemSpec id="30712" name="193092" icon="icon_fangyuzhuanjia" level="12" effect="193148;12" effectid="1221;12|1222;12" costitem="311005;3760" power="130" />
+    <ItemSpec id="30713" name="193092" icon="icon_fangyuzhuanjia" level="13" effect="193148;13" effectid="1221;13|1222;13" costitem="311005;4210" power="140" />
+    <ItemSpec id="30714" name="193092" icon="icon_fangyuzhuanjia" level="14" effect="193148;14" effectid="1221;14|1222;14" costitem="311005;4740" power="150" />
+    <ItemSpec id="30715" name="193092" icon="icon_fangyuzhuanjia" level="15" effect="193148;15" effectid="1221;15|1222;15" costitem="311005;5380" power="160" />
+    <ItemSpec id="30716" name="193092" icon="icon_fangyuzhuanjia" level="16" effect="193148;16" effectid="1221;16|1222;16" costitem="311005;6040" power="170" />
+    <ItemSpec id="30717" name="193092" icon="icon_fangyuzhuanjia" level="17" effect="193148;17" effectid="1221;17|1222;17" costitem="311005;6730" power="180" />
+    <ItemSpec id="30718" name="193092" icon="icon_fangyuzhuanjia" level="18" effect="193148;18" effectid="1221;18|1222;18" costitem="311005;7550" power="190" />
+    <ItemSpec id="30719" name="193092" icon="icon_fangyuzhuanjia" level="19" effect="193148;19" effectid="1221;19|1222;19" costitem="311005;8500" power="200" />
+    <ItemSpec id="30720" name="193092" icon="icon_fangyuzhuanjia" level="20" effect="193148;20" effectid="1221;20|1222;20" costitem="311005;9560" power="210" />
+    <ItemSpec id="30721" name="193092" icon="icon_fangyuzhuanjia" level="21" effect="193148;21" effectid="1221;21|1222;21" costitem="311005;11590" power="220" />
+    <ItemSpec id="30722" name="193092" icon="icon_fangyuzhuanjia" level="22" effect="193148;22" effectid="1221;22|1222;22" costitem="311005;12600" power="230" />
+    <ItemSpec id="30723" name="193092" icon="icon_fangyuzhuanjia" level="23" effect="193148;23" effectid="1221;23|1222;23" costitem="311005;13520" power="240" />
+    <ItemSpec id="30724" name="193092" icon="icon_fangyuzhuanjia" level="24" effect="193148;24" effectid="1221;24|1222;24" costitem="311005;14700" power="250" />
+    <ItemSpec id="30725" name="193092" icon="icon_fangyuzhuanjia" level="25" effect="193148;25" effectid="1221;25|1222;25" costitem="311005;15810" power="260" />
+    <ItemSpec id="30726" name="193092" icon="icon_fangyuzhuanjia" level="26" effect="193148;26" effectid="1221;26|1222;26" costitem="311005;17110" power="270" />
+    <ItemSpec id="30727" name="193092" icon="icon_fangyuzhuanjia" level="27" effect="193148;27" effectid="1221;27|1222;27" costitem="311005;18410" power="280" />
+    <ItemSpec id="30728" name="193092" icon="icon_fangyuzhuanjia" level="28" effect="193148;28" effectid="1221;28|1222;28" costitem="311005;19900" power="290" />
+    <ItemSpec id="30729" name="193092" icon="icon_fangyuzhuanjia" level="29" effect="193148;29" effectid="1221;29|1222;29" costitem="311005;21540" power="300" />
+    <ItemSpec id="30730" name="193092" icon="icon_fangyuzhuanjia" level="30" effect="193148;30" effectid="1221;30|1222;30" costitem="311005;23220" power="310" />
+    <ItemSpec id="30731" name="193092" icon="icon_fangyuzhuanjia" level="31" effect="193148;31" effectid="1221;31|1222;31" costitem="311005;25090" power="320" />
+    <ItemSpec id="30732" name="193092" icon="icon_fangyuzhuanjia" level="32" effect="193148;32" effectid="1221;32|1222;32" costitem="311005;27080" power="330" />
+    <ItemSpec id="30733" name="193092" icon="icon_fangyuzhuanjia" level="33" effect="193148;33" effectid="1221;33|1222;33" costitem="311005;33270" power="340" />
+    <ItemSpec id="30734" name="193092" icon="icon_fangyuzhuanjia" level="34" effect="193148;34" effectid="1221;34|1222;34" costitem="311005;36620" power="350" />
+    <ItemSpec id="30735" name="193092" icon="icon_fangyuzhuanjia" level="35" effect="193148;35" effectid="1221;35|1222;35" costitem="311005;40250" power="360" />
+    <ItemSpec id="30736" name="193092" icon="icon_fangyuzhuanjia" level="36" effect="193148;36" effectid="1221;36|1222;36" costitem="311005;44320" power="370" />
+    <ItemSpec id="30737" name="193092" icon="icon_fangyuzhuanjia" level="37" effect="193148;37" effectid="1221;37|1222;37" costitem="311005;48720" power="380" />
+    <ItemSpec id="30738" name="193092" icon="icon_fangyuzhuanjia" level="38" effect="193148;38" effectid="1221;38|1222;38" costitem="311005;53580" power="390" />
+    <ItemSpec id="30739" name="193092" icon="icon_fangyuzhuanjia" level="39" effect="193148;39" effectid="1221;39|1222;39" costitem="311005;58930" power="400" />
+    <ItemSpec id="30740" name="193092" icon="icon_fangyuzhuanjia" level="40" effect="193148;40" effectid="1221;40|1222;40" costitem="311005;64850" power="410" />
+
+    <ItemSpec id="30800" name="193093" icon="icon_fangyuzhuanjia" level="0" effect="122023;0" />
+    <ItemSpec id="30801" name="193093" icon="icon_fangyuzhuanjia" level="1" effect="122023;1" effectid="1225;1|1226;1" costitem="311005;100" power="20" />
+    <ItemSpec id="30802" name="193093" icon="icon_fangyuzhuanjia" level="2" effect="122023;2" effectid="1225;2|1226;2" costitem="311005;150" power="30" />
+    <ItemSpec id="30803" name="193093" icon="icon_fangyuzhuanjia" level="3" effect="122023;3" effectid="1225;3|1226;3" costitem="311005;300" power="40" />
+    <ItemSpec id="30804" name="193093" icon="icon_fangyuzhuanjia" level="4" effect="122023;4" effectid="1225;4|1226;4" costitem="311005;500" power="50" />
+    <ItemSpec id="30805" name="193093" icon="icon_fangyuzhuanjia" level="5" effect="122023;5" effectid="1225;5|1226;5" costitem="311005;650" power="60" />
+    <ItemSpec id="30806" name="193093" icon="icon_fangyuzhuanjia" level="6" effect="122023;6" effectid="1225;6|1226;6" costitem="311005;850" power="70" />
+    <ItemSpec id="30807" name="193093" icon="icon_fangyuzhuanjia" level="7" effect="122023;7" effectid="1225;7|1226;7" costitem="311005;1200" power="80" />
+    <ItemSpec id="30808" name="193093" icon="icon_fangyuzhuanjia" level="8" effect="122023;8" effectid="1225;8|1226;8" costitem="311005;1600" power="90" />
+    <ItemSpec id="30809" name="193093" icon="icon_fangyuzhuanjia" level="9" effect="122023;9" effectid="1225;9|1226;9" costitem="311005;2660" power="100" />
+    <ItemSpec id="30810" name="193093" icon="icon_fangyuzhuanjia" level="10" effect="122023;10" effectid="1225;10|1226;10" costitem="311005;2940" power="110" />
+    <ItemSpec id="30811" name="193093" icon="icon_fangyuzhuanjia" level="11" effect="122023;11" effectid="1225;11|1226;11" costitem="311005;3320" power="120" />
+    <ItemSpec id="30812" name="193093" icon="icon_fangyuzhuanjia" level="12" effect="122023;12" effectid="1225;12|1226;12" costitem="311005;3760" power="130" />
+    <ItemSpec id="30813" name="193093" icon="icon_fangyuzhuanjia" level="13" effect="122023;13" effectid="1225;13|1226;13" costitem="311005;4210" power="140" />
+    <ItemSpec id="30814" name="193093" icon="icon_fangyuzhuanjia" level="14" effect="122023;14" effectid="1225;14|1226;14" costitem="311005;4740" power="150" />
+    <ItemSpec id="30815" name="193093" icon="icon_fangyuzhuanjia" level="15" effect="122023;15" effectid="1225;15|1226;15" costitem="311005;5380" power="160" />
+    <ItemSpec id="30816" name="193093" icon="icon_fangyuzhuanjia" level="16" effect="122023;16" effectid="1225;16|1226;16" costitem="311005;6040" power="170" />
+    <ItemSpec id="30817" name="193093" icon="icon_fangyuzhuanjia" level="17" effect="122023;17" effectid="1225;17|1226;17" costitem="311005;6730" power="180" />
+    <ItemSpec id="30818" name="193093" icon="icon_fangyuzhuanjia" level="18" effect="122023;18" effectid="1225;18|1226;18" costitem="311005;7550" power="190" />
+    <ItemSpec id="30819" name="193093" icon="icon_fangyuzhuanjia" level="19" effect="122023;19" effectid="1225;19|1226;19" costitem="311005;8500" power="200" />
+    <ItemSpec id="30820" name="193093" icon="icon_fangyuzhuanjia" level="20" effect="122023;20" effectid="1225;20|1226;20" costitem="311005;9560" power="210" />
+    <ItemSpec id="30821" name="193093" icon="icon_fangyuzhuanjia" level="21" effect="122023;21" effectid="1225;21|1226;21" costitem="311005;11590" power="220" />
+    <ItemSpec id="30822" name="193093" icon="icon_fangyuzhuanjia" level="22" effect="122023;22" effectid="1225;22|1226;22" costitem="311005;12600" power="230" />
+    <ItemSpec id="30823" name="193093" icon="icon_fangyuzhuanjia" level="23" effect="122023;23" effectid="1225;23|1226;23" costitem="311005;13520" power="240" />
+    <ItemSpec id="30824" name="193093" icon="icon_fangyuzhuanjia" level="24" effect="122023;24" effectid="1225;24|1226;24" costitem="311005;14700" power="250" />
+    <ItemSpec id="30825" name="193093" icon="icon_fangyuzhuanjia" level="25" effect="122023;25" effectid="1225;25|1226;25" costitem="311005;15810" power="260" />
+    <ItemSpec id="30826" name="193093" icon="icon_fangyuzhuanjia" level="26" effect="122023;26" effectid="1225;26|1226;26" costitem="311005;17110" power="270" />
+    <ItemSpec id="30827" name="193093" icon="icon_fangyuzhuanjia" level="27" effect="122023;27" effectid="1225;27|1226;27" costitem="311005;18410" power="280" />
+    <ItemSpec id="30828" name="193093" icon="icon_fangyuzhuanjia" level="28" effect="122023;28" effectid="1225;28|1226;28" costitem="311005;19900" power="290" />
+    <ItemSpec id="30829" name="193093" icon="icon_fangyuzhuanjia" level="29" effect="122023;29" effectid="1225;29|1226;29" costitem="311005;21540" power="300" />
+    <ItemSpec id="30830" name="193093" icon="icon_fangyuzhuanjia" level="30" effect="122023;30" effectid="1225;30|1226;30" costitem="311005;23220" power="310" />
+    <ItemSpec id="30831" name="193093" icon="icon_fangyuzhuanjia" level="31" effect="122023;31" effectid="1225;31|1226;31" costitem="311005;25090" power="320" />
+    <ItemSpec id="30832" name="193093" icon="icon_fangyuzhuanjia" level="32" effect="122023;32" effectid="1225;32|1226;32" costitem="311005;27080" power="330" />
+    <ItemSpec id="30833" name="193093" icon="icon_fangyuzhuanjia" level="33" effect="122023;33" effectid="1225;33|1226;33" costitem="311005;33270" power="340" />
+    <ItemSpec id="30834" name="193093" icon="icon_fangyuzhuanjia" level="34" effect="122023;34" effectid="1225;34|1226;34" costitem="311005;36620" power="350" />
+    <ItemSpec id="30835" name="193093" icon="icon_fangyuzhuanjia" level="35" effect="122023;35" effectid="1225;35|1226;35" costitem="311005;40250" power="360" />
+    <ItemSpec id="30836" name="193093" icon="icon_fangyuzhuanjia" level="36" effect="122023;36" effectid="1225;36|1226;36" costitem="311005;44320" power="370" />
+    <ItemSpec id="30837" name="193093" icon="icon_fangyuzhuanjia" level="37" effect="122023;37" effectid="1225;37|1226;37" costitem="311005;48720" power="380" />
+    <ItemSpec id="30838" name="193093" icon="icon_fangyuzhuanjia" level="38" effect="122023;38" effectid="1225;38|1226;38" costitem="311005;53580" power="390" />
+    <ItemSpec id="30839" name="193093" icon="icon_fangyuzhuanjia" level="39" effect="122023;39" effectid="1225;39|1226;39" costitem="311005;58930" power="400" />
+    <ItemSpec id="30840" name="193093" icon="icon_fangyuzhuanjia" level="40" effect="122023;40" effectid="1225;40|1226;40" costitem="311005;64850" power="410" />
+
+
+    <ItemSpec id="30900" name="193094" icon="icon_fangyuzhuanjia" level="0" effect="193152;0" />
+    <ItemSpec id="30901" name="193094" icon="icon_fangyuzhuanjia" level="1" effect="193152;1" effectid="1223;1|1224;1" costitem="311005;100" power="20" />
+    <ItemSpec id="30902" name="193094" icon="icon_fangyuzhuanjia" level="2" effect="193152;2" effectid="1223;2|1224;2" costitem="311005;150" power="30" />
+    <ItemSpec id="30903" name="193094" icon="icon_fangyuzhuanjia" level="3" effect="193152;3" effectid="1223;3|1224;3" costitem="311005;300" power="40" />
+    <ItemSpec id="30904" name="193094" icon="icon_fangyuzhuanjia" level="4" effect="193152;4" effectid="1223;4|1224;4" costitem="311005;500" power="50" />
+    <ItemSpec id="30905" name="193094" icon="icon_fangyuzhuanjia" level="5" effect="193152;5" effectid="1223;5|1224;5" costitem="311005;650" power="60" />
+    <ItemSpec id="30906" name="193094" icon="icon_fangyuzhuanjia" level="6" effect="193152;6" effectid="1223;6|1224;6" costitem="311005;850" power="70" />
+    <ItemSpec id="30907" name="193094" icon="icon_fangyuzhuanjia" level="7" effect="193152;7" effectid="1223;7|1224;7" costitem="311005;1200" power="80" />
+    <ItemSpec id="30908" name="193094" icon="icon_fangyuzhuanjia" level="8" effect="193152;8" effectid="1223;8|1224;8" costitem="311005;1600" power="90" />
+    <ItemSpec id="30909" name="193094" icon="icon_fangyuzhuanjia" level="9" effect="193152;9" effectid="1223;9|1224;9" costitem="311005;2660" power="100" />
+    <ItemSpec id="30910" name="193094" icon="icon_fangyuzhuanjia" level="10" effect="193152;10" effectid="1223;10|1224;10" costitem="311005;2940" power="110" />
+    <ItemSpec id="30911" name="193094" icon="icon_fangyuzhuanjia" level="11" effect="193152;11" effectid="1223;11|1224;11" costitem="311005;3320" power="120" />
+    <ItemSpec id="30912" name="193094" icon="icon_fangyuzhuanjia" level="12" effect="193152;12" effectid="1223;12|1224;12" costitem="311005;3760" power="130" />
+    <ItemSpec id="30913" name="193094" icon="icon_fangyuzhuanjia" level="13" effect="193152;13" effectid="1223;13|1224;13" costitem="311005;4210" power="140" />
+    <ItemSpec id="30914" name="193094" icon="icon_fangyuzhuanjia" level="14" effect="193152;14" effectid="1223;14|1224;14" costitem="311005;4740" power="150" />
+    <ItemSpec id="30915" name="193094" icon="icon_fangyuzhuanjia" level="15" effect="193152;15" effectid="1223;15|1224;15" costitem="311005;5380" power="160" />
+    <ItemSpec id="30916" name="193094" icon="icon_fangyuzhuanjia" level="16" effect="193152;16" effectid="1223;16|1224;16" costitem="311005;6040" power="170" />
+    <ItemSpec id="30917" name="193094" icon="icon_fangyuzhuanjia" level="17" effect="193152;17" effectid="1223;17|1224;17" costitem="311005;6730" power="180" />
+    <ItemSpec id="30918" name="193094" icon="icon_fangyuzhuanjia" level="18" effect="193152;18" effectid="1223;18|1224;18" costitem="311005;7550" power="190" />
+    <ItemSpec id="30919" name="193094" icon="icon_fangyuzhuanjia" level="19" effect="193152;19" effectid="1223;19|1224;19" costitem="311005;8500" power="200" />
+    <ItemSpec id="30920" name="193094" icon="icon_fangyuzhuanjia" level="20" effect="193152;20" effectid="1223;20|1224;20" costitem="311005;9560" power="210" />
+    <ItemSpec id="30921" name="193094" icon="icon_fangyuzhuanjia" level="21" effect="193152;21" effectid="1223;21|1224;21" costitem="311005;11590" power="220" />
+    <ItemSpec id="30922" name="193094" icon="icon_fangyuzhuanjia" level="22" effect="193152;22" effectid="1223;22|1224;22" costitem="311005;12600" power="230" />
+    <ItemSpec id="30923" name="193094" icon="icon_fangyuzhuanjia" level="23" effect="193152;23" effectid="1223;23|1224;23" costitem="311005;13520" power="240" />
+    <ItemSpec id="30924" name="193094" icon="icon_fangyuzhuanjia" level="24" effect="193152;24" effectid="1223;24|1224;24" costitem="311005;14700" power="250" />
+    <ItemSpec id="30925" name="193094" icon="icon_fangyuzhuanjia" level="25" effect="193152;25" effectid="1223;25|1224;25" costitem="311005;15810" power="260" />
+    <ItemSpec id="30926" name="193094" icon="icon_fangyuzhuanjia" level="26" effect="193152;26" effectid="1223;26|1224;26" costitem="311005;17110" power="270" />
+    <ItemSpec id="30927" name="193094" icon="icon_fangyuzhuanjia" level="27" effect="193152;27" effectid="1223;27|1224;27" costitem="311005;18410" power="280" />
+    <ItemSpec id="30928" name="193094" icon="icon_fangyuzhuanjia" level="28" effect="193152;28" effectid="1223;28|1224;28" costitem="311005;19900" power="290" />
+    <ItemSpec id="30929" name="193094" icon="icon_fangyuzhuanjia" level="29" effect="193152;29" effectid="1223;29|1224;29" costitem="311005;21540" power="300" />
+    <ItemSpec id="30930" name="193094" icon="icon_fangyuzhuanjia" level="30" effect="193152;30" effectid="1223;30|1224;30" costitem="311005;23220" power="310" />
+    <ItemSpec id="30931" name="193094" icon="icon_fangyuzhuanjia" level="31" effect="193152;31" effectid="1223;31|1224;31" costitem="311005;25090" power="320" />
+    <ItemSpec id="30932" name="193094" icon="icon_fangyuzhuanjia" level="32" effect="193152;32" effectid="1223;32|1224;32" costitem="311005;27080" power="330" />
+    <ItemSpec id="30933" name="193094" icon="icon_fangyuzhuanjia" level="33" effect="193152;33" effectid="1223;33|1224;33" costitem="311005;33270" power="340" />
+    <ItemSpec id="30934" name="193094" icon="icon_fangyuzhuanjia" level="34" effect="193152;34" effectid="1223;34|1224;34" costitem="311005;36620" power="350" />
+    <ItemSpec id="30935" name="193094" icon="icon_fangyuzhuanjia" level="35" effect="193152;35" effectid="1223;35|1224;35" costitem="311005;40250" power="360" />
+    <ItemSpec id="30936" name="193094" icon="icon_fangyuzhuanjia" level="36" effect="193152;36" effectid="1223;36|1224;36" costitem="311005;44320" power="370" />
+    <ItemSpec id="30937" name="193094" icon="icon_fangyuzhuanjia" level="37" effect="193152;37" effectid="1223;37|1224;37" costitem="311005;48720" power="380" />
+    <ItemSpec id="30938" name="193094" icon="icon_fangyuzhuanjia" level="38" effect="193152;38" effectid="1223;38|1224;38" costitem="311005;53580" power="390" />
+    <ItemSpec id="30939" name="193094" icon="icon_fangyuzhuanjia" level="39" effect="193152;39" effectid="1223;39|1224;39" costitem="311005;58930" power="400" />
+    <ItemSpec id="30940" name="193094" icon="icon_fangyuzhuanjia" level="40" effect="193152;40" effectid="1223;40|1224;40" costitem="311005;64850" power="410" />
+
+
+    <ItemSpec id="31000" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="0" effect="190366;0" />
+    <ItemSpec id="31001" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="1" effect="190366;1" effectid="1201;1|1202;1" costitem="311005;100" power="20" />
+    <ItemSpec id="31002" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="2" effect="190366;2" effectid="1201;2|1202;2" costitem="311005;150" power="30" />
+    <ItemSpec id="31003" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="3" effect="190366;3" effectid="1201;3|1202;3" costitem="311005;300" power="40" />
+    <ItemSpec id="31004" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="4" effect="190366;4" effectid="1201;4|1202;4" costitem="311005;500" power="50" />
+    <ItemSpec id="31005" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="5" effect="190366;5" effectid="1201;5|1202;5" costitem="311005;650" power="60" />
+    <ItemSpec id="31006" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="6" effect="190366;6" effectid="1201;6|1202;6" costitem="311005;850" power="70" />
+    <ItemSpec id="31007" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="7" effect="190366;7" effectid="1201;7|1202;7" costitem="311005;1200" power="80" />
+    <ItemSpec id="31008" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="8" effect="190366;8" effectid="1201;8|1202;8" costitem="311005;1600" power="90" />
+    <ItemSpec id="31009" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="9" effect="190366;9" effectid="1201;9|1202;9" costitem="311005;2660" power="100" />
+    <ItemSpec id="31010" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="10" effect="190366;10" effectid="1201;10|1202;10" costitem="311005;2940" power="110" />
+    <ItemSpec id="31011" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="11" effect="190366;11" effectid="1201;11|1202;11" costitem="311005;3320" power="120" />
+    <ItemSpec id="31012" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="12" effect="190366;12" effectid="1201;12|1202;12" costitem="311005;3760" power="130" />
+    <ItemSpec id="31013" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="13" effect="190366;13" effectid="1201;13|1202;13" costitem="311005;4210" power="140" />
+    <ItemSpec id="31014" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="14" effect="190366;14" effectid="1201;14|1202;14" costitem="311005;4740" power="150" />
+    <ItemSpec id="31015" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="15" effect="190366;15" effectid="1201;15|1202;15" costitem="311005;5380" power="160" />
+    <ItemSpec id="31016" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="16" effect="190366;16" effectid="1201;16|1202;16" costitem="311005;6040" power="170" />
+    <ItemSpec id="31017" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="17" effect="190366;17" effectid="1201;17|1202;17" costitem="311005;6730" power="180" />
+    <ItemSpec id="31018" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="18" effect="190366;18" effectid="1201;18|1202;18" costitem="311005;7550" power="190" />
+    <ItemSpec id="31019" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="19" effect="190366;19" effectid="1201;19|1202;19" costitem="311005;8500" power="200" />
+    <ItemSpec id="31020" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="20" effect="190366;20" effectid="1201;20|1202;20" costitem="311005;9560" power="210" />
+    <ItemSpec id="31021" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="21" effect="190366;21" effectid="1201;21|1202;21" costitem="311005;11590" power="220" />
+    <ItemSpec id="31022" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="22" effect="190366;22" effectid="1201;22|1202;22" costitem="311005;12600" power="230" />
+    <ItemSpec id="31023" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="23" effect="190366;23" effectid="1201;23|1202;23" costitem="311005;13520" power="240" />
+    <ItemSpec id="31024" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="24" effect="190366;24" effectid="1201;24|1202;24" costitem="311005;14700" power="250" />
+    <ItemSpec id="31025" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="25" effect="190366;25" effectid="1201;25|1202;25" costitem="311005;15810" power="260" />
+    <ItemSpec id="31026" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="26" effect="190366;26" effectid="1201;26|1202;26" costitem="311005;17110" power="270" />
+    <ItemSpec id="31027" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="27" effect="190366;27" effectid="1201;27|1202;27" costitem="311005;18410" power="280" />
+    <ItemSpec id="31028" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="28" effect="190366;28" effectid="1201;28|1202;28" costitem="311005;19900" power="290" />
+    <ItemSpec id="31029" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="29" effect="190366;29" effectid="1201;29|1202;29" costitem="311005;21540" power="300" />
+    <ItemSpec id="31030" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="30" effect="190366;30" effectid="1201;30|1202;30" costitem="311005;23220" power="310" />
+    <ItemSpec id="31031" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="31" effect="190366;31" effectid="1201;31|1202;31" costitem="311005;25090" power="320" />
+    <ItemSpec id="31032" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="32" effect="190366;32" effectid="1201;32|1202;32" costitem="311005;27080" power="330" />
+    <ItemSpec id="31033" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="33" effect="190366;33" effectid="1201;33|1202;33" costitem="311005;33270" power="340" />
+    <ItemSpec id="31034" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="34" effect="190366;34" effectid="1201;34|1202;34" costitem="311005;36620" power="350" />
+    <ItemSpec id="31035" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="35" effect="190366;35" effectid="1201;35|1202;35" costitem="311005;40250" power="360" />
+    <ItemSpec id="31036" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="36" effect="190366;36" effectid="1201;36|1202;36" costitem="311005;44320" power="370" />
+    <ItemSpec id="31037" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="37" effect="190366;37" effectid="1201;37|1202;37" costitem="311005;48720" power="380" />
+    <ItemSpec id="31038" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="38" effect="190366;38" effectid="1201;38|1202;38" costitem="311005;53580" power="390" />
+    <ItemSpec id="31039" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="39" effect="190366;39" effectid="1201;39|1202;39" costitem="311005;58930" power="400" />
+    <ItemSpec id="31040" name="201312" icon="FB_IC_gonhchengchekeji_SKILL" level="40" effect="190366;40" effectid="1201;40|1202;40" costitem="311005;64850" power="410" />
+
+    <ItemSpec id="31100" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" effect="122004;0" />
+    <ItemSpec id="31101" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="1" effect="122004;1" effectid="1205;1|1206;1" costitem="311005;100" power="20" />
+    <ItemSpec id="31102" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="2" effect="122004;2" effectid="1205;2|1206;2" costitem="311005;150" power="30" />
+    <ItemSpec id="31103" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="3" effect="122004;3" effectid="1205;3|1206;3" costitem="311005;300" power="40" />
+    <ItemSpec id="31104" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="4" effect="122004;4" effectid="1205;4|1206;4" costitem="311005;500" power="50" />
+    <ItemSpec id="31105" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="5" effect="122004;5" effectid="1205;5|1206;5" costitem="311005;650" power="60" />
+    <ItemSpec id="31106" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="6" effect="122004;6" effectid="1205;6|1206;6" costitem="311005;850" power="70" />
+    <ItemSpec id="31107" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="7" effect="122004;7" effectid="1205;7|1206;7" costitem="311005;1200" power="80" />
+    <ItemSpec id="31108" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="8" effect="122004;8" effectid="1205;8|1206;8" costitem="311005;1600" power="90" />
+    <ItemSpec id="31109" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="9" effect="122004;9" effectid="1205;9|1206;9" costitem="311005;2660" power="100" />
+    <ItemSpec id="31110" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="10" effect="122004;10" effectid="1205;10|1206;10" costitem="311005;2940" power="110" />
+    <ItemSpec id="31111" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="11" effect="122004;11" effectid="1205;11|1206;11" costitem="311005;3320" power="120" />
+    <ItemSpec id="31112" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="12" effect="122004;12" effectid="1205;12|1206;12" costitem="311005;3760" power="130" />
+    <ItemSpec id="31113" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="13" effect="122004;13" effectid="1205;13|1206;13" costitem="311005;4210" power="140" />
+    <ItemSpec id="31114" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="14" effect="122004;14" effectid="1205;14|1206;14" costitem="311005;4740" power="150" />
+    <ItemSpec id="31115" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="15" effect="122004;15" effectid="1205;15|1206;15" costitem="311005;5380" power="160" />
+    <ItemSpec id="31116" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="16" effect="122004;16" effectid="1205;16|1206;16" costitem="311005;6040" power="170" />
+    <ItemSpec id="31117" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="17" effect="122004;17" effectid="1205;17|1206;17" costitem="311005;6730" power="180" />
+    <ItemSpec id="31118" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="18" effect="122004;18" effectid="1205;18|1206;18" costitem="311005;7550" power="190" />
+    <ItemSpec id="31119" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="19" effect="122004;19" effectid="1205;19|1206;19" costitem="311005;8500" power="200" />
+    <ItemSpec id="31120" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="20" effect="122004;20" effectid="1205;20|1206;20" costitem="311005;9560" power="210" />
+    <ItemSpec id="31121" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="21" effect="122004;21" effectid="1205;21|1206;21" costitem="311005;11590" power="220" />
+    <ItemSpec id="31122" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="22" effect="122004;22" effectid="1205;22|1206;22" costitem="311005;12600" power="230" />
+    <ItemSpec id="31123" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="23" effect="122004;23" effectid="1205;23|1206;23" costitem="311005;13520" power="240" />
+    <ItemSpec id="31124" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="24" effect="122004;24" effectid="1205;24|1206;24" costitem="311005;14700" power="250" />
+    <ItemSpec id="31125" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="25" effect="122004;25" effectid="1205;25|1206;25" costitem="311005;15810" power="260" />
+    <ItemSpec id="31126" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="26" effect="122004;26" effectid="1205;26|1206;26" costitem="311005;17110" power="270" />
+    <ItemSpec id="31127" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="27" effect="122004;27" effectid="1205;27|1206;27" costitem="311005;18410" power="280" />
+    <ItemSpec id="31128" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="28" effect="122004;28" effectid="1205;28|1206;28" costitem="311005;19900" power="290" />
+    <ItemSpec id="31129" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="29" effect="122004;29" effectid="1205;29|1206;29" costitem="311005;21540" power="300" />
+    <ItemSpec id="31130" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="30" effect="122004;30" effectid="1205;30|1206;30" costitem="311005;23220" power="310" />
+    <ItemSpec id="31131" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="31" effect="122004;31" effectid="1205;31|1206;31" costitem="311005;25090" power="320" />
+    <ItemSpec id="31132" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="32" effect="122004;32" effectid="1205;32|1206;32" costitem="311005;27080" power="330" />
+    <ItemSpec id="31133" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="33" effect="122004;33" effectid="1205;33|1206;33" costitem="311005;33270" power="340" />
+    <ItemSpec id="31134" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="34" effect="122004;34" effectid="1205;34|1206;34" costitem="311005;36620" power="350" />
+    <ItemSpec id="31135" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="35" effect="122004;35" effectid="1205;35|1206;35" costitem="311005;40250" power="360" />
+    <ItemSpec id="31136" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="36" effect="122004;36" effectid="1205;36|1206;36" costitem="311005;44320" power="370" />
+    <ItemSpec id="31137" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="37" effect="122004;37" effectid="1205;37|1206;37" costitem="311005;48720" power="380" />
+    <ItemSpec id="31138" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="38" effect="122004;38" effectid="1205;38|1206;38" costitem="311005;53580" power="390" />
+    <ItemSpec id="31139" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="39" effect="122004;39" effectid="1205;39|1206;39" costitem="311005;58930" power="400" />
+    <ItemSpec id="31140" name="201313" icon="FB_IC_gonhchengchekeji_SKILL" level="40" effect="122004;40" effectid="1205;40|1206;40" costitem="311005;64850" power="410" />
+
+    <ItemSpec id="31200" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="0" effect="122005;0" />
+    <ItemSpec id="31201" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="1" effect="122005;1" effectid="1203;1|1204;1" costitem="311005;100" power="20" />
+    <ItemSpec id="31202" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="2" effect="122005;2" effectid="1203;2|1204;2" costitem="311005;150" power="30" />
+    <ItemSpec id="31203" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="3" effect="122005;3" effectid="1203;3|1204;3" costitem="311005;300" power="40" />
+    <ItemSpec id="31204" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="4" effect="122005;4" effectid="1203;4|1204;4" costitem="311005;500" power="50" />
+    <ItemSpec id="31205" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="5" effect="122005;5" effectid="1203;5|1204;5" costitem="311005;650" power="60" />
+    <ItemSpec id="31206" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="6" effect="122005;6" effectid="1203;6|1204;6" costitem="311005;850" power="70" />
+    <ItemSpec id="31207" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="7" effect="122005;7" effectid="1203;7|1204;7" costitem="311005;1200" power="80" />
+    <ItemSpec id="31208" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="8" effect="122005;8" effectid="1203;8|1204;8" costitem="311005;1600" power="90" />
+    <ItemSpec id="31209" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="9" effect="122005;9" effectid="1203;9|1204;9" costitem="311005;2660" power="100" />
+    <ItemSpec id="31210" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="10" effect="122005;10" effectid="1203;10|1204;10" costitem="311005;2940" power="110" />
+    <ItemSpec id="31211" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="11" effect="122005;11" effectid="1203;11|1204;11" costitem="311005;3320" power="120" />
+    <ItemSpec id="31212" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="12" effect="122005;12" effectid="1203;12|1204;12" costitem="311005;3760" power="130" />
+    <ItemSpec id="31213" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="13" effect="122005;13" effectid="1203;13|1204;13" costitem="311005;4210" power="140" />
+    <ItemSpec id="31214" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="14" effect="122005;14" effectid="1203;14|1204;14" costitem="311005;4740" power="150" />
+    <ItemSpec id="31215" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="15" effect="122005;15" effectid="1203;15|1204;15" costitem="311005;5380" power="160" />
+    <ItemSpec id="31216" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="16" effect="122005;16" effectid="1203;16|1204;16" costitem="311005;6040" power="170" />
+    <ItemSpec id="31217" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="17" effect="122005;17" effectid="1203;17|1204;17" costitem="311005;6730" power="180" />
+    <ItemSpec id="31218" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="18" effect="122005;18" effectid="1203;18|1204;18" costitem="311005;7550" power="190" />
+    <ItemSpec id="31219" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="19" effect="122005;19" effectid="1203;19|1204;19" costitem="311005;8500" power="200" />
+    <ItemSpec id="31220" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="20" effect="122005;20" effectid="1203;20|1204;20" costitem="311005;9560" power="210" />
+    <ItemSpec id="31221" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="21" effect="122005;21" effectid="1203;21|1204;21" costitem="311005;11590" power="220" />
+    <ItemSpec id="31222" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="22" effect="122005;22" effectid="1203;22|1204;22" costitem="311005;12600" power="230" />
+    <ItemSpec id="31223" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="23" effect="122005;23" effectid="1203;23|1204;23" costitem="311005;13520" power="240" />
+    <ItemSpec id="31224" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="24" effect="122005;24" effectid="1203;24|1204;24" costitem="311005;14700" power="250" />
+    <ItemSpec id="31225" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="25" effect="122005;25" effectid="1203;25|1204;25" costitem="311005;15810" power="260" />
+    <ItemSpec id="31226" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="26" effect="122005;26" effectid="1203;26|1204;26" costitem="311005;17110" power="270" />
+    <ItemSpec id="31227" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="27" effect="122005;27" effectid="1203;27|1204;27" costitem="311005;18410" power="280" />
+    <ItemSpec id="31228" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="28" effect="122005;28" effectid="1203;28|1204;28" costitem="311005;19900" power="290" />
+    <ItemSpec id="31229" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="29" effect="122005;29" effectid="1203;29|1204;29" costitem="311005;21540" power="300" />
+    <ItemSpec id="31230" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="30" effect="122005;30" effectid="1203;30|1204;30" costitem="311005;23220" power="310" />
+    <ItemSpec id="31231" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="31" effect="122005;31" effectid="1203;31|1204;31" costitem="311005;25090" power="320" />
+    <ItemSpec id="31232" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="32" effect="122005;32" effectid="1203;32|1204;32" costitem="311005;27080" power="330" />
+    <ItemSpec id="31233" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="33" effect="122005;33" effectid="1203;33|1204;33" costitem="311005;33270" power="340" />
+    <ItemSpec id="31234" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="34" effect="122005;34" effectid="1203;34|1204;34" costitem="311005;36620" power="350" />
+    <ItemSpec id="31235" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="35" effect="122005;35" effectid="1203;35|1204;35" costitem="311005;40250" power="360" />
+    <ItemSpec id="31236" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="36" effect="122005;36" effectid="1203;36|1204;36" costitem="311005;44320" power="370" />
+    <ItemSpec id="31237" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="37" effect="122005;37" effectid="1203;37|1204;37" costitem="311005;48720" power="380" />
+    <ItemSpec id="31238" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="38" effect="122005;38" effectid="1203;38|1204;38" costitem="311005;53580" power="390" />
+    <ItemSpec id="31239" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="39" effect="122005;39" effectid="1203;39|1204;39" costitem="311005;58930" power="400" />
+    <ItemSpec id="31240" name="201314" icon="FB_IC_gonhchengchekeji_SKILL" level="40" effect="122005;40" effectid="1203;40|1204;40" costitem="311005;64850" power="410" />
+
+    <ItemSpec id="31300" name="120073" icon="science_sp3" level="0" effect="201500;0" />
+    <ItemSpec id="31301" name="120073" icon="science_sp3" level="1" effect="201500;0.5" effectid="1053;0.5|1054;0.5" costitem="311005;150" power="40" />
+    <ItemSpec id="31302" name="120073" icon="science_sp3" level="2" effect="201500;1" effectid="1053;1|1054;1" costitem="311005;350" power="60" />
+    <ItemSpec id="31303" name="120073" icon="science_sp3" level="3" effect="201500;1.5" effectid="1053;1.5|1054;1.5" costitem="311005;700" power="80" />
+    <ItemSpec id="31304" name="120073" icon="science_sp3" level="4" effect="201500;2" effectid="1053;2|1054;2" costitem="311005;1000" power="100" />
+    <ItemSpec id="31305" name="120073" icon="science_sp3" level="5" effect="201500;2.5" effectid="1053;2.5|1054;2.5" costitem="311005;1400" power="120" />
+    <ItemSpec id="31306" name="120073" icon="science_sp3" level="6" effect="201500;3" effectid="1053;3|1054;3" costitem="311005;1900" power="140" />
+    <ItemSpec id="31307" name="120073" icon="science_sp3" level="7" effect="201500;3.5" effectid="1053;3.5|1054;3.5" costitem="311005;2500" power="160" />
+    <ItemSpec id="31308" name="120073" icon="science_sp3" level="8" effect="201500;4" effectid="1053;4|1054;4" costitem="311005;3200" power="180" />
+    <ItemSpec id="31309" name="120073" icon="science_sp3" level="9" effect="201500;4.5" effectid="1053;4.5|1054;4.5" costitem="311005;6880" power="200" />
+    <ItemSpec id="31310" name="120073" icon="science_sp3" level="10" effect="201500;5" effectid="1053;5|1054;5" costitem="311005;7420" power="220" />
+    <ItemSpec id="31311" name="120073" icon="science_sp3" level="11" effect="201500;5.5" effectid="1053;5.5|1054;5.5" costitem="311005;8000" power="240" />
+    <ItemSpec id="31312" name="120073" icon="science_sp3" level="12" effect="201500;6" effectid="1053;6|1054;6" costitem="311005;8720" power="260" />
+    <ItemSpec id="31313" name="120073" icon="science_sp3" level="13" effect="201500;6.5" effectid="1053;6.5|1054;6.5" costitem="311005;9380" power="280" />
+    <ItemSpec id="31314" name="120073" icon="science_sp3" level="14" effect="201500;7" effectid="1053;7|1054;7" costitem="311005;10110" power="300" />
+    <ItemSpec id="31315" name="120073" icon="science_sp3" level="15" effect="201500;7.5" effectid="1053;7.5|1054;7.5" costitem="311005;10920" power="320" />
+    <ItemSpec id="31316" name="120073" icon="science_sp3" level="16" effect="201500;8" effectid="1053;8|1054;8" costitem="311005;11820" power="340" />
+    <ItemSpec id="31317" name="120073" icon="science_sp3" level="17" effect="201500;8.5" effectid="1053;8.5|1054;8.5" costitem="311005;12730" power="360" />
+    <ItemSpec id="31318" name="120073" icon="science_sp3" level="18" effect="201500;9" effectid="1053;9|1054;9" costitem="311005;13790" power="380" />
+    <ItemSpec id="31319" name="120073" icon="science_sp3" level="19" effect="201500;9.5" effectid="1053;9.5|1054;9.5" costitem="311005;14880" power="400" />
+    <ItemSpec id="31320" name="120073" icon="science_sp3" level="20" effect="201500;10" effectid="1053;10|1054;10" costitem="311005;16000" power="420" />
+    <ItemSpec id="31321" name="120073" icon="science_sp3" level="21" effect="201500;10.5" effectid="1053;10.5|1054;10.5" costitem="311005;23200" power="440" />
+    <ItemSpec id="31322" name="120073" icon="science_sp3" level="22" effect="201500;11" effectid="1053;11|1054;11" costitem="311005;25120" power="460" />
+    <ItemSpec id="31323" name="120073" icon="science_sp3" level="23" effect="201500;11.5" effectid="1053;11.5|1054;11.5" costitem="311005;27140" power="480" />
+    <ItemSpec id="31324" name="120073" icon="science_sp3" level="24" effect="201500;12" effectid="1053;12|1054;12" costitem="311005;29310" power="500" />
+    <ItemSpec id="31325" name="120073" icon="science_sp3" level="25" effect="201500;12.5" effectid="1053;12.5|1054;12.5" costitem="311005;31550" power="520" />
+    <ItemSpec id="31326" name="120073" icon="science_sp3" level="26" effect="201500;13" effectid="1053;13|1054;13" costitem="311005;34070" power="540" />
+    <ItemSpec id="31327" name="120073" icon="science_sp3" level="27" effect="201500;13.5" effectid="1053;13.5|1054;13.5" costitem="311005;36840" power="560" />
+    <ItemSpec id="31328" name="120073" icon="science_sp3" level="28" effect="201500;14" effectid="1053;14|1054;14" costitem="311005;39810" power="580" />
+    <ItemSpec id="31329" name="120073" icon="science_sp3" level="29" effect="201500;14.5" effectid="1053;14.5|1054;14.5" costitem="311005;42980" power="600" />
+    <ItemSpec id="31330" name="120073" icon="science_sp3" level="30" effect="201500;15" effectid="1053;15|1054;15" costitem="311005;46350" power="620" />
+    <ItemSpec id="31331" name="120073" icon="science_sp3" level="31" effect="201500;15.5" effectid="1053;15.5|1054;15.5" costitem="311005;50070" power="640" />
+    <ItemSpec id="31332" name="120073" icon="science_sp3" level="32" effect="201500;16" effectid="1053;16|1054;16" costitem="311005;54130" power="660" />
+    <ItemSpec id="31333" name="120073" icon="science_sp3" level="33" effect="201500;16.5" effectid="1053;16.5|1054;16.5" costitem="311005;56860" power="680" />
+    <ItemSpec id="31334" name="120073" icon="science_sp3" level="34" effect="201500;17" effectid="1053;17|1054;17" costitem="311005;62530" power="700" />
+    <ItemSpec id="31335" name="120073" icon="science_sp3" level="35" effect="201500;17.5" effectid="1053;17.5|1054;17.5" costitem="311005;68810" power="720" />
+    <ItemSpec id="31336" name="120073" icon="science_sp3" level="36" effect="201500;18" effectid="1053;18|1054;18" costitem="311005;75720" power="740" />
+    <ItemSpec id="31337" name="120073" icon="science_sp3" level="37" effect="201500;18.5" effectid="1053;18.5|1054;18.5" costitem="311005;83240" power="760" />
+    <ItemSpec id="31338" name="120073" icon="science_sp3" level="38" effect="201500;19" effectid="1053;19|1054;19" costitem="311005;91630" power="780" />
+    <ItemSpec id="31339" name="120073" icon="science_sp3" level="39" effect="201500;19.5" effectid="1053;19.5|1054;19.5" costitem="311005;100760" power="800" />
+    <ItemSpec id="31340" name="120073" icon="science_sp3" level="40" effect="201500;20" effectid="1053;20|1054;20" costitem="311005;110810" power="820" />
+
+    <ItemSpec id="31400" name="193031" icon="icon_military" level="0" effect="121071;0" />
+    <ItemSpec id="31401" name="193031" icon="icon_military" level="1" effect="121071;0.5" effectid="1051;0.5|1052;0.5" costitem="311005;150" power="40" />
+    <ItemSpec id="31402" name="193031" icon="icon_military" level="2" effect="121071;1" effectid="1051;1|1052;1" costitem="311005;350" power="60" />
+    <ItemSpec id="31403" name="193031" icon="icon_military" level="3" effect="121071;1.5" effectid="1051;1.5|1052;1.5" costitem="311005;700" power="80" />
+    <ItemSpec id="31404" name="193031" icon="icon_military" level="4" effect="121071;2" effectid="1051;2|1052;2" costitem="311005;1000" power="100" />
+    <ItemSpec id="31405" name="193031" icon="icon_military" level="5" effect="121071;2.5" effectid="1051;2.5|1052;2.5" costitem="311005;1400" power="120" />
+    <ItemSpec id="31406" name="193031" icon="icon_military" level="6" effect="121071;3" effectid="1051;3|1052;3" costitem="311005;1900" power="140" />
+    <ItemSpec id="31407" name="193031" icon="icon_military" level="7" effect="121071;3.5" effectid="1051;3.5|1052;3.5" costitem="311005;2500" power="160" />
+    <ItemSpec id="31408" name="193031" icon="icon_military" level="8" effect="121071;4" effectid="1051;4|1052;4" costitem="311005;3200" power="180" />
+    <ItemSpec id="31409" name="193031" icon="icon_military" level="9" effect="121071;4.5" effectid="1051;4.5|1052;4.5" costitem="311005;6880" power="200" />
+    <ItemSpec id="31410" name="193031" icon="icon_military" level="10" effect="121071;5" effectid="1051;5|1052;5" costitem="311005;7420" power="220" />
+    <ItemSpec id="31411" name="193031" icon="icon_military" level="11" effect="121071;5.5" effectid="1051;5.5|1052;5.5" costitem="311005;8000" power="240" />
+    <ItemSpec id="31412" name="193031" icon="icon_military" level="12" effect="121071;6" effectid="1051;6|1052;6" costitem="311005;8720" power="260" />
+    <ItemSpec id="31413" name="193031" icon="icon_military" level="13" effect="121071;6.5" effectid="1051;6.5|1052;6.5" costitem="311005;9380" power="280" />
+    <ItemSpec id="31414" name="193031" icon="icon_military" level="14" effect="121071;7" effectid="1051;7|1052;7" costitem="311005;10110" power="300" />
+    <ItemSpec id="31415" name="193031" icon="icon_military" level="15" effect="121071;7.5" effectid="1051;7.5|1052;7.5" costitem="311005;10920" power="320" />
+    <ItemSpec id="31416" name="193031" icon="icon_military" level="16" effect="121071;8" effectid="1051;8|1052;8" costitem="311005;11820" power="340" />
+    <ItemSpec id="31417" name="193031" icon="icon_military" level="17" effect="121071;8.5" effectid="1051;8.5|1052;8.5" costitem="311005;12730" power="360" />
+    <ItemSpec id="31418" name="193031" icon="icon_military" level="18" effect="121071;9" effectid="1051;9|1052;9" costitem="311005;13790" power="380" />
+    <ItemSpec id="31419" name="193031" icon="icon_military" level="19" effect="121071;9.5" effectid="1051;9.5|1052;9.5" costitem="311005;14880" power="400" />
+    <ItemSpec id="31420" name="193031" icon="icon_military" level="20" effect="121071;10" effectid="1051;10|1052;10" costitem="311005;16000" power="420" />
+    <ItemSpec id="31421" name="193031" icon="icon_military" level="21" effect="121071;10.5" effectid="1051;10.5|1052;10.5" costitem="311005;23200" power="440" />
+    <ItemSpec id="31422" name="193031" icon="icon_military" level="22" effect="121071;11" effectid="1051;11|1052;11" costitem="311005;25120" power="460" />
+    <ItemSpec id="31423" name="193031" icon="icon_military" level="23" effect="121071;11.5" effectid="1051;11.5|1052;11.5" costitem="311005;27140" power="480" />
+    <ItemSpec id="31424" name="193031" icon="icon_military" level="24" effect="121071;12" effectid="1051;12|1052;12" costitem="311005;29310" power="500" />
+    <ItemSpec id="31425" name="193031" icon="icon_military" level="25" effect="121071;12.5" effectid="1051;12.5|1052;12.5" costitem="311005;31550" power="520" />
+    <ItemSpec id="31426" name="193031" icon="icon_military" level="26" effect="121071;13" effectid="1051;13|1052;13" costitem="311005;34070" power="540" />
+    <ItemSpec id="31427" name="193031" icon="icon_military" level="27" effect="121071;13.5" effectid="1051;13.5|1052;13.5" costitem="311005;36840" power="560" />
+    <ItemSpec id="31428" name="193031" icon="icon_military" level="28" effect="121071;14" effectid="1051;14|1052;14" costitem="311005;39810" power="580" />
+    <ItemSpec id="31429" name="193031" icon="icon_military" level="29" effect="121071;14.5" effectid="1051;14.5|1052;14.5" costitem="311005;42980" power="600" />
+    <ItemSpec id="31430" name="193031" icon="icon_military" level="30" effect="121071;15" effectid="1051;15|1052;15" costitem="311005;46350" power="620" />
+    <ItemSpec id="31431" name="193031" icon="icon_military" level="31" effect="121071;15.5" effectid="1051;15.5|1052;15.5" costitem="311005;50070" power="640" />
+    <ItemSpec id="31432" name="193031" icon="icon_military" level="32" effect="121071;16" effectid="1051;16|1052;16" costitem="311005;54130" power="660" />
+    <ItemSpec id="31433" name="193031" icon="icon_military" level="33" effect="121071;16.5" effectid="1051;16.5|1052;16.5" costitem="311005;56860" power="680" />
+    <ItemSpec id="31434" name="193031" icon="icon_military" level="34" effect="121071;17" effectid="1051;17|1052;17" costitem="311005;62530" power="700" />
+    <ItemSpec id="31435" name="193031" icon="icon_military" level="35" effect="121071;17.5" effectid="1051;17.5|1052;17.5" costitem="311005;68810" power="720" />
+    <ItemSpec id="31436" name="193031" icon="icon_military" level="36" effect="121071;18" effectid="1051;18|1052;18" costitem="311005;75720" power="740" />
+    <ItemSpec id="31437" name="193031" icon="icon_military" level="37" effect="121071;18.5" effectid="1051;18.5|1052;18.5" costitem="311005;83240" power="760" />
+    <ItemSpec id="31438" name="193031" icon="icon_military" level="38" effect="121071;19" effectid="1051;19|1052;19" costitem="311005;91630" power="780" />
+    <ItemSpec id="31439" name="193031" icon="icon_military" level="39" effect="121071;19.5" effectid="1051;19.5|1052;19.5" costitem="311005;100760" power="800" />
+    <ItemSpec id="31440" name="193031" icon="icon_military" level="40" effect="121071;20" effectid="1051;20|1052;20" costitem="311005;110810" power="820" />
+
+    <ItemSpec id="31500" name="193032" icon="icon_military" effect="193219;0" />
+    <ItemSpec id="31501" name="193032" icon="icon_military" level="1" effect="193219;0.5" effectid="1051;0.5|1052;0.5" costitem="311005;150" power="40" />
+    <ItemSpec id="31502" name="193032" icon="icon_military" level="2" effect="193219;1" effectid="1051;1|1052;1" costitem="311005;350" power="60" />
+    <ItemSpec id="31503" name="193032" icon="icon_military" level="3" effect="193219;1.5" effectid="1051;1.5|1052;1.5" costitem="311005;700" power="80" />
+    <ItemSpec id="31504" name="193032" icon="icon_military" level="4" effect="193219;2" effectid="1051;2|1052;2" costitem="311005;1000" power="100" />
+    <ItemSpec id="31505" name="193032" icon="icon_military" level="5" effect="193219;2.5" effectid="1051;2.5|1052;2.5" costitem="311005;1400" power="120" />
+    <ItemSpec id="31506" name="193032" icon="icon_military" level="6" effect="193219;3" effectid="1051;3|1052;3" costitem="311005;1900" power="140" />
+    <ItemSpec id="31507" name="193032" icon="icon_military" level="7" effect="193219;3.5" effectid="1051;3.5|1052;3.5" costitem="311005;2500" power="160" />
+    <ItemSpec id="31508" name="193032" icon="icon_military" level="8" effect="193219;4" effectid="1051;4|1052;4" costitem="311005;3200" power="180" />
+    <ItemSpec id="31509" name="193032" icon="icon_military" level="9" effect="193219;4.5" effectid="1051;4.5|1052;4.5" costitem="311005;6880" power="200" />
+    <ItemSpec id="31510" name="193032" icon="icon_military" level="10" effect="193219;5" effectid="1051;5|1052;5" costitem="311005;7420" power="220" />
+    <ItemSpec id="31511" name="193032" icon="icon_military" level="11" effect="193219;5.5" effectid="1051;5.5|1052;5.5" costitem="311005;8000" power="240" />
+    <ItemSpec id="31512" name="193032" icon="icon_military" level="12" effect="193219;6" effectid="1051;6|1052;6" costitem="311005;8720" power="260" />
+    <ItemSpec id="31513" name="193032" icon="icon_military" level="13" effect="193219;6.5" effectid="1051;6.5|1052;6.5" costitem="311005;9380" power="280" />
+    <ItemSpec id="31514" name="193032" icon="icon_military" level="14" effect="193219;7" effectid="1051;7|1052;7" costitem="311005;10110" power="300" />
+    <ItemSpec id="31515" name="193032" icon="icon_military" level="15" effect="193219;7.5" effectid="1051;7.5|1052;7.5" costitem="311005;10920" power="320" />
+    <ItemSpec id="31516" name="193032" icon="icon_military" level="16" effect="193219;8" effectid="1051;8|1052;8" costitem="311005;11820" power="340" />
+    <ItemSpec id="31517" name="193032" icon="icon_military" level="17" effect="193219;8.5" effectid="1051;8.5|1052;8.5" costitem="311005;12730" power="360" />
+    <ItemSpec id="31518" name="193032" icon="icon_military" level="18" effect="193219;9" effectid="1051;9|1052;9" costitem="311005;13790" power="380" />
+    <ItemSpec id="31519" name="193032" icon="icon_military" level="19" effect="193219;9.5" effectid="1051;9.5|1052;9.5" costitem="311005;14880" power="400" />
+    <ItemSpec id="31520" name="193032" icon="icon_military" level="20" effect="193219;10" effectid="1051;10|1052;10" costitem="311005;16000" power="420" />
+    <ItemSpec id="31521" name="193032" icon="icon_military" level="21" effect="193219;10.5" effectid="1051;10.5|1052;10.5" costitem="311005;23200" power="440" />
+    <ItemSpec id="31522" name="193032" icon="icon_military" level="22" effect="193219;11" effectid="1051;11|1052;11" costitem="311005;25120" power="460" />
+    <ItemSpec id="31523" name="193032" icon="icon_military" level="23" effect="193219;11.5" effectid="1051;11.5|1052;11.5" costitem="311005;27140" power="480" />
+    <ItemSpec id="31524" name="193032" icon="icon_military" level="24" effect="193219;12" effectid="1051;12|1052;12" costitem="311005;29310" power="500" />
+    <ItemSpec id="31525" name="193032" icon="icon_military" level="25" effect="193219;12.5" effectid="1051;12.5|1052;12.5" costitem="311005;31550" power="520" />
+    <ItemSpec id="31526" name="193032" icon="icon_military" level="26" effect="193219;13" effectid="1051;13|1052;13" costitem="311005;34070" power="540" />
+    <ItemSpec id="31527" name="193032" icon="icon_military" level="27" effect="193219;13.5" effectid="1051;13.5|1052;13.5" costitem="311005;36840" power="560" />
+    <ItemSpec id="31528" name="193032" icon="icon_military" level="28" effect="193219;14" effectid="1051;14|1052;14" costitem="311005;39810" power="580" />
+    <ItemSpec id="31529" name="193032" icon="icon_military" level="29" effect="193219;14.5" effectid="1051;14.5|1052;14.5" costitem="311005;42980" power="600" />
+    <ItemSpec id="31530" name="193032" icon="icon_military" level="30" effect="193219;15" effectid="1051;15|1052;15" costitem="311005;46350" power="620" />
+    <ItemSpec id="31531" name="193032" icon="icon_military" level="31" effect="193219;15.5" effectid="1051;15.5|1052;15.5" costitem="311005;50070" power="640" />
+    <ItemSpec id="31532" name="193032" icon="icon_military" level="32" effect="193219;16" effectid="1051;16|1052;16" costitem="311005;54130" power="660" />
+    <ItemSpec id="31533" name="193032" icon="icon_military" level="33" effect="193219;16.5" effectid="1051;16.5|1052;16.5" costitem="311005;56860" power="680" />
+    <ItemSpec id="31534" name="193032" icon="icon_military" level="34" effect="193219;17" effectid="1051;17|1052;17" costitem="311005;62530" power="700" />
+    <ItemSpec id="31535" name="193032" icon="icon_military" level="35" effect="193219;17.5" effectid="1051;17.5|1052;17.5" costitem="311005;68810" power="720" />
+    <ItemSpec id="31536" name="193032" icon="icon_military" level="36" effect="193219;18" effectid="1051;18|1052;18" costitem="311005;75720" power="740" />
+    <ItemSpec id="31537" name="193032" icon="icon_military" level="37" effect="193219;18.5" effectid="1051;18.5|1052;18.5" costitem="311005;83240" power="760" />
+    <ItemSpec id="31538" name="193032" icon="icon_military" level="38" effect="193219;19" effectid="1051;19|1052;19" costitem="311005;91630" power="780" />
+    <ItemSpec id="31539" name="193032" icon="icon_military" level="39" effect="193219;19.5" effectid="1051;19.5|1052;19.5" costitem="311005;100760" power="800" />
+    <ItemSpec id="31540" name="193032" icon="icon_military" level="40" effect="193219;20" effectid="1051;20|1052;20" costitem="311005;110810" power="820" />
+
+
+    <ItemSpec id="31600" name="190302" icon="science_sp1" level="0" effect="193209;0" />
+    <ItemSpec id="31601" name="190302" icon="science_sp1" level="1" effect="193209;0.5" effectid="26701;0.5|26702;0.5" costitem="311005;500" power="80" />
+    <ItemSpec id="31602" name="190302" icon="science_sp1" level="2" effect="193209;1" effectid="26701;1|26702;1" costitem="311005;750" power="100" />
+    <ItemSpec id="31603" name="190302" icon="science_sp1" level="3" effect="193209;1.5" effectid="26701;1.5|26702;1.5" costitem="311005;1500" power="120" />
+    <ItemSpec id="31604" name="190302" icon="science_sp1" level="4" effect="193209;2" effectid="26701;2|26702;2" costitem="311005;2500" power="140" />
+    <ItemSpec id="31605" name="190302" icon="science_sp1" level="5" effect="193209;2.5" effectid="26701;2.5|26702;2.5" costitem="311005;5990" power="160" />
+    <ItemSpec id="31606" name="190302" icon="science_sp1" level="6" effect="193209;3" effectid="26701;3|26702;3" costitem="311005;6560" power="180" />
+    <ItemSpec id="31607" name="190302" icon="science_sp1" level="7" effect="193209;3.5" effectid="26701;3.5|26702;3.5" costitem="311005;7230" power="200" />
+    <ItemSpec id="31608" name="190302" icon="science_sp1" level="8" effect="193209;4" effectid="26701;4|26702;4" costitem="311005;7950" power="220" />
+    <ItemSpec id="31609" name="190302" icon="science_sp1" level="9" effect="193209;4.5" effectid="26701;4.5|26702;4.5" costitem="311005;8760" power="240" />
+    <ItemSpec id="31610" name="190302" icon="science_sp1" level="10" effect="193209;5" effectid="26701;5|26702;5" costitem="311005;9620" power="260" />
+    <ItemSpec id="31611" name="190302" icon="science_sp1" level="11" effect="193209;5.5" effectid="26701;5.5|26702;5.5" costitem="311005;10530" power="280" />
+    <ItemSpec id="31612" name="190302" icon="science_sp1" level="12" effect="193209;6" effectid="26701;6|26702;6" costitem="311005;11660" power="300" />
+    <ItemSpec id="31613" name="190302" icon="science_sp1" level="13" effect="193209;6.5" effectid="26701;6.5|26702;6.5" costitem="311005;29510" power="320" />
+    <ItemSpec id="31614" name="190302" icon="science_sp1" level="14" effect="193209;7" effectid="26701;7|26702;7" costitem="311005;32470" power="340" />
+    <ItemSpec id="31615" name="190302" icon="science_sp1" level="15" effect="193209;7.5" effectid="26701;7.5|26702;7.5" costitem="311005;35670" power="360" />
+    <ItemSpec id="31616" name="190302" icon="science_sp1" level="16" effect="193209;8" effectid="26701;8|26702;8" costitem="311005;39260" power="380" />
+    <ItemSpec id="31617" name="190302" icon="science_sp1" level="17" effect="193209;8.5" effectid="26701;8.5|26702;8.5" costitem="311005;43130" power="400" />
+    <ItemSpec id="31618" name="190302" icon="science_sp1" level="18" effect="193209;9" effectid="26701;9|26702;9" costitem="311005;47520" power="420" />
+    <ItemSpec id="31619" name="190302" icon="science_sp1" level="19" effect="193209;9.5" effectid="26701;9.5|26702;9.5" costitem="311005;52210" power="440" />
+    <ItemSpec id="31620" name="190302" icon="science_sp1" level="20" effect="193209;10" effectid="26701;10|26702;10" costitem="311005;57440" power="460" />
+    <ItemSpec id="31621" name="190302" icon="science_sp1" level="21" effect="193209;10.5" effectid="26701;10.5|26702;10.5" costitem="311005;63240" power="480" />
+    <ItemSpec id="31622" name="190302" icon="science_sp1" level="22" effect="193209;11" effectid="26701;11|26702;11" costitem="311005;69520" power="500" />
+    <ItemSpec id="31623" name="190302" icon="science_sp1" level="23" effect="193209;11.5" effectid="26701;11.5|26702;11.5" costitem="311005;76480" power="520" />
+    <ItemSpec id="31624" name="190302" icon="science_sp1" level="24" effect="193209;12" effectid="26701;12|26702;12" costitem="311005;84140" power="540" />
+    <ItemSpec id="31625" name="190302" icon="science_sp1" level="25" effect="193209;12.5" effectid="26701;12.5|26702;12.5" costitem="311005;106440" power="560" />
+    <ItemSpec id="31626" name="190302" icon="science_sp1" level="26" effect="193209;13" effectid="26701;13|26702;13" costitem="311005;112810" power="580" />
+    <ItemSpec id="31627" name="190302" icon="science_sp1" level="27" effect="193209;13.5" effectid="26701;13.5|26702;13.5" costitem="311005;119490" power="600" />
+    <ItemSpec id="31628" name="190302" icon="science_sp1" level="28" effect="193209;14" effectid="26701;14|26702;14" costitem="311005;126680" power="620" />
+    <ItemSpec id="31629" name="190302" icon="science_sp1" level="29" effect="193209;14.5" effectid="26701;14.5|26702;14.5" costitem="311005;134330" power="640" />
+    <ItemSpec id="31630" name="190302" icon="science_sp1" level="30" effect="193209;15" effectid="26701;15|26702;15" costitem="311005;142370" power="660" />
+    <ItemSpec id="31631" name="190302" icon="science_sp1" level="31" effect="193209;15.5" effectid="26701;15.5|26702;15.5" costitem="311005;150860" power="680" />
+    <ItemSpec id="31632" name="190302" icon="science_sp1" level="32" effect="193209;16" effectid="26701;16|26702;16" costitem="311005;159930" power="700" />
+    <ItemSpec id="31633" name="190302" icon="science_sp1" level="33" effect="193209;16.5" effectid="26701;16.5|26702;16.5" costitem="311005;169570" power="720" />
+    <ItemSpec id="31634" name="190302" icon="science_sp1" level="34" effect="193209;17" effectid="26701;17|26702;17" costitem="311005;179730" power="740" />
+    <ItemSpec id="31635" name="190302" icon="science_sp1" level="35" effect="193209;17.5" effectid="26701;17.5|26702;17.5" costitem="311005;190490" power="760" />
+    <ItemSpec id="31636" name="190302" icon="science_sp1" level="36" effect="193209;18" effectid="26701;18|26702;18" costitem="311005;201870" power="780" />
+    <ItemSpec id="31637" name="190302" icon="science_sp1" level="37" effect="193209;18.5" effectid="26701;18.5|26702;18.5" costitem="311005;214000" power="800" />
+    <ItemSpec id="31638" name="190302" icon="science_sp1" level="38" effect="193209;19" effectid="26701;19|26702;19" costitem="311005;226860" power="820" />
+    <ItemSpec id="31639" name="190302" icon="science_sp1" level="39" effect="193209;19.5" effectid="26701;19.5|26702;19.5" costitem="311005;240500" power="840" />
+    <ItemSpec id="31640" name="190302" icon="science_sp1" level="40" effect="193209;20" effectid="26701;20|26702;20" costitem="311005;254920" power="860" />
+
+
+    <ItemSpec id="31700" name="190303" icon="science_sp2" level="0" effect="193217;0"/>
+    <ItemSpec id="31701" name="190303" icon="science_sp2" level="1" effect="193217;0.5" effectid="26705;0.5|26706;0.5" costitem="311005;500" power="80"/>
+    <ItemSpec id="31702" name="190303" icon="science_sp2" level="2" effect="193217;1" effectid="26705;1|26706;1" costitem="311005;750" power="100"/>
+    <ItemSpec id="31703" name="190303" icon="science_sp2" level="3" effect="193217;1.5" effectid="26705;1.5|26706;1.5" costitem="311005;1500" power="120"/>
+    <ItemSpec id="31704" name="190303" icon="science_sp2" level="4" effect="193217;2" effectid="26705;2|26706;2" costitem="311005;2500" power="140"/>
+    <ItemSpec id="31705" name="190303" icon="science_sp2" level="5" effect="193217;2.5" effectid="26705;2.5|26706;2.5" costitem="311005;5990" power="160"/>
+    <ItemSpec id="31706" name="190303" icon="science_sp2" level="6" effect="193217;3" effectid="26705;3|26706;3" costitem="311005;6560" power="180"/>
+    <ItemSpec id="31707" name="190303" icon="science_sp2" level="7" effect="193217;3.5" effectid="26705;3.5|26706;3.5" costitem="311005;7230" power="200"/>
+    <ItemSpec id="31708" name="190303" icon="science_sp2" level="8" effect="193217;4" effectid="26705;4|26706;4" costitem="311005;7950" power="220"/>
+    <ItemSpec id="31709" name="190303" icon="science_sp2" level="9" effect="193217;4.5" effectid="26705;4.5|26706;4.5" costitem="311005;8760" power="240"/>
+    <ItemSpec id="31710" name="190303" icon="science_sp2" level="10" effect="193217;5" effectid="26705;5|26706;5" costitem="311005;9620" power="260"/>
+    <ItemSpec id="31711" name="190303" icon="science_sp2" level="11" effect="193217;5.5" effectid="26705;5.5|26706;5.5" costitem="311005;10530" power="280"/>
+    <ItemSpec id="31712" name="190303" icon="science_sp2" level="12" effect="193217;6" effectid="26705;6|26706;6" costitem="311005;11660" power="300"/>
+    <ItemSpec id="31713" name="190303" icon="science_sp2" level="13" effect="193217;6.5" effectid="26705;6.5|26706;6.5" costitem="311005;29510" power="320"/>
+    <ItemSpec id="31714" name="190303" icon="science_sp2" level="14" effect="193217;7" effectid="26705;7|26706;7" costitem="311005;32470" power="340"/>
+    <ItemSpec id="31715" name="190303" icon="science_sp2" level="15" effect="193217;7.5" effectid="26705;7.5|26706;7.5" costitem="311005;35670" power="360"/>
+    <ItemSpec id="31716" name="190303" icon="science_sp2" level="16" effect="193217;8" effectid="26705;8|26706;8" costitem="311005;39260" power="380"/>
+    <ItemSpec id="31717" name="190303" icon="science_sp2" level="17" effect="193217;8.5" effectid="26705;8.5|26706;8.5" costitem="311005;43130" power="400"/>
+    <ItemSpec id="31718" name="190303" icon="science_sp2" level="18" effect="193217;9" effectid="26705;9|26706;9" costitem="311005;47520" power="420"/>
+    <ItemSpec id="31719" name="190303" icon="science_sp2" level="19" effect="193217;9.5" effectid="26705;9.5|26706;9.5" costitem="311005;52210" power="440"/>
+    <ItemSpec id="31720" name="190303" icon="science_sp2" level="20" effect="193217;10" effectid="26705;10|26706;10" costitem="311005;57440" power="460"/>
+    <ItemSpec id="31721" name="190303" icon="science_sp2" level="21" effect="193217;10.5" effectid="26705;10.5|26706;10.5" costitem="311005;63240" power="480"/>
+    <ItemSpec id="31722" name="190303" icon="science_sp2" level="22" effect="193217;11" effectid="26705;11|26706;11" costitem="311005;69520" power="500"/>
+    <ItemSpec id="31723" name="190303" icon="science_sp2" level="23" effect="193217;11.5" effectid="26705;11.5|26706;11.5" costitem="311005;76480" power="520"/>
+    <ItemSpec id="31724" name="190303" icon="science_sp2" level="24" effect="193217;12" effectid="26705;12|26706;12" costitem="311005;84140" power="540"/>
+    <ItemSpec id="31725" name="190303" icon="science_sp2" level="25" effect="193217;12.5" effectid="26705;12.5|26706;12.5" costitem="311005;106440" power="560"/>
+    <ItemSpec id="31726" name="190303" icon="science_sp2" level="26" effect="193217;13" effectid="26705;13|26706;13" costitem="311005;112810" power="580"/>
+    <ItemSpec id="31727" name="190303" icon="science_sp2" level="27" effect="193217;13.5" effectid="26705;13.5|26706;13.5" costitem="311005;119490" power="600"/>
+    <ItemSpec id="31728" name="190303" icon="science_sp2" level="28" effect="193217;14" effectid="26705;14|26706;14" costitem="311005;126680" power="620"/>
+    <ItemSpec id="31729" name="190303" icon="science_sp2" level="29" effect="193217;14.5" effectid="26705;14.5|26706;14.5" costitem="311005;134330" power="640"/>
+    <ItemSpec id="31730" name="190303" icon="science_sp2" level="30" effect="193217;15" effectid="26705;15|26706;15" costitem="311005;142370" power="660"/>
+    <ItemSpec id="31731" name="190303" icon="science_sp2" level="31" effect="193217;15.5" effectid="26705;15.5|26706;15.5" costitem="311005;150860" power="680"/>
+    <ItemSpec id="31732" name="190303" icon="science_sp2" level="32" effect="193217;16" effectid="26705;16|26706;16" costitem="311005;159930" power="700"/>
+    <ItemSpec id="31733" name="190303" icon="science_sp2" level="33" effect="193217;16.5" effectid="26705;16.5|26706;16.5" costitem="311005;169570" power="720"/>
+    <ItemSpec id="31734" name="190303" icon="science_sp2" level="34" effect="193217;17" effectid="26705;17|26706;17" costitem="311005;179730" power="740"/>
+    <ItemSpec id="31735" name="190303" icon="science_sp2" level="35" effect="193217;17.5" effectid="26705;17.5|26706;17.5" costitem="311005;190490" power="760"/>
+    <ItemSpec id="31736" name="190303" icon="science_sp2" level="36" effect="193217;18" effectid="26705;18|26706;18" costitem="311005;201870" power="780"/>
+    <ItemSpec id="31737" name="190303" icon="science_sp2" level="37" effect="193217;18.5" effectid="26705;18.5|26706;18.5" costitem="311005;214000" power="800"/>
+    <ItemSpec id="31738" name="190303" icon="science_sp2" level="38" effect="193217;19" effectid="26705;19|26706;19" costitem="311005;226860" power="820"/>
+    <ItemSpec id="31739" name="190303" icon="science_sp2" level="39" effect="193217;19.5" effectid="26705;19.5|26706;19.5" costitem="311005;240500" power="840"/>
+    <ItemSpec id="31740" name="190303" icon="science_sp2" level="40" effect="193217;20" effectid="26705;20|26706;20" costitem="311005;254920" power="860"/>
+
+    <ItemSpec id="31800" name="190304" icon="science_sp3" level="0" effect="193199;0" />
+    <ItemSpec id="31801" name="190304" icon="science_sp3" level="1" effect="193199;0.5" effectid="26703;0.5|26704;0.5" costitem="311005;500" power="80" />
+    <ItemSpec id="31802" name="190304" icon="science_sp3" level="2" effect="193199;1" effectid="26703;1|26704;1" costitem="311005;750" power="100" />
+    <ItemSpec id="31803" name="190304" icon="science_sp3" level="3" effect="193199;1.5" effectid="26703;1.5|26704;1.5" costitem="311005;1500" power="120" />
+    <ItemSpec id="31804" name="190304" icon="science_sp3" level="4" effect="193199;2" effectid="26703;2|26704;2" costitem="311005;2500" power="140" />
+    <ItemSpec id="31805" name="190304" icon="science_sp3" level="5" effect="193199;2.5" effectid="26703;2.5|26704;2.5" costitem="311005;5990" power="160" />
+    <ItemSpec id="31806" name="190304" icon="science_sp3" level="6" effect="193199;3" effectid="26703;3|26704;3" costitem="311005;6560" power="180" />
+    <ItemSpec id="31807" name="190304" icon="science_sp3" level="7" effect="193199;3.5" effectid="26703;3.5|26704;3.5" costitem="311005;7230" power="200" />
+    <ItemSpec id="31808" name="190304" icon="science_sp3" level="8" effect="193199;4" effectid="26703;4|26704;4" costitem="311005;7950" power="220" />
+    <ItemSpec id="31809" name="190304" icon="science_sp3" level="9" effect="193199;4.5" effectid="26703;4.5|26704;4.5" costitem="311005;8760" power="240" />
+    <ItemSpec id="31810" name="190304" icon="science_sp3" level="10" effect="193199;5" effectid="26703;5|26704;5" costitem="311005;9620" power="260" />
+    <ItemSpec id="31811" name="190304" icon="science_sp3" level="11" effect="193199;5.5" effectid="26703;5.5|26704;5.5" costitem="311005;10530" power="280" />
+    <ItemSpec id="31812" name="190304" icon="science_sp3" level="12" effect="193199;6" effectid="26703;6|26704;6" costitem="311005;11660" power="300" />
+    <ItemSpec id="31813" name="190304" icon="science_sp3" level="13" effect="193199;6.5" effectid="26703;6.5|26704;6.5" costitem="311005;29510" power="320" />
+    <ItemSpec id="31814" name="190304" icon="science_sp3" level="14" effect="193199;7" effectid="26703;7|26704;7" costitem="311005;32470" power="340" />
+    <ItemSpec id="31815" name="190304" icon="science_sp3" level="15" effect="193199;7.5" effectid="26703;7.5|26704;7.5" costitem="311005;35670" power="360" />
+    <ItemSpec id="31816" name="190304" icon="science_sp3" level="16" effect="193199;8" effectid="26703;8|26704;8" costitem="311005;39260" power="380" />
+    <ItemSpec id="31817" name="190304" icon="science_sp3" level="17" effect="193199;8.5" effectid="26703;8.5|26704;8.5" costitem="311005;43130" power="400" />
+    <ItemSpec id="31818" name="190304" icon="science_sp3" level="18" effect="193199;9" effectid="26703;9|26704;9" costitem="311005;47520" power="420" />
+    <ItemSpec id="31819" name="190304" icon="science_sp3" level="19" effect="193199;9.5" effectid="26703;9.5|26704;9.5" costitem="311005;52210" power="440" />
+    <ItemSpec id="31820" name="190304" icon="science_sp3" level="20" effect="193199;10" effectid="26703;10|26704;10" costitem="311005;57440" power="460" />
+    <ItemSpec id="31821" name="190304" icon="science_sp3" level="21" effect="193199;10.5" effectid="26703;10.5|26704;10.5" costitem="311005;63240" power="480" />
+    <ItemSpec id="31822" name="190304" icon="science_sp3" level="22" effect="193199;11" effectid="26703;11|26704;11" costitem="311005;69520" power="500" />
+    <ItemSpec id="31823" name="190304" icon="science_sp3" level="23" effect="193199;11.5" effectid="26703;11.5|26704;11.5" costitem="311005;76480" power="520" />
+    <ItemSpec id="31824" name="190304" icon="science_sp3" level="24" effect="193199;12" effectid="26703;12|26704;12" costitem="311005;84140" power="540" />
+    <ItemSpec id="31825" name="190304" icon="science_sp3" level="25" effect="193199;12.5" effectid="26703;12.5|26704;12.5" costitem="311005;106440" power="560" />
+    <ItemSpec id="31826" name="190304" icon="science_sp3" level="26" effect="193199;13" effectid="26703;13|26704;13" costitem="311005;112810" power="580" />
+    <ItemSpec id="31827" name="190304" icon="science_sp3" level="27" effect="193199;13.5" effectid="26703;13.5|26704;13.5" costitem="311005;119490" power="600" />
+    <ItemSpec id="31828" name="190304" icon="science_sp3" level="28" effect="193199;14" effectid="26703;14|26704;14" costitem="311005;126680" power="620" />
+    <ItemSpec id="31829" name="190304" icon="science_sp3" level="29" effect="193199;14.5" effectid="26703;14.5|26704;14.5" costitem="311005;134330" power="640" />
+    <ItemSpec id="31830" name="190304" icon="science_sp3" level="30" effect="193199;15" effectid="26703;15|26704;15" costitem="311005;142370" power="660" />
+    <ItemSpec id="31831" name="190304" icon="science_sp3" level="31" effect="193199;15.5" effectid="26703;15.5|26704;15.5" costitem="311005;150860" power="680" />
+    <ItemSpec id="31832" name="190304" icon="science_sp3" level="32" effect="193199;16" effectid="26703;16|26704;16" costitem="311005;159930" power="700" />
+    <ItemSpec id="31833" name="190304" icon="science_sp3" level="33" effect="193199;16.5" effectid="26703;16.5|26704;16.5" costitem="311005;169570" power="720" />
+    <ItemSpec id="31834" name="190304" icon="science_sp3" level="34" effect="193199;17" effectid="26703;17|26704;17" costitem="311005;179730" power="740" />
+    <ItemSpec id="31835" name="190304" icon="science_sp3" level="35" effect="193199;17.5" effectid="26703;17.5|26704;17.5" costitem="311005;190490" power="760" />
+    <ItemSpec id="31836" name="190304" icon="science_sp3" level="36" effect="193199;18" effectid="26703;18|26704;18" costitem="311005;201870" power="780" />
+    <ItemSpec id="31837" name="190304" icon="science_sp3" level="37" effect="193199;18.5" effectid="26703;18.5|26704;18.5" costitem="311005;214000" power="800" />
+    <ItemSpec id="31838" name="190304" icon="science_sp3" level="38" effect="193199;19" effectid="26703;19|26704;19" costitem="311005;226860" power="820" />
+    <ItemSpec id="31839" name="190304" icon="science_sp3" level="39" effect="193199;19.5" effectid="26703;19.5|26704;19.5" costitem="311005;240500" power="840" />
+    <ItemSpec id="31840" name="190304" icon="science_sp3" level="40" effect="193199;20" effectid="26703;20|26704;20" costitem="311005;254920" power="860" />
+
+
+    <ItemSpec id="40100" name="110490016" icon="science_speed_model" level="0" effect="110020109;0" />
+    <ItemSpec id="40101" name="110490016" icon="science_speed_model" level="1" effect="110020109;10" effectid="53;10" costitem="311006;50" power="20" />
+    <ItemSpec id="40102" name="110490016" icon="science_speed_model" level="2" effect="110020109;20" effectid="53;20" costitem="311006;100" power="30" />
+    <ItemSpec id="40103" name="110490016" icon="science_speed_model" level="3" effect="110020109;30" effectid="53;30" costitem="311006;150" power="40" />
+    <ItemSpec id="40104" name="110490016" icon="science_speed_model" level="4" effect="110020109;40" effectid="53;40" costitem="311006;200" power="50" />
+    <ItemSpec id="40105" name="110490016" icon="science_speed_model" level="5" effect="110020109;50" effectid="53;50" costitem="311006;300" power="60" />
+    <ItemSpec id="40106" name="110490016" icon="science_speed_model" level="6" effect="110020109;60" effectid="53;60" costitem="311006;450" power="70" />
+    <ItemSpec id="40107" name="110490016" icon="science_speed_model" level="7" effect="110020109;70" effectid="53;70" costitem="311006;650" power="80" />
+    <ItemSpec id="40108" name="110490016" icon="science_speed_model" level="8" effect="110020109;80" effectid="53;80" costitem="311006;900" power="90" />
+    <ItemSpec id="40109" name="110490016" icon="science_speed_model" level="9" effect="110020109;90" effectid="53;90" costitem="311006;1200" power="100" />
+    <ItemSpec id="40110" name="110490016" icon="science_speed_model" level="10" effect="110020109;100" effectid="53;100" costitem="311006;1550" power="110" />
+    <ItemSpec id="40111" name="110490016" icon="science_speed_model" level="11" effect="110020109;110" effectid="53;110" costitem="311006;2010" power="120" />
+    <ItemSpec id="40112" name="110490016" icon="science_speed_model" level="12" effect="110020109;120" effectid="53;120" costitem="311006;2210" power="130" />
+    <ItemSpec id="40113" name="110490016" icon="science_speed_model" level="13" effect="110020109;130" effectid="53;130" costitem="311006;2430" power="140" />
+    <ItemSpec id="40114" name="110490016" icon="science_speed_model" level="14" effect="110020109;140" effectid="53;140" costitem="311006;2670" power="150" />
+    <ItemSpec id="40115" name="110490016" icon="science_speed_model" level="15" effect="110020109;150" effectid="53;150" costitem="311006;2940" power="160" />
+    <ItemSpec id="40116" name="110490016" icon="science_speed_model" level="16" effect="110020109;160" effectid="53;160" costitem="311006;3230" power="170" />
+    <ItemSpec id="40117" name="110490016" icon="science_speed_model" level="17" effect="110020109;170" effectid="53;170" costitem="311006;3560" power="180" />
+    <ItemSpec id="40118" name="110490016" icon="science_speed_model" level="18" effect="110020109;180" effectid="53;180" costitem="311006;3910" power="190" />
+    <ItemSpec id="40119" name="110490016" icon="science_speed_model" level="19" effect="110020109;190" effectid="53;190" costitem="311006;4300" power="200" />
+    <ItemSpec id="40120" name="110490016" icon="science_speed_model" level="20" effect="110020109;200" effectid="53;200" costitem="311006;4730" power="210" />
+
+
+
+    <ItemSpec id="40200" name="236135" icon="science_speed_model" level="0" effect="110020106;0" />
+    <ItemSpec id="40201" name="236135" icon="science_speed_model" level="1" effect="110020106;10" effectid="52;10" costitem="311006;50" power="20" />
+    <ItemSpec id="40202" name="236135" icon="science_speed_model" level="2" effect="110020106;20" effectid="52;20" costitem="311006;100" power="30" />
+    <ItemSpec id="40203" name="236135" icon="science_speed_model" level="3" effect="110020106;30" effectid="52;30" costitem="311006;150" power="40" />
+    <ItemSpec id="40204" name="236135" icon="science_speed_model" level="4" effect="110020106;40" effectid="52;40" costitem="311006;200" power="50" />
+    <ItemSpec id="40205" name="236135" icon="science_speed_model" level="5" effect="110020106;50" effectid="52;50" costitem="311006;300" power="60" />
+    <ItemSpec id="40206" name="236135" icon="science_speed_model" level="6" effect="110020106;60" effectid="52;60" costitem="311006;450" power="70" />
+    <ItemSpec id="40207" name="236135" icon="science_speed_model" level="7" effect="110020106;70" effectid="52;70" costitem="311006;650" power="80" />
+    <ItemSpec id="40208" name="236135" icon="science_speed_model" level="8" effect="110020106;80" effectid="52;80" costitem="311006;900" power="90" />
+    <ItemSpec id="40209" name="236135" icon="science_speed_model" level="9" effect="110020106;90" effectid="52;90" costitem="311006;1200" power="100" />
+    <ItemSpec id="40210" name="236135" icon="science_speed_model" level="10" effect="110020106;100" effectid="52;100" costitem="311006;1550" power="110" />
+    <ItemSpec id="40211" name="236135" icon="science_speed_model" level="11" effect="110020106;110" effectid="52;110" costitem="311006;2010" power="120" />
+    <ItemSpec id="40212" name="236135" icon="science_speed_model" level="12" effect="110020106;120" effectid="52;120" costitem="311006;2210" power="130" />
+    <ItemSpec id="40213" name="236135" icon="science_speed_model" level="13" effect="110020106;130" effectid="52;130" costitem="311006;2430" power="140" />
+    <ItemSpec id="40214" name="236135" icon="science_speed_model" level="14" effect="110020106;140" effectid="52;140" costitem="311006;2670" power="150" />
+    <ItemSpec id="40215" name="236135" icon="science_speed_model" level="15" effect="110020106;150" effectid="52;150" costitem="311006;2940" power="160" />
+    <ItemSpec id="40216" name="236135" icon="science_speed_model" level="16" effect="110020106;160" effectid="52;160" costitem="311006;3230" power="170" />
+    <ItemSpec id="40217" name="236135" icon="science_speed_model" level="17" effect="110020106;170" effectid="52;170" costitem="311006;3560" power="180" />
+    <ItemSpec id="40218" name="236135" icon="science_speed_model" level="18" effect="110020106;180" effectid="52;180" costitem="311006;3910" power="190" />
+    <ItemSpec id="40219" name="236135" icon="science_speed_model" level="19" effect="110020106;190" effectid="52;190" costitem="311006;4300" power="200" />
+    <ItemSpec id="40220" name="236135" icon="science_speed_model" level="20" effect="110020106;200" effectid="52;200" costitem="311006;4730" power="210" />
+
+    <ItemSpec id="40300" name="120008" icon="item603" level="0" effect="121008;0" />
+    <ItemSpec id="40301" name="120008" icon="item603" level="1" effect="121008;10" effectid="51;10" costitem="311006;50" power="20" />
+    <ItemSpec id="40302" name="120008" icon="item603" level="2" effect="121008;20" effectid="51;20" costitem="311006;100" power="30" />
+    <ItemSpec id="40303" name="120008" icon="item603" level="3" effect="121008;30" effectid="51;30" costitem="311006;150" power="40" />
+    <ItemSpec id="40304" name="120008" icon="item603" level="4" effect="121008;40" effectid="51;40" costitem="311006;200" power="50" />
+    <ItemSpec id="40305" name="120008" icon="item603" level="5" effect="121008;50" effectid="51;50" costitem="311006;300" power="60" />
+    <ItemSpec id="40306" name="120008" icon="item603" level="6" effect="121008;60" effectid="51;60" costitem="311006;450" power="70" />
+    <ItemSpec id="40307" name="120008" icon="item603" level="7" effect="121008;70" effectid="51;70" costitem="311006;650" power="80" />
+    <ItemSpec id="40308" name="120008" icon="item603" level="8" effect="121008;80" effectid="51;80" costitem="311006;900" power="90" />
+    <ItemSpec id="40309" name="120008" icon="item603" level="9" effect="121008;90" effectid="51;90" costitem="311006;1200" power="100" />
+    <ItemSpec id="40310" name="120008" icon="item603" level="10" effect="121008;100" effectid="51;100" costitem="311006;1550" power="110" />
+    <ItemSpec id="40311" name="120008" icon="item603" level="11" effect="121008;110" effectid="51;110" costitem="311006;2010" power="120" />
+    <ItemSpec id="40312" name="120008" icon="item603" level="12" effect="121008;120" effectid="51;120" costitem="311006;2210" power="130" />
+    <ItemSpec id="40313" name="120008" icon="item603" level="13" effect="121008;130" effectid="51;130" costitem="311006;2430" power="140" />
+    <ItemSpec id="40314" name="120008" icon="item603" level="14" effect="121008;140" effectid="51;140" costitem="311006;2670" power="150" />
+    <ItemSpec id="40315" name="120008" icon="item603" level="15" effect="121008;150" effectid="51;150" costitem="311006;2940" power="160" />
+    <ItemSpec id="40316" name="120008" icon="item603" level="16" effect="121008;160" effectid="51;160" costitem="311006;3230" power="170" />
+    <ItemSpec id="40317" name="120008" icon="item603" level="17" effect="121008;170" effectid="51;170" costitem="311006;3560" power="180" />
+    <ItemSpec id="40318" name="120008" icon="item603" level="18" effect="121008;180" effectid="51;180" costitem="311006;3910" power="190" />
+    <ItemSpec id="40319" name="120008" icon="item603" level="19" effect="121008;190" effectid="51;190" costitem="311006;4300" power="200" />
+    <ItemSpec id="40320" name="120008" icon="item603" level="20" effect="121008;200" effectid="51;200" costitem="311006;4730" power="210" />
+
+
+    <ItemSpec id="40400" name="83310002" icon="science_speed_model" level="0" effect="110020105;0" />
+    <ItemSpec id="40401" name="83310002" icon="science_speed_model" level="1" effect="110020105;10" effectid="50;10" costitem="311006;50" power="20" />
+    <ItemSpec id="40402" name="83310002" icon="science_speed_model" level="2" effect="110020105;20" effectid="50;20" costitem="311006;100" power="30" />
+    <ItemSpec id="40403" name="83310002" icon="science_speed_model" level="3" effect="110020105;30" effectid="50;30" costitem="311006;150" power="40" />
+    <ItemSpec id="40404" name="83310002" icon="science_speed_model" level="4" effect="110020105;40" effectid="50;40" costitem="311006;200" power="50" />
+    <ItemSpec id="40405" name="83310002" icon="science_speed_model" level="5" effect="110020105;50" effectid="50;50" costitem="311006;300" power="60" />
+    <ItemSpec id="40406" name="83310002" icon="science_speed_model" level="6" effect="110020105;60" effectid="50;60" costitem="311006;450" power="70" />
+    <ItemSpec id="40407" name="83310002" icon="science_speed_model" level="7" effect="110020105;70" effectid="50;70" costitem="311006;650" power="80" />
+    <ItemSpec id="40408" name="83310002" icon="science_speed_model" level="8" effect="110020105;80" effectid="50;80" costitem="311006;900" power="90" />
+    <ItemSpec id="40409" name="83310002" icon="science_speed_model" level="9" effect="110020105;90" effectid="50;90" costitem="311006;1200" power="100" />
+    <ItemSpec id="40410" name="83310002" icon="science_speed_model" level="10" effect="110020105;100" effectid="50;100" costitem="311006;1550" power="110" />
+    <ItemSpec id="40411" name="83310002" icon="science_speed_model" level="11" effect="110020105;110" effectid="50;110" costitem="311006;2010" power="120" />
+    <ItemSpec id="40412" name="83310002" icon="science_speed_model" level="12" effect="110020105;120" effectid="50;120" costitem="311006;2210" power="130" />
+    <ItemSpec id="40413" name="83310002" icon="science_speed_model" level="13" effect="110020105;130" effectid="50;130" costitem="311006;2430" power="140" />
+    <ItemSpec id="40414" name="83310002" icon="science_speed_model" level="14" effect="110020105;140" effectid="50;140" costitem="311006;2670" power="150" />
+    <ItemSpec id="40415" name="83310002" icon="science_speed_model" level="15" effect="110020105;150" effectid="50;150" costitem="311006;2940" power="160" />
+    <ItemSpec id="40416" name="83310002" icon="science_speed_model" level="16" effect="110020105;160" effectid="50;160" costitem="311006;3230" power="170" />
+    <ItemSpec id="40417" name="83310002" icon="science_speed_model" level="17" effect="110020105;170" effectid="50;170" costitem="311006;3560" power="180" />
+    <ItemSpec id="40418" name="83310002" icon="science_speed_model" level="18" effect="110020105;180" effectid="50;180" costitem="311006;3910" power="190" />
+    <ItemSpec id="40419" name="83310002" icon="science_speed_model" level="19" effect="110020105;190" effectid="50;190" costitem="311006;4300" power="200" />
+    <ItemSpec id="40420" name="83310002" icon="science_speed_model" level="20" effect="110020105;200" effectid="50;200" costitem="311006;4730" power="210" />
+
+    <ItemSpec id="41300" name="83310105" icon="item603" level="0" effect="83310106;0" />
+    <ItemSpec id="41301" name="83310105" icon="item603" level="1" effect="83310106;10" effectid="856;10" costitem="311006;50" power="20" />
+    <ItemSpec id="41302" name="83310105" icon="item603" level="2" effect="83310106;20" effectid="856;20" costitem="311006;100" power="30" />
+    <ItemSpec id="41303" name="83310105" icon="item603" level="3" effect="83310106;30" effectid="856;30" costitem="311006;150" power="40" />
+    <ItemSpec id="41304" name="83310105" icon="item603" level="4" effect="83310106;40" effectid="856;40" costitem="311006;200" power="50" />
+    <ItemSpec id="41305" name="83310105" icon="item603" level="5" effect="83310106;50" effectid="856;50" costitem="311006;300" power="60" />
+    <ItemSpec id="41306" name="83310105" icon="item603" level="6" effect="83310106;60" effectid="856;60" costitem="311006;450" power="70" />
+    <ItemSpec id="41307" name="83310105" icon="item603" level="7" effect="83310106;70" effectid="856;70" costitem="311006;650" power="80" />
+    <ItemSpec id="41308" name="83310105" icon="item603" level="8" effect="83310106;80" effectid="856;80" costitem="311006;900" power="90" />
+    <ItemSpec id="41309" name="83310105" icon="item603" level="9" effect="83310106;90" effectid="856;90" costitem="311006;1200" power="100" />
+    <ItemSpec id="41310" name="83310105" icon="item603" level="10" effect="83310106;100" effectid="856;100" costitem="311006;1550" power="110" />
+    <ItemSpec id="41311" name="83310105" icon="item603" level="11" effect="83310106;110" effectid="856;110" costitem="311006;2010" power="120" />
+    <ItemSpec id="41312" name="83310105" icon="item603" level="12" effect="83310106;120" effectid="856;120" costitem="311006;2210" power="130" />
+    <ItemSpec id="41313" name="83310105" icon="item603" level="13" effect="83310106;130" effectid="856;130" costitem="311006;2430" power="140" />
+    <ItemSpec id="41314" name="83310105" icon="item603" level="14" effect="83310106;140" effectid="856;140" costitem="311006;2670" power="150" />
+    <ItemSpec id="41315" name="83310105" icon="item603" level="15" effect="83310106;150" effectid="856;150" costitem="311006;2940" power="160" />
+    <ItemSpec id="41316" name="83310105" icon="item603" level="16" effect="83310106;160" effectid="856;160" costitem="311006;3230" power="170" />
+    <ItemSpec id="41317" name="83310105" icon="item603" level="17" effect="83310106;170" effectid="856;170" costitem="311006;3560" power="180" />
+    <ItemSpec id="41318" name="83310105" icon="item603" level="18" effect="83310106;180" effectid="856;180" costitem="311006;3910" power="190" />
+    <ItemSpec id="41319" name="83310105" icon="item603" level="19" effect="83310106;190" effectid="856;190" costitem="311006;4300" power="200" />
+    <ItemSpec id="41320" name="83310105" icon="item603" level="20" effect="83310106;200" effectid="856;200" costitem="311006;4730" power="210" />
+
+    <ItemSpec id="41400" name="83310107" icon="item603" level="0" effect="83310108;0" />
+    <ItemSpec id="41401" name="83310107" icon="item603" level="1" effect="83310108;10" effectid="857;10" costitem="311006;50" power="20" />
+    <ItemSpec id="41402" name="83310107" icon="item603" level="2" effect="83310108;20" effectid="857;20" costitem="311006;100" power="30" />
+    <ItemSpec id="41403" name="83310107" icon="item603" level="3" effect="83310108;30" effectid="857;30" costitem="311006;150" power="40" />
+    <ItemSpec id="41404" name="83310107" icon="item603" level="4" effect="83310108;40" effectid="857;40" costitem="311006;200" power="50" />
+    <ItemSpec id="41405" name="83310107" icon="item603" level="5" effect="83310108;50" effectid="857;50" costitem="311006;300" power="60" />
+    <ItemSpec id="41406" name="83310107" icon="item603" level="6" effect="83310108;60" effectid="857;60" costitem="311006;450" power="70" />
+    <ItemSpec id="41407" name="83310107" icon="item603" level="7" effect="83310108;70" effectid="857;70" costitem="311006;650" power="80" />
+    <ItemSpec id="41408" name="83310107" icon="item603" level="8" effect="83310108;80" effectid="857;80" costitem="311006;900" power="90" />
+    <ItemSpec id="41409" name="83310107" icon="item603" level="9" effect="83310108;90" effectid="857;90" costitem="311006;1200" power="100" />
+    <ItemSpec id="41410" name="83310107" icon="item603" level="10" effect="83310108;100" effectid="857;100" costitem="311006;1550" power="110" />
+    <ItemSpec id="41411" name="83310107" icon="item603" level="11" effect="83310108;110" effectid="857;110" costitem="311006;2010" power="120" />
+    <ItemSpec id="41412" name="83310107" icon="item603" level="12" effect="83310108;120" effectid="857;120" costitem="311006;2210" power="130" />
+    <ItemSpec id="41413" name="83310107" icon="item603" level="13" effect="83310108;130" effectid="857;130" costitem="311006;2430" power="140" />
+    <ItemSpec id="41414" name="83310107" icon="item603" level="14" effect="83310108;140" effectid="857;140" costitem="311006;2670" power="150" />
+    <ItemSpec id="41415" name="83310107" icon="item603" level="15" effect="83310108;150" effectid="857;150" costitem="311006;2940" power="160" />
+    <ItemSpec id="41416" name="83310107" icon="item603" level="16" effect="83310108;160" effectid="857;160" costitem="311006;3230" power="170" />
+    <ItemSpec id="41417" name="83310107" icon="item603" level="17" effect="83310108;170" effectid="857;170" costitem="311006;3560" power="180" />
+    <ItemSpec id="41418" name="83310107" icon="item603" level="18" effect="83310108;180" effectid="857;180" costitem="311006;3910" power="190" />
+    <ItemSpec id="41419" name="83310107" icon="item603" level="19" effect="83310108;190" effectid="857;190" costitem="311006;4300" power="200" />
+    <ItemSpec id="41420" name="83310107" icon="item603" level="20" effect="83310108;200" effectid="857;200" costitem="311006;4730" power="210" />
+
+    <ItemSpec id="40500" name="120029" icon="item603" level="0" effect="121029;0" />
+    <ItemSpec id="40501" name="120029" icon="item603" level="1" effect="121029;1" effectid="68;1" costitem="311006;1000" power="20" />
+    <ItemSpec id="40502" name="120029" icon="item603" level="2" effect="121029;2" effectid="68;2" costitem="311006;1250" power="30" />
+    <ItemSpec id="40503" name="120029" icon="item603" level="3" effect="121029;3" effectid="68;3" costitem="311006;1500" power="40" />
+    <ItemSpec id="40504" name="120029" icon="item603" level="4" effect="121029;4" effectid="68;4" costitem="311006;1800" power="50" />
+    <ItemSpec id="40505" name="120029" icon="item603" level="5" effect="121029;5" effectid="68;5" costitem="311006;2150" power="60" />
+    <ItemSpec id="40506" name="120029" icon="item603" level="6" effect="121029;6" effectid="68;6" costitem="311006;3670" power="70" />
+    <ItemSpec id="40507" name="120029" icon="item603" level="7" effect="121029;7" effectid="68;7" costitem="311006;4570" power="80" />
+    <ItemSpec id="40508" name="120029" icon="item603" level="8" effect="121029;8" effectid="68;8" costitem="311006;5710" power="90" />
+    <ItemSpec id="40509" name="120029" icon="item603" level="9" effect="121029;9" effectid="68;9" costitem="311006;7140" power="100" />
+    <ItemSpec id="40510" name="120029" icon="item603" level="10" effect="121029;10" effectid="68;10" costitem="311006;8920" power="110" />
+    <ItemSpec id="40511" name="120029" icon="item603" level="11" effect="121029;11" effectid="68;11" costitem="311006;11150" power="120" />
+    <ItemSpec id="40512" name="120029" icon="item603" level="12" effect="121029;12" effectid="68;12" costitem="311006;13940" power="130" />
+    <ItemSpec id="40513" name="120029" icon="item603" level="13" effect="121029;13" effectid="68;13" costitem="311006;17420" power="140" />
+    <ItemSpec id="40514" name="120029" icon="item603" level="14" effect="121029;14" effectid="68;14" costitem="311006;21780" power="150" />
+    <ItemSpec id="40515" name="120029" icon="item603" level="15" effect="121029;15" effectid="68;15" costitem="311006;27220" power="160" />
+    <ItemSpec id="40516" name="120029" icon="item603" level="16" effect="121029;16" effectid="68;16" costitem="311006;44230" power="170" />
+    <ItemSpec id="40517" name="120029" icon="item603" level="17" effect="121029;17" effectid="68;17" costitem="311006;57500" power="180" />
+    <ItemSpec id="40518" name="120029" icon="item603" level="18" effect="121029;18" effectid="68;18" costitem="311006;74750" power="190" />
+    <ItemSpec id="40519" name="120029" icon="item603" level="19" effect="121029;19" effectid="68;19" costitem="311006;97180" power="200" />
+    <ItemSpec id="40520" name="120029" icon="item603" level="20" effect="121029;20" effectid="68;20" costitem="311006;126330" power="210" />
+
+
+
+    <ItemSpec id="40600" name="110020203" icon="item603" level="0" effect="110020103;0" />
+    <ItemSpec id="40601" name="110020203" icon="item603" level="1" effect="110020103;1" effectid="69;1" costitem="311006;1000" power="20" />
+    <ItemSpec id="40602" name="110020203" icon="item603" level="2" effect="110020103;2" effectid="69;2" costitem="311006;1250" power="30" />
+    <ItemSpec id="40603" name="110020203" icon="item603" level="3" effect="110020103;3" effectid="69;3" costitem="311006;1500" power="40" />
+    <ItemSpec id="40604" name="110020203" icon="item603" level="4" effect="110020103;4" effectid="69;4" costitem="311006;1800" power="50" />
+    <ItemSpec id="40605" name="110020203" icon="item603" level="5" effect="110020103;5" effectid="69;5" costitem="311006;2150" power="60" />
+    <ItemSpec id="40606" name="110020203" icon="item603" level="6" effect="110020103;6" effectid="69;6" costitem="311006;3670" power="70" />
+    <ItemSpec id="40607" name="110020203" icon="item603" level="7" effect="110020103;7" effectid="69;7" costitem="311006;4570" power="80" />
+    <ItemSpec id="40608" name="110020203" icon="item603" level="8" effect="110020103;8" effectid="69;8" costitem="311006;5710" power="90" />
+    <ItemSpec id="40609" name="110020203" icon="item603" level="9" effect="110020103;9" effectid="69;9" costitem="311006;7140" power="100" />
+    <ItemSpec id="40610" name="110020203" icon="item603" level="10" effect="110020103;10" effectid="69;10" costitem="311006;8920" power="110" />
+    <ItemSpec id="40611" name="110020203" icon="item603" level="11" effect="110020103;11" effectid="69;11" costitem="311006;11150" power="120" />
+    <ItemSpec id="40612" name="110020203" icon="item603" level="12" effect="110020103;12" effectid="69;12" costitem="311006;13940" power="130" />
+    <ItemSpec id="40613" name="110020203" icon="item603" level="13" effect="110020103;13" effectid="69;13" costitem="311006;17420" power="140" />
+    <ItemSpec id="40614" name="110020203" icon="item603" level="14" effect="110020103;14" effectid="69;14" costitem="311006;21780" power="150" />
+    <ItemSpec id="40615" name="110020203" icon="item603" level="15" effect="110020103;15" effectid="69;15" costitem="311006;27220" power="160" />
+    <ItemSpec id="40616" name="110020203" icon="item603" level="16" effect="110020103;16" effectid="69;16" costitem="311006;44230" power="170" />
+    <ItemSpec id="40617" name="110020203" icon="item603" level="17" effect="110020103;17" effectid="69;17" costitem="311006;57500" power="180" />
+    <ItemSpec id="40618" name="110020203" icon="item603" level="18" effect="110020103;18" effectid="69;18" costitem="311006;74750" power="190" />
+    <ItemSpec id="40619" name="110020203" icon="item603" level="19" effect="110020103;19" effectid="69;19" costitem="311006;97180" power="200" />
+    <ItemSpec id="40620" name="110020203" icon="item603" level="20" effect="110020103;20" effectid="69;20" costitem="311006;126330" power="210" />
+   
+    <ItemSpec id="40700" name="120005" icon="item603" level="0" effect="193270;0" />
+    <ItemSpec id="40701" name="120005" icon="item603" level="1" effect="193270;5" effectid="154;5" costitem="311006;50" power="20" />
+    <ItemSpec id="40702" name="120005" icon="item603" level="2" effect="193270;10" effectid="154;10" costitem="311006;100" power="30" />
+    <ItemSpec id="40703" name="120005" icon="item603" level="3" effect="193270;15" effectid="154;15" costitem="311006;150" power="40" />
+    <ItemSpec id="40704" name="120005" icon="item603" level="4" effect="193270;20" effectid="154;20" costitem="311006;200" power="50" />
+    <ItemSpec id="40705" name="120005" icon="item603" level="5" effect="193270;25" effectid="154;25" costitem="311006;300" power="60" />
+    <ItemSpec id="40706" name="120005" icon="item603" level="6" effect="193270;30" effectid="154;30" costitem="311006;450" power="70" />
+    <ItemSpec id="40707" name="120005" icon="item603" level="7" effect="193270;35" effectid="154;35" costitem="311006;650" power="80" />
+    <ItemSpec id="40708" name="120005" icon="item603" level="8" effect="193270;40" effectid="154;40" costitem="311006;900" power="90" />
+    <ItemSpec id="40709" name="120005" icon="item603" level="9" effect="193270;45" effectid="154;45" costitem="311006;1200" power="100" />
+    <ItemSpec id="40710" name="120005" icon="item603" level="10" effect="193270;50" effectid="154;50" costitem="311006;1550" power="110" />
+    <ItemSpec id="40711" name="120005" icon="item603" level="11" effect="193270;55" effectid="154;55" costitem="311006;2010" power="120" />
+    <ItemSpec id="40712" name="120005" icon="item603" level="12" effect="193270;60" effectid="154;60" costitem="311006;2210" power="130" />
+    <ItemSpec id="40713" name="120005" icon="item603" level="13" effect="193270;65" effectid="154;65" costitem="311006;2430" power="140" />
+    <ItemSpec id="40714" name="120005" icon="item603" level="14" effect="193270;70" effectid="154;70" costitem="311006;2670" power="150" />
+    <ItemSpec id="40715" name="120005" icon="item603" level="15" effect="193270;75" effectid="154;75" costitem="311006;2940" power="160" />
+    <ItemSpec id="40716" name="120005" icon="item603" level="16" effect="193270;80" effectid="154;80" costitem="311006;3230" power="170" />
+    <ItemSpec id="40717" name="120005" icon="item603" level="17" effect="193270;85" effectid="154;85" costitem="311006;3560" power="180" />
+    <ItemSpec id="40718" name="120005" icon="item603" level="18" effect="193270;90" effectid="154;90" costitem="311006;3910" power="190" />
+    <ItemSpec id="40719" name="120005" icon="item603" level="19" effect="193270;95" effectid="154;95" costitem="311006;4300" power="200" />
+    <ItemSpec id="40720" name="120005" icon="item603" level="20" effect="193270;100" effectid="154;100" costitem="311006;4730" power="210" />
+
+    <ItemSpec id="40800" name="120004" icon="item603" level="0" effect="121004;0" />
+    <ItemSpec id="40801" name="120004" icon="item603" level="1" effect="121004;5" effectid="153;5" costitem="311006;50" power="20" />
+    <ItemSpec id="40802" name="120004" icon="item603" level="2" effect="121004;10" effectid="153;10" costitem="311006;100" power="30" />
+    <ItemSpec id="40803" name="120004" icon="item603" level="3" effect="121004;15" effectid="153;15" costitem="311006;150" power="40" />
+    <ItemSpec id="40804" name="120004" icon="item603" level="4" effect="121004;20" effectid="153;20" costitem="311006;200" power="50" />
+    <ItemSpec id="40805" name="120004" icon="item603" level="5" effect="121004;25" effectid="153;25" costitem="311006;300" power="60" />
+    <ItemSpec id="40806" name="120004" icon="item603" level="6" effect="121004;30" effectid="153;30" costitem="311006;450" power="70" />
+    <ItemSpec id="40807" name="120004" icon="item603" level="7" effect="121004;35" effectid="153;35" costitem="311006;650" power="80" />
+    <ItemSpec id="40808" name="120004" icon="item603" level="8" effect="121004;40" effectid="153;40" costitem="311006;900" power="90" />
+    <ItemSpec id="40809" name="120004" icon="item603" level="9" effect="121004;45" effectid="153;45" costitem="311006;1200" power="100" />
+    <ItemSpec id="40810" name="120004" icon="item603" level="10" effect="121004;50" effectid="153;50" costitem="311006;1550" power="110" />
+    <ItemSpec id="40811" name="120004" icon="item603" level="11" effect="121004;55" effectid="153;55" costitem="311006;2010" power="120" />
+    <ItemSpec id="40812" name="120004" icon="item603" level="12" effect="121004;60" effectid="153;60" costitem="311006;2210" power="130" />
+    <ItemSpec id="40813" name="120004" icon="item603" level="13" effect="121004;65" effectid="153;65" costitem="311006;2430" power="140" />
+    <ItemSpec id="40814" name="120004" icon="item603" level="14" effect="121004;70" effectid="153;70" costitem="311006;2670" power="150" />
+    <ItemSpec id="40815" name="120004" icon="item603" level="15" effect="121004;75" effectid="153;75" costitem="311006;2940" power="160" />
+    <ItemSpec id="40816" name="120004" icon="item603" level="16" effect="121004;80" effectid="153;80" costitem="311006;3230" power="170" />
+    <ItemSpec id="40817" name="120004" icon="item603" level="17" effect="121004;85" effectid="153;85" costitem="311006;3560" power="180" />
+    <ItemSpec id="40818" name="120004" icon="item603" level="18" effect="121004;90" effectid="153;90" costitem="311006;3910" power="190" />
+    <ItemSpec id="40819" name="120004" icon="item603" level="19" effect="121004;95" effectid="153;95" costitem="311006;4300" power="200" />
+    <ItemSpec id="40820" name="120004" icon="item603" level="20" effect="121004;100" effectid="153;100" costitem="311006;4730" power="210" />
+
+    <ItemSpec id="40900" name="120007" icon="item603" level="0" effect="121007;0" />
+    <ItemSpec id="40901" name="120007" icon="item603" level="1" effect="121007;5" effectid="155;5" costitem="311006;50" power="20" />
+    <ItemSpec id="40902" name="120007" icon="item603" level="2" effect="121007;10" effectid="155;10" costitem="311006;100" power="30" />
+    <ItemSpec id="40903" name="120007" icon="item603" level="3" effect="121007;15" effectid="155;15" costitem="311006;150" power="40" />
+    <ItemSpec id="40904" name="120007" icon="item603" level="4" effect="121007;20" effectid="155;20" costitem="311006;200" power="50" />
+    <ItemSpec id="40905" name="120007" icon="item603" level="5" effect="121007;25" effectid="155;25" costitem="311006;300" power="60" />
+    <ItemSpec id="40906" name="120007" icon="item603" level="6" effect="121007;30" effectid="155;30" costitem="311006;450" power="70" />
+    <ItemSpec id="40907" name="120007" icon="item603" level="7" effect="121007;35" effectid="155;35" costitem="311006;650" power="80" />
+    <ItemSpec id="40908" name="120007" icon="item603" level="8" effect="121007;40" effectid="155;40" costitem="311006;900" power="90" />
+    <ItemSpec id="40909" name="120007" icon="item603" level="9" effect="121007;45" effectid="155;45" costitem="311006;1200" power="100" />
+    <ItemSpec id="40910" name="120007" icon="item603" level="10" effect="121007;50" effectid="155;50" costitem="311006;1550" power="110" />
+    <ItemSpec id="40911" name="120007" icon="item603" level="11" effect="121007;55" effectid="155;55" costitem="311006;2010" power="120" />
+    <ItemSpec id="40912" name="120007" icon="item603" level="12" effect="121007;60" effectid="155;60" costitem="311006;2210" power="130" />
+    <ItemSpec id="40913" name="120007" icon="item603" level="13" effect="121007;65" effectid="155;65" costitem="311006;2430" power="140" />
+    <ItemSpec id="40914" name="120007" icon="item603" level="14" effect="121007;70" effectid="155;70" costitem="311006;2670" power="150" />
+    <ItemSpec id="40915" name="120007" icon="item603" level="15" effect="121007;75" effectid="155;75" costitem="311006;2940" power="160" />
+    <ItemSpec id="40916" name="120007" icon="item603" level="16" effect="121007;80" effectid="155;80" costitem="311006;3230" power="170" />
+    <ItemSpec id="40917" name="120007" icon="item603" level="17" effect="121007;85" effectid="155;85" costitem="311006;3560" power="180" />
+    <ItemSpec id="40918" name="120007" icon="item603" level="18" effect="121007;90" effectid="155;90" costitem="311006;3910" power="190" />
+    <ItemSpec id="40919" name="120007" icon="item603" level="19" effect="121007;95" effectid="155;95" costitem="311006;4300" power="200" />
+    <ItemSpec id="40920" name="120007" icon="item603" level="20" effect="121007;100" effectid="155;100" costitem="311006;4730" power="210" />
+
+    <ItemSpec id="41000" name="120009" icon="item603" level="0" effect="121009;0" />
+    <ItemSpec id="41001" name="120009" icon="item603" level="1" effect="121009;5" effectid="156;5" costitem="311006;50" power="20" />
+    <ItemSpec id="41002" name="120009" icon="item603" level="2" effect="121009;10" effectid="156;10" costitem="311006;100" power="30" />
+    <ItemSpec id="41003" name="120009" icon="item603" level="3" effect="121009;15" effectid="156;15" costitem="311006;150" power="40" />
+    <ItemSpec id="41004" name="120009" icon="item603" level="4" effect="121009;20" effectid="156;20" costitem="311006;200" power="50" />
+    <ItemSpec id="41005" name="120009" icon="item603" level="5" effect="121009;25" effectid="156;25" costitem="311006;300" power="60" />
+    <ItemSpec id="41006" name="120009" icon="item603" level="6" effect="121009;30" effectid="156;30" costitem="311006;450" power="70" />
+    <ItemSpec id="41007" name="120009" icon="item603" level="7" effect="121009;35" effectid="156;35" costitem="311006;650" power="80" />
+    <ItemSpec id="41008" name="120009" icon="item603" level="8" effect="121009;40" effectid="156;40" costitem="311006;900" power="90" />
+    <ItemSpec id="41009" name="120009" icon="item603" level="9" effect="121009;45" effectid="156;45" costitem="311006;1200" power="100" />
+    <ItemSpec id="41010" name="120009" icon="item603" level="10" effect="121009;50" effectid="156;50" costitem="311006;1550" power="110" />
+    <ItemSpec id="41011" name="120009" icon="item603" level="11" effect="121009;55" effectid="156;55" costitem="311006;2010" power="120" />
+    <ItemSpec id="41012" name="120009" icon="item603" level="12" effect="121009;60" effectid="156;60" costitem="311006;2210" power="130" />
+    <ItemSpec id="41013" name="120009" icon="item603" level="13" effect="121009;65" effectid="156;65" costitem="311006;2430" power="140" />
+    <ItemSpec id="41014" name="120009" icon="item603" level="14" effect="121009;70" effectid="156;70" costitem="311006;2670" power="150" />
+    <ItemSpec id="41015" name="120009" icon="item603" level="15" effect="121009;75" effectid="156;75" costitem="311006;2940" power="160" />
+    <ItemSpec id="41016" name="120009" icon="item603" level="16" effect="121009;80" effectid="156;80" costitem="311006;3230" power="170" />
+    <ItemSpec id="41017" name="120009" icon="item603" level="17" effect="121009;85" effectid="156;85" costitem="311006;3560" power="180" />
+    <ItemSpec id="41018" name="120009" icon="item603" level="18" effect="121009;90" effectid="156;90" costitem="311006;3910" power="190" />
+    <ItemSpec id="41019" name="120009" icon="item603" level="19" effect="121009;95" effectid="156;95" costitem="311006;4300" power="200" />
+    <ItemSpec id="41020" name="120009" icon="item603" level="20" effect="121009;100" effectid="156;100" costitem="311006;4730" power="210" />
+
+
+
+
+
+    </Group> 
+
+</tns:database>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="pet_lvup">
+		<ItemSpec id="1" lv="1" lvup_cost="204021;24" power="0" effect1="41480;0|41500;0" reset="0"/>
+		<ItemSpec id="2" lv="2" lvup_cost="204021;36" power="0" effect1="41480;0.5|41500;0.5" reset="204021;22"/>
+		<ItemSpec id="3" lv="3" lvup_cost="204021;54" power="2" effect1="41480;1|41500;1" reset="204021;54"/>
+		<ItemSpec id="4" lv="4" lvup_cost="204021;81" power="4" effect1="41480;1.5|41500;1.5" reset="204021;103"/>
+		<ItemSpec id="5" lv="5" lvup_cost="204021;121" power="7" effect1="41480;2|41500;2" reset="204021;176"/>
+		<ItemSpec id="6" lv="6" lvup_cost="204021;181" power="12" effect1="41480;2.5|41500;2.5" reset="204021;284"/>
+		<ItemSpec id="7" lv="7" lvup_cost="204021;271" power="19" effect1="41480;3|41500;3" reset="204021;447"/>
+		<ItemSpec id="8" lv="8" lvup_cost="204021;406" power="30" effect1="41480;3.5|41500;3.5" reset="204021;691"/>
+		<ItemSpec id="9" lv="9" lvup_cost="204021;609|204022;89" power="46" effect1="41480;4|41500;4" reset="204021;1057"/>
+		<ItemSpec id="10" lv="10" lvup_cost="204021;548" power="71" effect1="41480;4.5|41500;4.5" reset="204021;1605|204022;80"/>
+		<ItemSpec id="11" lv="11" lvup_cost="204021;575" power="93" effect1="41480;5|41500;5" reset="204021;2098|204022;80"/>
+		<ItemSpec id="12" lv="12" lvup_cost="204021;603" power="116" effect1="41480;5.5|41500;5.5" reset="204021;2615|204022;80"/>
+		<ItemSpec id="13" lv="13" lvup_cost="204021;633" power="140" effect1="41480;6|41500;6" reset="204021;3158|204022;80"/>
+		<ItemSpec id="14" lv="14" lvup_cost="204021;664" power="165" effect1="41480;6.5|41500;6.5" reset="204021;3728|204022;80"/>
+		<ItemSpec id="15" lv="15" lvup_cost="204021;697" power="192" effect1="41480;7|41500;7" reset="204021;4325|204022;80"/>
+		<ItemSpec id="16" lv="16" lvup_cost="204021;731" power="220" effect1="41480;7.5|41500;7.5" reset="204021;4953|204022;80"/>
+		<ItemSpec id="17" lv="17" lvup_cost="204021;767" power="249" effect1="41480;8|41500;8" reset="204021;5611|204022;80"/>
+		<ItemSpec id="18" lv="18" lvup_cost="204021;805" power="280" effect1="41480;8.5|41500;8.5" reset="204021;6301|204022;80"/>
+		<ItemSpec id="19" lv="19" lvup_cost="204021;845|204022;343" power="312" effect1="41480;9|41500;9" reset="204021;7025|204022;80"/>
+		<ItemSpec id="20" lv="20" lvup_cost="204021;760" power="346" effect1="41480;9.5|41500;9.5" reset="204021;7786|204022;389"/>
+		<ItemSpec id="21" lv="21" lvup_cost="204021;798" power="376" effect1="41480;10|41500;10" reset="204021;8470|204022;389"/>
+		<ItemSpec id="22" lv="22" lvup_cost="204021;837" power="408" effect1="41480;10.5|41500;10.5" reset="204021;9188|204022;389"/>
+		<ItemSpec id="23" lv="23" lvup_cost="204021;878" power="441" effect1="41480;11|41500;11" reset="204021;9941|204022;389"/>
+		<ItemSpec id="24" lv="24" lvup_cost="204021;921" power="476" effect1="41480;11.5|41500;11.5" reset="204021;10732|204022;389"/>
+		<ItemSpec id="25" lv="25" lvup_cost="204021;967" power="513" effect1="41480;12|41500;12" reset="204021;11561|204022;389"/>
+		<ItemSpec id="26" lv="26" lvup_cost="204021;1015" power="552" effect1="41480;12.5|41500;12.5" reset="204021;12431|204022;389"/>
+		<ItemSpec id="27" lv="27" lvup_cost="204021;1065" power="593" effect1="41480;13|41500;13" reset="204021;13344|204022;389"/>
+		<ItemSpec id="28" lv="28" lvup_cost="204021;1118" power="635" effect1="41480;13.5|41500;13.5" reset="204021;14303|204022;389"/>
+		<ItemSpec id="29" lv="29" lvup_cost="204021;1173|204022;476" unlock_star="1" power="680" effect1="41480;14|41500;14" reset="204021;15309|204022;389"/>
+		<ItemSpec id="30" lv="30" lvup_cost="204021;1114" power="727" effect1="41480;14.5|41500;14.5" reset="204021;16365|204022;817"/>
+		<ItemSpec id="31" lv="31" lvup_cost="204021;1359" power="771" effect1="41480;15|41500;15" reset="204021;17367|204022;817"/>
+		<ItemSpec id="32" lv="32" lvup_cost="204021;1657" power="826" effect1="41480;15.5|41500;15.5" reset="204021;18590|204022;817"/>
+		<ItemSpec id="33" lv="33" lvup_cost="204021;2021" power="892" effect1="41480;16|41500;16" reset="204021;20082|204022;817"/>
+		<ItemSpec id="34" lv="34" lvup_cost="204021;2465" power="973" effect1="41480;16.5|41500;16.5" reset="204021;21901|204022;817"/>
+		<ItemSpec id="35" lv="35" lvup_cost="204021;3007" power="1071" effect1="41480;17|41500;17" reset="204021;24119|204022;817"/>
+		<ItemSpec id="36" lv="36" lvup_cost="204021;3668" power="1192" effect1="41480;17.5|41500;17.5" reset="204021;26825|204022;817"/>
+		<ItemSpec id="37" lv="37" lvup_cost="204021;4474" power="1338" effect1="41480;18|41500;18" reset="204021;30127|204022;817"/>
+		<ItemSpec id="38" lv="38" lvup_cost="204021;5458" power="1517" effect1="41480;18.5|41500;18.5" reset="204021;34153|204022;817"/>
+		<ItemSpec id="39" lv="39" lvup_cost="204021;6658|204022;1594" unlock_star="2" power="1736" effect1="41480;19|41500;19" reset="204021;39065|204022;817"/>
+		<ItemSpec id="40" lv="40" lvup_cost="204021;6325" power="2002" effect1="41480;19.5|41500;19.5" reset="204021;45058|204022;2252"/>
+		<ItemSpec id="41" lv="41" lvup_cost="204021;6957" power="2255" effect1="41480;20|41500;20" reset="204021;50750|204022;2252"/>
+		<ItemSpec id="42" lv="42" lvup_cost="204021;7652" power="2533" effect1="41480;20.5|41500;20.5" reset="204021;57011|204022;2252"/>
+		<ItemSpec id="43" lv="43" lvup_cost="204021;8417" power="2839" effect1="41480;21|41500;21" reset="204021;63898|204022;2252"/>
+		<ItemSpec id="44" lv="44" lvup_cost="204021;9258" power="3176" effect1="41480;21.5|41500;21.5" reset="204021;71474|204022;2252"/>
+		<ItemSpec id="45" lv="45" lvup_cost="204021;10183" power="3546" effect1="41480;22|41500;22" reset="204021;79806|204022;2252"/>
+		<ItemSpec id="46" lv="46" lvup_cost="204021;11201" power="3954" effect1="41480;22.5|41500;22.5" reset="204021;88970|204022;2252"/>
+		<ItemSpec id="47" lv="47" lvup_cost="204021;12321" power="4402" effect1="41480;23|41500;23" reset="204021;99051|204022;2252"/>
+		<ItemSpec id="48" lv="48" lvup_cost="204021;13553" power="4895" effect1="41480;23.5|41500;23.5" reset="204021;110140|204022;2252"/>
+		<ItemSpec id="49" lv="49" lvup_cost="204021;14908|204022;5038" unlock_star="3" power="5437" effect1="41480;24|41500;24" reset="204021;122338|204022;2252"/>
+		<ItemSpec id="50" lv="50" power="6033" effect1="41480;24.5|41500;24.5" reset="204021;135755|204022;6786"/>
+		<ItemSpec id="101" lv="1" lvup_cost="204021;26" power="0" effect1="41480;0|41500;0" reset="0"/>
+		<ItemSpec id="102" lv="2" lvup_cost="204021;39" power="1" effect1="41480;0.5|41500;0.5" reset="204021;24"/>
+		<ItemSpec id="103" lv="3" lvup_cost="204021;59" power="2" effect1="41480;1|41500;1" reset="204021;59"/>
+		<ItemSpec id="104" lv="4" lvup_cost="204021;89" power="5" effect1="41480;1.5|41500;1.5" reset="204021;113"/>
+		<ItemSpec id="105" lv="5" lvup_cost="204021;133" power="8" effect1="41480;2|41500;2" reset="204021;193"/>
+		<ItemSpec id="106" lv="6" lvup_cost="204021;199" power="13" effect1="41480;2.5|41500;2.5" reset="204021;313"/>
+		<ItemSpec id="107" lv="7" lvup_cost="204021;298" power="21" effect1="41480;3|41500;3" reset="204021;492"/>
+		<ItemSpec id="108" lv="8" lvup_cost="204021;446" power="33" effect1="41480;3.5|41500;3.5" reset="204021;760"/>
+		<ItemSpec id="109" lv="9" lvup_cost="204021;669|204022;97" power="51" effect1="41480;4|41500;4" reset="204021;1162"/>
+		<ItemSpec id="110" lv="10" lvup_cost="204021;602" power="98" effect1="41480;4.5|41500;4.5" reset="204021;1765|204022;441"/>
+		<ItemSpec id="111" lv="11" lvup_cost="204021;632" power="122" effect1="41480;5|41500;5" reset="204021;2308|204022;441"/>
+		<ItemSpec id="112" lv="12" lvup_cost="204021;663" power="147" effect1="41480;5.5|41500;5.5" reset="204021;2877|204022;441"/>
+		<ItemSpec id="113" lv="13" lvup_cost="204021;696" power="173" effect1="41480;6|41500;6" reset="204021;3474|204022;441"/>
+		<ItemSpec id="114" lv="14" lvup_cost="204021;730" power="201" effect1="41480;6.5|41500;6.5" reset="204021;4101|204022;441"/>
+		<ItemSpec id="115" lv="15" lvup_cost="204021;766" power="231" effect1="41480;7|41500;7" reset="204021;4758|204022;441"/>
+		<ItemSpec id="116" lv="16" lvup_cost="204021;804" power="261" effect1="41480;7.5|41500;7.5" reset="204021;5448|204022;441"/>
+		<ItemSpec id="117" lv="17" lvup_cost="204021;843" power="293" effect1="41480;8|41500;8" reset="204021;6172|204022;441"/>
+		<ItemSpec id="118" lv="18" lvup_cost="204021;885" power="327" effect1="41480;8.5|41500;8.5" reset="204021;6931|204022;441"/>
+		<ItemSpec id="119" lv="19" lvup_cost="204021;929|204022;377" power="363" effect1="41480;9|41500;9" reset="204021;7728|204022;441"/>
+		<ItemSpec id="120" lv="20" lvup_cost="204021;836" power="475" effect1="41480;9.5|41500;9.5" reset="204021;8564|204022;2138"/>
+		<ItemSpec id="121" lv="21" lvup_cost="204021;877" power="509" effect1="41480;10|41500;10" reset="204021;9317|204022;2138"/>
+		<ItemSpec id="122" lv="22" lvup_cost="204021;920" power="544" effect1="41480;10.5|41500;10.5" reset="204021;10107|204022;2138"/>
+		<ItemSpec id="123" lv="23" lvup_cost="204021;965" power="581" effect1="41480;11|41500;11" reset="204021;10936|204022;2138"/>
+		<ItemSpec id="124" lv="24" lvup_cost="204021;1013" power="619" effect1="41480;11.5|41500;11.5" reset="204021;11805|204022;2138"/>
+		<ItemSpec id="125" lv="25" lvup_cost="204021;1063" power="660" effect1="41480;12|41500;12" reset="204021;12717|204022;2138"/>
+		<ItemSpec id="126" lv="26" lvup_cost="204021;1116" power="702" effect1="41480;12.5|41500;12.5" reset="204021;13674|204022;2138"/>
+		<ItemSpec id="127" lv="27" lvup_cost="204021;1171" power="747" effect1="41480;13|41500;13" reset="204021;14679|204022;2138"/>
+		<ItemSpec id="128" lv="28" lvup_cost="204021;1229" power="794" effect1="41480;13.5|41500;13.5" reset="204021;15733|204022;2138"/>
+		<ItemSpec id="129" lv="29" lvup_cost="204021;1290|204022;523" unlock_star="1" power="843" effect1="41480;14|41500;14" reset="204021;16840|204022;2138"/>
+		<ItemSpec id="130" lv="30" lvup_cost="204021;1225" power="999" effect1="41480;14.5|41500;14.5" reset="204021;18001|204022;4495"/>
+		<ItemSpec id="131" lv="31" lvup_cost="204021;1494" power="1048" effect1="41480;15|41500;15" reset="204021;19104|204022;4495"/>
+		<ItemSpec id="132" lv="32" lvup_cost="204021;1822" power="1108" effect1="41480;15.5|41500;15.5" reset="204021;20449|204022;4495"/>
+		<ItemSpec id="133" lv="33" lvup_cost="204021;2223" power="1181" effect1="41480;16|41500;16" reset="204021;22090|204022;4495"/>
+		<ItemSpec id="134" lv="34" lvup_cost="204021;2711" power="1270" effect1="41480;16.5|41500;16.5" reset="204021;24091|204022;4495"/>
+		<ItemSpec id="135" lv="35" lvup_cost="204021;3307" power="1378" effect1="41480;17|41500;17" reset="204021;26531|204022;4495"/>
+		<ItemSpec id="136" lv="36" lvup_cost="204021;4034" power="1511" effect1="41480;17.5|41500;17.5" reset="204021;29508|204022;4495"/>
+		<ItemSpec id="137" lv="37" lvup_cost="204021;4921" power="1672" effect1="41480;18|41500;18" reset="204021;33139|204022;4495"/>
+		<ItemSpec id="138" lv="38" lvup_cost="204021;6003" power="1869" effect1="41480;18.5|41500;18.5" reset="204021;37569|204022;4495"/>
+		<ItemSpec id="139" lv="39" lvup_cost="204021;7323|204022;1753" unlock_star="2" power="2109" effect1="41480;19|41500;19" reset="204021;42972|204022;4495"/>
+		<ItemSpec id="140" lv="40" lvup_cost="204021;6957" power="2753" effect1="41480;19.5|41500;19.5" reset="204021;49563|204022;12385"/>
+		<ItemSpec id="141" lv="41" lvup_cost="204021;7652" power="3031" effect1="41480;20|41500;20" reset="204021;55825|204022;12385"/>
+		<ItemSpec id="142" lv="42" lvup_cost="204021;8417" power="3337" effect1="41480;20.5|41500;20.5" reset="204021;62713|204022;12385"/>
+		<ItemSpec id="143" lv="43" lvup_cost="204021;9258" power="3674" effect1="41480;21|41500;21" reset="204021;70288|204022;12385"/>
+		<ItemSpec id="144" lv="44" lvup_cost="204021;10183" power="4044" effect1="41480;21.5|41500;21.5" reset="204021;78621|204022;12385"/>
+		<ItemSpec id="145" lv="45" lvup_cost="204021;11201" power="4452" effect1="41480;22|41500;22" reset="204021;87786|204022;12385"/>
+		<ItemSpec id="146" lv="46" lvup_cost="204021;12321" power="4900" effect1="41480;22.5|41500;22.5" reset="204021;97867|204022;12385"/>
+		<ItemSpec id="147" lv="47" lvup_cost="204021;13553" power="5392" effect1="41480;23|41500;23" reset="204021;108956|204022;12385"/>
+		<ItemSpec id="148" lv="48" lvup_cost="204021;14908" power="5935" effect1="41480;23.5|41500;23.5" reset="204021;121154|204022;12385"/>
+		<ItemSpec id="149" lv="49" lvup_cost="204021;16398|204022;5541" unlock_star="3" power="6531" effect1="41480;24|41500;24" reset="204021;134572|204022;12385"/>
+		<ItemSpec id="150" lv="50" power="8295" effect1="41480;24.5|41500;24.5" reset="204021;149331|204022;37323"/>
+	</Group>
+
+</tns:database>

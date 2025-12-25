@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="base_talenttype">
+    <ItemSpec id="1" base_type="100" talent_type="1" name="103600" description="91022003" icon="Icon_ResearchCenter_1.png"/>
+    <ItemSpec id="2" base_type="100" talent_type="2" name="91022001" description="91022003" icon="Icon_ResearchCenter_2.png"/>
+    <ItemSpec id="3" base_type="100" talent_type="3" name="91022002" description="91022003" icon="Icon_ResearchCenter_3.png"/>
+    <ItemSpec id="4" base_type="100" talent_type="4" name="91022003" description="91022003" icon="Icon_ResearchCenter_4.png"/>
+
+
+
+
+
+
+ </Group >
+
+</tns:database>

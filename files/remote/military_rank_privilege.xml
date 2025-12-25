@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="military_rank_privilege">
+    <ItemSpec id="1" order="101" desc="103600" num_type="1" />
+    <ItemSpec id="2" order="102" desc="102140" num_type="1" />
+    <ItemSpec id="3" order="103" desc="103605" num_type="1" />
+    <ItemSpec id="4" order="104" desc="90400084" num_type="1" />
+    <ItemSpec id="5" order="105" desc="103447" num_type="1" />
+    <ItemSpec id="6" order="106" desc="103446" num_type="1" />
+    <ItemSpec id="7" order="107" desc="113848" num_type="1" />
+    <ItemSpec id="8" order="108" desc="113858" num_type="1" />
+    <ItemSpec id="9" order="109" desc="102140" num_type="1" />
+    <ItemSpec id="10" order="110" desc="103600" num_type="1" />
+    <ItemSpec id="11" order="111" desc="111860472" num_type="1" />
+    <ItemSpec id="12" order="112" desc="111860473" num_type="1" />
+    <ItemSpec id="13" order="113" desc="111860474" num_type="1" />
+    <ItemSpec id="14" order="114" desc="111860475" num_type="1" />
+    <ItemSpec id="15" order="115" desc="103027" num_type="1" />
+	</Group> 
+</tns:database>

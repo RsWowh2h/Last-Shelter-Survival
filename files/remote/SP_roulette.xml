@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="SP_roulette">
+<!--<ItemSpec id="1" name="88003400" tips="110270293" activityid="1" spine_pos="20;-350" hero_spine="spine_roulette_lanbiao" hero_choose="SP_roulette_icon1_lanbiao" hero_choosed="SP_roulette_icon2_lanbiao" />-->
+<ItemSpec id="2" name="88003457" tips="110270295" activityid="2" spine_pos="100;-200" hero_spine="spine_roulette_anni" hero_choose="SP_roulette_icon1_anni" hero_choosed="SP_roulette_icon2_anni" />
+<ItemSpec id="3" name="88003728" tips="110270295" activityid="3" spine_pos="100;-450" hero_spine="spine_roulette_daoge" hero_choose="SP_roulette_icon1_daoge" hero_choosed="SP_roulette_icon2_daoge"/>
+<ItemSpec id="1" name="88003568" tips="110270295" activityid="1" spine_pos="100;-450" hero_spine="spine_roulette_anbo" hero_choose="SP_roulette_icon1_anbo" hero_choosed="SP_roulette_icon2_anbo" />
+
+	<ItemSpec id="4" name="88003731" tips="110270295" activityid="4" spine_pos="100;-450" hero_spine="spine_roulette_guangtou" hero_choose="SP_roulette_icon1_guangtou" hero_choosed="SP_roulette_icon2_guangtou"/>
+		<ItemSpec id="5" name="88003670" tips="110270295" activityid="5" spine_pos="100;-450" hero_spine="spine_roulette_silu" hero_choose="SP_roulette_icon1_silu" hero_choosed="SP_roulette_icon2_silu"/>
+		<ItemSpec id="6" name="88003700" tips="110270295" activityid="6" spine_pos="100;-450" hero_spine="spine_roulette_kaili" hero_choose="SP_roulette_icon1_huonv" hero_choosed="SP_roulette_icon2_huonv"/>
+		<ItemSpec id="7" name="88003801" tips="110270295" activityid="7" spine_pos="100;-380" hero_spine="spine_roulette_xiunv" hero_choose="SP_roulette_icon1_xiunv" hero_choosed="SP_roulette_icon2_xiunv"/>
+		<ItemSpec id="8" name="88003812" tips="110270295" activityid="8" spine_pos="100;-380" hero_spine="spine_roulette_kongtianlieshou" hero_choose="SP_roulette_icon1_kongtianlieshou" hero_choosed="SP_roulette_icon2_kongtianlieshou"/>
+		<ItemSpec id="9" name="88003828" tips="110270295" activityid="9" spine_pos="100;-400" hero_spine="spine_roulette_jiyu" hero_choose="SP_roulette_icon1_jiyu" hero_choosed="SP_roulette_icon2_jiyu"/>
+		<ItemSpec id="10" name="88003836" tips="110270295" activityid="10" spine_pos="100;-420" hero_spine="spine_roulette_yanyuan" hero_choose="SP_roulette_icon1_yanyuan" hero_choosed="SP_roulette_icon2_yanyuan"/>
+		<ItemSpec id="11" name="110095762" tips="110270295" activityid="11" spine_pos="120;-350" hero_spine="spine_roulette_mingbao" hero_choose="SP_roulette_icon1_mingbao" hero_choosed="SP_roulette_icon2_mingbao"/>
+    </Group> 
+
+</tns:database>

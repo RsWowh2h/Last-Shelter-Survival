@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="base_unlock">
+     <ItemSpec id="10001" base_type="100" consumption="215203;100" name="91020004" description="91020099" condition="10000;25" tiles="4" pic="world_subCity1" tab_type="29" order="1"/>
+
+
+
+
+ </Group >
+
+</tns:database>

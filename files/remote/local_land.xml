@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="local_land">
+    
+    <ItemSpec id="1" name="80000752" type="1" level="1" npc="50011" baseNpc="50011" landmass_value="50" landmass_restore ="1" avoid_time="1" waive_time="1" usePower="10" integral_person="0" integral_npc="0" clean_reward="200330;1|200300;1|200320;1|200310;1" />
+
+
+ </Group >
+</tns:database>

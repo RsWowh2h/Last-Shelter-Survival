@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="exploration_treasure">
+    <ItemSpec id="1" name="111861051" image="NewExplore_box_1" banner="NewExplore_banner01" dig_time="1800" reward_base="0-1;3012001|2-3;3012031|4-6;3012061|7-999;3012091" reward_count="20" duration_time="86400" />
+    <ItemSpec id="2" name="111861051" image="NewExplore_box_1" banner="NewExplore_banner01" dig_time="1800" reward_base="0-1;3012002|2-3;3012032|4-6;3012062|7-999;3012092" reward_count="20" duration_time="86400" />
+    <ItemSpec id="3" name="111861051" image="NewExplore_box_1" banner="NewExplore_banner01" dig_time="1800" reward_base="0-1;3012003|2-3;3012033|4-6;3012063|7-999;3012093" reward_count="20" duration_time="86400" />
+    <ItemSpec id="4" name="111861051" image="NewExplore_box_1" banner="NewExplore_banner01" dig_time="1800" reward_base="0-1;3012004|2-3;3012034|4-6;3012064|7-999;3012094" reward_count="20" duration_time="86400" />
+    <ItemSpec id="5" name="111861051" image="NewExplore_box_1" banner="NewExplore_banner01" dig_time="1800" reward_base="0-1;3012005|2-3;3012035|4-6;3012065|7-999;3012095" reward_count="20" duration_time="86400" />
+    <ItemSpec id="6" name="111861052" image="NewExplore_box_2" banner="NewExplore_banner02" dig_time="1800" reward_base="0-1;3012011|2-3;3012041|4-6;3012071|7-999;3012101" reward_count="20" duration_time="86400" />
+    <ItemSpec id="7" name="111861052" image="NewExplore_box_2" banner="NewExplore_banner02" dig_time="1800" reward_base="0-1;3012012|2-3;3012042|4-6;3012072|7-999;3012102" reward_count="20" duration_time="86400" />
+    <ItemSpec id="8" name="111861052" image="NewExplore_box_2" banner="NewExplore_banner02" dig_time="1800" reward_base="0-1;3012013|2-3;3012043|4-6;3012073|7-999;3012103" reward_count="20" duration_time="86400" />
+    <ItemSpec id="9" name="111861052" image="NewExplore_box_2" banner="NewExplore_banner02" dig_time="1800" reward_base="0-1;3012014|2-3;3012044|4-6;3012074|7-999;3012104" reward_count="20" duration_time="86400" />
+    <ItemSpec id="10" name="111861052" image="NewExplore_box_2" banner="NewExplore_banner02" dig_time="1800" reward_base="0-1;3012015|2-3;3012045|4-6;3012075|7-999;3012105" reward_count="20" duration_time="86400" />
+    <ItemSpec id="11" name="111861053" image="NewExplore_box_3" banner="NewExplore_banner03" dig_time="1800" reward_base="0-1;3012021|2-3;3012051|4-6;3012081|7-999;3012111" reward_count="20" duration_time="86400" />
+    <ItemSpec id="12" name="111861053" image="NewExplore_box_3" banner="NewExplore_banner03" dig_time="1800" reward_base="0-1;3012022|2-3;3012052|4-6;3012082|7-999;3012112" reward_count="20" duration_time="86400" />
+    <ItemSpec id="13" name="111861053" image="NewExplore_box_3" banner="NewExplore_banner03" dig_time="1800" reward_base="0-1;3012023|2-3;3012053|4-6;3012083|7-999;3012113" reward_count="20" duration_time="86400" />
+    <ItemSpec id="14" name="111861053" image="NewExplore_box_3" banner="NewExplore_banner03" dig_time="1800" reward_base="0-1;3012024|2-3;3012054|4-6;3012084|7-999;3012114" reward_count="20" duration_time="86400" />
+    <ItemSpec id="15" name="111861053" image="NewExplore_box_3" banner="NewExplore_banner03" dig_time="1800" reward_base="0-1;3012025|2-3;3012055|4-6;3012085|7-999;3012115" reward_count="20" duration_time="86400" />
+</Group>
+</tns:database>

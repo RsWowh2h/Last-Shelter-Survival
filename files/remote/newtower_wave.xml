@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="newtower_wave">
+   <!--Monster_Num_Sq=怪物id,出怪数量,间隔时间   Out_pos=出怪点-->
+    <!--第一关-->
+    <ItemSpec id="1001" Monster_Num_Sq="520001,5,0.7|520002,5,0.5" Out_pos="0" />
+    <ItemSpec id="1002" Monster_Num_Sq="520001,5,0.7|520002,5,0.5|520001,3,0.7" Out_pos="0" />
+    <ItemSpec id="1003" Monster_Num_Sq="520001,7,0.7|520002,7,0.5" Out_pos="0" />
+    <ItemSpec id="1004" Monster_Num_Sq="520008,1,1" Out_pos="0" />
+
+
+
+    <!--第二关-->
+    <ItemSpec id="2001" Monster_Num_Sq="520001,3,0.7" Out_pos="0" />
+    <ItemSpec id="2002" Monster_Num_Sq="520002,3,0.5|520003,2,0.5" Out_pos="0" />
+    <ItemSpec id="2003" Monster_Num_Sq="520002,7,0.5" Out_pos="0" />
+    <ItemSpec id="2004" Monster_Num_Sq="520001,3,0.7|520002,3,0.5" Out_pos="0" />
+    <ItemSpec id="2005" Monster_Num_Sq="520001,3,0.7|520003,4,0.7" Out_pos="0" />
+    <ItemSpec id="2006" Monster_Num_Sq="520003,5,0.7520001,2,0.7" Out_pos="0" />
+    <ItemSpec id="2007" Monster_Num_Sq="520003,5,0.7" Out_pos="0" />
+    <ItemSpec id="2008" Monster_Num_Sq="520003,5,0.7|530008,1,1" Out_pos="0" />
+    <ItemSpec id="2009" Monster_Num_Sq="520001,3,0.7|520003,4,0.7" Out_pos="0" />
+    <ItemSpec id="2010" Monster_Num_Sq="520003,5,0.7" Out_pos="0" />
+    <ItemSpec id="2011" Monster_Num_Sq="520001,3,0.7|520002,4,0.7" Out_pos="0" />
+    <ItemSpec id="2012" Monster_Num_Sq="520003,5,0.7|530008,1,1" Out_pos="0" />
+    <ItemSpec id="2013" Monster_Num_Sq="520001,3,0.7" Out_pos="0" />
+    <ItemSpec id="2014" Monster_Num_Sq="520001,3,0.7|520005,1,0.7|530008,1,0.7" Out_pos="0" />
+
+    <!--第三关-->
+    <ItemSpec id="3001" Monster_Num_Sq="530001,6,0.7|530004,6,0.9|530001,7,0.8" Out_pos="0" />
+    <ItemSpec id="3002" Monster_Num_Sq="530002,6,0.7|530003,4,0.7|530004,5,0.9" Out_pos="0" />
+    <ItemSpec id="3003" Monster_Num_Sq="530002,6,0.7|530003,4,0.7" Out_pos="0" />
+    <ItemSpec id="3004" Monster_Num_Sq="530001,3,0.7|530008,1,1|530003,4,0.7|530002,4,0.7" Out_pos="0" />
+    <ItemSpec id="3005" Monster_Num_Sq="530008,1,1|530003,6,0.7" Out_pos="0" />
+    <ItemSpec id="3006" Monster_Num_Sq="530008,1,1|530003,4,0.7|530008,1,1|530002,2,0.5" Out_pos="0" />
+    <ItemSpec id="3007" Monster_Num_Sq="530003,4,0.7|530008,1,1|530002,2,0.5" Out_pos="0" />
+    <ItemSpec id="3008" Monster_Num_Sq="520007,1,1|530003,4,0.7|530002,3,0.5" Out_pos="0" />
+    <ItemSpec id="3009" Monster_Num_Sq="530008,1,1|530003,6,0.7" Out_pos="0" />
+    <ItemSpec id="3010" Monster_Num_Sq="530008,1,1|520007,1,0.7" Out_pos="0" />
+    <ItemSpec id="3011" Monster_Num_Sq="530003,6,0.7|530009,1,1" Out_pos="0" />
+
+
+
+	<!--第四关-->
+    <ItemSpec id="4001" Monster_Num_Sq="540002,4,0.7|540001,2,10|540001,4,8|540003,1,0.7" Out_pos="0" />
+    <ItemSpec id="4002" Monster_Num_Sq="540001,6,0.7|540004,5,0.5" Out_pos="0" />
+    <ItemSpec id="4003" Monster_Num_Sq="540002,6,0.7|540004,4,0.5|540001,6,0.7" Out_pos="1" />
+    <ItemSpec id="4004" Monster_Num_Sq="540002,6,0.7|540004,4,0.5|540001,6,0.7" Out_pos="1" />
+    <ItemSpec id="4005" Monster_Num_Sq="540002,6,0.7|540004,4,0.5|540001,6,0.7" Out_pos="0" />
+    <ItemSpec id="4006" Monster_Num_Sq="540002,7,0.7|540001,4,0.5|540003,6,0.7" Out_pos="1" />
+    <ItemSpec id="4007" Monster_Num_Sq="540004,6,0.5|540002,4,0.5|540001,6,0.7" Out_pos="0" />
+    <ItemSpec id="4008" Monster_Num_Sq="540004,6,0.5|540004,4,0.5" Out_pos="1" />
+    <ItemSpec id="4009" Monster_Num_Sq="540002,7,0.7|540004,6,0.5" Out_pos="0" />
+    <ItemSpec id="4010" Monster_Num_Sq="540004,6,0.5|540008,1,1" Out_pos="1" />
+    <ItemSpec id="4011" Monster_Num_Sq="540003,6,0.5|540004,2,3|540001,6,0.7|540008,1,1" Out_pos="0" />
+    <ItemSpec id="4012" Monster_Num_Sq="540003,7,0.5|540004,2,3|540001,6,0.7|540008,1,1" Out_pos="1" />
+    <ItemSpec id="4013" Monster_Num_Sq="540003,4,0.5|540008,1,1|520005,1,1" Out_pos="0" />
+    <ItemSpec id="4014" Monster_Num_Sq="540001,4,0.5|540004,3,2|540008,1,1" Out_pos="1" />
+    <ItemSpec id="4015" Monster_Num_Sq="540003,6,0.5|540004,2,3|540008,1,1|520007,1,1" Out_pos="0" />
+    <ItemSpec id="4016" Monster_Num_Sq="540002,6,0.5|540004,2,3|540008,1,1|520005,1,1" Out_pos="1" />
+
+
+	<!--第五关-->
+    <ItemSpec id="5001" Monster_Num_Sq="530002,4,0.5" Out_pos="1" />
+    <ItemSpec id="5002" Monster_Num_Sq="530001,5,0.5" Out_pos="1" />
+    <ItemSpec id="5003" Monster_Num_Sq="530001,5,0.5" Out_pos="1" />
+    <ItemSpec id="5004" Monster_Num_Sq="530003,3,0.5" Out_pos="0" />
+    <ItemSpec id="5005" Monster_Num_Sq="530003,3,0.5" Out_pos="0" />
+    <ItemSpec id="5006" Monster_Num_Sq="530002,4,0.5" Out_pos="1" />
+    <ItemSpec id="5007" Monster_Num_Sq="530001,5,0.5" Out_pos="1" />
+    <ItemSpec id="5008" Monster_Num_Sq="530003,3,0.5" Out_pos="0" />
+    <ItemSpec id="5009" Monster_Num_Sq="530003,3,0.5" Out_pos="0" />
+    <ItemSpec id="5010" Monster_Num_Sq="530002,5,0.5|530001,5,0.5" Out_pos="1" />
+    <ItemSpec id="5011" Monster_Num_Sq="530003,3,0.5" Out_pos="0" />
+    <ItemSpec id="5012" Monster_Num_Sq="530001,5,0.5|530002,5,0.5" Out_pos="1" />
+    <ItemSpec id="5013" Monster_Num_Sq="530002,5,0.5" Out_pos="0" />
+    <ItemSpec id="5014" Monster_Num_Sq="530001,5,0.5|530008,1,1" Out_pos="0" />
+    <ItemSpec id="5015" Monster_Num_Sq="530002,5,0.7|530001,5,0.7" Out_pos="1" />
+    <ItemSpec id="5016" Monster_Num_Sq="530001,5,0.7|530002,5,0.7" Out_pos="1" />
+    <ItemSpec id="5017" Monster_Num_Sq="530003,4,0.7" Out_pos="0" />
+    <ItemSpec id="5018" Monster_Num_Sq="530003,4,0.7|530008,1,1" Out_pos="0" />
+    <ItemSpec id="5019" Monster_Num_Sq="530003,4,0.7|530008,1,1" Out_pos="0" />
+    <ItemSpec id="5020" Monster_Num_Sq="530003,4,0.7|530008,1,1" Out_pos="0" />
+    <ItemSpec id="5021" Monster_Num_Sq="530002,4,0.7|530002,3,0.7|530001,2,0.7|530002,2,0.7" Out_pos="1" />
+    <ItemSpec id="5022" Monster_Num_Sq="530005,1,1|530003,4,0.7" Out_pos="0" />
+    <ItemSpec id="5023" Monster_Num_Sq="530002,4,0.7|530002,3,0.7|530001,2,0.7|530002,2,0.7" Out_pos="1" />
+    <ItemSpec id="5024" Monster_Num_Sq="530005,1,1|530003,4,0.7" Out_pos="0" />
+    <ItemSpec id="5025" Monster_Num_Sq="530002,4,0.7|530002,3,0.7|530001,2,0.7|530002,2,0.7" Out_pos="1" />
+    <ItemSpec id="5026" Monster_Num_Sq="530008,1,1|530003,4,0.7" Out_pos="0" />
+    <ItemSpec id="5027" Monster_Num_Sq="530002,4,0.7|530002,3,0.7|530001,6,0.7|530002,4,0.7" Out_pos="1" />
+    <ItemSpec id="5028" Monster_Num_Sq="530002,4,0.7|530002,3,0.7|530001,6,0.7|530002,4,0.7" Out_pos="1" />
+    <ItemSpec id="5029" Monster_Num_Sq="530005,1,1|530003,5,0.7|530008,1,1" Out_pos="0" />
+    <ItemSpec id="5030" Monster_Num_Sq="530009,1,1|530001,5,0.7|530002,4,0.7|530008,1,1" Out_pos="0" />
+
+
+	<!--第六关-->
+    <ItemSpec id="6001" Monster_Num_Sq="550001,5,0.7|550002,4,0.7|550004,4,0.7" Out_pos="0" />
+    <ItemSpec id="6002" Monster_Num_Sq="550001,4,0.7|550008,1,1|550002,4,0.7" Out_pos="0" />
+    <ItemSpec id="6003" Monster_Num_Sq="550001,4,0.7|550008,1,1|550002,3,0.9|550005,1,1|550002,4,0.7" Out_pos="0" />
+    <ItemSpec id="6004" Monster_Num_Sq="550004,4,0.7|550005,2,4|550002,3,0.7|550008,1,2" Out_pos="0" />
+    <ItemSpec id="6005" Monster_Num_Sq="550001,5,0.7|550002,4,0.7|550008,1,1" Out_pos="0" />
+    <ItemSpec id="6006" Monster_Num_Sq="550004,5,0.7|550002,4,0.7|550006,1,1" Out_pos="0" />
+    <ItemSpec id="6007" Monster_Num_Sq="550001,5,0.7|550002,4,0.7" Out_pos="1" />
+    <ItemSpec id="6008" Monster_Num_Sq="550004,5,0.7|550002,4,0.7|550007,1,1" Out_pos="0" />
+    <ItemSpec id="6009" Monster_Num_Sq="550001,4,0.7|550008,1,1|550002,4,0.7" Out_pos="1" />
+    <ItemSpec id="6010" Monster_Num_Sq="550004,5,0.7|550007,1,1" Out_pos="1" />
+    <ItemSpec id="6011" Monster_Num_Sq="550001,4,0.7|550008,1,1|550002,4,0.7" Out_pos="0" />
+    <ItemSpec id="6012" Monster_Num_Sq="550001,4,0.7|550008,1,1|550002,4,0.7" Out_pos="1" />
+    <ItemSpec id="6013" Monster_Num_Sq="550001,4,0.7|550008,1,1|550002,3,0.7|550008,2,2" Out_pos="0" />
+    <ItemSpec id="6014" Monster_Num_Sq="550003,4,0.7|550008,1,1|550003,2,0.7" Out_pos="1" />
+    <ItemSpec id="6015" Monster_Num_Sq="550003,4,0.7|550008,1,1|550005,2,0.7|550008,2,2" Out_pos="0" />
+    <ItemSpec id="6016" Monster_Num_Sq="550003,4,0.7|550008,1,0.5|550003,2,0.7" Out_pos="1" />
+    <ItemSpec id="6017" Monster_Num_Sq="550003,2,0.7|550005,1,1|550008,1,0.5|550003,3,0.7" Out_pos="0" />
+    <ItemSpec id="6018" Monster_Num_Sq="550008,1,1|550001,4,0.7|550003,3,0.7|550008,1,1" Out_pos="1" />
+    <ItemSpec id="6019" Monster_Num_Sq="550005,2,1|550003,3,0.7|550005,1,1" Out_pos="0" />
+    <ItemSpec id="6020" Monster_Num_Sq="550003,4,0.7|550008,1,1|550003,2,0.7|550008,2,2" Out_pos="1" />
+    <ItemSpec id="6021" Monster_Num_Sq="550003,3,0.7|550008,1,1|550003,4,0.5" Out_pos="0" />
+    <ItemSpec id="6022" Monster_Num_Sq="550008,1,1|550001,4,0.7|550003,2,0.7" Out_pos="1" />
+    <ItemSpec id="6023" Monster_Num_Sq="550005,1,1|550001,4,0.7|550003,3,0.7|550007,2,1" Out_pos="1" />
+    <ItemSpec id="6024" Monster_Num_Sq="550001,4,0.7|550003,1,0.7|550005,2,3" Out_pos="0" />
+    <ItemSpec id="6025" Monster_Num_Sq="550003,3,0.7|550007,1,1|550003,4,0.5" Out_pos="1" />
+    <ItemSpec id="6026" Monster_Num_Sq="550001,4,0.7|550002,5,0.7" Out_pos="0" />
+    <ItemSpec id="6027" Monster_Num_Sq="550005,1,1|550001,4,0.7|550003,3,0.7|550007,2,1" Out_pos="1" />
+    <ItemSpec id="6028" Monster_Num_Sq="550001,1,0.7|550003,5,0.7|550005,2,3" Out_pos="0" />
+    <ItemSpec id="6029" Monster_Num_Sq="550005,1,1|550001,4,0.7|550003,3,0.7|550005,2,1|550009,1,1" Out_pos="1" />
+    <ItemSpec id="6030" Monster_Num_Sq="550003,3,0.7|550009,1,1|550003,4,0.5" Out_pos="0" />
+
+
+
+	<!--第七关-->
+    <ItemSpec id="7001" Monster_Num_Sq="560001,4,0.7|560002,4,0.7|560008,1,1" Out_pos="0" />
+    <ItemSpec id="7002" Monster_Num_Sq="560002,4,0.7|560004,4,0.7|560008,1,1" Out_pos="1" />
+    <ItemSpec id="7003" Monster_Num_Sq="560001,4,0.7|560002,3,0.9|560004,4,0.7" Out_pos="0" />
+    <ItemSpec id="7004" Monster_Num_Sq="560002,4,0.7|560008,1,2|560004,4,0.7" Out_pos="1" />
+    <ItemSpec id="7005" Monster_Num_Sq="560003,4,0.7|560002,4,0.7" Out_pos="2" />
+    <ItemSpec id="7006" Monster_Num_Sq="560001,4,0.7|560008,1,1|560002,3,0.7" Out_pos="0" />
+    <ItemSpec id="7007" Monster_Num_Sq="560002,4,0.7|560008,1,2|560005,1,1" Out_pos="1" />
+    <ItemSpec id="7008" Monster_Num_Sq="560003,4,0.7|560002,4,0.7" Out_pos="2" />
+    <ItemSpec id="7009" Monster_Num_Sq="560003,4,0.7|560004,4,0.7" Out_pos="3" />
+    <ItemSpec id="7010" Monster_Num_Sq="560001,4,0.7|560008,1,1|560002,3,0.7" Out_pos="0" />
+    <ItemSpec id="7011" Monster_Num_Sq="560002,4,0.7|560008,1,1|560004,5,0.7" Out_pos="1" />
+    <ItemSpec id="7012" Monster_Num_Sq="560003,4,0.7|560002,4,0.7|560006,1,1" Out_pos="2" />
+    <ItemSpec id="7013" Monster_Num_Sq="560003,4,0.7|560002,4,0.7" Out_pos="3" />
+    <ItemSpec id="7014" Monster_Num_Sq="560002,4,0.7|560006,1,1|560002,4,0.7" Out_pos="4" />
+    <ItemSpec id="7015" Monster_Num_Sq="560001,4,0.7|560008,1,1|560002,3,0.7" Out_pos="0" />
+    <ItemSpec id="7016" Monster_Num_Sq="560008,1,1|560002,4,0.7" Out_pos="1" />
+    <ItemSpec id="7017" Monster_Num_Sq="560003,4,0.7|560002,4,0.7|560005,1,1" Out_pos="2" />
+    <ItemSpec id="7018" Monster_Num_Sq="560003,4,0.7|560002,4,0.7|560008,1,2" Out_pos="3" />
+    <ItemSpec id="7019" Monster_Num_Sq="560008,1,1|560002,8,0.7" Out_pos="4" />
+    <ItemSpec id="7020" Monster_Num_Sq="560003,4,0.7|560002,4,0.7" Out_pos="0" />
+    <ItemSpec id="7021" Monster_Num_Sq="560007,1,1|560003,4,0.7|560002,4,0.7" Out_pos="1" />
+    <ItemSpec id="7022" Monster_Num_Sq="560003,4,0.7|560002,4,0.7" Out_pos="2" />
+    <ItemSpec id="7023" Monster_Num_Sq="560003,4,0.7|560002,4,0.7" Out_pos="3" />
+    <ItemSpec id="7024" Monster_Num_Sq="560002,4,0.7|560002,4,0.7" Out_pos="4" />
+    <ItemSpec id="7025" Monster_Num_Sq="560001,4,0.7|560002,4,0.7|560008,1,2" Out_pos="0" />
+    <ItemSpec id="7026" Monster_Num_Sq="560002,5,0.7|560001,5,0.7" Out_pos="1" />
+    <ItemSpec id="7027" Monster_Num_Sq="560003,4,0.7|560004,4,0.7|560008,1,1" Out_pos="2" />
+    <ItemSpec id="7028" Monster_Num_Sq="560007,1,1|560002,4,0.7" Out_pos="3" />
+    <ItemSpec id="7029" Monster_Num_Sq="560003,4,0.7|560002,4,0.7" Out_pos="4" />
+
+
+	<!--第八关-->
+    <ItemSpec id="8001" Monster_Num_Sq="570003,6,0.7|570004,5,0.9" Out_pos="0" />
+    <ItemSpec id="8002" Monster_Num_Sq="570003,6,0.7|570002,7,0.7" Out_pos="0" />
+    <ItemSpec id="8003" Monster_Num_Sq="570001,6,0.7|570002,5,0.7|570008,1,1" Out_pos="0" />
+    <ItemSpec id="8004" Monster_Num_Sq="570001,6,0.7|570002,5,0.7|570008,1,1" Out_pos="0" />
+    <ItemSpec id="8005" Monster_Num_Sq="570003,6,0.7|570002,5,0.7" Out_pos="0" />
+    <ItemSpec id="8006" Monster_Num_Sq="570003,7,0.7|570005,3,2|570005,1,1" Out_pos="0" />
+    <ItemSpec id="8007" Monster_Num_Sq="570004,6,0.7|570003,6,0.7|570008,1,1" Out_pos="0" />
+    <ItemSpec id="8008" Monster_Num_Sq="570005,1,1|570002,5,0.7" Out_pos="2" />
+    <ItemSpec id="8009" Monster_Num_Sq="570003,4,0.7|570002,4,0.7|570008,1,1" Out_pos="0" />
+    <ItemSpec id="8010" Monster_Num_Sq="570004,4,0.7|570003,4,0.7" Out_pos="0" />
+    <ItemSpec id="8011" Monster_Num_Sq="570003,6,0.7|570005,1,1|570005,1,1" Out_pos="0" />
+    <ItemSpec id="8012" Monster_Num_Sq="570004,4,0.7|570003,4,0.7" Out_pos="0" />
+    <ItemSpec id="8013" Monster_Num_Sq="570005,1,1|570003,4,0.7|570005,1,1|570008,1,1" Out_pos="2" />
+    <ItemSpec id="8014" Monster_Num_Sq="570002,6,0.7|570003,6,0.7|570008,1,1" Out_pos="0" />
+    <ItemSpec id="8015" Monster_Num_Sq="570004,4,0.7|570002,4,0.7|570005,1,1" Out_pos="2" />
+    <ItemSpec id="8016" Monster_Num_Sq="570004,4,0.7|570002,4,0.7" Out_pos="0" />
+    <ItemSpec id="8017" Monster_Num_Sq="570008,1,1|570003,6,0.7" Out_pos="2" />
+    <ItemSpec id="8018" Monster_Num_Sq="570004,4,0.7|570003,4,0.7|570005,2,1|570008,1,1" Out_pos="0" />
+    <ItemSpec id="8019" Monster_Num_Sq="570005,1,1|570004,4,0.7" Out_pos="1" />
+    <ItemSpec id="8020" Monster_Num_Sq="570008,1,1|570003,6,0.7" Out_pos="2" />
+    <ItemSpec id="8021" Monster_Num_Sq="570004,4,0.7|570002,4,0.7|570007,1,1" Out_pos="0" />
+    <ItemSpec id="8022" Monster_Num_Sq="570008,1,1|570003,6,0.7|570008,1,1" Out_pos="1" />
+    <ItemSpec id="8023" Monster_Num_Sq="570002,4,0.7|570002,4,0.7|570005,1,1|570008,1,1|570007,1,1" Out_pos="0" />
+    <ItemSpec id="8024" Monster_Num_Sq="570003,6,0.7|570008,1,1" Out_pos="1" />
+    <ItemSpec id="8025" Monster_Num_Sq="570002,4,0.7|570002,7,0.7|570007,1,1" Out_pos="0" />
+    <ItemSpec id="8026" Monster_Num_Sq="570008,1,1|570007,1,1|570002,4,0.7" Out_pos="1" />
+    <ItemSpec id="8027" Monster_Num_Sq="570008,1,1|570003,6,0.7|570005,1,1" Out_pos="2" />
+    <ItemSpec id="8028" Monster_Num_Sq="570004,4,0.7|570002,4,0.7|570008,1,1|570005,1,1" Out_pos="0" />
+    <ItemSpec id="8029" Monster_Num_Sq="570007,1,1|570008,1,1|570002,4,0.7|570008,1,1" Out_pos="1" />
+    <ItemSpec id="8030" Monster_Num_Sq="570009,1,1" Out_pos="1" />
+
+
+	<!--第九关-->
+    <ItemSpec id="9001" Monster_Num_Sq="570003,9,0.7|570004,5,0.7" Out_pos="0" />
+    <ItemSpec id="9002" Monster_Num_Sq="570003,9,0.7|570004,5,0.7" Out_pos="1" />
+    <ItemSpec id="9003" Monster_Num_Sq="570003,5,0.7|580005,1,3|570004,5,0.7" Out_pos="0" />
+    <ItemSpec id="9004" Monster_Num_Sq="570003,5,0.7|580005,1,3|570004,5,0.7" Out_pos="1" />
+    <ItemSpec id="9005" Monster_Num_Sq="570001,5,0.7|570004,5,0.7" Out_pos="0" />
+    <ItemSpec id="9006" Monster_Num_Sq="570001,5,0.7|570004,5,0.7" Out_pos="1" />
+    <ItemSpec id="9007" Monster_Num_Sq="580008,1,1|580005,1,1|570004,5,0.7" Out_pos="0" />
+    <ItemSpec id="9008" Monster_Num_Sq="580008,1,1|580005,1,1|570004,5,0.7" Out_pos="1" />
+    <ItemSpec id="9009" Monster_Num_Sq="580007,1,1|570004,5,0.8|580007,1,1" Out_pos="0" />
+    <ItemSpec id="9010" Monster_Num_Sq="580007,1,1|570004,5,0.8|580007,1,1" Out_pos="1" />
+    <ItemSpec id="9011" Monster_Num_Sq="570001,5,0.7|570004,5,0.7" Out_pos="0" />
+    <ItemSpec id="9012" Monster_Num_Sq="570001,5,0.7|570004,5,0.7" Out_pos="1" />
+    <ItemSpec id="9013" Monster_Num_Sq="580007,1,1|570004,5,0.7|580007,1,1|580008,1,1" Out_pos="0" />
+    <ItemSpec id="9014" Monster_Num_Sq="580007,1,1|570004,5,0.7|580007,1,1|580008,1,1" Out_pos="1" />
+    <ItemSpec id="9015" Monster_Num_Sq="580006,1,1|570004,5,0.7" Out_pos="0" />
+    <ItemSpec id="9016" Monster_Num_Sq="580006,1,1|570004,5,0.7" Out_pos="1" />
+    <ItemSpec id="9017" Monster_Num_Sq="570004,5,0.7|580007,1,1|580008,1,1" Out_pos="0" />
+    <ItemSpec id="9018" Monster_Num_Sq="570004,5,0.7|580007,1,1|580008,1,1" Out_pos="1" />
+    <ItemSpec id="9019" Monster_Num_Sq="580005,3,3" Out_pos="0" />
+    <ItemSpec id="9020" Monster_Num_Sq="580005,3,3" Out_pos="1" />
+    <ItemSpec id="9021" Monster_Num_Sq="570001,5,0.7|570004,5,0.7|580007,1,1|580008,1,1" Out_pos="0" />
+    <ItemSpec id="9022" Monster_Num_Sq="570001,5,0.7|570004,5,0.7|580007,1,1|580008,1,1" Out_pos="1" />
+    <ItemSpec id="9023" Monster_Num_Sq="580005,3,3" Out_pos="0" />
+    <ItemSpec id="9024" Monster_Num_Sq="580005,3,3" Out_pos="1" />
+    <ItemSpec id="9025" Monster_Num_Sq="580006,1,1|570004,5,0.7" Out_pos="0" />
+    <ItemSpec id="9026" Monster_Num_Sq="580006,1,1|570004,5,0.7" Out_pos="1" />
+    <ItemSpec id="9027" Monster_Num_Sq="580009,1,1|580008,1,1|570004,5,0.9" Out_pos="0" />
+    <ItemSpec id="9028" Monster_Num_Sq="580009,1,1|580008,1,1|570004,5,0.9" Out_pos="1" />
+
+	<!--第十关-->
+    <ItemSpec id="10001" Monster_Num_Sq="570001,6,0.7|570004,5,1.1|570002,6,0.5|570004,5,0.7" Out_pos="0" />
+    <ItemSpec id="10002" Monster_Num_Sq="570004,5,0.7|570003,4,1.1|570002,6,0.5|570004,5,0.7" Out_pos="1" />
+    <ItemSpec id="10003" Monster_Num_Sq="570003,5,0.7|590005,1,3|570004,5,0.7|570001,5,0.7" Out_pos="0" />
+    <ItemSpec id="10004" Monster_Num_Sq="570003,5,0.7|590005,1,3|570004,5,0.7|570001,5,0.7" Out_pos="1" />
+    <ItemSpec id="10005" Monster_Num_Sq="590005,1,3|570004,5,1.1|570002,6,0.9|570004,5,0.7" Out_pos="0" />
+    <ItemSpec id="10006" Monster_Num_Sq="590005,1,3|570003,4,1.1|570002,6,0.9|570004,5,0.7" Out_pos="1" />
+    <ItemSpec id="10007" Monster_Num_Sq="570003,7,0.7|570004,5,0.7|570001,5,0.7" Out_pos="0" />
+    <ItemSpec id="10008" Monster_Num_Sq="570003,7,0.7|570004,5,0.7|570001,5,0.7" Out_pos="1" />
+    <ItemSpec id="10009" Monster_Num_Sq="570001,5,0.7|570004,5,0.7|570003,4,1.1|570004,5,0.7" Out_pos="2" />
+    <ItemSpec id="10010" Monster_Num_Sq="570001,5,0.7|570004,5,0.7|570003,4,1.1|570004,5,0.7" Out_pos="3" />
+    <ItemSpec id="10011" Monster_Num_Sq="590008,1,1|590005,1,1|570004,5,0.7" Out_pos="2" />
+    <ItemSpec id="10012" Monster_Num_Sq="590008,1,1|590005,1,1|570004,5,0.7" Out_pos="3" />
+    <ItemSpec id="10013" Monster_Num_Sq="570003,7,0.7|570004,5,0.7|570001,5,0.7" Out_pos="2" />
+    <ItemSpec id="10014" Monster_Num_Sq="570003,7,0.7|570004,5,0.7|570001,5,0.7" Out_pos="3" />
+    <ItemSpec id="10015" Monster_Num_Sq="570003,7,0.7|570004,5,0.7|570001,5,0.7|590008,1,1" Out_pos="2" />
+    <ItemSpec id="10016" Monster_Num_Sq="570003,7,0.7|570004,5,0.7|570001,5,0.7|590008,1,1" Out_pos="3" />
+    <ItemSpec id="10017" Monster_Num_Sq="590007,1,1|570004,5,0.8|590007,1,1" Out_pos="0" />
+    <ItemSpec id="10018" Monster_Num_Sq="590007,1,1|570004,5,0.8|590007,1,1" Out_pos="3" />
+    <ItemSpec id="10019" Monster_Num_Sq="590007,1,1|570004,5,0.8|590007,1,1|590008,1,1" Out_pos="0" />
+    <ItemSpec id="10020" Monster_Num_Sq="590007,1,1|570004,5,0.8|590007,1,1|590008,1,1" Out_pos="3" />
+    <ItemSpec id="10021" Monster_Num_Sq="570001,5,0.7|570004,5,0.7" Out_pos="1" />
+    <ItemSpec id="10022" Monster_Num_Sq="570001,5,0.7|570004,5,0.7" Out_pos="2" />
+    <ItemSpec id="10023" Monster_Num_Sq="590007,1,1|570004,5,0.7|590007,1,1|590008,1,1" Out_pos="1" />
+    <ItemSpec id="10024" Monster_Num_Sq="590007,1,1|570004,5,0.7|590007,1,1|590008,1,1" Out_pos="2" />
+    <ItemSpec id="10025" Monster_Num_Sq="590006,1,1|570004,5,0.7|570002,5,0.7" Out_pos="0" />
+    <ItemSpec id="10026" Monster_Num_Sq="590006,1,1|570004,5,0.7|570002,5,0.7" Out_pos="3" />
+    <ItemSpec id="10027" Monster_Num_Sq="570004,5,0.7|590008,1,1|590007,1,1" Out_pos="0" />
+    <ItemSpec id="10028" Monster_Num_Sq="570004,5,0.7|590008,1,1|590007,1,1" Out_pos="3" />
+    <ItemSpec id="10029" Monster_Num_Sq="590005,3,3|590007,1,1|570002,5,0.7" Out_pos="1" />
+    <ItemSpec id="10030" Monster_Num_Sq="590005,3,3|590007,1,1|570002,5,0.7" Out_pos="2" />
+    <ItemSpec id="10031" Monster_Num_Sq="570001,5,0.7|570004,5,0.7|590007,1,1|590008,1,1" Out_pos="0" />
+    <ItemSpec id="10032" Monster_Num_Sq="570001,5,0.7|570004,5,0.7|590007,1,1|590008,1,1" Out_pos="3" />
+    <ItemSpec id="10033" Monster_Num_Sq="590005,2,3|590008,1,1|570001,5,0.7" Out_pos="1" />
+    <ItemSpec id="10034" Monster_Num_Sq="590005,2,3|590008,1,1|570001,5,0.7" Out_pos="2" />
+    <ItemSpec id="10035" Monster_Num_Sq="590006,1,1|570004,5,0.7|590007,1,1" Out_pos="0" />
+    <ItemSpec id="10036" Monster_Num_Sq="590006,1,1|570004,5,0.7|590007,1,1" Out_pos="3" />
+    <ItemSpec id="10037" Monster_Num_Sq="590009,1,1|590005,1,1" Out_pos="0" />
+    <ItemSpec id="10038" Monster_Num_Sq="590009,1,1|590005,1,1" Out_pos="3" />
+    <ItemSpec id="10039" Monster_Num_Sq="590008,2,2|570004,5,0.7" Out_pos="1" />
+    <ItemSpec id="10040" Monster_Num_Sq="590008,2,2|570004,5,0.7" Out_pos="2" />
+
+
+
+
+
+
+
+</Group>
+
+
+
+</tns:database>

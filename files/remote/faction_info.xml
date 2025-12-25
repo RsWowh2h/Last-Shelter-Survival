@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ 
+<!--最初版阵营故事-->
+    <Group id="faction_info">
+
+    <ItemSpec id="10001" faction="1" faction_icon="ZB_icon_misaiya" faction_back="ZB_bg_misaiya" faction_name="110095000" faction_desc="110040807" faction_idol="10090" faction_story="110253000" story_goods="215808,2" />
+    <ItemSpec id="10002" faction="1" faction_story="110253001" story_goods="215808,2" />
+    <ItemSpec id="10003" faction="1" faction_story="110253002" story_goods="215808,2" />
+    <ItemSpec id="10004" faction="1" faction_story="110253003" story_goods="215808,6" />
+    <ItemSpec id="10005" faction="1" faction_story="110253004" story_goods="215808,6" />
+    <ItemSpec id="10006" faction="1" faction_story="110253005" story_goods="215808,3" />
+    <ItemSpec id="10007" faction="1" faction_story="110253006" story_goods="215808,6" />
+    <ItemSpec id="10008" faction="1" faction_story="110253007" story_goods="215808,3" />
+    <ItemSpec id="10009" faction="1" faction_story="110253008" story_goods="215808,3" />
+    <ItemSpec id="10010" faction="1" faction_story="110253009" story_goods="215808,6" />
+    <ItemSpec id="10011" faction="1" faction_story="110253010" story_goods="215808,4" />
+    <ItemSpec id="10012" faction="1" faction_story="110253011" story_goods="215808,4" />
+    <ItemSpec id="10013" faction="1" faction_story="110253012" story_goods="215808,4" />
+    <ItemSpec id="10014" faction="1" faction_story="110253013" story_goods="215808,6" />
+    <ItemSpec id="10015" faction="1" faction_story="110253014" story_goods="215808,6" />
+    <ItemSpec id="10016" faction="2" faction_icon="ZB_icon_shamo" faction_back="ZB_bg_shamo" faction_name="110095001" faction_desc="110040808" faction_idol="10079" faction_story="110253030" story_goods="215808,2" />
+    <ItemSpec id="10017" faction="2" faction_story="110253031" story_goods="215808,6" />
+    <ItemSpec id="10018" faction="2" faction_story="110253032" story_goods="215808,2" />
+    <ItemSpec id="10019" faction="2" faction_story="110253033" story_goods="215808,6" />
+    <ItemSpec id="10020" faction="2" faction_story="110253034" story_goods="215808,2" />
+    <ItemSpec id="10021" faction="2" faction_story="110253035" story_goods="215808,3" />
+    <ItemSpec id="10022" faction="2" faction_story="110253036" story_goods="215808,3" />
+    <ItemSpec id="10023" faction="2" faction_story="110253037" story_goods="215808,5" />
+    <ItemSpec id="10024" faction="2" faction_story="110253038" story_goods="215808,3" />
+    <ItemSpec id="10025" faction="2" faction_story="110253039" story_goods="215808,4" />
+    <ItemSpec id="10026" faction="2" faction_story="110253040" story_goods="215808,4" />
+    <ItemSpec id="10027" faction="2" faction_story="110253041" story_goods="215808,4" />
+    <ItemSpec id="10028" faction="2" faction_story="110253042" story_goods="215808,5" />
+    <ItemSpec id="10029" faction="2" faction_story="110253043" story_goods="215808,5" />
+    <ItemSpec id="10030" faction="2" faction_story="110253044" story_goods="215808,6" />
+    <ItemSpec id="10031" faction="3" faction_icon="ZB_icon_ziyou" faction_back="ZB_bg_ziyou" faction_name="110095002" faction_desc="110040809" faction_idol="10082" faction_story="110253015" story_goods="215808,2" />
+    <ItemSpec id="10032" faction="3" faction_story="110253016" story_goods="215808,2" />
+    <ItemSpec id="10033" faction="3" faction_story="110253017" story_goods="215808,2" />
+    <ItemSpec id="10034" faction="3" faction_story="110253018" story_goods="215808,3" />
+    <ItemSpec id="10035" faction="3" faction_story="110253019" story_goods="215808,3" />
+    <ItemSpec id="10036" faction="3" faction_story="110253020" story_goods="215808,3" />
+    <ItemSpec id="10037" faction="3" faction_story="110253021" story_goods="215808,4" />
+    <ItemSpec id="10038" faction="3" faction_story="110253022" story_goods="215808,5" />
+    <ItemSpec id="10039" faction="3" faction_story="110253023" story_goods="215808,4" />
+    <ItemSpec id="10040" faction="3" faction_story="110253024" story_goods="215808,4" />
+    <ItemSpec id="10041" faction="3" faction_story="110253025" story_goods="215808,5" />
+    <ItemSpec id="10042" faction="3" faction_story="110253026" story_goods="215808,5" />
+    <ItemSpec id="10043" faction="3" faction_story="110253027" story_goods="215808,5" />
+    <ItemSpec id="10044" faction="3" faction_story="110253028" story_goods="215808,6" />
+    <ItemSpec id="10045" faction="3" faction_story="110253029" story_goods="215808,5" />
+    <ItemSpec id="10046" faction="4" faction_icon="ZB_icon_guyong" faction_back="ZB_bg_guyong" faction_name="110095003" faction_desc="110040810" faction_idol="10060" faction_story="110253045" story_goods="215808,2" />
+    <ItemSpec id="10047" faction="4" faction_story="110253046" story_goods="215808,2" />
+    <ItemSpec id="10048" faction="4" faction_story="110253047" story_goods="215808,6" />
+    <ItemSpec id="10049" faction="4" faction_story="110253048" story_goods="215808,2" />
+    <ItemSpec id="10050" faction="4" faction_story="110253049" story_goods="215808,3" />
+    <ItemSpec id="10051" faction="4" faction_story="110253050" story_goods="215808,5" />
+    <ItemSpec id="10052" faction="4" faction_story="110253051" story_goods="215808,3" />
+    <ItemSpec id="10053" faction="4" faction_story="110253052" story_goods="215808,3" />
+    <ItemSpec id="10054" faction="4" faction_story="110253053" story_goods="215808,4" />
+    <ItemSpec id="10055" faction="4" faction_story="110253054" story_goods="215808,4" />
+    <ItemSpec id="10056" faction="4" faction_story="110253055" story_goods="215808,4" />
+    <ItemSpec id="10057" faction="4" faction_story="110253056" story_goods="215808,5" />
+    <ItemSpec id="10058" faction="4" faction_story="110253057" story_goods="215808,5" />
+    <ItemSpec id="10059" faction="4" faction_story="110253058" story_goods="215808,5" />
+    <ItemSpec id="10060" faction="4" faction_story="110253059" story_goods="215808,6" />
+
+    </Group> 
+ 
+<!--新四阵营-->
+    <Group id="faction_info1">
+    <ItemSpec id="20001" faction="1" faction_icon="ZB_icon_misaiya" faction_back="ZB_bg_misaiya" faction_name="110095000" faction_desc="110040807" faction_idol="10090" faction_story="110253000" story_goods="215808,2" />
+    <ItemSpec id="20002" faction="1" faction_story="110253001" story_goods="215808,2" />
+    <ItemSpec id="20003" faction="1" faction_story="110253002" story_goods="215808,2" />
+    <ItemSpec id="20004" faction="1" faction_story="110253003" story_goods="215808,6" />
+    <ItemSpec id="20005" faction="1" faction_story="110253004" story_goods="215808,6" />
+    <ItemSpec id="20006" faction="1" faction_story="110253005" story_goods="215808,3" />
+    <ItemSpec id="20007" faction="1" faction_story="110253006" story_goods="215808,6" />
+    <ItemSpec id="20008" faction="1" faction_story="110253007" story_goods="215808,3" />
+    <ItemSpec id="20009" faction="1" faction_story="110253008" story_goods="215808,3" />
+    <ItemSpec id="20010" faction="1" faction_story="110253009" story_goods="215808,6" />
+    <ItemSpec id="20011" faction="1" faction_story="110253010" story_goods="215808,4" />
+    <ItemSpec id="20012" faction="1" faction_story="110253011" story_goods="215808,4" />
+    <ItemSpec id="20013" faction="1" faction_story="110253012" story_goods="215808,4" />
+    <ItemSpec id="20014" faction="1" faction_story="110253013" story_goods="215808,6" />
+    <ItemSpec id="20015" faction="1" faction_story="110253014" story_goods="215808,6" />
+    <ItemSpec id="20016" faction="2" faction_icon="ZB_icon_shamo" faction_back="ZB_bg_shamo" faction_name="110095001" faction_desc="110040808" faction_idol="10079" faction_story="110253030" story_goods="215808,2" />
+    <ItemSpec id="20017" faction="2" faction_story="110253031" story_goods="215808,6" />
+    <ItemSpec id="20018" faction="2" faction_story="110253032" story_goods="215808,2" />
+    <ItemSpec id="20019" faction="2" faction_story="110253033" story_goods="215808,6" />
+    <ItemSpec id="20020" faction="2" faction_story="110253034" story_goods="215808,2" />
+    <ItemSpec id="20021" faction="2" faction_story="110253035" story_goods="215808,3" />
+    <ItemSpec id="20022" faction="2" faction_story="110253036" story_goods="215808,3" />
+    <ItemSpec id="20023" faction="2" faction_story="110253037" story_goods="215808,5" />
+    <ItemSpec id="20024" faction="2" faction_story="110253038" story_goods="215808,3" />
+    <ItemSpec id="20025" faction="2" faction_story="110253039" story_goods="215808,4" />
+    <ItemSpec id="20026" faction="2" faction_story="110253040" story_goods="215808,4" />
+    <ItemSpec id="20027" faction="2" faction_story="110253041" story_goods="215808,4" />
+    <ItemSpec id="20028" faction="2" faction_story="110253042" story_goods="215808,5" />
+    <ItemSpec id="20029" faction="2" faction_story="110253043" story_goods="215808,5" />
+    <ItemSpec id="20030" faction="2" faction_story="110253044" story_goods="215808,6" />
+    <ItemSpec id="20031" faction="3" faction_icon="ZB_icon_ziyou" faction_back="ZB_bg_ziyou" faction_name="110095002" faction_desc="110040809" faction_idol="10082" faction_story="110253015" story_goods="215808,2" />
+    <ItemSpec id="20032" faction="3" faction_story="110253016" story_goods="215808,2" />
+    <ItemSpec id="20033" faction="3" faction_story="110253017" story_goods="215808,2" />
+    <ItemSpec id="20034" faction="3" faction_story="110253018" story_goods="215808,3" />
+    <ItemSpec id="20035" faction="3" faction_story="110253019" story_goods="215808,3" />
+    <ItemSpec id="20036" faction="3" faction_story="110253020" story_goods="215808,3" />
+    <ItemSpec id="20037" faction="3" faction_story="110253021" story_goods="215808,4" />
+    <ItemSpec id="20038" faction="3" faction_story="110253022" story_goods="215808,5" />
+    <ItemSpec id="20039" faction="3" faction_story="110253023" story_goods="215808,4" />
+    <ItemSpec id="20040" faction="3" faction_story="110253024" story_goods="215808,4" />
+    <ItemSpec id="20041" faction="3" faction_story="110253025" story_goods="215808,5" />
+    <ItemSpec id="20042" faction="3" faction_story="110253026" story_goods="215808,5" />
+    <ItemSpec id="20043" faction="3" faction_story="110253027" story_goods="215808,5" />
+    <ItemSpec id="20044" faction="3" faction_story="110253028" story_goods="215808,6" />
+    <ItemSpec id="20045" faction="3" faction_story="110253029" story_goods="215808,5" />
+    <ItemSpec id="20046" faction="4" faction_icon="ZB_icon_guyong" faction_back="ZB_bg_guyong" faction_name="110095003" faction_desc="110040810" faction_idol="10060" faction_story="110253045" story_goods="215808,2" />
+    <ItemSpec id="20047" faction="4" faction_story="110253046" story_goods="215808,2" />
+    <ItemSpec id="20048" faction="4" faction_story="110253047" story_goods="215808,6" />
+    <ItemSpec id="20049" faction="4" faction_story="110253048" story_goods="215808,2" />
+    <ItemSpec id="20050" faction="4" faction_story="110253049" story_goods="215808,3" />
+    <ItemSpec id="20051" faction="4" faction_story="110253050" story_goods="215808,5" />
+    <ItemSpec id="20052" faction="4" faction_story="110253051" story_goods="215808,3" />
+    <ItemSpec id="20053" faction="4" faction_story="110253052" story_goods="215808,3" />
+    <ItemSpec id="20054" faction="4" faction_story="110253053" story_goods="215808,4" />
+    <ItemSpec id="20055" faction="4" faction_story="110253054" story_goods="215808,4" />
+    <ItemSpec id="20056" faction="4" faction_story="110253055" story_goods="215808,4" />
+    <ItemSpec id="20057" faction="4" faction_story="110253056" story_goods="215808,5" />
+    <ItemSpec id="20058" faction="4" faction_story="110253057" story_goods="215808,5" />
+    <ItemSpec id="20059" faction="4" faction_story="110253058" story_goods="215808,5" />
+    <ItemSpec id="20060" faction="4" faction_story="110253059" story_goods="215808,6" />
+
+    </Group> 
+ 
+<!--新南北版-->
+    <Group id="faction_info2">
+    <ItemSpec id="30001" faction="1" faction_icon="ZB_icon_misaiya" faction_back="ZB_bg_misaiya" faction_name="110095000" faction_desc="110040807" faction_idol="10090" faction_story="110253000" story_goods="215808,2" />
+    <ItemSpec id="30002" faction="1" faction_story="110253001" story_goods="215808,2" />
+    <ItemSpec id="30003" faction="1" faction_story="110253002" story_goods="215808,2" />
+    <ItemSpec id="30004" faction="1" faction_story="110253003" story_goods="215808,6" />
+    <ItemSpec id="30005" faction="1" faction_story="110253004" story_goods="215808,6" />
+    <ItemSpec id="30006" faction="1" faction_story="110253005" story_goods="215808,3" />
+    <ItemSpec id="30007" faction="1" faction_story="110253006" story_goods="215808,6" />
+    <ItemSpec id="30008" faction="1" faction_story="110253007" story_goods="215808,3" />
+    <ItemSpec id="30009" faction="1" faction_story="110253008" story_goods="215808,3" />
+    <ItemSpec id="30010" faction="1" faction_story="110253009" story_goods="215808,6" />
+    <ItemSpec id="30011" faction="1" faction_story="110253010" story_goods="215808,4" />
+    <ItemSpec id="30012" faction="1" faction_story="110253011" story_goods="215808,4" />
+    <ItemSpec id="30013" faction="1" faction_story="110253012" story_goods="215808,4" />
+    <ItemSpec id="30014" faction="1" faction_story="110253013" story_goods="215808,6" />
+    <ItemSpec id="30015" faction="1" faction_story="110253014" story_goods="215808,6" />
+    <ItemSpec id="30016" faction="2" faction_icon="ZB_icon_shamo" faction_back="ZB_bg_shamo" faction_name="110095001" faction_desc="110040808" faction_idol="10079" faction_story="110253030" story_goods="215808,2" />
+    <ItemSpec id="30017" faction="2" faction_story="110253031" story_goods="215808,6" />
+    <ItemSpec id="30018" faction="2" faction_story="110253032" story_goods="215808,2" />
+    <ItemSpec id="30019" faction="2" faction_story="110253033" story_goods="215808,6" />
+    <ItemSpec id="30020" faction="2" faction_story="110253034" story_goods="215808,2" />
+    <ItemSpec id="30021" faction="2" faction_story="110253035" story_goods="215808,3" />
+    <ItemSpec id="30022" faction="2" faction_story="110253036" story_goods="215808,3" />
+    <ItemSpec id="30023" faction="2" faction_story="110253037" story_goods="215808,5" />
+    <ItemSpec id="30024" faction="2" faction_story="110253038" story_goods="215808,3" />
+    <ItemSpec id="30025" faction="2" faction_story="110253039" story_goods="215808,4" />
+    <ItemSpec id="30026" faction="2" faction_story="110253040" story_goods="215808,4" />
+    <ItemSpec id="30027" faction="2" faction_story="110253041" story_goods="215808,4" />
+    <ItemSpec id="30028" faction="2" faction_story="110253042" story_goods="215808,5" />
+    <ItemSpec id="30029" faction="2" faction_story="110253043" story_goods="215808,5" />
+    <ItemSpec id="30030" faction="2" faction_story="110253044" story_goods="215808,6" />
+    <ItemSpec id="30031" faction="3" faction_icon="ZB_icon_ziyou" faction_back="ZB_bg_ziyou" faction_name="110095002" faction_desc="110040809" faction_idol="10082" faction_story="110253015" story_goods="215808,2" />
+    <ItemSpec id="30032" faction="3" faction_story="110253016" story_goods="215808,2" />
+    <ItemSpec id="30033" faction="3" faction_story="110253017" story_goods="215808,2" />
+    <ItemSpec id="30034" faction="3" faction_story="110253018" story_goods="215808,3" />
+    <ItemSpec id="30035" faction="3" faction_story="110253019" story_goods="215808,3" />
+    <ItemSpec id="30036" faction="3" faction_story="110253020" story_goods="215808,3" />
+    <ItemSpec id="30037" faction="3" faction_story="110253021" story_goods="215808,4" />
+    <ItemSpec id="30038" faction="3" faction_story="110253022" story_goods="215808,5" />
+    <ItemSpec id="30039" faction="3" faction_story="110253023" story_goods="215808,4" />
+    <ItemSpec id="30040" faction="3" faction_story="110253024" story_goods="215808,4" />
+    <ItemSpec id="30041" faction="3" faction_story="110253025" story_goods="215808,5" />
+    <ItemSpec id="30042" faction="3" faction_story="110253026" story_goods="215808,5" />
+    <ItemSpec id="30043" faction="3" faction_story="110253027" story_goods="215808,5" />
+    <ItemSpec id="30044" faction="3" faction_story="110253028" story_goods="215808,6" />
+    <ItemSpec id="30045" faction="3" faction_story="110253029" story_goods="215808,5" />
+    <ItemSpec id="30046" faction="4" faction_icon="ZB_icon_guyong" faction_back="ZB_bg_guyong" faction_name="110095003" faction_desc="110040810" faction_idol="10060" faction_story="110253045" story_goods="215808,2" />
+    <ItemSpec id="30047" faction="4" faction_story="110253046" story_goods="215808,2" />
+    <ItemSpec id="30048" faction="4" faction_story="110253047" story_goods="215808,6" />
+    <ItemSpec id="30049" faction="4" faction_story="110253048" story_goods="215808,2" />
+    <ItemSpec id="30050" faction="4" faction_story="110253049" story_goods="215808,3" />
+    <ItemSpec id="30051" faction="4" faction_story="110253050" story_goods="215808,5" />
+    <ItemSpec id="30052" faction="4" faction_story="110253051" story_goods="215808,3" />
+    <ItemSpec id="30053" faction="4" faction_story="110253052" story_goods="215808,3" />
+    <ItemSpec id="30054" faction="4" faction_story="110253053" story_goods="215808,4" />
+    <ItemSpec id="30055" faction="4" faction_story="110253054" story_goods="215808,4" />
+    <ItemSpec id="30056" faction="4" faction_story="110253055" story_goods="215808,4" />
+    <ItemSpec id="30057" faction="4" faction_story="110253056" story_goods="215808,5" />
+    <ItemSpec id="30058" faction="4" faction_story="110253057" story_goods="215808,5" />
+    <ItemSpec id="30059" faction="4" faction_story="110253058" story_goods="215808,5" />
+    <ItemSpec id="30060" faction="4" faction_story="110253059" story_goods="215808,6" />
+
+    </Group> 
+
+    <Group id="faction_info3">
+
+    <ItemSpec id="31001" faction="1" faction_icon="ZB_icon_misaiya" faction_back="ZB_bg_misaiya" faction_name="110095000" faction_desc="110040807" faction_idol="10090" faction_story="110255311" story_goods="215808,2" />
+    <ItemSpec id="31002" faction="1" faction_story="110255312" story_goods="215808,2" />
+    <ItemSpec id="31003" faction="1" faction_story="110255313" story_goods="215808,2" />
+    <ItemSpec id="31004" faction="1" faction_story="110255314" story_goods="215808,6" />
+    <ItemSpec id="31005" faction="1" faction_story="110255315" story_goods="215808,6" />
+    <ItemSpec id="31006" faction="1" faction_story="110255316" story_goods="215808,3" />
+    <ItemSpec id="31007" faction="1" faction_story="110255317" story_goods="215808,6" />
+    <ItemSpec id="31008" faction="1" faction_story="110255318" story_goods="215808,3" />
+    <ItemSpec id="31009" faction="1" faction_story="110255319" story_goods="215808,3" />
+    <ItemSpec id="31010" faction="1" faction_story="110255320" story_goods="215808,6" />
+    <ItemSpec id="31011" faction="1" faction_story="110255321" story_goods="215808,4" />
+    <ItemSpec id="31012" faction="1" faction_story="110255322" story_goods="215808,4" />
+    <ItemSpec id="31013" faction="1" faction_story="110255323" story_goods="215808,4" />
+    <ItemSpec id="31014" faction="1" faction_story="110255324" story_goods="215808,6" />
+    <ItemSpec id="31015" faction="1" faction_story="110255325" story_goods="215808,6" />
+    <ItemSpec id="31016" faction="2" faction_icon="ZB_icon_shamo" faction_back="ZB_bg_shamo" faction_name="110095001" faction_desc="110040808" faction_idol="10079" faction_story="110255326" story_goods="215808,2" />
+    <ItemSpec id="31017" faction="2" faction_story="110255327" story_goods="215808,6" />
+    <ItemSpec id="31018" faction="2" faction_story="110255328" story_goods="215808,2" />
+    <ItemSpec id="31019" faction="2" faction_story="110255329" story_goods="215808,6" />
+    <ItemSpec id="31020" faction="2" faction_story="110255330" story_goods="215808,2" />
+    <ItemSpec id="31021" faction="2" faction_story="110255331" story_goods="215808,3" />
+    <ItemSpec id="31022" faction="2" faction_story="110255332" story_goods="215808,3" />
+    <ItemSpec id="31023" faction="2" faction_story="110255333" story_goods="215808,5" />
+    <ItemSpec id="31024" faction="2" faction_story="110255334" story_goods="215808,3" />
+    <ItemSpec id="31025" faction="2" faction_story="110255335" story_goods="215808,4" />
+    <ItemSpec id="31026" faction="2" faction_story="110255336" story_goods="215808,4" />
+    <ItemSpec id="31027" faction="2" faction_story="110255337" story_goods="215808,4" />
+    <ItemSpec id="31028" faction="2" faction_story="110255338" story_goods="215808,5" />
+    <ItemSpec id="31029" faction="2" faction_story="110255339" story_goods="215808,5" />
+    <ItemSpec id="31030" faction="2" faction_story="110255340" story_goods="215808,6" />
+    <ItemSpec id="31031" faction="3" faction_icon="ZB_icon_ziyou" faction_back="ZB_bg_ziyou" faction_name="110095002" faction_desc="110040809" faction_idol="10082" faction_story="110255341" story_goods="215808,2" />
+    <ItemSpec id="31032" faction="3" faction_story="110255342" story_goods="215808,2" />
+    <ItemSpec id="31033" faction="3" faction_story="110255343" story_goods="215808,2" />
+    <ItemSpec id="31034" faction="3" faction_story="110255344" story_goods="215808,3" />
+    <ItemSpec id="31035" faction="3" faction_story="110255345" story_goods="215808,3" />
+    <ItemSpec id="31036" faction="3" faction_story="110255346" story_goods="215808,3" />
+    <ItemSpec id="31037" faction="3" faction_story="110255347" story_goods="215808,4" />
+    <ItemSpec id="31038" faction="3" faction_story="110255348" story_goods="215808,5" />
+    <ItemSpec id="31039" faction="3" faction_story="110255349" story_goods="215808,4" />
+    <ItemSpec id="31040" faction="3" faction_story="110255350" story_goods="215808,4" />
+    <ItemSpec id="31041" faction="3" faction_story="110255351" story_goods="215808,5" />
+    <ItemSpec id="31042" faction="3" faction_story="110255352" story_goods="215808,5" />
+    <ItemSpec id="31043" faction="3" faction_story="110255353" story_goods="215808,5" />
+    <ItemSpec id="31044" faction="3" faction_story="110255354" story_goods="215808,6" />
+    <ItemSpec id="31045" faction="3" faction_story="110255355" story_goods="215808,5" />
+    <ItemSpec id="31046" faction="4" faction_icon="ZB_icon_guyong" faction_back="ZB_bg_guyong" faction_name="110095003" faction_desc="110040810" faction_idol="10060" faction_story="110255356" story_goods="215808,2" />
+    <ItemSpec id="31047" faction="4" faction_story="110255357" story_goods="215808,2" />
+    <ItemSpec id="31048" faction="4" faction_story="110255358" story_goods="215808,6" />
+    <ItemSpec id="31049" faction="4" faction_story="110255359" story_goods="215808,2" />
+    <ItemSpec id="31050" faction="4" faction_story="110255360" story_goods="215808,3" />
+    <ItemSpec id="31051" faction="4" faction_story="110255361" story_goods="215808,5" />
+    <ItemSpec id="31052" faction="4" faction_story="110255362" story_goods="215808,3" />
+    <ItemSpec id="31053" faction="4" faction_story="110255363" story_goods="215808,3" />
+    <ItemSpec id="31054" faction="4" faction_story="110255364" story_goods="215808,4" />
+    <ItemSpec id="31055" faction="4" faction_story="110255365" story_goods="215808,4" />
+    <ItemSpec id="31056" faction="4" faction_story="110255366" story_goods="215808,4" />
+    <ItemSpec id="31057" faction="4" faction_story="110255367" story_goods="215808,5" />
+    <ItemSpec id="31058" faction="4" faction_story="110255368" story_goods="215808,5" />
+    <ItemSpec id="31059" faction="4" faction_story="110255369" story_goods="215808,5" />
+    <ItemSpec id="31060" faction="4" faction_story="110255370" story_goods="215808,6" />
+
+
+
+    </Group> 
+
+
+
+    <Group id="faction_info4">
+
+
+    <ItemSpec id="32001" faction="1" faction_icon="ZB_icon_misaiya" faction_back="ZB_bg_misaiya" faction_name="110095000" faction_desc="110040807" faction_idol="10090" faction_story="110255401" story_goods="215808,2" />
+    <ItemSpec id="32002" faction="1" faction_story="110255402" story_goods="215808,2" />
+    <ItemSpec id="32003" faction="1" faction_story="110255403" story_goods="215808,2" />
+    <ItemSpec id="32004" faction="1" faction_story="110255404" story_goods="215808,6" />
+    <ItemSpec id="32005" faction="1" faction_story="110255405" story_goods="215808,6" />
+    <ItemSpec id="32006" faction="1" faction_story="110255406" story_goods="215808,3" />
+    <ItemSpec id="32007" faction="1" faction_story="110255407" story_goods="215808,6" />
+    <ItemSpec id="32008" faction="1" faction_story="110255408" story_goods="215808,3" />
+    <ItemSpec id="32009" faction="1" faction_story="110255409" story_goods="215808,3" />
+    <ItemSpec id="32010" faction="1" faction_story="110255410" story_goods="215808,6" />
+    <ItemSpec id="32011" faction="1" faction_story="110255411" story_goods="215808,4" />
+    <ItemSpec id="32012" faction="1" faction_story="110255412" story_goods="215808,4" />
+    <ItemSpec id="32013" faction="1" faction_story="110255413" story_goods="215808,4" />
+    <ItemSpec id="32014" faction="1" faction_story="110255414" story_goods="215808,6" />
+    <ItemSpec id="32015" faction="1" faction_story="110255415" story_goods="215808,6" />
+    <ItemSpec id="32016" faction="2" faction_icon="ZB_icon_shamo" faction_back="ZB_bg_shamo" faction_name="110095001" faction_desc="110040808" faction_idol="10079" faction_story="110255416" story_goods="215808,2" />
+    <ItemSpec id="32017" faction="2" faction_story="110255417" story_goods="215808,6" />
+    <ItemSpec id="32018" faction="2" faction_story="110255418" story_goods="215808,2" />
+    <ItemSpec id="32019" faction="2" faction_story="110255419" story_goods="215808,6" />
+    <ItemSpec id="32020" faction="2" faction_story="110255420" story_goods="215808,2" />
+    <ItemSpec id="32021" faction="2" faction_story="110255421" story_goods="215808,3" />
+    <ItemSpec id="32022" faction="2" faction_story="110255422" story_goods="215808,3" />
+    <ItemSpec id="32023" faction="2" faction_story="110255423" story_goods="215808,5" />
+    <ItemSpec id="32024" faction="2" faction_story="110255424" story_goods="215808,3" />
+    <ItemSpec id="32025" faction="2" faction_story="110255425" story_goods="215808,4" />
+    <ItemSpec id="32026" faction="2" faction_story="110255426" story_goods="215808,4" />
+    <ItemSpec id="32027" faction="2" faction_story="110255427" story_goods="215808,4" />
+    <ItemSpec id="32028" faction="2" faction_story="110255428" story_goods="215808,5" />
+    <ItemSpec id="32029" faction="2" faction_story="110255429" story_goods="215808,5" />
+    <ItemSpec id="32030" faction="2" faction_story="110255430" story_goods="215808,6" />
+    <ItemSpec id="32031" faction="3" faction_icon="ZB_icon_ziyou" faction_back="ZB_bg_ziyou" faction_name="110095002" faction_desc="110040809" faction_idol="10082" faction_story="110255431" story_goods="215808,2" />
+    <ItemSpec id="32032" faction="3" faction_story="110255432" story_goods="215808,2" />
+    <ItemSpec id="32033" faction="3" faction_story="110255433" story_goods="215808,2" />
+    <ItemSpec id="32034" faction="3" faction_story="110255434" story_goods="215808,3" />
+    <ItemSpec id="32035" faction="3" faction_story="110255435" story_goods="215808,3" />
+    <ItemSpec id="32036" faction="3" faction_story="110255436" story_goods="215808,3" />
+    <ItemSpec id="32037" faction="3" faction_story="110255437" story_goods="215808,4" />
+    <ItemSpec id="32038" faction="3" faction_story="110255438" story_goods="215808,5" />
+    <ItemSpec id="32039" faction="3" faction_story="110255439" story_goods="215808,4" />
+    <ItemSpec id="32040" faction="3" faction_story="110255440" story_goods="215808,4" />
+    <ItemSpec id="32041" faction="3" faction_story="110255441" story_goods="215808,5" />
+    <ItemSpec id="32042" faction="3" faction_story="110255442" story_goods="215808,5" />
+    <ItemSpec id="32043" faction="3" faction_story="110255443" story_goods="215808,5" />
+    <ItemSpec id="32044" faction="3" faction_story="110255444" story_goods="215808,6" />
+    <ItemSpec id="32045" faction="3" faction_story="110255445" story_goods="215808,5" />
+    <ItemSpec id="32046" faction="4" faction_icon="ZB_icon_guyong" faction_back="ZB_bg_guyong" faction_name="110095003" faction_desc="110040810" faction_idol="10060" faction_story="110255446" story_goods="215808,2" />
+    <ItemSpec id="32047" faction="4" faction_story="110255447" story_goods="215808,2" />
+    <ItemSpec id="32048" faction="4" faction_story="110255448" story_goods="215808,6" />
+    <ItemSpec id="32049" faction="4" faction_story="110255449" story_goods="215808,2" />
+    <ItemSpec id="32050" faction="4" faction_story="110255450" story_goods="215808,3" />
+    <ItemSpec id="32051" faction="4" faction_story="110255451" story_goods="215808,5" />
+    <ItemSpec id="32052" faction="4" faction_story="110255452" story_goods="215808,3" />
+    <ItemSpec id="32053" faction="4" faction_story="110255453" story_goods="215808,3" />
+    <ItemSpec id="32054" faction="4" faction_story="110255454" story_goods="215808,4" />
+    <ItemSpec id="32055" faction="4" faction_story="110255455" story_goods="215808,4" />
+    <ItemSpec id="32056" faction="4" faction_story="110255456" story_goods="215808,4" />
+    <ItemSpec id="32057" faction="4" faction_story="110255457" story_goods="215808,5" />
+    <ItemSpec id="32058" faction="4" faction_story="110255458" story_goods="215808,5" />
+    <ItemSpec id="32059" faction="4" faction_story="110255459" story_goods="215808,5" />
+    <ItemSpec id="32060" faction="4" faction_story="110255460" story_goods="215808,6" />
+
+
+    </Group> 
+
+
+
+
+</tns:database>

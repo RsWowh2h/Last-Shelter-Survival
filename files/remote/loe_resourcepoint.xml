@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="loe_resourcepoint">
+    <ItemSpec id="1001" name="110020701" city_pic="AB_resourcePoint_04" des="110020751" zone="1" type="3" produce="100000"/>
+    <ItemSpec id="1002" name="110020702" city_pic="AB_resourcePoint_04" des="110020752" zone="2" type="3" produce="110000"/>
+    <ItemSpec id="1003" name="110020703" city_pic="AB_resourcePoint_04" des="110020753" zone="3" type="3" produce="120000"/>
+    <ItemSpec id="2001" name="110020704" city_pic="AB_resourcePoint_01" des="110020754" zone="1" type="0" produce="100000"/>
+    <ItemSpec id="2002" name="110020705" city_pic="AB_resourcePoint_01" des="110020755" zone="2" type="0" produce="110000"/>
+    <ItemSpec id="2003" name="110020706" city_pic="AB_resourcePoint_01" des="110020756" zone="3" type="0" produce="120000"/>
+    <ItemSpec id="3001" name="110020707" city_pic="AB_resourcePoint_03" des="110020757" zone="1" type="2" produce="75000"/>
+    <ItemSpec id="3002" name="110020708" city_pic="AB_resourcePoint_03" des="110020758" zone="2" type="2" produce="82500"/>
+    <ItemSpec id="3003" name="110020709" city_pic="AB_resourcePoint_03" des="110020759" zone="3" type="2" produce="90000"/>
+    <ItemSpec id="4001" name="110020710" city_pic="AB_resourcePoint_02" des="110020760" zone="1" type="1" produce="50000"/>
+    <ItemSpec id="4002" name="110020711" city_pic="AB_resourcePoint_02" des="110020761" zone="2" type="1" produce="55000"/>
+    <ItemSpec id="4003" name="110020712" city_pic="AB_resourcePoint_02" des="110020762" zone="3" type="1" produce="60000"/>
+    <ItemSpec id="5001" name="110257033" city_pic="spar" des="110257034" zone="1" type="226926" produce="1000" />
+    <ItemSpec id="5002" name="110257033" city_pic="spar" des="110257034" zone="2" type="226926" produce="1000" />
+    <ItemSpec id="5003" name="110257033" city_pic="spar" des="110257034" zone="3" type="226926" produce="1000" />
+    <ItemSpec id="5004" name="110257033" city_pic="spar" des="110257034" zone="4" type="226926" produce="1000" />
+    <ItemSpec id="5005" name="110257033" city_pic="spar" des="110257034" zone="5" type="226926" produce="1000" />
+    <ItemSpec id="5006" name="110257033" city_pic="spar" des="110257034" zone="6" type="226926" produce="1000" />
+    <ItemSpec id="5007" name="110257033" city_pic="spar" des="110257034" zone="7" type="226926" produce="1000" />
+    <ItemSpec id="5008" name="110257033" city_pic="spar" des="110257034" zone="8" type="226926" produce="1000" />
+    <ItemSpec id="5009" name="110257033" city_pic="spar" des="110257034" zone="9" type="226926" produce="1000" />
+    <ItemSpec id="5010" name="110257033" city_pic="spar" des="110257034" zone="10" type="226926" produce="1000" />
+    <ItemSpec id="5011" name="110257033" city_pic="spar" des="110257034" zone="11" type="226926" produce="1000" />
+    <ItemSpec id="5012" name="110257033" city_pic="spar" des="110257034" zone="12" type="226926" produce="1000" />
+    <ItemSpec id="5013" name="110257033" city_pic="spar" des="110257034" zone="13" type="226926" produce="1000" />
+    <ItemSpec id="5014" name="110257033" city_pic="spar" des="110257034" zone="14" type="226926" produce="1000" />
+  </Group>
+</tns:database>

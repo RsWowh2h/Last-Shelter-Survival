@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="allstarnews">
+	<!--箱神，赛事专区新闻：pos类型，sort排序，图片资源为热更资源，连接对应国内，国外及分别标题-->
+	<!--箱神，赛事专区新闻：上标题系列-->
+	<ItemSpec id="100001"  start_time="2024/05/01 00:00:00" end_time="2024/12/31 23:59:59" is_remind="0" position="1" sort="1" image="2024ASCbanner1.png" lang_list="https://weibo.com/7202969003/OfzJd6ipv"
+	lang_list_out="https://discord.gg/5A4KwsNZsM" title="110250895|110250895" />
+	
+	<!--箱神，赛事专区新闻：中渠道图标系列，贴吧，微博，discord，b站，推特，youtub等；注意连接里的&要改为&amp;不然报错-->	
+	<ItemSpec id="200001"  start_time="2024/05/01 00:00:00" end_time="2024/12/31 23:59:59" is_remind="0" position="2" sort="1" image="saishiqudao1.png" lang_list="https://tieba.baidu.com/f?ie=utf-8&amp;kw=%E5%AE%88%E6%9C%9B%E9%BB%8E%E6%98%8E&amp;fr=search"
+	lang_list_out="https://tieba.baidu.com/f?ie=utf-8&amp;kw=%E5%AE%88%E6%9C%9B%E9%BB%8E%E6%98%8E&amp;fr=search" title="110030537|110030537" />
+		
+	<ItemSpec id="200002"  start_time="2024/05/01 00:00:00" end_time="2024/12/31 23:59:59" is_remind="0" position="2" sort="2" image="saishiqudao2.png" lang_list="https://weibo.com/u/7202969003" 
+	lang_list_out="https://weibo.com/u/7202969003" title="79010447|79010447" />
+			
+	<ItemSpec id="200003"  start_time="2024/05/01 00:00:00" end_time="2024/12/31 23:59:59" is_remind="0" position="2" sort="3" image="saishiqudao3.png" lang_list="https://discord.gg/5A4KwsNZsM" 
+	lang_list_out="https://discord.gg/5A4KwsNZsM" title="110030540|110030540" />
+
+	<!--箱神，赛事专区新闻：下标题系列-->	
+	<ItemSpec id="300001"  start_time="2024/05/01 00:00:00" end_time="2024/12/31 23:59:59" is_remind="0" position="3" sort="1" image="2024ASCnews1.png" lang_list="https://weibo.com/7202969003/OguA5iJxC" 
+	lang_list_out="https://discord.gg/5A4KwsNZsM" title="110250896|110250896" />
+		
+	<ItemSpec id="300002"  start_time="2024/05/01 00:00:00" end_time="2024/12/31 23:59:59" is_remind="0" position="3" sort="2" image="2024ASCnews2.png" lang_list="https://weibo.com/7202969003/Ogbs4dBjG" 
+	lang_list_out="https://discord.gg/5A4KwsNZsM" title="110250897|110250897" />
+			
+	<ItemSpec id="300003"  start_time="2024/05/01 00:00:00" end_time="2024/12/31 23:59:59" is_remind="0" position="3" sort="3" image="2024ASCnews3.png" lang_list="https://weibo.com/7202969003/Oe3eyxGLT" 
+	lang_list_out="https://discord.gg/5A4KwsNZsM" title="110250898|110250898" />
+	
+
+
+    </Group> 
+
+</tns:database>

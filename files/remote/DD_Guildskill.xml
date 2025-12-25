@@ -1,0 +1,29 @@
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="DD_Guildskill">
+    <ItemSpec id="10000" group="1000" type="4" name="110210000" description="110210005" icon="guildSkill10000" effect="753|100;10113|-100" pre_time="0" duration="60" cd_time="4320" frequency="3" open_level="20" />
+    <ItemSpec id="10001" group="1000" type="1" name="110210001" description="110210006" icon="guildSkill10001" effect="939|50" pre_time="120" duration="180" cd_time="10080" frequency="2" open_level="30" />
+    <ItemSpec id="10002" group="1000" type="2" name="110210002" description="110210007" icon="guildSkill10002" effect="10110|20" pre_time="0" duration="0" cd_time="10080" frequency="3" open_level="35|45|50" />
+    <ItemSpec id="10003" group="1001" type="1" name="110210003" description="110210008" icon="guildSkill10003" effect="10111|10;10113|-100" pre_time="360" duration="240" cd_time="10080" frequency="2" open_level="40" />
+    <ItemSpec id="10004" group="1000" type="3" name="110210004" description="110210009" icon="guildSkill10004" effect="10112|1" pre_time="0" duration="0" cd_time="0" frequency="1" open_level="50" />
+
+    <ItemSpec id="10005" group="1002" type="2" name="110258353" description="110258389" icon="Skill_icon_jianzhudashi" effect="11051|100;11052|100" pre_time="0" duration="120" cd_time="4320" frequency="3" open_level="15" />
+    <ItemSpec id="10006" group="1002" type="2" name="110258356" description="110258360" icon="Skill_icon_jianzhuhudun" effect="11057|8" pre_time="0" duration="0" cd_time="1440" frequency="25" open_level="30" />
+    <ItemSpec id="10007" group="1002" type="2" name="110258357" description="110258361" icon="Skill_icon_gongchengjingtong" effect="11056|0" pre_time="0" duration="60" cd_time="4320" frequency="3" open_level="45" />
+    <ItemSpec id="10008" group="1002" type="2" name="110258358" description="110258362" icon="Skill_icon_kaituozhe" effect="11053|100" pre_time="0" duration="1440" cd_time="2880" frequency="5" open_level="5" />
+    <ItemSpec id="10009" group="1002" type="2" name="110258359" description="110258363" icon="guildSkill10000" effect="23|100" pre_time="0" duration="60" cd_time="4320" frequency="3" open_level="25" />
+
+    <ItemSpec id="10010" group="1000" type="4" name="1104565003" description="1104565001" icon="guildSkill10010" pre_time="0" duration="60" cd_time="4320" frequency="1" open_level="20" map_img="mapGuildSkill10010" />
+    <ItemSpec id="10011" group="1000" type="4" name="1104565004" description="1104565002" icon="guildSkill10011" pre_time="0" duration="0" cd_time="1" frequency="4" open_level="20" />
+    <ItemSpec id="10012" group="1000" type="6" name="1104565007" description="1104565008" icon="guildSkill10012" pre_time="0" duration="0" cd_time="10080" frequency="1" open_level="10" />
+
+    <ItemSpec id="100101" group="1" type="5" name="112151601" description="112151651" description_para="1,30" icon="icon_heroseason_skill_1" effect="101019|1" pre_time="0" duration="30" cd_time="4320" frequency="9999" open_level="1" />
+    <ItemSpec id="100102" group="1" type="5" name="112151602" description="112151652" description_para="1,30" icon="icon_heroseason_skill_2" effect="101020|1" pre_time="0" duration="30" cd_time="4320" frequency="9999" open_level="1" />
+    <ItemSpec id="100103" group="1" type="5" name="112151603" description="112151653" description_para="30,900" icon="icon_heroseason_skill_3" effect="101021|30" pre_time="0" duration="30" cd_time="4320" frequency="9999" open_level="1" />
+    <ItemSpec id="100104" group="1" type="5" name="112151604" description="112151654" description_para="1,30" icon="icon_heroseason_skill_4" effect="101022|1" pre_time="0" duration="30" cd_time="4320" frequency="9999" open_level="1" />
+    <ItemSpec id="100105" group="1" type="5" name="112151605" description="112151655" description_para="10,200" icon="icon_heroseason_skill_5" effect="101023|10" pre_time="0" duration="15" cd_time="4320" frequency="9999" open_level="1" />
+
+
+
+		</Group>
+
+</tns:database>

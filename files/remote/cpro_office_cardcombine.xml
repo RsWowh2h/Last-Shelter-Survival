@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="cpro_office_cardcombine">
+    <ItemSpec id="7001" card="59006;50190;50280" pro_kind="8" effect_number="10032" effect_value="+5%" />
+    <ItemSpec id="7002" card="59007;50160;50210" pro_kind="8" effect_number="10033" effect_value="-8%" />
+    <ItemSpec id="7003" card="59009;50090;50380" pro_kind="8" effect_number="10034" effect_value="+8%" />
+    <ItemSpec id="7004" card="59008;50430;50020;50440" pro_kind="8" effect_number="10032;10033" effect_value="+15%;-15%" />
+    <ItemSpec id="7005" card="59010;50390;50380;50490" pro_kind="8" effect_number="10032;10034" effect_value="+15%;+15%" />
+    <ItemSpec id="7006" card="59004;50530;50550;50590" pro_kind="8" effect_number="10034" effect_value="+25%" />
+    <ItemSpec id="7007" card="59002;50080;50680;50690;50290" pro_kind="8" effect_number="10032;10033;10034" effect_value="+25%;-5%;+5%" />
+    <ItemSpec id="7008" card="59001;50010;50480;50580;50690" pro_kind="8" effect_number="10032;10034" effect_value="+35%;+10%" />
+    <ItemSpec id="7009" card="59015;51160;51240" pro_kind="3" effect_number="10032" effect_value="+5%" />
+    <ItemSpec id="7010" card="59016;51140;51230" pro_kind="3" effect_number="10033" effect_value="-8%" />
+    <ItemSpec id="7011" card="59018;51070;51320" pro_kind="3" effect_number="10034" effect_value="+8%" />
+    <ItemSpec id="7012" card="59017;51380;51010;51420" pro_kind="3" effect_number="10032;10033" effect_value="+15%;-15%" />
+    <ItemSpec id="7013" card="59019;51370;51320;51460" pro_kind="3" effect_number="10032;10034" effect_value="+15%;+15%" />
+    <ItemSpec id="7014" card="59004;51470;51530;51560" pro_kind="3" effect_number="10034" effect_value="+25%" />
+    <ItemSpec id="7015" card="59002;51060;51580;51700;51300" pro_kind="3" effect_number="10032;10033;10034" effect_value="+25%;-5%;+5%" />
+    <ItemSpec id="7016" card="59001;51000;51430;51540;51700" pro_kind="3" effect_number="10032;10034" effect_value="+35%;+10%" />
+    <ItemSpec id="7017" card="59024;52160;52230" pro_kind="2" effect_number="10032" effect_value="+5%" />
+    <ItemSpec id="7018" card="59025;52140;52220" pro_kind="2" effect_number="10033" effect_value="-8%" />
+    <ItemSpec id="7019" card="59027;52070;52300" pro_kind="2" effect_number="10034" effect_value="+8%" />
+    <ItemSpec id="7020" card="59026;52360;52010;52400" pro_kind="2" effect_number="10032;10033" effect_value="+15%;-15%" />
+    <ItemSpec id="7021" card="59028;52350;52300;52440" pro_kind="2" effect_number="10032;10034" effect_value="+15%;+15%" />
+    <ItemSpec id="7022" card="59004;52450;52500;52550" pro_kind="2" effect_number="10034" effect_value="+25%" />
+    <ItemSpec id="7023" card="59002;52060;52570;52720;52280" pro_kind="2" effect_number="10032;10033;10034" effect_value="+25%;-5%;+5%" />
+    <ItemSpec id="7024" card="59001;52000;52410;52510;52720" pro_kind="2" effect_number="10032;10034" effect_value="+35%;+10%" />
+    <ItemSpec id="7025" card="59033;53150;53210" pro_kind="6" effect_number="10032" effect_value="+5%" />
+    <ItemSpec id="7026" card="59034;53130;53200" pro_kind="6" effect_number="10033" effect_value="-8%" />
+    <ItemSpec id="7027" card="59036;53060;53290" pro_kind="6" effect_number="10034" effect_value="+8%" />
+    <ItemSpec id="7028" card="59035;53350;53010;53390" pro_kind="6" effect_number="10032;10033" effect_value="+15%;-15%" />
+    <ItemSpec id="7029" card="59037;53340;53290;53440" pro_kind="6" effect_number="10032;10034" effect_value="+15%;+15%" />
+    <ItemSpec id="7030" card="59004;53450;53500;53540" pro_kind="6" effect_number="10034" effect_value="+25%" />
+    <ItemSpec id="7031" card="59002;53050;53560;53680;53270" pro_kind="6" effect_number="10032;10033;10034" effect_value="+25%;-5%;+5%" />
+    <ItemSpec id="7032" card="59001;53000;53400;53510;53680" pro_kind="6" effect_number="10032;10034" effect_value="+35%;+10%" />
+</Group>
+</tns:database>

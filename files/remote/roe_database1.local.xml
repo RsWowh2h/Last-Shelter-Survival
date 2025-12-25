@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <Group id="quest">
+     <!--章节任务-->	
+    <ItemSpec id="2300101" ROE_NEW="1" name="90902238" type="1" type2="0" para2="3" Order="1" icon1="pic433000_2_free" gotype="2" go="433000" reward="581001" />
+    <ItemSpec id="2300102" ROE_NEW="1" name="83200256" type="1" type2="8" para2="2" Order="2" icon1="pic433000_2_free" gotype="5" go="7" gobuild="433000" reward="581002" />
+    <ItemSpec id="2300103" ROE_NEW="1" name="90902238" type="1" type2="0" para2="4" Order="3" icon1="pic433000_2_free" gotype="2" go="433000" reward="581003" />
+    <ItemSpec id="2300104" ROE_NEW="1" name="90902238" type="1" type2="0" para2="5" Order="4" icon1="pic433000_2_free" gotype="2" go="433000" reward="581004" />
+    <ItemSpec id="2300201" ROE_NEW="1" name="90902239" type="1" type2="0" para2="2" Order="7" icon1="pic434000_2_free" gotype="2" go="434000" reward="581005" />
+    <ItemSpec id="2300202" ROE_NEW="1" name="90902239" type="1" type2="0" para2="3" Order="8" icon1="pic434000_2_free" gotype="2" go="434000" reward="581006" />
+    <ItemSpec id="2300203" ROE_NEW="1" name="90902239" type="1" type2="0" para2="4" Order="9" icon1="pic434000_2_free" gotype="2" go="434000" reward="581007" />
+    <ItemSpec id="2300204" ROE_NEW="1" name="90902239" type="1" type2="0" para2="5" Order="10" icon1="pic434000_2_free" gotype="2" go="434000" reward="581008" />
+    <ItemSpec id="2300205" ROE_NEW="1" name="83400061" type="1" type2="8" para2="2" Order="11" icon1="pic434000_2_free" gotype="5" go="8" gobuild="434000" reward="581009" />
+    <ItemSpec id="2300301" ROE_NEW="1" name="83401141" type="1" type2="0" para2="2" Order="5" icon1="pic444000_2_free" gotype="2" go="444000" reward="581010" />
+    <ItemSpec id="2300302" ROE_NEW="1" name="83401159" type="1" type2="0" para2="2" Order="6" icon1="pic431000_2_free" gotype="2" go="431000" reward="581011" />
+    <ItemSpec id="2300303" ROE_NEW="1" name="83401141" type="1" type2="0" para2="3" Order="12" icon1="pic444000_2_free" gotype="2" go="444000" reward="581012" />
+    <ItemSpec id="2300304" ROE_NEW="1" name="83401159" type="1" type2="0" para2="3" Order="13" icon1="pic431000_2_free" gotype="2" go="431000" reward="581013" />
+    <ItemSpec id="2300401" ROE_NEW="1" name="90902240" type="1" type2="1" para2="1" Order="14" icon1="quest_College_icon1" gotype="8" go="901200" reward="581014" />
+    <ItemSpec id="2300402" ROE_NEW="1" name="83401418" type="1" type2="1" para2="1" Order="15" icon1="quest_College_icon1" gotype="8" go="901400" reward="581015" />
+    <ItemSpec id="2300403" ROE_NEW="1" name="90902241" type="1" type2="1" para2="1" Order="16" icon1="quest_College_icon1" gotype="8" go="901100" reward="581016" />
+    <ItemSpec id="2300404" ROE_NEW="1" name="90902242" type="1" type2="1" para2="1" Order="17" icon1="quest_College_icon1" gotype="8" go="901300" reward="581017" />
+    <ItemSpec id="2300405" ROE_NEW="1" name="90902243" type="1" type2="1" para2="1" Order="18" icon1="quest_College_icon1" gotype="8" go="901500" reward="581018" />
+    <ItemSpec id="2300601" ROE_NEW="1" name="90902244" type="1" type2="0" para2="1" Order="19" icon1="pic414000_2_free" gotype="5" go="5" gobuild="414000" reward="581019" />
+    <ItemSpec id="2300602" ROE_NEW="1" name="2000010" type="1" type2="0" para2="2" Order="25" icon1="pic414000_2_free" gotype="2" go="414000" reward="581020" />
+    <ItemSpec id="2300603" ROE_NEW="1" name="2000010" type="1" type2="0" para2="3" Order="26" icon1="pic414000_2_free" gotype="2" go="414000" reward="581021" />
+    <ItemSpec id="2300604" ROE_NEW="1" name="90902244" type="1" type2="8" para2="2" Order="23" icon1="pic414000_2_free" gotype="5" go="5" gobuild="414000" reward="581022" />
+    <ItemSpec id="2300701" ROE_NEW="1" name="2000012" type="1" type2="0" para2="1" Order="26" icon1="pic412000_2_free" gotype="5" go="6" gobuild="412000" reward="581023" />
+    <ItemSpec id="2300702" ROE_NEW="1" name="2000014" type="1" type2="0" para2="2" Order="27" icon1="pic412000_2_free" gotype="2" go="412000" reward="581024" />
+    <ItemSpec id="2300703" ROE_NEW="1" name="2000014" type="1" type2="0" para2="3" Order="28" icon1="pic412000_2_free" gotype="2" go="412000" reward="581025" />
+    <ItemSpec id="2300704" ROE_NEW="1" name="2000012" type="1" type2="8" para2="2" Order="24" icon1="pic412000_2_free" gotype="5" go="6" gobuild="412000" reward="581026" />
+    <ItemSpec id="2300801" ROE_NEW="1" name="2000004" type="1" type2="8" para2="2" Order="20" icon1="pic413000_2_free" gotype="5" go="3" gobuild="413000" reward="581027" />
+    <ItemSpec id="2300802" ROE_NEW="1" name="2000000" type="1" type2="8" para2="2" Order="21" icon1="pic415000_2_free" gotype="5" go="1" gobuild="415000" reward="581028" />
+    <ItemSpec id="2300803" ROE_NEW="1" name="83200260" type="1" type2="8" para2="2" Order="22" icon1="pic432000_2_free" gotype="5" go="2" gobuild="432000" reward="581029" />
+    <ItemSpec id="2300804" ROE_NEW="1" name="2000060" type="1" type2="0" para2="1" Order="29" icon1="pic410000_2_free" gotype="5" go="12" gobuild="410000" reward="581030" />
+     <!--章节任务-->
+    <ItemSpec id="2500412" name="83401194" target="83401194" type="1" type2="59" para2="4" />        
+    <ItemSpec id="2500411" para2="350" />
+
+	<!--帝国庆典登录任务换奖励-->
+    <ItemSpec id="101001" reward="580003" />
+    <ItemSpec id="101002" reward="580004" />
+    <ItemSpec id="101003" reward="580005" />
+    <ItemSpec id="101004" reward="580006" />
+    <ItemSpec id="101005" reward="580009" />
+
+    <!--ROE-S1赛季招募券累消-->
+    <ItemSpec id="880001" ROE_NEW="1" name="83401367" type="5" type2="63" para2="1" Order="1" gonot="1" reward="580601" />
+    <ItemSpec id="880002" ROE_NEW="1" name="90902220" type="5" type2="63" para2="3" Order="2" gonot="1" reward="580602" />
+    <ItemSpec id="880003" ROE_NEW="1" name="90902220" type="5" type2="63" para2="8" Order="3" gonot="1" reward="580603" />
+    <ItemSpec id="880004" ROE_NEW="1" name="90902220" type="5" type2="63" para2="15" Order="4" gonot="1" reward="580604" />
+    <ItemSpec id="880005" ROE_NEW="1" name="90902220" type="5" type2="63" para2="30" Order="5" gonot="1" reward="580605" />
+    <ItemSpec id="880006" ROE_NEW="1" name="90902220" type="5" type2="63" para2="70" Order="6" gonot="1" reward="580606" />
+    <ItemSpec id="880007" ROE_NEW="1" name="90902220" type="5" type2="63" para2="150" Order="7" gonot="1" reward="580607" />
+    <ItemSpec id="880008" ROE_NEW="1" name="90902220" type="5" type2="63" para2="300" Order="8" gonot="1" reward="580608" />
+    <ItemSpec id="880009" ROE_NEW="1" name="90902220" type="5" type2="63" para2="600" Order="9" gonot="1" reward="580609" />
+    <!--ROE-S2赛季招募券累消-->
+    <ItemSpec id="880011" ROE_NEW="1" name="83401367" type="5" type2="63" para2="1" Order="1" gonot="1" reward="580611" />
+    <ItemSpec id="880012" ROE_NEW="1" name="90902221" type="5" type2="63" para2="3" Order="2" gonot="1" reward="580612" />
+    <ItemSpec id="880013" ROE_NEW="1" name="90902221" type="5" type2="63" para2="8" Order="3" gonot="1" reward="580613" />
+    <ItemSpec id="880014" ROE_NEW="1" name="90902221" type="5" type2="63" para2="15" Order="4" gonot="1" reward="580614" />
+    <ItemSpec id="880015" ROE_NEW="1" name="90902221" type="5" type2="63" para2="30" Order="5" gonot="1" reward="580615" />
+    <ItemSpec id="880016" ROE_NEW="1" name="90902221" type="5" type2="63" para2="70" Order="6" gonot="1" reward="580616" />
+    <ItemSpec id="880017" ROE_NEW="1" name="90902221" type="5" type2="63" para2="150" Order="7" gonot="1" reward="580617" />
+    <ItemSpec id="880018" ROE_NEW="1" name="90902221" type="5" type2="63" para2="300" Order="8" gonot="1" reward="580618" />
+    <ItemSpec id="880019" ROE_NEW="1" name="90902221" type="5" type2="63" para2="600" Order="9" gonot="1" reward="580619" />
+    <!--ROE-超级招募券累消-->
+    <ItemSpec id="880021" ROE_NEW="1" name="91015241" type="5" type2="63" para2="2" Order="1" gonot="1" reward="580621" />
+    <ItemSpec id="880022" ROE_NEW="1" name="91015241" type="5" type2="63" para2="6" Order="1" gonot="1" reward="580622" />
+    <ItemSpec id="880023" ROE_NEW="1" name="91015241" type="5" type2="63" para2="12" Order="2" gonot="1" reward="580623" />
+    <ItemSpec id="880024" ROE_NEW="1" name="91015241" type="5" type2="63" para2="20" Order="3" gonot="1" reward="580624" />
+    <ItemSpec id="880025" ROE_NEW="1" name="91015241" type="5" type2="63" para2="40" Order="4" gonot="1" reward="580625" />
+    <ItemSpec id="880026" ROE_NEW="1" name="91015241" type="5" type2="63" para2="80" Order="5" gonot="1" reward="580626" />
+    <ItemSpec id="880027" ROE_NEW="1" name="91015241" type="5" type2="63" para2="150" Order="6" gonot="1" reward="580627" />
+    <ItemSpec id="880028" ROE_NEW="1" name="91015241" type="5" type2="63" para2="300" Order="7" gonot="1" reward="580628" />
+    <ItemSpec id="880029" ROE_NEW="1" name="91015241" type="5" type2="63" para2="600" Order="8" gonot="1" reward="580629" />
+	<!--ROE-超级招募券累消-->
+    <ItemSpec id="880101" ROE_NEW="1" name="90551038" type="5" type2="63" para2="2" Order="1" gonot="1" reward="580621" />
+    <ItemSpec id="880102" ROE_NEW="1" name="90551038" type="5" type2="63" para2="6" Order="1" gonot="1" reward="580622" />
+    <ItemSpec id="880103" ROE_NEW="1" name="90551038" type="5" type2="63" para2="12" Order="2" gonot="1" reward="580623" />
+    <ItemSpec id="880104" ROE_NEW="1" name="90551038" type="5" type2="63" para2="20" Order="3" gonot="1" reward="580624" />
+    <ItemSpec id="880105" ROE_NEW="1" name="90551038" type="5" type2="63" para2="40" Order="4" gonot="1" reward="580625" />
+    <ItemSpec id="880106" ROE_NEW="1" name="90551038" type="5" type2="63" para2="80" Order="5" gonot="1" reward="580626" />
+    <ItemSpec id="880107" ROE_NEW="1" name="90551038" type="5" type2="63" para2="150" Order="6" gonot="1" reward="580627" />
+    <ItemSpec id="880108" ROE_NEW="1" name="90551038" type="5" type2="63" para2="300" Order="7" gonot="1" reward="580628" />
+    <ItemSpec id="880109" ROE_NEW="1" name="90551038" type="5" type2="63" para2="600" Order="8" gonot="1" reward="580629" />
+	<!--ROE-S1赛季招募券累消-->
+    <ItemSpec id="880111" ROE_NEW="1" name="83401367" type="5" type2="63" para2="1" Order="1" gonot="1" reward="580601" />
+    <ItemSpec id="880112" ROE_NEW="1" name="90902220" type="5" type2="63" para2="3" Order="2" gonot="1" reward="580602" />
+    <ItemSpec id="880113" ROE_NEW="1" name="90902220" type="5" type2="63" para2="8" Order="3" gonot="1" reward="580603" />
+    <ItemSpec id="880114" ROE_NEW="1" name="90902220" type="5" type2="63" para2="15" Order="4" gonot="1" reward="580604" />
+    <ItemSpec id="880115" ROE_NEW="1" name="90902220" type="5" type2="63" para2="30" Order="5" gonot="1" reward="580605" />
+    <ItemSpec id="880116" ROE_NEW="1" name="90902220" type="5" type2="63" para2="70" Order="6" gonot="1" reward="580606" />
+    <ItemSpec id="880117" ROE_NEW="1" name="90902220" type="5" type2="63" para2="150" Order="7" gonot="1" reward="580607" />
+    <ItemSpec id="880118" ROE_NEW="1" name="90902220" type="5" type2="63" para2="300" Order="8" gonot="1" reward="580608" />
+    <ItemSpec id="880119" ROE_NEW="1" name="90902220" type="5" type2="63" para2="600" Order="9" gonot="1" reward="580609" />
+	<!--ROE-S2赛季招募券累消-->
+    <ItemSpec id="880121" ROE_NEW="1" name="83401367" type="5" type2="63" para2="1" Order="1" gonot="1" reward="580611" />
+    <ItemSpec id="880122" ROE_NEW="1" name="90902221" type="5" type2="63" para2="3" Order="2" gonot="1" reward="580612" />
+    <ItemSpec id="880123" ROE_NEW="1" name="90902221" type="5" type2="63" para2="8" Order="3" gonot="1" reward="580613" />
+    <ItemSpec id="880124" ROE_NEW="1" name="90902221" type="5" type2="63" para2="15" Order="4" gonot="1" reward="580614" />
+    <ItemSpec id="880125" ROE_NEW="1" name="90902221" type="5" type2="63" para2="30" Order="5" gonot="1" reward="580615" />
+    <ItemSpec id="880126" ROE_NEW="1" name="90902221" type="5" type2="63" para2="70" Order="6" gonot="1" reward="580616" />
+    <ItemSpec id="880127" ROE_NEW="1" name="90902221" type="5" type2="63" para2="150" Order="7" gonot="1" reward="580617" />
+    <ItemSpec id="880128" ROE_NEW="1" name="90902221" type="5" type2="63" para2="300" Order="8" gonot="1" reward="580618" />
+    <ItemSpec id="880129" ROE_NEW="1" name="90902221" type="5" type2="63" para2="600" Order="9" gonot="1" reward="580619" />
+	<!--ROE-S3赛季招募券累消-->
+    <ItemSpec id="880131" ROE_NEW="1" name="83401367" type="5" type2="63" para2="1" Order="1" gonot="1" reward="580631" />
+    <ItemSpec id="880132" ROE_NEW="1" name="91015434" type="5" type2="63" para2="3" Order="2" gonot="1" reward="580632" />
+    <ItemSpec id="880133" ROE_NEW="1" name="91015434" type="5" type2="63" para2="8" Order="3" gonot="1" reward="580633" />
+    <ItemSpec id="880134" ROE_NEW="1" name="91015434" type="5" type2="63" para2="15" Order="4" gonot="1" reward="580634" />
+    <ItemSpec id="880135" ROE_NEW="1" name="91015434" type="5" type2="63" para2="30" Order="5" gonot="1" reward="580635" />
+    <ItemSpec id="880136" ROE_NEW="1" name="91015434" type="5" type2="63" para2="70" Order="6" gonot="1" reward="580636" />
+    <ItemSpec id="880137" ROE_NEW="1" name="91015434" type="5" type2="63" para2="150" Order="7" gonot="1" reward="580637" />
+    <ItemSpec id="880138" ROE_NEW="1" name="91015434" type="5" type2="63" para2="300" Order="8" gonot="1" reward="580638" />
+    <ItemSpec id="880139" ROE_NEW="1" name="91015434" type="5" type2="63" para2="600" Order="9" gonot="1" reward="580639" />
+	<!--ROE-S4赛季招募券累消-->
+    <ItemSpec id="880141" ROE_NEW="1" name="83401367" type="5" type2="63" para2="1" Order="1" gonot="1" reward="580641" />
+    <ItemSpec id="880142" ROE_NEW="1" name="91015435" type="5" type2="63" para2="3" Order="2" gonot="1" reward="580642" />
+    <ItemSpec id="880143" ROE_NEW="1" name="91015435" type="5" type2="63" para2="8" Order="3" gonot="1" reward="580643" />
+    <ItemSpec id="880144" ROE_NEW="1" name="91015435" type="5" type2="63" para2="15" Order="4" gonot="1" reward="580644" />
+    <ItemSpec id="880145" ROE_NEW="1" name="91015435" type="5" type2="63" para2="30" Order="5" gonot="1" reward="580645" />
+    <ItemSpec id="880146" ROE_NEW="1" name="91015435" type="5" type2="63" para2="70" Order="6" gonot="1" reward="580646" />
+    <ItemSpec id="880147" ROE_NEW="1" name="91015435" type="5" type2="63" para2="150" Order="7" gonot="1" reward="580647" />
+    <ItemSpec id="880148" ROE_NEW="1" name="91015435" type="5" type2="63" para2="300" Order="8" gonot="1" reward="580648" />
+    <ItemSpec id="880149" ROE_NEW="1" name="91015435" type="5" type2="63" para2="600" Order="9" gonot="1" reward="580649" />
+<!--开服第三周帝国挑战-->
+    <ItemSpec id="881001" ROE_NEW="1" name="133125" type="4" type2="108" para2="5" gonot="1" reward="583101" />
+    <ItemSpec id="881002" ROE_NEW="1" name="133125" type="4" type2="108" para2="4" gonot="1" reward="583102" />
+    <ItemSpec id="881003" ROE_NEW="1" name="133125" type="4" type2="108" para2="3" gonot="1" reward="583103" />
+    <ItemSpec id="881004" ROE_NEW="1" name="133143" type="4" type2="14" para2="5" gotype="8" reward="583104" />
+    <ItemSpec id="881005" ROE_NEW="1" name="133143" type="4" type2="14" para2="4" gotype="8" reward="583105" />
+    <ItemSpec id="881006" ROE_NEW="1" name="133143" type="4" type2="14" para2="3" gotype="8" reward="583106" />
+    <ItemSpec id="881007" ROE_NEW="1" name="133202" type="4" type2="63" para2="3" gotype="14" reward="583107" />
+    <ItemSpec id="881008" ROE_NEW="1" name="133201" type="4" type2="63" para2="2" gotype="14" reward="583108" />
+    <ItemSpec id="881009" ROE_NEW="1" name="133200" type="4" type2="63" para2="5" gotype="14" reward="583109" />
+    <ItemSpec id="881010" ROE_NEW="1" name="133146" type="4" type2="26" para2="25" gotype="22" reward="583110" />
+    <ItemSpec id="881011" ROE_NEW="1" name="133146" type="4" type2="26" para2="15" gotype="22" reward="583111" />
+    <ItemSpec id="881012" ROE_NEW="1" name="133146" type="4" type2="26" para2="6" gotype="22" reward="583112" />
+    <ItemSpec id="881013" ROE_NEW="1" name="83401162" type="4" type2="23" para2="500000" gotype="22" reward="583113" />
+    <ItemSpec id="881014" ROE_NEW="1" name="83401162" type="4" type2="23" para2="250000" gotype="22" reward="583114" />
+    <ItemSpec id="881015" ROE_NEW="1" name="83401162" type="4" type2="23" para2="150000" gotype="22" reward="583115" />
+    <ItemSpec id="881016" ROE_NEW="1" name="800086" type="4" type2="100" para2="5" gotype="26" reward="583116" />
+    <ItemSpec id="881017" ROE_NEW="1" name="90500189" type="4" type2="21" para2="2000" gotype="2" go="423000" new_go="10000;423000" reward="583117" />
+    <ItemSpec id="881018" ROE_NEW="1" name="90500189" type="4" type2="21" para2="1500" gotype="2" go="423000" new_go="10000;423000" reward="583118" />
+    <ItemSpec id="881019" ROE_NEW="1" name="90500189" type="4" type2="21" para2="1000" gotype="2" go="423000" new_go="10000;423000" reward="583119" />
+    <ItemSpec id="881020" ROE_NEW="1" name="133131" type="4" type2="55" para2="35" gotype="9" reward="583120" />
+    <ItemSpec id="881021" ROE_NEW="1" name="83401365" type="4" type2="68" para2="1000" gotype="27" reward="583121" />
+    <ItemSpec id="881022" ROE_NEW="1" name="83401365" type="4" type2="68" para2="500" gotype="27" reward="583122" />
+    <ItemSpec id="881023" ROE_NEW="1" name="83401365" type="4" type2="68" para2="300" gotype="27" reward="583123" />
+    <ItemSpec id="881024" ROE_NEW="1" name="90552018" type="4" type2="111" para2="10" gotype="13" reward="583124" />
+    <ItemSpec id="881025" ROE_NEW="1" name="90552018" type="4" type2="111" para2="6" gotype="13" reward="583125" />
+    <ItemSpec id="881026" ROE_NEW="1" name="90552018" type="4" type2="111" para2="3" gotype="13" reward="583126" />
+    <ItemSpec id="881027" ROE_NEW="1" name="800019" type="4" type2="89" para2="600" gonot="1" reward="583127" />
+    <ItemSpec id="881028" ROE_NEW="1" name="800019" type="4" type2="89" para2="350" gonot="1" reward="583128" />
+    <ItemSpec id="881029" ROE_NEW="1" name="800019" type="4" type2="89" para2="240" gonot="1" reward="583129" />
+
+	
+    </Group>
+	
+	
+	<Group id="goods">
+	
+    <ItemSpec id="200072" name="88000874" description="88000882" />
+    <ItemSpec id="200073" name="91015243" description="91015244" />
+	
+    <ItemSpec id="200634" price="0" />
+    <ItemSpec id="200635" price="0" />
+    <ItemSpec id="200637" price="0" />
+    <ItemSpec id="200638" price="0" />
+    <ItemSpec id="200640" price="0" />
+    <ItemSpec id="200641" price="0" />
+    <ItemSpec id="200643" price="0" />
+    <ItemSpec id="200644" price="0" />
+    <ItemSpec id="200646" price="0" />
+    <ItemSpec id="200647" price="0" />
+	<ItemSpec id="200670" price="0" />
+    <ItemSpec id="200671" price="0" />
+	
+	
+    <ItemSpec id="226101" price="50" />
+    <ItemSpec id="226103" price="1200" />
+    <ItemSpec id="226104" price="250" />
+    <ItemSpec id="226106" price="4500" />
+    <ItemSpec id="226107" price="250" />
+    <ItemSpec id="226109" price="4500" />
+    <ItemSpec id="226110" price="250" />
+    <ItemSpec id="226112" price="4500" />
+
+    <ItemSpec id="202001" para="226101;226103" para5="8807" />
+    <ItemSpec id="202002" para="226101;226103" para5="8807" />
+    <ItemSpec id="202003" para="226101;226103" para5="8807" />
+    <ItemSpec id="202004" para="226101;226103" para5="8807" />
+    <ItemSpec id="202005" para="226101;226103" para5="8807" />
+    <ItemSpec id="202006" para="226101;226103" para5="8807" />
+    <ItemSpec id="202011" para="226101;226103" para5="8807" />
+    <ItemSpec id="202012" para="226101;226103" para5="8807" />
+    <ItemSpec id="202013" para="226101;226103" para5="8807" />
+    <ItemSpec id="202014" para="226101;226103" para5="8807" />
+    <ItemSpec id="202015" para="226101;226103" para5="8807" />
+    <ItemSpec id="202016" para="226101;226103" para5="8807" />
+    <ItemSpec id="202021" para="226101;226103" para5="8807" />
+    <ItemSpec id="202022" para="226101;226103" para5="8807" />
+    <ItemSpec id="202023" para="226101;226103" para5="8807" />
+    <ItemSpec id="202024" para="226101;226103" para5="8807" />
+    <ItemSpec id="202025" para="226101;226103" para5="8807" />
+    <ItemSpec id="202026" para="226101;226103" para5="8807" />
+    <ItemSpec id="202031" para="226101;226103" rare_multiple="3" para5="8807" />
+    <ItemSpec id="202032" para="226101;226103" rare_multiple="3" para5="8807" />
+    <ItemSpec id="202033" para="226101;226103" rare_multiple="3" para5="8807" />
+    <ItemSpec id="202034" para="226101;226103" rare_multiple="3" para5="8807" />
+    <ItemSpec id="202035" para="226101;226103" rare_multiple="3" para5="8807" />
+    <ItemSpec id="202036" para="226101;226103" rare_multiple="3" para5="8807" />
+    <ItemSpec id="202101" para="226104;226106" para5="8804" />
+    <ItemSpec id="202102" para="226104;226106" para5="8804" />
+    <ItemSpec id="202103" para="226104;226106" para5="8804" />
+    <ItemSpec id="202104" para="226104;226106" para5="8804" />
+    <ItemSpec id="202105" para="226104;226106" para5="8804" />
+    <ItemSpec id="202106" para="226104;226106" para5="8804" />
+    <ItemSpec id="202111" para="226104;226106" para5="8804" />
+    <ItemSpec id="202112" para="226104;226106" para5="8804" />
+    <ItemSpec id="202113" para="226104;226106" para5="8804" />
+    <ItemSpec id="202114" para="226104;226106" para5="8804" />
+    <ItemSpec id="202115" para="226104;226106" para5="8804" />
+    <ItemSpec id="202116" para="226104;226106" para5="8804" />
+    <ItemSpec id="202121" para="226104;226106" para5="8804" />
+    <ItemSpec id="202122" para="226104;226106" para5="8804" />
+    <ItemSpec id="202123" para="226104;226106" para5="8804" />
+    <ItemSpec id="202124" para="226104;226106" para5="8804" />
+    <ItemSpec id="202125" para="226104;226106" para5="8804" />
+    <ItemSpec id="202126" para="226104;226106" para5="8804" />
+    <ItemSpec id="202131" para="226104;226106" rare_multiple="3" para5="8804" />
+    <ItemSpec id="202132" para="226104;226106" rare_multiple="3" para5="8804" />
+    <ItemSpec id="202133" para="226104;226106" rare_multiple="3" para5="8804" />
+    <ItemSpec id="202134" para="226104;226106" rare_multiple="3" para5="8804" />
+    <ItemSpec id="202135" para="226104;226106" rare_multiple="3" para5="8804" />
+    <ItemSpec id="202136" para="226104;226106" rare_multiple="3" para5="8804" />
+    <ItemSpec id="202301" para="226107;226109" para5="8806" />
+    <ItemSpec id="202302" para="226107;226109" para5="8806" />
+    <ItemSpec id="202303" para="226107;226109" para5="8806" />
+    <ItemSpec id="202304" para="226107;226109" para5="8806" />
+    <ItemSpec id="202305" para="226107;226109" para5="8806" />
+    <ItemSpec id="202306" para="226107;226109" para5="8806" />
+    <ItemSpec id="202311" para="226107;226109" para5="8806" />
+    <ItemSpec id="202312" para="226107;226109" para5="8806" />
+    <ItemSpec id="202313" para="226107;226109" para5="8806" />
+    <ItemSpec id="202314" para="226107;226109" para5="8806" />
+    <ItemSpec id="202315" para="226107;226109" para5="8806" />
+    <ItemSpec id="202316" para="226107;226109" para5="8806" />
+    <ItemSpec id="202321" para="226107;226109" para5="8806" />
+    <ItemSpec id="202322" para="226107;226109" para5="8806" />
+    <ItemSpec id="202323" para="226107;226109" para5="8806" />
+    <ItemSpec id="202324" para="226107;226109" para5="8806" />
+    <ItemSpec id="202325" para="226107;226109" para5="8806" />
+    <ItemSpec id="202326" para="226107;226109" para5="8806" />
+    <ItemSpec id="202331" para="226107;226109" rare_multiple="3" para5="8806" />
+    <ItemSpec id="202332" para="226107;226109" rare_multiple="3" para5="8806" />
+    <ItemSpec id="202333" para="226107;226109" rare_multiple="3" para5="8806" />
+    <ItemSpec id="202334" para="226107;226109" rare_multiple="3" para5="8806" />
+    <ItemSpec id="202335" para="226107;226109" rare_multiple="3" para5="8806" />
+    <ItemSpec id="202336" para="226107;226109" rare_multiple="3" para5="8806" />
+    <ItemSpec id="202401" para="226110;226112" para5="8805" />
+    <ItemSpec id="202402" para="226110;226112" para5="8805" />
+    <ItemSpec id="202403" para="226110;226112" para5="8805" />
+    <ItemSpec id="202404" para="226110;226112" para5="8805" />
+    <ItemSpec id="202405" para="226110;226112" para5="8805" />
+    <ItemSpec id="202406" para="226110;226112" para5="8805" />
+    <ItemSpec id="202411" para="226110;226112" para5="8805" />
+    <ItemSpec id="202412" para="226110;226112" para5="8805" />
+    <ItemSpec id="202413" para="226110;226112" para5="8805" />
+    <ItemSpec id="202414" para="226110;226112" para5="8805" />
+    <ItemSpec id="202415" para="226110;226112" para5="8805" />
+    <ItemSpec id="202416" para="226110;226112" para5="8805" />
+    <ItemSpec id="202421" para="226110;226112" para5="8805" />
+    <ItemSpec id="202422" para="226110;226112" para5="8805" />
+    <ItemSpec id="202423" para="226110;226112" para5="8805" />
+    <ItemSpec id="202424" para="226110;226112" para5="8805" />
+    <ItemSpec id="202425" para="226110;226112" para5="8805" />
+    <ItemSpec id="202426" para="226110;226112" para5="8805" />
+    <ItemSpec id="202431" para="226110;226112" rare_multiple="3" para5="8805" />
+    <ItemSpec id="202432" para="226110;226112" rare_multiple="3" para5="8805" />
+    <ItemSpec id="202433" para="226110;226112" rare_multiple="3" para5="8805" />
+    <ItemSpec id="202434" para="226110;226112" rare_multiple="3" para5="8805" />
+    <ItemSpec id="202435" para="226110;226112" rare_multiple="3" para5="8805" />
+    <ItemSpec id="202436" para="226110;226112" rare_multiple="3" para5="8805" />
+
+    <ItemSpec id="202501" para="0" />
+    <ItemSpec id="202502" para="0" />
+    <ItemSpec id="202503" para="0" />
+    <ItemSpec id="202504" para="0" />
+    <ItemSpec id="202505" para="0" />
+    <ItemSpec id="202506" para="0" />
+    <ItemSpec id="202511" para="0" />
+    <ItemSpec id="202512" para="0" />
+    <ItemSpec id="202513" para="0" />
+    <ItemSpec id="202514" para="0" />
+    <ItemSpec id="202515" para="0" />
+    <ItemSpec id="202516" para="0" />
+    <ItemSpec id="202521" para="0" />
+    <ItemSpec id="202522" para="0" />
+    <ItemSpec id="202523" para="0" />
+    <ItemSpec id="202524" para="0" />
+    <ItemSpec id="202525" para="0" />
+    <ItemSpec id="202526" para="0" />
+    <ItemSpec id="202531" para="0" />
+    <ItemSpec id="202532" para="0" />
+    <ItemSpec id="202533" para="0" />
+    <ItemSpec id="202534" para="0" />
+    <ItemSpec id="202535" para="0" />
+    <ItemSpec id="202536" para="0" />
+    <ItemSpec id="202601" para="0" />
+    <ItemSpec id="202602" para="0" />
+    <ItemSpec id="202603" para="0" />
+    <ItemSpec id="202604" para="0" />
+    <ItemSpec id="202605" para="0" />
+    <ItemSpec id="202606" para="0" />
+    <ItemSpec id="202611" para="0" />
+    <ItemSpec id="202612" para="0" />
+    <ItemSpec id="202613" para="0" />
+    <ItemSpec id="202614" para="0" />
+    <ItemSpec id="202615" para="0" />
+    <ItemSpec id="202616" para="0" />
+    <ItemSpec id="202621" para="0" />
+    <ItemSpec id="202622" para="0" />
+    <ItemSpec id="202623" para="0" />
+    <ItemSpec id="202624" para="0" />
+    <ItemSpec id="202625" para="0" />
+    <ItemSpec id="202626" para="0" />
+    <ItemSpec id="202631" para="0" />
+    <ItemSpec id="202632" para="0" />
+    <ItemSpec id="202633" para="0" />
+    <ItemSpec id="202634" para="0" />
+    <ItemSpec id="202635" para="0" />
+    <ItemSpec id="202636" para="0" />
+
+	</Group>
+
+    <Group id="score">
+    <ItemSpec id="890001" ROE_NEW="1" name="91015300" points="1000"/>
+    <ItemSpec id="890002" ROE_NEW="1" name="91015301" value="1" points="100"/>
+    <ItemSpec id="890003" ROE_NEW="1" name="91015330" value="1" points="5000"/>
+    <ItemSpec id="890004" ROE_NEW="1" name="91015302" value="1" points="200"/>
+    <ItemSpec id="890005" ROE_NEW="1" name="91015303" value="1" points="2500"/>
+    <ItemSpec id="890006" ROE_NEW="1" name="91015304" value="100" points="2"/>
+    <ItemSpec id="890007" ROE_NEW="1" name="91015305" value="100" points="2"/>
+    <ItemSpec id="890008" ROE_NEW="1" name="91015306" value="100" points="3"/>
+    <ItemSpec id="890009" ROE_NEW="1" name="91015307" value="100" points="4"/>
+    <ItemSpec id="890010" ROE_NEW="1" name="91015308" value="1" points="500"/>
+    <ItemSpec id="890011" ROE_NEW="1" name="91015309" value="1" points="1"/>
+    <ItemSpec id="890012" ROE_NEW="1" name="91015310" value="1" points="3"/>
+    <ItemSpec id="890013" ROE_NEW="1" name="91015311" value="1" points="3"/>
+    <ItemSpec id="890014" ROE_NEW="1" name="91015312" value="1" points="3"/>
+    <ItemSpec id="890015" ROE_NEW="1" name="91015313" value="1" points="3"/>
+    <ItemSpec id="890016" ROE_NEW="1" name="91015314" value="1" points="50000"/>
+    <ItemSpec id="890017" ROE_NEW="1" name="91015315" value="1" points="4"/>
+    <ItemSpec id="890018" ROE_NEW="1" name="91015316" value="1" points="10"/>
+    <ItemSpec id="890019" ROE_NEW="1" name="91015317" value="1;3" points="50000"/>
+    <ItemSpec id="890020" ROE_NEW="1" name="91015318" value="1;4" points="1"/>
+    <ItemSpec id="890021" ROE_NEW="1" name="91015320" value="1;4" points="1"/>
+    <ItemSpec id="890022" ROE_NEW="1" name="91015319" value="1;4" points="1"/>
+    <ItemSpec id="890023" ROE_NEW="1" name="91015322" value="1" points="2"/>
+    <ItemSpec id="890024" ROE_NEW="1" name="91015323" value="100" points="8"/>
+    <ItemSpec id="890025" ROE_NEW="1" name="91015324" value="1" points="2000"/>
+    <ItemSpec id="890026" ROE_NEW="1" name="91015325" value="200" points="1"/>
+    <ItemSpec id="890027" ROE_NEW="1" name="91015326" value="1" points="100" broadcast="1"/>
+	<ItemSpec id="890028" ROE_NEW="1" name="91015327" value="1" points="30"/>
+    <ItemSpec id="890029" ROE_NEW="1" name="91015321" value="1" points="20"/>
+	</Group>
+	
+	<Group id="daily_quest">		
+	<ItemSpec id="5288001" ROE_NEW="1" accept1="10" name="90902135" desc="90902134" target="90902136" desc2="1" point="50" gotype="2" go="429000" roe_gobuild="14" icon="FB_IC_peijian" pic="01_17" show="1" />
+	<ItemSpec id="5288002" ROE_NEW="1" accept1="16" name="90902135" desc="90902134" target="90902137" desc2="1" point="60" gotype="2" go="429000" roe_gobuild="14" icon="FB_IC_peijian" pic="01_17" show="1" />
+	</Group>
+	
+	<Group id="alliance_info">
+    <ItemSpec id="alliance101" ROE_NEW="1" order="999" name="104409" type="101" pic="item004.png" open="rookie_move_castle" />
+
+	</Group>	
+	
+<!--新科技图标-->
+    <Group id="science2">
+    <ItemSpec id="901000" icon="technology_rapidly_1" />
+    <ItemSpec id="901700" icon="technology_rapidly_2" />
+    <ItemSpec id="901100" icon="technology_rapidly_3" />
+    <ItemSpec id="901800" icon="technology_rapidly_4" />
+    <ItemSpec id="901200" icon="technology_rapidly_5" />
+    <ItemSpec id="901900" icon="technology_rapidly_6" />
+    <ItemSpec id="901300" icon="technology_rapidly_7" />
+    <ItemSpec id="902000" icon="technology_rapidly_8" />
+    <ItemSpec id="901400" icon="technology_rapidly_9" />
+    <ItemSpec id="902100" icon="technology_rapidly_10" />
+    <ItemSpec id="901500" icon="technology_rapidly_11" />
+    <ItemSpec id="902200" icon="technology_rapidly_12" />
+    <ItemSpec id="902400" icon="technology_rapidly_13" />
+    <ItemSpec id="902300" icon="technology_rapidly_14" />
+    <ItemSpec id="901600" icon="technology_rapidly_15" />
+    <ItemSpec id="920000" icon="technology_city_1" />
+    <ItemSpec id="920100" icon="technology_city_2" />
+    <ItemSpec id="920200" icon="technology_city_3" />
+    <ItemSpec id="920300" icon="technology_city_4" />
+    <ItemSpec id="920400" icon="technology_city_5" />
+    <ItemSpec id="920500" icon="technology_city_6" />
+    <ItemSpec id="920600" icon="technology_city_7" />
+    <ItemSpec id="920700" icon="technology_city_8" />
+    <ItemSpec id="920800" icon="technology_city_9" />
+    <ItemSpec id="920900" icon="technology_city_10" />
+    <ItemSpec id="921000" icon="technology_city_11" />
+    <ItemSpec id="921100" icon="technology_city_12" />
+    <ItemSpec id="921200" icon="technology_city_13" />
+    <ItemSpec id="921300" icon="technology_city_14" />
+    <ItemSpec id="902500" icon="technology_fighting_1" />
+    <ItemSpec id="972500" icon="technology_fighting_2" />
+    <ItemSpec id="974500" icon="technology_fighting_3" />
+    <ItemSpec id="970500" icon="technology_fighting_4" />
+    <ItemSpec id="902600" icon="technology_fighting_5" />
+    <ItemSpec id="902700" icon="technology_fighting_6" />
+    <ItemSpec id="902800" icon="technology_fighting_7" />
+    <ItemSpec id="902900" icon="technology_fighting_8" />
+    <ItemSpec id="903000" icon="technology_fighting_9" />
+    <ItemSpec id="903100" icon="technology_fighting_10" />
+    <ItemSpec id="903200" icon="technology_fighting_11" />
+    <ItemSpec id="903300" icon="technology_fighting_12" />
+    <ItemSpec id="903400" icon="technology_fighting_13" />
+    <ItemSpec id="903500" icon="technology_fighting_14" />
+    <ItemSpec id="903600" icon="technology_fighting_15" />
+    <ItemSpec id="903700" icon="technology_fighting_16" />
+    <ItemSpec id="904000" icon="technology_legion_1" />
+    <ItemSpec id="904100" icon="technology_legion_2" />
+    <ItemSpec id="904200" icon="technology_legion_3" />
+    <ItemSpec id="904800" icon="technology_legion_4" />
+    <ItemSpec id="904700" icon="technology_legion_5" />
+    <ItemSpec id="904900" icon="technology_legion_6" />
+    <ItemSpec id="905000" icon="technology_legion_7" />
+    <ItemSpec id="905100" icon="technology_legion_8" />
+    <ItemSpec id="904300" icon="technology_legion_9" />
+    <ItemSpec id="904400" icon="technology_legion_10" />
+    <ItemSpec id="904500" icon="technology_legion_11" />
+    <ItemSpec id="904600" icon="technology_legion_12" />
+    <ItemSpec id="905200" icon="technology_legion_13" />
+    <ItemSpec id="905300" icon="technology_legion_14" />
+    <ItemSpec id="905500" icon="technology_legion_16" />
+    <ItemSpec id="905600" icon="technology_legion_1" />
+    <ItemSpec id="905700" icon="technology_legion_2" />
+    <ItemSpec id="905800" icon="technology_legion_3" />
+    <ItemSpec id="906400" icon="technology_legion_4" />
+    <ItemSpec id="906300" icon="technology_legion_5" />
+    <ItemSpec id="906500" icon="technology_legion_6" />
+    <ItemSpec id="906600" icon="technology_legion_7" />
+    <ItemSpec id="906700" icon="technology_legion_8" />
+    <ItemSpec id="905900" icon="technology_legion_9" />
+    <ItemSpec id="906000" icon="technology_legion_10" />
+    <ItemSpec id="906100" icon="technology_legion_11" />
+    <ItemSpec id="906200" icon="technology_legion_12" />
+    <ItemSpec id="906800" icon="technology_legion_13" />
+    <ItemSpec id="906900" icon="technology_legion_14" />
+    <ItemSpec id="907100" icon="technology_legion_16" />
+    <ItemSpec id="907200" icon="technology_legion_1" />
+    <ItemSpec id="907300" icon="technology_legion_2" />
+    <ItemSpec id="907400" icon="technology_legion_3" />
+    <ItemSpec id="908000" icon="technology_legion_4" />
+    <ItemSpec id="907900" icon="technology_legion_5" />
+    <ItemSpec id="908100" icon="technology_legion_6" />
+    <ItemSpec id="908200" icon="technology_legion_7" />
+    <ItemSpec id="908300" icon="technology_legion_8" />
+    <ItemSpec id="907500" icon="technology_legion_9" />
+    <ItemSpec id="907600" icon="technology_legion_10" />
+    <ItemSpec id="907700" icon="technology_legion_11" />
+    <ItemSpec id="907800" icon="technology_legion_12" />
+    <ItemSpec id="908400" icon="technology_legion_13" />
+    <ItemSpec id="908500" icon="technology_legion_14" />
+    <ItemSpec id="908700" icon="technology_legion_16" />
+    <ItemSpec id="908800" icon="technology_legion_1" />
+    <ItemSpec id="908900" icon="technology_legion_2" />
+    <ItemSpec id="909000" icon="technology_legion_3" />
+    <ItemSpec id="909600" icon="technology_legion_4" />
+    <ItemSpec id="909500" icon="technology_legion_5" />
+    <ItemSpec id="909700" icon="technology_legion_6" />
+    <ItemSpec id="909800" icon="technology_legion_7" />
+    <ItemSpec id="909900" icon="technology_legion_8" />
+    <ItemSpec id="909100" icon="technology_legion_9" />
+    <ItemSpec id="909200" icon="technology_legion_10" />
+    <ItemSpec id="909300" icon="technology_legion_11" />
+    <ItemSpec id="909400" icon="technology_legion_12" />
+    <ItemSpec id="910000" icon="technology_legion_13" />
+    <ItemSpec id="910100" icon="technology_legion_14" />
+    <ItemSpec id="910300" icon="technology_legion_16" />
+    <ItemSpec id="910400" icon="technology_legion_1" />
+    <ItemSpec id="910500" icon="technology_legion_2" />
+    <ItemSpec id="910600" icon="technology_legion_3" />
+    <ItemSpec id="910700" icon="technology_legion_4" />
+    <ItemSpec id="910800" icon="technology_legion_5" />
+    <ItemSpec id="910900" icon="technology_legion_6" />
+    <ItemSpec id="911000" icon="technology_legion_7" />
+    <ItemSpec id="911100" icon="technology_legion_8" />
+    <ItemSpec id="911200" icon="technology_legion_9" />
+    <ItemSpec id="911300" icon="technology_legion_10" />
+    <ItemSpec id="911400" icon="technology_legion_11" />
+    <ItemSpec id="911500" icon="technology_legion_12" />
+    <ItemSpec id="911600" icon="technology_legion_13" />
+    <ItemSpec id="911700" icon="technology_legion_14" />
+    <ItemSpec id="911800" icon="technology_legion_15" />
+    <ItemSpec id="911900" icon="technology_legion_16" />
+    <ItemSpec id="970000" icon="technology_cavalry_1" />
+    <ItemSpec id="970100" icon="technology_cavalry_2" />
+    <ItemSpec id="970200" icon="technology_cavalry_3" />
+    <ItemSpec id="970300" icon="technology_cavalry_4" />
+    <ItemSpec id="970400" icon="technology_cavalry_5" />
+    <ItemSpec id="970600" icon="technology_cavalry_6" />
+    <ItemSpec id="970700" icon="technology_cavalry_7" />
+    <ItemSpec id="970800" icon="technology_cavalry_8" />
+    <ItemSpec id="970900" icon="technology_cavalry_9" />
+    <ItemSpec id="971000" icon="technology_cavalry_10" />
+    <ItemSpec id="971100" icon="technology_cavalry_11" />
+    <ItemSpec id="971200" icon="technology_cavalry_12" />
+    <ItemSpec id="971300" icon="technology_cavalry_13" />
+    <ItemSpec id="971400" icon="technology_cavalry_14" />
+    <ItemSpec id="971500" icon="technology_cavalry_15" />
+    <ItemSpec id="972000" icon="technology_infantry_1" />
+    <ItemSpec id="972100" icon="technology_infantry_2" />
+    <ItemSpec id="972200" icon="technology_infantry_3" />
+    <ItemSpec id="972300" icon="technology_infantry_4" />
+    <ItemSpec id="972400" icon="technology_infantry_5" />
+    <ItemSpec id="972600" icon="technology_infantry_6" />
+    <ItemSpec id="972700" icon="technology_infantry_7" />
+    <ItemSpec id="972800" icon="technology_infantry_8" />
+    <ItemSpec id="972900" icon="technology_infantry_9" />
+    <ItemSpec id="973000" icon="technology_infantry_10" />
+    <ItemSpec id="973100" icon="technology_infantry_11" />
+    <ItemSpec id="973200" icon="technology_infantry_12" />
+    <ItemSpec id="973300" icon="technology_infantry_13" />
+    <ItemSpec id="973400" icon="technology_infantry_14" />
+    <ItemSpec id="973500" icon="technology_infantry_15" />
+    <ItemSpec id="974000" icon="technology_bow_1" />
+    <ItemSpec id="974100" icon="technology_bow_2" />
+    <ItemSpec id="974200" icon="technology_bow_3" />
+    <ItemSpec id="974300" icon="technology_bow_4" />
+    <ItemSpec id="974400" icon="technology_bow_5" />
+    <ItemSpec id="974600" icon="technology_bow_6" />
+    <ItemSpec id="974700" icon="technology_bow_7" />
+    <ItemSpec id="974800" icon="technology_bow_8" />
+    <ItemSpec id="974900" icon="technology_bow_9" />
+    <ItemSpec id="975000" icon="technology_bow_10" />
+    <ItemSpec id="975100" icon="technology_bow_11" />
+    <ItemSpec id="975200" icon="technology_bow_12" />
+    <ItemSpec id="975300" icon="technology_bow_13" />
+    <ItemSpec id="975400" icon="technology_bow_14" />
+    <ItemSpec id="975500" icon="technology_bow_15" />
+    <ItemSpec id="976000" icon="technology_hospital_1" />
+    <ItemSpec id="976100" icon="technology_hospital_2" />
+    <ItemSpec id="976200" icon="technology_hospital_3" />
+    <ItemSpec id="976300" icon="technology_hospital_4" />
+    <ItemSpec id="976400" icon="technology_hospital_5" />
+    <ItemSpec id="976500" icon="technology_hospital_6" />
+    <ItemSpec id="976600" icon="technology_hospital_7" />
+    <ItemSpec id="976700" icon="technology_hospital_8" />
+    <ItemSpec id="976800" icon="technology_hospital_9" />
+    <ItemSpec id="976900" icon="technology_hospital_10" />
+    <ItemSpec id="977000" icon="technology_hospital_11" />
+    <ItemSpec id="978000" icon="technology_build_1" />
+    <ItemSpec id="978100" icon="technology_build_2" />
+    <ItemSpec id="978200" icon="technology_build_3" />
+    <ItemSpec id="978300" icon="technology_build_4" />
+    <ItemSpec id="978400" icon="technology_build_5" />
+    <ItemSpec id="978500" icon="technology_build_6" />
+    <ItemSpec id="978600" icon="technology_build_7" />
+    <ItemSpec id="978700" icon="technology_build_8" />
+    <ItemSpec id="978800" icon="technology_build_9" />
+    <ItemSpec id="978900" icon="technology_build_10" />
+    <ItemSpec id="979000" icon="technology_build_11" />
+    <ItemSpec id="979100" icon="technology_build_12" />
+    <ItemSpec id="980000" icon="technology_basis_1" />
+    <ItemSpec id="980100" icon="technology_basis_2" />
+    <ItemSpec id="980200" icon="technology_basis_3" />
+    <ItemSpec id="980300" icon="technology_basis_4" />
+    <ItemSpec id="980400" icon="technology_basis_5" />
+    <ItemSpec id="980500" icon="technology_basis_6" />
+    <ItemSpec id="982000" icon="technology_kingdom_reward_1" />
+    <ItemSpec id="982100" icon="technology_kingdom_reward_2" />
+    <ItemSpec id="982200" icon="technology_kingdom_reward_3" />
+    <ItemSpec id="982300" icon="technology_kingdom_reward_4" />
+    <ItemSpec id="982400" icon="technology_kingdom_reward_5" />
+    <ItemSpec id="982500" icon="technology_kingdom_reward_6" />
+    <ItemSpec id="982600" icon="technology_kingdom_reward_7" />
+    <ItemSpec id="982700" icon="technology_kingdom_reward_8" />
+    <ItemSpec id="982800" icon="technology_kingdom_reward_9" />
+    <ItemSpec id="982900" icon="technology_kingdom_reward_10" />
+    <ItemSpec id="983000" icon="technology_kingdom_reward_11" />
+    <ItemSpec id="983100" icon="technology_kingdom_reward_12" />
+    <ItemSpec id="983200" icon="technology_kingdom_reward_13" />
+    <ItemSpec id="983300" icon="technology_kingdom_reward_14" />
+    <ItemSpec id="983400" icon="technology_kingdom_reward_15" />
+    <ItemSpec id="983500" icon="technology_kingdom_reward_16" />
+    <ItemSpec id="983600" icon="technology_kingdom_reward_17" />
+    <ItemSpec id="983700" icon="technology_kingdom_reward_18" />
+    <ItemSpec id="983800" icon="technology_kingdom_reward_19" />
+    <ItemSpec id="984000" icon="technology_kingdom_battle_1" />
+    <ItemSpec id="984100" icon="technology_kingdom_battle_2" />
+    <ItemSpec id="984200" icon="technology_kingdom_battle_3" />
+    <ItemSpec id="984300" icon="technology_kingdom_battle_4" />
+    <ItemSpec id="984400" icon="technology_kingdom_battle_5" />
+    <ItemSpec id="984500" icon="technology_kingdom_battle_6" />
+    <ItemSpec id="984600" icon="technology_kingdom_battle_7" />
+    <ItemSpec id="984700" icon="technology_kingdom_battle_8" />
+    <ItemSpec id="984800" icon="technology_kingdom_battle_9" />
+    <ItemSpec id="984900" icon="technology_kingdom_battle_10" />
+    <ItemSpec id="985000" icon="technology_kingdom_battle_11" />
+    <ItemSpec id="985100" icon="technology_kingdom_battle_12" />
+    <ItemSpec id="985200" icon="technology_kingdom_battle_13" />
+    <ItemSpec id="985300" icon="technology_kingdom_battle_14" />
+    <ItemSpec id="985400" icon="technology_kingdom_battle_15" />
+    <ItemSpec id="991800" icon="technology_maste_fight_1" />
+    <ItemSpec id="991900" icon="technology_maste_fight_2" />
+    <ItemSpec id="992000" icon="technology_maste_fight_3" />
+    <ItemSpec id="992100" icon="technology_maste_fight_4" />
+    <ItemSpec id="992200" icon="technology_maste_fight_5" />
+    <ItemSpec id="992300" icon="technology_maste_fight_6" />
+    <ItemSpec id="992400" icon="technology_maste_fight_7" />
+    <ItemSpec id="992500" icon="technology_maste_fight_8" />
+    <ItemSpec id="992600" icon="technology_maste_fight_9" />
+    <ItemSpec id="992700" icon="technology_maste_fight_10" />
+    <ItemSpec id="992800" icon="technology_maste_fight_11" />
+    <ItemSpec id="992900" icon="technology_maste_fight_12" />
+    <ItemSpec id="993000" icon="technology_maste_fight_13" />
+    <ItemSpec id="993100" icon="technology_maste_fight_14" />
+    <ItemSpec id="993200" icon="technology_maste_fight_15" />
+    <ItemSpec id="993300" icon="technology_maste_fight_16" />
+    <ItemSpec id="993400" icon="technology_maste_fight_17" />
+    <ItemSpec id="993500" icon="technology_maste_fight_18" />
+    <ItemSpec id="993600" icon="technology_maste_fight_19" />
+    <ItemSpec id="993700" icon="technology_maste_fight_20" />
+    <ItemSpec id="993800" icon="technology_maste_fight_21" />
+    <ItemSpec id="993900" icon="technology_maste_fight_22" />
+    <ItemSpec id="994000" icon="technology_maste_fight_23" />
+    <ItemSpec id="994100" icon="technology_maste_fight_24" />
+    <ItemSpec id="994200" icon="technology_maste_fight_25" />
+    <ItemSpec id="994300" icon="technology_maste_fight_26" />
+    <ItemSpec id="994400" icon="technology_maste_fight_27" />
+    <ItemSpec id="994500" icon="technology_maste_fight_28" />
+    <ItemSpec id="994600" icon="technology_maste_fight_29" />
+    <ItemSpec id="994700" icon="technology_maste_fight_30" />
+    <ItemSpec id="994800" icon="technology_maste_fight_31" />
+    <ItemSpec id="994900" icon="technology_maste_fight_32" />
+    <ItemSpec id="995000" icon="technology_maste_fight_33" />
+    <ItemSpec id="995100" icon="technology_maste_fight_34" />
+    <ItemSpec id="995200" icon="technology_maste_fight_35" />
+    <ItemSpec id="995300" icon="technology_maste_fight_36" />
+    <ItemSpec id="995400" icon="technology_maste_fight_37" />
+    <ItemSpec id="995500" icon="technology_maste_fight_38" />
+    <ItemSpec id="995600" icon="technology_maste_fight_39" />
+    <ItemSpec id="995700" icon="technology_maste_fight_40" />
+    <ItemSpec id="995800" icon="technology_maste_fight_41" />
+    <ItemSpec id="995900" icon="technology_maste_fight_42" />
+    <ItemSpec id="996000" icon="technology_maste_fight_43" />
+    <ItemSpec id="996100" icon="technology_maste_fight_44" />
+    <ItemSpec id="996200" icon="technology_maste_defense_1" />
+    <ItemSpec id="996300" icon="technology_maste_defense_2" />
+    <ItemSpec id="996400" icon="technology_maste_defense_3" />
+    <ItemSpec id="996500" icon="technology_maste_defense_4" />
+    <ItemSpec id="996600" icon="technology_maste_defense_5" />
+    <ItemSpec id="996700" icon="technology_maste_defense_6" />
+    <ItemSpec id="996800" icon="technology_maste_defense_7" />
+    <ItemSpec id="996900" icon="technology_maste_defense_8" />
+    <ItemSpec id="997000" icon="technology_maste_defense_9" />
+    <ItemSpec id="997100" icon="technology_maste_defense_10" />
+    <ItemSpec id="997200" icon="technology_maste_defense_11" />
+    <ItemSpec id="997300" icon="technology_maste_defense_12" />
+    <ItemSpec id="997400" icon="technology_maste_defense_13" />
+    <ItemSpec id="997500" icon="technology_maste_defense_14" />
+    <ItemSpec id="997600" icon="technology_maste_defense_15" />
+    <ItemSpec id="997700" icon="technology_maste_defense_16" />
+    <ItemSpec id="997800" icon="technology_maste_defense_17" />
+    <ItemSpec id="997900" icon="technology_maste_defense_18" />
+    <ItemSpec id="998000" icon="technology_maste_defense_19" />
+    <ItemSpec id="998100" icon="technology_maste_defense_20" />
+    <ItemSpec id="998200" icon="technology_maste_defense_21" />
+    <ItemSpec id="998300" icon="technology_maste_defense_22" />
+    <ItemSpec id="998400" icon="technology_maste_defense_23" />
+    <ItemSpec id="998500" icon="technology_maste_defense_24" />
+    <ItemSpec id="998600" icon="technology_maste_defense_25" />
+    <ItemSpec id="998700" icon="technology_maste_defense_26" />
+    <ItemSpec id="998800" icon="technology_maste_defense_27" />
+    <ItemSpec id="998900" icon="technology_maste_defense_28" />
+    <ItemSpec id="999000" icon="technology_maste_defense_29" />
+    <ItemSpec id="999100" icon="technology_maste_defense_30" />
+    <ItemSpec id="999200" icon="technology_maste_defense_31" />
+    <ItemSpec id="999300" icon="technology_maste_defense_32" />
+    <ItemSpec id="999400" icon="technology_maste_defense_33" />
+    <ItemSpec id="999500" icon="technology_maste_defense_34" />
+    <ItemSpec id="999600" icon="technology_maste_defense_35" />
+    <ItemSpec id="999700" icon="technology_maste_defense_36" />
+    <ItemSpec id="999800" icon="technology_maste_defense_37" />
+    <ItemSpec id="999900" icon="technology_maste_defense_38" />
+    <ItemSpec id="1200000" icon="technology_maste_defense_39" />
+    <ItemSpec id="985500" icon="technology_equipment_1" />
+    <ItemSpec id="985600" icon="technology_equipment_2" />
+    <ItemSpec id="985700" icon="technology_equipment_3" />
+    <ItemSpec id="985800" icon="technology_equipment_4" />
+    <ItemSpec id="985900" icon="technology_equipment_5" />
+    <ItemSpec id="986000" icon="technology_equipment_6" />
+    <ItemSpec id="986100" icon="technology_equipment_7" />
+    <ItemSpec id="986200" icon="technology_equipment_8" />
+    <ItemSpec id="986300" icon="technology_equipment_9" />
+    <ItemSpec id="986400" icon="technology_equipment_10" />
+    <ItemSpec id="986500" icon="technology_equipment_11" />
+    <ItemSpec id="986600" icon="technology_equipment_12" />
+    <ItemSpec id="986700" icon="technology_equipment_13" />
+    <ItemSpec id="986800" icon="technology_equipment_14" />
+    <ItemSpec id="986900" icon="technology_equipment_15" />
+    <ItemSpec id="987000" icon="technology_equipment_16" />
+    <ItemSpec id="987100" icon="technology_equipment_17" />
+    <ItemSpec id="987200" icon="technology_equipment_18" />
+    <ItemSpec id="987300" icon="technology_equipment_19" />
+    <ItemSpec id="987400" icon="technology_equipment_20" />
+    <ItemSpec id="987500" icon="technology_equipment_21" />
+    <ItemSpec id="987600" icon="technology_equipment_22" />
+    <ItemSpec id="987700" icon="technology_equipment_23" />
+    <ItemSpec id="987800" icon="technology_equipment_24" />
+    <ItemSpec id="987900" icon="technology_equipment_25" />
+    <ItemSpec id="988000" icon="technology_equipment_26" />
+    <ItemSpec id="988100" icon="technology_equipment_27" />
+    <ItemSpec id="988200" icon="technology_equipment_28" />
+    <ItemSpec id="1200100" icon="technology_defense_1" />
+    <ItemSpec id="1200200" icon="technology_defense_2" />
+    <ItemSpec id="1200300" icon="technology_defense_3" />
+    <ItemSpec id="1200400" icon="technology_defense_4" />
+    <ItemSpec id="1200500" icon="technology_defense_5" />
+    <ItemSpec id="1200600" icon="technology_defense_6" />
+    <ItemSpec id="1200700" icon="technology_defense_7" />
+    <ItemSpec id="1200800" icon="technology_defense_8" />
+    <ItemSpec id="1200900" icon="technology_defense_9" />
+    <ItemSpec id="1201000" icon="technology_defense_10" />
+    <ItemSpec id="1201100" icon="technology_defense_11" />
+    <ItemSpec id="1201200" icon="technology_defense_12" />
+    <ItemSpec id="1201300" icon="technology_defense_13" />
+    <ItemSpec id="1201400" icon="technology_defense_14" />
+    <ItemSpec id="1201500" icon="technology_defense_15" />
+    <ItemSpec id="1201600" icon="technology_defense_16" />
+    <ItemSpec id="1201700" icon="technology_defense_17" />
+    <ItemSpec id="1201800" icon="technology_defense_18" />
+    <ItemSpec id="1201900" icon="technology_defense_19" />
+    <ItemSpec id="1202000" icon="technology_defense_20" />
+    <ItemSpec id="1202100" icon="technology_defense_21" />	
+	</Group>
+	
+</tns:database>
