@@ -378,6 +378,7 @@
 		<ItemSpec id="210407" name="83403045" name_link="83403045;colon;110095752" icon="item210407" icon_join="FB_IC_hero_BG_02;hero188;FB_IC_hero4" join_method="1" description="83410015" type="62" type2="4" lv="1" lv_limit="1" para="1" color="4" page="4" order_num="2572198" para1="10219" pack_tab_type="3" />
 		<ItemSpec id="210408" name="83403045" name_link="83403045;colon;110095757" icon="item210408" icon_join="FB_IC_hero_BG_02;hero189;FB_IC_hero4" join_method="1" description="83410015" type="62" type2="4" lv="1" lv_limit="1" para="1" color="4" page="4" order_num="2572199" para1="10220" pack_tab_type="3" />
 		<ItemSpec id="210409" name="83403045" name_link="83403045;colon;110095763" icon="item210409" icon_join="FB_IC_hero_BG_02;hero190;FB_IC_hero4" join_method="1" description="83410015" type="62" type2="4" lv="1" lv_limit="1" para="1" color="4" page="4" order_num="2572200" para1="10221" pack_tab_type="3" />
+		<ItemSpec id="210410" name="83403045" name_link="83403045;colon;110095771" icon="FB_IC_yingxiongxunzhang_5_SKILL" icon_join="FB_IC_hero_BG_02;hero191;FB_IC_hero4" join_method="1" description="83410015" type="62" type2="4" lv="1" lv_limit="1" para="1" color="4" page="4" order_num="2572201" para1="10222" pack_tab_type="3" />
 		<ItemSpec id="211397" name="90700110" icon="itemsp4" description="90700111" type="70" type2="4" lv="1" lv_limit="1" para="4;10204;200" color="4" />
 		<ItemSpec id="211398" name="90700110" icon="itemsp4" description="90700111" type="70" type2="4" lv="1" lv_limit="1" para="4;10205;200" color="4" />
 		<ItemSpec id="211399" name="90700110" icon="itemsp4" description="90700111" type="70" type2="4" lv="1" lv_limit="1" para="4;10206;200" color="4" />
@@ -396,6 +397,7 @@
 		<ItemSpec id="211412" name="90700110" icon="itemsp4" description="90700111" type="70" type2="4" lv="1" lv_limit="1" para="4;10219;200" color="4" />
 		<ItemSpec id="211413" name="90700110" icon="itemsp4" description="90700111" type="70" type2="4" lv="1" lv_limit="1" para="4;10220;200" color="4" />
 		<ItemSpec id="211414" name="90700110" icon="itemsp4" description="90700111" type="70" type2="4" lv="1" lv_limit="1" para="4;10221;200" color="4" />
+		<ItemSpec id="211415" name="90700110" icon="itemsp4" description="90700111" type="70" type2="4" lv="1" lv_limit="1" para="4;10222;200" color="4" />
 		<ItemSpec id="215935" name="110470044" icon="xilian_2059_big" description="110470045" desc_value="50|25|4" type="116" lv="1" lv_limit="25" para="200531" color="3" page="4" pages="4" use="1" useall="1" order_num="98" para1="200531" pack_tab_type="0" />
 		<ItemSpec id="215936" name="110470059" icon="xilian_2060_big" description="110470060" desc_value="20|20|3" type="116" lv="1" lv_limit="25" para="200533" color="3" page="4" pages="4" use="1" useall="1" order_num="98" para1="200533" pack_tab_type="0" />
 		<ItemSpec id="215937" name="110470062" icon="xilian_2061_big" description="110470063" desc_value="75|17|75|13" type="116" type2="1" lv="1" lv_limit="25" para="200535" color="3" page="4" pages="4" use="1" useall="1" order_num="98" para1="200535" pack_tab_type="0" />
@@ -1022,6 +1024,7 @@
 		<ItemSpec id="230098" name="110250970" icon="item230098" description="110250971" type="98" type3="2" lv="1" lv_limit="8" para="10219" color="5" page="4" pages="4" use="1" go_to="9" order_num="98" para3="80135" />
 		<ItemSpec id="230099" name="110250994" icon="item230099" description="110250995" type="98" type3="2" lv="1" lv_limit="8" para="10221" color="5" page="4" pages="4" use="1" go_to="9" order_num="98" para3="80136" />
 		<ItemSpec id="230100" name="110251000" icon="item230100" description="110251001" type="98" type3="2" lv="1" lv_limit="8" para="10201" color="5" page="4" pages="4" use="1" go_to="9" order_num="98" para3="80137" />
+		<ItemSpec id="230101" name="110095776" icon="item230101" description="110095777" type="98" type3="2" lv="1" lv_limit="8" para="10219" color="5" page="4" pages="4" use="1" go_to="9" order_num="98" para3="80138" />
 		<ItemSpec id="270301" name="110483175" icon="item217002" description="110270425" type="59" type3="1" lv="1" lv_limit="1" color="5" page="4" pages="4" use="1" order_num="628078" price_hot="100000" para3="5600996" para4="110285006" para5="215735;400|312085;1|312086;2|312087;2|312088;20|220129;1|220130;1|220131;1|220132;1|218010;1|218009;1|215823;1" pack_tab_type="0" />
 		<!-- 火烈女专属装备自选箱子 -->
 		<ItemSpec id="301506" name="111980264" icon="sl_icon_shiluowangzhe" description="111980265" type="117" lv="1" lv_limit="1" color="5" page="4" pages="4" use="1" order_num="3200051" />
@@ -5522,25 +5525,25 @@
 		<ItemSpec id="650103" name="111880066" icon="item650103" description="111880067" type="187" lv="1" lv_limit="1" color="5" page="4" pages="4" use="0" pack_tab_type="0" />
 		<ItemSpec id="650104" name="111880068" icon="item650104" description="111880069" type="188" lv="1" lv_limit="1" color="5" page="4" pages="4" use="0" pack_tab_type="0" />
 		<ItemSpec id="650116" name="110320655" icon="item650116" description="110320656" type="0" lv="1" lv_limit="8" color="4" page="4" pages="4" use="0" order_num="86" pack_tab_type="6" decompose="217027;1" time="2025/06/24 00:00:00-2025/06/30 00:00:00" />
-		<ItemSpec id="650117" name="111880188" icon="ICON_DJ_msqd_shipindai" description="111880276" type="5" lv="1" lv_limit="1" color="4" page="4" pages="4" use="1" useall="1" decompose="217027;1" time="2025/06/24 00:00:00-2025/06/30 00:00:00" para5="650118;1|650119;1|650120;1|650121;1|650122;1|650124;1|650126;1|650127;1|650129;1" />
-		<ItemSpec id="650118" name="111880189" icon="ICON_DJ_msqd_fanqie" description="111880241" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/06/24 00:00:00-2025/06/30 00:00:00" />
-		<ItemSpec id="650119" name="111880190" icon="ICON_DJ_msqd_haiyan" description="111880242" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/06/24 00:00:00-2025/06/30 00:00:00" />
-		<ItemSpec id="650120" name="111880191" icon="ICON_DJ_msqd_jirou" description="111880243" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/06/24 00:00:00-2025/06/30 00:00:00" />
-		<ItemSpec id="650121" name="111880192" icon="ICON_DJ_msqd_lajiao" description="111880244" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/06/24 00:00:00-2025/06/30 00:00:00" />
-		<ItemSpec id="650122" name="111880193" icon="ICON_DJ_msqd_lvsun" description="111880245" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/06/24 00:00:00-2025/06/30 00:00:00" />
-		<ItemSpec id="650123" name="111880194" icon="ICON_DJ_msqd_midiexiang" description="111880246" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/06/24 00:00:00-2025/06/30 00:00:00" />
-		<ItemSpec id="650124" name="111880195" icon="ICON_DJ_msqd_niupai" description="111880247" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/06/24 00:00:00-2025/06/30 00:00:00" />
-		<ItemSpec id="650125" name="111880196" icon="ICON_DJ_msqd_tudou" description="111880248" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/06/24 00:00:00-2025/06/30 00:00:00" />
-		<ItemSpec id="650126" name="111880197" icon="ICON_DJ_msqd_xiareng" description="111880249" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/06/24 00:00:00-2025/06/30 00:00:00" />
-		<ItemSpec id="650127" name="111880198" icon="ICON_DJ_msqd_yurou" description="111880250" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/06/24 00:00:00-2025/06/30 00:00:00" />
-		<ItemSpec id="650128" name="111880199" icon="ICON_DJ_msqd_zhurou" description="111880251" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/06/24 00:00:00-2025/06/30 00:00:00" />
-		<ItemSpec id="650129" name="111880206" icon="ICON_DJ_msqd_congsuan" description="111880258" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/06/24 00:00:00-2025/06/30 00:00:00" />
-		<ItemSpec id="650130" name="111880201" icon="msj_icon_daoju2" description="111880253" type="198" color="4" page="4" pages="4" decompose="217027;1" time="2025/06/24 00:00:00-2025/06/30 00:00:00" />
-		<ItemSpec id="650131" name="111880200" icon="msj_icon_daoju3" description="111880252" type="198" color="4" page="4" pages="4" decompose="217027;1" time="2025/06/24 00:00:00-2025/06/30 00:00:00" />
-		<ItemSpec id="650132" name="111880205" icon="msj_icon_daoju4" description="111880257" type="198" color="4" page="4" pages="4" decompose="217027;1" time="2025/06/24 00:00:00-2025/06/30 00:00:00" />
-		<ItemSpec id="650133" name="111880203" icon="msj_icon_daoju1" description="111880255" type="198" color="4" page="4" pages="4" decompose="217027;1" time="2025/06/24 00:00:00-2025/06/30 00:00:00" />
-		<ItemSpec id="650134" name="111880204" icon="msj_icon_daoju5" description="111880256" type="198" color="4" page="4" pages="4" decompose="217027;1" time="2025/06/24 00:00:00-2025/06/30 00:00:00" />
-		<ItemSpec id="650135" name="111880202" icon="msj_icon_daoju6" description="111880254" type="198" color="4" page="4" pages="4" decompose="217027;1" time="2025/06/24 00:00:00-2025/06/30 00:00:00" />
+		<ItemSpec id="650117" name="111880188" icon="ICON_DJ_msqd_shipindai" description="111880276" type="5" lv="1" lv_limit="1" color="4" use="1" useall="1" decompose="217027;1" time="2025/05/15 00:00:00-2025/08/14 00:00:00" para5="650118;1|650119;1|650120;1|650121;1|650122;1|650124;1|650126;1|650127;1|650129;1" />
+		<ItemSpec id="650118" name="111880189" icon="ICON_DJ_msqd_fanqie" description="111880241" type="199" color="3" decompose="217027;1" time="2025/05/15 00:00:00-2025/08/14 00:00:01" />
+		<ItemSpec id="650119" name="111880190" icon="ICON_DJ_msqd_haiyan" description="111880242" type="199" color="3" decompose="217027;1" time="2025/05/15 00:00:00-2025/08/14 00:00:02" />
+		<ItemSpec id="650120" name="111880191" icon="ICON_DJ_msqd_jirou" description="111880243" type="199" color="3" decompose="217027;1" time="2025/05/15 00:00:00-2025/08/14 00:00:03" />
+		<ItemSpec id="650121" name="111880192" icon="ICON_DJ_msqd_lajiao" description="111880244" type="199" color="3" decompose="217027;1" time="2025/05/15 00:00:00-2025/08/14 00:00:04" />
+		<ItemSpec id="650122" name="111880193" icon="ICON_DJ_msqd_lvsun" description="111880245" type="199" color="3" decompose="217027;1" time="2025/05/15 00:00:00-2025/08/14 00:00:05" />
+		<ItemSpec id="650123" name="111880194" icon="ICON_DJ_msqd_midiexiang" description="111880246" type="199" color="3" decompose="217027;1" time="2025/05/15 00:00:00-2025/08/14 00:00:06" />
+		<ItemSpec id="650124" name="111880195" icon="ICON_DJ_msqd_niupai" description="111880247" type="199" color="3" decompose="217027;1" time="2025/05/15 00:00:00-2025/08/14 00:00:07" />
+		<ItemSpec id="650125" name="111880196" icon="ICON_DJ_msqd_tudou" description="111880248" type="199" color="3" decompose="217027;1" time="2025/05/15 00:00:00-2025/08/14 00:00:08" />
+		<ItemSpec id="650126" name="111880197" icon="ICON_DJ_msqd_xiareng" description="111880249" type="199" color="3" decompose="217027;1" time="2025/05/15 00:00:00-2025/08/14 00:00:09" />
+		<ItemSpec id="650127" name="111880198" icon="ICON_DJ_msqd_yurou" description="111880250" type="199" color="3" decompose="217027;1" time="2025/05/15 00:00:00-2025/08/14 00:00:10" />
+		<ItemSpec id="650128" name="111880199" icon="ICON_DJ_msqd_zhurou" description="111880251" type="199" color="3" decompose="217027;1" time="2025/05/15 00:00:00-2025/08/14 00:00:11" />
+		<ItemSpec id="650129" name="111880206" icon="ICON_DJ_msqd_congsuan" description="111880258" type="199" color="3" decompose="217027;1" time="2025/05/15 00:00:00-2025/08/14 00:00:12" />
+		<ItemSpec id="650130" name="111880201" icon="msj_icon_daoju2" description="111880253" type="198" color="4" decompose="217027;1" time="2025/05/15 00:00:00-2025/08/14 00:00:13" />
+		<ItemSpec id="650131" name="111880200" icon="msj_icon_daoju3" description="111880252" type="198" color="4" decompose="217027;1" time="2025/05/15 00:00:00-2025/08/14 00:00:14" />
+		<ItemSpec id="650132" name="111880205" icon="msj_icon_daoju4" description="111880257" type="198" color="4" decompose="217027;1" time="2025/05/15 00:00:00-2025/08/14 00:00:15" />
+		<ItemSpec id="650133" name="111880203" icon="msj_icon_daoju1" description="111880255" type="198" color="4" decompose="217027;1" time="2025/05/15 00:00:00-2025/08/14 00:00:16" />
+		<ItemSpec id="650134" name="111880204" icon="msj_icon_daoju5" description="111880256" type="198" color="4" decompose="217027;1" time="2025/05/15 00:00:00-2025/08/14 00:00:17" />
+		<ItemSpec id="650135" name="111880202" icon="msj_icon_daoju6" description="111880254" type="198" color="4" decompose="217027;1" time="2025/05/15 00:00:00-2025/08/14 00:00:18" />
 		<ItemSpec id="650136" name="111880168" icon="item650136" description="111880262" type="0" color="4" page="4" use="1" useall="1" order_num="99" pack_tab_type="0" />
 		<ItemSpec id="650137" name="111880167" icon="item650137" description="111880261" type="0" color="4" page="4" use="1" useall="1" order_num="99" pack_tab_type="0" />
 		<ItemSpec id="650138" name="111880166" icon="item650138" description="111880260" type="0" color="4" page="4" use="1" useall="1" order_num="99" pack_tab_type="0" />
@@ -5548,25 +5551,25 @@
 		<ItemSpec id="650140" name="111880263" icon="item650140" description="111880264" type="0" color="4" page="4" use="1" useall="1" order_num="99" pack_tab_type="0" />
 		<ItemSpec id="650141" name="111880221" icon="item650141" description="111880222" show_effect="item650141_spine|2" type="45" type2="0" lv="1" lv_limit="1" color="5" page="4" pages="4" use="1" order_num="418010" is_gift="1" version="1.250.088" para1="1" para2="3" para3="90800418" pack_tab_type="6" />
 		<ItemSpec id="650142" name="110320655" icon="item650142" description="110320656" type="0" lv="1" lv_limit="8" color="4" page="4" pages="4" use="0" order_num="86" pack_tab_type="6" decompose="217027;1" time="2025/07/14 00:00:00-2025/07/30 00:00:00" />
-		<ItemSpec id="650143" name="111880188" icon="ICON_DJ_msqd_shipindai" description="111880276" type="5" lv="1" lv_limit="1" color="4" page="4" pages="4" use="1" useall="1" decompose="217027;1" time="2025/07/14 00:00:00-2025/07/30 00:00:00" para5="650144;1|650145;1|650146;1|650147;1|650148;1|650150;1|650152;1|650153;1|650155;1" />
-		<ItemSpec id="650144" name="111880189" icon="ICON_DJ_msqd_fanqie" description="111880241" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/07/14 00:00:00-2025/07/30 00:00:01" />
-		<ItemSpec id="650145" name="111880190" icon="ICON_DJ_msqd_haiyan" description="111880242" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/07/14 00:00:00-2025/07/30 00:00:02" />
-		<ItemSpec id="650146" name="111880191" icon="ICON_DJ_msqd_jirou" description="111880243" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/07/14 00:00:00-2025/07/30 00:00:03" />
-		<ItemSpec id="650147" name="111880192" icon="ICON_DJ_msqd_lajiao" description="111880244" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/07/14 00:00:00-2025/07/30 00:00:04" />
-		<ItemSpec id="650148" name="111880193" icon="ICON_DJ_msqd_lvsun" description="111880245" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/07/14 00:00:00-2025/07/30 00:00:05" />
-		<ItemSpec id="650149" name="111880194" icon="ICON_DJ_msqd_midiexiang" description="111880246" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/07/14 00:00:00-2025/07/30 00:00:06" />
-		<ItemSpec id="650150" name="111880195" icon="ICON_DJ_msqd_niupai" description="111880247" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/07/14 00:00:00-2025/07/30 00:00:07" />
-		<ItemSpec id="650151" name="111880196" icon="ICON_DJ_msqd_tudou" description="111880248" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/07/14 00:00:00-2025/07/30 00:00:08" />
-		<ItemSpec id="650152" name="111880197" icon="ICON_DJ_msqd_xiareng" description="111880249" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/07/14 00:00:00-2025/07/30 00:00:09" />
-		<ItemSpec id="650153" name="111880198" icon="ICON_DJ_msqd_yurou" description="111880250" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/07/14 00:00:00-2025/07/30 00:00:10" />
-		<ItemSpec id="650154" name="111880199" icon="ICON_DJ_msqd_zhurou" description="111880251" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/07/14 00:00:00-2025/07/30 00:00:11" />
-		<ItemSpec id="650155" name="111880206" icon="ICON_DJ_msqd_congsuan" description="111880258" type="199" color="3" page="4" pages="4" decompose="217027;1" time="2025/07/14 00:00:00-2025/07/30 00:00:12" />
-		<ItemSpec id="650156" name="111880201" icon="msj_icon_daoju2" description="111880253" type="198" color="4" page="4" pages="4" decompose="217027;1" time="2025/07/14 00:00:00-2025/07/30 00:00:13" />
-		<ItemSpec id="650157" name="111880200" icon="msj_icon_daoju3" description="111880252" type="198" color="4" page="4" pages="4" decompose="217027;1" time="2025/07/14 00:00:00-2025/07/30 00:00:14" />
-		<ItemSpec id="650158" name="111880205" icon="msj_icon_daoju4" description="111880257" type="198" color="4" page="4" pages="4" decompose="217027;1" time="2025/07/14 00:00:00-2025/07/30 00:00:15" />
-		<ItemSpec id="650159" name="111880203" icon="msj_icon_daoju1" description="111880255" type="198" color="4" page="4" pages="4" decompose="217027;1" time="2025/07/14 00:00:00-2025/07/30 00:00:16" />
-		<ItemSpec id="650160" name="111880204" icon="msj_icon_daoju5" description="111880256" type="198" color="4" page="4" pages="4" decompose="217027;1" time="2025/07/14 00:00:00-2025/07/30 00:00:17" />
-		<ItemSpec id="650161" name="111880202" icon="msj_icon_daoju6" description="111880254" type="198" color="4" page="4" pages="4" decompose="217027;1" time="2025/07/14 00:00:00-2025/07/30 00:00:18" />
+		<ItemSpec id="650143" name="111880188" icon="ICON_DJ_msqd_shipindai" description="111880276" type="5" lv="1" lv_limit="1" color="4" use="1" useall="1" decompose="217027;1" time="2025/07/15 00:00:00-2025/07/30 00:00:00" para5="650144;1|650145;1|650146;1|650147;1|650148;1|650149;1|650150;1|650151;1|650152;1|650153;1|650154;1|650155;1" />
+		<ItemSpec id="650144" name="111880189" icon="ICON_DJ_msqd_fanqie" description="111880241" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2025/07/30 00:00:00" />
+		<ItemSpec id="650145" name="111880190" icon="ICON_DJ_msqd_haiyan" description="111880242" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2025/07/30 00:00:00" />
+		<ItemSpec id="650146" name="111880191" icon="ICON_DJ_msqd_jirou" description="111880243" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2025/07/30 00:00:00" />
+		<ItemSpec id="650147" name="111880192" icon="ICON_DJ_msqd_lajiao" description="111880244" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2025/07/30 00:00:00" />
+		<ItemSpec id="650148" name="111880193" icon="ICON_DJ_msqd_lvsun" description="111880245" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2025/07/30 00:00:00" />
+		<ItemSpec id="650149" name="111880194" icon="ICON_DJ_msqd_midiexiang" description="111880246" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2025/07/30 00:00:00" />
+		<ItemSpec id="650150" name="111880195" icon="ICON_DJ_msqd_niupai" description="111880247" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2025/07/30 00:00:00" />
+		<ItemSpec id="650151" name="111880196" icon="ICON_DJ_msqd_tudou" description="111880248" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2025/07/30 00:00:00" />
+		<ItemSpec id="650152" name="111880197" icon="ICON_DJ_msqd_xiareng" description="111880249" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2025/07/30 00:00:00" />
+		<ItemSpec id="650153" name="111880198" icon="ICON_DJ_msqd_yurou" description="111880250" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2025/07/30 00:00:00" />
+		<ItemSpec id="650154" name="111880199" icon="ICON_DJ_msqd_zhurou" description="111880251" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2025/07/30 00:00:00" />
+		<ItemSpec id="650155" name="111880206" icon="ICON_DJ_msqd_congsuan" description="111880258" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2025/07/30 00:00:00" />
+		<ItemSpec id="650156" name="111880201" icon="msj_icon_daoju2" description="111880253" type="198" color="4" decompose="217027;1" time="2025/07/15 00:00:00-2025/07/30 00:00:00" />
+		<ItemSpec id="650157" name="111880200" icon="msj_icon_daoju3" description="111880252" type="198" color="4" decompose="217027;1" time="2025/07/15 00:00:00-2025/07/30 00:00:00" />
+		<ItemSpec id="650158" name="111880205" icon="msj_icon_daoju4" description="111880257" type="198" color="4" decompose="217027;1" time="2025/07/15 00:00:00-2025/07/30 00:00:00" />
+		<ItemSpec id="650159" name="111880203" icon="msj_icon_daoju1" description="111880255" type="198" color="4" decompose="217027;1" time="2025/07/15 00:00:00-2025/07/30 00:00:00" />
+		<ItemSpec id="650160" name="111880204" icon="msj_icon_daoju5" description="111880256" type="198" color="4" decompose="217027;1" time="2025/07/15 00:00:00-2025/07/30 00:00:00" />
+		<ItemSpec id="650161" name="111880202" icon="msj_icon_daoju6" description="111880254" type="198" color="4" decompose="217027;1" time="2025/07/15 00:00:00-2025/07/30 00:00:00" />
 		<ItemSpec id="650162" name="110320655" icon="item650162" description="110320656" type="0" lv="1" lv_limit="8" color="4" page="4" pages="4" use="0" order_num="86" decompose="217027;1" time="2025/08/10 00:00:00-2025/08/30 00:00:00" pack_tab_type="6" />
 		<ItemSpec id="650163" name="112188003" icon="item650163" description="112188004" desc_value="1|5" type="0" lv="8" lv_limit="9" para="60" color="4" page="4" pages="4" use="0" order_num="422095" para1="1" para5="5" pack_tab_type="6" />
 		<ItemSpec id="650164" name="110661889" icon="item650164" description="110320656" type="0" lv="1" lv_limit="8" color="4" page="4" pages="4" use="0" order_num="86" decompose="217027;1" time="2025/09/10 00:00:00-2025/10/01 00:00:00" pack_tab_type="6" />
@@ -5582,6 +5585,25 @@
 		<ItemSpec id="650182" name="110706003" icon="item312122" description="110706005" type="74" lv="1" lv_limit="1" color="4" use="0" decompose="217027;1" time="2020/09/25 00:00:00-2020/10/14 00:00:00" />
 		<ItemSpec id="650183" name="110706002" icon="item312123" description="110706005" type="74" lv="1" lv_limit="1" color="4" use="0" decompose="217027;1" time="2020/09/25 00:00:00-2020/10/14 00:00:00" />
 		<ItemSpec id="650184" name="90823145" icon="item215318" description="110028070" type="5" type3="1" lv="1" lv_limit="1" color="4" page="4" pages="4" use="1" useall="1" order_num="1" para5="215314;1|215315;1|215316;1|215317;1" pack_tab_type="6" />
+		<ItemSpec id="650185" name="111880188" icon="ICON_DJ_msqd_shipindai" description="111880276" type="5" lv="1" lv_limit="1" color="4" use="1" useall="1" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" para5="650186;1|650187;1|650188;1|650189;1|650190;1|650192;1|650194;1|650195;1|650197;1" />
+		<ItemSpec id="650186" name="111880189" icon="ICON_DJ_msqd_fanqie" description="111880241" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
+		<ItemSpec id="650187" name="111880190" icon="ICON_DJ_msqd_haiyan" description="111880242" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
+		<ItemSpec id="650188" name="111880191" icon="ICON_DJ_msqd_jirou" description="111880243" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
+		<ItemSpec id="650189" name="111880192" icon="ICON_DJ_msqd_lajiao" description="111880244" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
+		<ItemSpec id="650190" name="111880193" icon="ICON_DJ_msqd_lvsun" description="111880245" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
+		<ItemSpec id="650191" name="111880194" icon="ICON_DJ_msqd_midiexiang" description="111880246" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
+		<ItemSpec id="650192" name="111880195" icon="ICON_DJ_msqd_niupai" description="111880247" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
+		<ItemSpec id="650193" name="111880196" icon="ICON_DJ_msqd_tudou" description="111880248" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
+		<ItemSpec id="650194" name="111880197" icon="ICON_DJ_msqd_xiareng" description="111880249" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
+		<ItemSpec id="650195" name="111880198" icon="ICON_DJ_msqd_yurou" description="111880250" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
+		<ItemSpec id="650196" name="111880199" icon="ICON_DJ_msqd_zhurou" description="111880251" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
+		<ItemSpec id="650197" name="111880206" icon="ICON_DJ_msqd_congsuan" description="111880258" type="199" color="3" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
+		<ItemSpec id="650198" name="111880201" icon="msj_icon_daoju2" description="111880253" type="198" color="4" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
+		<ItemSpec id="650199" name="111880200" icon="msj_icon_daoju3" description="111880252" type="198" color="4" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
+		<ItemSpec id="650200" name="111880205" icon="msj_icon_daoju4" description="111880257" type="198" color="4" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
+		<ItemSpec id="650201" name="111880203" icon="msj_icon_daoju1" description="111880255" type="198" color="4" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
+		<ItemSpec id="650202" name="111880204" icon="msj_icon_daoju5" description="111880256" type="198" color="4" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
+		<ItemSpec id="650203" name="111880202" icon="msj_icon_daoju6" description="111880254" type="198" color="4" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
         <ItemSpec id="700002" name="110558032" icon="item700002" description="110558031" type="162" lv="1" lv_limit="1" color="4" page="4" pages="4" use="0" order_num="777" is_show="1" pack_tab_type="6" />
         <ItemSpec id="700003" name="110558033" icon="item700003" description="110558031" type="162" lv="1" lv_limit="1" color="4" page="4" pages="4" use="0" order_num="777" is_show="1" pack_tab_type="6" />
         <ItemSpec id="700004" name="110558034" icon="item700004" description="110558031" type="162" lv="1" lv_limit="1" color="4" page="4" pages="4" use="0" order_num="777" is_show="1" pack_tab_type="6" />
@@ -6563,6 +6585,15 @@
 <ItemSpec id="312498" name="112160206" icon="item312498" description="112160207" type="149" type3="3" lv="1" lv_limit="1" color="5" page="4" pages="4" use="0" decompose="310056;2" time="2020/09/25 00:00:00-2025/10/14 00:00:00" para3="1527100" pack_tab_type="0" />
 <ItemSpec id="312499" name="112160208" icon="item312499" description="112160209" type="149" type3="3" lv="1" lv_limit="1" color="4" page="4" pages="4" use="0" decompose="310057;5" time="2020/09/25 00:00:00-2025/10/14 00:00:00" para3="1527200" pack_tab_type="0" />
 <ItemSpec id="312500" name="112160210" icon="item312500" description="112160211" type="149" type3="3" lv="1" lv_limit="1" color="3" page="4" pages="4" use="0" decompose="310058;10" time="2020/09/25 00:00:00-2025/10/14 00:00:00" para3="1527300" pack_tab_type="0" />
+<ItemSpec id="220980" type="98" lv_limit="8" decoration_gift="1" name="110663870" icon="item220980" description="110663871" type3="2" lv="1" color="5" page="4" pages="4" use="0" go_to="7" order_num="99" combo="1" para3="31981" pack_tab_type="0" />
+<ItemSpec id="220981" type="98" lv_limit="8" name="110663876" icon="item220981" description="110663877" type3="2" lv="1" color="4" page="4" pages="4" use="0" go_to="7" order_num="99" para3="41938" para5=" " pack_tab_type="0" />
+<ItemSpec id="220982" type="98" lv_limit="8" name="110663879" icon="item220982" description="110663880" type3="2" lv="1" color="4" page="4" pages="4" use="0" go_to="7" order_num="99" para3="48621" pack_tab_type="0" />
+<ItemSpec id="220983" type="98" lv_limit="8" name="110663882" icon="item220983" description="110663883" type3="2" lv="1" color="4" page="4" pages="4" use="0" go_to="7" order_num="99" para3="42189" pack_tab_type="0" />
+<ItemSpec id="220984" type="98" lv_limit="8" decoration_gift="1" name="110663886" icon="item220984" description="110663887" type3="2" lv="1" color="5" page="4" pages="4" use="0" go_to="7" order_num="99" combo="1" para3="2988" pack_tab_type="0" />
+<ItemSpec id="220985" type="98" lv_limit="8" decoration_gift="1" name="110663893" icon="item220985" description="110663894" type3="2" lv="1" color="5" page="4" pages="4" use="0" go_to="7" order_num="99" combo="1" para3="100084" pack_tab_type="0" />
+<ItemSpec id="220986" type="5" lv_limit="8" useall="1" name="110663872" icon="item220986" description="110663873" type3="1" lv="1" color="4" page="4" pages="4" use="1" order_num="99" para3="193697" para4="800333" para5="220980;1|220981;1|200060;1|210164;50|200056;1|200366;1" pack_tab_type="0" />
+<ItemSpec id="220987" type="5" lv_limit="8" useall="1" name="110663888" icon="item220987" description="110663889" type3="1" lv="1" color="4" page="4" pages="4" use="1" order_num="99" para3="193697" para4="800335" para5="220984;1|200060;1|210164;50|200056;1|200366;1" pack_tab_type="0" />
+<ItemSpec id="220988" type="5" lv_limit="8" useall="1" name="110663895" icon="item220988" description="110663894" type3="1" lv="1" color="4" page="4" pages="4" use="1" order_num="99" para3="193697" para4="104150" para5="220985;1|200060;1|210164;50|200056;1|200366;1" pack_tab_type="0" />
 </Group>
  <Group id="arms">
     <ItemSpec id="107000" name="103500" description="103550" arm="1" arms_type="1" arm_type_new="0" arm_1="1" level="1" icon="ico107000" featuredescription="180000;180001|180002;180003|180004;180005" featureicon="skill_109034;skill_109036;skill_109038" buildId="423000" kind="icon_bubing_1" skill_type2="5;6;7;11" icon_type="1" power="1" uptech="972500" />
@@ -7228,6 +7259,13 @@
 		<ItemSpec id="561276" name="112170036" description="112170039" desc_para="status_effect;561276;900|2|status_effect;561277;909|status_effect;561278;913|5|8" icon="FB_IC_mingbao3_SKILL" is_show="1" new_hero_skill="60594" effect="900;5" effect_add="900;5" overlap="15" group="56127600" />
 		<ItemSpec id="561277" name="112170036" description="112170039" desc_para="status_effect;561276;900|2|status_effect;561277;909|status_effect;561278;913|5|8" icon="FB_IC_mingbao3_SKILL" is_show="1" new_hero_skill="60594" effect="909;6|912;6" effect_add="909;1|912;1" overlap="11" group="56127700" />
 		<ItemSpec id="561278" name="112170036" description="112170039" desc_para="status_effect;561276;900|2|status_effect;561277;909|status_effect;561278;913|5|8" icon="FB_IC_mingbao3_SKILL" is_show="1" new_hero_skill="60594" effect="913;3|914;3" effect_add="913;3|914;3" overlap="11" group="56127800" />
+		<ItemSpec id="561279" name="88003856" description="88003859" desc_para="2|status_effect;561279;913|2" icon="FB_IC_liexingxiaozi1_SKILL" is_show="1" new_hero_skill="60597" effect="913;2|914;2" effect_add="913;2|914;2" overlap="12" group="56127900" clearing="2" newclearing="1" />
+		<ItemSpec id="561280" name="88003857" description="88003860" desc_para="75|effect;313|45" icon="FB_IC_liexingxiaozi2_SKILL" is_show="1" new_hero_skill="60598" effect="456;1" effect_add="456;1" overlap="0" group="56128000" clearing="2" newclearing="1" />
+		<ItemSpec id="561281" name="88003858" description="88003861" desc_para="status_effect;561281;913|status_effect;561282;913|status_effect;561282;909" icon="FB_IC_liexingxiaozi3_SKILL" is_show="1" new_hero_skill="60599" effect="913;8|914;8" effect_add="913;8|914;8" overlap="0" group="56128100" clearing="2" newclearing="1" />
+		<ItemSpec id="561282" name="88003858" description="88003861" desc_para="status_effect;561282;913|status_effect;561282;913|status_effect;561282;909" icon="FB_IC_liexingxiaozi3_SKILL" is_show="1" new_hero_skill="60599" effect="913;1|914;1|909;3|912;3" effect_add="913;1|914;1|909;3|912;3" overlap="12" group="56128200" clearing="2" newclearing="1" />
+		<ItemSpec id="561284" name="88003844" description="88003847" desc_para="status_effect;561284;909|status_effect;561285;31065|status_effect;561286;32062" icon="FB_IC_battle_jiushengguan1_SKILL" is_show="1" new_hero_skill="60583" effect="909;3|912;3" effect_add="909;3|912;3" overlap="0" group="56125000" />
+		<ItemSpec id="561285" name="88003844" description="88003847" desc_para="status_effect;561284;909|status_effect;561285;31065|status_effect;561286;32062" icon="FB_IC_battle_jiushengguan1_SKILL" is_show="1" new_hero_skill="60583" effect="31065;1" effect_add="31065;1" overlap="0" group="56125100" />
+		<ItemSpec id="561286" name="88003844" description="88003847" desc_para="status_effect;561284;909|status_effect;561285;31065|status_effect;561286;32062" icon="FB_IC_battle_jiushengguan1_SKILL" is_show="1" new_hero_skill="60583" effect="32062;5" effect_add="32062;5" overlap="0" group="56125200" />
 	<ItemSpec id="601001" description="110279617" effect="10142;500000" overlap="1" group="60100100" />
 	<ItemSpec id="601002" description="110279618" effect="10143;500000" overlap="1" group="60100200" />
 	<ItemSpec id="601003" description="110279619" effect="10144;500000" overlap="1" group="60100300" />
@@ -27632,7 +27670,7 @@
      <!--2024-12月3日BP-->
 	<!-- <ItemSpec id="57722" sub_type="leaderboard_battlepass" type="112" activityid="10" name="5601960" mode="1" order="1" desc="5601965" desc_info="5601965" story="5601965" tips_desc="5601965" Advertise_pic="banner_1203bp" activity_pic="banner_1203bp" circulation_pic="banner_1203bp" bpresource_banner="XR_1203bp1_bg"  /> -->
 	     <!--2024-12月09日BP-->
-	<ItemSpec id="57722" sub_type="leaderboard_battlepass" type="112" activityid="10" name="5601981" mode="1" order="1" desc="5601973" desc_info="5601973" story="5601973" tips_desc="5601973" Advertise_pic="banner_25shengdan" activity_pic="banner_25shengdan" circulation_pic="banner_25shengdan" bpresource_banner="XR_25shengdanbp1_bg" />
+	<!-- <ItemSpec id="57722" sub_type="leaderboard_battlepass" type="112" activityid="10" name="5601981" mode="1" order="1" desc="5601973" desc_info="5601973" story="5601973" tips_desc="5601973" Advertise_pic="banner_25shengdan" activity_pic="banner_25shengdan" circulation_pic="banner_25shengdan" bpresource_banner="XR_25shengdanbp1_bg" /> -->
      <!--2024-12月16日BP-->
 <!-- <ItemSpec id="57722" sub_type="leaderboard_battlepass" type="112" activityid="5" name="5601974" mode="1" order="1" desc="5601980" desc_info="5601980" story="5601980" tips_desc="5601980" Advertise_pic="banner_1216bp" activity_pic="banner_1216bp" circulation_pic="banner_1216bp" bpresource_banner="XR_1216bp1_bg"  /> -->
      <!--2024-12月23日BP-->
@@ -27678,8 +27716,9 @@
     <!--2025-11月01日 BP-->
     <!-- <ItemSpec id="57722" sub_type="leaderboard_battlepass" type="112" activityid="10" name="5602313" mode="1" order="1" desc="5602015" desc_info="5602015" story="5602015" tips_desc="5602015" Advertise_pic="banner_shenqiu" activity_pic="banner_shenqiu" circulation_pic="banner_shenqiu" bpresource_banner="XR_shenqiubp1_bg"  /> -->
     <!--2025冬日BP-->
-   <!--  <ItemSpec id="57722" sub_type="leaderboard_battlepass" type="112" activityid="10" name="5601967" mode="1" order="1" desc="5602015" desc_info="5602015" story="5602015" tips_desc="5602015" Advertise_pic="banner_25dongri" activity_pic="banner_25dongri" circulation_pic="banner_25dongri" bpresource_banner="XR_25dongribp1_bg"  />
- -->
+   <!--  <ItemSpec id="57722" sub_type="leaderboard_battlepass" type="112" activityid="10" name="5601967" mode="1" order="1" desc="5602015" desc_info="5602015" story="5602015" tips_desc="5602015" Advertise_pic="banner_25dongri" activity_pic="banner_25dongri" circulation_pic="banner_25dongri" bpresource_banner="XR_25dongribp1_bg"  />-->
+   <!-- 26元旦 -->
+    <ItemSpec id="57722" sub_type="leaderboard_battlepass" type="112" activityid="10" name="5602328" mode="1" order="1" desc="5601973" desc_info="5601973" story="5601973" tips_desc="5601973" Advertise_pic="banner_26yuandan" activity_pic="banner_26yuandan" circulation_pic="banner_26yuandan" bpresource_banner="XR_26yuandanbp1_bg" />
 
  <!--2024-02月10日BP-->
 <!-- <ItemSpec id="57722" sub_type="leaderboard_battlepass" type="112" activityid="10" name="88003810" mode="1" order="1" desc="5602015" desc_info="5602015" story="5602015" tips_desc="5602015" Advertise_pic="banner_diwangbp" activity_pic="banner_diwangbp" circulation_pic="banner_diwangbp" bpresource_banner="XR_diwangbp1_bg"  /> -->
@@ -27881,7 +27920,7 @@
 <!-- 塔防英雄技能解锁关卡 -->	
 	<ItemSpec id="td_skill_unlock" k1="2|19|29" />
 <!-- 联盟盛宴 -->
-	<ItemSpec id="57821" sub_type="alliance_feast" type="253" name="111880225" mode="1" order="455" tips_desc="111880106" Advertise_pic="banner_alliance_feast" activity_pic="banner_alliance_feast" circulation_pic="banner_alliance_feast" />
+	<ItemSpec id="57821" sub_type="alliance_feast" type="253" name="111880225" mode="1" order="1" tips_desc="111880106" Advertise_pic="banner_alliance_feast" activity_pic="banner_alliance_feast" circulation_pic="banner_alliance_feast" />
 
 <!-- 联盟争霸赛 -->
 	<ItemSpec id="57824" sub_type="alliance_championship" type="231" name="110112211" mode="1" order="1" Advertise_pic="banner_alliance_championship" activity_pic="banner_alliance_championship" circulation_pic="banner_alliance_championship" desc="110112212" tips_desc="110112212" />

@@ -675,6 +675,18 @@
     <ItemSpec id="650160" order="0" description="111880109" type="45" para1="68;1" icon="msj_icon_daoju3" />
     <ItemSpec id="650161" order="0" description="111880109" type="45" para1="68;1" icon="msj_icon_daoju3" />
 
+    <ItemSpec id="650198" order="0" description="111880109" type="45" para1="68;1" icon="msj_icon_daoju3" />
+    <ItemSpec id="650199" order="0" description="111880109" type="45" para1="68;1" icon="msj_icon_daoju3" />
+    <ItemSpec id="650200" order="0" description="111880109" type="45" para1="68;1" icon="msj_icon_daoju3" />
+    <ItemSpec id="650201" order="0" description="111880109" type="45" para1="68;1" icon="msj_icon_daoju3" />
+    <ItemSpec id="650202" order="0" description="111880109" type="45" para1="68;1" icon="msj_icon_daoju3" />
+    <ItemSpec id="650203" order="0" description="111880109" type="45" para1="68;1" icon="msj_icon_daoju3" />
+
+    <!--联盟盛宴-活动道具-->
+    <ItemSpec id="650185" order="0" description="110810192" />
+    <ItemSpec id="650185" order="1" type="4" description="83401411" para1="60;650185" />                  <!--礼包-->
+    <ItemSpec id="650185" order="2" type="3" description="110221518" para1="57722" icon="ICON_DJ_msqd_shipindai" /> <!-- 活动bp -->
+
    <!--珍品券道具-->
     <ItemSpec id="227086" order="0" description="110270353" />
     <ItemSpec id="227086" order="1" type="4" description="83401411" para1="60;227086" />                  <!--礼包-->

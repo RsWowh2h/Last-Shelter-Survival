@@ -71,6 +71,12 @@
 		<ItemSpec id="102785" name="112170035" icon="FB_IC_mingbao2_SKILL" range="5" round="2;4;6;8" effect="151;240" effect_add="151;40" lock_effect="0_151;108,1_151;123,2_151;138,3_151;153,4_151;168" lock_effect_add="0_151;18,1_151;21,2_151;23,3_151;26,4_151;28" rate="1000"/>
 		<ItemSpec id="102786" name="112170035" icon="FB_IC_mingbao2_SKILL" range="5" round="2;4;6;8" effect="151;240|31063;10" effect_add="151;40|31063;10" lock_effect="0_151;108,1_151;123,2_151;138,3_151;153,4_151;168" lock_effect_add="0_151;18,1_151;21,2_151;23,3_151;26,4_151;28" rate="1000"/>
 		<ItemSpec id="102787" name="112170036" icon="FB_IC_mingbao3_SKILL" range="5" round="0" object="4" object_num="2" rate="1000"/>
+		<ItemSpec id="102788" name="88003856" icon="FB_IC_liexingxiaozi1_SKILL" range="5" object="4" object_num="3" rate="1000"/>
+		<ItemSpec id="102789" name="88003857" icon="FB_IC_liexingxiaozi2_SKILL" range="5" round="1;2;3;4;5;6;7;8" object="3" object_num="1" effect="313;87" effect_add="313;7" rate="750"/>
+		<ItemSpec id="102790" name="88003858" icon="FB_IC_liexingxiaozi3_SKILL" range="5" round="1;2;3;4;5;6;7;8" object="4" object_num="3" rate="1000"/>
+		<ItemSpec id="102791" name="88003858" icon="FB_IC_liexingxiaozi3_SKILL" range="5" round="0" object="4" object_num="3" rate="1000"/>
+		<ItemSpec id="102792" name="88003844" icon="FB_IC_battle_jiushengguan1_SKILL" range="5" round="1;2;3;4;5;6;7;8" object="4" object_num="3" rate="1000"/>
+		<ItemSpec id="102793" name="88003844" icon="FB_IC_battle_jiushengguan1_SKILL" range="5" rate="1000"/>
 		<ItemSpec id="106001" name="110112066" icon="icon_jiezhi" range="1" round="0" object="3" object_num="1" rate="1000" status_rate="1000"/>
 		<ItemSpec id="106002" name="110112066" icon="icon_jiezhi" range="1" round="0" object="3" object_num="1" rate="1000" status_rate="1000"/>
 		<ItemSpec id="106003" name="110112066" icon="icon_jiezhi" range="1" round="0" object="3" object_num="1" rate="1000" status_rate="1000"/>
