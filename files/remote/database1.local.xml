@@ -421,7 +421,7 @@
 		<ItemSpec id="215955" name="110470114" icon="xilian_2079_big" description="110470124" desc_value="8" type="116" lv="1" lv_limit="25" para="200571" color="3" page="4" pages="4" use="1" useall="1" order_num="98" para1="200571" pack_tab_type="0" />
 		<ItemSpec id="215956" name="110470115" icon="xilian_2080_big" description="110470125" desc_value="80|24" type="116" lv="1" lv_limit="25" para="200573" color="3" page="4" pages="4" use="1" useall="1" order_num="98" para1="200573" pack_tab_type="0" />
 		<ItemSpec id="215957" name="110470116" icon="xilian_2081_big" description="110470126" desc_value="1.6|1.6|7" type="116" lv="1" lv_limit="25" para="200575" color="3" page="4" pages="4" use="1" useall="1" order_num="98" para1="200575" pack_tab_type="0" type2="1" />
-		<ItemSpec id="215958" name="110470117" icon="xilian_2082_big" description="110470127" desc_value="32|16" type="116" lv="1" lv_limit="25" para="200577" color="3" page="4" pages="4" use="1" useall="1" order_num="98" para1="200577" pack_tab_type="0" />
+		<ItemSpec id="215958" name="110470117" icon="xilian_2082_big" description="110470127" desc_value="32|16" type="116" lv="1" lv_limit="25" para="200577" color="3" page="4" pages="4" use="1" useall="1" order_num="98" para1="200577" pack_tab_type="0" type2="1" />
 		<ItemSpec id="215959" name="110470118" icon="xilian_2083_big" description="110470128" desc_value="12" type="116" lv="1" lv_limit="25" para="200579" color="3" page="4" pages="4" use="1" useall="1" order_num="98" para1="200579" pack_tab_type="0" />
 		<ItemSpec id="217233" name="110111395" icon="item217233" description="110111396" type="0" lv="1" lv_limit="1" color="4" page="4" pages="4" use="0" order_num="3200051" pack_tab_type="0" />
 		<ItemSpec id="217253" name="110111498" icon="item217253" description="110111499" type="0" lv="1" lv_limit="1" color="4" page="4" pages="4" use="0" order_num="3200051" />
@@ -964,6 +964,7 @@
 		<ItemSpec id="221115" name="110663779" icon="item221115" description="110663780" type="98" type3="2" lv="1" lv_limit="8" color="4" page="4" pages="4" use="0" go_to="7" order_num="99" para3="90017" decoration_gift="1" pack_tab_type="0" />
 		<ItemSpec id="221116" name="112160212" icon="item220995" description="112160213" type="98" type3="2" lv="1" lv_limit="8" color="5" page="4" pages="4" use="0" go_to="7" order_num="99" combo="1" para3="31982" decoration_gift="1" pack_tab_type="0" />
 		<ItemSpec id="221117" name="112160213" icon="item215795" description="110222088" type="98" type3="2" lv="1" lv_limit="8" color="5" page="4" pages="4" use="0" go_to="7" order_num="99" para3="23200" decoration_gift="1" pack_tab_type="0" />
+		<ItemSpec id="221118" name="110663965" icon="item221118" description="110663966" type="98" type3="2" lv="1" lv_limit="8" color="4" page="4" pages="4" use="0" go_to="7" order_num="99" para3="90018" decoration_gift="1" pack_tab_type="0"/>
 		<ItemSpec id="227145" name="110270505" icon="item227142" description="110661408" type="59" type3="1" lv="1" lv_limit="1" color="4" page="4" pages="4" use="1" useall="1" order_num="628078" price_hot="100000" para3="5600996" para4="5600996" para5="215934;1|215931;1|215929;1|215930;1|215928;1|215925;1|215926;1|215927;1" pack_tab_type="0" />
 		<ItemSpec id="227146" name="110320838" icon="item227143" description="110221557" type="59" lv="1" lv_limit="1" color="4" page="4" pages="4" use="1" order_num="628078" price_hot="100000" para3="110320838" para4="110320838" para5="322026;1|322025;1|322022;1|322018;1|322019;1|219179;1|219180;1|219181;1" pack_tab_type="0" />
 		<ItemSpec id="227147" name="110041511" icon="item227147" description="110041512" type="59" lv="1" lv_limit="1" color="4" page="4" pages="4" use="1" order_num="628078" price_hot="100000" para3="110041512" para4="110041512" para5="230069;1|230070;1|230028;1|227091;3" pack_tab_type="0" />
@@ -1207,9 +1208,9 @@
 		<ItemSpec id="312437" name="5602075" icon="item312437" description="110706007" type="74" lv="1" lv_limit="1" color="4" page="4" pages="4" use="0" decompose="217027;1" time="2020/09/25 00:00:00-2020/10/14 00:00:00" pack_tab_type="0" />
 		<ItemSpec id="312438" name="5602076" icon="item312438" description="110706007" type="74" lv="1" lv_limit="1" color="4" page="4" pages="4" use="0" decompose="217027;1" time="2020/09/25 00:00:00-2020/10/14 00:00:00" pack_tab_type="0" />
 		<ItemSpec id="312439" name="5602077" icon="item312439" description="110706007" type="74" lv="1" lv_limit="1" color="4" page="4" pages="4" use="0" decompose="217027;1" time="2020/09/25 00:00:00-2020/10/14 00:00:00" pack_tab_type="0" />
-		<ItemSpec id="312440" name="5602092" icon="item312440" description="5602091" type="74" lv="1" lv_limit="1" color="4" page="4" pages="4" use="0" decompose="217027;1" time="2020/09/25 00:00:00-2020/10/14 00:00:00" pack_tab_type="0" />
-		<ItemSpec id="312441" name="5602094" icon="item312441" description="5602091" type="74" lv="1" lv_limit="1" color="4" page="4" pages="4" use="0" decompose="217027;1" time="2020/09/25 00:00:00-2020/10/14 00:00:00" pack_tab_type="0" />
-		<ItemSpec id="312442" name="5602093" icon="item312442" description="5602091" type="74" lv="1" lv_limit="1" color="4" page="4" pages="4" use="0" decompose="217027;1" time="2020/09/25 00:00:00-2020/10/14 00:00:00" pack_tab_type="0" />
+		<ItemSpec id="312440" name="5602092" icon="item312440" description="5602091" type="74" lv="1" lv_limit="1" color="4" use="0" decompose="217027;1" time="2020/09/25 00:00:00-2020/10/14 00:00:00" pack_tab_type="0" />
+		<ItemSpec id="312441" name="5602094" icon="item312441" description="5602091" type="74" lv="1" lv_limit="1" color="4" use="0" decompose="217027;1" time="2020/09/25 00:00:00-2020/10/14 00:00:00" pack_tab_type="0" />
+		<ItemSpec id="312442" name="5602093" icon="item312442" description="5602091" type="74" lv="1" lv_limit="1" color="4" use="0" decompose="217027;1" time="2020/09/25 00:00:00-2020/10/14 00:00:00" pack_tab_type="0" />
 		<ItemSpec id="312443" name="5602073" icon="item312443" description="5602074" desc_value="1|5" type="0" lv="6" lv_limit="1" para="60" color="4" page="4" pages="4" use="0" order_num="422095" para1="1" para5="5" pack_tab_type="6" />
 		<ItemSpec id="312445" name="5602064" icon="item312445" description="5602065" desc_value="1|5" type="0" lv="6" lv_limit="1" para="60" color="4" page="4" pages="4" use="0" order_num="422095" para1="1" para5="5" pack_tab_type="6" />
 		<ItemSpec id="312446" name="5602067" icon="item312446" description="5602068" desc_value="1|5" type="0" lv="6" lv_limit="1" para="60" color="4" page="4" pages="4" use="0" order_num="422095" para1="1" para5="5" pack_tab_type="6" />
@@ -1251,6 +1252,9 @@
 		<ItemSpec id="312493" name="110663958" icon="item312493" description="110663959" type="149" type3="3" lv="1" lv_limit="1" color="4" page="4" pages="4" use="0" decompose="310057;5" time="2020/09/25 00:00:00-2025/10/14 00:00:00" para3="1526100" pack_tab_type="0" />
 		<ItemSpec id="312494" name="110663956" icon="item312494" description="110663957" type="149" type3="3" lv="1" lv_limit="1" color="5" page="4" pages="4" use="0" decompose="310056;2" time="2020/09/25 00:00:00-2025/10/14 00:00:00" para3="1526200" pack_tab_type="0" />
 		<ItemSpec id="312495" name="110663954" icon="item312495" description="110663955" type="149" type3="3" lv="1" lv_limit="1" color="5" page="4" pages="4" use="0" decompose="310056;2" time="2020/09/25 00:00:00-2025/10/14 00:00:00" para3="1526300" pack_tab_type="0" />
+		<ItemSpec id="312506" name="5602092" icon="item312440" description="5602091" type="74" lv="1" lv_limit="1" color="4" use="0" decompose="217027;1" time="2026/01/07 00:00:00-2026/01/14 00:00:00" pack_tab_type="0" OverTimeAutoUse="3" />
+		<ItemSpec id="312507" name="5602094" icon="item312441" description="5602091" type="74" lv="1" lv_limit="1" color="4" use="0" decompose="217027;1" time="2026/01/07 00:00:00-2026/01/14 00:00:00" pack_tab_type="0" OverTimeAutoUse="3" />
+		<ItemSpec id="312508" name="5602093" icon="item312442" description="5602091" type="74" lv="1" lv_limit="1" color="4" use="0" decompose="217027;1" time="2026/01/07 00:00:00-2026/01/14 00:00:00" pack_tab_type="0" OverTimeAutoUse="3" />
 		<ItemSpec id="322039" name="110250988" icon="item322039" description="110250989" type="59" lv_limit="1" color="5" page="4" pages="4" use="1" order_num="628078" price_hot="100000" lv="1" pack_tab_type="0" type3="1" para3="5600996" para4="5600996" para5="202741;1|202742;1|202743;1|202744;1|202745;1" use_all="1" />
 		<ItemSpec id="510311" name="112193001" icon="pet_snowman_01" description="112193001" type="0" lv="1" lv_limit="1" color="5" page="4" pages="4" use="0" />
 		<ItemSpec id="511301" name="112187005" icon="item511301" description="112187006" type="0" type2="0" lv="1" lv_limit="1" para="1" color="5" page="4" use="0" order_num="511301" pack_tab_type="6" />
@@ -5578,9 +5582,9 @@
 		<ItemSpec id="650175" name="170015" icon="item230085" description="90823200" type="0" lv="1" lv_limit="1" color="5" page="4" pages="4" use="0" order_num="99" />
 		<ItemSpec id="650176" name="112188030" icon="item650176" description="90823200" type="74" lv="1" lv_limit="1" color="5" page="4" pages="4" use="0" decompose="217027;1" time="2025/11/24 00:00:00-2025/12/02 00:00:00" pack_tab_type="0" />
 		<ItemSpec id="650177" name="110661889" icon="item650177" description="110320656" type="0" lv="1" lv_limit="8" color="4" page="4" pages="4" use="0" order_num="86" decompose="217027;1" time="2025/11/24 00:00:00-2025/12/02 00:00:00" pack_tab_type="6" />
-		<ItemSpec id="650178" name="112188076" icon="item650178" description="112188077" type="74" lv="1" lv_limit="1" color="4" page="4" pages="4" use="0" pack_tab_type="0" />
-		<ItemSpec id="650179" name="110661889" icon="item6501781" description="110320656" type="0" lv="1" lv_limit="8" color="4" page="4" pages="4" use="0" order_num="86" />
-		<ItemSpec id="650180" name="112188096" icon="item650180" description="90823200" type="0" lv="1" lv_limit="1" color="5" page="4" pages="4" use="0" order_num="99" />
+		<ItemSpec id="650178" name="112188076" icon="item650178" description="112188077" type="74" lv="1" lv_limit="1" color="4" page="4" pages="4" use="0" pack_tab_type="0" decompose="217027;1" time="2025/12/23 00:00:00-2025/12/31 00:00:00" />
+		<ItemSpec id="650179" name="110661889" icon="item6501781" description="110320656" type="0" lv="1" lv_limit="8" color="4" page="4" pages="4" use="0" order_num="86" decompose="217027;1" time="2025/12/16 00:00:00-2025/12/23 00:00:00" />
+		<ItemSpec id="650180" name="112188096" icon="item650180" description="90823200" type="0" lv="1" lv_limit="1" color="5" page="4" pages="4" use="0" order_num="99" decompose="217027;1" time="2025/12/16 00:00:00-2025/12/31 00:00:00" />
 		<ItemSpec id="650181" name="110706001" icon="item312121" description="110706005" type="74" lv="1" lv_limit="1" color="4" use="0" decompose="217027;1" time="2020/09/25 00:00:00-2020/10/14 00:00:00" />
 		<ItemSpec id="650182" name="110706003" icon="item312122" description="110706005" type="74" lv="1" lv_limit="1" color="4" use="0" decompose="217027;1" time="2020/09/25 00:00:00-2020/10/14 00:00:00" />
 		<ItemSpec id="650183" name="110706002" icon="item312123" description="110706005" type="74" lv="1" lv_limit="1" color="4" use="0" decompose="217027;1" time="2020/09/25 00:00:00-2020/10/14 00:00:00" />
@@ -5604,6 +5608,7 @@
 		<ItemSpec id="650201" name="111880203" icon="msj_icon_daoju1" description="111880255" type="198" color="4" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
 		<ItemSpec id="650202" name="111880204" icon="msj_icon_daoju5" description="111880256" type="198" color="4" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
 		<ItemSpec id="650203" name="111880202" icon="msj_icon_daoju6" description="111880254" type="198" color="4" decompose="217027;1" time="2025/07/15 00:00:00-2026/01/07 00:00:00" />
+		<ItemSpec id="650204" name="111003030" icon="item215381" description="5600935" type="74" lv="1" lv_limit="1" color="5" use="0" decompose="217027;1" time="2026/01/09 00:00:00-2026/01/12 00:00:00"/>
         <ItemSpec id="700002" name="110558032" icon="item700002" description="110558031" type="162" lv="1" lv_limit="1" color="4" page="4" pages="4" use="0" order_num="777" is_show="1" pack_tab_type="6" />
         <ItemSpec id="700003" name="110558033" icon="item700003" description="110558031" type="162" lv="1" lv_limit="1" color="4" page="4" pages="4" use="0" order_num="777" is_show="1" pack_tab_type="6" />
         <ItemSpec id="700004" name="110558034" icon="item700004" description="110558031" type="162" lv="1" lv_limit="1" color="4" page="4" pages="4" use="0" order_num="777" is_show="1" pack_tab_type="6" />
@@ -6594,6 +6599,7 @@
 <ItemSpec id="220986" type="5" lv_limit="8" useall="1" name="110663872" icon="item220986" description="110663873" type3="1" lv="1" color="4" page="4" pages="4" use="1" order_num="99" para3="193697" para4="800333" para5="220980;1|220981;1|200060;1|210164;50|200056;1|200366;1" pack_tab_type="0" />
 <ItemSpec id="220987" type="5" lv_limit="8" useall="1" name="110663888" icon="item220987" description="110663889" type3="1" lv="1" color="4" page="4" pages="4" use="1" order_num="99" para3="193697" para4="800335" para5="220984;1|200060;1|210164;50|200056;1|200366;1" pack_tab_type="0" />
 <ItemSpec id="220988" type="5" lv_limit="8" useall="1" name="110663895" icon="item220988" description="110663894" type3="1" lv="1" color="4" page="4" pages="4" use="1" order_num="99" para3="193697" para4="104150" para5="220985;1|200060;1|210164;50|200056;1|200366;1" pack_tab_type="0" />
+<ItemSpec id="312502" type="0" lv_limit="1" para1="1" para5="5" name="5601996" icon="item312375" description="5601997" desc_value="1|5" lv="6" para="60" color="4" page="4" pages="4" use="0" order_num="422095" pack_tab_type="6" />
 </Group>
  <Group id="arms">
     <ItemSpec id="107000" name="103500" description="103550" arm="1" arms_type="1" arm_type_new="0" arm_1="1" level="1" icon="ico107000" featuredescription="180000;180001|180002;180003|180004;180005" featureicon="skill_109034;skill_109036;skill_109038" buildId="423000" kind="icon_bubing_1" skill_type2="5;6;7;11" icon_type="1" power="1" uptech="972500" />
@@ -27219,7 +27225,7 @@
     <ItemSpec id="57012" type="12" name="150261" mode="2" order="2" desc="150266" desc_info="150266" story="150271" Advertise_pic="57033_ad1" activity_pic="prison_chuanqi" circulation_show="1" circulation_show_time="40" circulation_order="9" circulation_pic="prison_chuanqi" show_tips="150266" />
     <ItemSpec id="57013" type="13" name="90550062" order="49" desc="150394" desc_info="150394" story="150394" Advertise_pic="57039_ad1" activity_pic="activity_fengshou" refresh="1;190806;FB_lmjbjl1" circulation_show="1" circulation_show_time="40" circulation_order="9" circulation_pic="alliance_chuanqi" show_para="90550062;192022;192023;FB_lianmengjunbei_PIC" show_tips="150394" />
     <!--箱神，最强战区活动标题，以57014为主，统一支持cn.非cn标识图，以及副活动描述-->
-    <ItemSpec id="57014" type="14" name="112141028" act_logo="act_shegndan_logo" mode="1" order="5" desc="150428" desc_info="150428" story="150429" Advertise_pic="57040_ad1" activity_pic="country_chuanqi" show_type="1" show_para="2" />
+    <ItemSpec id="57014" type="14" name="101097" act_logo="act_gift_logo" mode="1" order="5" desc="150428" desc_info="150428" story="150429" Advertise_pic="57040_ad1" activity_pic="country_chuanqi" show_type="1" show_para="2" />
     <ItemSpec id="57015" type="7" name="170421" desc="170422" desc_info="170422" story="170423" tips_desc="170424" tips_pic="51" new_logic="1" Advertise_pic="activity_ad_51" activity_pic="activity_icon_51" order="10" />
     <ItemSpec id="57016" type="7" name="170080" desc="170081" desc_info="170082" story="170083" new_logic="1" order="10" />
     <ItemSpec id="57017" type="15" name="150427" desc="150428" desc_info="150428" story="150429" Advertise_pic="57040_ad1" activity_pic="country_chuanqi" order="1" />
@@ -27516,7 +27522,7 @@
     <ItemSpec id="57258" type="7" name="90823433" mode="1" order="50" desc="90823434" story="90823435" tips_desc="90823435" new_logic="1" Advertise_pic="Picture_duanwujie_1" activity_pic="B_Icon_duanwujie" circulation_pic="Picture_duanwujie_2" />
     <ItemSpec id="57259" type="86" name="90823291" mode="1" order="1" desc="90823293" story="90823293" tips_desc="90823293" Advertise_pic="picture_zhiaiyishegn_1" activity_pic="B_Icon_datihuodong" circulation_pic="UI_daguaidiaoluo_PIC02" />
 	<!--箱神，最强联盟活动标题，统一支持cn.非cn标识图，以及副活动描述-->
-    <ItemSpec id="57300" type="73" name="112141027" act_logo="act_shegndan_logo" mode="1" order="5" desc="110030210" desc_info="110030210" story="110030210" Advertise_pic="57300_ad1" activity_pic="activity_icon_57300" circulation_pic="country_chuanqi" show_type="1" show_para="2" />
+    <ItemSpec id="57300" type="73" name="110030200" act_logo="act_gift_logo" mode="1" order="5" desc="110030210" desc_info="110030210" story="110030210" Advertise_pic="57300_ad1" activity_pic="activity_icon_57300" circulation_pic="country_chuanqi" show_type="1" show_para="2" />
     <ItemSpec id="57400" type="90" name="110031086" mode="2" order="3" desc="81000263" desc_info="81000263" Advertise_pic="activity_ad_69" activity_pic="activity_icon_69" circulation_show="1" circulation_show_time="40" circulation_order="7" circulation_pic="activity_icon_69" show_tips="81000263" />
     <ItemSpec id="57500" type="92" name="90823439" mode="1" order="40" Advertise_pic="picture_lianmenghuoyue" activity_pic="picture_lianmenghuoyue" circulation_pic="picture_lianmenghuoyue2" />
     <ItemSpec id="57600" type="91" name="193867" mode="2" order="100" desc="193867" story="193867" tips_desc="193867" Advertise_pic="activity_icon_57600" activity_pic="activity_icon_57600" circulation_show="1" circulation_show_time="40" circulation_order="0" />
@@ -27718,7 +27724,7 @@
     <!--2025冬日BP-->
    <!--  <ItemSpec id="57722" sub_type="leaderboard_battlepass" type="112" activityid="10" name="5601967" mode="1" order="1" desc="5602015" desc_info="5602015" story="5602015" tips_desc="5602015" Advertise_pic="banner_25dongri" activity_pic="banner_25dongri" circulation_pic="banner_25dongri" bpresource_banner="XR_25dongribp1_bg"  />-->
    <!-- 26元旦 -->
-    <ItemSpec id="57722" sub_type="leaderboard_battlepass" type="112" activityid="10" name="5602328" mode="1" order="1" desc="5601973" desc_info="5601973" story="5601973" tips_desc="5601973" Advertise_pic="banner_26yuandan" activity_pic="banner_26yuandan" circulation_pic="banner_26yuandan" bpresource_banner="XR_26yuandanbp1_bg" />
+    <ItemSpec id="57722" sub_type="leaderboard_battlepass" type="112" activityid="10" name="5601995" mode="1" order="1" desc="5602000" desc_info="5602000" story="5602000" tips_desc="5601973" Advertise_pic="banner_25dongri" activity_pic="banner_25dongri" circulation_pic="banner_25dongri" bpresource_banner="XR_25dongribp1_bg" />
 
  <!--2024-02月10日BP-->
 <!-- <ItemSpec id="57722" sub_type="leaderboard_battlepass" type="112" activityid="10" name="88003810" mode="1" order="1" desc="5602015" desc_info="5602015" story="5602015" tips_desc="5602015" Advertise_pic="banner_diwangbp" activity_pic="banner_diwangbp" circulation_pic="banner_diwangbp" bpresource_banner="XR_diwangbp1_bg"  /> -->
@@ -27833,9 +27839,9 @@
 
 	<!--蛛丝马迹-->
 	<!--202312圣诞-->	
-	<ItemSpec id="57770" type="160" name="110222801" mode="1" order="1" desc="110221619" desc_info="110221619" story="110221619" Advertise_pic="banner_ndhuikui" activity_pic="banner_ndhuikui" tips_desc="110221619" sub_type="sticker_activity" tips_pic="110221619" />
+	<!-- <ItemSpec id="57770" type="160" name="110222801" mode="1" order="1" desc="110221619" desc_info="110221619" story="110221619" Advertise_pic="banner_ndhuikui" activity_pic="banner_ndhuikui" tips_desc="110221619" sub_type="sticker_activity" tips_pic="110221619" /> -->
 	<!--202402春节-->	
-	<!-- <ItemSpec id="57770" type="160" name="110661509" mode="1" order="1" desc="110221619" desc_info="110221619" story="110221619" Advertise_pic="banner_sticker_202402SF" activity_pic="banner_sticker_202402SF" tips_desc="110221619" sub_type="sticker_activity" tips_pic="110221619" /> -->
+	<ItemSpec id="57770" type="160" name="110661509" mode="1" order="1" desc="110221619" desc_info="110221619" story="110221619" Advertise_pic="banner_sticker_202402SF" activity_pic="banner_sticker_202402SF" tips_desc="110221619" sub_type="sticker_activity" tips_pic="110221619" />
     <!-- 2024春日主题 2024spring-->	
   	 <!-- <ItemSpec id="57770" type="160" name="110661652" mode="1" order="1" desc="110221619" desc_info="110221619" story="110221619" Advertise_pic="banne_rsticker_2024spring" activity_pic="banne_rsticker_2024spring" tips_desc="110221619" sub_type="sticker_activity" tips_pic="110221619" />  -->
     <!-- 2025周年庆主题 -->	

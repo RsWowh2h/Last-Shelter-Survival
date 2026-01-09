@@ -48,6 +48,7 @@
 		<ItemSpec id="25121801" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
 		<ItemSpec id="25122501" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
 		<ItemSpec id="26010101" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
+		<ItemSpec id="26010801" spine_icon="Activity_LuckyStar_entrance" first_pool_reward="1|-120|0.4" second_pool_reward="1|-120|0.4" third_pool_reward="1|-120|0.45" pool_detail="1|1|1" popup_spine="221050;1|-80|0.6" popup_small_price="203517;1|200119;1|217250;1|310057;1|310058;1"/>
 
 	</Group>
 </tns:database>

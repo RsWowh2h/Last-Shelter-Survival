@@ -1807,17 +1807,18 @@
 		<ItemSpec id="80538" desc_para="1.2|1.2|5" xilian_id="2081" detail_break_desc="0" detail_break_para="6|6" cleartype="1"/>
 		<ItemSpec id="80539" desc_para="1.6|1.6|7" xilian_id="2081" detail_break_desc="0" detail_break_para="8|8" cleartype="1"/>
 		<ItemSpec id="80540" desc_para="2|2|9" xilian_id="2081" detail_break_desc="0" detail_break_para="10|10" cleartype="1"/>
-		<ItemSpec id="80541" desc_para="8|4" xilian_id="2082" detail_break_desc="0" detail_break_para="3|3"/>
-		<ItemSpec id="80542" desc_para="16|8" xilian_id="2082" detail_break_desc="0" detail_break_para="6|6"/>
-		<ItemSpec id="80543" desc_para="24|12" xilian_id="2082" detail_break_desc="0" detail_break_para="9|9"/>
-		<ItemSpec id="80544" desc_para="32|16" xilian_id="2082" detail_break_desc="0" detail_break_para="12|12"/>
-		<ItemSpec id="80545" desc_para="40|20" xilian_id="2082" detail_break_desc="0" detail_break_para="15|15"/>
+		<ItemSpec id="80541" desc_para="8|4" xilian_id="2082" detail_break_desc="0" detail_break_para="8|4" cleartype="1"/>
+		<ItemSpec id="80542" desc_para="16|8" xilian_id="2082" detail_break_desc="0" detail_break_para="16|8" cleartype="1"/>
+		<ItemSpec id="80543" desc_para="24|12" xilian_id="2082" detail_break_desc="0" detail_break_para="24|12" cleartype="1"/>
+		<ItemSpec id="80544" desc_para="32|16" xilian_id="2082" detail_break_desc="0" detail_break_para="32|16" cleartype="1"/>
+		<ItemSpec id="80545" desc_para="40|20" xilian_id="2082" detail_break_desc="0" detail_break_para="40|20" cleartype="1"/>
 		<ItemSpec id="80546" desc_para="3" xilian_id="2084" detail_break_desc="0" detail_break_para="3|3"/>
 		<ItemSpec id="80547" desc_para="6" xilian_id="2084" detail_break_desc="0" detail_break_para="6|6"/>
 		<ItemSpec id="80548" desc_para="9" xilian_id="2084" detail_break_desc="0" detail_break_para="9|9"/>
 		<ItemSpec id="80549" desc_para="12" xilian_id="2084" detail_break_desc="0" detail_break_para="12|12"/>
 		<ItemSpec id="80550" desc_para="15" xilian_id="2084" detail_break_desc="0" detail_break_para="15|15"/>
 		<ItemSpec id="80551" desc="110470130" desc_para="2|2|9" type="5" power="0" cost="210164;20|210164;30|210164;45|210164;60|210164;90|210164;130|210164;200|210164;270|210164;400" max_level="10" detail_break_desc="110470082" detail_break_para="10|10"/>
+		<ItemSpec id="80552" desc="110470127" desc_para="10|30" type="5" power="0" cost="210164;20|210164;30|210164;45|210164;60|210164;90|210164;130|210164;200|210164;270|210164;400" max_level="10" detail_break_desc="110470082" detail_break_para="10|30"/>
 		<ItemSpec id="90001" state="1" name="11830001" desc="11840001" desc_para="status_effect;910001;3010|status_effect;910001;3030|status_effect;910001;909" icon="FB_IC_equip01_SKILL" type="3" skill="900001" power="5000|10000|15000|20000|25000" max_level="5" source_type="1"/>
 		<ItemSpec id="90002" state="1" name="11830002" desc="11840002" desc_para="status_effect;910002;913|status_effect;910002;909" troop="1" icon="FB_IC_equip02_SKILL" type="3" skill="900002" power="5000|10000|15000|20000|25000" max_level="5" source_type="1"/>
 		<ItemSpec id="90003" state="1" name="11830003" desc="11840003" desc_para="status_effect;910003;3050|status_effect;910003;909" troop="3" icon="FB_IC_equip03_SKILL" type="3" skill="900003" power="5000|10000|15000|20000|25000" max_level="5" source_type="1"/>

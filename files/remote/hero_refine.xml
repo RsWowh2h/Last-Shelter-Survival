@@ -112,7 +112,7 @@
 		<ItemSpec id="2079" type="1" arms="0" skill_id="80526;80527;80528;80529;80530" refine_score="400,1200,2000,2800,4000" name="110470114" desc="110470124" icon="xilian_2079" open="1" rate_refine_wish="1"/>
 		<ItemSpec id="2080" type="1" arms="0" skill_id="80531;80532;80533;80534;80535" refine_score="400,1200,2000,2800,4000" name="110470115" desc="110470125" icon="xilian_2080" open="1" rate_refine_wish="1"/>
 		<ItemSpec id="2081" type="1" arms="0" skill_id="80536;80537;80538;80539;80540" refine_score="400,1200,2000,2800,4000" name="110470116" desc="110470126" icon="xilian_2081" open="1" rate_refine_wish="1" new_show="1"/>
-		<ItemSpec id="2082" type="1" arms="0" skill_id="80546;80547;80548;80549;80550" refine_score="400,1200,2000,2800,4000" name="110470118" desc="110470128" icon="xilian_2083" open="1" rate_refine_wish="1"/>
+		<ItemSpec id="2082" type="1" arms="0" skill_id="80541;80542;80543;80544;80545" refine_score="400,1200,2000,2800,4000" name="110470117" desc="110470127" icon="xilian_2082" open="1" rate_refine_wish="1" new_show="1"/>
 		<ItemSpec id="2083" type="1" arms="0" skill_id="80546;80547;80548;80549;80550" refine_score="400,1200,2000,2800,4000" name="110470118" desc="110470128" icon="xilian_2083" open="1" rate_refine_wish="1"/>
   </Group >
 
